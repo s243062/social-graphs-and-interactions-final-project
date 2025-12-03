@@ -1,0 +1,51 @@
+{{Short description|Somali cuisine}}
+{{Infobox prepared food
+| name             = Bariis iskukaris
+| image            = Somalicamelmeat.jpg
+| caption          = Bariis with [[camel meat]]
+| alternate_name   = 
+| country          = [[Somalia]]
+| region           = [[East Africa]]
+| creator          = 
+| course           = [[lunch]] or [[dinner]]
+| type             = 
+| served           = 
+| main_ingredient  = [[rice]] and [[meat]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+{{Culture of Somalia}}
+'''Bariis iskukaris''', also called '''isku-dheh karis''', is a traditional rice dish from [[Somali cuisine]] that is customarily cooked in a single pan or where the tenderization of both rice and stew occurs at some point in a single pan.<ref name="Moju 2018">{{cite web | last=Moju | first=Kiano | title=Somali Bariis By Amal Dalmar Recipe by Tasty | website=tasty.co | date=2018-06-01 | url=https://tasty.co/recipe/somali-bariis-as-made-by-amal-dalmar | access-date=2019-03-27}}</ref><ref name="Xawaash.com 2013">{{cite web | title=Somali Rice Pilaf (Bariis Maraq) Riz Pilaf Somali البيلاف الصومالي | website=Xawaash.com | date=2013-01-14 | url=http://xawaash.com/?p=5892 | language=la | access-date=2019-03-27}}</ref> The name ''isku-dheh karis'' literally means "cooked mixed together"; therefore, it is sometimes used to refer broadly to other grain-derived crops that require similar cooking. The more specific term for this dish is this ''bariis isku-dheh karis'', which means "rice (bariis) cooked mixed together".<ref>{{cite book|last1=Jacob|first1=Jeanne|title=The World Cookbook for Students|date=2006|page=xv}}</ref>
+
+==Process==
+Because the different ingredients require different cooking times to make the ingredients tender or cooked, iskukaris is one of the more difficult rice dishes to cook. Since meat requires the longest cooking time, meat is usually the first ingredient to be placed in a iskukaris pan, followed by longer tenderizing vegetables such as potatoes, and then short-cooking vegetables are usually added at the same time as the rice. The addition of the rice is usually the trickiest part as it requires an experienced chef to ensure the surface rice cooks evenly with the middle-layered rice; this requires perfect timing.<ref name="gherlone">Gherlone, Laura. "A escrita feminina entre a fronteira e o não lugar: discursos femininos em ascensão na Literatura Italiana de Migração/Women’s Writing Between the Border and the Non-Place: The Emerging Female Discourses in Italian Migrant Literature."</ref>
+
+Bariis iskukaris is made from [[basmati]] rice, and is typically topped with raisins, peas, and fried potatoes, onions and peppers, and served with roasted lamb, beef, goat, camel, or chicken. It is a national dish of Somalia and is especially popular at weddings and is a staple dish which is almost universally served as part of a Somali daily meal.  It is almost always accompanied with a roasted meat dish, the most common being lamb or goat meat, and served with fresh bananas.<ref name="The Spruce Eats">{{cite web | title=Check out this recipe for Spiced Somali Rice, also Known as Bariis Iskukaris | website=The Spruce Eats | url=https://www.thespruceeats.com/bariis-iskukaris-spiced-somali-rice-39499 | access-date=2019-03-27}}</ref>
+
+==Spices==
+The dish incorporates a spice mixture called ''xawaash'' which literally translates as "spices" in the Somali language and which is made from a mixture of ground cumin, turmeric, coriander, paprika, cardamon, black pepper, cloves, cinnamon and nutmeg.  Either [[saffron]] or orange or red food coloring are added to the dish after the rice has finished cooking to give the dish an orange color.<ref name="Xawaash.com 2011">{{cite web | title=Xawaash (Somali Spice Mix) Mélange d'épices Somali حوائج – بهارات صومالية | website=Xawaash.com | date=2011-08-07 | url=http://xawaash.com/?p=12 | language=la | access-date=2019-03-27}}</ref>
+
+==History and culture==
+Bariis iskukaris can be served with various meats including chicken, mutton, fish or camel meat. It is typically served with a banana on the side. This rice dish is often served from a clay pot called ''baris dhari'', which serves to impart flavor from food cooked in metal pots.<ref>Culture and Customs of Somalia Culture and Customs of Somalia - Page 112, Mohamed Diriye Abdullahi</ref>
+Bariis and meat dishes served with it are considered [[halal]] and as such are suitable for consumption by Muslims. <ref name="YouTube 2018">{{cite web | title=YouTube | website=YouTube | date=2018-04-12 | url=https://www.youtube.com/watch?v=LBVmextsy1E | access-date=2019-03-27}}</ref>
+
+== Gallery ==
+<gallery mode="packed" heights=" 100px" caption="Somali bariis dishes">
+File:Somalicamelmeat.jpg|Bariis iskukaris with [[camel meat]]
+File:Djiboutian rice (bariis) and fish (kalluun), Liver (beerka) with vegetable also (Sabaayad) pancakes.jpg|Bariis iskukaris with fish, liver and vegetables
+File:SOMALI FAVORITE MAIN FOOD.jpg|Bariis iskukaris with chicken
+</gallery>
+
+==References==
+{{Reflist|30em}}
+
+[[Category:Djiboutian cuisine]]
+[[Category:Rice dishes]]
+[[Category:Somali cuisine]]
+[[Category:Somali inventions]]
+[[Category:National dishes]]
+
+{{somalia-stub}}
+{{africa-cuisine-stub}}

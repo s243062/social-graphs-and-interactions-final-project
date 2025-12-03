@@ -1,0 +1,44 @@
+{{Short description|Flemish meat and vegetable dish}}
+{{Use dmy dates|date=October 2021}}
+{{Infobox food
+| name = Flemish beef stew
+| image = Jielbeaumadier carbonade flamande 2010.jpg
+| image_size = 250px
+| caption = Carbonade, served with [[fries]]
+| alternate_name = 
+| country = {{flag|Belgium}}
+| region = 
+| creator = 
+| course = 
+| type = [[Stew]]
+| served = 
+| main_ingredient = [[Beef]] or [[pork]], [[onion]]s, [[beer]], [[thyme]], [[Bay leaf|bay]]
+| variations = 
+| calories = 
+| other = 
+}}
+
+'''Flemish stew''',<ref>{{Cite web |title=Stoofvlees (Flemish beef stew) |url=https://www.bbcgoodfood.com/user/4862541/recipe/stoofvlees-flemish-beef-stew |access-date=2023-12-31 |website=BBC Good Food |language=en}}</ref> known in [[Dutch language|Dutch]] as '''stoofvlees''' ({{IPA|nl|ˈstoːfleːs|pron|Nl-stoofvlees.ogg}}) or '''stoverij''' and in [[French language|French]] as '''carbon'''('''n''')'''ade flamande''',<ref>The spelling with one ''n'' is somewhat more common (55%) in French; with two ''n''s is more common in English (60%) [https://books.google.com/ngrams/graph?content=%28carbonade%2F%28carbonade%2Bcarbonnade%29%29%3Afre_2019%2C%28carbonade%2F%28carbonade%2Bcarbonnade%29%29%3Aeng_2019&year_start=1800&year_end=2008&case_insensitive=on&corpus=26&smoothing=10&direct_url=t1%3B%2C%28%28carbonade%20/%20%28carbonade%20%2B%20carbonnade%29%29%3Afre_2019%29%3B%2Cc0%3B.t1%3B%2C%28%28carbonade%20/%20%28carbonade%20%2B%20carbonnade%29%29%3Aeng_2019%29%3B%2Cc0#t1%3B%2C((carbonade%20%2F%20(carbonade%20%2B%20carbonnade))%3Afre_2019)%3B%2Cc0%3B.t1%3B%2C((carbonade%20%2F%20(carbonade%20%2B%20carbonnade))%3Aeng_2019)%3B%2Cc0 Google Ngrams]</ref><ref name="PrincipaGastro-CF">[http://principiagastronomica.com/post/21 Principia Gastronomica – Carbonnade Flamande] (accessed 22 June 2008)</ref> is a [[Belgian cuisine|Flemish]]<!--should link to a new article on Flemish cuisine, but links to redirects show as redlinks--> [[beef]] (or [[pork]]) and [[onion]] [[stew]] popular in [[Belgium]], the Netherlands, [[Aosta Valley]] (Italy) and [[French Flanders]]. It is made with [[beer]] and [[Mustard (condiment)|mustard]] spread on bread; seasoning can include [[bay leaf]], [[thyme]], [[clove]], and [[Juniper berry|juniper berries]]. In the East and West Flanders provinces, often dried [[prunes]] will be added while stewing.
+
+In French, a ''carbon''(''n'')''ade'' may also be a dish of grilled horse [[loin]] and certain beef [[stews]] cooked with red wine, such as [[beef bourguignon]] in the east of France.<ref>Larousse Gastronomique 2001, {{ISBN|978-0-600-60235-4}}</ref> but in English, ''carbonnade'' refers to the Belgian dish. The term Flemish stew, being a generic term, is sometimes used to refer to other Flemish dishes such as ''[[waterzooi]]'' or ''[[hochepot]]'', in Dutch, the latter is called ''[[hutsepot]]''.<ref>Walter Hoving, ''Cranky's Bouillabaisse Cookbook & Kitchen Helper'', 2008, {{isbn|0595496636}}, p. 5</ref><ref>Martin Dunford, Phil Lee, ''The Rough Guide to Belgium & Luxembourg'', 2008 {{isbn|0756646847}}, p. 379</ref> ''Hutsepot'' refers to mixing (''husselen'') ingredients instead of mashing the ingredients into a ''[[stamppot]]'' (in Flemish ''[[stoemp]]'').
+
+As a staple of Belgian cuisine, recipes vary between regions and households. Variations include swapping bread for [[gingerbread]] or [[speculaas]],<ref name="libelle">{{in lang|nl}} [https://www.libelle-lekker.be/bekijk-recept/74048/stoverij-met-speculaas-1 Libelle - Stoverij met speculaas] (accessed 4 February 2023)</ref> using extra condiments like [[Sirop de Liège]],<ref name="okoko">{{in lang|nl}} [https://www.okokorecepten.nl/recept/vlees/runderstoofpot/luikse-runderstoof Okoko Recepten - Luikse runderstoof] (accessed 4 February 2023)</ref> and using different kinds of beer. Common beers for this dish include [[Oud bruin|Oud Bruin]] (Old Brown Beer), Brune [[Abbey beer|Abbey Beer]] and [[Flanders red ale|Flanders Red]].<ref name="Waerebeek-Book">''Van Waerebeek, R.'', Everybody Eats Well in Belgium Cookbook (1996), {{ISBN|1-56305-411-6}}.</ref> Just before serving, a small amount of cider or wine [[vinegar]] and either [[brown sugar]] or [[Ribes rubrum|red currant]] jelly are sometimes added.<ref name="Waerebeek-Book"/><ref name="canalblog">{{in lang|fr}} [http://kikitoul.canalblog.com/archives/2006/06/23/2156664.html Canalblog-Recipe Carbonade Flamande] (accessed 22 June 2008)</ref>
+
+Carbonade is often accompanied by [[French fries]], boiled potatoes, or [[stoemp]].<ref name="Waerebeek-Book"/><ref name="bbc-Food-Recipes">[https://www.bbc.co.uk/food/recipes/database/lescarbonadesflamand_85456.shtml BBC Recipe Database – Carbonnade Flamande] {{Webarchive|url=https://web.archive.org/web/20080308114100/http://www.bbc.co.uk/food/recipes/database/lescarbonadesflamand_85456.shtml |date=8 March 2008 }} (accessed 22 June 2008)</ref> It is widely available in [[restaurant]]s and [[friterie]]s in Belgium and the Netherlands.
+
+==See also==
+* [[List of stews]]
+* {{portal-inline|Food}}
+* [[Beef bourguignon]]
+* [[Coq au vin]]
+* [[Belgian cuisine]]
+* [[Beef stew]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Carbonade Flamande}}
+[[Category:Belgian stews]]
+[[Category:French stews]]
+[[Category:Beer dishes]]
+[[Category:Dutch cuisine]]

@@ -1,0 +1,87 @@
+{{short description|Hamburger topped with cheese}}
+{{Other uses}}
+{{pp-move-indef}}
+{{pp-semi-indef|small=yes}}
+{{Use mdy dates|date=October 2017}}
+{{Infobox food
+|name             = Cheeseburger
+|caption          = Cheeseburger with [[lettuce]] and a slice of [[American cheese]]
+|image            = Cheeseburger.jpg
+|image_size       = 
+|country          = United States
+|creator          =
+|course           = [[Main course]]
+|served           = Hot
+|main_ingredient  = [[Patty|Ground beef patty]], [[cheese]], [[bun]]
+|calories         = <!-- too variable to include -->
+}}
+A '''cheeseburger''' is a [[hamburger]] with one or more slices of melted [[cheese]] on top of the meat [[patty]], added near the end of the cooking time. Cheeseburgers can include variations in structure, ingredients and composition. As with other hamburgers, a cheeseburger may include various condiments and other toppings such as [[lettuce]], [[tomato]] and [[ketchup]].
+
+In [[fast food restaurant]]s across the United States, [[processed cheese]] is usually used, although other meltable cheeses are used, such as [[Cheddar cheese|cheddar]], [[Swiss cheese (North America)|Swiss]], [[Mozzarella cheese|mozzarella]], [[blue cheese]], or [[pepper jack cheese|pepper jack]]. Virtually all restaurants that sell hamburgers also offer cheeseburgers.
+
+==Origins==
+By the late 19th century, the vast grasslands of the [[Great Plains]] had been opened up for cattle ranching. This made it possible for many Americans to consume beef almost daily. The hamburger remains as one of the cheapest forms of beef in America.<ref>{{Cite book|title=The Hamburger: The History|last=Ozersky|first=Josh|publisher=Yale University Press|year=2008|isbn=9780300117585|location=New Haven Conn.|pages=[https://archive.org/details/hamburgerhistory0000ozer/page/12 12, 14]|url=https://archive.org/details/hamburgerhistory0000ozer/page/12}}</ref>
+
+Adding cheese to hamburgers became popular in the 1920s. There are several competing claims as to who created the first cheeseburger. Lionel Sternberger is reputed to have introduced the cheeseburger in 1924 at the age of 16. He was working as a fry cook at his father's [[Pasadena, California]], sandwich shop, "The Rite Spot", and "experimentally dropped a slab of American cheese on a sizzling hamburger."<ref>{{Cite web | url=https://www.pasadena-chamber.org/blog/plaque-commemorating-invention-cheeseburger-pasadena-dedicated-la-financial-credit-union | title=Plaque commemorating invention of the cheeseburger in Pasadena dedicated at LA Financial Credit Union | website=Pasadena Chamber of Commerce }}</ref><ref>{{cite news |url=https://www.latimes.com/local/la-xpm-2012-jan-16-la-me-burger-claim-20120116-story.html |title=Pasadena claims its slice of burger history |last=Piasecki |first=Joe |date=January 16, 2012 |newspaper=[[Los Angeles Times]] |access-date=October 15, 2017 |issn=0458-3035}}</ref><ref>{{cite news |first=Steve |last=Harvey |title=Only in L.A. |newspaper=[[Los Angeles Times]] |page=B2 |date=March 27, 1991 |quote=Cooking at his father's short-order joint in Pasadena in the early 1920s, [Sternberger] experimentally tossed a slice (variety unknown) on a hamburger... |url=https://www.latimes.com/archives/la-xpm-1991-03-27-me-812-story.html}}</ref><ref>{{cite news |first=Charles |last=Perry |title=It's an L.A. Thing; Our burgers are the best with good reason: We made them here first |newspaper=[[Los Angeles Times]] |page=F1 |url=http://articles.latimes.com/2004/jun/09/food/fo-hamburger9/2 |date=June 9, 2004 |access-date=May 13, 2012 |archive-date=October 25, 2012 |archive-url=https://web.archive.org/web/20121025200223/http://articles.latimes.com/2004/jun/09/food/fo-hamburger9/2 |url-status=dead }}</ref><ref>{{cite news |date=January 13, 2012 |title=Yes, it was invented in Pasadena! Probably. Tracing the cheeseburger from inception to Bob's Big Boy |newspaper=[[Pasadena Sun]] |url=http://articles.pasadenasun.com/2012-01-13/entertainment/30625308_1_bob-s-big-boy-pasadena-museum-menu |access-date=May 13, 2012 |first=Joe |last=Piasecki |archive-date=January 29, 2012 |archive-url=https://web.archive.org/web/20120129180714/http://articles.pasadenasun.com/2012-01-13/entertainment/30625308_1_bob-s-big-boy-pasadena-museum-menu |url-status=dead }}</ref><ref>{{cite news |date=June 23, 1999 |title=The Tale of the Cheeseburger |newspaper=[[San Gabriel Valley Tribune]] |url=http://www.culturefreak.com/tale.html |archive-url=https://web.archive.org/web/20030412174753/http://www.culturefreak.com/tale.html |url-status=dead |archive-date=April 12, 2003 |access-date=May 13, 2012 |first=Evan |last=Henerson}}</ref>
+An early example of the cheeseburger appearing on a menu is a 1928 menu for the Los Angeles restaurant O'Dell's, which listed a cheeseburger smothered with chili for 25 cents,<ref>{{cite news |date=January 15, 2004 |title=Old Menus Tell the History of Hamburgers in L.A. |newspaper=[[Metropolitan News-Enterprise]] |url=http://www.metnews.com/articles/2004/reminiscing011504.htm |access-date=May 13, 2012 |first=Roger M. |last=Grace}}</ref><ref name=kcet-2013sep18>{{cite news |url=http://www.kcet.org/living/food/the-nosh/were-cheeseburgers-invented-in-pasadena.html |title=Were Cheeseburgers Invented in Pasadena? |website=[[KCET]] |date=September 18, 2013 |first=Katherine |last=Spiers |access-date=December 8, 2014}}</ref><ref name="lapl">{{cite web |url=http://dbase1.lapl.org/dbtw-wpd/exec/dbtwpub.dll?AC=GET_RECORD&XC=http://dbase1.lapl.org/dbtw-wpd/exec/dbtwpub.dll&BU=http%3A%2F%2Fdbase1.lapl.org&GI=&TN=menus&SN=AUTO5261&SE=724&RN=0&MR=20&TR=0&TX=1000&ES=0&XP=&RF=web+tab+report+maya&EF=&DF=Pin&RL=0&EL=0&DL=0&NP=3&ID=&MF=&DT=&ST=0&IR=264&NR=0&NB=0&SV=0&SS=0&BG=&FG=&QS= |title=O'Dell's menu |date=1928 |work=Menu Collection |publisher=[[Los Angeles Public Library]] |access-date=October 28, 2017 |archive-url=https://web.archive.org/web/20171028222955/http://dbase1.lapl.org/dbtw-wpd/exec/dbtwpub.dll?AC=GET_RECORD&XC=http%3A%2F%2Fdbase1.lapl.org%2Fdbtw-wpd%2Fexec%2Fdbtwpub.dll&BU=http%3A%2F%2Fdbase1.lapl.org&GI=&TN=menus&SN=AUTO5261&SE=724&RN=0&MR=20&TR=0&TX=1000&ES=0&XP=&RF=web+tab+report+maya&EF=&DF=Pin&RL=0&EL=0&DL=0&NP=3&ID=&MF=&DT=&ST=0&IR=264&NR=0&NB=0&SV=0&SS=0&BG=&FG=&QS= |archive-date=October 28, 2017 |url-status=live |df=mdy-all }}</ref> or about 4.7 dollars in 2025 after inflation.{{Citation needed|date=September 2025}}
+
+Other restaurants also claim to have invented the cheeseburger. For example,  Kaelin's Restaurant in [[Louisville, Kentucky]], said it invented the cheeseburger in 1934.<ref>{{cite web |url=http://www.louisvilleky.gov/Visitors/Louisville+Facts+and+Firsts.htm |title=Louisville Facts & Firsts - LouisvilleKy.gov|access-date=July 29, 2006 |publisher=City of Louisville, Kentucky |author=<!--Staff writer(s); no by-line.--> |archive-url=https://web.archive.org/web/20141006110825/http://www.louisvilleky.gov/Visitors/Louisville%2BFacts%2Band%2BFirsts.htm |archive-date=October 6, 2014 |url-status=dead}}</ref> One year later, a [[trademark]] for the name "cheeseburger" was awarded to Louis Ballast of the Humpty Dumpty Drive-In in [[Denver, Colorado]].<ref>{{cite web |url=http://www.cheese-burger.net/history |title=History of the Cheeseburger |access-date=October 2, 2008 |website=Cheese-Burger.net (blog) |author=<!--Staff writer(s); no by-line.--> |archive-url=https://web.archive.org/web/20180802034111/http://www.cheese-burger.net/history |archive-date=August 2, 2018 |url-status=dead }}</ref> According to [[Steak N Shake|Steak 'n Shake]] archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.<ref>{{cite web |url=http://www.pantagraph.com/blogs/flick/facts/flick-fact-monday/article_0c2bccea-58c6-11e1-abe1-001871e3ce6c.html |archive-url=https://archive.today/20120911232907/http://www.pantagraph.com/blogs/flick/facts/flick-fact-monday/article_0c2bccea-58c6-11e1-abe1-001871e3ce6c.html |url-status=dead |archive-date=September 11, 2012 |title=Flick Fact 2/20/2012 Monday |access-date=February 21, 2012 |first=Bill |last=Flick |newspaper=[[Bloomington Pantagraph]] |date=February 20, 2012}}</ref><ref>{{cite web |url=http://wjbc.com/our-top-5-list-of-little-known-facts-about-bloomington-normal/ |title=Our 'Top 5 List' of little-known facts about Bloomington-Normal |access-date=February 21, 2012 |archive-url=https://web.archive.org/web/20111202194437/http://wjbc.com/our-top-5-list-of-little-known-facts-about-bloomington-normal/ |archive-date=December 2, 2011 |author=<!--Staff writer(s); no by-line.--> |date=July 29, 2011 |work=[[WJBC-FM]]}}</ref><ref>{{cite web |url=https://ecf.moed.uscourts.gov/documents/opinions/STEAK_N_SHAKE_ET_AL_V_BURGER_KING_ET_AL-CDP-57.PDF |title=Steak 'n Shake vs Burger King, Memorandum and Order |access-date=February 21, 2012 |publisher=United States District Court Eastern District Missouri Eastern Division |date=July 7, 2004 |last=Perry |first=Catherine D. |author-link=Catherine D. Perry |url-status=dead |archive-url=https://web.archive.org/web/20130928003530/https://ecf.moed.uscourts.gov/documents/opinions/STEAK_N_SHAKE_ET_AL_V_BURGER_KING_ET_AL-CDP-57.PDF |archive-date=September 28, 2013}} [https://web.archive.org/web/20141015155606/https://casetext.com/case/steak-n-shake-company-v-burger-king-corporation (7 July 2004) 323 F. Supp.2d 983 (E.D. Mo. 2004)]</ref>
+
+Dale Mulder, the owner of an [[A&W Restaurants]] franchise in [[Lansing, Michigan]], has been credited with inventing the bacon cheeseburger in 1963, putting it on the menu after repeated requests from the same customer.<ref>{{cite news|last1=Jason|first1=Jason|title=14 Things You Didn't Know About A&W Restaurants|url=https://www.thrillist.com/eat/nation/the-history-of-aw-restaurants-aw-root-beer|access-date=September 9, 2016|work=Thrillist|date=June 22, 2015}}</ref> This was highlighted in a 2014 ad campaign for the chain featuring Mulder, who had since become the president of the A&W chain.<ref>[https://adage.com/creativity/work/aw-presents-history-bacon-cheeseburger/36156 "You'll Never Guess Who Invented the Bacon Cheeseburger"], ''[[Ad Age]]'', June 23, 2014, Web.</ref> However, there are earlier examples of a restaurant selling bacon cheeseburgers, including a menu for a [[Harrisburg, Pennsylvania]] restaurant from 1941.<ref>[https://www.newspapers.com/article/the-evening-news/159195560/ "NEW—DIFFERENT; Announcing Opening of Hitchin' Post Restaurant"], ''[[Harrisburg Evening News]]'', January 3, 1941, page eight. Retrieved November 16, 2024 via [[Newspapers.com]].</ref>
+
+The [[steamed cheeseburger]], a variation almost exclusively served in central [[Connecticut]], is believed to have been invented at a restaurant called Jack's Lunch in Middletown, Connecticut, in the 1930s.<ref>{{cite book|author=George Motz|title=Hamburger America: Completely Revised and Updated Edition: A State-by-State Guide to 150 Great Burger Joints|url=https://books.google.com/books?id=5-cSGkAv_L4C&pg=PT70|date=10 May 2011|publisher=Running Press|isbn=978-0-7624-4234-8|page=70}}</ref>
+
+The largest cheeseburger ever made weighed {{convert|2014|lbs}}. It is said to have included "{{convert|60|lbs}} of bacon, {{convert|50|lbs}} of lettuce, {{convert|50|lbs}} of sliced onions, {{convert|40|lbs}} of pickles, and {{convert|40|lbs}} of cheese." This record was set in 2012 by Minnesota's Black Bear Casino, smashing the previous record of {{convert|881|lbs}}.<ref>{{cite web |url=http://www.eater.com/2012/9/4/6549153/worlds-biggest-cheeseburger-clocks-in-at-2014-pounds |title=World's Biggest Cheeseburger Clocks in at 2,014 Pounds |date=September 4, 2012 |work=[[Eater LA|Eater]] |access-date=March 2, 2017 |first=Gabe |last=Ulla}}</ref>
+
+In the United States, National Cheeseburger Day is celebrated annually on September 18.<ref>{{cite web | title=Free cheeseburgers! Where to find the meal deals for National Cheeseburger Day Tuesday | website=USA Today | last=Tyko | first=Kelly | date=September 18, 2018 | url=https://www.usatoday.com/story/money/nation-now/2018/09/18/national-cheeseburger-day-2018-get-free-food-and-discounts-tuesday/1275508002/ | access-date=February 25, 2019}}</ref>
+
+==Ingredients==
+[[File:At Dot's Diner - Alpine Burger.jpg|thumb|Some cheeseburger ingredients]]
+The ingredients used to create cheeseburgers follow similar patterns found in the regional variations of hamburgers, although most start with ground beef.  Common cheeses used for topping are [[American cheese|American]], [[Swiss cheese (North America)|Swiss]], [[Cheddar cheese|Cheddar]] and other meltable cheeses. Popular toppings include [[lettuce]], [[tomato]], [[onion]], [[pickled cucumber|pickles]], [[bacon]], [[avocado]] or [[guacamole]], sliced [[Sautéing|sautéed]] [[Edible mushroom|mushrooms]], cheese sauce or [[Chili con carne|chili]], but the variety of possible toppings is broad.
+
+A cheeseburger may have more than one [[patty]] or more than one slice of cheese—it is reasonably common, but by no means automatic, for the number to increase at the same rate with cheese and meat interleaved. A stack of two or more patties follows the same basic pattern as hamburgers: with two patties will be called a double cheeseburger; a triple cheeseburger has three, and while much less common, a quadruple has four.<ref>{{cite news |title=In-N-Out Burgers: With an emphasis on quality, this fast feeder shows its rare appeal. (Regional Powerhouse Chains) |date=January 28, 2002 |newspaper=[[Nation's Restaurant News]] |last=Tice |first=Carol |url=http://business.highbeam.com/409700/article-1G1-82334282/nout-burgers-emphasis-quality-fast-feeder-shows-its |archive-url=https://web.archive.org/web/20141207152522/http://business.highbeam.com/409700/article-1G1-82334282/nout-burgers-emphasis-quality-fast-feeder-shows-its |url-status=dead |archive-date=December 7, 2014 }}</ref><ref>{{cite web |url=https://www.tcu360.com/story/society-s-fast-food-intake-reeks-12290873/ |access-date=February 13, 2010 |last=Hall |first=David |title=Society's fast food intake reeks |date=October 24, 2006 |newspaper=Daily Skiff |publisher=Texas Christian University School of Journalism}}</ref>  
+
+Sometimes cheeseburgers are prepared with the cheese enclosed within the ground beef, rather than on top. This is sometimes known as a [[Jucy Lucy]].<ref name=mndaily>{{cite news |last1=Flower |first1=Justin |last2=Boller |first2=Jay |title=Burger Battle |url=http://www.mndaily.com/2008/03/13/burger-battle |work=[[Minnesota Daily]] |date=13 March 2008 |access-date=October 31, 2017 |archive-url=https://web.archive.org/web/20090710175218/http://www.mndaily.com/2008/03/13/burger-battle |archive-date=July 10, 2009 |url-status=dead }}</ref>
+
+Other toppings and condiments may include lettuce, tomato, [[onion]], [[pickled cucumber|pickles]], [[bacon]], [[avocado]], [[mushrooms]], [[mayonnaise]], ketchup, and [[mustard (condiment)|mustard]].
+
+==Gallery==
+<gallery class="center" widths="207" heights="145">
+File:Burger King Quad Stacker cheeseburger.jpg|A [[Burger King]] "Quad Stacker" cheeseburger, containing four patties and bacon
+File:Cheeseburger - BrewDog Camden, Camden Town, London.jpg|A cheeseburger at a restaurant in Camden Town, London
+File:McDonalds Big Mac hamburger cheeseburger.jpg|A half-eaten McDonald's [[Big Mac]], showing the contents of the burger
+</gallery>
+
+==See also==
+{{portal|border=no|Food}}
+{{div col|colwidth=30em}}
+* [[Hamburger]]
+* [[Cheeseburger bill]]
+* [[Cheeseburger in Paradise (disambiguation)]]
+* [[I Can Has Cheezburger?]]
+* [[List of hamburgers]]
+* [[List of hamburger restaurants]]
+* [[List of sandwiches]]
+* [[Patty melt]]
+* [[Slider (sandwich)|Slider]]
+*[[Types of Burgers]]
+* [[Steamed cheeseburger]]
+{{div col end}}
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+{{Commons category|Cheeseburgers}}
+*{{cite web |url=http://www.culturefreak.com/tale.html |archive-url=https://web.archive.org/web/20030412174753/http://www.culturefreak.com/tale.html |url-status=dead |archive-date=April 12, 2003 |title=The Tale of the Cheeseburger |first=Evan |last=Henerson |work=[[San Gabriel Valley Tribune]] |date=June 23, 1999}}
+*{{cite web | last=Nosowitz | first=Dan | title=The Price of Cheeseburgers Has Gone Up | website=[[Modern Farmer (magazine)|Modern Farmer]] | date=July 6, 2018 | url=https://modernfarmer.com/2018/07/the-price-of-cheeseburgers-has-gone-up/ | access-date=February 25, 2019}}
+*{{cite web | last=Gilad | first=Elon | title=Can Jews eat cheeseburgers after all? | website=[[Haaretz]] | date=August 16, 2018 | url=https://www.haaretz.com/archaeology/.premium.MAGAZINE-can-jews-eat-cheeseburgers-after-all-1.6385393 | access-date=February 25, 2019}}
+
+{{Burgers}}
+
+[[Category:American sandwiches]]
+[[Category:Hamburgers (food)]]
+[[Category:Cheese sandwiches]]
+[[Category:Fast food]]
+[[Category:Cheese dishes]]
+[[Category:Cuisine of California]]

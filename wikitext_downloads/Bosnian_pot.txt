@@ -1,0 +1,43 @@
+{{short description|Bosnian stew}}
+{{Infobox prepared food
+| name             = Bosnian pot
+| image            = Bosanskilonac.jpg
+| image_size       = 250px
+| caption          = 
+| alternate_name   = 
+| country          = [[Bosnia and Herzegovina]]
+| region           = [[Balkans]]
+| creator          = 
+| course           = 
+| type             = [[Stew]]
+| served           = 
+| main_ingredient  = [[Meat]] ([[beef]], [[Lamb and mutton|lamb]]), [[vegetable]]s ([[cabbage]], [[potato]]es, [[tomato]]es, [[carrot]]s), [[parsley]], [[garlic]], [[black pepper|peppercorns]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Bosnian pot''' ('''''Bosanski lonac''''') is a [[Bosnians|Bosnia]]n stew,<ref>{{cite book | last=Albala | first=K. | title=Food Cultures of the World Encyclopedia | publisher=Greenwood | issue=v. 1 | year=2011 | isbn=978-0-313-37626-9 | url=https://books.google.com/books?id=NTo6c_PJWRgC&pg=RA3-PA53 | accessdate=January 9, 2017 | page=53}}</ref><ref>{{cite book | last=Wright | first=C. | title=The Best Stews in the World: 300 Satisfying One-Dish Dinners, from Chilis and Gumbos to Curries and Cassoulet | publisher=Harvard Common Press | year=2012 | isbn=978-1-55832-747-4 | url=https://books.google.com/books?id=77CvEgNk4xoC&pg=PA360 | accessdate=January 9, 2017 | page=360}}</ref> a culinary speciality,<ref name="IBP-1">{{cite book | title=Bosnia and Herzegovina Doing Business for Everyone Guide - Practical Information and Contacts | publisher=International Business Publications USA | year=2012 | isbn=978-1-4387-7171-7 | url=https://books.google.com/books?id=D6KiBQAAQBAJ&pg=PA221 | accessdate=January 9, 2017 | page=221}}</ref> appreciated for its rich taste and flexibility. Recipes for Bosanski lonac vary greatly according to personal and regional preference, but the main ingredients generally include chunked meat and vegetables.<ref>{{cite book | last=Dale | first=R. | title=The Wordsworth Dictionary of Culinary & Menu Terms | publisher=Wordsworth | series=Reference Library | year=2000 | isbn=978-1-84022-300-2 | url=https://books.google.com/books?id=zUEMh06i2J4C&pg=PA55 | accessdate=January 9, 2017 | page=55}}</ref> Mixed meats may be used in the dish.<ref>{{cite book | last=Walker | first=F.A. | title=Black Island: Memories from the Adriatic | publisher=Vanguard | year=2006 | isbn=978-1-84386-288-8 | url=https://books.google.com/books?id=t9s1c_1U6ScC&pg=PA140 | accessdate=January 9, 2017 | page=140}}</ref> It has been described as a [[national dish]] of [[Bosnia and Herzegovina]].<ref>{{cite book | last=Long | first=L.M. | title=Ethnic American Food Today: A Cultural Encyclopedia | publisher=Rowman & Littlefield Publishers | year=2015 | isbn=978-1-4422-2731-6 | url=https://books.google.com/books?id=DBzYCQAAQBAJ&pg=PA79 | accessdate=January 9, 2017 | page=79}}</ref>
+
+Bosanski lonac has been on the tables of both the rich and the poor for hundreds of years. The wealthy prepared the dish with more meat and other expensive ingredients, while the poor used what was available. Typical ingredients are [[beef]], [[Lamb and mutton|lamb]], [[cabbage]], [[potato]]es, [[tomato]]es, [[carrot]]s, [[parsley]], [[garlic]], and [[black pepper|peppercorns]] (whole, not ground). Many different vegetables or meats may be used. Bosanski lonac is prepared by layering meat and vegetables (alternating layers of meat and vegetables until the pot is full) into a deep [[cooking pot|pot]], then adding 1-2 dl water. The ingredients are usually cut into large pieces rather than finely chopped or minced.
+
+Originally, Bosanski lonac was made in ceramic pots<ref name="IBP-1"/> and cooked in a fireplace or pit in the ground. Today, with the declining availability of fireplaces for cooking, many cooks use a regular pot and a kitchen stove.
+
+==See also==
+* [[Irish stew]]
+* [[List of stews]]
+* [[Pichelsteiner]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.kuhar.ba/recepti/glavna-jela/bosanski-lonac/ Bosnian pot recipe] {{Webarchive|url=https://web.archive.org/web/20151104023030/http://www.kuhar.ba/recepti/glavna-jela/bosanski-lonac/ |date=2015-11-04 }}
+
+{{Bosnia and Herzegovina topics|state=collapsed}}
+
+[[Category:Bosnia and Herzegovina cuisine]]
+[[Category:Stews]]
+[[Category:National dishes]]
+[[Category:Potato dishes]]
+[[Category:Meat dishes]]
+[[Category:Cabbage soups]]

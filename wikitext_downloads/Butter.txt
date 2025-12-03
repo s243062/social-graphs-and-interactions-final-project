@@ -1,0 +1,261 @@
+{{Short description|Dairy product}}
+{{Other uses}}
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=June 2021}}
+[[File:Švédský koláč naruby 904 (cropped).JPG|thumb|Solid and melted butter]]
+'''Butter''' is a [[dairy product]] made from the fat and protein components of [[Churning (butter)|churned]] [[cream]]. It is a semi-solid [[emulsion]] at [[room temperature]], consisting of approximately 81% [[butterfat]]. It is used at room temperature as a [[spread (food)|spread]], melted as a [[condiment]], and used as a [[Cooking fat|fat]] in baking, sauce-making, [[pan frying]], and other cooking procedures.
+
+Most frequently made from [[cow's milk]], butter can also be manufactured from the milk of other mammals, including [[Sheep milk|sheep]], [[Goat milk|goats]], [[Buffalo milk|buffalo]], and [[Yak milk|yaks]]. It is made by churning milk or cream to separate the fat globules from the [[buttermilk]]. [[Dairy salt|Salt]] has been added to butter since antiquity to help [[Food preservation|preserve]] it, particularly when being transported; salt may still play a preservation role but is less important today as the entire supply chain is usually refrigerated. In modern times, salt may be added for taste<ref>{{cite book | author=Institute of Medicine. Committee on Strategies to Reduce Sodium Intake | editor-last1=Henney | editor-first1=Jane E. | editor-last2=Taylor | editor-first2=Christine Lewis | editor-last3=Boon | editor-first3=Caitlin S. | title=Strategies to reduce sodium intake in the United States | chapter=4: Preservation and Physical Property Roles of Sodium in Foods | url=https://www.ncbi.nlm.nih.gov/books/NBK50952/ | publisher=National Academies Press | publication-place=Washington, D.C. | date=2010 | isbn=978-0-309-14805-4 | oclc=676698420 | archive-date=9 May 2022 | archive-url=https://web.archive.org/web/20220509180020/https://www.ncbi.nlm.nih.gov/books/NBK50952/ | url-status=live }}</ref> and [[food coloring]] added for color.<ref>{{Cite web |title=Butter coloring |url=https://www.ocemuseum.nl/oce-technologies/butter-coloring/?lang=en |access-date=2 January 2023 |archive-date=2 January 2023 |archive-url=https://web.archive.org/web/20230102123254/https://www.ocemuseum.nl/oce-technologies/butter-coloring/?lang=en |url-status=live }}</ref> [[Kitchen rendering|Rendering]] butter, removing the water and [[milk solids]], produces [[clarified butter]] (including ''[[ghee]]''), which is almost entirely butterfat.
+
+Butter is a [[gel]].<ref>
+At room temperature, for example 20 °C, butter is composed of a liquid fat phase dispersed in a solid fat phase, and water is present within the structure. 
+{{cite magazine |author=<!-- not stated --> |language= fr |title=La microstructure du lait et du beurre |url=https://www.academie-agriculture.fr/publications/encyclopedie/questions-sur/0801q20-la-microstructure-du-lait-et-du-beurre |magazine=Encyclopédie de l'Academie d'agriculture |date=2020 |location= |publisher=Academie-agriculture.fr |access-date=2025-10-10}}</ref> 
+Butter remains a firm solid when [[refrigerated]] but softens to a spreadable consistency at [[room temperature]] and melts to a thin liquid consistency at {{Convert|32|to|35|C}}. The density of butter is {{convert|911|g/L|oz/USpt|abbr=on|frac=4}}.<ref>{{cite web|url=https://physics.info/density/|work=The Physics Hypertextbook|title=Density|last=Elert|first=Glenn|access-date=26 March 2018|archive-url=https://web.archive.org/web/20180819083024/https://physics.info/density/|archive-date=19 August 2018|url-status=live}}</ref> It generally has a pale yellow color but varies from deep yellow to nearly white. Its natural, unmodified color is dependent on the source animal's feed and genetics, but the commercial manufacturing process sometimes alters this with food colorings like [[annatto]]<ref>{{cite journal |title=A Substitute for 'Annatto' in Butter |journal=Nature |year=1946 |doi=10.1038/157232a0 |last1=Saïd |first1=Husein |last2=Nada |first2=I. A. A. |volume=157 |issue=3982 |page=232 |pmid=21017927 |bibcode=1946Natur.157..232S |s2cid=4131974 |doi-access=free }}</ref> or [[carotene]].
+
+In 2022, world production of butter made from cow milk was 6 million [[tonne]]s, led by the United States with 13% of the total.
+
+==Etymology==
+[[File:Buttered crumpet3.jpg|thumb|Butter spread on a crumpet]]
+The word ''butter'' derives (via [[Germanic languages]]) from the [[Latin]] ''butyrum'',<ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dbutyrum butyrum] {{Webarchive|url=https://web.archive.org/web/20120127023222/http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dbutyrum# |date=27 January 2012 }}, Charlton T. Lewis, Charles Short, ''A Latin Dictionary'', on Perseus</ref> which is the [[Latinisation (literature)|latinisation]] of the [[Greek language|Greek]] βούτυρον (''bouturon'')<ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dbou%2Fturon βούτυρον] {{Webarchive|url=https://web.archive.org/web/20120317032537/http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dbou%2Fturon# |date=17 March 2012 }}, Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus</ref><ref>[http://oxforddictionaries.com/view/entry/m_en_gb0112520#m_en_gb0112520 butter] {{Webarchive|url=https://web.archive.org/web/20101114104253/http://oxforddictionaries.com/view/entry/m_en_gb0112520#m_en_gb0112520#m_en_gb0112520 |date=14 November 2010 }}, Oxford Dictionaries</ref> and βούτυρος.<ref name="A Dictionary of Greek and Roman Antiquities (1890), Butyrum">[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0063%3Aalphabetic+letter%3DB%3Aentry+group%3D3%3Aentry%3Dbutyrum-cn A Dictionary of Greek and Roman Antiquities (1890), Butyrum]</ref> This may be a compound of βοῦς (''bous''), "ox, cow"<ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dbou%3Ds βοῦς] {{Webarchive|url=https://web.archive.org/web/20120317024014/http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dbou%3Ds# |date=17 March 2012 }}, Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus</ref> + τυρός (''turos''), "cheese", that is "cow-cheese".<ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dturo%2Fs τυρός] {{Webarchive|url=https://web.archive.org/web/20120316230327/http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dturo%2Fs# |date=16 March 2012 }}, Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus</ref><ref>Beekes, Robert Stephen Paul, and Lucien Van Beek. Etymological dictionary of Greek. Vol. 2. Leiden: Brill, 2014</ref> The word ''turos'' ("cheese") is attested in [[Mycenaean Greek]].<ref>[http://www.palaeolexicon.com/default.aspx?static=12&wid=572 Palaeolexicon] {{Webarchive|url=https://web.archive.org/web/20120304074111/http://www.palaeolexicon.com/default.aspx?static=12&wid=572# |date=4 March 2012 }}, Word study tool of ancient languages</ref> The Latinized form is found in the name [[butyric acid]], a compound found in [[Rancidification|rancid]] butter<ref>{{Cite journal|last1=Widder|first1=Sabine|last2=Sen|first2=Alina|last3=Grosch|first3=Werner|date=1991-07-01|title=Changes in the flavour of butter oil during storage|journal=Zeitschrift für Lebensmittel-Untersuchung und Forschung|language=en|volume=193|issue=1|pages=32–35|doi=10.1007/BF01192013|s2cid=82639499|issn=1438-2385}}</ref> and other dairy products.<ref>{{Cite journal|last1=Perko|first1=B.|last2=Habjan-Penca|first2=V.|last3=Godic|first3=K.|date=1988|title=Biochemical parameters of retarded fermentation of Parmesan cheese|url=https://agris.fao.org/agris-search/search.do?recordID=YU9100895|journal=Agris|publisher=Food and Agricultural Organization of the United Nations|access-date=10 July 2021|archive-date=10 July 2021|archive-url=https://web.archive.org/web/20210710092934/https://agris.fao.org/agris-search/search.do?recordID=YU9100895|url-status=live}}</ref>
+
+==Production==
+{{Main|Churning (butter)}}
+[[File:Churning butter.jpg|thumb|upright|Churning cream into butter using a hand-held mixer]]
+[[Homogenization (chemistry)|Unhomogenized]] milk and cream contain [[butterfat]] in [[microscopic]] globules. These globules are surrounded by membranes made of [[phospholipid]]s ([[fatty acid]] [[emulsifier]]s) and [[protein]]s, which prevent the fat in milk from pooling together into a single mass. Butter is produced by agitating cream, which damages these membranes and allows the milk fats to conjoin, separating from the other parts of the cream. Variations in the production method will create butters with different consistencies, mostly due to the butterfat composition in the finished product. Butter contains fat in three separate forms: free butterfat, butterfat [[crystals]], and undamaged fat globules. In the finished product, different proportions of these forms result in different consistencies within the butter; butters with many crystals are harder than butters dominated by free fats.{{Citation needed|date=January 2021}}
+
+Churning produces small butter grains floating in the water-based portion of the cream. This watery liquid is called [[buttermilk]], although the buttermilk most commonly sold today is instead directly fermented skimmed milk.<ref>{{Cite journal|date=1 December 2006|title=A comparative study of the fractionation of regular buttermilk and whey buttermilk by microfiltration|url=https://www.sciencedirect.com/science/article/abs/pii/S0260877405004966|journal=Journal of Food Engineering|language=en|volume=77|issue=3|pages=521–528|doi=10.1016/j.jfoodeng.2005.06.065|issn=0260-8774|last1=Morin|first1=P.|last2=Pouliot|first2=Y.|last3=Jiménez-Flores|first3=R.|access-date=7 June 2021|archive-date=7 June 2021|archive-url=https://web.archive.org/web/20210607013819/https://www.sciencedirect.com/science/article/abs/pii/S0260877405004966|url-status=live|url-access=subscription}}</ref> The buttermilk is drained off; sometimes more buttermilk is removed by rinsing the grains with water. Then the grains are "worked": pressed and kneaded together. When prepared manually, this is done using wooden boards called [[scotch hands]]. This consolidates the butter into a solid mass and breaks up embedded pockets of buttermilk or water into tiny droplets.{{Citation needed|date=January 2021}}
+
+Commercial butter is about 80% butterfat and 15% water; traditionally-made butter may have as little as 65% fat and 30% water. Butterfat is a mixture of [[triglyceride]], a [[triester]] derived from [[glycerol]], and three of any of several [[fatty acid]] groups.<ref>Rolf Jost "Milk and Dairy Products" Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2002. {{doi|10.1002/14356007.a16_589.pub3}}</ref> [[Annatto]] is sometimes added by U.S. butter manufacturers without declaring it on the label because the U.S. allows butter to have an undisclosed flavorless and natural coloring agent (whereas all other foods in the U.S. must label coloring agents).<ref>Butter: A Rich History. Elaine Khosrova. 2016. Algonquin Books of Chapel Hill. Pages 123–124. ISBN 978-1-61620-739-7 (PB).</ref> The preservative [[lactic acid]] is sometimes added instead of salt (and as a flavor enhancer), and sometimes additional [[diacetyl]] is added to boost the buttery flavor (in the U.S., both ingredients can be listed simply as "natural flavors").<ref>Butter: A Rich History. Elaine Khosrova. 2016. Algonquin Books of Chapel Hill. Page 125. ISBN 978-1-61620-739-7 (PB).</ref> When used together in the NIZO manufacturing method, these two flavorings produce the flavor of cultured butter without actually fully fermenting.<ref>Butter: A Rich History. Elaine Khosrova. 2016. Algonquin Books of Chapel Hill. Page 129–30. ISBN 978-1-61620-739-7 (PB).</ref>
+
+==Types==
+[[Image:Milkproducts.svg|thumb|upright=1.2|Chart of milk products and production relationships, including butter]]
+Before modern factory butter making, cream was usually collected from several milkings and was therefore several days old and somewhat fermented by the time it was made into butter. Butter made in this traditional way (from a fermented cream) is known as '''cultured butter'''. During fermentation, the cream naturally sours as [[bacteria]] convert [[milk sugar]]s into [[lactic acid]]. The fermentation process produces additional aroma compounds, including [[diacetyl]], which makes for a fuller-flavored and more "buttery" tasting product.<ref name="McGee">{{cite book|last=McGee|first=Harold|author-link=Harold McGee|title=On Food and Cooking: The Science and Lore of the Kitchen|date=2004|publisher=[[Charles Scribner's Sons|Scribner]]|location=New York City|isbn=978-0-684-80001-1|lccn=2004058999|oclc=56590708}}</ref>{{rp|page=35}}
+
+Butter made from fresh cream is called '''sweet cream butter'''. Production of sweet cream butter first became common in the 19th century, when the development of [[refrigeration]] and the mechanical [[Separator (milk)|milk separator]]<ref name="McGee"/>{{rp|page=33}} made sweet cream butter faster and cheaper to produce at scale<ref>{{Cite news |last=Clark |first=Melissa |date=2022-06-10 |title=America's Most Luxurious Butter Lives to Churn Another Day |language=en-US |work=The New York Times |url=https://www.nytimes.com/2022/06/10/dining/animal-farm-creamery-butter.html |access-date=2023-06-15 |issn=0362-4331}}</ref> (sweet cream butter can be made in 6 hours, whereas cultured butter can take up to 72 hours to make).{{Cn|date=December 2024}}
+
+Cultured butter is preferred throughout [[continental Europe]], while sweet cream butter dominates in the United States and the United Kingdom. Chef Jansen Chan, the director of pastry operations at the International Culinary Center in Manhattan, says, "It's no secret that dairy in France and most of Europe is higher quality than most of the U.S."<ref>{{Cite web |date=2017-06-22 |title=The science-backed reasons why croissants always taste better in Paris |url=https://www.mic.com/articles/180451/the-science-backed-reasons-why-croissants-always-taste-better-in-paris |access-date=2023-06-15 |website=Mic |language=en}}</ref> The combination of butter culturing, the 82% butterfat minimum (as opposed to the 80% minimum in the U.S.<ref>{{Cite web |date=2017-11-08 |title=What's the Difference Between Regular, Cultured, and European Butter? |url=https://www.bonappetit.com/story/whats-the-difference-between-regular-cultured-and-european-butter |access-date=2023-06-15 |website=Bon Appétit |language=en-US}}</ref>), and the fact that French butter is grass-fed,<ref>{{Cite web |last=France |first=Taste Europe Butter of |date=2022-09-02 |title=Taste Europe Butter of France Uncovers Why American Chefs Rely on European Butter |url=https://www.perishablenews.com/dairy/taste-europe-butter-of-france-uncovers-why-american-chefs-rely-on-european-butter/ |access-date=2023-06-15 |website=Perishable News |language=en-US}}</ref> accounts for why French pastry (and French food in general) has a reputation for being richer-tasting and flakier.<ref>{{Cite web |title=Are European-style butters worth the price? |url=https://www.desmoinesregister.com/story/entertainment/2015/09/23/european-style-butters-worth-price/72619298/ |access-date=2023-06-15 |website=The Des Moines Register |language=en-US}}</ref> Cultured butter is sometimes labeled "European-style" butter in the United States, although cultured butter is made and sold by some, especially Amish, dairies.{{Cn|date=December 2024}}
+
+Milk that is to be made into butter is usually [[pasteurized]] during production to kill [[pathogen]]ic bacteria and other [[microbe]]s. Butter made from unpasteurized [[raw milk]] is very rare and can be dangerous. Commercial raw milk products are not legal to sell through interstate commerce in the United States<ref>{{Cite journal |last=Nutrition |first=Center for Food Safety and Applied |date=2020-06-25 |title=Raw Milk Questions & Answers |url=https://www.fda.gov/food/buy-store-serve-safe-food/raw-milk-questions-answers |journal=FDA |language=en}}</ref> and are very rare in Europe.<ref name="McGee" />{{rp|page=34}} Raw cream butter is not usually available for purchase.{{Cn|date=December 2024}}
+
+=== Clarified butter ===
+{{Main|Clarified butter}}
+[[File:Butterschmalz-2.jpg|thumb|upright=0.7|Liquid [[clarified butter]]]]
+
+Clarified butter has almost all of its water and milk solids removed, leaving almost-pure butterfat. Clarified butter is made by heating butter to its [[melting point]] and then allowing it to cool; after settling, the remaining components separate by density. At the top, [[whey protein]]s form a skin, which is removed. The resulting butterfat is then poured off from the mixture of water and [[casein]] proteins that settle to the bottom.<ref name="McGee" />{{rp|page=37}}
+
+[[Ghee]] is clarified butter that has been heated to around 120&nbsp;°C (250&nbsp;°F) after the water evaporated, turning the milk solids brown. This process flavors the ghee, and also produces [[antioxidant]]s that help protect it from rancidity. Because of this, ghee can be kept for six to eight months under normal conditions.<ref name="McGee"/>{{rp|page=37}}
+
+{{anchor|Whey butter}}
+
+===Whey butter===
+Cream may be separated (usually by a centrifuge or a sedimentation) from [[whey]] instead of milk, as a [[byproduct]] of cheese-making. Whey butter may be made from whey cream. Whey cream and butter have a lower fat content and taste more salty, tangy and "cheesy".<ref>{{cite web|url=http://oukosher.org/index.php/common/article/everything_is_in_butter/|title=Article on sweet cream, whey cream, and the butters they produce|work=Kosher|access-date=24 October 2014|archive-url=https://web.archive.org/web/20120220100350/http://oukosher.org/index.php/common/article/everything_is_in_butter/|archive-date=20 February 2012|url-status=live}}</ref> They are also cheaper to make than "sweet" cream and butter. The fat content of whey is low, so {{convert|1000|lb}} of whey will typically give only {{convert|3|lb}} of butter.<ref>Charles Thom, Walter Fisk, ''The Book of Cheese'', 1918, reprinted in 2007 as {{ISBN|1429010746}}, p. 296</ref><ref>{{cite web|url=https://archive.org/details/CAT31283652|title=Whey butter|first=Charles Francis|last=Doane|date=12 November 2017|publisher=Washington, D.C. : U.S. Dept. of Agriculture, Bureau of Animal Industry|via=Internet Archive|access-date=29 December 2017|archive-url=https://web.archive.org/web/20170528151635/https://archive.org/details/CAT31283652|archive-date=28 May 2017|url-status=live}}</ref>
+
+===Protected origin butters===
+Several butters have [[protected geographical indication]]s; these include:
+* [[Beurre d'Ardenne]], from Belgium
+* [[Beurre d'Isigny]], from France
+* Beurre Charentes-Poitou (Which also includes: Beurre des Charentes and Beurre des Deux-Sèvres under the same classification), from France
+* [[Beurre Rose]], from Luxembourg
+* Mantequilla de Soria, from Spain
+* Mantega de l'Alt Urgell i la Cerdanya, from Spain
+* [[Rucava white butter]] (''Rucavas baltais sviests''), from Latvia<ref name="LSM">{{cite news |title=No buts, it's Rucava butter! |url=https://eng.lsm.lv/article/society/society/no-buts-its-rucava-butter.a291313/ |access-date=11 September 2018 |publisher=[[Public Broadcasting of Latvia]] |agency=[[LETA]] |date=6 September 2018 |archive-date=11 September 2018 |archive-url=https://web.archive.org/web/20180911225205/https://eng.lsm.lv/article/society/society/no-buts-its-rucava-butter.a291313/ |url-status=live }}</ref>
+
+==History==
+[[File:ButterMakingPalestine1914.jpg|thumb|upright|''Traditional butter-making in Palestine''. Ancient techniques were still practiced in the early 20th century. Source: ''[[National Geographic]]'', March 1914.]]
+
+Elaine Khosrova traces the invention of butter back to the Neolithic era;.<ref>{{Cite web|url=https://www.tastingtable.com/948507/the-first-butter-was-invented-by-accident-and-it-didnt-come-from-a-cow/|title=The First Butter Was Invented By Accident And It Didn't Come From A Cow|first=Lauren|last=Rothman|date=6 August 2022|website=Tasting Table|access-date=19 January 2023|archive-date=19 January 2023|archive-url=https://web.archive.org/web/20230119191538/https://www.tastingtable.com/948507/the-first-butter-was-invented-by-accident-and-it-didnt-come-from-a-cow/|url-status=live}}</ref> it is known to have existed in the Near East following the development of herding.<ref>{{cite book |title=Butter: A Rich History |last=Khosrova |first=Elaine|year=2017|isbn=978-1-61620-739-7|page=26}}6</ref> A later [[Sumer]]ian tablet, dating to approximately 2,500 B.C., describes the butter making process, from the milking of cattle,<ref>{{Cite journal |last=McCormick |first=Finbar |date=1 December 2012 |title=Cows, milk and religion: the use of dairy produce in early societies |url=https://bioone.org/journals/anthropozoologica/volume-47/issue-2/az2012n2a7/Cows-milk-and-religion--the-use-of-dairy-produce/10.5252/az2012n2a7.full |journal=Anthropozoologica |volume=47 |issue=2 |pages=101–113 |doi=10.5252/az2012n2a7 |s2cid=55564559 |issn=0761-3032|url-access=subscription }}</ref><ref>{{Cite web |last=Churncraft |title=A Brief History of Butter |url=http://buttertales.churncraft.com/a-brief-history-of-butter/ |access-date=2022-09-11 |website=Churncraft |language=en }}{{Dead link|date=May 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> while contemporary Sumerian tablets identify butter as a ritual offering.<ref>{{Cite book |last=Unknown |url=https://viewer.cbl.ie/viewer/image/CT_008/1/LOG_0000/ |title=Cuneiform tablet: offering of butter for the god Suen |access-date=11 September 2022 |archive-date=11 September 2022 |archive-url=https://web.archive.org/web/20220911024609/https://viewer.cbl.ie/viewer/image/CT_008/1/LOG_0000/ |url-status=live }}</ref><ref>{{Cite journal |last=Limet |first=Henri |date=September 1987 |title=The Cuisine of Ancient Sumer |url=https://www.journals.uchicago.edu/doi/10.2307/3210058 |journal=The Biblical Archaeologist |language=en |volume=50 |issue=3 |pages=132–147 |doi=10.2307/3210058 |jstor=3210058 |s2cid=164157044 |issn=0006-0895|url-access=subscription }}</ref>
+
+In the [[Mediterranean climate]], unclarified butter spoils quickly, unlike cheese, so it is not a practical method of preserving the nutrients of milk. The ancient Greeks and Romans seemed to use the butter only as unguent and medicine and considered it as a food of the [[barbarian]]s.<ref name="A Dictionary of Greek and Roman Antiquities (1890), Butyrum"/> 
+A play by the Greek comic poet [[Anaxandrides]] refers to [[Thracians]] as ''boutyrophagoi'', "butter-eaters".<ref name=Dalby_65>Dalby p. 65.</ref> In his ''[[Natural History (Pliny)|Natural History]]'', [[Pliny the Elder]] calls butter "the most delicate of food among barbarous nations" and goes on to describe its medicinal properties.<ref>Bostock and Riley translation. [https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.02.0137;query=chapter%3D%232043;layout=;loc=28.36|Book Book 28, chapter 35] {{Webarchive|url=https://web.archive.org/web/20081027200352/http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.02.0137;query=chapter%3D%232043;layout=;loc=28.36%7CBook |date=27 October 2008 }}.</ref> Later, the physician [[Galen]] also described butter as a medicinal agent only.<ref>Galen. ''de aliment. facult.''</ref>
+
+===Middle Ages===
+[[File:MakingButter1499.jpg|thumb|left|upright|Woman churning butter; ''Compost et Kalendrier des Bergères'', Paris 1499]]
+In the cooler climates of northern Europe, butter could be stored longer before it spoiled. [[Scandinavia]] has the oldest tradition in Europe of butter export, dating at least to the 12th century.<ref name=WE>Web Exhibits: Butter. [http://webexhibits.org/butter/history-firkins.html Ancient Firkins] {{Webarchive|url=https://web.archive.org/web/20051021003815/http://webexhibits.org/butter/history-firkins.html# |date=21 October 2005 }}.</ref> After the fall of Rome and through much of the [[Middle Ages]], butter was a common food across most of Europe, but had a low reputation, and so was consumed principally by [[peasant]]s. Butter slowly became more accepted by the upper class, notably when the [[Roman Catholic Church]] allowed its consumption during [[Lent]] from the early 16th century. Bread and butter became common fare among the middle class and the English, in particular, gained a reputation for their liberal use of melted butter as a sauce with meat and vegetables.<ref name="McGee"/>{{rp|page=33}}
+
+In antiquity, butter was used for fuel in lamps, as a substitute for oil. The ''Butter Tower'' of [[Rouen Cathedral]] was erected in the early 16th century when Archbishop [[Georges d'Amboise]] authorized the burning of butter during Lent, instead of oil, which was scarce at the time.<ref>{{cite book |title=The Pantropheon or a History of Food and its Preparation in Ancient Times |last=Soyer |first=Alexis|year=1977|orig-date=1853|publisher=Paddington Press |location=Wisbech, Cambs. |isbn=978-0-448-22976-8|page=172}}</ref>
+
+Across northern Europe, butter was sometimes packed into barrels ([[wikt:firkin|firkins]]) and buried in [[peat bog]]s, perhaps for years. Such "[[bog butter]]" would develop a strong flavor as it aged, but remain edible, in large part because of the cool, airless, [[antiseptic]] and [[acid]]ic environment of a peat bog. Firkins of such buried butter are a common archaeological find in Ireland; the [[National Museum of Ireland – Archaeology]] has some containing "a grayish cheese-like substance, partially hardened, not much like butter, and quite free from putrefaction." The practice was most common in Ireland in the 11th to 14th centuries; it had ended entirely before the 19th century.<ref name=WE/>
+
+===Industrialization===
+[[File:GustafDeLaval.jpg|thumb|upright|Gustaf de Laval's [[centrifuge|centrifugal]] cream separator sped up the butter-making process.]]
+Until the 19th century, the vast majority of butter was made by hand, on farms, for farm family use or to sell. They used wood presses with carved decoration identifying the producer to press butter into pucks or small bricks to sell at nearby markets or general stores.  This practice continued until production was mechanized and butter was produced in less decorative stick form.<ref>{{cite book|last=Hale|first=Sarah Josepha Buell|title=Mrs. Hale's new cook book|url=https://archive.org/details/b28075195|year=1857}}</ref>
+
+Like Ireland, France became well known for its butter, particularly in [[Normandy]] and [[Brittany]]. Butter consumption in London in the mid-1840s was estimated at 15,357 tons annually.<ref>''The National Cyclopaedia of Useful Knowledge, Vol.III'', London (1847) Charles Knight, p.975.</ref>
+
+The first butter factories appeared in the United States in the early 1860s, after the successful introduction of cheese factories a decade earlier. In the late 1870s, the [[centrifuge|centrifugal]] [[cream separator]] was introduced, marketed most successfully by Swedish engineer [[Carl Gustaf Patrik de Laval]].<ref>Edwards, Everett E. "Europe's Contribution to the American Dairy Industry". ''The Journal of Economic History'', Volume 9, 1949. 72–84.</ref>
+
+In 1920, [[Otto Frederick Hunziker|Otto Hunziker]] wrote ''The Butter Industry, Prepared for Factory, School and Laboratory'';<ref>{{cite book | last =Hunziker | first =O F | author-link=Otto Frederick Hunziker | year =1920 | title =The Butter Industry, Prepared for Factory, School and Laboratory | publisher =author | location =LaGrange, IL}}</ref> three editions were printed, in 1920, 1927, and 1940. As part of the efforts of the [[American Dairy Science Association]], Hunziker and others published articles regarding: causes of tallowiness<ref>{{cite journal | last = Hunziker | first = O F | author-link = Otto Frederick Hunziker | author2 = D. Fay Hosman | title = Tallowy Butter—its Causes and Prevention | journal = Journal of Dairy Science | volume = 1 | issue = 4 | pages = 320–346 | publisher = American Dairy Science Association | date = 1 November 1917 | url = https://www.journalofdairyscience.org/article/S0022-0302(17)94386-3/abstract | doi = 10.3168/jds.S0022-0302(17)94386-3 | doi-access=free }}</ref> (an odor defect, distinct from rancidity, a taste defect); mottles<ref>{{cite journal | last = Hunziker | first = O F | author-link = Otto Frederick Hunziker | author2 = D. Fay Hosman | title = Mottles in Butter—Their Causes and Prevention | journal = Journal of Dairy Science | volume = 3 | issue = 2 | pages = 77–106 | publisher = American Dairy Science Association | date = 1 March 1920 | url = https://www.journalofdairyscience.org/article/S0022-0302(20)94253-4/abstract | doi = 10.3168/jds.S0022-0302(20)94253-4 | doi-access  =free }}</ref> (an aesthetic issue related to uneven color); introduced salts;<ref>{{cite journal | last = Hunziker | first = O F | author-link = Otto Frederick Hunziker | author2 = W. A. Cordes | author3 = B. H. Nissen | title = Studies on Butter Salts | journal = Journal of Dairy Science | volume = 11 | issue = 5 | pages = 333–351 | publisher = American Dairy Science Association | date = 1 September 1929 | url = https://www.journalofdairyscience.org/article/S0022-0302(28)93647-4/abstract | doi = 10.3168/jds.S0022-0302(28)93647-4 | doi-access=free }}</ref> the impact of creamery metals<ref>{{cite journal | last = Hunziker | first = O F | author-link = Otto Frederick Hunziker | author2 = W. A. Cordes | author3 = B. H. Nissen | title = Metals in Dairy Equipment. Metallic Corrosion in Milk Products and its Effect on Flavor | journal = Journal of Dairy Science | volume = 12 | issue = 2 | pages = 140–181 | publisher = American Dairy Science Association | date = 1 March 1929 | url = https://www.journalofdairyscience.org/article/S0022-0302(29)93566-9/abstract | doi = 10.3168/jds.S0022-0302(29)93566-9 | doi-access = free }}</ref> and liquids;<ref>{{cite journal | last = Hunziker | first = O F | author-link = Otto Frederick Hunziker | author2 = W. A. Cordes | author3 = B. H. Nissen | title = Metals in Dairy Equipment: Corrosion Caused by Washing Powders, Chemical Sterilizers, and Refrigerating Brines | journal = Journal of Dairy Science | volume = 12 | issue = 3 | pages = 252–284 | publisher = American Dairy Science Association | date = 1 May 1929 | url = https://www.journalofdairyscience.org/article/S0022-0302(29)93575-X/abstract | doi = 10.3168/jds.S0022-0302(29)93575-X | doi-access = free }}</ref> and acidity measurement.<ref>{{cite journal | last = Hunziker | first = O F | author-link = Otto Frederick Hunziker | author2 = W. A. Cordes | author3 = B. H. Nissen | title = Method for Hydrogen Ion Determination of Butter | journal = Journal of Dairy Science | volume = 14 | issue = 4 | pages = 347–37 | publisher = American Dairy Science Association | date = 1 July 1931 | url = https://www.journalofdairyscience.org/article/S0022-0302(31)93478-4/abstract | doi = 10.3168/jds.S0022-0302(31)93478-4 | doi-access = free }}</ref> These and other ADSA publications helped standardize practices internationally.
+
+Butter consumption declined in most western nations during the 20th century, mainly because of the rising popularity of [[margarine]], which is less expensive and, until recent years, was perceived as being healthier. In the United States, margarine consumption overtook butter during the 1950s,<ref>Web Exhibits: Butter. [http://webexhibits.org/butter/consumption-butter-fat.html Eating less butter, and more fat] {{Webarchive|url=https://web.archive.org/web/20051214035336/http://webexhibits.org/butter/consumption-butter-fat.html# |date=14 December 2005 }}.</ref> and it is still the case today that more margarine than butter is eaten in the U.S. and the EU.<ref>See for example [http://www.imace.org/graphique/prod-eu.htm this chart] {{webarchive |url=https://web.archive.org/web/20050908055231/http://www.imace.org/graphique/prod-eu.htm |date=8 September 2005 }} from International Margarine Association of the Countries of Europe [http://www.imace.org/margarine/stat.htm statistics] {{webarchive |url=https://web.archive.org/web/20050930172448/http://www.imace.org/margarine/stat.htm |date=30 September 2005 }}. Retrieved 4 December 2005.</ref>
+{{Table alignment}}
+{| class="wikitable floatright col2right"
+|+ Production of butter<br> (cow milk) <br />{{small|2022, tonnes}}
+|-
+| {{USA}}||933,830
+|-
+| {{GER}}||459,180
+|-
+| {{NZL}}||459,000
+|-
+| {{FRA}}||412,730
+|-
+| {{RUS}}||314,202
+|-
+| {{IRL}}||299,400
+|-
+| {{POL}}||247,230
+|-
+|'''World''' ||'''5,982,453'''
+|-
+|colspan=2|{{small|Source: [[FAOSTAT]]<br> of the [[United Nations]]}}<ref name="faostat">{{cite web|url=http://www.fao.org/faostat/en/#data/QC|title=Butter production (cow milk) in 2022, Crops/Regions/World list/Production Quantity/Year (pick lists)|date=2025|publisher=UN Food and Agriculture Organization, Corporate Statistical Database (FAOSTAT)|access-date=16 June 2025}}</ref>
+|}
+
+==Production==
+
+In 2022, world production of butter made from cow milk was 6 million [[tonne]]s, led by the United States with 13% of the total (table).
+
+==Storage==
+
+Normal butter softens to a spreadable consistency around 15&nbsp;°C (60&nbsp;°F), well above [[refrigerator]] temperatures. The "butter compartment" found in many refrigerators may be one of the warmer sections inside, but it still leaves butter quite hard. Until recently, many refrigerators sold in New Zealand featured a "butter conditioner", a compartment kept warmer than the rest of the refrigerator—but still cooler than room temperature—with a small heater.<ref>[http://www.ukwhitegoods.co.uk/modules.php?name=News&file=article&sid=668 Bring back butter conditioners] {{webarchive |url=https://web.archive.org/web/20070927025358/http://www.ukwhitegoods.co.uk/modules.php?name=News&file=article&sid=668 |date=27 September 2007 }}. Retrieved 27 November 2005. The feature has been phased out for [[energy conservation]] reasons.</ref> Keeping butter tightly wrapped delays rancidity, which is hastened by exposure to light or air, and also helps prevent it from picking up other odors. Wrapped butter has a [[shelf life]] of several months at refrigerator temperatures.<ref>[http://www.eatbydate.com/dairy/spreads/butter-shelf-life-expiration-date/ How Long Does Butter Last?] {{Webarchive|url=https://web.archive.org/web/20141006073213/http://www.eatbydate.com/dairy/spreads/butter-shelf-life-expiration-date/# |date=6 October 2014 }}. Retrieved 03, October 2014.</ref> Butter can also be frozen to extend its storage life.<ref>{{Citation|last1=Webb|first1=Byron H.|title=Freezing of Dairy Products|date=1977|work=Fundamentals of Food Freezing|pages=357–395|editor-last=Desrosier|editor-first=Norman W.|place=Dordrecht|publisher=Springer Netherlands|language=en|doi=10.1007/978-94-011-7726-9_9|isbn=978-94-011-7726-9|last2=Arbuckle|first2=Wendell S.|editor2-last=Tressler|editor2-first=Donald K.}}</ref>
+
+===Packaging===
+
+In most countries butter is sold in packets by weight, often in {{cvt|250|g}} and {{cvt|500|g}} packages.
+
+====Bulk packaging====
+
+Since the 1940s,<ref name=":0">{{Cite web|last=Milton E. Parker|date=1948|title=A History of Butter Packaging|url=http://www.webexhibits.org/butter/ref/MiltonEParker.pdf|url-status=live|archive-url=https://web.archive.org/web/20031219004652/http://webexhibits.org/butter/ref/MiltonEParker.pdf|archive-date=19 December 2003|website=}}</ref> but more commonly the 1960s,<ref name=":1">{{Cite web|last=|first=|date=|title=Butter crate {{!}} SA/PKC/PRO/1/6/3/1/1/6|url=https://www.sainsburyarchive.org.uk/catalogue/search/sapkcpro163116-butter-crate/c/1/c/6|url-status=live|archive-url=https://web.archive.org/web/20210421135423/https://www.sainsburyarchive.org.uk/catalogue/search/sapkcpro163116-butter-crate/c/1/c/6 |archive-date=21 April 2021 |access-date=8 January 2021|website=www.sainsburyarchive.org.uk}}</ref> butter pats have been individually wrapped and packed in cardboard boxes. Prior to use of cardboard, butter was bulk packed in wood. The earliest discoveries used [[Firkin (unit)|firkins]]. From about 1882 wooden boxes were used, as the [[Dunedin (ship)#The Dunedin refit|introduction of refrigeration on ships]] allowed longer transit times. Butter boxes were generally made with woods whose resin would not taint the butter,<ref name=":0" /> such as [[Acer pseudoplatanus|sycamore]],<ref name=":1" /> [[Kahikatea#Uses|kahikatea]],<ref>{{Cite web|last=|first=|date=17 August 1885|title=BUTTER EXPORT-IMPORTANT INVENTION. NEW ZEALAND HERALD|url=https://paperspast.natlib.govt.nz/newspapers/NZH18850817.2.61|url-status=live|archive-url=https://web.archive.org/web/20210112034753/https://paperspast.natlib.govt.nz/newspapers/NZH18850817.2.61 |archive-date=12 January 2021 |access-date=9 January 2021|website=paperspast.natlib.govt.nz}}</ref> [[Hoop pine#Cultivation and other uses|hoop pine]],<ref>{{Cite news|date=13 December 1938|title=BUTTER BOX PINE.|page=7|work=Cairns Post (Qld. : 1909 - 1954)|url=http://nla.gov.au/nla.news-article42162980|access-date=8 January 2021}}</ref> [[maple]], or [[spruce]].<ref name=":0" /> They commonly weighed a [[Firkin (unit)#British unit for butter and cheese|firkin]] ({{Convert|56|lb||abbr=}}).<ref name=":0" />
+
+====United States====
+
+In the United States, butter has traditionally been made into small, rectangular blocks by means of a pair of wooden butter paddles. It is usually produced in {{convert|4|oz|lb g|adj=on|frac=4}} sticks that are individually wrapped in waxed or foiled paper, and sold as a {{convert|1|lb}} package of 4 sticks. This practice is believed to have originated in 1907, when [[Swift and Company]] began packaging butter in this manner for mass distribution.<ref name="parker">{{cite web
+ |first        = Milton E.
+ |last         = Parker
+ |title        = Princely Packets of Golden Health (A History of Butter Packaging)
+ |year         = 1948
+ |url          = http://drinc.ucdavis.edu/research/butter.pdf
+ |access-date   = 15 October 2006
+|archive-url  = https://web.archive.org/web/20061006150533/http://drinc.ucdavis.edu/research/butter.pdf
+ |archive-date = 6 October 2006
+}}</ref>
+Due to historical differences in butter printers (machines that cut and package butter),<ref name="cooksill"/> 4-ounce sticks are commonly produced in two different shapes:
+{{multiple images|total_width=350px
+|image1=Stick-of-butter-salted.jpg
+|caption1=Eastern-pack shape salted butter
+|image2=Western-pack-butter.jpg
+|caption2=Western-pack shape unsalted butter
+}}
+* The dominant shape east of the Rocky Mountains is the Elgin, or Eastern-pack shape, named for a dairy in [[Elgin, Illinois]]. The sticks measure {{convert|4+3/4|x|1+1/4|x|1+1/4|in}} and are typically sold stacked two by two in elongated cube-shaped boxes.<ref name="cooksill">{{Cite journal
+| title=A Better Stick of Butter?
+| journal=Cook's Illustrated
+|issue=77
+|date=November–December 2005
+| page=3
+}}</ref> Most US butter dishes are designed for Elgin-style butter sticks.<ref name="cooksill"/>
+* West of the Rocky Mountains, butter printers standardized on a different shape that is now referred to as the Western-pack shape.  These butter sticks measure {{convert|3+1/4|x|1+1/2|x|1+1/2|in}}<ref>{{cite web|title=Commercial Butter Making and Packaging Machines|url=http://www.schiercompany.com/ButterEquipment.html|website=Schier Company, Inc.|access-date=19 May 2018|archive-url=https://web.archive.org/web/20180520054543/http://www.schiercompany.com/ButterEquipment.html|archive-date=20 May 2018}}</ref> and are usually sold with four sticks packed side-by-side in a flat, rectangular box.<ref name="cooksill"/>
+
+==In cooking and gastronomy==
+[[File:Spargel sauce hollandaise.jpg|thumb|[[Hollandaise sauce]] served over white asparagus and potatoes]]
+Butter has been considered indispensable in [[French cuisine]] since the 17th century.<ref>Jean-Robert Pitte, ''French Gastronomy: The History and Geography of a Passion'', {{isbn|0231124163}}, p. 94</ref> Chefs and cooks have extolled its importance: [[Fernand Point]] said "Donnez-moi du beurre, encore du beurre, toujours du beurre!" ('Give me butter, more butter, still more butter!').<ref name="belleret">Robert Belleret, ''Paul Bocuse, l'épopée d'un chef'', 2019, {{isbn|2809825904}}</ref> [[Julia Child]] said, "With enough butter, anything is good."<ref>Katie Armour, "Top 20 Julia Child Quotes", ''Matchbook'', [https://www.matchbookmag.com/daily/47-top-20-julia-child-quotes April 15, 2013] {{Webarchive|url=https://web.archive.org/web/20200124083306/http://www.matchbookmag.com/daily/47-top-20-julia-child-quotes |date=24 January 2020 }}</ref>
+
+Melted butter plays an important role in the preparation of [[sauce]]s, notably in French cuisine. ''[[Beurre noisette]]'' (hazelnut butter) and ''[[Beurre noir]]'' (black butter) are sauces of melted butter cooked until the milk solids and sugars have turned golden or dark brown; they are often finished with an addition of vinegar or [[lemon juice]].<ref name="McGee"/>{{rp|page=36}} [[Hollandaise]] and [[Béarnaise sauce|béarnaise]] sauces are [[emulsion]]s of [[egg (food)|egg yolk]] and melted butter. Hollandaise and béarnaise sauces are stabilized with the powerful [[emulsifiers]] in the egg yolks, but butter itself contains enough emulsifiers—mostly remnants of the fat globule membranes—to form a stable emulsion on its own.<ref name="McGee"/>{{rp|page=635–636}}
+
+''[[Beurre blanc]]'' (white butter) is made by whisking butter into reduced vinegar or wine, forming an emulsion with the texture of thick cream. ''[[Beurre monté]]'' (prepared butter) is melted but still [[emulsified]] butter; it lends its name to the practice of "mounting" a sauce with butter: whisking cold butter into any water-based sauce at the end of cooking, giving the sauce a thicker body and a glossy shine—as well as a buttery taste.<ref name="McGee"/>{{rp|page=632}}
+
+Butter is used for [[sautéing]] and [[frying]], although its milk solids brown and burn above 150&nbsp;°C (250&nbsp;°F)—a rather low temperature for most applications. The [[smoke point]] of butterfat is around 200&nbsp;°C (400&nbsp;°F), so clarified butter or ghee is better suited to frying.<ref name="McGee"/>{{rp|page=37}} 
+{{cookbook}}
+Butter fills several roles in [[baking]], including making possible a range of textures, making chemical leavenings work better, tenderizing proteins, and enhancing the tastes of other ingredients. It is used in a similar manner to other solid fats like [[lard]], [[suet]], or [[shortening]], but has a flavor that may better complement sweet baked goods.{{Cn|date=December 2024}}
+
+[[Compound butter]]s are mixtures of butter and other ingredients used to flavor various dishes.<ref>{{Cite news |title=Herbed Compound Butter Recipe |url=https://cooking.nytimes.com/recipes/1018532-herbed-compound-butter |archive-url=https://web.archive.org/web/20250901014455/https://cooking.nytimes.com/recipes/1018532-herbed-compound-butter |archive-date=2025-09-01 |access-date=2025-10-28 |work=NYT Cooking |language=en-US}}</ref>
+
+==Nutrition==
+{{See also|Butterfat}}
+
+{{Nutritional value
+| name            = Butter, salted
+| serving_size    = 100 g
+| kcal            = 717
+| water           = 16 g
+| carbs           = 0.06&nbsp;g
+| sugars          = 0.06&nbsp;g
+| fat             = 81.1&nbsp;g
+| satfat          = 51.4&nbsp;g
+| monofat         = 21&nbsp;g
+| polyfat         = 3&nbsp;g 
+| protein         = 0.85 g
+| cholesterol     = 215&nbsp;mg
+| vitA_ug         = 684
+| thiamin_mg      = <!-- 0.0007 -->   <!-- don't include nutrients that are < 1% of RDA -->
+| riboflavin_mg   = <!-- 0.005 -->
+| niacin_mg       = <!-- 0.006 -->
+| pantothenic_mg  = 
+| vitB6_mg        = <!-- 0.0004 -->
+| folate_ug       = <!-- 0.426 -->
+| vitB12_ug       = 0.17
+| choline_mg      = 
+| vitC_mg         = 
+| vitD_ug         = <!-- 0.06 -->
+| vitD_iu         = 
+| vitE_mg         = 2.32
+| vitK_ug         = 7
+| calcium_mg      = 24
+| copper_mg       = 
+| iron_mg         = <!-- 0.03 -->
+| magnesium_mg    = <!-- 0.28 -->
+| manganese_mg    = 
+| phosphorus_mg   = <!-- 3.4 -->
+| potassium_mg    = <!-- 3.4 -->
+| selenium_ug     =
+| sodium_mg       = 643
+| zinc_mg         = <!-- 0.01 -->
+| note=[https://fdc.nal.usda.gov/food-details/173410/nutrients Link to USDA Database entry] 
+}}
+
+Butter (salted during manufacturing) is 16% water, 81% [[fat]], and 1% [[protein (nutrient)|protein]], with negligible [[carbohydrate]]s. Of the {{cvt|81|g}} of total fat, [[saturated fat]] is 51 g, [[monounsaturated fat]] is 21 g, [[polyunsaturated fat]] is 3 g, [[trans fat]] is 3 g, and trans fat designated as ''"18:1 t"'' is 3 g, for a total of 81 g (source for table).
+
+In a reference amount of {{cvt|100|g}}, salted butter supplies 717 [[calorie]]s and 76% of the [[Daily Value]] (DV) for [[vitamin A]], 15% DV for [[vitamin E]], and 28% DV for [[sodium in biology|sodium]], with no other [[micronutrient]]s in significant content (table). In 100 grams, salted butter contains 215 mg of [[cholesterol]] (table).
+
+As butter is essentially just the milk fat, it contains only traces of [[lactose]], indicating that moderate consumption of butter is unlikely to cause symptoms for [[lactose intolerant]] people.<ref>{{cite web|title=Diet for lactose intolerance|url=http://www.gastro.net.au/diets/lactose.html |archive-url=https://web.archive.org/web/20051224060911/http://www.gastro.net.au/diets/lactose.html|publisher=Gastro Net|archive-date=24 December 2005|quote=one [[teaspoon]] of butter contains 0.03&nbsp;grams of lactose; a cup of milk contains 400 times that amount}}</ref> People with [[milk allergies]] may still need to avoid butter, which contains enough of the allergy-causing proteins to cause reactions.<ref>Allergy Society of South Africa. [http://www.allergysa.org/milk.htm Milk Allergy & Intolerance] {{webarchive |url=https://web.archive.org/web/20051126084811/http://www.allergysa.org/milk.htm |date=26 November 2005 }}. Retrieved 27 November 2005.</ref>
+
+{{comparison of cooking fats}}
+
+==Health concerns==
+A 2015 study concluded that "[[cholesterol|hypercholesterolemic]] people should keep their consumption of butter to a minimum, whereas moderate butter intake may be considered part of the diet in the normocholesterolemic population."<ref>{{cite journal |last1=Engel |first1=S |last2=Tholstrup |first2=T |title=Butter increased total and LDL cholesterol compared with olive oil but resulted in higher HDL cholesterol compared with a habitual diet. |journal=The American Journal of Clinical Nutrition |date=August 2015 |volume=102 |issue=2 |pages=309–15 |doi=10.3945/ajcn.115.112227 |pmid=26135349|doi-access=free }}</ref>
+
+A meta-analysis and systematic review published in 2016 found relatively small or insignificant overall associations of a dose of 14g/day of butter with mortality and cardiovascular disease, and consumption was insignificantly inversely associated with incidence of diabetes. The study states that "findings do not support a need for major emphasis in dietary guidelines on either increasing or decreasing butter consumption."<ref>{{Cite journal|last1=Pimpin|first1=Laura|last2=Wu|first2=Jason H. Y.|last3=Haskelberg|first3=Hila|last4=Del Gobbo|first4=Liana|last5=Mozaffarian|first5=Dariush|date=29 June 2016|title=Is Butter Back? A Systematic Review and Meta-Analysis of Butter Consumption and Risk of Cardiovascular Disease, Diabetes, and Total Mortality|journal=PLOS ONE|volume=11|issue=6|article-number=e0158118|doi=10.1371/journal.pone.0158118|issn=1932-6203|pmc=4927102|pmid=27355649|bibcode=2016PLoSO..1158118P|doi-access=free}}</ref><ref>{{Cite magazine|last=Sifferlin|first=Alexandra|date=29 June 2016|title=The Case for Eating Butter Just Got Stronger|url=https://time.com/4386248/fat-butter-nutrition-health/|access-date=14 February 2021|magazine=Time|archive-date=21 January 2021|archive-url=https://web.archive.org/web/20210121120944/https://time.com/4386248/fat-butter-nutrition-health/|url-status=live}}</ref>
+
+==See also==
+* [[List of butter dishes]]
+* [[List of dairy products]]
+* [[List of sauces#Butter sauces|List of butter sauces]]
+* [[List of spreads]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book|title=On Food and Cooking: The Science and Lore of the Kitchen|last=McGee|first=Harold|date=2004|publisher=[[Charles Scribner's Sons|Scribner]]|isbn=978-0-684-80001-1|location=New York City|lccn=2004058999|oclc=56590708|author-link=Harold McGee}} pp.&nbsp;33–39, "Butter and Margarine"
+* {{cite book|last=Dalby|first=Andrew|year=2003|url=https://books.google.com/books?id=RXpm47Wr49EC&pg=PA65|title=Food in the Ancient World from A to Z|page=65|via=Google Books|isbn=0-415-23259-7|access-date=29 April 2020|publisher=Routledge (UK)}}
+* Michael Douma (editor). [http://webexhibits.org/butter WebExhibits' Butter pages] {{Webarchive|url=https://web.archive.org/web/20161202204532/http://www.webexhibits.org/butter/ |date=2 December 2016 }}. Retrieved 21 November 2005.
+* {{Cite book | title=The Technology of Traditional Milk Products in Developing Countries | publisher=Food and Agriculture Organization of the United Nations | year=1990 | isbn=978-92-5-102899-5|display-authors=etal| author=Crawford, R. J. M. }} [http://www.fao.org/docrep/003/t0251e/T0251E00.htm Full text online] {{Webarchive|url=https://web.archive.org/web/20161206102530/http://www.fao.org/docrep/003/t0251e/T0251E00.htm |date=6 December 2016 }}
+* Grigg, David B. (7 November 1974). [https://books.google.com/books?id=16-ejysyRCgC&pg=PA196 The Agricultural Systems of the World: An Evolutionary Approach] {{Webarchive|url=https://web.archive.org/web/20230331130737/https://books.google.com/books?id=16-ejysyRCgC&pg=PA196 |date=31 March 2023 }}, 196–198. Google Print. {{ISBN|0-521-09843-2}} (accessed 28 November 2005). Also available in print from Cambridge University Press.
+* {{cite book |last1=Khosrova |first1=Elaine |title=Butter: A Rich History |date=2016 |publisher=Algonquin Books |isbn=978-1-61620-364-1}}
+{{refend}}
+
+==External links==
+{{Commons category|Butter}}
+{{Wiktionary}}
+* [https://www.carnamah.com.au/milk-cream-butter Virtual Museum Exhibit on Milk, Cream & Butter] | Carnamah Museum
+
+{{Butter}}
+{{Milk navbox}}
+{{fatsandoils}}
+{{Authority control}}
+
+[[Category:Butter| ]]
+[[Category:Dairy products]]
+[[Category:Cooking fats]]
+[[Category:Colloids]]
+[[Category:Spreads (food)]]
+[[Category:Condiments]]

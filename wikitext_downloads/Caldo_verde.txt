@@ -1,0 +1,47 @@
+{{Short description|Portuguese soup}}
+{{For|Mark Kozelek's record label|Caldo Verde Records}}
+{{Use dmy dates|date=May 2024}}
+{{Infobox prepared food
+| name             = Caldo verde
+| image            = Caldo verde.jpg
+| image_size       = 250px
+| caption          = 
+| alternate_name   = 
+| country          = [[Portugal]]
+| region           = [[Minho Province]]
+| creator          = 
+| course           = 
+| type             = [[Soup]]
+| served           = 
+| main_ingredient  = [[Portuguese cabbage]], [[potato]]es
+| variations       = 
+| calories         = 
+| other            = 
+}}
+[[File:Caldo verde - Jul 2008.jpg|thumb|200px|right|Traditional {{lang|pt|italic=unset|caldo verde}}]][[File:Shredded greens and potatoes.jpg|thumb|Two of the main ingredients arranged next to each other at a grocery store in [[Little Portugal, Toronto]]. The greens have been julienned specifically for the preparation of {{lang|pt|italic=unset|caldo verde}}. ]]
+
+'''{{lang|pt|italic=unset|Caldo verde}}''' ({{IPA|pt|ˈkaldu ˈveɾðɨ|pron}}, [[Portuguese language|Portuguese]] for "green broth") is a popular [[soup]] in [[Portuguese cuisine]].<ref name="Lacerda2009">{{cite book|author=Ilídio Lacerda|title=The Secrets of Portuguese Cookery|url=https://books.google.com/books?id=4zGVqkasA9EC&pg=PA31|accessdate=24 August 2013|date=December 2009|publisher=BoD – Books on Demand|isbn=978-3-8391-4529-6|pages=31–}}</ref>
+
+The basic traditional ingredients for {{lang|pt|italic=unset|caldo verde}} are [[Julienning|julienned]] [[Portuguese cabbage]] or {{lang|pt|couve-galega}} (essentially a type of collard green), (or alternatively other leafy greens such as [[kale]] or [[mustard greens]]), potatoes, [[olive oil]], black pepper and salt, mainly flavoured with onion and garlic.<ref>{{cite book | title=The Illustrated Cook's Book of Ingredients | publisher=DK Publishing | year=2010 | isbn=978-0-7566-7673-5 | url=https://books.google.com/books?id=TZdT_Kndq_8C&pg=PA193 | accessdate=April 2, 2017 | page=193}}</ref><ref>{{cite web | title=Portuguese Caldo Verde with Broa de Milho | website=The San Diego Participant Observer | url=https://www.parobs.org/index.php?module=article&view=4146 | access-date=2020-06-23 | archive-date=2021-05-31 | archive-url=https://web.archive.org/web/20210531125937/https://www.parobs.org/index.php?module=article&view=4146 | url-status=dead }}</ref> Some regional recipes favour slight variations, like turnip greens or added meat, such as [[ham hock]], making it similar to [[wedding soup|Italo-American wedding soup]]. Traditionally, the soup is accompanied by slices of [[paio]], {{lang|pt|[[chouriço]]}} or {{lang|pt|[[linguiça]]}} (boiled whole with the potatoes, then sliced and added to the finished soup when serving) and with a Portuguese [[cornbread]] or [[rye bread]] called {{lang|pt|[[broa]]}} on the side for dipping.<ref name="Dragonwagon2007">{{cite book|author=Crescent Dragonwagon|title=The Cornbread Gospels|url=https://books.google.com/books?id=3sdQ-MtWRMkC&pg=PA103|accessdate=24 August 2013|year=2007|publisher=Workman Publishing|isbn=978-0-7611-1916-6|pages=103–}}</ref> In Brazil, the soup is accompanied by [[pão francês]], as are virtually all kinds of soups.<ref>{{cite web |last1=Pereira |first1=Luciano |title=French Rolls Popular in Brazil |url=https://www.world-grain.com/articles/15561-french-rolls-popular-in-brazil |website=World-grain.com |access-date=5 February 2024}}</ref> In Portugal, {{lang|pt|italic=unset|caldo verde}} is typically consumed during events such as [[wedding]]s, birthdays and popular celebrations. It is sometimes consumed before a main course or as a late supper. It is traditionally served in earthenware bowls called {{lang|pt|tigela}}.<ref>{{Cite web|url=https://lusojornal.com/na-cozinha-do-vitor-caldo-verde/|title=Na Cozinha do Vítor: Caldo Verde|date=16 March 2019}}</ref>
+
+==History==
+{{lang|pt|italics=unset|Caldo verde}} originated from the [[Minho Province]] in northern Portugal, based on an earlier recipe brought to Portugal by English merchants.<ref name="Opello1991">{{cite book|author=Walter C. Opello|title=Portugal|url=https://books.google.com/books?id=cU1pAAAAMAAJ|accessdate=24 August 2013|year=1991|publisher=Westview Press|isbn=978-0-8133-0488-5|page=6}}</ref> Today, it is a traditional favourite nationwide and abroad, particularly in significant communities of Portuguese descent found in locations like [[Argentina]], [[Brazil]], [[France]], [[South Africa]], [[Macau]], [[Massachusetts]], [[New Jersey]], [[Rhode Island]], and [[Toronto]]. References to the soup appear in many novels by [[Camilo Castelo Branco]]. In 2011, following the result of a public vote, the soup was announced as one of Portugal's Seven Wonders of Gastronomy, highlighting both its popularity and heritage in Portugal.<ref>[https://wetravelportugal.com/caldo-verde/ Caldo Verde] wetravelportugal.com. Accessed 2 September 2023.</ref> In neighboring [[Galicia (Spain)|Galicia]] (historically and culturally close to Portugal) a similar dish, [[caldo galego]] is also a culinary tradition.
+
+==See also==
+{{Portal|Portugal|Food}}
+* [[Caldo galego]]
+* [[Colcannon]]
+* [[List of soups]]
+* [[Rumbledethumps]]
+* [[Shchi]]
+* [[Stamppot]]
+
+==References==
+{{reflist}}<ref>{{Cite web |last=Leite |first=David |date=2001-01-10 |title=Caldo Verde {{!}} Portuguese Green Soup |url=https://leitesculinaria.com/7580/recipes-portuguese-kale-soup-caldo-verde.html |access-date=2025-03-09 |website=Leite's Culinaria |language=en-US}}</ref>{{Portuguese cuisine}}
+
+[[Category:Portuguese soups]]
+[[Category:Brazilian soups]]
+[[Category:Vegetable soups]]
+[[Category:Macanese cuisine]]
+[[Category:Brassica oleracea dishes]]
+[[Category:Potato dishes]]

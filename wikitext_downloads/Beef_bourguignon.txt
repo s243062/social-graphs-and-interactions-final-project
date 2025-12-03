@@ -1,0 +1,66 @@
+{{Short description|French beef dish}}
+{{Infobox prepared food
+| name             = Beef bourguignon
+| image            = Beef bourguignon NYT.jpg
+| image_size       = 250px
+| caption          = A dish of bœuf bourguignon
+| alternate_name   = Beef Burgundy, bœuf à la bourguignonne
+| country          = [[France]]
+| region           = [[Burgundy]]
+| creator          = 
+| course           = 
+| type             = [[Stew]]
+| served           = 
+| main_ingredient  = [[Beef]], [[red wine]] (often red [[Burgundy wine|Burgundy]]), beef [[Stock (food)|stock]], [[lardons]], [[onion]]s, [[bouquet garni]], [[pearl onion]]s, [[Edible mushroom|mushrooms]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+[[File:Julia Child's Boeuf Bourguignon.jpg|thumb|Beef bourguignon cooked in a [[Dutch oven]]]]
+'''Beef bourguignon''' ({{IPAc-en|us|ˌ|b|ʊər|ɡ|iː|n|ˈ|j|ɒ̃}}) or '''bœuf bourguignon''' ({{IPAc-en|uk|ˌ|b|ɜː|f|_|ˈ|b|ɔːr|ɡ|ɪ|n|.|j|ɒ̃}};<ref>''[[Oxford English Dictionary]]'', 3rd edition, 2013 [http://www.oed.com/view/Entry/398163 ''s.v.'']</ref> {{IPA|fr|bœf buʁɡiɲɔ̃|lang}}), also called '''beef Burgundy''', and '''''bœuf à la Bourguignonne''''',<ref name="rhd">''Random House Dictionary'' [http://www.dictionary.com/browse/boeuf-bourguignon online at dictionary.com]</ref> is a [[French cuisine|French]] [[beef stew|stew]] of [[beef]] [[braised]] in [[red wine]], often red [[Burgundy wine|Burgundy]], and beef stock, typically flavored with [[carrot]]s, [[onion]]s, [[garlic]], and a ''[[bouquet garni]]'', and garnished with [[pearl onion]]s and [[Edible mushroom|mushrooms]].<ref name="larousse">Prosper Montagné, ''Larousse Gastronomique'', English translation, Crown 1961 ''s.v.'' 'beef'/ 'beef ragoûts'</ref><ref name="bocuse"/><ref name="stange"/><ref name="escoffier">[[Auguste Escoffier]], "Pièce de bœuf à la bourguignonne", ''A Guide to Modern Cookery'', 1907 [https://books.google.com/books?id=Y8vGoOD_uFIC&pg=PA853 p. 379]</ref>
+
+"Bourguignon" is, since the mid-nineteenth century, a culinary term applied to various dishes prepared with wine or with a mushroom and onion garnish.<ref name="xix">Pierre Larousse, ''Grand dictionnaire universel du XIXe siècle'', '''2''', 1867 [https://books.google.com/books?id=6gpMa7VeyU0C&pg=PA1133 ''s.v.'']</ref><ref name="lady">A French Lady, "Gigot à la Bourguignonne", ''Cookery for English Households'', 1864, [https://books.google.com/books?id=uS9dAAAAcAAJ&pg=PA139 p. 139]</ref><ref name="francatelli">Charles Elmé Francatelli, "Rabbits, à la bourguignonne", ''The Modern Cook'', 1846 [https://books.google.com/books?id=yH8EAAAAQAAJ&pg=PA320 p. 320]</ref>
+It is probably not a regional recipe from Burgundy.<ref name="chev">Jim Chevallier, ''A History of the Food of Paris: From Roast Mammoth to Steak Frites'', 2018, {{isbn|1442272821}}, p. 191</ref><ref name="stange"/>
+
+When made with whole roasts, the meat was often [[lardon#Larding|larded]].<ref name="stange"/>
+
+==History==
+The dish is often "touted as traditional", but it was first documented in 1867,<ref name="xix"/> and "does not appear to be very old".<ref name="chev"/> Other recipes called "à la Bourguignonne" with similar garnishes were found in the mid-19th century for leg of lamb<ref name="lady"/> and for rabbit.<ref name="francatelli"/> In the 19th century, it "did not enjoy a great reputation", perhaps because it was often made with leftover cooked meat.<ref name="chev"/><ref>Marcel Butler, ''La bonne cuisine pour tous'', Paris, 1885, {{BNF|301806016}}, [https://gallica.bnf.fr/ark:/12148/bpt6k110690c/f244.item p. 241-2]</ref>
+
+The dish has become a standard of French cuisine, notably in Parisian [[Bistro|bistrots]]; however, it only began to be considered a [[Cuisine of Burgundy|Burgundian specialty]] in the twentieth century.<ref name="chev"/>
+
+The co-authors of ''[[Mastering the Art of French Cooking]]'', [[Simone Beck]], [[Louisette Bertholle]], and [[Julia Child]], have described the dish as "certainly one of the most delicious beef dishes concocted by man".<ref name="child">[[Simone Beck]], [[Louisette Bertholle]] and [[Julia Child]], ''[[Mastering the Art of French Cooking]]'' '''1''':315 {{isbn|0394721780}}, 1961</ref>
+
+==Serving==
+[[File:Boeuf Bourguignon Paris Beaubourg.jpg|thumb|Beef bourguignon with boiled potatoes, as served at the ''Paris Beaubourg'' bistro in Paris]]
+
+Beef bourguignon is generally accompanied by boiled potatoes,<ref name="child"/><ref name="stange"/> but often also with mashed potatoes<ref>[https://www.bbc.co.uk/food/recipes/boeuf_bourguignon_25475 BBC Food: The Hairy Bikers' beef bourguignon] Linked 2023-11-09</ref><ref>[https://www.jamieoliver.com/recipes/beef-recipes/my-sumptious-beef-bourguignon/ Jamie Oliver: My sumptious beef bourguignon] Linked 2023-11-09</ref><ref>[https://cafedelites.com/beef-bourguignon/ Cafe Delites: Julia Child's beef bourguignon] Linked 2023-11-09</ref> or pasta.<ref>Robert Hamburger, ''Paris Bistros: A Guide to the Best'', 1995, {{isbn|0880014172}}, p. 86</ref>
+
+==Name and spellings==
+
+The dish may be called ''bourguignon'' or ''à la bourguignonne'' in both French and English.<ref>Wayne Gisslen, ''Le Cordon Bleu Professional Cooking'', Fifth Edition, 2003</ref><ref name="bocuse">Paul Bocuse, ''La cuisine du marché'', 1980 {{isbn|2082000478}}, p. 182</ref><ref name="stange">''[[La cuisine de Madame Saint-Ange]]'', p. 416</ref> It is occasionally called ''beef/bœuf bourguignonne'' in American English,<ref name="rhd"/><ref>Sharon Tyler Herbst, ''[[Food Lover's Companion]]'', Third Edition, 2001</ref> but in French and non-American English, by far the most common name is ''bœuf bourguignon''.<ref>[https://books.google.com/ngrams/graph?content=b%C5%93uf+bourguignonne%2Cb%C5%93uf+%C3%A0+la+bourguignonne%2Cb%C5%93uf+bourguignon&year_start=1800&year_end=2019&corpus=30&smoothing=3&direct_url=t1%3B%2Cb%C5%93uf%20bourguignonne%3B%2Cc0%3B.t1%3B%2Cb%C5%93uf%20%C3%A0%20la%20bourguignonne%3B%2Cc0%3B.t1%3B%2Cb%C5%93uf%20bourguignon%3B%2Cc0 Usage in Google ngrams]</ref>
+
+==See also==
+{{div col|colwidth=30em}}
+* {{annotated link|Beef shank}}
+* {{annotated link|Carbonade flamande}}
+* {{annotated link|Coq au vin}}
+* {{annotated link|Daube}}
+* {{annotated link|Hayashi rice}}
+* {{annotated link|Oeufs en meurette}}
+* {{annotated link|Sauce bourguignonne}}
+* [[List of stews]]
+{{div col end}}
+
+==Notes and references==
+{{reflist}}
+
+{{Commons category}}
+{{Cookbook|Boeuf Bourguignon}}
+
+{{Beef}}
+
+{{DEFAULTSORT:Beef Bourguignon}}
+[[Category:French stews]]
+[[Category:French beef dishes]]
+[[Category:Wine dishes]]

@@ -1,0 +1,56 @@
+{{Short description|Snack food made from cornmeal}}
+{{About||other chips made from corn|Tortilla chips|the film|Corn Chips}}
+{{Infobox food
+| name               = Corn chip
+| image              = Fritos on a white background.jpg
+| image_size         = 
+| image_alt          = 
+| caption            = [[Fritos]]
+| type               = [[Snack food]]
+| course             = 
+| country            = [[United States]]
+| region             = 
+| served             = Room temperature
+| main_ingredient    = [[Cornmeal]]
+| similar_dish       = [[Potato chip]] (crisps)
+| cookbook           = 
+| commons            = 
+| other              = 
+| no_recipes         = false
+}}
+
+'''Corn chips''' are a [[snack food]] made from [[cornmeal]] fried in oil or baked, usually in the shape of a small noodle or scoop. Corn chips are thick, rigid, very crunchy, have the strong aroma and flavor of roasted corn, and are often heavily seasoned with [[salt]].
+
+==Overview==
+In the [[United States]], [[Fritos]] is one of the oldest and most widely recognized brands of corn chips.<ref name="FritosHistory">
+{{Cite web |author=THE KITCHEN SISTERS |url=https://www.npr.org/templates/story/story.php?storyId=15377830 |title=The Birth of the Frito |publisher=[[National Public Radio]] |work=[[Morning Edition]] |date=2007-10-18 |url-status=live |archive-url=https://web.archive.org/web/20080424044353/http://www.npr.org/templates/story/story.php?storyId=15377830 |archive-date=2008-04-24 |access-date=2008-08-02}}</ref>
+
+While corn chips and [[tortilla chip]]s are both made from [[maize|corn]], the corn in tortilla chips is subjected to the [[nixtamalization]] process, resulting in a milder flavor and aroma, and a less rigid texture.<ref name="Nixtamalization">{{cite journal |last=Caballero-Briones |first=F. |date=June 2000 |title=Recent advances on the understanding of the ''nixtamalization'' process |journal=Superficies y Vacío |volume=10 |pages=20–24 |publisher=Sociedad Mexicana de Ciencia de Superficies y de Vacío |location=[[Mérida, Yucatán]], Mexico |issn=1665-3521|display-authors=etal}}</ref> Tortilla chips also tend to be larger, thinner, less fatty, and less salty than corn chips. 
+
+Corn chips are usually eaten alone or with a chip [[dip (food)|dip]]. They are a common ingredient in homemade and commercial [[Snack food|party mixes]]. In the Southwestern US, a popular dish, [[Frito pie]], is made with corn chips and [[chili con carne|chili]].<ref name="FritoPie">
+{{Cite web |url = http://www.texascooking.com/recipes/fritopie.htm |title = Frito pie (recipe) |access-date = 2008-08-02
+|publisher = Texas Cooking Online |date = 2007 |url-status = live |archive-url = https://web.archive.org/web/20080731181402/http://www.texascooking.com/recipes/fritopie.htm |archive-date = 2008-07-31 }}
+</ref><ref name="FritoPieArticle"> {{Cite web |url = http://www.texascooking.com/features/feb2004fritopie.htm |title = Frito pie |access-date = 2008-08-02  |publisher = Texas Cooking Online |date = 2007 |url-status = live |archive-url = https://web.archive.org/web/20080621013106/http://www.texascooking.com/features/feb2004fritopie.htm  |archive-date = 2008-06-21 }}</ref> In some areas, it is popular to pour the chili into a bag of corn chips and eat the mixture directly from the bag.<ref name="Dallas Morning News">{{cite news |last=Harris |first=Joyce |title=The allure of Frito Pie |url=http://www.dallasnews.com/sharedcontent/dws/fea/taste/stories/DN-nf_fritohistory_0613liv.State.Edition1.3370c.html |access-date=21 October 2010 |newspaper=[[Dallas Morning News]] |date=13 June 2007 |url-status=live|archive-url=https://web.archive.org/web/20100113062339/http://www.dallasnews.com/sharedcontent/dws/fea/taste/stories/DN-nf_fritohistory_0613liv.State.Edition1.3370c.html |archive-date=13 January 2010}}</ref><ref name="Walking Taco">{{cite web |last=Popik |first=Barry |title=Walking Taco |url=http://www.barrypopik.com/index.php/new_york_city/entry/walking_taco_taco_in_a_bag_petros/|work=The Big Apple|publisher=Barry Popik|date=28 November 2007|access-date=21 October 2010|url-status=live|archive-url=https://web.archive.org/web/20100620095359/http://www.barrypopik.com/index.php/new_york_city/entry/walking_taco_taco_in_a_bag_petros|archive-date=20 June 2010}}</ref>
+
+== See also ==
+{{portal|Food}}
+{{div col|colwidth=30em}}
+* [[Axium Foods]]
+* [[Bean chips]]
+* [[Chips and dip]]
+* [[Frito-Lay]]
+* [[List of maize dishes]]
+* [[Nachos]]
+* [[Potato chip]]
+* [[Seven Layer Dip]]
+* [[Tortilla chip]]
+{{div col end}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Chips and crisps}}
+{{Corn}}
+
+[[Category:Convenience foods]]
+[[Category:American snack foods]]

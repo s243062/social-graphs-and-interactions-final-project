@@ -1,0 +1,65 @@
+{{Short description|Traditional Welsh soup}}
+{{distinguish|Cowell (disambiguation){{!}}Cowell}}{{distinguish|Caul}}
+{{Infobox food
+| name             = Cawl
+| image            = Cawl Cymreig.jpg
+| image_size       = 250px
+| caption          = Cawl with unthickened stock
+| alternate_name   = 
+| country          = [[Wales]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Broth]]
+| served           = 
+| main_ingredient  = [[Potato]]es, [[rutabaga|swedes]], [[carrot]]s, [[leek]]s, [[meat]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+{{Culture of Wales}}
+
+'''Cawl''' ({{IPA|cy|kaʊ̯l|lang}}) is a [[Welsh cuisine|Welsh dish]]. In modern Welsh, the word is used for any soup or broth; in English, it refers to a traditional Welsh soup, usually called ''cawl Cymreig'' (literally 'Welsh soup') in Welsh. Historically, ingredients tended to vary, but the most common recipes are [[lamb and mutton|lamb]] or [[beef]] with [[leek]]s, [[potato]]es, [[rutabaga|swedes]], [[carrot]]s and other seasonal vegetables. Cawl is recognised as a national dish of [[Wales]].
+
+==History==
+With recipes dating back to the fourteenth century and prehistoric culinary roots, cawl is widely considered to be the ''[[de facto]]'' national dish of Wales.<ref>{{cite web|last=Staff|title=Children celebrate St David's Day with traditional cawl |url=http://news.bbc.co.uk/local/southwestwales/hi/people_and_places/newsid_8550000/8550170.stm| publisher=BBC News |date=5 March 2010|accessdate=13 March 2012}}</ref> Cawl was traditionally eaten during the winter months in the south-west of Wales.<ref name="TWAEOW">Davies, (2008) p.130</ref> Today, the word is often used to refer to a dish containing lamb and leeks, due to their association with Welsh culture, but historically, it was made with either salted bacon or beef, along with swedes, carrots, and other seasonal vegetables.<ref name="TWAEOW"/> With the introduction of the potato into Welsh cuisine in the later half of the 18th century, it became a core ingredient in the recipe as well.
+
+The meat in the dish was normally cut into medium-sized pieces and simmered with the vegetables in water. The stock was thickened with either oatmeal or flour and was then served, without the meat or vegetables, as a first course.<ref name="TWAEOW"/>  The vegetables and slices of the meat would then be served as a second course.<ref name="TWAEOW"/> Cawl served as a single course is today the most popular way to serve the meal, which is similar to its North Wales, equivalent ''lobsgows''. ''Lobsgows'' differ in that the meat and vegetables were cut into smaller pieces, and the stock was not thickened.<ref name="TWAEOW"/>
+
+"[[Cawl cennin]]", or leek cawl, can be made without meat but using meat stock. In some areas cawl is often served with bread and cheese. These are served separately on a plate. The dish was traditionally cooked in an iron pot or cauldron over the fire<ref>{{cite web|last=Staff|title=Captain Alfie laps up cawl crawl |url=http://news.bbc.co.uk/1/hi/wales/south_west/4749382.stm |publisher=BBC News |date=26 February 2006| accessdate=13 March 2012}}</ref> and eaten with wooden spoons.<ref>Freeman (1980) p.82</ref>
+
+==Etymology==
+The word ''cawl'' in [[Welsh language|Welsh]] is first recorded in the 14th century, and is thought to come from the [[Latin]] {{Lang|la|caulis}}, meaning the stalk of a plant, a [[cabbage]] stalk or a cabbage. An alternative suggestion is that it is from Latin ''{{Lang|la|calidus}}'', sometimes already in Classical Latin shortened to ''{{Lang|la|caldus}}'', meaning "warm", as this is the source of Spanish ''{{Lang|es|caldo}}'', with the senses of broth or gravy.<ref>''[[Diccionario de la Real Academia Española]]''</ref>  The second suggestion seems more likely because of the sense, but in favour of the first theory, it is true that one of the reflexes of Latin AU can be AW in Welsh, while the short A of ''calidus'' would normally give A.<ref>Henry Lewis ''Yr Elfen Ladin yn yr Iaith Cymraeg'' University of Wales Press</ref>
+
+==See also==
+{{Portal|Food}}
+{{div col|colwidth=12em}}
+* [[Fårikål]]
+* [[Irish stew]]
+* [[Lancashire hotpot]]
+* [[List of lamb dishes]]
+* [[Scotch broth]]
+* [[Scouse (food)|Scouse]]
+{{div col end}}
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+* {{cite book |editor1-first=John |editor1-last=Davies|editor1-link=John Davies (historian)|editor2-first=Nigel |editor2-last=Jenkins | editor2-link=Nigel Jenkins| editor3-first=Baines |editor3-last=Menna|editor4-first=Peredur I. |editor4-last=Lynch|title=The Welsh Academy Encyclopaedia of Wales |year=2008 |publisher=University of Wales Press |location=Cardiff |isbn=978-0-7083-1953-6}}
+* {{cite book |last=Freeman |first=Bobby |title=First Catch Your Peacock, a book of Welsh food |year=2006 |publisher= Y Lolfa Cyf |location=Talybont, Ceredigion |isbn=978-0862433154}}
+* {{cite book |last=Freeman |first=Bobby |title=A Book of Welsh Soups and Savouries: Including Traditional Welsh Cawl |year=2004 |publisher= Y Lolfa Cyf |location=Talybont, Ceredigion |isbn=978-0862431426}}
+
+==External links==
+{{Wiktionary}}
+
+*[https://www.bbcgoodfood.com/user/161865/recipe/welsh-cawl BBC recipe for Cawl Cennin]
+*[https://web.archive.org/web/20150626130215/http://www.wales.com/en/content/cms/english/st_davids_day/recipes/recipes.aspx recipe for cawl and other Welsh food]
+
+{{Welsh Cuisine}}
+{{National symbols of Wales}}
+[[Category:British soups]]
+[[Category:Lamb dishes]]
+[[Category:National dishes]]
+[[Category:Welsh cuisine]]
+[[Category:Stock (food)]]

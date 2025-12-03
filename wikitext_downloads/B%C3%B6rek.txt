@@ -1,0 +1,268 @@
+{{Short description|Stuffed phyllo pastry}}
+{{Italic title}}
+{{for-multi|the Dino Merlin album|Burek (album){{!}}''Burek'' (album)|other uses|Borek (disambiguation)}}
+{{Unreliable sources|date=June 2021}}
+{{Infobox food
+|name             = Börek
+|image            = Meat_burek_%28GAK_bakery%2C_Belgrade%2C_Serbia%29.jpg 
+|alternate_name   = Burek, börek, bourekas, boreg, byrek
+|region           = 
+|creator          = 
+|course           = Tea pastry
+|type             = [[Savoury pie]]
+|served           =
+|main_ingredient  = Flaky pastry (usually filo), various fillings
+|variations       = Meat, potatoes, leafy greens, cheese, eggplant, mushrooms
+|calories         =
+|other            =
+|commons          = Commons category:Burek
+}}
+
+'''''Börek'''''<ref name=":0">{{Cite web|title=Home : Oxford English Dictionary|url=https://www.oed.com/start;jsessionid=214A0B5E068FCF2739B012D6DAB8F105?authRejection=true&url=%2Fview%2FEntry%2F276195%3FredirectedFrom%3Dborek|access-date=2021-09-25|website=www.oed.com|language=en|archive-date=2021-09-25|archive-url=https://web.archive.org/web/20210925085850/https://www.oed.com/start;jsessionid=214A0B5E068FCF2739B012D6DAB8F105?authRejection=true&url=%2Fview%2FEntry%2F276195%3FredirectedFrom%3Dborek|url-status=live}}</ref><ref name=":1">{{Cite web|title=BOREK {{!}} Definition of BOREK by Oxford Dictionary on Lexico.com also meaning of BOREK|url=https://www.lexico.com/definition/borek|archive-url=https://web.archive.org/web/20210916204411/https://www.lexico.com/definition/borek|url-status=dead|archive-date=September 16, 2021|access-date=2021-09-25|website=Lexico Dictionaries {{!}} English|language=en}}</ref> or '''burek''' or '''byrek''' is a family of pastries or pies made in the [[Middle East]] and the [[Balkans]]. The pastry is made of a thin flaky [[dough]] such as [[filo]] with a variety of fillings, such as meat, cheese, spinach, or potatoes. A borek may be prepared in a large pan and cut into portions after baking, or as individual pastries. They are usually baked but some varieties can be fried. Borek is sometimes sprinkled with [[sesame]] or [[nigella seed]]s, and it can be served hot or cold.
+
+Throughout the Balkan peninsula and in [[West Asia]], it is commonly served with [[ayran]], or [[yogurt]]. It is a custom of [[Sephardic Jews]] to have ''[[bourekas]]'' for their [[Shabbat]] breakfast meal on Saturday mornings.
+
+==Origin and names==
+The English name ''borek''<ref name=":0" /><ref name=":1" /> comes from [[Turkish language|Turkish]] {{lang|tr|börek}} (<small>Turkish pronunciation:</small> [[Help:IPA/Turkish|[bœˈɾec]]], [[Ottoman Turkish|Ottoman]] {{Lang|ota|بورك}}), while ''burek'' is used in the countries of the [[Yugoslavia#New states|former Yugoslavia]]. Forms in other languages include: {{langx|sq|byrek}}; {{langx|el|μπουρέκι|bouréki}}; {{Langx|hy|բյորեկ|byorek}}; {{langx|arq|بُريك|bourek}} and {{lang|arq-Latn|brick annabi}}; and {{langx|aeb-Latn|[[brik]]}}.{{Cn|date=March 2025}}
+
+According to [[lexicographer]] [[Sevan Nişanyan]], the Turkish word {{Lang|tr|börek}} is ultimately originated from [[Turkic languages|Turkic]] {{Lang|tr|bögrek}}, from ''[[:wikt:böğür|böğür]]'' (meaning 'kidney').<ref name=nisanyan>{{cite web |last1=Nişanyan |first1=Sevan |title=börek - Nişanyan Sözlük |url=https://www.nisanyansozluk.com/kelime/b%C3%B6rek |website=Nişanyan Sözlük |access-date=15 April 2023 |archive-date=23 August 2023 |archive-url=https://web.archive.org/web/20230823052229/https://www.nisanyansozluk.com/kelime/b%C3%B6rek |url-status=live }}</ref> Nişanyan noted that the word is also used in [[Siberian Turkic languages]] such as [[Yakut language|Saqa]] as ''börüök''.<ref name="nisanyan" /> According to another theory, it may have come from the [[Persian language|Persian]] {{Transliteration|fa|burak}} ({{Lang|fa|بورک}}), the diminutive form of {{Transliteration|fa|būra}} or {{Transliteration|fa|buġra}} or ({{Lang|fa|بوره/بغره}}), meaning "stew", and refers to any dish made with ''[[filo|yufka]]'' (filo).{{Citation needed|date=April 2023}} The Persian word {{Transliteration|fa|bureh}} goes back to the [[Middle Persian]] *bōrak. This word ultimately goes back to the [[Proto-Indo-European]] root [[wikt:Reconstruction:Proto-Indo-European/bʰer-|*bher-]] which meant "to carve, cut, split".<ref name=":2">Hạsandūst, Muhạmmad. 2014.Hassandust, Mohammad. 2015. [https://www.biblioiranica.info/a-new-etymological-dictionary-of-persian-language/ The etymological dictionary of Persian] {{Webarchive|url=https://web.archive.org/web/20220128070250/https://www.biblioiranica.info/a-new-etymological-dictionary-of-persian-language/|date=2022-01-28}}. 5 Vols. Tehran: Academy of Persian Language and Literature. vol. 1 p.529.(Farhang-i rīšašināḫtī-i zabān-i Fārsī Ǧild 2 Ǧild 1. s.529)</ref> The name of another pastry, [[shekarbura]], is also borrowed from the same Persian word.<ref name=":2" /> Nişanyan noted the possibility of Turkic origin for the Persian word.<ref name = "Nişanyan">Nişanyan – Türkçe Etimolojik Sözlük: [https://www.nisanyansozluk.com/?k=b%C3%B6rek&view=annotated börek] {{Webarchive|url=https://web.archive.org/web/20210426165202/https://www.nisanyansozluk.com/?k=b%C3%B6rek&view=annotated |date=2021-04-26 }}. accessed: 26 April 2021.</ref>
+
+One theory posits that the dish in general is a descendant of the pre-existing [[Byzantine cuisine|Eastern Roman (Byzantine)]] dish ''en tyritas plakountas'' ([[Byzantine Greek]]: {{Lang|grc|εν τυρίτας πλακούντας}}) "cheesy placenta", itself a descendant of ''[[placenta (food)|placenta]]'', the classical baked layered dough and cheese dish of [[Ancient Greek cuisine|Ancient Greek]], [[Ancient Roman cuisine|Ancient Roman]] and [[Byzantine cuisine]].<ref name="books.google.com" /><ref name="faas" /><ref name="Speros Vryonis 1971, p. 482" /><ref name=":3">{{Cite book |last1=Moudiotis |first1=George |title=Traditional Greek Cooking: A Memoir with Recipes |date=1998 |publisher=Garnet |isbn=9781859641170}}</ref>
+
+Some types of borek could possibly have been prepared in [[Turkish cuisine]], according to this theory, they have been developed in [[Central Asia]] before some westward migration to [[Anatolia]] in the late Middle Ages,<ref name="AHBADADDED" /><ref name="Perry, Charles 1994" /> or by nomadic Turks of Central Asia some time before the seventh century.<ref name=":4">{{Cite web|url=https://www.historytoday.com/archive/historians-cookbook/history-borek|title=A History of Börek|last=Lee|first=Alexander|date=9 September 2019|website=History Today|url-status=live|archive-url=https://web.archive.org/web/20190917104220/https://www.historytoday.com/archive/historians-cookbook/history-borek|archive-date=17 September 2019|access-date=17 September 2019}}</ref>
+
+The dish was a popular element of [[Ottoman cuisine]], and may have been present at the Ottoman court,<ref name=":5">''[[Oxford Companion to Food]]'', ''s.v.''</ref><ref name=AHBADADDED>{{Cite book|last1=Algar|first1=Ayla Esen |year=1985|title=The Complete Book of Turkish Cooking|publisher=Kegan Paul International |isbn=0-7103-0334-3}}</ref> though there are also indications it was made among Central Asian Turks;<ref name="Perry, Charles 1994">Perry, Charles. "The Taste for Layered Bread among the Nomadic Turks and the Central Asian Origins of Baklava", in ''A Taste of Thyme: Culinary Cultures of the Middle East'' (ed. Sami Zubaida, Richard Tapper), 1994, {{ISBN|1-86064-603-4}}.</ref> other versions may date to the [[Classical antiquity|Classical era]] of the eastern Mediterranean.<ref name="books.google.com">{{cite book|url=https://books.google.com/books?id=jYa3J6xrjt4C&q=koptoplakous&pg=PA184|title=Food in Motion: The Migration of Foodstuffs and Cookery Techniques : Proceedings : Oxford Symposium 1983|first=Alan|last=Davidson|date=30 November 1983|publisher=Oxford Symposium|isbn=9780907325161|via=Google Books|access-date=2 October 2020|archive-date=26 January 2022|archive-url=https://web.archive.org/web/20220126140838/https://books.google.com/books?id=jYa3J6xrjt4C&q=koptoplakous&pg=PA184|url-status=live}}</ref><ref name=faas>{{Cite book|url=https://books.google.com/books?id=YXGlAr17oekC|title=Around the Roman Table: Food and Feasting in Ancient Rome|first=Patrick|last=Faas|date=April 19, 2005|publisher=University of Chicago Press|isbn=9780226233475|via=Google Books|access-date=September 21, 2016|archive-date=July 30, 2016|archive-url=https://web.archive.org/web/20160730151401/https://books.google.com/books?id=YXGlAr17oekC|url-status=live}}</ref><ref name="Speros Vryonis 1971, p. 482">Speros Vryonis ''The Decline of Medieval Hellenism in Asia Minor'', 1971, p. 482</ref>
+
+One alternative etymological origin that has been suggested is that the word comes from the [[Turkic languages|Turkic]] root ''bur-'' 'to twist', <ref name=":6">Tietze, Türkisches etymologisches Wörterbuch, Band I, Ankara/Wien</ref><ref name=":7">{{cite web| author = Ahmet Toprak| url = https://www.angelfire.com/in/turkey/dil03.html#doguavrupa| title = Articles on Turkish language| access-date = 2015-01-27| id = late 1980s| archive-date = 2010-04-11| archive-url = https://web.archive.org/web/20100411031518/http://www.angelfire.com/in/turkey/dil03.html#doguavrupa| url-status = live}}</ref> but the sound harmony for this proposal would dictate the suffix "-aq",<ref name=":8">Э.В. Севортян, Этимологический Словарь Тюркских Языков, Том Б, Москва 1978</ref> and Turkic languages in Arabic orthography invariably write {{Lang|tr|börek}} with an ك not an ق, which weighs against this origin.{{Cn|date=March 2025}}
+
+==Regional variants==
+{{More citations needed section|date=March 2025}}
+Burek is popular in the cuisines of the former [[Byzantine Empire|Byzantine]], and [[Ottoman Empire]],<ref name=":9">{{Cite web|title=A History of Börek {{!}} History Today|url=https://www.historytoday.com/archive/historians-cookbook/history-borek|access-date=2021-01-14|website=www.historytoday.com|archive-date=2019-09-17|archive-url=https://web.archive.org/web/20190917104220/https://www.historytoday.com/archive/historians-cookbook/history-borek|url-status=live}}</ref> especially in [[North African cuisine|North Africa]] and throughout the [[Balkan cuisine|Balkans]].<ref name=":12">{{Cite web|title=Try This Traditional Savory Slavic Rolled Burek (Borek) Recipe|url=https://www.thespruceeats.com/traditional-yugoslavian-rolled-burek-borek-recipe-1805900|access-date=2021-01-14|website=The Spruce Eats|language=en|archive-date=2021-01-26|archive-url=https://web.archive.org/web/20210126121537/https://www.thespruceeats.com/traditional-yugoslavian-rolled-burek-borek-recipe-1805900|url-status=live}}</ref> Borek is also part of [[Mizrahi Jewish cuisine|Mizrahi]] and [[Sephardic Jewish cuisine|Sephardic]] Jewish traditions.<ref name=":10">{{Cite news|last=Haber, Joel|date=2020-06-04|title=The Unknown Jewish History of Bourekas|url=http://www.tasteofjew.com/the-unknown-jewish-history-of-bourekas/|access-date=2021-01-14|website=The Taste of Jewish Culture|language=en-US|archive-date=2020-12-04|archive-url=https://web.archive.org/web/20201204031759/http://www.tasteofjew.com/the-unknown-jewish-history-of-bourekas/|url-status=live}}</ref> They have been adopted by the [[History of the Jews in the Ottoman Empire|Ottoman Jewish communities]], and have been described, along with [[boyoz|boyos de pan]] and ''[[bulemas]]'' as forming "the trio of preeminent Ottoman Jewish pastries".<ref name=":11">{{cite book|url=https://books.google.com/books?id=ojc4Uker_V0C&q=bourekas+boyos+bulemas&pg=PA62|title=Encyclopedia of Jewish Food|first=Gil|last=Marks|date=17 November 2010|publisher=Wiley|isbn=9780470943540|via=Google Books|access-date=2 October 2020|archive-date=26 January 2022|archive-url=https://web.archive.org/web/20220126150209/https://books.google.com/books?id=ojc4Uker_V0C&q=bourekas+boyos+bulemas&pg=PA62|url-status=live}}</ref>
+
+==== Algeria ====
+{{Main|Algerian Bourek}}
+[[File:Bourekalgerien.jpg|thumb|Algerian bourek pastry]]
+
+In [[Algeria]], this dish is called ''[[Algerian Bourek|bourek]]'', a roll of pastry sheet stuffed with meat, onions, and spice, is one of the main appetizers of Algerian cuisine.<ref>{{Cite web |title=Algeria: Increase availability of vaccinations for livestock |url=https://www.worldfoodprize.org/documents/filelibrary/images/youth_programs/research_papers/2016_papers/CentraliaHS_KChrisman_MO_5F4C95077EF33.pdf |url-status=live |archive-url=https://web.archive.org/web/20211228002338/https://www.worldfoodprize.org/documents/filelibrary/images/youth_programs/research_papers/2016_papers/CentraliaHS_KChrisman_MO_5F4C95077EF33.pdf |archive-date=2021-12-28}}</ref>
+
+It is a starter served when receiving guests and especially during Ramadan evenings during the round meal of the holy month, usually accompanied by Algerian Chorba or [[Harira]]. Other forms include bourek packed with chicken and onions, shrimp and [[béchamel sauce]], or a [[Vegetarian cuisine|vegetarian]] alternative usually made of mashed potatoes and spinach.<ref>{{Cite journal |last1=Osman |first1=Farhana |last2=Haldar |first2=Sumanto |last3=Henry |first3=Christiani Jeyakumar |date=2020-08-17 |title=Effects of Time-Restricted Feeding during Ramadan on Dietary Intake, Body Composition and Metabolic Outcomes |journal=Nutrients |language=en |volume=12 |issue=8 |pages=2478 |doi=10.3390/nu12082478 |issn=2072-6643 |pmc=7468808 |pmid=32824528 |doi-access=free}}</ref>
+
+Another Algerian variant of Bourek is called Brik or Brika, a specialty of Algeria's east,<ref>{{Cite web |last=Marin Wagda |date=2003 |title=Bricks, boureks et briouates |url=https://www.persee.fr/docAsPDF/homig_1142-852x_2003_num_1245_1_4076.pdf }}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite journal |last=BENAYOUN |first=JOËLLE ALLOUCHE |date=1983 |title=Les pratiques culinaires: lieux de mémoire, facteur d'identité |url=https://www.jstor.org/stable/41285309 |journal=La Rassegna Mensile di Israel |volume=49 |issue=9/12 |pages=615–637 |jstor=41285309 |issn=0033-9792 |access-date=2022-02-04 |archive-date=2022-02-04 |archive-url=https://web.archive.org/web/20220204195153/https://www.jstor.org/stable/41285309 |url-status=live }}</ref> notably [[Annaba Province|Annaba]]. It is a savory entree made from brik leaf, stuffed with mashed potatoes and a mixture of minced meat, onions, cheese and parsley. The whole is topped with a seasoned raw egg which cooks once the sheet of brik has been folded and soaked in boiling oil.<ref>{{Cite book |last=Gavin |first=Paola |title=Mediterranean vegetarian cooking |date=2005 |isbn=978-1-59077-191-4 |location=New York |oclc=907951240}}</ref>
+
+==== Armenia ====
+[[File:Boreks- la cuisine arménienne de Pierrette.jpg|thumb|[[Armenian cuisine|Armenian]] herb-stuffed byoreks]]
+In [[Armenia]], {{Lang|hy-Latn|byorek}} ([[Armenian language|Armenian]]: {{Lang|hy|բյորեկ}}) or {{Lang|hy-Latn|borek}} ([[Armenian language|Armenian]]: {{Lang|hy|բորեկ}}) consists of dough, or filo dough, folded into triangles and stuffed with spinach, onions and [[List of Armenian cheeses|Armenian cheeses]] or ground beef.<ref>{{cite book |title=Who's Who in American Restaurants |date=1986 |publisher=Who's Who Incorporated |isbn=9780910297042 |page=119}}</ref>
+
+''Panri borek'' ([[Armenians|Armenian]]: պանրի բորեկ), or cheese borek, is the most widespread variant in Armenian homes and bakeries. It is typically filled with cheeses such as [[Lori (cheese)|lori]], [[chechil]], or [[Motal (cheese)|motal]]. The filling is often mixed with herbs like [[tarragon]] or [[parsley]] and encased in folded or rolled phyllo dough. In some regions, [[lavash]] is often used instead of [[Filo|phyllo]]. This variety is often served during breakfast, or at festive gatherings.<ref>{{Cite web |title=Armenian Cheese Boreg Recipe |url=https://www.bonappeteach.com/armenian-cheese-boreg-recipe/ |website=Bon Appeteach |date=3 April 2023 }}</ref><ref>{{Cite web |title=ARMENIAN CHEESE BOREK |url=https://thestuffedgrapeleaf.com/armenian-cheese-borek/ |website=The Stuffed Grape Leave |date=19 February 2021 }}</ref>
+
+''Msov borek'' ([[Armenian language|Armenian]]: մսով բորեկ, “meat borek”) is a savory pastry made with seasoned ground beef or lamb, often including onions. It is usually fried and served hot. In the [[Armenian diaspora|diaspora]], triangular fried versions are especially popular and often appear on [[meze]] platters during [[New Year's Eve|New Year’s]] and [[Easter]] feasts.<ref>{{Cite web |title=Meat boregs |url=https://thearmeniankitchen.com/meat-boregs-detroit-style/ |website=The Armenian kitchen |date=6 May 2013 }}</ref>
+
+''Spanakhov borek'' (Armenian: սպանախով բորեկ), or [[spinach]] borek, is filled with chopped spinach and cheese, and sometimes eggs or onion. It is reminiscent of the [[Greek cuisine|Greek]] [[spanakopita]] but reflects Armenian taste with a different seasoning and different cheese blends. It is eaten both warm and cold and is also prepared without dairy during [[Lent]].<ref>{{Cite web |title=Borek (Armenian Spinach and Cheese Turnovers) |url=https://www.seriouseats.com/borek-5185229 |website=Serious Eats}}</ref><ref>{{Cite web |title=Armenian Spinach Borek – Spanakopita (Spanakhov Nazuk) |url=https://www.osharak.com/armenian-spinach-borek-spanakhov-nazuk-spanakopita/ |website=Osharak |date=29 September 2023 }}</ref>
+
+=== Albania and Kosovo ===
+[[File:Arnavut_böreği.jpg|thumb|Byrek in [[Albania]]]]
+[[File:Albanian triangle byrek.jpg|thumb|Albanian triangle byrek]]In [[Albania]], this dish is called ([[Albanian language|Albanian]]: {{Lang|sq|byrek}}). In [[Kosovo]] and few other regions, byrek is also known as "''pite''". Byrek is traditionally made with several layers of dough that have been thinly rolled out by hand. The final form can be small, individual triangles, especially from street vendors called "byrektore" which sell byrek and other traditional pastries and drinks.  It can also be made as one large byrek that is cut into smaller pieces. There are different regional variations of byrek. It can be served cold or hot.
+
+The most common fillings include: cheese (especially ''gjizë'', salted [[curd]] cheese), ground meat and onions ([[ragù]]-style filling), [[spinach]] and eggs, milk and eggs with pre-baked dough layers, it can also be made with tomato and onions, peppers and beans, potato or a sweet filling of [[pumpkin]], [[Stinging nettle|nettles]] (known as ''byrek me hithra''), or kidney beans (''byrek me fasule'') which is popular in winter.<ref name="drivemefoody">{{cite web |date=21 June 2020 |title=An introduction to Albanian food in 10 dishes |url=https://drivemefoody.com/en/albanian-food-10-dishes/ |url-status=live |archive-url=https://web.archive.org/web/20211130183309/https://drivemefoody.com/en/albanian-food-10-dishes/ |archive-date=2021-11-30 |access-date=2020-07-14 |website=drivemefoody.com}}</ref>
+
+There are mainly two categories of Albanian Byrek. The house byrek ''(byrek shtëpie)'' and triangle byrek (byrek trekendësh), the latter being mostly used as [[street food]].
+
+''[[Lakror]]'' is an Albanian pie dish from southern Albania. The pie is sometimes called a type of byrek pastry.<ref name="Thomaj648">{{cite book |last=Thomaj |first=Jan |url=https://books.google.com/books?id=2j4_AQAAIAAJ&q=lakror |title=Fjalor i shqipes së sotme: me rreth 34.000 fjalë |publisher=Botimet Toena |year=2002 |isbn=9789992716076 |page=648 |access-date=2021-02-11 |archive-url=https://web.archive.org/web/20210302052933/https://books.google.com/books?id=2j4_AQAAIAAJ&q=lakror |archive-date=2021-03-02 |url-status=live}}</ref><ref name="Ahmeti197">{{cite thesis |last=Ahmeti |first=Sharon |title=Albanian Muslims in Secular, Multicultural Australia |date=2017 |access-date=1 December 2020 |type=Ph.D. |publisher=University of Aberdeen |url=https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.723248 |page=197 |archive-url=https://web.archive.org/web/20210123170344/https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.723248 |archive-date=23 January 2021 |url-status=live}}</ref><ref name="Gale18">{{cite book |last= |first= |url=https://books.google.com/books?id=EoP6993Cp44C&q=lakror |title=Reference Library of European America (Volume III) Countries Albania to Italy |publisher=Gale Research |year=1998 |isbn=978-0787629663 |page=18 |access-date=2021-02-11 |archive-url=https://web.archive.org/web/20210302053001/https://books.google.com/books?id=EoP6993Cp44C&q=lakror |archive-date=2021-03-02 |url-status=live}}</ref> Lakror is generally filled with a variety of greens or meats.<ref name="Gale18" /> Another related dish is ''[[Flia|Fli]]'', typical from the North of Albania and Kosovo. It is made up of layers of a flour and water batter, cream and butter. Traditionally, it is baked on embers like lakror.<ref name="drivemefoody" />
+
+=== Bulgaria ===
+The [[Bulgarian cuisine|Bulgarian]] version of the pastry, locally called {{Transliteration|bg|byurek}} ([[Cyrillic]]: {{Lang|bg|бюрек}}), is typically regarded as a variation of ''[[banitsa]]'' ({{Lang|bg|баница}}), a similar Bulgarian dish. Bulgarian byurek is a type of ''banitsa'' with ''[[sirene]]'' cheese, the difference being that byurek also has eggs added.<ref name="bgsr">{{cite web |url=http://liternet.bg/publish10/civanova/kulinarnite.htm |title=Кулинарните недоразумения на българско-сръбската езикова граница |language=bg |publisher=Liternet |last=Иванова |first=Ценка |access-date=2007-02-08 |archive-date=2007-03-10 |archive-url=https://web.archive.org/web/20070310132049/http://liternet.bg/publish10/civanova/kulinarnite.htm |url-status=live }}</ref>
+
+In Bulgarian, ''byurek'' has also come to be applied to other dishes similarly prepared with cheese and eggs, such as ''chushka byurek'' ({{Lang|bg|чушка бюрек}}), a peeled and roasted pepper filled with cheese, and ''tikvichka byurek'' ({{Lang|bg|тиквичка бюрек}}), blanched or uncooked bits of [[squash (plant)|squash]] with eggs filling.<ref name="bgsr" />
+
+=== Greece ===
+[[File:Bougatsa.jpg|thumb|A photo of [[bougatsa]], a [[Greek cuisine|Greek]] variant of borek]]
+[[File:Tiropita Greek dish.jpg|thumb|[[Greek cuisine|Greek]] [[tiropita]] served with [[Mentha|mint]]]]
+In [[Greece]], ''boureki'' ([[Greek language|Greek]]: μπουρέκι), or ''bourekaki'' ([[Greek language|Greek]]: μπουρεκάκι), and [[Cyprus]] poureki (πουρέκι, in the [[Cypriot Greek|Greek dialects of the island]]) are small pastries made with [[Filo|filo dough]]. Pastries of the [[Greek cuisine|Greek]] burek family are also called pita (pie).<ref name=":3" />
+
+[[Galaktoboureko]] ([[Greek language|Greek]]: γαλακτομπούρεκο) is a dessert popular in Greece, Cyprus and also used to be popular in formerly [[Asia Minor Greeks|Greek]]/[[Byzantine Empire|Byzantine]] regions of [[Anatolia]]. It is made of [[custard]], layers of [[Filo|filo dough]] and covered in syrup. Galaktoboureko is made with a type of pudding called [[muhallebi]] or [[Semolina pudding|semolina custard]].<ref name=":03">{{Cite web |title=Galaktoboureko: Greece's Delectable Semolina Custard Pie |url=https://thepiejournal.com/galaktoboureko-greeces-delectable-semolina-custard-pie/ |website=The Pie Journal |date=9 October 2024 }}</ref><ref name="RoufsRoufs2014">{{cite book|author1=Timothy G. Roufs|author2=Kathleen Smyth Roufs|title=Sweet Treats around the World: An Encyclopedia of Food and Culture: An Encyclopedia of Food and Culture|url=https://books.google.com/books?id=M_eCBAAAQBAJ&pg=PA341|date= 29 July 2014|publisher=ABC-CLIO|isbn=978-1-61069-221-2|page=341}}</ref>
+
+[[Bougatsa]] ({{Langx|el|μπουγάτσα}}) is a Greek variation of a burek which consists of either semolina custard, cheese, or minced meat filling between layers of phyllo, and is said to originate in the city of [[Serres]]. Nowadays, it is most popular in [[Thessaloniki]], a city that lies in the [[Central Macedonia]] region of [[Northern Greece]].<ref name=":4" /> Serres achieved the record for the largest puff pastry on 1 June 2008. It weighed 182.2 kg (402 lb), was 20 metres (66 ft) long, and was made by more than 40 bakers.<ref name=":5" />
+
+[[Tiropita]] ([[Greek language|Greek]]: τυρóπιτα, "cheese-pie") is a Greek pastry made with layers of buttered filo dough and filled with a [[cheese]]-[[egg]] mixture. It is served either in an individual-size free-form wrapped shape, or as a larger pie that is portioned.<ref name=":8" /> When made with [[kasseri]] cheese, it may be called ''kasseropita'' ({{lang|grc|κασερόπιτα}}).<ref name=":9" />
+
+[[Spanakopita]] ([[Greek language|Greek]]: σπανακόπιτα, from σπανάκι ''spanáki''<nowiki/>'spinach', and πίτα ''píta'' 'pie') is a [[Greece|Greek]] savory spinach [[pie]] that often also contains cheese, typically [[feta]]. In such a case it may be called ''spanakotiropita'' ([[Greek language|Greek]]: σπανακοτυρόπιτα "spinach-cheese pie"). In [[southern Greece]], the term spanakopita is also common for the versions with cheese. A version without [[cheese]] and [[Egg as food|eggs]] is eaten during [[Fasting#Eastern Orthodoxy|religious fasts]] throughout Greece. Spanakopita appears in many traditional [[Greek cuisine|Greek]] [[Cookbook|cookbooks]] and appears in numerous restaurants and hotel menus throughout [[Greece]] and internationally.<ref name=":11" /><ref name="cloake">{{cite news |last=Cloake |first=Felicity |author-link=Felicity Cloake |date=22 August 2018 |title=How to make the perfect spanakopita |url=https://www.theguardian.com/food/2018/aug/22/how-to-cook-the-perfect-spanakopita-greek-spinach-feta-pie |url-status=live |archive-url=https://web.archive.org/web/20201109024706/https://www.theguardian.com/food/2018/aug/22/how-to-cook-the-perfect-spanakopita-greek-spinach-feta-pie |archive-date=9 November 2020 |access-date=18 September 2020 |work=The Guardian}}</ref>
+
+In [[Epirus (region)|Epirus]], ''σκερ-μπουρέκ'' is a marzipan-like sweet flavored with [[rose water]] from [[Konitsa]], traditionally offered at major celebrations such as [[Wedding|weddings]], [[Engagement|engagements]], and during [[Lent]]. It was considered a difficult dessert, due to the rarity and refinement of Its aroma.<ref name=":10" />
+
+In [[Ionian Islands under Venetian rule|Venetian]] [[Corfu]], boureki was also called ''burriche'',<ref name=":6" /> and filled with [[meat]] and [[leafy greens]]. The [[Pontian Greek]] [[Piroshki#The Balkans|piroski]] (πιροσκί) derives its name from borek too.<ref name=":7" /> It is almost identical in name and form to [[pirozhki]] ([[Russian language|Russian]]: пирожки), which is of [[Slavs|Slavic]] origin, and popular in [[Russia]] and further east.<ref name="Saberi">{{cite book |last1=Saberi |first1=Helen |url=https://www.oxfordreference.com/display/10.1093/acref/9780199677337.001.0001/acref-9780199677337-e-1869?rskey=VL4hoz&result=10 |title=The Oxford Companion to Food |date=20 November 2014 |publisher=Oxford University Press |isbn=978-0-19-967733-7 |language=en |chapter=pirog}}</ref>
+
+=== Moldova and Romania ===
+The regional cuisine of the [[Moldova|Moldavian]] West bank of the [[Pruth]] still yields a type of dumpling-like food called ''burechiuşe'' (sometimes called ''burechiţe'') which is described as dough in the shape of a ravioli-like square which is filled with mushrooms such as [[Boletus edulis]], and sealed around its edges and then tossed and subsequently boiled in [[borscht]] like soups<ref>{{cite web |url=https://www.gazetadeagricultura.info/dezvoltare-rurala/obiceiuri-si-traditii/12298-credinte-si-traditii-de-ajun-si-craciun.html |title=Credinte si traditii de Ajun si Craciun |access-date=2022-09-28 |archive-date=2022-09-28 |archive-url=https://web.archive.org/web/20220928125636/https://www.gazetadeagricultura.info/dezvoltare-rurala/obiceiuri-si-traditii/12298-credinte-si-traditii-de-ajun-si-craciun.html |url-status=live }}</ref> or [[chorba]]s.<ref>{{cite web|url=http://2.bp.blogspot.com/_vQuvjcXAgIg/TFrHKMvx6bI/AAAAAAAAAqI/H1WJHV6EyMk/s1600/Retete+traditionale+0004.JPG|title=Photo of a plate with "ciorba de burchite"|access-date=2012-03-05|archive-date=2014-03-27|archive-url=https://web.archive.org/web/20140327073604/http://2.bp.blogspot.com/_vQuvjcXAgIg/TFrHKMvx6bI/AAAAAAAAAqI/H1WJHV6EyMk/s1600/Retete+traditionale+0004.JPG|url-status=live}}</ref>{{bcn|date=July 2024}} They are traditionally eaten in the last day of fasting at the time of the [[Christmas Eve]]. It is not clear if the ''burechiuşe'' derive their name from the Turco-Greek ''börek'' (which is a distinct possibility given the fact that Moldavia was ruled for many decades by dynasties of Greek [[Phanariote]]s and that encouraged Greek colonists to settle in the area), so at the receiving end of cultural and culinary influences coming from them, or it takes its name from that of the mushroom [[Boletus]] (''burete'' in its Romanian language rhotacised version, and it meant "mushroom" as well as "sponge") by the pattern of the [[ravioli]], which were named after the Italian name of the [[turnip]] with which they were once filled.<ref>{{cite web|url=http://etimo.it/?cmd=id&id=2403&md=5938c3ae8e79e3cdb880a55a0cd8edc7|title=Etimologia : boleto;|website=etimo.it|access-date=2012-03-05|archive-date=2012-05-22|archive-url=https://web.archive.org/web/20120522214401/http://etimo.it/?cmd=id&id=2403&md=5938c3ae8e79e3cdb880a55a0cd8edc7|url-status=live}}</ref>
+
+In Romania, the [[plăcintă]] is considered a variation of the phyllo-wrapped pie, with the dough traditionally stuffed with cheese.<ref>{{cite book |last1=McWilliams |first1=Mark |title=Wrapped & Stuffed Foods: Proceedings of the Oxford Symposium on Food and Cookery 2012 |date=2013 |publisher=Oxford Symposium |isbn=9781903018996 |page=238 |url=https://books.google.com/books?id=MD0QDgAAQBAJ&pg=PT237 |access-date=2022-11-10 |archive-date=2022-11-10 |archive-url=https://web.archive.org/web/20221110173052/https://books.google.com/books?id=MD0QDgAAQBAJ&pg=PT237 |url-status=live }}</ref> In [[Dobruja]], an eastern territory that used to be a Turkish province, one can find both the Turkish influence—plăcintă dobrogeană either filled with cheese or with minced meat and served with sheep yoghurt or the Tatar street food Suberek—a deep-fried half-moon cheese-filled dough.
+
+===Turkey===
+[[File:Su Böreği.JPG|thumb|A tray of ''su böreği'']]
+
+''Börek'' are a major class of dish in [[Turkish cuisine]], with a wide variety prepared for different occasions and in different regions across [[Turkey]]. The word ''börek'' in [[Turkish language|Turkish]] can be modified by a descriptive word referring to the shape, ingredients of the pastry, or a specific region where it is typically prepared, as in the above ''kol böreği'', ''su böreği'', ''talaş böreği'' or ''Sarıyer böreği''. There are many variations of börek in [[Turkish cuisine]]:
+
+{|class="wikitable sortable" 
+!Name
+!English name
+!Description
+!Notes
+|-
+|''[[Su böreği]]'' 
+|Boiled börek; lit. water börek
+|Sheets of dough are boiled briefly in large pans, then a mixture of feta cheese and greens, or other börek filling. The whole thing is brushed with butter and baked in a [[masonry oven]].
+|<ref>{{cite web|title=Water pastry with feta and kale (su böreği)|date=16 December 2019|url=https://www.sbs.com.au/food/recipes/water-pastry-feta-and-kale-su-boregi|access-date=1 October 2021|archive-date=1 October 2021|archive-url=https://web.archive.org/web/20211001042625/https://www.sbs.com.au/food/recipes/water-pastry-feta-and-kale-su-boregi|url-status=live}}</ref>
+|-
+|''Sigara böreği''
+|Filo rolls, lit. 'cigarette börek'
+| Feta cheese, wiener, potato or other filling wrapped in yufka filo and deep-fried
+|<ref>{{Cite web|title=Turkish-Style Lamb Boreks Recipe|url=https://cooking.nytimes.com/recipes/1018576-turkish-style-lamb-boreks|access-date=2021-01-14|website=NYT Cooking|language=en-US|archive-date=2021-03-04|archive-url=https://web.archive.org/web/20210304125424/https://cooking.nytimes.com/recipes/1018576-turkish-style-lamb-boreks|url-status=live}}</ref> 
+|-
+|''Paçanga böreği''
+|Pachanga pastry
+|Paçanga böreği is made with [[Filo|yufka]] filled with cheese, [[pastirma]], tomato, parsley and pepper. Each material is chopped into thin or small pieces, and rolled in the dough as in sigara böreği, but larger. The pastries are fried and served hot. It is a specialty of Anatolia.
+|<ref name=":02">{{Cite web |title=Paçanga böreği Traditional Savory Pastry From Istanbul |url=https://www.tasteatlas.com/pacanga-boregi |access-date=2024-06-15 |website=[[TasteAtlas]]}}</ref>
+|-
+|''Talaş böreği'' or ''Nemse böreği''
+|Lit. sawdust pastry
+|Small square börek mostly filled with lamb cubes and green peas, that has starchier yufka sheets, making it puffy and crispy.
+|<ref>{{Cite web|last=|first=|date=|title=Çıtır çıtır ağızda dağılan etli talaş böreği tarifi|url=https://www.milliyet.com.tr/yemek/tarif/talas-boregi-tarifi-6279036|url-status=live|archive-url=https://web.archive.org/web/20210413192337/https://www.milliyet.com.tr/pembenar/citir-citir-agizda-dagilan-talas-boregi-tarifi-6279036 |archive-date=2021-04-13|access-date=|website=www.milliyet.com.tr}}</ref>
+|-
+|''[[Kol böreği]]''
+|Lit. 'arm börek' 
+|prepared in long rolls, either rounded or lined, and filled with either minced meat, feta cheese, spinach or potato and baked at a low temperature.
+|<ref>{{Cite web|date=2013-11-26|title=Spinach and Feta Cheese Börek|url=https://foolproofliving.com/spinach-and-feta-cheese-borek/|access-date=2021-01-14|website=Foolproof Living|language=en-US|archive-date=2020-11-13|archive-url=https://web.archive.org/web/20201113174744/https://foolproofliving.com/spinach-and-feta-cheese-borek/|url-status=live}}</ref>
+|-
+|''[[Sarıyer böreği]]''
+|Sarıyer pastry
+|A smaller and a little fattier version of the "Kol böreği", named after Sarıyer, a district of [[Istanbul]].
+|<ref>{{Cite web|date=2020-06-01|title=Bir asırlık lezzet klasiği: Sarıyer böreği|url=https://www.gastrofests.com/bir-asirlik-lezzet-klasigi-sariyer-boregi/|access-date=2021-01-14|website=GastroFests|language=tr|archive-date=2020-04-03|archive-url=https://web.archive.org/web/20200403075836/https://www.gastrofests.com/bir-asirlik-lezzet-klasigi-sariyer-boregi/|url-status=live}}</ref>
+|-
+|''[[Laz böreği]]''
+|
+|Sweet börek filled with [[muhallebi]] and served sprinkled with powdered sugar
+|<ref>{{Cite web|last=|first=|date=27 April 2018|title=Laz Böreği (Baklavalık Yufkadan)|url=https://www.nefisyemektarifleri.com/laz-boregi-baklavalik-yufkadan/|url-status=live|archive-url=https://web.archive.org/web/20151216010006/http://www.nefisyemektarifleri.com:80/laz-boregi-baklavalik-yufkadan/ |archive-date=2015-12-16 |access-date=|website=www.nefisyemektarifleri.com}}</ref>{{self-published inline|date=June 2021}}
+|}
+
+===Former Yugoslavia===
+[[File:Burek trokut 3.png|thumb|Round burek filled with minced meat as made in former Yugoslav countries]]
+In the [[former Yugoslavia]], '''burek''', also known as ''pita'' in [[Bosnia and Herzegovina]], is an extremely common dish, made with yufka.<ref name="Parker Bowles 2012 224">{{cite book|last=Parker Bowles|first=Tom|title=The World's Best Street Food|year=2012|publisher=Lonely Planet|isbn=978-1-74220-593-9|pages=224|url=http://shop.lonelyplanet.com/world/worlds-best-street-food|access-date=2012-03-01|archive-url=https://web.archive.org/web/20120229012148/http://shop.lonelyplanet.com/world/worlds-best-street-food|archive-date=2012-02-29|url-status=dead}}</ref> This kind of pastry is also popular in [[Croatia]], where it was imported by [[Croats of Bosnia and Herzegovina]] and [[Albanians]]. In Serbia, Albania, Kosovo, Croatia, Montenegro and North Macedonia, ''burek'' is made from layers of dough, alternating with layers of other fillings in a circular baking pan and then topped with a last layer of dough. Traditionally, it may be baked with no filling (''prazan'', meaning empty), with stewed minced meat and onions, or with cheese. Modern bakeries offer cheese and spinach, meat, apple, sour cherries, potato, mushroom, and other fillings. It is often eaten along with a plain yoghurt drink.
+
+[[Ispanaklı Selanik Böreği|Zeljanica]] is a spinach or chard based burek common throughout the Balkans.
+
+==== Bosnia and Herzegovina ====
+[[File:Motani burek 1.gif|thumb|Bosnian rolled burek]]In 2012, [[Lonely Planet]] included the Bosnian burek in their "The World's Best [[Street food|Street Food]]" book.<ref name="Parker Bowles 2012 224" /><ref name=":13">{{cite news|last=Johnson|first=Richard|title=The world's best street food|url=https://www.theguardian.com/travel/2012/feb/24/worlds-best-street-food-lonely-planet|newspaper=The Guardian|access-date=1 March 2012|location=London|date=2012-02-24|archive-date=2018-11-16|archive-url=https://web.archive.org/web/20181116130435/https://www.theguardian.com/travel/2012/feb/24/worlds-best-street-food-lonely-planet|url-status=live}}</ref> Eaten for any meal of the day, in Bosnia and Herzegovina the burek is a meat-filled pastry, traditionally rolled in a spiral and cut into sections for serving. The same spiral filled with cottage cheese is called ''sirnica'', with spinach and cheese ''zeljanica'', with potatoes ''krompiruša'', and all of them are generically referred to as ''pita''. [[Egg (food)|Eggs]] are used as a binding agent when making ''sirnica'' and ''zeljanica''.
+
+==== Serbia ====
+
+The recipe for "round" burek was developed in the Serbian town of [[Niš]]. In 1498, it was introduced by a famous Turkish baker, Mehmed Oğlu, from Istanbul.<ref>{{cite news |first = M. |last = Doderović |title = Draži burek nego "Mek" |url = http://arhiva.glas-javnosti.rs/arhiva/2004/07/08/srpski/N04070701.shtml |work = [[Glas Javnosti]] |publisher = Glas Javnosti |date = 2004-07-08 |access-date = 2006-09-06 |language = sr |archive-date = 2012-03-03 |archive-url = https://web.archive.org/web/20120303094205/http://arhiva.glas-javnosti.rs/arhiva/2004/07/08/srpski/N04070701.shtml |url-status = live}}</ref> Eventually burek spread from the southeast (southern Serbia, Kosovo and North Macedonia) to the rest of Yugoslavia. Niš hosts an annual burek competition and festival called ''Buregdžijada''. In 2005, a 100&nbsp;kg (220&nbsp;lbs) burek was made, with a diameter of 2 metres (≈6&nbsp;ft)<ref>{{cite news |first = D. |last = K. |title = Slistili i burek od 100 kila |url = http://arhiva.glas-javnosti.rs/arhiva/2005/09/05/srpski/N05090402.shtml |work = [[Glas Javnosti]] |publisher = Glas Javnosti |date = 2005-09-05 |access-date = 2006-09-06 |language = sr |archive-date = 2012-03-03 |archive-url = https://web.archive.org/web/20120303094514/http://arhiva.glas-javnosti.rs/arhiva/2005/09/05/srpski/N05090402.shtml |url-status = live}}</ref> and it is considered to have been the world's biggest burek ever made.<ref>{{cite news |title=U Nišu okupljeni ljubitelji bureka... |url=http://www.revijauno.co.rs/clanak.php?uno=129&id=3 |work=Revija UNO 129 |publisher=NIP "Druga kuća" |access-date=2006-09-06 |language=sr |archive-date=2012-03-15 |archive-url=https://web.archive.org/web/20120315151524/http://www.revijauno.co.rs/clanak.php?uno=129&id=3 |url-status=live}}</ref>{{better source needed|date=November 2020}}
+
+==== Slovenia ====
+In Slovenia, burek is a recognizable and widely available fast food, particularly among students and in urban nightlife settings. While it enjoys popularity in certain contexts, it also carries complex cultural associations linked to its Balkan origins, and is not universally embraced as part of mainstream Slovenian cuisine.<ref>{{cite book |url=http://dk.fdv.uni-lj.si/diplomska/pdfs/rudovic-zvanut-bojana.pdf |title=Pomeni bureka v Sloveniji: diplomska naloga |trans-title=The Meanings of Burek in Slovenia: Diploma Thesis |language=sl, en |first=Bojana |last=Rudovič Žvanut |year=2010 |publisher=Faculty of Social Sciences, University of Ljubljana |access-date=2011-01-31 |archive-date=2011-01-24 |archive-url=https://web.archive.org/web/20110124151110/http://dk.fdv.uni-lj.si/diplomska/pdfs/rudovic-zvanut-bojana.pdf |url-status=live }}</ref>
+
+==== Israel ====
+{{Main|Bourekas}}
+[[File:Potato bourekas.jpg|thumb|Fresh potato burekas on sale at a stall in [[Mahane Yehuda Market]], Jerusalem]]
+Burekas ({{langx|he|בורקס}}) have long been part of [[Sephardic cuisine|Sephardic Jewish cuisine]], ever since the migration of a large portion of that community to the [[Ottoman Empire]] following the [[Expulsion of Jews from Spain]]. The name "burekas" is the plural form of the original Balkan dish, as conjugated in [[Judaeo-Spanish]]. The name refers both to larger varieties (palm-sized or larger) and smaller varieties (originally called "Burekitas" by contrast, though the word has fallen out of use in [[Modern Hebrew]]). Burekas were later introduced to Israel by Sephardi immigrants from communities in Turkey and the Balkans during Ottoman rule. They are now sold commonly in bakeries, as well as dedicated market stalls, throughout the country.
+
+Israeli Burkeas may be prepared with a variety of different fillings; although meat is less-commonly used because of [[Kashrut#Separation of meat and milk|Jewish dietary laws]] – specifically the prohibition against mixing milk and meat. Many types of burekas prepared and sold in Israel (particularly those that do not contain cheese) are made with [[Margarine]]-based doughs rather than butter-based doughs, in order to make them [[Parve]] – allowing them to be eaten as part of any type of meal. The most popular fillings are salty cheese (primarily [[Feta]]), spinach, eggplant and mashed potato. Other fillings include mushrooms, [[sweet potato]], chickpeas, olives, [[Malva|mallow]]s, [[swiss chard]], and tomato sauce (known as "burekas pizza"). Burekas are traditionally offered as snacks during large gatherings and even office meetings. Multiple locally made brands and varieties of pre-made, frozen burekas (for quick baking or frying) are commonly sold in grocery stores. 
+
+Other related pastries traditionally consumed by Sephardic Jews include [[bulemas]] and [[boyoz]], which are also popular in the Turkish city of [[İzmir|Izmir]].<ref>İpkoparan, B., & Özkanli, O. (2020). İzmir Sefarad Mutfağının Günümüzdeki Yeri (The Current Situation of Izmir Sephardic). ''Journal of Tourism and Gastronomy Studies'', ''8''(2), 1527-1541.</ref>
+
+==== Libya ====
+It is also a popular dish in Libya, where it is known as brik.<ref name="Gavin2005">{{cite book |author=Paola Gavin |url=https://books.google.com/books?id=T0Z9CAAAQBAJ&pg=PA40 |title=Mediterranean Vegetarian Cooking |publisher=M. Evans |year=2005 |isbn=978-1-59077-191-4 |location=New York |page=40 |access-date=2021-09-20 |archive-date=2022-04-13 |archive-url=https://web.archive.org/web/20220413200136/https://books.google.com/books?id=T0Z9CAAAQBAJ&pg=PA40 |url-status=live }}</ref>
+
+==== Saudi Arabia ====
+In Saudi Arabia, Burēk ({{langx|ar|بُريك}}, {{IPA|acw|bʊˈre̞ːk}}), is usually made in the [[Hejaz]] region of western Saudi Arabia, it mostly resembles the Bosnian rolled burek but can also come in other variants, and it is stuffed with minced meat or with salty cheese and dill. It is usually served during the month of Ramadan, same goes to [[samosa]]s.
+
+==== Tunisia ====
+{{stack|[[File: Brikdish.jpg|right|thumb|A Tunisian brik pastry]]}}
+
+In Tunisia, there is a variant known as the brik ({{IPAc-en|b|r|iː|k}} {{respell|BREEK}}; {{lang|ar|بريك}}) that consists of thin crepe-like pastry around a filling and is commonly [[deep fried]]. The best-known is the egg brik, a whole egg in a triangular pastry pocket with chopped onion, tuna, [[harissa]] and parsley.<ref>Michael and Frances Field, ''A Quintet of Cuisines'', Time-Life, 1970. {{ISBN|0-8094-0075-8}}</ref> The Tunisian ''brik'' is also very popular in Israel, due to the large [[Tunisian Jewish]] population there. It is often filled with a raw egg and herbs or tuna, harissa, and olives, and it is sometimes served in a [[pita]]. This is also known as a ''boreeka''.<ref>{{cite book |last1=Ottolenghi |first1=Yotam |title=Jerusalem |publisher=Ten Speed Press }}</ref>
+
+====Crimean Tatar====
+[[File:Ayran+Çibörek.jpg|thumb|[[Chebureki|Cheburek]] and [[ayran]] served at a café]]
+In [[Crimea]], [[Crimean Tatars|crimean tatars]], a [[Turkic peoples|turkic]] ethnic group, prepare their own varieties of burek ({{Langx|crh|börek}}). 
+
+The most popular variety Tatar börek variety is [[Chebureki|Cheburek]] ({{Langx|crh|çiberek}}). These are deep-fried [[Turnover (food)|turnovers]] with a filling of ground or minced meat and onions. A popular street dish, they are made with a single round piece of dough folded over the filling in a crescent shape. They have become widespread in the former [[Soviet Union|Soviet]]-aligned countries of [[Eastern Europe]] (especially [[Russia]]), [[Turkey]] and [[Turkmenistan]] in the 20th century.<ref name="Bylinka 2011 p. 12">{{cite book |last=Bylinka |first=E.A.L. |url=https://books.google.com/books?id=OLAHrc0gfIIC&pg=PA12 |title=Home Cooking from Russia: A Collection of Traditional, Yet Contemporary Recipes |publisher=AuthorHouse |year=2011 |isbn=978-1-4670-4136-2 |page=12 |access-date=November 5, 2016}}</ref><ref name="Kraig Sen 2013 p. 369">{{cite book |last1=Kraig |first1=Bruce |url=https://books.google.com/books?id=9XCjAQAAQBAJ&pg=PA369 |title=Street Food Around the World: An Encyclopedia of Food and Culture |last2=Sen |first2=Colleen Taylor |publisher=ABC-CLIO |year=2013 |isbn=978-1-59884-955-4 |page=369 |access-date=November 5, 2016}}</ref><ref name="Taylor & Francis 2013 p. 100">{{cite book |url=https://books.google.com/books?id=ZXz2okCSfq8C&pg=PA100 |title=Encyclopedia of Contemporary Russian Culture |publisher=Taylor & Francis |year=2013 |isbn=978-1-136-78785-0 |editor1=Karen Evans-Romaine |page=100 |quote=Originally a Crimean Tatar dish, chebureki became popular in other regions of the former USSR. |access-date=November 5, 2016 |editor2=Helena Goscilo |editor3=Tatiana Smorodinskaya}}</ref><ref name="Kraig Sen 2013 p. 364">{{cite book |last1=Kraig |first1=Bruce |url=https://books.google.com/books?id=9XCjAQAAQBAJ&pg=PA364 |title=Street Food Around the World: An Encyclopedia of Food and Culture |last2=Sen |first2=Colleen Taylor |publisher=ABC-CLIO |year=2013 |isbn=978-1-59884-955-4 |page=364 |access-date=November 5, 2016}}</ref><ref name=":12" />
+
+A less popular variety is ''Töbörek'', which is essentially like cheburek, the only difference being that it is [[Baking|baked]] instead of [[Frying|fried]].<ref name=":13" />
+
+==See also==
+{{portal|Food}}
+{{Div col}}
+* {{annotated link|Banitsa}}
+* {{annotated link|Bierock}}
+* {{annotated link|Bourekas}}
+* {{annotated link|Boyoz}}
+* {{annotated link|Chausson aux pommes}}
+* {{annotated link|Gibanica}}
+* {{annotated link|Khuushuur}} 
+* {{annotated link|Pastel (food)|Pastel}}
+* {{annotated link|Pirog}}
+* {{annotated link|Pirozhki}}
+* {{annotated link|Samosa}}
+* {{annotated link|Zelnik}}
+* [[List of ancient dishes|List of ancient dishes and foods]]
+* [[List of pastries]]
+{{div col end}}
+
+==References==
+{{reflist|1}}
+
+{{Navboxes|list1=
+{{Cuisine of Turkey|pie}}
+{{Jewish baked goods}}
+{{Cuisine of Albania|pie}}
+{{Cuisine of Bulgaria|pie}}
+{{Cuisine of Greece|pie}}
+{{Cuisine of Israel|pie}}
+{{Cuisine of Morocco|pie}}
+{{Serbian cuisine|pie}}
+{{Street food}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Borek}}
+[[Category:Albanian cuisine]]
+[[Category:Algerian cuisine]]
+[[Category:Ancient dishes]]
+[[Category:Armenian cuisine]]
+[[Category:Assyrian cuisine]]
+[[Category:Austrian cuisine]]
+[[Category:Balkan cuisine]]
+[[Category:Belarusian cuisine]]
+[[Category:Bulgarian cuisine]]
+[[Category:Central Asian cuisine]]
+[[Category:Croatian cuisine]]
+[[Category:Cypriot cuisine]]
+[[Category:Estonian cuisine]]
+[[Category:German cuisine]]
+[[Category:Greek pastries]]
+[[Category:Hungarian cuisine]]
+[[Category:Iraqi cuisine]]
+[[Category:Israeli pastries]]
+[[Category:Jewish cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Kosovan cuisine]]
+[[Category:Lebanese cuisine]]
+[[Category:Libyan cuisine]]
+[[Category:Macedonian cuisine]]
+[[Category:Maltese cuisine]]
+[[Category:Mediterranean cuisine]]
+[[Category:Montenegrin cuisine]]
+[[Category:Moroccan cuisine]]
+[[Category:Ottoman cuisine]]
+[[Category:Palestinian pastries]]
+[[Category:Polish cuisine]]
+[[Category:Romanian cuisine]]
+[[Category:Russian cuisine]]
+[[Category:Saudi Arabian cuisine]]
+[[Category:Savoury pies]]
+[[Category:Serbian cuisine]]
+[[Category:Slovak cuisine]]
+[[Category:Slovenian cuisine]]
+[[Category:Stuffed dishes]]
+[[Category:Syrian cuisine]]
+[[Category:Tunisian cuisine]]
+[[Category:Turkish tea culture]]
+[[Category:Ukrainian cuisine]]

@@ -1,0 +1,736 @@
+{{Short description|Eastern European sour soup}}
+{{Redirect-several|Borsch}}
+{{Featured article}}
+{{pp-semi-indef|small=yes}}
+{{Infobox food
+| name               = Borscht
+| image              = Borscht served.jpg
+| image_size         = 250px
+| caption            = A bowl of borscht garnished with sour cream and dill
+| alternate_name     = Borsch, borshch, ''borsht'', ''bortsch''
+| country            = [[Ukraine]]{{sfnp|Schultze|2000|pp=65–66}}{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}}
+| region             = 
+| associated_cuisine = 
+| creator            = 
+| course             = 
+| type               = Soup
+| mintime            = 30
+| maxtime            = 180
+| served             = Hot or cold
+| main_ingredient    = Beet sour or [[beetroot]]s
+| minor_ingredient   = Tomatoes, vinegar, cabbage and/or potatoes, meat or [[Salo (food)|salo]]
+| variations         = Clear red borscht, cold borscht, unsoured borscht
+| similar_dish       = [[Green borscht]], [[white borscht]] as well as the ancient hogweed-made borscht
+| no_recipes         = true
+}}
+{{Infobox intangible heritage
+| Image = Borsch 05.jpg
+| Caption = Borscht served in a ceramic bowl with bread and salt in a village in [[Poltava Oblast]] of Ukraine
+| ICH = Culture of Ukrainian borscht cooking
+| State Party = Ukraine
+| ID = 01852
+| Region = ENA
+| Year = 2022
+| Session = 5th extraordinary
+| List = Need of Urgent Safeguarding
+}}
+
+'''Borscht''' ({{IPAc-en|lang|pron|audio=en-us-borscht.ogg|ˈ|b|ɔːr|ʃ|t}}) is a [[sour soup]], made with meat [[Stock (food)|stock]], vegetables and seasonings, common in [[Eastern Europe]] and [[Northern Asia]]. In English, the word ''borscht'' is most often associated with the soup's variant of [[Ukraine|Ukrainian]] origin, made with red [[beetroot]]s as one of the main ingredients, which give the dish its distinctive red color. The same name, however, is also used for a wide selection of sour-tasting soups without beetroots, such as [[sorrel]]-based [[Sorrel soup|green borscht]], [[rye]]-based [[Sour rye soup|white borscht]], and [[cabbage]] borscht.
+
+Borscht derives from an ancient soup originally cooked from pickled stems, leaves and [[umbel]]s of [[Heracleum sphondylium|common hogweed]] (''Heracleum sphondylium''), an [[herbaceous plant]] growing in damp meadows, which lent the dish its [[Slavic languages|Slavic]] name. With time, it evolved into a diverse array of tart soups, among which the Ukrainian beet-based red borscht has become the most popular. It is typically made by combining meat or bone [[Stock (food)|stock]] with [[Sautéing|sautéed]] vegetables, which—as well as beetroots—usually include cabbage, carrots, onions, potatoes, and tomatoes. Depending on the recipe, borscht may include meat or fish, or be purely vegetarian; it may be served either hot or cold, and it may range from a hearty one-pot meal to a clear broth or a smooth drink. It is often served with [[Smetana (dairy product)|smetana]] or [[sour cream]], hard-boiled eggs or potatoes, but there exists an ample choice of more involved [[Garnish (food)|garnishes]] and side dishes, such as {{lang|pl|[[uszka]]}} or {{lang|uk|[[pampushky]]}}, that can be served with the soup.
+
+Its popularity has spread throughout [[Eastern Europe]] and—by way of migration away from the [[Russian Empire]]—to other continents. In [[North America]], borscht is often linked with either Jews or [[Ethnic Mennonite|Mennonites]], the groups who first brought it there from [[Europe]]. Several ethnic groups claim borscht, in its various local implementations, as their own [[national dish]] consumed as part of ritual meals within [[Ukrainian Greek Catholic Church|Greek Catholic]], [[Latin Church|Roman Catholic]], and Jewish religious traditions. In 2022, shortly after [[2022 Russian invasion of Ukraine|Russia's invasion of Ukraine]], [[UNESCO]] recognized Borscht as a Ukrainian culture on its [[UNESCO Intangible Cultural Heritage Lists|List of Intangible Cultural Heritage in Need of Urgent Safeguarding]]. It noted that the inscription "does not imply exclusivity, nor ownership, of the heritage concerned", but to recognize the social and cultural significance of Borscht cooking for Ukrainians.<ref>{{Cite news |last=Selyukh |first=Alina |date=2022-07-01 |title=UNESCO declares borsch cooking an endangered Ukrainian heritage |url=https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage |access-date=2025-11-26 |work=NPR |language=en}}</ref>
+
+== Etymology ==
+The English name derives, through [[Yiddish]], from Ukrainian and Russian {{wikt-lang|uk|борщ|бо́рщ}} ({{transliteration|uk|borshch}}, {{IPA|uk|ˈbɔrʃt͡ʃ|lang|Uk-борщ.ogg}}, {{IPA|ru|ˈborɕː|lang|Ru-борщ.ogg}}).{{sfn|Dictionary.com|loc=[https://www.dictionary.com/browse/borscht "borscht"]}}<ref>{{cite web |title=borsch, n. |url=https://www.oed.com/view/Entry/21722 |website=OED Online |publisher=Oxford University Press |access-date=3 July 2023 |date=March 2023}}</ref>{{sfnp|Mish|2004|p=144|loc=[https://books.google.com/books?id=TAnheeIPcAEC&pg=PA144 "borscht or borsch"]}} Together with [[cognate]]s in other Slavic languages, such as {{langx|be|бо́ршч|links=no}} ({{transliteration|be|borshch}}), {{langx|pl|barszcz|links=no}}, and others, it comes from [[Proto-Slavic language|Proto-Slavic]] ''{{wikt-lang|sla-x-proto|bъrščь|bъ̃rščь}}'',<ref>{{Cite encyclopedia |title=bъrščь |encyclopedia=[[Etymological Dictionary of Slavic Languages|Этимологический словарь славянских языков. Выпуск 3 (*bratrьcь — *cьrky)]] |pages=131 |year=1976 |publisher=Наука |location=Москва |editor-last=Трубачев |editor-first=Олег Н. |editor-link=Oleg Trubachyov}}</ref><ref>{{Cite book |title=От праславянской акцентуации до русской |last=Зализняк |first=Андрей Анатольевич |publisher=Наука |year=1985 |location=Москва |pages=134}}</ref> 'hogweed', and ultimately from [[Proto-Indo-European language|Proto-Indo-European]] {{lang|ine-x-proto|bʰr̥stis}}, 'point', 'stubble'.{{sfnp|Mallory|Adams|2006|p=298}}<ref>{{Cite encyclopedia |title=борщ |encyclopedia=Етимологiчний словник украïнськоï мови |pages=236 |year=1982 |publisher=Наукова думка |location=Київ |editor-last=Мельничук |editor-first=Олександр Савич}}</ref>{{sfnp|Vasmer|1973|loc=[http://dic.academic.ru/dic.nsf/vasmer/37071/борщ "борщ"]}} [[Heracleum sphondylium|Common hogweed]] ({{lang|la|Heracleum sphondylium}}) was the soup's principal ingredient{{sfnp|Dembińska|1999|p=127}} before it was replaced with other vegetables, notably beetroot in the Ukrainian version.{{citation needed|date=June 2025}}
+
+The English form {{wikt-lang|en|borscht|bor'''scht'''}}{{sfn|Encyclopædia Britannica|loc=[https://www.britannica.com/EBchecked/topic/74492/borscht "Borscht"]}} comes from Yiddish {{wikt-lang|yi|באָרשט}} ({{transliteration|yi|borsht}}), as the dish was first popularized in North America by Yiddish-speaking [[Ashkenazi Jews]] from [[Eastern Europe]].{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT261 "Borscht"]}}
+
+== Ingredients and preparation ==
+[[File:Borsch-con-fungi 032.jpg|thumb|Borscht can include beef, pork, beets, other vegetables, herbs, and spices]]
+The stock is typically made by boiling meat, bones, or both. [[Beef]], [[pork]] or a combination of both are most commonly used, with [[brisket]], [[Ribs (food)|ribs]], [[Shank (meat)|shank]] and [[Chuck steak|chuck]] considered to give the most flavorful results, especially if cooked on a high flame. [[Bone marrow (food)|Marrow bones]] are considered best for the bone stock. Meat stock is usually cooked for about two hours, whereas bone stock takes four to six hours to prepare. Meat and bones are usually removed afterwards and the meat is only added back into the soup about 10–15 minutes before the borscht is done. Some recipes call for [[smoked meat]]s, resulting in a distinctively smoky borscht, while others use poultry or mutton stock. [[Fasting]] varieties are typically made with [[Fish stock (food)|fish stock]] to avoid the use of meat, while purely [[Vegetarianism|vegetarian]] recipes often substitute forest [[Edible mushroom|mushroom]] broth for the stock.{{sfnp|Pokhlebkin|2004|p=83}}
+
+[[File:Borsch 01.webm|thumb|thumbtime=53|Borscht cooked in a clay pot inside a [[Russian oven]] in the [[Poltava Oblast|Poltava region]] in central Ukraine]]
+[[File:Borscht crew.jpg|thumb|Girls grating beetroots to make borscht for a large group.]]
+The vegetables most commonly added to borscht are beetroots, [[white cabbage]], [[carrot]]s, [[parsley root]], [[potato]]es, [[onion]]s and [[tomato]]es. Some recipes may also call for [[bean]]s, [[Cooking apple|tart apples]], [[turnip]], [[Rutabaga|swede]], [[celeriac]], [[zucchini]] or [[bell pepper]]s.<ref>{{Cite magazine|url=https://www.newyorker.com/culture/annals-of-gastronomy/let-me-count-the-ways-of-making-borscht|title = Let Me Count the Ways of Making Borscht|magazine = [[The New Yorker]]|date = 7 December 2017}}</ref> [[Parsnip]] may be used as a substitute for parsley root, and [[tomato paste]] is often used as well as or instead of fresh tomatoes.{{sfnp|Burlakoff |2013|loc=Appendix}} Onions, carrots, parsley root, turnip and other root vegetables are sautéed (traditionally in animal fat, especially [[lard]] or [[butter]]) and then mixed with tomatoes or tomato paste. Dry beans are boiled separately. Potatoes and cabbage are boiled in the stock for about 15 minutes before the precooked vegetables are added.{{sfnp|Pokhlebkin|2004|p=84}}
+
+The traditional technique of preparing the soup is to precook the vegetables—by sautéing, [[braising]], [[Boiling#In cooking|boiling]] or [[baking]]—separately from the meat and only then to combine them with the stock. This distinctive feature of borscht derives from the practice of [[Low-temperature cooking|slow cooking]] in the [[Russian oven]] (traditional [[Masonry heater|masonry stove]], used for both cooking and heating), wherein the differences in cooking times of individual ingredients had to be taken into account in order to ensure that all components reach doneness at the same time. The importance of this method is reflected in the Russian language, where a variant in which all vegetables are added raw directly into the stock is referred to by the diminutive form ''{{transliteration |ru |borshchok}}''{{efn |In the [[Cyrillic script]]: {{lang |ru |борщок}}.}} rather than ''{{transliteration |ru |borshch}}''.{{sfnp |Burlakoff |2013 |loc=Chapter 2}}
+
+The soup is typically flavored with a wide selection of herbs, spices and condiments. [[Salt]], [[black pepper]], [[garlic]], [[Laurus nobilis|bay leaves]] and [[dill]] are among the most commonly used. Other aromatics often added to borscht include [[allspice]], [[celery]] stalks, [[parsley]], [[marjoram]], [[hot pepper]]s, [[saffron]], horseradish, [[ginger]] and [[prune]]s. Some recipes require flour or [[roux]] to further thicken the borscht. A common opinion is that a good borscht should be thick enough for a spoon to stand upright in it.{{sfnp |Burlakoff |2013 |loc=Appendix}}{{sfnp |Zdanovich |2014 |loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}}
+
+=== Beet sour ===
+The dominant tastes in borscht are sweet and sour. This combination is traditionally obtained by adding beet sour.{{sfnp |Burlakoff |2013 |loc=Chapter 2}} The sour is made by covering sliced beetroots with lukewarm preboiled water and allowing [[bacteria]] to [[fermentation|ferment]] some of the [[sugar]]s present in beetroots into [[dextran]] (which gives the liquid a slightly viscous consistency), [[mannitol]], [[acetic acid]] and [[lactic acid]].{{sfnp |Panek |1905 |p=41}} Stale [[rye bread]] is often added to hasten the process, but usually omitted in Jewish recipes, as ''[[chametz]]'' (leavened bread) would make the sour unfit for [[Passover]] meals. Sugar, salt and lemon juice may also be added to balance the flavor. After about 2–5 days (or 2–3 weeks without the bread), the deep red, sweet and sour liquid may be strained and is ready to use. It is added to borscht shortly before the soup is done, as prolonged boiling would cause the tart flavor to dissipate.{{sfnp|Burlakoff|2013 |loc=Appendix}}
+
+The beet sour is known in [[Slavic languages]] as ''kvas''{{efn |{{langx |pl|kwas buraczany|links=no}}; {{langx |ru|свекольный квас |links=no}} (''{{transliteration |ru |svekolny kvas}}''); {{langx |uk|буряковий квас |links=no}} (''{{transliteration |uk |buriakovyi kvas}}'').}} ({{literally|sour, acid}}; compare [[kvass]]) and in Yiddish as ''{{transliteration |yi |rosl}}''{{efn |In the [[Hebrew script]]: {{lang |yi |ראָסל}}; also [[Romanization|Romanized]] as ''{{transliteration|yi|rosel}}'', ''{{transliteration|yi|rossel}}'', ''{{transliteration|yi|russel}}'' or ''{{transliteration|yi|russell}}''.}} (from a Slavic word originally referring to any brine obtained by steeping salted meat or vegetables in water; compare Russian ''{{transliteration|ru|rassol}}'',{{efn |In the Cyrillic script: {{lang|ru|рассол}}.}} 'pickle juice', Polish ''{{lang|pl|rosół}}'', 'broth'). Apart from its employment in borscht, it may also be added to prepared [[horseradish]] or used as [[pot roast]] marinade.{{sfnp |Marks |2010 |pp=1021–1022 |loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT1021 "Rosl"]}}{{sfnp|Small|2009|p=99}}
+
+As the traditional method of making borscht with beet sour often requires planning at least several days ahead, many recipes for quicker borscht replace the beet sour with fresh beetroot juice, while the sour taste is imparted by other ingredients. Vinegar, tomato products, lemon juice or [[citric acid]] may be used, as well as [[Dryness (taste)|dry]] [[red wine]], [[dill pickle]] juice, [[murături]] juice, [[sauerkraut]] juice, tart apples, [[Mirabelle plum]]s, [[apricot]]s, or a fermented rye flour and water mixture.{{sfnp|Pokhlebkin|2004|p=84}}{{sfnp|Strybel|Strybel|2005|pp=190–192}}{{sfnp|Hercules|2017}}<ref>{{Cite web|url=https://ro.food-and-recipes.com/publication/28576/|title=Borsch cu varză|website=food-and-recipes.com|language=ro}}</ref>
+
+== Variations ==
+<gallery mode="packed" widths="200">
+File:Russkij-Borschtsch.jpg|A [[tureen]] of thick borscht
+File:Borscz 041.jpg|A bowl of borscht with beans and other vegetables
+File:Borscht.jpg|alt=Bowl of borscht|Borscht without meat
+File:2023-01-02 Borscht.jpg|A clay bowl of borscht
+File:Borscht served.jpg|Borscht with sour cream and dill
+File:Borscht Old Cossack.jpg|alt=bowl of borscht with sticks of toasted brown bread and a small bowl of sour cream|Served with sour cream and brown bread
+</gallery>
+
+<!-- needs a section on non-national variations to denote the most common variants of cooking. !-->
+=== Ukrainian ===
+[[File:Borsch z galuschkamy 02.jpg|thumb|Poltava borscht with ''[[halushky]]'' and [[noodles]]]]
+There are multiple examples of the soup in [[Ukrainian cuisine]].{{sfnp|Saberi|Saberi|2014}}{{sfnp|Volokh|Manus|1983|p=96}} Virtually every [[Oblasts of Ukraine|oblast]] has its own version. Differences between particular varieties may regard the type of stock used (meat, bone, or both), the type of meat (beef, pork, poultry, etc.), the choice of vegetables and the method of cutting and cooking them. For example, although the typical recipe calls for beef and pork, the [[Kyiv]] variant uses [[Lamb and mutton|mutton or lamb]] as well as beef, while in the [[Poltava]] region, the stock for borscht is cooked on poultry meat, that is, [[Chicken (food)|chicken]], [[Duck (food)|duck]] or [[Domestic goose|goose]]. The use of zucchini, beans and apples is characteristic of the [[Chernihiv]] borscht; in this variant, beetroots are sautéed in [[vegetable oil]] rather than lard, and the sour taste comes solely from tomatoes and tart apples. The [[Lviv]] borscht is based on bone stock and is served with chunks of [[Vienna sausage]]s.{{sfnp|Pokhlebkin|2004|p=83–86}}{{sfn|Kulinariya|pp=792–793}} In [[Southern Ukraine]] borshch typically includes [[legume]]s. Historically, borshch with meat was reserved as a holiday dish, meanwhile varieties consumed during [[lent]] would include fish, such as dried [[crucian carp]].<ref name=sho>{{Cite web|title=Що таке «українська кухня»? Історія, страви, смаки|date=24 August 2018 |url=https://obarykada.com/chasopys/shho-take-ukrayinska-kuhnya-istoriya-stravy-smaky/|access-date=2025-08-13}}</ref>
+
+Borscht is symbolic of hospitality in Ukraine and is part of multiple traditional celebrations and rituals. In some parts of Ukraine, the third day of a wedding celebration is called ''do nevistky na borshch'', which translates to "visit daughter-in-law to eat borscht".<ref>{{Cite web |last=Zhang |first=Daniel |date=3 July 2023 |title=A Brief History of Borshch |url=https://festival.si.edu/blog/a-brief-history-of-borshch |access-date=2025-02-25 |website=[[Smithsonian Folklife Festival]] |language=en-US}}</ref> In 2022, UNESCO added "Culture of Ukrainian borscht cooking" to the [[List of Intangible Cultural Heritage in Need of Urgent Safeguarding]], citing the [[Russian invasion of Ukraine]].<ref>{{Cite web |last=Davis |first=Alys |date=1 July 2022 |title=Borsch soup in Ukraine added to Unesco endangered heritage list |url=https://www.bbc.com/news/world-europe-62013362 |website=[[BBC]]}}</ref><ref>{{Cite news |last=Selyukh |first=Alina |date=2022-07-01 |title=UNESCO declares borsch cooking an endangered Ukrainian heritage |url=https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage |access-date=2025-02-25 |work=[[NPR]] |language=en}}</ref>
+
+=== Polish ===
+[[File:Barszcz z uszkami.jpg|thumb|Polish clear [[Christmas Eve]] ''barszcz'' served over ''{{lang|pl|[[uszka]]}}'', or ear-shaped mushroom-filled dumplings]]
+As well as the thick borschts described above, [[Polish cuisine]] offers a ruby-colored beetroot bouillon known as ''{{lang|pl|barszcz czysty czerwony}}'', or clear red borscht. It is made by combining strained meat-and-vegetable stock with wild mushroom broth and beet sour. In some versions, smoked meat may be used for the stock and the tartness may be obtained or enhanced by adding lemon juice, dill pickle brine, or dry red wine. It may be served either in a soup bowl or—especially at dinner parties—as a hot beverage in a twin-handled cup, with a [[croquette]] or a filled pastry on the side. Unlike other types of borscht, it is not whitened with [[sour cream]].{{sfnp|Strybel|Strybel|2005|pp=9, 180, 190}}
+
+''{{lang|pl|Barszcz wigilijny}}'', or [[Christmas Eve]] borscht, is a variant of the clear borscht that is traditionally served during the Polish [[Wigilia|Christmas Eve supper]]. In this version, meat stock is either omitted or replaced with fish broth, usually made by boiling the heads cut off from fish used in other Christmas Eve dishes. The mushrooms used for cooking the mushroom broth are reserved for ''{{lang|pl|[[uszka]]}}'' (small filled dumplings), which are then served with the borscht.{{sfnp|Strybel|Strybel|2005|pp=182, 190}}
+
+=== Jewish ===
+Ashkenazi Jews living in Eastern Europe adopted beetroot borscht from their Slavic neighbors and adapted it to [[Jewish cuisine|their taste]] and religious requirements. As [[Milk and meat in Jewish law|combining meat with milk is proscribed]] by [[kosher]] dietary laws, Jews have developed two variants of the soup: meat (''{{transliteration|yi|fleischik}}'') and dairy (''{{transliteration|yi|milchik}}''). The meat variant is typically made from beef brisket (pork is never used{{sfnp|Marks|1999|p=63}}) and cabbage, while the dairy one is vegetarian, blended with sour cream or a mixture of milk and egg yolks. Both variants typically contain beetroots and onions, and are flavored with beet sour, vinegar or citric acid for tartness and [[beet sugar]] for sweetness. [[Galician Jews]] traditionally liked their borscht particularly sweet. Jewish borscht may be served either hot or cold, typically with a hot boiled potato on the side.{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}} In prewar Eastern Europe it was traditionally put up to ferment around [[Purim]] so that it would be ready four weeks later for the Passover holiday.{{sfnp|Marks|2010|pp=195–196|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}}
+
+=== Russian ===
+[[File:Russian borscht with beef and sour cream.jpg|thumb|Borscht with beef, sour cream and fresh herbs]]
+Russian variants include a [[Siberia]]n style borscht, characterized by [[meatball]]s; [[Pskov]] borscht with dried [[European smelt|smelt]] from the local lakes; monastic [[Lent]]en borscht with marinated [[kelp]] instead of cabbage and the [[Russian Navy]] borscht (''{{transliteration|ru|flotsky borshch}}''{{efn|In the Cyrillic script: {{lang|ru|флотский борщ}}.}}), the defining characteristic of which is that the vegetables are cut into square or diamond-shaped chunks rather than julienned.{{sfnp|Zdanovich|2014|loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}}{{sfn|Kulinariya|pp=213–216}}
+
+=== Lithuanian cold borscht === <!-- If this header is altered, please also alter its interlanguage link in page [[lt:Šaltibarščiai]] -->
+[[File:%C5%A0altibar%C5%A1%C4%8Diai_(cold beet_soup).jpg|right|200px|Lithuanian beet soup as served in Lithuania ''{{lang|lt|šaltibarščiai}}'', or "cold borscht".]]
+In summer, cold borscht is a popular alternative to borscht variants that are normally served hot. It consists of beet sour or beet juice blended with sour cream, [[buttermilk]], [[soured milk]], [[kefir]] or [[yogurt]]. The mixture has a distinctive pink or magenta color.{{sfnp|Kafka|1998|p=176}} It is served refrigerated, typically over finely chopped beetroot, [[cucumber]]s, [[radish]]es and [[green onion]] together with halves of a hard-boiled egg, and sprinkled with fresh dill. Chopped [[veal]], ham, or [[Crayfish as food|crawfish tails]] may be added as well.{{sfnp|Strybel|Strybel|2005|pp=211–212}}{{sfnp|Kuroń|2004|pp=200–201}}{{sfnp|Pokhlebkin|2004|p=108}}
+
+The dish originates from the traditions of the [[Polish–Lithuanian Commonwealth]]. The first recipe for Lithuanian ''šaltibarščiai'' (cold beet soup) was written down in [[Warsaw]] at the end of the 18th century by [[Paul Tremo]], the chef of the last ruler of the Commonwealth, [[Stanisław August Poniatowski]]. It is believed that the name ''chłodnik litewski'' ('Lithuanian cold soup') was first translated into the Lithuanian language by Liudvika Didžiulienė-Žmona, who called the dish ''šaltieji barščiai'' ('cold borscht').<ref>{{Cite web |date=2024-09-09 |title=Laužikas on the controversy over šaltibarščiai: they are Lithuanian, but that doesn't mean they aren't also Polish.|url=https://www.lrt.lt/naujienos/gyvenimas/13/2356320/lauzikas-apie-sarsala-del-saltibarsciu-jie-lietuviski-bet-nereiskia-kad-ne-lenkiski |access-date=2024-09-10 |website=[[lrt.lt]]|language=lt}}</ref>
+In Belarusian, it is known as ''chaladnik''.{{sfnp|Pokhlebkin|2004|p=108}} The Soviet ''Encyclopedia of Housekeeping'' has an article on borscht including a "cold borscht" recipe as ''borshch kholodniiy''.<ref name="auto">{{Cite web|url=https://housekeeping.academic.ru/93/%D0%91%D0%9E%D0%A0%D0%A9|title=БОРЩ &#124; это... Что такое БОРЩ?|website=Словари и энциклопедии на Академике}}</ref>
+In Vilnius, an annual festival (the Vilnius Pink Soup Fest) has been arranged since 2023 to celebrate the cultural heritage of Lithuanian cold beet soup.<ref>{{Cite web |date=2025-06-30 |title=In Lithuania, there's a festival dedicated to a cold, pink soup|url=https://adventure.com/pink-soup-festival-vilnius-lithuania-baltics/ |access-date=2025-06-30 |website=[[adventure.com]]|language=en}}</ref><ref>{{Cite web |date=2025-06-30 |title=Vilnius Pink Soup Fest|url=https://www.govilnius.lt/pink-soup-fest |access-date=2025-06-30 |website=[[govilnius.lt]]|language=en}}</ref>
+
+== Namesakes without beets ==
+
+Although ''borscht'' is mostly used to describe a beet-based soup, there are soups in some culinary traditions with the same or similar names, but with sometimes wide variations in ingredients and preparation methods. In such soups, beetroots are not used or merely optional. The principal common trait among such borschts is a tart flavor from sour-tasting ingredients.{{sfnp|Burlakoff|2013|loc=Chapter 2}} According to ''[[A Gift to Young Housewives]]'', a book from the 19th century, "borscht" may or may not include beets (depending from recipe to recipe in the book).<ref>{{cite web |url=https://sheba.spb.ru/za/molohovec-1861.pdf|title=Navigatable online copy of the 1861 book in .PDF format}}</ref><ref>
+{{cite web
+ |url=http://nuclphys.sinp.msu.ru/recipes/molohovec
+ |title=A Gift to Young Housewives
+ |language=Russian
+ |url-status=dead
+ |archiveurl=https://web.archive.org/web/20071021194920/http://nuclphys.sinp.msu.ru/recipes/molohovec/
+ |archivedate=2007-10-21
+}}
+</ref>
+
+In Polish cuisine, [[Sour rye soup|white borscht]] (''{{lang|pl|barszcz biały}}'', also known as ''{{lang|pl|żur}}'' or ''{{lang|pl|żurek}}'', 'sour soup'{{efn|Polish terms ''{{lang|pl|barszcz biały}}'' 'white borscht' and ''{{lang|pl|żur}}'' or ''{{lang|pl|żurek}}'' are either used interchangeably or refer to different soups, depending on the regional dialect and ingredients used.{{sfn|Żmigrodzki|loc=[http://www.wsjp.pl/do_druku.php?id_hasla=10421&id_znaczenia=1913700 "biały barszcz"]}}}}) is made from a fermented mixture of [[rye]] flour or [[oatmeal]] and water. It is typically flavored with garlic and marjoram, and served over eggs and boiled fresh sausage; the water in which the sausage was boiled is often used instead of meat stock.{{sfnp|Strybel|Strybel|2005|p=193}}
+
+[[File:Żurek.jpg|thumb|Polish [[Sour rye soup|white borscht]] served over fresh sausage, bacon and eggs]]
+In the [[Carpathian Mountains]] of southern Poland, variants of borscht are also made in which the tart taste comes from dairy products, such as [[whey]] or buttermilk.{{sfnp|Szymanderska|2010|pp=454–455}} Although the deep red color of beetroot borscht may remind those unfamiliar with Polish cuisine of blood, the type of borscht that does contain animal (usually poultry) blood mixed with vinegar is dark brownish-gray in color and aptly called "gray borscht" (''{{lang|pl|barszcz szary}}''), which is a regional name of the Polish blood soup better known as ''{{lang|pl|[[czernina]]}}''.{{sfnp|Gloger|1900|p=307 (vol. 3)|loc=[[:s:pl:Encyklopedia staropolska/Jucha|"Jucha"]]}}
+
+[[File:Borscz zelenyj ukr.jpg|thumb|[[Sorrel]]-based Ukrainian [[Sorrel soup|green borscht]] served with sour cream and a hard-boiled egg]]
+[[Sorrel soup|Green borscht]] (''{{transliteration|uk|zeleny borshch}}''{{efn|{{langx|ru|зелёный борщ|links=no}} (''{{transliteration|ru|zelyony borshch}}''); {{langx|uk|зелений борщ|links=no}} (''{{transliteration|uk|zelenyi borshch}}'').}}), a light soup made from leaf vegetables, is an example common in Ukrainian and Russian cuisines. The naturally tart-tasting [[sorrel]] is most commonly used, but [[spinach]], [[chard]], [[Urtica dioica|nettle]], [[Atriplex hortensis|garden orache]] and occasionally [[Taraxacum officinale|dandelion]], [[Aegopodium podagraria|goutweed]] or [[Allium ursinum|ramsons]], may be added as well, especially after the spring season for sorrel has passed.{{sfnp|Łuczaj|2012|p=21}}{{sfnp|Artyukh|1977|p=55}}{{sfnp|Gurko|Chakvin|Kasperovich|2010|p=78}}{{sfnp|Guboglo|Simchenko|1992|p=98}} Like beetroot borscht, it is based on meat or vegetable broth and is typically served with boiled potatoes and hard-boiled eggs, sprinkled with dill.{{sfnp|Burlakoff|2013|loc=Appendix}} There is also a variety of Ukrainian green borscht which includes both sorrel and beetroots.{{sfn|Kulinariya|p=792}}
+
+In [[Romanian cuisine|Romanian]] and [[Moldovan cuisine]]s, a mixture of [[wheat]] [[bran]] or [[cornmeal]] with water that has been left to ferment, similar to, but less cloudy than that used in Polish white borscht, is called ''{{lang|ro|[[Borș (bran)|borș]]}}''.{{sfnp|Gal|2003|loc=[http://dexonline.ro/definitie/bor%C8%99/369568 "Borș"]}}{{sfnp|Reid|Pettersen|2007|p=52}} It is used to impart a sour taste to a variety of tangy Romanian soups, known as either also ''{{lang|ro|borș}}'' or ''{{lang|ro|[[ciorbă]]}}''. Variants include ''{{lang|ro|[[ciorbă de perișoare]]}}'' (with meatballs), ''{{lang|ro|ciorbă de burtă}}'' (with [[tripe]]), ''{{lang|ro|borș de pește}}'' (with fish) and ''{{lang|ro|borș de sfeclă roșie}}'' (with beetroots).{{sfnp|Rennon|2007|p=53}}{{sfnp|Auzias|Labourdette|2012|p=77}}
+
+[[File:Borscht in Hong Kong.jpg|thumb|A bowl of [[Hong Kong cuisine|Hong Kong style]] borscht, made from cabbage and tomatoes, as widely served in local [[cha chaan teng]]s]]
+The [[Armenian cuisine|Armenian]], [[Azerbaijani cuisine|Azerbaijani]] and [[Georgian cuisine|Georgian]] version of borscht is a hot soup made with beef stock, green peppers and other vegetables, which may or may not include beetroots, and flavored with chopped red chili and fresh [[cilantro]].{{sfnp|Petrosian|Underwood|2006|pp=107–108}}{{sfnp|Hercules|2017}} In [[ethnic Mennonite]] cuisine, ''borscht'' refers to a whole range of seasonal vegetable soups based on beef or chicken stock—from spring borscht made with spinach, sorrel and chard to summer borscht with cabbage, tomatoes, [[maize]] and [[Cucurbita|squash]] to fall and winter borscht with cabbage, beets and potatoes.{{sfnp|Fertig|2011|pp=128–129}}
+
+In [[Chinese cuisine]], a soup known as ''{{transliteration|zh|Luosong tang}}'',{{efn|{{lang-zh|t=羅宋湯|s=罗宋汤|j=lo4 sung3 tong1}}}}, a translation based on the term "Russian soup" from the Russian diaspora in China, is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as "Chinese borscht", it originated in [[Harbin]], close to the Russian border in northeast China, and has spread as far as [[Hong Kong]].{{sfnp|Burlakoff|2013|loc=Chapters 3 and 8}} In [[Shanghai]]'s [[Haipai cuisine]], tomatoes are the main ingredient; beef and its broth, onions and cabbages are also added; while flour, rather than sour cream, is used for thickening.{{sfnp|Zhou|Sun|2012}}
+
+== Garnishes and side dishes ==
+{{multiple image
+| align= center
+| direction= horizontal
+| image1= Borscht with bread.jpg
+| caption1= Borscht sprinkled with parsley, served with sour cream and a slice of rye bread
+| width1= 200
+| image2= Borshch2.jpg
+| caption2= Borscht with a side of ''{{lang|uk|[[pampushky]]}}'', [[Pork rind|pork cracklings]] and [[Smetana (dairy product)|''smetana'']]
+| width2= 200
+| image3= Lurid_borscht.jpg
+| caption3= ''Šaltibarščiai'' served with a boiled potato
+| width3= 200
+| image4= Barszcz, pasztecik, Borgowo.JPG
+| caption4= A bouillon cup of clear ''borscht'', a type of borscht with a ''[[Croquette#Poland|krokiet]]'' and a brine-pickled gherkin on the side
+| width4= 200
+| footer=
+}}
+
+The diversity of borscht styles is matched by the wide choice of garnishes and side dishes with which various types of borscht may be served. Most often, borscht is served with [[Smetana (dairy product)|smetana]], a soured dairy product similar to the French [[crème fraîche]].{{sfnp|The Visual Food Encyclopedia|1996|p=600}} The smetana may be served in a separate pitcher for the diners to add the desired amount themselves or the borscht may come already "whitened"{{efn|Polish: ''{{lang|pl|barszcz zabielany}}''; Russian: {{lang|ru|забеленный борщ}} (''{{transliteration|ru|zabelenny borshch}}''); literally 'whitened borscht', that is, clouded with flour or dairy products. In Yiddish, the process of whitening borscht is known as ''{{transliteration|yi|farweissen}}''.}} with the smetana already added. The cream can also be thickened with flour before being added to the soup.{{sfnp|Kuroń|2004|pp=182–189}} Yogurt{{sfnp|Burlakoff|2013|loc=Appendix}} and a mixture of milk and [[yolk]]s are possible substitutes.{{sfnp|Jewish Encyclopedia|1906|p=257}}{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}}
+
+Chopped herbs are often sprinkled on the surface of the soup; dill is most common, but parsley, [[chives]] or [[scallion]] are often added as well. Individual helpings may be spiced up with minced hot peppers or garlic.{{sfnp|Kuroń|2004|pp=182–189}} Many types of borscht are served over halves or quarters of hard-boiled [[Egg (food)|chicken]] or [[quail eggs]].{{sfnp|Kuroń|2004|pp=186, 189, 201, 245–247}} [[Navy beans]], [[broad beans]] or [[string beans]] are also a common addition.{{sfnp|Kuroń|2004|pp=182–189}}{{sfnp|Artyukh|2006|p=17}}
+
+Meat, removed from the stock on which the borscht was based, may be cut into smaller chunks and either added back into the soup or served on the side with horseradish or [[Mustard (condiment)|mustard]].{{sfnp|Burlakoff|2013|loc=Chapter 1}} [[Bacon]] and sausages are also commonly used as borscht garnishes.{{sfnp|Zdanovich|2014|loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}} Borscht based on bone stock may be served Old Polish-style, with marrow from the bones.{{sfnp|Kuroń|2004|pp=182–189}}
+
+Some types of soup, such as Poltava borscht, may be served with ''[[Halušky|{{transliteration|uk|halushky}}]],'' or thick noodles of wheat or buckwheat flour.{{sfnp|Pokhlebkin|2004|pp=86, 93–94}} Siberian borscht is eaten with boiled meatballs (''{{transliteration|ru|frikadelki}}''{{efn|In the Cyrillic script: {{lang|ru|фрикадельки}}.}}) of minced beef and onion.{{sfnp|Zdanovich|2014|loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}} In Poland and parts of western Ukraine, borscht is typically ladled over ''{{lang|pl|uszka}}'', or bite-sized ear-shaped dumplings made from [[pasta]] dough wrapped around mushroom, buckwheat or meat filling. Mushroom-filled ''{{lang|pl|uszka}}'' are particularly associated with Polish Christmas Eve borscht.{{sfnp|Strybel|Strybel|2005|p=226}}{{sfnp|Artyukh|2006|p=16–17}}{{sfnp|Zdanovich|2014|loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}}
+
+Borscht, like any other soup in East Slavic cuisines, is seldom eaten by itself, but rather accompanied by a side dish. At a minimum, spoonfuls of borscht are alternated with bites of a slice of bread. [[Buckwheat]] groats or boiled potatoes, often topped with [[Pork rind|pork cracklings]], are other simple possibilities,{{sfnp|Artyukh|2006|p=17}} but a range of more involved sides exists as well.{{citation needed|date=June 2025}}
+
+In Ukraine, borscht is often accompanied with ''{{transliteration|uk|[[pampushky]]}}'', or savory, puffy yeast-raised rolls glazed with [[Cooking oil|oil]] and crushed garlic.{{sfnp|Burlakoff|2013|loc=Chapter 1}}{{sfnp|Artyukh|2006|p=16}}{{sfnp|Zdanovich|2014|loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}} In Russian cuisine, borscht may be served with assorted side dishes based on ''{{transliteration|ru|[[Quark (dairy product)|tvorog]]}}'', or the East European variant of [[farmer cheese]], such as ''{{transliteration|ru|vatrushki}}'', ''{{transliteration|ru|syrniki}}'' or ''{{transliteration|ru|krupeniki}}''. ''{{transliteration|ru|[[Vatrushka|Vatrushki]]}}'' are baked round cheese-filled tarts; ''{{transliteration|ru|[[syrniki]]}}'' are small pancakes wherein the cheese is mixed into the batter; and a ''{{transliteration|ru|[[krupenik]]}}'' is a casserole of buckwheat groats baked with cheese.{{sfnp|Zdanovich|2014|loc=[https://books.google.com/books?id=NXmoAgAAQBAJ&pg=PT100 "Борщи"]}}
+
+''{{transliteration|ru|[[Pirozhki]]}}'', or baked dumplings with fillings as for ''{{lang|pl|uszka}}'', are another common side for both thick and clear variants of borscht.{{sfnp|Strybel|Strybel|2005|p=234}} Polish clear borscht may also be served with a croquette or ''{{lang|pl|paszteciki}}''. A typical Polish croquette (''{{lang|pl|krokiet}}'') is made by wrapping a ''{{lang|fr|[[crêpe]]}}'' (thin pancake) around a filling and coating it in [[breadcrumbs]] before refrying; ''{{lang|pl|[[pasztecik]]i}}'' ({{literally|little {{lang|fr|[[pâtés]]}}}}) are variously shaped filled hand-held pastries of yeast-raised or flaky dough. Another way to serve borscht is with a [[coulibiac]], or a large loaf-shaped pie. Possible fillings for croquettes, ''{{lang|pl|paszteciki}}'' and coulibiacs include mushrooms, sauerkraut and minced meat.{{sfnp|Strybel|Strybel|2005|pp=229–238}}{{sfnp|Kuroń|2004|pp=248–253}}
+
+== History ==
+
+=== Precursors ===
+[[File:HeracleumSphondylium1.jpg|thumb|Common hogweed, originally the principal ingredient of borscht]]
+Borscht derives from a soup originally made by the [[Slavs]] from [[Heracleum sphondylium|common hogweed]] (''{{lang|la|Heracleum sphondylium}}'', also known as cow parsnip), which gave the dish its [[Slavic languages|Slavic]] name.{{sfnp|Dembińska|1999|p=127}} Growing commonly in damp meadows throughout the north temperate zone, hogweed was used not only as fodder (as its English names suggest), but also for human consumption—from Eastern Europe to Siberia, to northwestern North America.{{sfnp|Łuczaj|2013|pp=20–21}}{{sfnp|Kuhnlein|Turner|1986|p=311}}
+
+The Slavs collected hogweed in May and used its roots for stewing with meat.{{sfnp|Dembińska|1999|p=127}} As for the stems, leaves, and [[umbel]]s; these would be chopped, covered with water and left in a warm place to ferment. After a few days, [[lactic fermentation|lactic]] and [[Ethanol fermentation|alcoholic fermentation]] produced a mixture described as "something between [[beer]] and sauerkraut".{{sfnp|Łuczaj|2013|p=21}} This fermented product was then used for cooking a soup.{{citation needed|date=June 2025}}
+
+The said soup—with aforementioned fermented hogweed concoction used—was characterized by a mouth-puckering amount of sourness in its taste, while its smell was described as pungent{{sfn|Dumanowski, ''Barszcz, żur i post''}} As the Polish [[Ethnography|ethnographer]] {{lang|pl|[[Łukasz Gołębiowski]]|italic=unset}} wrote in 1830, "Poles have been always partial to tart dishes, which are somewhat peculiar to their homeland and vital to their health."{{efn|Polish: ''{{lang|pl|Lubili i lubią Polacy kwaśne potrawy, ich krajowi poniekąd właściwe i zdrowiu ich potrzebne.}}''}}{{sfnp|Gołębiowski|1830|pp=32–34}} [[Simon Syrenius]] ({{lang|pl|Szymon Syreński|italic=unset}}), a 17th century Polish botanist, described "our Polish hogweed"{{efn|Polish: ''{{lang|pl|barszcz nasz polski}}''.}} as a vegetable that was well known throughout Poland, [[Ruthenia]], [[Grand Duchy of Lithuania|Lithuania]] and [[Samogitia]] (that is, most of the northern part of Eastern Europe), typically used for cooking a "tasty and graceful soup"{{efn|Polish: ''{{lang|pl|smaczna i wdzięczna ... polewka}}''.}} with [[capon]] stock, eggs, sour cream and [[millet]]. More interested in the plant's medicinal properties than its culinary use, he also recommended pickled hogweed juice as a cure for fever or hangover.{{sfnp|Syrennius|1613|p=673}}
+
+One of the earliest possible mentions of borscht as a soup is found in the diary of German merchant Martin Gruneweg, who visited [[Kyiv]] in 1584. After Gruneweg reached river [[Borshchahivka (river)|Borshchahivka]] in Kyiv's vicinity on 17 October 1584, he wrote down a local legend saying that the river was so named because there was a borscht market. However, he doubted the story noting that "[[Ruthenians]] buy borscht rarely or never, because everyone cooks their own at home as it's their staple food and drink".{{sfnp|Lepiavko|2020}}
+
+Another early written reference to the Slavic hogweed soup can be found in ''{{transliteration|ru|[[Domostroy]]}}'' (''Domestic Order''), a 16th century Russian compendium of moral rules and homemaking advice. It recommends growing the plant "by the fence, around the whole garden, where the nettle grows", to cook a soup of it in springtime and reminds the reader to, "for the Lord's sake, share it with those in need".{{sfnp|Burlakoff|2013|loc=Chapter 2}}
+
+Hogweed borscht was mostly a poor man's food. The soup's humble beginnings are still reflected in Polish fixed expressions, where "cheap like borscht"{{efn|Polish: ''{{lang|pl|tanio jak barszcz}}''; Yiddish: ''{{transliteration|yi|bilik vi borscht}}''.}} is the equivalent of "dirt cheap" (also attested as a [[calque]] in Yiddish and [[Canadian English]]),{{sfnp|Barber|2004|loc="[http://www.oxfordreference.com/view/10.1093/acref/9780195418163.001.0001/m_en_ca0008152?rskey=HPoO0R&result=1 borscht]"}}{{sfnp|Rothstein|Rothstein|1998|pp=307}} whereas adding "two mushrooms into borscht"{{efn|Polish: ''{{lang|pl|dwa grzyby w barszcz}}''.}} is synonymous with excess.{{sfn|Żmigrodzki|loc=[http://www.wsjp.pl/do_druku.php?id_hasla=15821&id_znaczenia=1244072 "dwa grzyby w barszcz"]}} For the professors of the [[Jagiellonian University|University of Kraków]], who led a monastic way of life in the 17th century, hogweed borscht was a fasting dish which they ate regularly from Lent till [[Rogation days]].{{sfnp|Karbowiak|1900|pp=33–34, 37, 40}} It was uncommon on the royal table,{{sfnp|Dembińska|1999|p=127}} although according to the 16th century Polish botanist [[Marcin of Urzędów]]—citing {{lang|it|[[Giovanni Manardo]]|italic=unset}}, a court physician to the [[Jagiellonian dynasty|Jagiellonian]] kings of Hungary—the Polish-born King [[Vladislaus II of Hungary|Vladislaus II]] used to have a Polish hogweed-based dish prepared for him at his court in [[Buda]].{{sfnp|Marcin z Urzędowa|1595|pp=6–7}}
+
+=== Diversification ===
+With time, other ingredients were added to the soup, eventually replacing hogweed altogether, and the names ''{{transliteration|ru|borshch}}'' or ''{{lang|pl|barszcz}}'' became generic terms for any sour-tasting soup. In 19th century rural Poland, this term included soups made from [[Berberis vulgaris|barberries]], [[Ribes|currants]], [[Gooseberry|gooseberries]], [[Cranberry|cranberries]], celery or [[plum]]s.{{sfnp|Rostafiński|1916|pp=38–39}}{{sfnp|Gloger|1900|pp=116–117 (vol. 1)|loc=[[:s:pl:Encyklopedia staropolska/Barszcz|"Barszcz"]]}}{{sfnp|Gołębiowski|1830|p=33}}
+
+[[File:Zakwas na żur.jpg|thumb|Rye meal mixed with water and left to sour is the main ingredient of Polish white borscht.]]
+When describing the uses of common hogweed, [[John Gerard]], a 17th century English botanist, observed that "the people of [Poland] and Lithuania [used] to make [a] drink with the decoction of this herb and [[sourdough|leaven]] or some other thing made of [[flour|meal]], which is used instead of beer and other ordinary drink".{{efn|Original spelling: ''The people of Polonia and Lituania vse to make drinke with the decoction of this herbe, and leuen or some other thing made of meale, which is vsed in stead of beere and other ordinarie drinke.''}}{{sfnp|Gerard|1636|p=1009}} It may suggest that hogweed soup was on some occasions combined with a fermented mixture of water and [[barley]] flour, oatmeal or rye flour. Such soured, gelatinous flour-and-water mixture, originally known as [[kissel]]{{efn|{{langx|pl|kisiel|links=no}}; {{langx|ru|кисель|links=no}} (''{{transliteration|ru|kisel'}}''); {{langx|uk|кисiль|links=no}} (''{{transliteration|uk|kysil'}}''); today, these words refer to a sweet fruit-flavored jelly made from potato starch.}}{{sfnp|Dal|1863–66|loc=[http://dic.academic.ru/dic.nsf/enc2p/255358 "Кисель"]}}{{sfnp|Davidson|2014}} (from the Proto-Slavic root ''*kyslŭ'', 'sour'{{sfnp|Vasmer|1973|loc=[http://dic.academic.ru/dic.nsf/vasmer/41001/кислый "кислый"]}}{{sfnp|Trubachyov|1987|pp=271–272 (vol. 13)|loc=[http://etymolog.ruslang.ru/doc/essja13.pdf "*kyselь"]}}) had been already mentioned in ''[[Primary Chronicle|The Tale of Bygone Years]]'', a 12th century chronicle of [[Kievan Rus']],{{sfnp|Matyukhina|2013|loc=[https://books.google.com/books?id=nLt1AgAAQBAJ&pg=PT52 "Русские пития"]}}{{sfnp|Artyukh|1977|p=35}} and continued to be a staple of Ukrainian and Russian cooking until the middle of the 19th century.{{sfnp|Artyukh|1977|p=38}} In Poland, a soup based on diluted kissel became known as either ''{{lang|pl|żur}}''{{sfnp|Gloger|1900|pp=522–523 (vol. 4)|loc=[[:s:pl:Encyklopedia staropolska/Żur|"Żur"]]}} (from [[Middle High German]] ''{{lang|gmh|sur}}'', 'sour'{{sfnp|Doroszewski|1969|loc=[http://doroszewski.pwn.pl/haslo/%C5%BCur "żur"]}}) or ''{{lang|pl|barszcz}}'' and later—to distinguish it from the red beetroot borscht—as ''{{lang|pl|barszcz biały}}'', 'white borscht'.{{sfnp|Rostafiński|1916|p=45}}
+
+The earliest known Polish recipes for borscht, written by chefs catering to Polish [[Magnates of Poland and Lithuania|magnates]] (aristocrats), are from the late 17th century. {{lang|pl|[[Stanisław Czerniecki]]|italic=unset}}, head chef to Prince {{lang|pl|[[Aleksander Michał Lubomirski (d. 1677)|Aleksander Michał Lubomirski]]|italic=unset}}, included several borscht recipes in his ''{{lang|la|[[Compendium ferculorum, albo Zebranie potraw|Compendium ferculorum]]}}'' (''A Collection of Dishes''), the first cookbook published originally in Polish, in 1682. They include such sour soups as lemon borscht and "royal borscht", the latter made from assorted dried, smoked or fresh fish and fermented rye bran.{{sfnp|Czerniecki|1682|pp=71–72}} A manuscript recipe collection from the {{lang|pl|[[Radziwiłł]]|italic=unset}} family court, dating back to {{circa|1686}}, contains an instruction for making hogweed borscht mixed with [[poppy seeds]] or ground [[almond]]s. As this was a Lenten dish, it was garnished, in a ''{{lang|fr|[[trompe-l'œil]]}}'' fashion typical of [[Baroque]] cuisine, with mock eggs made from finely chopped [[Northern pike|pike]] that was partly dyed with saffron and formed into oval balls.{{sfn|Dumanowski, ''Barszcz, żur i post''}}{{sfnp|Dumanowski|Jankowski|2011|p=185}} An alternative recipe for the almond borscht replaced pickled hogweed with vinegar.{{sfnp|Dumanowski|Jankowski|2011|p=165}}
+
+[[File:Shchi.jpg|thumb|[[Cabbage soup]] attributed as "borscht" may be indistinguishable from the Russian [[shchi]].]]
+Borscht also evolved into a variety of sour soups to the east of Poland. Examples include onion borscht, a recipe for which was included in a 1905 Russian cookbook,{{sfnp|Burlakoff|2013|loc=Chapter 6}} and sorrel-based green borscht, which is still a popular summer soup in Ukraine and Russia. ''[[A Gift to Young Housewives]]'' by [[Elena Molokhovets]], the best-selling Russian cookbook of the 19th century,{{sfnp|Christian|1994}} first published in 1861, contains nine recipes for borscht, some of which are based on [[kvass]], a traditional Slavic [[fermented beverage]] made from rye bread.{{sfnp|Molokhovets|1998|loc=Recipes 43–48, 74, 75, 77}} Kvass-based variants were also known in Ukraine at that time; some of them were types of green borscht, while others were similar to the Russian ''{{transliteration|ru|[[okroshka]]}}''.{{sfnp|Artyukh|1977|p=55}}
+
+Before the advent of beet-based borscht, cabbage borscht was of particular importance. Made from either fresh cabbage or sauerkraut, it could be indistinguishable from the Russian [[shchi]].{{sfnp|Burlakoff|2013|loc=Chapters 4,6}} Indeed, the mid-19th century ''[[Explanatory Dictionary of the Living Great Russian Language]]'' defines ''{{transliteration|ru|borshch}}'' as sour beet or "a kind of shchi" with sour beet base.<ref>{{Cite Dal 2|Борщ}}</ref>{{sfnp|Burlakoff|2013|loc=Chapter 2}} The significance of cabbage as an essential ingredient of borscht is manifest in the Ukrainian proverb, "without bread, it's no lunch; without cabbage, it's no borscht."{{efn|{{langx|uk|Без хліба – не обід; без капусти – не борщ|links=no}} (''{{transliteration|uk|Bez khliba – ne obid; bez kapusty – ne borshch}}'').}}{{sfn|''Prykazky ta pryslivya...''}}
+
+=== Novel ingredients: beets, tomatoes and potatoes ===
+[[File:Leon Wyczółkowski, Kopanie buraków I.jpg|thumb|Peasants harvesting beets in what is now Ukraine,{{sfnp|Majkowski|1932|p=19}} painted by {{lang|pl|[[Leon Wyczółkowski]]|italic=unset}} in 1893]]
+Beet (''{{lang|la|[[Beta vulgaris]]}}''), a plant native to the [[Mediterranean Basin]], was already grown in antiquity.{{sfnp|Rostafiński|1916|pp=5–6}} Only the leaves were of culinary use, as the tapered, tough, whitish and bitter-tasting root was considered unfit for human consumption.{{sfnp|Rostafiński|1916|p=10}} It is probably that beet greens were used in variants of green borscht long before the invention of the beetroot-based red borscht.{{sfnp|Burlakoff|2013|loc=Chapter 2}} Beet [[Variety (botany)|varieties]] with round, red, sweet [[taproot]]s, known as beetroots, were not reliably reported until the 12th century{{sfnp|Small|2009|p=97}} and did not spread to Eastern Europe before the 16th century.{{sfnp|Rostafiński|1916|p=11}}
+
+{{lang|pl|[[Mikołaj Rej]]|italic=unset}}, a [[Renaissance in Poland|Polish Renaissance]] poet and moralist, included the earliest known Polish recipe for pickled beetroots in his 1568 book, ''Life of an Honest Man''.{{sfnp|Rostafiński|1916|pp=15–16}} It would later evolve into ''{{lang|pl|ćwikła}}'',{{sfnp|Rostafiński|1916|p=17}} or ''{{transliteration|yi|[[chrain|chrain mit burik]]}}'',{{sfnp|Marks|2010|pp=541–543|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT541 "Horseradish"]}} a beet-and-horseradish relish popular in Polish and Jewish cuisines. {{lang|pl|Rej|italic=unset}} also recommended the "very tasty brine"{{efn|{{langx|pl|rosołek barzo smaczny|links=no}}.}} left over from beetroot pickling,{{sfnp|Rej|1567|loc=[[:s:pl:Żywot człowieka poćciwego/Księga druga|Księga Druga]]}} which was an early version of beet sour. The sour found some applications in Polish folk medicine as a cure for hangover and—mixed with honey—as a sore throat remedy.{{sfnp|Gloger|1900|pp=116–117 (vol. 1)|loc=[[:s:pl:Encyklopedia staropolska/Barszcz|"Barszcz"]]}}
+
+It may never be known who first thought of using beet sour to flavor borscht, which also gave the soup its now-familiar red color. One of the earliest mentions of borscht with pickled beets comes from Russian ethnographer Andrey Meyer, who wrote in his 1781 book that people in Ukraine make fermented red beets with [[Acanthus (plant)|''Acanthus'']], which they in turn use to cook their borscht.{{sfnp|Meyer|1781|p=27}} The book "Description of the Kharkiv Governorate" of 1785, which describes the food culture of the Ukrainians, says that borscht was the most consumed food, cooked from beets and cabbage with various other herbal spices and millet, on sour kvass; it was always made with pork lard or beef lard, on holidays with lamb or poultry, and sometimes with game.{{sfnp|Pirko|Hurzhii|Sokhan|1991|p=68}} {{lang|pl|[[Jerzy Samuel Bandtkie]]|italic=unset}}'s Polish-German dictionary published in 1806 was the first to define ''{{lang|pl|barszcz}}'' as a tart soup made from pickled beetroots.{{sfnp|Rostafiński|1916|p=41}}
+
+[[File:BORSHCH.JPG|thumb|The addition of tomatoes may give borscht an orange tinge instead of the purplish red imparted by beetroots.]]
+The fact that certain 19th century Russian and Polish cookbooks, such as ''Handbook of the Experienced Russian Housewife'' (1842) by {{transliteration|ru|[[Yekaterina Avdeyeva]]|italic=unset}}{{sfnp|Avdeyeva|1846|pp=198–199}}{{sfnp|Burlakoff|2013|loc=Chapter 5}} and ''The Lithuanian Cook'' (1854) by {{lang|pl|[[Wincenta Zawadzka]]|italic=unset}},{{sfnp|Zawadzka|1913|p=[http://polona.pl/item/843952/18/ 12]}} refer to beetroot-based borscht as "Little Russian borscht"{{efn|{{langx|pl|barszcz małorosyjski|links=no}}; {{langx|ru|борщ малороссийский|links=no}} (''{{transliteration|ru|borshch malorossiysky}}'').}} (where "[[Little Russia]]n" is a term used at the time for ethnic [[Ukrainians]] under [[Russian Empire|imperial Russian]] rule) suggests that this innovation took place in what is now Ukraine,{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}} whose soils and climate are particularly well suited to beet cultivation. Ukrainian legends, probably of 19th century origin, attribute the invention of beetroot borscht either to [[Zaporozhian Cossacks]], serving in the Polish army, on their way to break the [[battle of Vienna|siege of Vienna]] in 1683, or to [[Don Cossacks]], serving in the Russian army, while [[Azov campaigns (1695–96)|laying siege to Azov]] in 1695.{{sfnp|Burlakoff|2013|loc=Chapter 2}}
+
+Spanish [[conquistador]]s brought potatoes and tomatoes from the Americas to Europe in the 16th century, but these vegetables only became commonly grown and consumed in Eastern Europe in the 19th century. Eventually, both became staples of [[Peasant foods|peasant diet]] and essential ingredients of Ukrainian and Russian borscht. Potatoes replaced turnips in borscht recipes, and tomatoes—fresh, canned or paste—took over from beet sour as the source of tartness. The turnip is rarely found in modern recipes, and even then, together with potatoes.{{sfnp|Burlakoff|2013|loc=Chapter 2}} In Ukraine, beet sour and tomatoes were both used for some time until the latter ultimately prevailed during the last third of the 19th century.{{sfnp|Artyukh|2006|p=13}}
+
+=== Haute cuisine ===
+In Ukraine borshch was popularized as a national dish by [[Cossack starshyna]]. In the 19th centuries some recipes used for cooking borshch in urban families would contain more than 20 ingredients, and among the rich it was not rare to consume several varieties of the dish during one meal. One recipe preserved from that time includes ingredients such as [[cardamom]], [[Eggs as food|eggs]], [[mushroom]]s and [[cherry]].<ref name=sho/>
+
+Russian and Polish aristocrats used to employ celebrated French chefs, who later presented their dishes as foreign curios back in France. One of the first French chefs to do so was {{lang|fr|[[Marie-Antoine Carême]]|italic=unset}}, who worked briefly for Emperor [[Alexander I of Russia|Alexander I]] in 1819.{{sfnp|Burlakoff|2013|loc=Chapter 3}} In his take on borscht, the original Russian soup served only as inspiration for an extravagant ''{{lang|fr|[[haute cuisine]]}}'' dish with an air of eastern exoticism.{{sfnp|Burlakoff|2013|loc=Chapters 3 and 10}} Apart from vegetables and beet sour, his recipe calls for a roast chicken, a fried chicken, a duck, a piece of veal, an [[oxtail]], a marrow bone, one pound of bacon, and six large sausages, and suggests serving with beef [[quenelle]]s, deviled eggs and [[croûton]]s.{{sfnp |Burlakoff|2013|loc=Appendix}}
+
+{{lang|fr|[[Auguste Escoffier]]|italic=unset}}, {{lang|fr|Carême|italic=unset}}'s apprentice, who was mostly fascinated by the soup's vivid ruby-red color, simplified his master's recipe, while also securing the place of ''{{lang|fr|potage bortsch}}'' ({{literally|borscht soup}}) in French cuisine.{{sfnp|Burlakoff|2013|loc=Chapter 10}} {{lang|fr|[[Urbain Dubois]]|italic=unset}} and {{lang|fr|Émile Bernard|italic=unset}}, both of whom had been employed at Polish aristocratic courts, presented borscht to the French public as a Polish soup; their cookbook, ''{{lang|fr|La cuisine classique}}'', published in 1856, contains a borscht recipe under the descriptive name, ''{{lang|fr|potage au jus de betteraves à la polonaise}}'' ({{literally|Polish-style beet-juice soup}}),{{sfn|Dumanowski, ''Klasyczny barszcz...''}} which had been changed to ''{{lang|fr|potage barsch à la polonaise}}'' by the third edition in 1868.{{sfnp|Dubois|Bernard|1868|p=22}} In 1867, beetroot borscht was served, along with [[herring]]s, [[sturgeon]], coulibiac, [[Pozharsky cutlet]]s and [[Vinegret|vinaigrette salad]],{{sfn|The Epicure's Year Book|p=83}} at a Russian-themed dinner at the [[International Exposition (1867)|International Exposition]] in [[Paris]], strengthening its international association with Russian culture.{{sfnp|Burlakoff|2013|loc=Preface}}
+
+=== Global spread ===
+[[File:Ukrainian borscht.jpg|thumb|A modern bowl of dark-red borscht garnished with a dollop of sour cream and a parsley leaf. Note the bubbles of oil, making borscht close to [[vinegret]].]]
+
+Over the course of the 19th and 20th centuries, borscht's popularity spread beyond its Slavic homeland, largely due to such factors as territorial expansion of the Russian Empire, Russia's growing political clout and cultural stature, and waves of emigration out of the country. As Russia grew to cover most of northern and central Eurasia, borscht was introduced to the cuisines of various peoples inhabiting the territories both within and adjacent to the empire, from [[Finnish cuisine|Finland]]{{sfnp|MacVeigh|2008|p=193}} to the [[List of dishes from the Caucasus|Caucasus]]{{sfnp|Petrosian|Underwood|2006|pp=107–108}}{{sfnp|King|2006|p=12}} and [[Iranian cuisine|Iran]],{{sfnp|Petrosian|Underwood|2006|pp=108}} to [[Central Asian cuisine|Central Asia]]{{sfnp|World and Its Peoples|2006|pp=617, 706, 1472}}{{sfnp|Mack|Surina|2005|p=115}} and China, to [[Alaska]] ([[Russian America]]).{{sfnp|Burlakoff|2013|loc=Chapter 8}}
+
+Borscht's westward expansion was less successful; Germans used to scoff at the soup along with other East European fare.{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}} What helped the spread of borscht, however, was the popularization by various ''haute cuisine'' chefs who had their own dishes to present to West Europe.{{citation needed|date=June 2025}}
+
+[[File:Ukrainian borscht.JPG|thumb|Ukrainian beet-and-cabbage borscht]]
+Mass migration from the Russian Empire to North America—initially mostly by members of persecuted religious minorities—was instrumental in bringing borscht across the Atlantic.{{sfnp|Burlakoff|2013|loc=Chapter 4}} Jews from the [[Pale of Settlement]], an area that stretched along the western edges of the Russian Empire and included much of present-day Ukraine, brought with them the Ukrainian variety of borscht with beetroot.<ref name="Darra20">{{cite book |title=Beyond the North wind: revealing Russia, its recipes and lore |first=Darra |last=Goldstein |authorlink=Darra Goldstein |year=2020 }}</ref>
+
+The earliest waves of migration, however, occurred at a time when cabbage-based borscht was still the dominant variant of the soup in at least parts of Russia. The Mennonites, who began arriving in Canada and the United States from Russia's [[Volga region]] in the 1870s,{{sfnp|Burlakoff|2013|loc=Chapter 4}} still eschew beetroots in their borscht;{{sfnp|Burlakoff|2013|loc=Chapter 2}} instead, Mennonite varieties include ''{{lang|pdt|Komst Borscht}}'' (with cabbage or sauerkraut) and ''{{lang|pdt|Somma Borscht}}'' (sorrel-based "summer borscht").{{sfnp|Burlakoff|2013|loc=Chapter 4}} According to the ''[[Jewish Encyclopedia]]'' published in 1906, cabbage-based ''kraut borscht'' was also more popular than the beet-based variant in [[American Jewish cuisine]] at the time.{{sfnp|Jewish Encyclopedia|1906|p=257}} Subsequent Jewish immigration helped popularize the red borscht in America.{{citation needed|date=June 2025}}
+
+In the 1930s, when most American hotels refused to accept Jewish guests due to widespread [[antisemitism in the United States|anti-Semitism]], [[New York (state)|New York]] Jews began flocking to Jewish-owned resorts in the [[Catskill Mountains]] for their summer vacations. The area grew into a major center of Jewish entertainment, with restaurants offering [[Buffet#All-you-can-eat (AYCE)|all-you-can-eat]] Ashkenazi Jewish fare, including copious amounts of borscht. [[Grossinger's Catskill Resort Hotel|Grossinger's]], one of the largest resorts, served borscht throughout the day, every day of the year. The region became known, initially in derision, as the "[[Borscht Belt]]", reinforcing the popular association between borscht and American Jewish culture.{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}} As most visitors arrived in the summertime, the borscht was typically served cold. Marc Gold was one of its largest suppliers, producing 1,750 [[short ton]]s (1,590 [[tonne]]s) a year in his business's heyday.{{sfnp|Lagnado|2011}} Gold's borscht consists of [[purée]]d beetroots seasoned with sugar, salt and citric acid;{{sfn|Gold's Borscht}} it is usually blended with sour cream and served as a refreshing beverage, more aptly described as a "beet [[smoothie]]". Such type of "purplish, watery broth" is, according to Nikolai Burlakoff, author of ''The World of Russian Borsch'', "associated in America with borsch, in general, and Jewish borsch in particular."{{sfnp|Burlakoff|2013|loc=Chapter 7}}
+
+=== Borscht in the USSR ===
+In the [[Soviet Union]], borscht was one of the most popular everyday dishes. It was described in 2008 by journalist [[James Meek (author)|James Meek]] as "the common denominator of the [[Soviet cuisine|Soviet kitchen]], the dish that tied together ... the high table of [[Moscow Kremlin|the Kremlin]] and the meanest canteen in the boondocks of the [[Ural Mountains|Urals]], ... the beetroot soup that pumped like the main artery through the kitchens of the [[East Slavs|east Slav]] lands."{{sfnp|Meek|2008}} Among Soviet leaders, the Ukrainian-born [[Leonid Brezhnev]] was especially partial to borscht, which his wife continued to personally cook for him even after they had moved into the Kremlin.{{sfnp|Burlakoff|2013|loc=Chapter 3}}
+
+[[File:Borsch-tube.jpg|thumb|Tubed borscht as [[space food]]]]
+The soup has even played a role in the [[Soviet space program]]. In March 1961, as part of a communications equipment test, a pre-recorded recipe for borscht was broadcast from the [[Korabl-Sputnik 4]] spacecraft. The craft, carrying animals and [[Ivan Ivanovich (Vostok programme)|a mannequin]], had been launched into [[low Earth orbit]] in preparation for crewed space flights.{{sfnp|Garber|2013}} Actual borscht eventually made its way into outer space as [[space food]] for Soviet and, later, Russian [[cosmonaut]]s. Originally, a puréed version of borscht was supplied in tubes.{{citation needed|date=June 2025}}
+
+All ingredients for the space borscht (which include beef, beetroots, cabbage, potatoes, carrots, onions, parsley root, and tomato paste) were cooked separately, then combined one by one in strictly controlled order, [[Sterilization (microbiology)|sterilized]], packed into tubes, sealed airtight and [[autoclave]]d. In the 1970s, the tubes were replaced with packages of rehydratable [[Freeze-drying|freeze-dried]] borscht with regular-size bits of cooked vegetables.{{sfnp|Vedernikov|2015}}
+
+However, with urbanization and mass construction of [[Khrushchyovka]] type housing, borscht would be affected; there would be no comfortable place to make own days-long dishes with "kvass" and sour foods, in a tiny apartment. At this rate, the idea of making its beet sour lost its initial appeal, making borscht in USSR mainly about beets, not about sourness.{{citation needed|date=June 2025}}
+
+Such a typical Soviet-era book as ''Entsyclopedia Domashnego Hozyaistva'' ({{literally|Encyclopedia of Housekeeping}}) has an article on borscht. The article suggests to make a soup with beets, other vegetables, and a tartness source ("tomato purée") as a "borscht" in general, but its "no-nation" primary recipe of meat borscht says "''uksus po vkusu'' (Cyrillic: уксус по вкусу)", e.g. only to add vinegar upon tasting the resulting soup. Simply put, the borscht's sourness became an option, not a requirement, for a "generic" Soviet borscht, effectively parting ways with older concepts of making sour soups (ones both with or without beets).<ref name="auto"/>
+* However, the same article mentions the sour variant of the beet soup: it lists separate "Ukrainian borscht" and "Cold borscht" recipes. The "Ukrainian borscht" one properly instructs to make the sour soup with beets by saying "''sbryznut' uksusom'' (Cyrillic: сбрызнуть уксусом)", e.g. instructs to sprinkle it with some vinegar.{{citation needed|date=June 2025}}
+* A beet infusion for borscht is also mentioned in the said article. It involves soaking a beet with boiled water and then adding some vinegar. Again, this makeshift-like substitute for beet sour is listed in the aforementioned Soviet encyclopedia as a way to color borscht, not to sour it.{{citation needed|date=June 2025}}
+
+[[Era of Stagnation]] also would affect making borscht from time to time to the next level of simplification: the aforementioned canned tomato products, "paste" or "purée" would be a "deficit" item, a thing not available regularly in one's nearby [[convenience store]]s. On the other hand, due to urbanization, people would not resort to making own batches of, say, pickled tomatoes. As result, many modern recipes of beet soups labeled as "borscht" list neither a tartness source (lack tomatoes, pickles, etc.) nor a sourness source (lack vinegar, lemon acid powder, let alone beet sour kvass).{{citation needed|date=June 2025}}
+
+== In culture ==
+=== As a ritual dish ===
+Borscht is often associated with its role in religious traditions of various denominations ([[Eastern Orthodox Church|Eastern Orthodox]], [[Ukrainian Greek Catholic Church|Greek]] and [[Latin Church|Roman Catholic]], and [[Judaism|Jewish]]) that are common in Eastern Europe. In East Slavic countries, "memorial borscht"{{efn|{{langx|ru|поминальный борщ|links=no}} (''{{transliteration|ru|pominalny borshch}}'').}} is served as the first course at a [[Wake (ceremony)|post-funeral wake]]. According to a traditional belief, the soul of the departed either feeds on or is carried up to heaven by puffs of steam rising from bowls of borscht and other hot dishes, such as [[blini]], [[Kasha|porridge]], boiled potatoes or freshly baked bread.{{sfnp|Vinogradova|Levkievskaya|2012|p=138}}{{sfnp|Burlakoff|2013|loc=Chapter 4}} In the region of [[Polesye]], straddling the Belarusian-Ukrainian border, the same steaming-hot dishes, including borscht, are given as an offering to the souls of deceased ancestors during the annual semi-pagan remembrance ceremony known as ''{{transliteration|be|[[Dziady|Dzyady]]|italic=unset}}'' or Forefathers' Night.{{sfnp|Gurko|Chakvin|Kasperovich|2010|p=73}}{{sfnp|Vinogradova|Levkievskaya|2012|p=195}}
+
+[[File:Wigilia potrawy 554.jpg|thumb|A [[tureen]] of clear borscht among other dishes on a Polish [[Christmas Eve]] table]]
+In Poland and Ukraine, borscht is usually one of the dishes served at a [[Christmas Eve]] dinner. Celebrated after the first star has appeared in the sky{{sfnp|Łozińska|Łoziński|2013|pp=162–165}} on December 24 (Roman Catholic) or January 6 (Greek Catholic), it is a meal which is at the same time festive and fasting, a multicourse affair (traditionally, with twelve distinct dishes) that excludes ingredients of land-animal origin.{{sfnp|Szymula|2012|p=280}} Christmas Eve borscht is, therefore, either vegetarian or based on fish stock and is not typically mixed with sour cream. In Ukraine, the soup contains vegetables that are sautéed in vegetable oil rather than lard, as well as beans and mushrooms. It may also be thickened with wheat flour [[Dry roasting|dry-roasted]] in a pan instead of the usual roux.{{sfnp|Artyukh|2006|p=13}} The Polish version of Christmas Eve borscht is a clear ruby-red broth. Both Ukrainian and Polish variants are often served with ''{{lang|pl|uszka}}''.{{sfnp|Strybel|Strybel|2005|pp=190–192}}{{sfnp|Artyukh|2006|p=16–17}}
+
+While Christmas in Poland is traditionally linked to red borscht, Lent—the fasting period that leads up to [[Easter]]—is associated with a meatless version of white borscht, or ''{{lang|pl|żur}}''. Youths used to celebrate [[Holy Saturday]], the last day of the fast, with a mock "funeral" of the white borscht, in which a pot of the soup was either buried in the ground or broken, sometimes—to the crowd's amusement—while being carried by an unsuspecting boy on his head.{{sfnp|Gloger|1900|pp=522–523 (vol. 4)|loc=[[:s:pl:Encyklopedia staropolska/Żur|"Żur"]]}} On the next day, the white borscht would reappear on the Easter table, but this time, in its more coveted, meat-based guise with sausage, bacon and eggs.{{sfn|Dumanowski, ''Barszcz, żur i post''}}
+
+In Eastern European Ashkenazi Jewish tradition, vegetarian borscht served with sour cream and boiled potatoes on the side, known as ''{{transliteration|yi|peysakhdiker borsht}}'', is considered an essential dish during the Passover period. As the holiday is observed in spring (March or April), the preparation of Passover borscht used to provide an opportunity to use up the beet sour left over from pickled beetroots that had been consumed during winter, remaining potatoes that had been stored throughout the winter and sour cream that was readily available in the new calving season.{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}} Cold borscht blended with sour cream is also popular on [[Shavuot]] (Feast of Weeks), a holiday customarily associated with dairy foods, observed in late May or early June.{{sfnp|Morel|2008}} [[Seudah Shlishit]], or the third meal of the [[Shabbat]], often includes borscht as well.{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}}
+
+In 2022, the United Nations Educational, Scientific, and Cultural Organization ([[UNESCO]]) announced that it had placed "Culture of Ukrainian borscht cooking" on the [[UNESCO Intangible Cultural Heritage Lists#List of Intangible Cultural Heritage in Need of Urgent Safeguarding|List of Intangible Cultural Heritage in Need of Urgent Safeguarding]] due to the risk that [[Russian invasion of Ukraine|Russia's invasion]] posed to the soup's status as an element of Ukraine's cultural heritage.<ref>{{Cite web |title='Culture of Ukrainian borscht cooking' inscribed on the List of Intangible Cultural Heritage in Need of Urgent Safeguarding - UNESCO Intangible Cultural Heritage |url=https://ich.unesco.org/en/news/culture-of-ukrainian-borscht-cooking-inscribed-on-the-list-of-intangible-cultural-heritage-in-need-of-urgent-safeguarding-13412 |access-date=2025-06-22 |website=ich.unesco.org |language=en}}</ref> According to ''[[Smithsonian Institution|The Smithsonian]]'', "The designation by the international cultural authority was widely seen as a landmark decision in the [[Gastronationalism#Borscht|ongoing cultural dispute]] between the two countries on borshch’s true country of origin."<ref>{{Cite web |last=Zhang |first=Daniel |date=3 July 2023 |title=A Brief History of Borshch |url=https://festival.si.edu/blog/a-brief-history-of-borshch |access-date=2025-06-22 |website=[[Smithsonian Folklife Festival]] |language=en-US}}</ref>
+
+=== As an ethnic dish ===
+In its currently most popular, beet-based version, borscht most probably originated in what is now Ukraine.{{sfnp|Schultze|2000|pp=65–66}}{{sfnp|Marks|2010|pp=196–200|loc=[https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT196 "Borscht"]}}{{sfnp|Burlakoff|2013|loc=Chapter 2}} Borscht's role as a staple of everyday Ukrainian diet is reflected in the Ukrainian saying, "borscht and porridge are our food"{{efn|{{langx|uk|Борщ та каша – їжа наша|links=no}} (''{{transliteration|uk|Borshch ta kasha – yizha nasha}}'').}}{{sfn|''Prykazky ta pryslivya...''}} (compare the equivalent Russian saying, where borscht is replaced with [[shchi]]{{efn|{{langx|ru|Щи да каша – пища наша|links=no}} (''{{transliteration|ru|Shchi da kasha – pishcha nasha}}'').}}{{sfnp|Burlakoff|2013|loc=Preface}}). The hearty soup in which the beetroot is just one of sundry vegetables, as opposed to the typically Polish clear beet broth, is still known in Poland as "Ukrainian borscht".{{efn|{{langx|pl|barszcz ukraiński|links=no}}.}}{{sfnp|Kuroń|2004|p=188}}{{sfnp|Strybel|Strybel|2005|p=191}}
+
+Borscht is associated with and claimed by several ethnic groups, especially Ukrainians, Russians, Poles, Lithuanians and Ashkenazi Jews, as their own [[national dish|national or ethnic dish]] and [[cultural icon]].{{sfnp|Perianova|2012|pp=161–162}}{{sfnp|Mazitova|2005}} Such [[Gastronationalism|gastronationalistic]] claims are not necessarily mutually exclusive, as the soup's history predates the emergence in Eastern Europe of modern nation states with their ever-shifting borders. Borscht, in the words of Burlakoff, "is perfectly suited to a global culture". He describes it as "a global phenomenon", in which "local variants are so numerous and diverse that it is hard sometimes for a non-specialist to grasp that any single example of it is something that is part of a unified tradition". In his view, borscht "is an almost perfect example of&nbsp;... '[[glocalization]]'—a phenomenon that is global in distribution but reflective of local needs and ways in its variants and adaptation;&nbsp;... a highly localized product that became globalized, and in the process adapted to conditions other than the original ones."{{sfnp|Burlakoff|2013|loc=Chapter 3}}
+
+However, according to Irina Perianova, a Russian linguist and anthropologist, "people tend to be very proprietal about their food and proud of it." Perianova offers competing Russian and Ukrainian views on the origin and ingredients of borscht as an example of "a common connection between culinary and territorial claims", which results in the culinary area turning into "a battlefield generating and proliferating all kinds of myths".{{sfnp|Perianova|2012|pp=161–162}} In 2020 Ukraine began the process to have borscht recognised as an element of the country's [[intangible cultural heritage]], an initiative supported by chefs and food writers such as [[Marianna Dushar]].<ref>{{Cite web |date=2020-10-21 |title=Ukraine seeks U.N. cultural status for beloved borscht. A culinary spat with Russia could be brewing. |url=https://www.seattletimes.com/nation-world/ukraine-seeks-u-n-cultural-status-for-beloved-borscht-a-culinary-spat-with-russia-could-be-brewing/ |access-date=2022-03-07 |website=The Seattle Times |language=en-US}}</ref><ref>{{Cite web |title=Гастрономічна спадщина та національна ідентичність |url=https://www.istpravda.com.ua/columns/2021/08/11/159985/ |access-date=2022-03-07 |website=Історична правда}}</ref><ref>{{Cite web |date=2020-10-11 |title=П'ять цікавих фактів про борщ, яких ви не знали |url=https://www.bbc.com/ukrainian/features-54447232 |access-date=2022-03-07 |website=BBC News Україна |language=uk}}</ref>
+
+{{Image frame
+|width=150
+|content=[[File:Borshch stamp UA026-05 transparent.png|150px]] [[File:Borshch stamp UA027-05 transparent.png|150px]]
+|caption=A bowl of borscht together with its usual ingredients featured on Ukrainian postage stamps
+|align=left}}
+
+In the Soviet Union, government-sponsored cookbooks, such as ''[[The Book of Tasty and Healthy Food]]'' (1939) curated by [[Anastas Mikoyan]], and ''Cookery'' and ''Directory of Recipes and Culinary Production'', promoted a unified Soviet cuisine with standardized and nutritionally "rational" versions of traditional dishes.{{sfn|Kulinariya|pp=31–32}}{{sfnp|Mack|Surina|2005|pp=114–115}} The same cooking techniques and recipes were taught in culinary vocational schools throughout the country, establishing a common cooking style in Soviet cafés and restaurants.{{sfnp|Mack|Surina|2005|pp=114–115}} Though inspired by the cuisines of the country's various ethnic groups, many recipes were presented as part of an overall Soviet heritage, disassociated from their individual geographic origins.{{sfnp|Burlakoff|2013|loc=Chapter 6}}
+
+By many people both inside and outside the Soviet Union, borscht was increasingly seen not as an ethnic Ukrainian soup, but as a Soviet or—[[Metonymy|metonymically]]—Russian dish.{{sfnp|World and Its Peoples|2010|p=1424}} This approach was criticized by [[William Pokhlebkin]], a preeminent Russian food writer, who unequivocally described beet-based borscht as one of the "dishes of Ukrainian cookery" which "have entered the menu of international cuisine".{{efn|{{langx|ru|некоторые блюда украинской кухни, например борщи и вареники, вошли в меню международной кухни|links=no}}.}}{{sfnp|Pokhlebkin|2004|pp=80–83}} "One could understand", he wrote, "and forgive foreigners for calling borscht or ''{{transliteration|uk|[[pierogi|varenyky]]}}'' Russian national dishes, but when it turns out that they gleaned the information from Soviet cookbooks or from restaurant menus, one is embarrassed for our authors and chefs, who popularize the national cuisines of our peoples [that is, the ethnic groups of the Soviet Union] with such ignorance."{{efn|{{langx|ru|То, что иностранцы называют борщ или вареники русскими национальными блюдами, еще можно понять и извинить, но когда выясняется, что эти сведения они почерпнули из советских кулинарных книг или из меню ресторанов, становится стыдно за наших авторов и мастеров общепита, так безграмотно пропагандирующих национальную кухню наших народов.|links=no}}}}{{sfnp|Pokhlebkin|2004|pp=6–7}}
+
+According to Meek: <blockquote>Pokhlebkin and the Soviet Union are dead, yet Borshchland lives on. Recipes, like birds, ignore political boundaries.&nbsp;... The faint outline of the Tsarist-Soviet imperium still glimmers in the collective steam off bowls of beetroot and cabbage in meat stock, and the soft sound of dollops of sour cream slipping into soup, from the [[Black Sea]] to the [[Sea of Japan]] and, in emigration, from [[Brooklyn]] to [[Berlin]].{{sfnp|Meek|2008}}</blockquote>
+
+== See also ==
+* [[List of soups]]
+* [[Three grand soups]] in Japanese culture
+* [[Shchi]] – some variants of the dish may contain beets
+* [[Cabbage soup]] – ''kapusniak''/''kapustnica'' variants of cabbage soup are made sour
+* [[Comfort food]]
+* [[Borscht Belt]] – a popular vacation spot for New York City Jews from the 1920s through the 1960s
+
+== Notes ==
+{{Notelist|30em}}
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+
+=== Secondary ===
+{{refbegin|30em}}
+* {{cite journal |last=Christian |first=David |author-link=David Christian (historian) |date=April 1994 |title=Classic Russian Cooking: Elena Molokhovets' ''A Gift to Young Housewives'' |journal=[[Russian Review]] |volume=53 |issue=2 |page=306 |doi=10.2307/130837 |jstor=130837}}
+* {{cite book |last=Dembińska |first=Maria |editor1-last=Weaver |editor1-first=William Woys |year=1999 |title=Food and Drink in Medieval Poland: Rediscovering a Cuisine of the Past |location=Philadelphia |publisher=University of Pennsylvania Press |isbn=0-8122-3224-0 |url=https://books.google.com/books?id=Iru2rMQR8eYC}}
+* {{cite book |last=Fertig |first=Judith M. |year=2011 |title=Prairie Home Cooking: 400 Recipes that Celebrate the Bountiful Harvests, Creative Cooks, and Comforting Foods of the American Heartland |location=Boston |publisher=Houghton Mifflin Harcourt |isbn=978-1-55832-144-1 |url=https://books.google.com/books?id=9yA2Q0Y-uOkC&pg=PA128}}
+* {{cite news |last=Garber |first=Megan |date=2013-03-28 |title=The Doll That Helped the Soviets Beat the U.S. to Space |newspaper=The Atlantic |url=https://www.theatlantic.com/technology/archive/2013/03/the-doll-that-helped-the-soviets-beat-the-us-to-space/274400/ |access-date=2016-01-18}}
+* {{cite magazine |last=Hercules |first=Olia |author-link=Olia Hercules |date=2017-12-07 |title=Let Me Count the Ways of Making Borscht |magazine=The New Yorker |url=https://www.newyorker.com/culture/annals-of-gastronomy/let-me-count-the-ways-of-making-borscht |access-date=2019-04-25}}
+* {{cite book |last=Kafka |first=Barbara |title=Soup: A Way of Life |publisher=Artisan Books |year=1998 |isbn=978-1-57965-125-1 |url=https://archive.org/details/soupwayoflife00kafk |url-access=registration |page=[https://archive.org/details/soupwayoflife00kafk/page/176 176]}}
+* {{cite journal |last1=Kuhnlein |first1=Harriet V. |author-link=Harriet V. Kuhnlein |last2=Turner |first2=Nancy J. |year=1986 |title=Cow-parsnip (''Heracleum lanatum'' Michx.): an indigenous vegetable of native people of northwestern North America |journal=Journal of Ethnobiology |volume=6 |issue=2 |pages=309–324 |url=https://ethnobiology.org/sites/default/files/pdfs/JoE/6-2/KuhnleinTurner1986.pdf}}
+* {{cite news |last=Lagnado |first=Lucette |date=2011-06-28 |title=A Family Named Gold Tries to Add Cool to a Soup That's the Color Purple |newspaper=The Wall Street Journal |url=https://www.wsj.com/articles/SB10001424052702304231204576406000546981170 |access-date=2016-01-11}}
+* {{cite news |last=Meek |first=James |author-link=James Meek (author) |date=2008-03-15 |title=The story of borshch |url=https://www.theguardian.com/lifeandstyle/2008/mar/15/foodanddrink.travelfoodanddrink |access-date=2015-07-09 |newspaper=The Guardian}}
+* {{cite news |last=Morel |first=Linda |date=2008-05-15 |title=Cold soups for Shavuot |url=https://www.jta.org/2008/05/15/life-religion/cold-soups-for-shavuot |access-date=2016-01-24 |newspaper=Jewish Telegraphic Agency}}
+* {{cite book |last1=Mack |first1=Glenn Randall |last2=Surina |first2=Asele |title=Food Culture in Russia and Central Asia |year=2005 |publisher=Greenwood Publishing Group |url=https://books.google.com/books?id=j7MTx_zcIR0C |issn=1545-2638 |isbn=978-0-313-32773-5}}
+* {{cite book |last=Perianova |first=Irina |editor-last=Ratiani |editor-first=Irma |title=Totalitarianism and Literary Discourse: 20th Century Experience |chapter=Culinary Myths of the Soviet Union |year=2012 |publisher=Cambridge Scholars Publishing |isbn=978-1-4438-3445-2 |pages=160–175 |chapter-url=https://books.google.com/books?id=OyQrBwAAQBAJ&pg=PA160}}
+* {{cite book |last1=Petrosian |first1=Irina |last2=Underwood |first2=David |title=Armenian Food: Fact, Fiction & Folklore |year=2006 |publisher=Lulu |location=Bloomington |isbn=978-1-4116-9865-9 |url=https://books.google.com/books?id=0oXYX9Qzx9oC&pg=PA107}}
+* {{cite book |last1=Rothstein |first1=Halina |last2=Rothstein |first2=Robert A. |editor-last=Greenspoon |editor-first=Leonard Jay |series=Studies in Jewish Civilization |title=Yiddish Language & Culture: Then & Now |volume=9 |chapter=Food in Yiddish and Slavic Folk Culture: A Comparative/Contrastive View |year=1998 |publisher=Creighton University Press |location=Omaha |isbn=1-881871-25-8 |issn=1070-8510 |pages=305–328 |url=http://bib.convdocs.org/v37532/?download=1 |format=pdf}}
+* {{cite book |last=Schultze |first=Sydney |title=Culture and Customs of Russia |date=2000 |publisher=Greenwood Publishing Group |isbn=978-0-313-31101-7 |url=https://books.google.com/books?id=c4kvrPEweOcC&pg=PA65}}
+* {{cite book |last=Small |first=Ernest |title=Top 100 Food Plants: The World's Most Important Culinary Crops |year=2009 |publisher=NRC Research Press |location=Knoxville |isbn=978-0-660-19858-3 |url=https://books.google.com/books?id=nyWY_YkV7qAC&pg=PA97}}
+* {{cite book |last1=Strybel |first1=Robert |last2=Strybel |first2=Maria |title=Polish Heritage Cookery |url=https://books.google.com/books?id=UtA6-pyGJmMC |orig-year=1993 |year=2005 |publisher=Hippocrene Books |location=New York |isbn=0-7818-1124-4}}
+* {{cite book |last=Szymula |first=Elzbieta |chapter=Polish Diet |pages=277–295 |editor1-last=Thaker |editor1-first=Aruna |editor2-last=Barton |editor2-first=Arlene |title=Multicultural Handbook of Food, Nutrition and Dietetics |year=2012 |publisher=Wiley-Blackwell |isbn=978-1-4051-7358-2 |chapter-url=https://books.google.com/books?id=YF1YCg5Ig-EC&pg=PA277}}
+* {{cite book |last1=Volokh |first1=Anne |last2=Manus |first2=Mavis |title=The Art of Russian Cuisine |publisher=Macmillan |year=1983 |url=https://books.google.com/books?id=UJssAAAAYAAJ |isbn=978-0-02-622090-3}}
+
+====Other languages====
+* {{cite book |last=Artyukh |first=Lidiya |year=1977 |title=Ukrainska narodna kulynariia |script-title=uk:Українська народна кулинарія |trans-title=Ukrainian Folk Cuisine |language=uk |location=Kyyiv |publisher=Naukova dumka}}
+* {{cite book |last=Artyukh |first=Lidiya |year=2006 |title=Tradytsiina ukrainska kukhnia v narodnomu kalendari |script-title=uk:Традиційна українська кухня в народному календарі |trans-title=Traditional Ukrainian Cuisine in the Folk Calendar |language=uk |location=Kyiv |publisher=Baltiya-Druk |isbn=966-8137-24-8 |url=https://books.google.com/books?id=fLizySL-EUMC}}
+* {{cite web |last=Dumanowski |first=Jarosław |title=Barszcz, żur i post |trans-title=Borscht, sour rye soup, and fast |language=pl |website=naTemat |url=http://dumanowski.natemat.pl/49153,barszcz-zur-i-post |access-date=2015-06-02 |ref={{harvid|Dumanowski, ''Barszcz, żur i post''}}}}
+* {{cite web |last=Dumanowski |first=Jarosław |title=Klasyczny barszcz: Francuscy mistrzowie o polskiej kuchni |trans-title=Classic borscht: French chefs about Polish cuisine |language=pl |website=naTemat |url=http://dumanowski.natemat.pl/103339,klasyczny-barszcz-francuscy-mistrzowie-o-polskiej-kuchni |access-date=2015-06-02 |ref={{harvid|Dumanowski, ''Klasyczny barszcz...''}}}}
+* {{cite book |last=Gołębiowski |first=Łukasz |year=1830 |title=Domy i dwory |trans-title=Houses and Manors |language=pl |location=Warszawa |publisher=N. Glücksberg |url=http://polona.pl/item/3554682/21/}}
+* {{cite book |last1=Guboglo |first1=Mikhail Nikolayevich |last2=Simchenko |first2=Yury Borisovich |year=1992 |title=Ukraintsy: Istoriko-etnografichesky ocherk traditsionnoy kultury |script-title=ru:Украинцы: Историко-этнографический очерк традиционной культуры |trans-title=Ukrainians: A Historical Ethnographic Essay of the Traditional Culture |location=Moskva |publisher=Rossiyskaya akademiya nauk, Institut etnologii i antropologii im. N.N Miklukho-Maklaya |language=ru |url=https://books.google.com/books?id=UGQiAQAAMAAJ&q=зеленый+борщ}}
+* {{cite book |editor-last1=Gurko |editor-first1=Alexandra V. |editor-last2=Chakvin |editor-first2=Igor V. |editor-last3=Kasperovich |editor-first3=Galina I. |year=2010 |title=Etnokulturnye protsessy Vostochnogo Polesya v proshlom i nastoyashchem |script-title=ru:Этнокультурные процессы Восточного Полесья в прошлом и настоящем |trans-title=Ethnocultural Processes of Eastern Polesye in the Past and Present |language=ru |publisher=Institut iskusstvovedeniya, etnografii i folklora imeni K. Krapivy NAN Belarusi |isbn=978-985-08-1229-2 |url=https://books.google.com/books?id=cS2zBAAAQBAJ}}
+* {{cite book |last=Karbowiak |first=Antoni |year=1900 |title=Obiady profesorów Uniw. Jagiellońskiego w XVI. i XVII. wieku |trans-title=Luncheons of Jagiellonian University Professors in the 16th–17th Centuries |location=Kraków |publisher=Tow. Miłośników Historyi i Zabytków Krakowa |language=pl |url=http://polona.pl/item/10537708/0/}}
+* {{cite news |last=Lepiavko |first=Serhii |title=Pro ukrainskyi borshch vid 1584 r. z istorychnymy prypravamy |script-title=uk:Про український борщ від 1584 р. з історичними приправами |trans-title=Of Ukrainian borscht after 1584 with historical seasonings |url=https://www.istpravda.com.ua/articles/2020/11/3/158395/ |work=Istorychna Pravda |language=uk |date=3 November 2020 |access-date=2021-11-29}}
+* {{cite book |last1=Łozińska |first1=Maja |last2=Łoziński |first2=Jan |year=2013 |title=Historia polskiego smaku: kuchnia, stół, obyczaje |trans-title=History of Polish Taste: Kitchen, Table, Customs |language=pl |location=Warszawa |publisher=Wydawnictwo Naukowe PWN |isbn=978-83-7705-269-3}}
+<!--* {{cite journal
+| last          = Łuczaj
+| first         = Łukasz
+| year          = 2011
+| title         = Dziko rosnące rośliny jadalne użytkowane w Polsce od połowy XIX w. do czasów współczesnych
+|trans-title=Wild food plants used in Poland from the mid-19th century to the present
+| language      = Polish
+| journal       = Etnobiologia polska
+| volume        = 1
+| pages         = 74–75
+| location      = Wojaszówka
+| publisher     = Zakład Ekotoksykologii, Zamiejscowy Wydział Biotechnologii, Uniwersytet Rzeszowski
+| issn          = 2083-6228
+| url           = http://etnobiologia.com/2011/eb1_57-125%20luczaj.pdf
+}} -->
+* {{cite journal |last=Łuczaj |first=Łukasz |title=Brzozowy sok, "czeremsza" i zielony barszcz – ankieta etnobotaniczna wśród botaników ukraińskich |trans-title=Birch sap, ramsons and green borsch – an ethnobotanical survey among Ukrainian botanists |year=2012 |journal=Etnobiologia Polska |volume=2 |publisher=Zakład Ekotoksykologii, Zamiejscowy Wydział Biotechnologii, Uniwersytet Rzeszowski |location=Wojaszówka |language=pl |issn=2083-6228 |pages=15–22 |url=http://www.etnobiologia.com/2012/eb2_15-22%20luczaj.pdf |access-date=2015-07-09 |archive-date=2020-03-27 |archive-url=https://web.archive.org/web/20200327141801/http://www.etnobiologia.com/2012/eb2_15-22%20luczaj.pdf |url-status=dead}}
+* {{cite book |last=Łuczaj |first=Łukasz |title=Dzika kuchnia |trans-title=Wild Cuisine |year=2013 |publisher=Nasza Księgarnia |location=Warszawa |language=pl |isbn=978-83-10-12378-7}}
+* {{cite book |last=Majkowski |first=Hilary |year=1932 |title=Wyczółkowski 1852–1932 |language=pl |location=Poznań |publisher=Rolnicza Druk. i Księg. Nakładowa |url=https://polona.pl/item/44345978/20/}} Pages unnumbered.
+* {{cite book |last=Matyukhina |first=Yuliya |title=Russkaya dieta |trans-title=The Russian Diet |script-title=ru:Русская диета |year=2013 |publisher=Nauchnaya Kniga |language=ru |isbn=978-5-457-52538-2 |url=https://books.google.com/books?id=nLt1AgAAQBAJ}}
+* {{cite news |last=Mazitova |first=Hanna |date=2005-12-22 |title=Chyi borshch? |trans-title=Whose borscht? |script-title=uk:Чий борщ? |language=uk |url=http://www.day.kiev.ua/uk/article/cuspilstvo/chiy-borshch |access-date=2016-01-25 |newspaper=Den' |publisher=Ukrayinska Pres-Grupa}}
+* {{cite book |last=Panek |first=Kazimierz |title=Mikroby oraz chemizm kiśnienia barszczu |trans-title=Microbes and Chemistry of Borscht Fermentation |year=1905 |publisher=Akademia Umiejętności |location=Kraków |language=pl |url=http://polona.pl/item/15178238/46/}}
+* {{cite book |last=Pokhlebkin |first=William Vasilyevich |author-link=William Pokhlebkin |title=Natsionalnye kukhni nashikh narodov |trans-title=National Cuisines of Our Peoples |script-title=ru:Национальные кухни наших народов |year=2004 |orig-year=1978 |publisher=Tsentrpoligraf |location=Moskva |language=ru |isbn=5-9524-0718-8}}
+* {{cite book |last=Rostafiński |first=Józef |author-link=Józef Rostafiński |title=O nazwach i użytku ćwikły, buraków i barszczu |trans-title=Names and Uses of Chards, Beets and Hogweed |year=1916 |publisher=Akademia Umiejętności |location=Kraków |language=pl |url=http://polona.pl/item/20246864/10/}}
+* {{cite book |last1=Vinogradova |first1=Lyudmila |last2=Levkievskaya |first2=Yelena |title=Narodnaya demonologiya Polesya: Publikatsii tekstov v zapisyakh 80–90-kh gg. XX veka. Tom II: Demonologizatsiya umershikh lyudey |trans-title=Folk Demonology of Polesye: Publication of field notes from the 1980s and 90s. Vol. 2: Demonization of the Dead |script-title=ru:Народная демонология Полесья: Публикации текстов в записях 80–90-х гг. XX века. Том II: Демонологизация умерших людей |year=2012 |publisher=Rukopisnye pamyatniki Drevney Rusi |location=Moskva |language=ru |isbn=978-5-9551-0606-9 |issn=1726-135X |url=https://books.google.com/books?id=buB6AgAAQBAJ |access-date=2016-01-23}}
+* {{cite news |last1=Zhou |first1=Sili |last2=Sun |first2=Yanru |date=2012-08-20 |title=Yībǎi gè Shànghǎi rén yǒu yībǎi zhǒng luó sòng tāng |script-title=zh:一百个上海人有一百种罗宋汤 |trans-title=One hundred types of borscht for one hundred Shanghainese |language=zh-Hans |newspaper=[[Shanghai Morning Post]] |via=[[Sina Corporation|Sina]] |url=https://news.sina.com.cn/c/2012-08-20/071024998259.shtml |access-date=2017-05-10 |archive-url=https://web.archive.org/web/20170401144826/http://sh.sina.com.cn/food/msjx/2012-08-20/15368302.html |archive-date=2017-04-01}}
+{{refend}}
+
+=== Primary or self-published ===
+{{refbegin|30em}}
+* {{cite book |last1=Avdeyeva |first1=Yekaterina Alekseyevna |author-link=Yekaterina Avdeyeva |year=1846 |orig-year=1842 |title=Ruchnaya kniga russkoy opytnoy khozyayki |script-title=ru:Ручная книга русской опытной хозяйки |trans-title=Handbook of the Experienced Russian Housewife |language=ru |location=Sankt-Peterburg |publisher=Sveshnikov}}
+* {{cite book |last=Burlakoff |first=Nikolai |year=2013 |title=The World of Russian Borsch: Explorations of Memory, People, History, Cookbooks & Recipes |location=North Charleston, SC |publisher=[[CreateSpace|Createspace Independent Pub]] |isbn=978-1-4840-2740-0}}
+* {{cite book |last1=Czerniecki |first1=Stanisław |author-link=Stanisław Czerniecki |year=1682 |title=Compendium ferculorum, albo Zebranie potraw |trans-title=A Collection of Dishes |url=http://polona.pl/item/3490233/82/ |language=pl |location=Kraków |publisher=Drukarnia Jerzego i Mikołaja Schedlów}}
+* {{cite book |last1=Dubois |first1=Urbain |author-link1=Urbain Dubois |last2=Bernard |first2=Émile |title=La cuisine classique&nbsp;: études pratiques, raisonnées et démonstratives de l'École française appliquée au service à la russe |trans-title=Classic Cuisine: Practical, Systematic and Demonstrative Studies of the French School of Russian Table Service |year=1868 |orig-year=1856 |publisher=E. Dentu |location=Paris |language=fr |url=https://books.google.com/books?id=QEWKlQ8Ro_MC}}
+* {{cite book |editor-last1=Dumanowski |editor-first1=Jarosław |editor-last2=Jankowski |editor-first2=Rafał |year=2011 |title=Moda bardzo dobra smażenia różnych konfektów |trans-title=A Very Good Way of Frying Various Confections |series=Monumenta Poloniae Culinaria |volume=2 |language=pl |location=Warszawa |publisher=Muzeum Pałac w Wilanowie |isbn=978-83-60959-18-3}}
+* {{cite book |last=Gerard |first=John |author-link=John Gerard |editor-last=Johnson |editor-first=Thomas |editor-link=Thomas Johnson (botanist) |title=The Herball Or Generall Historie of Plantes: Very Much Enlarged and Amended by Thomas Johnson Citizen and Apothecarye of London |year=1636 |volume=2 |publisher=Adam Islip Joice Norton and Richard Whitakers |url=https://books.google.com/books?id=Ml9fAAAAcAAJ&pg=PA1008}}
+* {{cite web |title=Gold's Borscht, 24 fl oz, (Pack of 6) |url=http://www.walmart.com/ip/Gold-s-Borscht-24-fl-oz-Pack-of-6/29474068 |access-date=2016-01-18 |publisher=Walmart |ref={{harvid|Gold's Borscht}}}}
+* {{cite book |title=Kulinariya |script-title=ru:Кулинария |trans-title=Cookery |location=Moskva |publisher=Gostorgizdat |year=1955–58 |language=ru |ref={{harvid|Kulinariya}}}}
+* {{cite book |last=Kuroń |first=Maciej |author-link=Maciej Kuroń |title=Kuchnia polska: Kuchnia Rzeczypospolitej wielu narodów |trans-title=Polish Cuisine: Cuisine of a Commonwealth of Many Nations |year=2004 |publisher=Czarna Owca |language=pl |isbn=83-89763-25-7}}
+* {{cite book |last1=Marcin z Urzędowa |author-link=Marcin of Urzędów |title=Herbarz Polski, to iest o przyrodzeniu zioł y drzew rozmaitych, y innych rzeczy do lekarztw nalezących |trans-title=Polish Herbal, or Of the Complexion of Various Herbs and Trees, and Other Things of which Medicines Comprise |year=1595 |publisher=Drukarnia Łazarzowa |location=Kraków |language=pl |url=http://polona.pl/item/3354085/11/}}
+* {{cite book |last1=Meyer |first1=Andrey |title=Botanicheskoy podrobnoy slovar, ili Travnik |script-title=ru:Ботанической подробной словарь, или Травникъ |trans-title=Detailed Botanical Dictionary, or Herbal |year=1781 |location=Moskva |publisher=Universitetskaya Tipografia N. Novikova |url=https://books.google.com/books?id=aa9iAAAAcAAJ&pg=PA27 |language=ru}}
+* {{cite book |last=Molokhovets |first=Elena |author-link=Elena Molokhovets |translator-last=Toomre |translator-first=Joyce Stetson |title=Classic Russian Cooking: Elena Molokhovets' ''A Gift to Young Housewives'' |year=1998 |orig-year=1861 |publisher=Indiana University Press |isbn=978-0-253-21210-8}}
+* {{cite book |editor-last1=Pirko |editor-first1=V.O. |editor-last2=Hurzhii |editor-first2=O.I. |editor-last3=Sokhan |editor-first3=P.S. |title=Opysy Kharkivskoho namisnytstva kintsia XVIII ct. |script-title=uk:Описи Харківського намісництва кінця XVIII ст. |trans-title=Descriptions of the Kharkiv Governorate at the end of the 18th century |chapter=Topohrafichnyi opys Kharkivskoho namisnytstva 1785 r. |script-chapter=uk:Топографічний опис Харківського намісництва 1785 р. |trans-chapter=Topographical description of the Kharkiv Governorate in 1785 |year=1991 |location=Kyiv |publisher=[[Naukova Dumka]] |url=https://archive.org/stream/opXVIII#page/68/mode/1up |isbn=5-12-002041-0 |language=ru}}
+* {{cite book |last1=Rej |first1=Mikołaj |author-link=Mikołaj Rej |title=Żywot człowieka poczciwego |trans-title=Life of an Honest Man |year=1567 |language=pl}}
+* {{cite book |last1=Syrennius |first1=Simon |author-link=Simon Syrenius |title=Zielnik |trans-title=Herbal |year=1613 |publisher=Drukarnia Bazylego Skalskiego |location=Cracovia |language=pl |url=http://polona.pl/item/3354323/350/}}
+* {{cite book |last=Szymanderska |first=Hanna |title=Kuchnia polska: Potrawy regionalne |trans-title=Polish Cuisine: Regional Dishes |year=2010 |publisher=Świat Książki |location=Warszawa |language=pl |isbn=978-83-7799-631-7}}
+* {{cite book |year=1868 |title=The Epicure's Year Book and Table Companion |url=https://archive.org/details/b28095662 |page=[https://archive.org/details/b28095662/page/n111 83] |location=London |publisher=Bradbury, Evans, & Co. |ref={{harvid|The Epicure's Year Book}}}}
+* {{cite interview |last=Vedernikov |first=Andrey |title=Kosmovalyuta i borshch iz tuby: chto yedyat kosmonavty |trans-title=Space currency and tubed borscht: what cosmonauts eat |script-title=ru:Космовалюта и борщ из тубы: что едят космонавты |language=ru |url=https://www.mos.ru/news/article/3865073 |work=mos.ru |date=2015-11-25 |access-date=2016-01-18}}
+* {{cite book |last1=Zawadzka |first1=W.A.L. |author-link=Wincenta Zawadzka |year=1913 |orig-year=1854 |title=Kucharka litewska |trans-title=The Lithuanian Cook |url=http://polona.pl/item/843952/3/ |language=pl |location=Wilno |publisher=Józef Zawadzki}}
+{{refend}}
+
+=== Reference works ===
+{{refbegin|30em}}
+* {{cite book
+| last1         = Auzias
+| first1        = Dominique
+| last2         = Labourdette
+| first2        = Jean-Paul
+| title         = Roumanie 2012–2013
+| trans-title   = Romania 2012–2013
+| year          = 2012
+| publisher     = Petit Futé
+| location      = Paris
+| language      = fr
+| isbn          = 978-2-7469-6376-4
+| url           = https://books.google.com/books?id=MwMzJ2_lPtAC&pg=PA77
+}}
+* {{cite book
+| editor-last   = Barber
+| editor-first  = Katherine
+| editor-link   = Katherine Barber
+| title         = The Canadian Oxford Dictionary
+| edition       = 2nd
+| publisher     = Oxford University Press
+| date          = 2004
+| url           = http://www.oxfordreference.com/view/10.1093/acref/9780195418163.001.0001/acref-9780195418163
+| access-date   = 2016-12-23
+| url-access    = subscription
+| doi           = 10.1093/acref/9780195418163.001.0001
+| isbn          = 978-0-19-541816-3
+}}
+* {{cite web
+| last          = Dal
+| first         = Vladimir I.
+| author-link   = Vladimir Dal
+| title         = Tolkovy slovar zhivogo velikorusskogo yazyka
+| script-title  = ru:Толковый словарь живого великорусского языка
+| trans-title   = Explanatory Dictionary of the Living Great Russian Language
+| language      = ru
+| website       = Akademik
+| url           = http://dic.academic.ru/contents.nsf/enc2p/
+| access-date   = 2015-08-02
+| date          = 1863–66
+| location      = Sankt-Petersburg
+| publisher     = Obshchestvo lyubiteley rossiyskoy slovesnosti
+}}
+* {{cite encyclopedia
+| editor-last1 = Davidson
+| editor-first1= Alan
+| editor-last2 = Jaine
+| editor-first2= Tom
+| year         = 2014
+| orig-year    = 1999
+| edition      = 3rd
+| url          = http://www.oxfordreference.com/view/10.1093/acref/9780199677337.001.0001/acref-9780199677337-e-1337?rskey=OUNqnB&result=1
+| access-date  = 2016-12-23
+| url-access   = subscription
+| title        = Kisel
+| encyclopedia = The Oxford Companion to Food
+| publisher    = Oxford University Press
+| isbn         = 9780199677337
+| doi          = 10.1093/acref/9780199677337.001.0001
+| last1= Davidson
+| first1= Alan
+}}
+* {{cite web
+| title         = Dictionary.com Unabridged
+| url           = http://dictionary.reference.com/
+| access-date   = 2015-05-20
+| publisher     = Random House
+| ref           = {{harvid|Dictionary.com}} }}
+* {{cite web
+| editor-last1  = Doroszewski
+| editor-first1 = Witold
+
+| title         = Słownik Języka Polskiego
+| trans-title   = Polish Dictionary
+| year          = 1969
+| publisher     = Państwowe Wydawnictwo Naukowe
+| location      = Warszawa
+| language      = pl
+| url           = http://doroszewski.pwn.pl
+}}
+* {{cite web
+| title         = Encyclopædia Britannica Online
+| url           = https://www.britannica.com/topic/borscht
+| access-date   = 2015-05-20
+| publisher     = Encyclopædia Britannica Inc.
+| ref           = {{harvid|Encyclopædia Britannica}} }}
+* {{cite web
+| last1         = Gal
+| first1        = A.M.
+| title         = Dicționar gastronomic explicativ
+| trans-title   = Explanatory Culinary Dictionary
+| year          = 2003
+| publisher     = Editura Gemma Print
+| language      = ro
+| url           = https://dexonline.ro/surse
+}}
+* {{cite book
+| last1         = Gloger
+| first1        = Zygmunt
+| author-link    = Zygmunt Gloger
+| title         = Encyklopedja Staropolska
+|trans-title=Old Polish Encyclopedia
+| year          = 1900
+| publisher     = P. Laskauer i W. Babicki
+| location      = Warszawa
+| language      = pl
+}}
+* {{cite encyclopedia
+| last1         = Hirsch
+| first1        = Emil G.
+| last2         = Benzinger
+| first2        = Immanuel
+| last3         = Jacobs
+| first3        = Joseph
+| last4         = Harris
+| first4        = Isidore
+| last5         = Fishberg
+| first5        = Bertha
+| last6         = Dobsevage
+| first6        = I. George
+| title         = Cookery
+| pages         = 254–257
+| url           = http://www.jewishencyclopedia.com/articles/4638-cookery
+| encyclopedia  = Jewish Encyclopedia
+| date          = 1906
+| location      = New York
+| publisher     = Funk & Wagnalls Co.
+| lccn = 16014703
+| ref = {{harvid|Jewish Encyclopedia|1906}} }}
+* {{cite book
+| last          = King
+| first         = David C.
+| title         = Azerbaijan
+| series        = Cultures of the World
+| year          = 2006
+| publisher     = Marshall Cavendish
+| location      = New York
+| isbn          = 0-7614-2011-8
+| url           = https://archive.org/details/azerbaijan00king
+| url-access    = registration
+| page          = [https://archive.org/details/azerbaijan00king/page/123 123]
+}}
+* {{cite book
+| last          = MacVeigh
+| first         = Jeremy
+| title         = International Cuisine
+| year          = 2008
+| publisher     = Cengage Learning
+| location      = Clifton Park, NY
+| isbn          = 978-1-111-79970-0
+| url           = https://books.google.com/books?id=6VwGAAAAQBAJ
+}}
+* {{cite book
+| last1         = Mallory
+| first1        = J.P.
+| last2         = Adams
+| first2        = D.Q.
+| title         = The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World
+| year          = 2006
+| publisher     = Oxford University Press
+| isbn          = 978-0-19-929668-2
+| url           = https://books.google.com/books?id=lzilBQAAQBAJ&q=borsch&pg=PA298
+}}
+* {{cite book
+| last          = Marks
+| first         = Gil
+| title         = The World of Jewish Cooking
+| year          = 1999
+| url           = https://books.google.com/books?id=Ux2lGKCKVPYC&pg=PA63
+| publisher     = Simon & Schuster
+| isbn          = 978-0-684-83559-4
+}}
+* {{cite book
+| last          = Marks
+| first         = Gil
+| title         = Encyclopedia of Jewish Food
+| year          = 2010
+| url           = https://books.google.com/books?id=gFK_yx7Ps7cC
+| publisher     = John Wiley & Sons
+| location      = Hoboken
+| isbn          = 978-0-470-39130-3
+}}
+* {{cite web
+|title          = Merriam-Webster's Word Central
+|url            = http://www.wordcentral.com/
+|access-date    = 2016-02-17
+|ref            = {{harvid|Merriam-Webster's Word Central}}
+}}
+* {{cite book
+| last          = Mish
+| first         = Frederick C.
+| title         = Merriam-Webster's Collegiate Dictionary
+| edition       = 11th
+| year          = 2004
+}}
+* {{cite web
+ |title        = Prykazky ta pryslivia pro yizhu
+ |trans-title  = Sayings and proverbs about food
+ |script-title = uk:Приказки та прислів`я про їжу
+ |language     = uk
+ |website      = Vislovi
+ |url          = http://vislovi.in.ua/prikazki-temi/144-prikazki-ta-prisliv-ya-pro-jizhu.html
+ |access-date  = 2017-10-07
+ |ref          = {{harvid|''Prykazky ta pryslivya...''}}
+ |url-status = dead
+ |archive-url   = https://web.archive.org/web/20171012035858/http://vislovi.in.ua/prikazki-temi/144-prikazki-ta-prisliv-ya-pro-jizhu.html
+ |archive-date  = 2017-10-12
+}}
+* {{cite book
+| last1         = Reid
+| first1        = Robert
+| last2         = Pettersen
+| first2        = Leif
+| title         = Romania & Moldova
+| year          = 2007
+| publisher     = Lonely Planet
+| isbn          = 978-1-74104-478-2
+| url           = https://books.google.com/books?id=WSV_7OSOnf4C&pg=PA52
+}}
+* {{cite book
+| last          = Rennon
+| first         = Rosemary K.
+| title         = Language and Travel Guide to Romania
+| year          = 2007
+| publisher     = Hippocrene Books
+| location      = New York
+| isbn          = 978-0-7818-1150-7
+| url           = https://books.google.com/books?id=SGNHF0_NISEC&pg=PA53
+}}
+* {{cite encyclopedia
+| editor-last1 = Davidson
+| editor-first1= Alan
+| editor-last2 = Jaine
+| editor-first2= Tom
+| last1        = Saberi
+| first1       = Philip
+| last2        = Saberi
+| first2       = Helen
+| year         = 2014
+| orig-year    = 1999
+| edition      = 3rd
+| url          = http://www.oxfordreference.com/view/10.1093/acref/9780199677337.001.0001/acref-9780199677337-e-0296?rskey=DSZPQM&result=1
+| access-date  = 2016-12-23
+| url-access   = subscription
+| title        = Borshch
+| encyclopedia = The Oxford Companion to Food
+| publisher    = Oxford University Press
+| isbn         = 9780199677337
+| doi          = 10.1093/acref/9780199677337.001.0001
+}}
+* {{cite book
+| title         = The Visual Food Encyclopedia
+| publisher     = Québec Amerique
+| year          = 1996
+| isbn          = 978-2-7644-0898-8
+| url           = https://books.google.com/books?id=TOG-ItIHp_kC&pg=PA600
+| ref           = {{harvid|The Visual Food Encyclopedia|1996}} }}
+* {{cite encyclopedia
+| editor-last   = Trubachyov
+| editor-first  = Oleg
+| editor-link   = Oleg Trubachyov
+| title         = Etimologichesky slovar slavyanskikh yazykov
+| trans-title   = Etymological Dictionary of Slavic Languages
+| script-title  = ru:Этимологический словарь славянских языков
+| location      = Moskva
+| publisher     = Nauka
+| language      = ru
+| url           = http://etymolog.ruslang.ru/index.php?act=essja
+| date          = 1987
+}}
+* {{cite web
+| last          = Vasmer
+| first         = Maksimilian Romanovich
+| author-link    = Max Vasmer
+| title         = Etimologichesky slovar russkogo yazyka
+| trans-title   = Russian Etymological Dictionary
+| script-title  = ru:Этимологический словарь русского языка
+| location      = Moskva
+| publisher     = Progress
+| website       = Akademik
+| url           = http://dic.academic.ru/contents.nsf/vasmer/
+| language      = ru
+| year          = 1973
+| orig-year      = 1958
+}}
+* {{cite book
+| title         = World and Its Peoples: Belarus, Russian Federation, and Ukraine
+| year          = 2010
+| location      = New York
+| publisher     = Marshall Cavendish
+| isbn          = 978-0-7614-7900-0
+| ref           = {{harvid|World and Its Peoples|2010}} }}
+* {{cite book |title      = World and Its Peoples: Middle East, Western Asia and Northern Africa
+ |year       = 2006
+ |publisher  = Marshall Cavendish
+ |location   = New York
+ |isbn       = 978-0-7614-7571-2
+ |ref        = {{harvid|World and Its Peoples|2006}}
+ |url-access = registration
+ |url        = https://archive.org/details/worlditspeoplesm0000unse
+}}
+* {{cite book
+| last          = Zdanovich
+| first         = Leonid I.
+| title         = Bibliya povara ili entsiklopediya sovremennoy kukhni
+| trans-title   = Chef's Bible, or Encyclopedia of Modern Cuisine
+| script-title  = ru:Библия повара или энциклопедия современной кухни
+| year          = 2014
+| publisher     = Osteon-Press
+| location      = Noginsk
+| language      = ru
+| isbn          = 978-5-00-064178-1
+| url           = https://books.google.com/books?id=NXmoAgAAQBAJ
+}}
+* {{cite web
+| editor-last1  = Żmigrodzki
+| editor-first1 = Piotr
+| title         = Wielki Słownik Języka Polskiego
+|trans-title=The Great Polish Dictionary
+| publisher     = Instytut Języka Polskiego PAN
+| language      = pl
+| url           = http://www.wsjp.pl/
+}}
+{{refend}}
+
+{{National symbols of Ukraine}}
+{{Russian soups}}
+{{Christmas}}
+{{Sister bar|auto=1|wikt=borscht|d=yes}}
+{{Authority control}}
+
+[[Category:Ukrainian cuisine]]
+[[Category:Cold soups]]
+[[Category:Vegetable dishes]]
+[[Category:Armenian soups]]
+[[Category:Ashkenazi Jewish cuisine]]
+[[Category:Azerbaijani soups]]
+[[Category:Belarusian cuisine]]
+[[Category:Latvian soups]]
+[[Category:Lithuanian cuisine]]
+[[Category:Mennonite cuisine]]
+[[Category:Northeastern Chinese cuisine]]
+[[Category:Polish soups]]
+[[Category:Russian soups]]
+[[Category:Romanian cuisine]]
+[[Category:Romani cuisine]]
+[[Category:Soviet cuisine]]
+[[Category:Ukrainian soups]]
+[[Category:National dishes]]
+[[Category:National symbols of Ukraine]]
+[[Category:Ukrainian traditions]]
+[[Category:Ukrainian inventions]]
+[[Category:Christmas food]]
+[[Category:National symbols of Russia]]
+[[Category:National symbols of Poland]]
+[[Category:National symbols of Lithuania]]
+[[Category:Intangible Cultural Heritage of Ukraine]]
+[[Category:Articles containing video clips]]

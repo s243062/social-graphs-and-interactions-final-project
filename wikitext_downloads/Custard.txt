@@ -1,0 +1,146 @@
+{{Short description|Semi-solid cooked mixture of milk and egg}}
+{{About|egg-thickened custards}}
+{{pp-semi-indef|small=yes}}
+{{Infobox food
+| name             = Custard
+| image            = Custard.jpg
+| caption          = A bowl of {{lang|fr|crème anglaise}} custard, dusted with [[nutmeg]]
+| alternate_name   = 
+| country          = 
+| region           = 
+| creator          = 
+| course           = [[Dessert]]
+| type             = 
+| served           = 
+| main_ingredient  = Milk or cream, egg yolks, sugar, vanilla
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Custard''' is a variety of culinary preparations based on sweetened [[milk]], [[cheese]], or [[cream]] cooked with [[Eggs as food|egg]] or [[egg yolk]] to thicken it, and sometimes also [[flour]], [[corn starch]], or [[gelatin]]. Depending on the recipe, custard may vary in consistency from a thin pouring sauce ({{lang|fr|[[crème anglaise]]}}) to the thick pastry cream ('''{{lang|fr|crème pâtissière}}''') used to fill [[éclair]]s. The most common custards are used in [[List of custard desserts|custard desserts]] or [[dessert sauce]]s and typically include sugar and vanilla; however, [[Umami|savory]] custards are also found, e.g., in [[quiche]].
+
+==Preparation==
+Custard is usually cooked in a double boiler (''[[bain-marie]]''), or heated very gently in a [[saucepan]] on a stove, though custard can also be steamed, baked in the oven with or without a [[Bain-marie|water bath]], or even cooked in a [[Pressure cooking|pressure cooker]]. Custard preparation is a delicate operation because a ''temperature'' increase of {{convert|3|–|6|C-change}} leads to overcooking and [[curdling]]. Generally, a fully cooked custard should not exceed {{convert|80|°C|°F|abbr=on}}; it begins setting at {{convert|70|°C|°F|abbr=on}}.<ref>{{Cite book |last=Barham |first=Peter |url=https://archive.org/details/isbn_9783540674665/page/126 |title=The science of cooking |publisher=Springer |year=2001 |isbn=978-3-540-67466-5 |location=Berlin |page=[https://archive.org/details/isbn_9783540674665/page/126 126] |url-access=registration}}</ref> A '''[[bain marie]]''' water bath slows heat transfer and makes it easier to remove the custard from the oven before it curdles.<ref>{{Cite book |last=McGee |first=Harold |url=https://archive.org/details/onfoodcookingsci0000mcge |title=On Food and Cooking |year=1984 |isbn=978-0-684-18132-5 |page=[https://archive.org/details/onfoodcookingsci0000mcge/page/71 71] |publisher=Scribner |url-access=registration}}</ref> Adding a small amount of cornflour (U.S. ''corn starch'') to the egg-sugar mixture stabilises the resulting custard, allowing it to be cooked in a single pan as well as in a double-boiler. A ''[[sous-vide]]'' water bath may be used to precisely control temperature.
+
+== Variations ==
+{{More citations needed|section|date=July 2024}}
+[[File:Dessertcustard.jpg|right|thumb|A formal custard preparation, garnished with raspberries]]
+
+While custard may refer to a wide variety of thickened dishes, technically (and in [[French cuisine|French cookery]]) the word ''custard'' (''crème'' or more precisely ''crème moulée''<!-- we are NOT talking about crème anglaise here, which is a thinner pouring custard used as a sauce -->, {{IPA|fr|kʁɛm mule|}}) refers only to an egg-thickened custard.
+
+When [[starch]] is added, the result is called 'pastry cream' ({{langx|fr|crème pâtissière}}, {{IPA|fr|kʁɛm pɑtisjɛːʁ|pron}}) or confectioners' custard, made with a combination of milk or cream, egg yolks, fine sugar, flour or some other starch, and usually a flavoring such as vanilla, chocolate, or lemon. ''Crème pâtissière'' is a key ingredient in many French desserts, including ''[[mille-feuille]]'' (or Napoleons) and filled tarts. It is also used in Italian pastry and sometimes in [[Boston cream pie]]. The thickening of the custard is caused by the combination of egg and starch. [[Cornstarch|Corn flour]] or flour thickens at {{convert|100|°C|°F|abbr=on}} and as such many recipes instruct the pastry cream to be boiled. In a traditional custard such as a ''crème anglaise'', where eggs are used alone as a thickener, boiling results in the over-cooking and subsequent curdling of the custard; however, in a pastry cream, starch prevents this. Once cooled, the amount of starch in pastry cream sets the cream and requires it to be beaten or whipped before use.
+[[File:Trifle-(cream-layer)-profile.jpg|right|thumb|Layers of a [[trifle]] showing the custard in between [[cake]], fruit and [[whipped cream]]]] [[File:Pastry cream.jpg|thumb|Pastry cream]]When [[gelatin]] is added, it is known as ''crème anglaise collée'' ({{IPA|fr|kʁɛm ɑ̃ɡlɛz kɔle|}}). When gelatin is added and [[whipped cream]] is folded in, and it sets in a mold, it is ''[[bavarois]]''. When starch is used alone as a thickener (without eggs), the result is a ''[[blancmange]]''.
+
+In the United Kingdom, custard has various traditional recipes some thickened principally with cornflour (cornstarch) rather than the egg component, others involving regular flour; see [[custard powder]].
+
+After the custard has thickened, it may be mixed with other ingredients: mixed with stiffly beaten egg whites and gelatin, it is [[chiboust cream]]; mixed with whipped cream, it is ''crème légère'', {{IPA|fr|kʁɛm leʒɛːʁ|}}. Beating in softened butter produces [[Buttercream#Custard-based buttercream|German buttercream]] or [[Buttercream#Custard-based buttercream|crème mousseline]].
+
+A quiche is a savoury custard tart. Some kinds of [[Timbale (food)|timbale]] or vegetable loaf are made of a custard base mixed with chopped savoury ingredients. ''Custard royale'' is a thick custard cut into decorative shapes and used to garnish [[soup]], [[stew]] or [[broth]]. In German, it is known as ''Eierstich'' and is used as a garnish in German Wedding Soup (''Hochzeitssuppe'').<ref name="mcgavin_eierstich">{{Cite web |last=McGavin |first=Jennifer |title=Easy Eierstich Recipe- Royale as a Soup Garnish |url=http://germanfood.about.com/od/soupsandstews/r/eierstich-recipe.htm |access-date=4 November 2013 |website=About.com |archive-date=20 December 2016 |archive-url=https://web.archive.org/web/20161220094457/http://germanfood.about.com/od/soupsandstews/r/eierstich-recipe.htm |url-status=dead }}</ref> ''[[Chawanmushi]]'' is a [[Japanese cuisine|Japanese]] savoury custard, steamed and served in a small bowl or on a saucer. [[Chinese steamed egg]] is a similar but larger savoury egg dish. ''[[Bougatsa]]'' is a Greek breakfast [[pastry]] whose sweet version consists of [[semolina]] custard filling between layers of [[phyllo]].
+
+Custard may also be used as a top layer in [[gratin]]s, such as the [[South African cuisine|South African]] [[bobotie]] and many [[Balkan cuisine|Balkan]] versions of ''[[moussaka]]''.
+
+In Peru, ''leche asada'' ("baked milk") is custard baked in individual molds.<ref name="Elichondo1997">{{Cite book |first=Margarita |last=Elichondo |url=https://books.google.com/books?id=LV_33krxpx8C&pg=PA207 |title=La comida criolla: memorias y recetas |publisher=Ediciones Del Sol |year=1997 |isbn=978-950-9413-76-4 |page=207}}</ref> It is considered a restaurant dish.<ref name="CuadraEscardo2013">{{Cite book |last1=Morena |first1=Cuadra |url=https://books.google.com/books?id=gx7sDQAAQBAJ&pg=PT420 |title=The Everything Peruvian Cookbook: Includes Conchitas a la Parmesana, Chicken Empanadas, Arroz con Mariscos, Classic Fish Cebiche, Tres Leches Cake and hundreds more! |last2=Morena |first2=Escardo |date=18 January 2013 |publisher=Adams Media |isbn=978-1-4405-5678-4 |page=420}}</ref>
+
+=== In French cuisine ===
+French cuisine has several named variations on custard:<ref>{{Cite book |last1=Beck |first1=Simone |title=Mastering the art of French cooking |last2=Bertholle |first2=Louisette |last3=Child |first3=Julia |publisher=Alfred A. Knopf, Inc. |year=1964 |location=New York |chapter=Desserts and Cakes |orig-year=1961}}</ref><ref>{{Cite book |last=Gisslen |first=Wayne |title=Professional baking |publisher=John Wiley & Sons |year=2013 |isbn=978-1-118-08374-1 |edition=6th |location=Hoboken, NJ |chapter=Basic Syrups, Creams, and Sauces |oclc=753351232 }}</ref>
+* ''[[Crème anglaise]]'' is a light custard made with eggs, sugar, milk, and vanilla (with the possible addition of starch), with other flavoring agents as desired
+** With cream instead of milk, and more sugar, it is the basis of ''[[crème brûlée]]''
+** With egg yolks and [[heavy cream]], it is the basis of [[ice cream]]
+** With egg yolks and [[whipped cream]], and stabilised with [[gelatin]], it is the basis of [[Bavarian cream]]
+** Thickened with butter, chocolate, or gelatin, it is a popular basis for a ''crémeux''
+* ''Crème pâtissière'' (pastry cream) is similar to ''crème anglaise'', but with a thickening agent such as cornstach or flour
+** With added flavoring or fresh fruit, it is the basis of ''crème plombières''
+* ''Crème Saint-Honoré'' is ''crème pâtissière'' enriched with whipped egg whites
+* ''[[Chiboust cream|Crème chiboust]]''  is similar to ''crème Saint-Honoré'', but stabilised with gelatin
+<!-- Crème légère is not mentioned by either Beck et al. nor Gisslen, but since it's mentioned in a previous section it's included here for completeness -->
+* ''Crème diplomate'' and ''crème légère'' are variations of ''crème pâtissière'' enriched with whipped cream
+* ''Crème mousseline'' is a variation of ''crème pâtissière'' enriched with butter
+* ''[[Frangipane]]'' is ''crème pâtissière'' mixed with powdered [[macaron]]s or [[almond]] powder
+
+== Uses ==
+{{see also|List of custard desserts}}
+Recipes involving sweet custard are listed in the [[:Category:Custard desserts|custard dessert category]], and include:
+
+{{Div col|colwidth=15em}}
+* [[Banana custard]]
+* [[Bavarian cream]]
+* [[Bienenstich]]
+* [[Boston cream pie]]
+* [[Bougatsa]]
+* [[Chiboust cream]]
+* [[Cream pie]]
+* ''[[Crème brûlée]]''
+* ''[[Crème caramel]]''
+* ''[[Cremeschnitte]]''
+* [[Custard tart]] 
+* [[Danish pastry]]
+* [[Egg tart]]
+* [[Eggnog]]
+* [[English trifle]]
+* [[Flan (pie)|Flan]]
+* [[Floating island (dessert)|Floating island]]
+* [[Frangipane]], with almonds
+* [[Frozen custard]]
+* [[Fruit salad|Fruit Salad]]
+* [[Galaktoboureko]]
+* [[Manchester tart]]
+* [[Muhallebi]]
+* [[Natillas]]
+* ''[[Pastel de nata]]''
+* [[Pudding]]
+* [[Taiyaki]]
+* [[Vanilla slice]]
+* [[Vla]]
+* ''[[Zabaione]]''
+{{Div col end}}
+
+== History ==
+[[File:Egg custard tart by Stu Spivack.jpg|right|thumb|Custard tarts]]
+
+Custards baked in pastry ([[custard tart]]s) were very popular in the [[Middle Ages]], and are the origin of the English word 'custard': the French term [[croustade]] originally referred to the crust of a tart,<ref>{{Cite book |last=Davidson |first=Alan |editor1-first=Tom |editor1-last=Jaine |url=http://dx.doi.org/10.1093/acref/9780192806819.001.0001 |title=The Oxford Companion to Food |date=2006-01-01 |doi=10.1093/acref/9780192806819.001.0001|isbn=978-0-19-280681-9 }}</ref> and is derived from the Italian word [[crostata]], and ultimately the Latin {{Lang|la|crustāre}}.<ref>{{Cite book |last=Skeat |first=Walter William |url=https://archive.org/stream/cu31924008779690#page/n145/mode/2up |title=A concise etymological dictionary of the English language |publisher=[[American Book Company (1890)|American Book Company]] |year=1911 |location=[[Oxford]] |lccn=11035890 |ol=16525337M |ref=Skeat}} Page 125.</ref>
+
+Examples include ''Crustardes of flessh'' and ''Crustade'', in the 14th century English collection ''[[The Forme of Cury]]''. These recipes include solid ingredients such as meat, fish, and fruit bound by the custard.<ref>{{Cite book |last1=Hieatt |first1=Constance |title=Curye on Inglysch: English culinary manuscripts of the fourteenth century (including the forme of cury) <!--London, EETS SS 8, 1985--> |last2=Butler |first2=Sharon}}</ref><ref name="AustinT">{{Cite book |title=Two Fifteenth-Century Cookery Books <!--London, EETS OS 91, 1888--> |date=1964 <!--Harleian MSS 279 and 4016--> |editor-last=Austin |editor-first=Thomas}}</ref> Stirred custards cooked in pots are also found under the names ''Creme Boylede'' and ''Creme boiled''.<ref name="AustinT" /> Some custards especially in the [[Elizabethan]] era used [[Calendula|marigold]] (''calendula'') to give the custard color.<ref>{{Cite book |last=DeBaggio |first=Thomas |url=https://books.google.com/books?id=7_KPgxEglHAC&q=calendula+colored+custard+marigold&pg=PA183 |title=The Encyclopedia of Herbs: A Comprehensive Reference to Herbs of Flavor and Fragrance |date=September 2009 |publisher=Timber Press |isbn=9781604691344}} Page 183.</ref><ref name="rodale">{{Cite book |url=https://books.google.com/books?id=htGD3Y7WNxwC |title=Rodale's Illustrated Encyclopedia of Herbs|isbn=9780875969640|last1=Kowalchik|first1=Claire|last2=Hylton|first2=William H.|date=15 January 1998|publisher=Rodale }}</ref>
+
+In modern times, the name 'custard' is sometimes applied to starch-thickened preparations like [[blancmange]] and [[Bird's Custard]] powder.
+
+== Chemistry ==
+Stirred custard is thickened by [[coagulation]] of egg protein, while the same gives baked custard its gel structure. The type of milk used also impacts the result. Most important to a successfully stirred custard is to avoid excessive heat that will cause over-coagulation and [[Syneresis (chemistry)|syneresis]] that will result in a [[curdled]] custard.<ref>{{Cite book |last=Penfield |first=Marjorie P. |url=https://books.google.com/books?id=rlpRi4urAMkC&q=how+does+custard+thicken&pg=PA144 |page=144 |title=Experimental Food Science |date=2 December 2012 |publisher=Academic Press |isbn=9780323140041 |access-date=4 November 2013 }}</ref>
+
+Eggs contain the proteins necessary for the gel structure to form, and emulsifiers to maintain the structure. Egg yolk also contains enzymes like amylase, which can break down added starch.<ref name=":0" /> This enzyme activity contributes to the overall thinning of custard in the mouth. Egg yolk lecithin also helps to maintain the milk-egg interface. The proteins in egg whites are set at {{convert|60|–|80|C|F}}.<ref>{{Cite journal |last1=Kovacs-Nolan |first1=Jennifer |last2=Phillips |first2=Marshall |last3=Mine |first3=Yoshinori |date=2005-11-01 |title=Advances in the Value of Eggs and Egg Components for Human Health |journal=Journal of Agricultural and Food Chemistry |volume=53 |issue=22 |pages=8421–8431 |doi=10.1021/jf050964f |issn=0021-8561 |pmid=16248532}}</ref>
+
+Starch is sometimes added to custard to prevent premature curdling. The starch acts as a heat buffer in the mixture: as they hydrate, they absorb heat and help maintain a constant rate of heat transfer. Starches also make for a smoother texture and thicker mouth feel.<ref name=":0">{{Cite book |last=McGee |first=Harold |title=On Food and Cooking |year=2004 |isbn=978-0-684-18132-5 |page=71 |publisher=Scribner }}</ref>
+
+If the mixture pH is 9 or higher, the gel is too hard; if it is below 5, the gel structure has difficulty forming because [[protonation]] prevents the formation of [[covalent bond]]s.<ref>{{Cite journal |last1=Matringe |first1=E. |last2=Tan Luu |first2=R. Phan |last3=Lorient |first3=D. |date=1999-09-01 |title=Functional Properties of Milk-Egg Mixtures |journal=Journal of Food Science |language=en |volume=64 |issue=5 |pages=787–791 |doi=10.1111/j.1365-2621.1999.tb15912.x |issn=1750-3841}}</ref>
+
+== Physical-chemical properties ==
+Cooked (set) custard is a weak [[gel]], viscous, and [[thixotropic]]; while it does become easier to stir the more it is manipulated, it does not, unlike many other thixotropic liquids, recover its lost viscosity over time.<ref>{{Cite journal |last1=Longrée |first1=Karla |last2=Beaver |first2=Sharie |last3=Buck |first3=Paul |last4=Nowrey |first4=Joseph E. |year=1966 |title=Viscous Behavior of Custard Systems |journal=Journal of Agricultural and Food Chemistry |volume=14 |issue=6 |pages=653–659 |doi=10.1021/jf60148a033}}</ref> On the other hand, a [[Suspension (chemistry)|suspension]] of uncooked imitation custard powder ([[starch]]) in water, with the proper proportions, has the opposite [[Rheology|rheological]] property: it is negative thixotropic, or [[dilatant]], allowing the demonstration of "walking on custard".<ref>{{YouTube|BN2D5y-AxIY|BRAINIAC Science Abuse – John Tickle Walks On Custard (25 June 2008)}}</ref>
+
+== See also ==
+{{Cookbook}}
+{{Portal|Food}}
+* [[List of desserts]]
+* [[List of custard desserts]]
+* [[Custard cream]]
+* [[Bird's Custard]] – brand of imitation custard
+* [[Eggnog]] – sweetened dairy-based beverage
+* [[Pudding]] – dessert or savory dish
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{wiktionary inline}}
+
+{{Dessert sauces}}
+{{English cuisine}}
+
+[[Category:Custard desserts|*]]
+[[Category:British desserts]]
+[[Category:Dairy products]]
+[[Category:English cuisine]]
+[[Category:Food ingredients]]
+[[Category:Steamed foods]]
+[[Category:American desserts]]
+[[Category:Types of food]]
+[[Category:Creamy dishes]]

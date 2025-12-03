@@ -1,0 +1,40 @@
+{{Short description|Waffle with deep pockets}}
+{{Infobox food
+| name             = Belgian waffles
+| image            = Waffle with strawberries and confectioner's sugar.jpg
+| image_size       = 250px
+| caption          = A Belgian waffle with [[strawberries]] and [[confectioner's sugar]]
+| alternate_name   = 
+| country          = [[Belgium]]
+| region           = 
+| creator          =
+| type             = [[Waffle]]
+| served           = 
+| main_ingredient  = [[Flour]], [[sugar]], [[baking powder]], [[Egg (food)|eggs]], [[milk]], [[butter]]
+| variations       = [[Chocolate chip]], [[blueberry]], [[strawberry]], [[Nutella]], etc.
+| calories         = 
+| other            = 
+}}
+
+In [[English-speaking world|English-speaking countries]], '''Belgian waffles''' are a variety of [[waffle]] with a lighter batter, larger squares, and deeper pockets than North American waffles. Belgian waffles were originally leavened with [[Baker's yeast|yeast]], but [[baking powder]] is now often used. They are often eaten as a [[breakfast]] food; toppings vary from whipped cream, confectioners' sugar, soft fruit, and [[chocolate]] spread, to syrup and butter or [[margarine]]. They may also be served with vanilla ice cream and fresh fruit (such as strawberries) as a [[dessert]].
+
+In [[Belgium]] itself, there are several kinds of waffles, including the [[Waffle#Varieties|Brussels waffle]] and the [[Liège waffle]].
+
+==History==
+{{see|Food at the 1964 New York World's Fair}}
+[[File:Worlds Fair - Belgian Village (4626896426).jpg|thumb|upright|right|The Belgian Village at the [[1964 New York World's Fair]], where the waffles were popularized in the U.S.]]
+Originally showcased in 1958<ref name="CooksInfo" /> at [[Expo 58]] in [[Brussels]], Belgian waffles were introduced to the United States by a Belgian named Walter Cleyman at the [[Century 21 Exposition]] in [[Seattle]] in 1962, and served with [[whipped cream]] and strawberries.<ref>{{cite news |title=There's Something for All at Seattle's Fair |work=[[Spokane Daily Chronicle]] |date=April 24, 1962 |url=https://news.google.com/newspapers?id=C8NWAAAAIBAJ&pg=6881%2C6359287 |page=2 |via=Google News Archive}}</ref> The waffles were further popularized in the United States during the [[1964 New York World's Fair]]<ref name="Roberts">{{cite news |url=https://www.nytimes.com/2008/07/27/nyregion/thecity/27read.html |title=A Fair, a Law and the Urban Walker |last=Roberts |first=Sam |work=[[The New York Times]] |access-date=2009-03-19 |date=2008-07-27 |archive-url=https://web.archive.org/web/20131113114709/http://www.nytimes.com/2008/07/27/nyregion/thecity/27read.html |archive-date=November 13, 2013 |url-status=live}}</ref> at [[Flushing Meadows Park]] in [[Queens]], [[New York City]]. These waffles were introduced by Maurice Vermersch of [[Brussels]], Belgium.<ref>{{cite web | last=Sands | first=Chris | title=How The 1964 World's Fair Helped Popularize The Belgian Waffle | website=Tasting Table | date=April 6, 2023 | url=https://www.tastingtable.com/1249994/964-worlds-fair-belgian-waffle/ | access-date=May 27, 2024}}</ref> Largely based on a simplified recipe for the Brussels waffles, Vermersch decided to change the name to the Bel-Gem Waffle upon observing that many Americans could not correctly identify Brussels as the capital of Belgium.<ref name="Newsday">{{Cite news|date=1989-08-22|title=His Waffles Made Memories at the Queens World's Fair|url=https://www.newspapers.com/article/newsday-his-waffles-made-memories-at-the/148173515/|access-date=2024-05-27|work=Newsday|pages=27|first=Rebecca|last=Blumenstein}}</ref><ref>{{cite encyclopedia |url=https://books.google.com/books?id=DOJMAgAAQBAJ&pg=RA2-PA554 |title=Waffles |page=554 |encyclopedia=The Oxford Encyclopedia of Food and Drink in America |via=[[Google Books]] |year=2013 |first=Bruce |last=Kraig |isbn=9780199734962 |access-date=2014-02-10}}</ref> These waffles were served with whipped cream and strawberries, and they were sold for a dollar.<ref name="CooksInfo">{{cite web |url=http://www.cooksinfo.com/belgian-waffles |title=Belgian Waffles |work=CooksInfo.com |access-date=2009-03-19}}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book |last1=Jacobs |first1=Marc |last2=Govenar |first2=Alan |editor1-last=Teughels |editor1-first=Nelleke |editor2-last=Scholliers |editor2-first=Peter |title=A Taste of Progress: Food at International and World Exhibitions in the Nineteenth and Twentieth Centuries |date=2016 |publisher=Routledge |location=Abingdon |isbn=9781472441836 |pages=149–164 |chapter='Belgian Waffles' Made in USA. World's Fairs and the Exploitation of National Adjectives for Food}}
+
+{{Waffles|state=expanded}}
+{{Street food}}
+
+[[Category:Waffles]]
+[[Category:Belgian cuisine]]
+[[Category:National dishes]]
+[[Category:Street food in the United States]]

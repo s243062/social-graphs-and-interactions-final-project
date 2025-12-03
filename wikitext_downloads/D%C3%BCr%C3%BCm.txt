@@ -1,0 +1,31 @@
+{{Short description|Turkish wrap}}
+{{About|a doner kebab wrap|the cultivar of wheat|Durum}}{{More citations needed|date=January 2025}}[[Image:Rolled kebab.jpg|thumb|[[Döner kebab]] as dürüm]]
+A '''dürüm''' ({{IPA|tr|dyˈɾym}}, "roll") or '''dürme''' is a [[wrap (food)|wrap]] that is usually filled with typical [[döner kebab]] ingredients.<ref name="Heinzelmann2014">{{cite book|author=Ursula Heinzelmann|title=Beyond Bratwurst: A History of Food in Germany|url=https://books.google.com/books?id=HUedAwAAQBAJ&pg=PT347|date=15 April 2014|publisher=Reaktion Books|isbn=978-1-78023-302-4|pages=347–}}</ref> The wrap is made from [[lavash]] or [[saj bread|yufka]] flatbreads. It is common as a street food in [[Turkey]] and many other [[List of sovereign states and dependent territories in Europe|European countries]], but can also be found in sit-down restaurants.<ref>{{cite web |title=The 10 best Turkish street foods |website=TimeOut |url=https://www.timeout.com/istanbul/restaurants/the-best-turkish-street-foods}}</ref><br>
+It usually costs about 10% more than a normal döner. Some people prefer it to the döner, either because the portion is bigger or because the fillings-to-bread ratio is higher in a dürüm.
+<br>Most döner joints in Germany where the bread is freshly baked use the same leavened dough portion as for the döner bun, but rolled out into a [[flatbread]] wrap. <br>
+Another variation is made from a reheated [[lahmacun]], filled with the same ingredients as the döner kebab, rolled up as a dürüm.
+
+==See also==
+* [[Burrito]]
+* [[Donair]]
+* [[Gyros]]
+* [[Roti]]
+* [[Shawarma]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite web | last=Connelly | first=Michael Alan | title=20 Must-Try Street Foods Around them World | website=[[Fodor's]] | date=December 18, 2014 | url=http://www.fodors.com/news/photos/20-must-try-street-foods-around-the-world#!3-durum | access-date=July 24, 2016}}
+
+{{Turkish cuisine}}
+
+{{DEFAULTSORT:Durum}}
+[[Category:Flatbread dishes]]
+[[Category:Turkish words and phrases]]
+[[Category:Turkish sandwiches]]
+[[Category:Street food in Turkey]]
+[[Category:Hot sandwiches]]
+
+
+{{Turkey-cuisine-stub}}

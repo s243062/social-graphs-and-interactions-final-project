@@ -1,0 +1,86 @@
+{{Short description|Polynesian dish}}
+{{Infobox prepared food
+| name             = 
+| image            = Ota ika (5737464134).jpg
+| image_size       = 250px
+| caption          = {{okina}}Ota {{okina}}ika
+| alternate_name   = Coconut fish, ika mata, i{{okina}}a ota, kokoda, oka i{{okina}}a, oraora, ota, poisson cru
+| country          = [[Oceania]]
+| region           = [[American Samoa]], [[Cook Islands]], [[Fiji]], [[French Polynesia]], [[Kiribati]], [[Nauru]], [[New Zealand]], [[Niue]], [[Norfolk Island]], [[Papua New Guinea]], [[Pitcairn Islands]], [[Samoa]], [[Tokelau]], [[Tonga]], [[Tuvalu]], [[Wallis and Futuna]]
+| creator          = 
+| course           = [[Appetiser]]
+| type             = [[Salad]]
+| served           = 
+| main_ingredient  = [[Fish as food|Fish]], [[lemon]], [[Lime (fruit)|lime]], [[coconut milk]]
+| variations       = 
+| calories         = 
+|similar_dish      =[[Kinilaw]], [[kelaguen]], [[hinava]], [[Poke (Hawaiian dish)|poke]], [[ceviche]]
+| other            = 
+}}
+'''{{okina}}Ota {{okina}}ika''' is a [[Oceania]]n dish consisting of raw fish marinated in citrus juice and coconut milk. The [[Tonga]]n, [[Tahiti]]an, and [[Samoa]]n variants are essentially identical in that the raw fish is briefly marinated in [[lemon]] or [[Lime (fruit)|lime]] juice until the surface of the flesh becomes opaque. The fish is then mixed with coconut milk and diced vegetables (most commonly cucumber, tomato, carrots, onion, green onion, and spicy peppers). This is the national dish of Tonga.
+
+== Names ==
+<!--please keep alphabetised by country-->
+* [[Cook Islands]]: {{lang|rar|ika mata}}
+* [[Fiji]]: {{lang|fj|kokoda}}
+* [[French Polynesia]]: {{lang|fr|poisson cru}}, {{lang|ty|iʻa ota}}
+* [[Nauru]]: coconut fish
+* [[New Caledonia]]: {{lang|new|salade tahitienne}}, {{lang|new|poisson cru}}
+* [[Niue]]: {{lang|niu|ʻota ʻika}}
+* [[Samoa]]: {{lang|sm|oka iʻa}}
+* [[Tokelau]]: {{lang|tkl|ʻota ʻika}}
+* [[Tonga]]: {{lang|to|ʻota ʻika}}
+* [[Tuvalu]]: {{lang|tvl|ika mata}}
+* [[Wallis and Futuna]]: {{lang|wls|ika ota}}<ref>{{Cite book |last=Brillat |first=Michael |title=South Pacific islands |date=1999 |publisher=Nelles Verlag |isbn=3-88618-104-9 |edition=1st |location=Munich, Germany |oclc=43578477}}</ref> 
+
+The word "ota" means "raw" within the [[Polynesian language]] group, although the more common term for the dish in [[French Polynesia]] is its [[French language|French]] equivalent, ''poisson cru'' (literally, 'raw fish').<ref>{{cite book | title=The World's Best Street Food: Where to Find It and How to Make It |publisher=Lonely Planet Publications |date=2012 |isbn=978-1-74321-664-4 |url= https://books.google.com/books?id=Wat9BAAAQBAJ&pg=PT131 |access-date=July 30, 2016 |page=131}}</ref><ref>{{Cite book |url= https://books.google.com/books?id=6eZe7e-1Y3sC&q=Ota+ika&pg=PA133 |title=Food Culture in the Pacific Islands |last=Haden |first=Roger |date=2009 |publisher=ABC-CLIO |isbn=978-0-313-34492-3 |page=133}}</ref> Any type of seafood can be used to make "ota". The word "ika" means fish ("i'a" in Samoan language), but the dish is often prepared with [[mussels]] ("ota pipi/maso"), [[Shrimp and prawn as food|prawns]] ("ota ulavai"), [[Crab meat|crab]] ("ota pa'a/paka"), [[Lobster meat|lobster]] ("ota ula"), [[Octopus as food|octopus]]/[[Squid as food|squid]] ("ota fe'e/feke"), [[Sea urchin as food|sea urchin]] ("ota vana/tuitui"), and [[Eel as food|eel]] ("ota pusi").
+
+== Gallery ==
+<gallery class="center" caption="Variants" widths="200px" heights="150px">
+File:Ika mata.jpg|Cook Islands ''ika mata''
+Poisson cru à la tahitienne.jpg|Tuna ''poisson cru'', served on a banana leaf
+File:Kokodafood.jpg|''Kokoda'' in Fiji
+</gallery>
+
+== Similar dishes ==
+Similar dishes are ''[[kinilaw]]'' and {{lang|ilo|[[Kilawin#Variations|ata-ata]]}} of the [[Philippines]], and  ''[[kelaguen]]'' of the [[Marianas Islands]]. {{lang|haw|[[Poke (Hawaiian dish)|Poke]]}} and {{lang|haw|[[Lomi-lomi salmon]]}} of [[Hawaii]] are also similar. It is also similar to [[Latin America]]n [[ceviche]].
+
+== See also ==
+*[[Crudo]]
+*[[Hinava]]
+*[[Hoe (food)|Hoe]]
+*[[Hoe-deopbap]]
+*[[List of hors d'oeuvre]]
+*[[List of raw fish dishes]]
+*[[List of salads]]
+*[[Tataki]]
+*[[Singju]]
+*[[Yusheng]]
+
+== Sources ==
+{{reflist}}
+
+==Further reading==
+* [http://polynesiankitchen.blogspot.com/2008/08/ota-ika-raw-fish-in-coconut-milk.html "{{okina}}Ota {{okina}}ika (raw fish in coconut milk)"], ''The Polynesian Kitchen''
+
+{{Salads}}
+
+{{DEFAULTSORT:Ota Ika}}
+[[Category:Niuean cuisine]]
+[[Category:Nauruan cuisine]]
+[[Category:Norfolk Island cuisine]]
+[[Category:Gilbertese cuisine]]
+[[Category:Samoan cuisine]]
+[[Category:Tokelauan cuisine]]
+[[Category:Tongan cuisine]]
+[[Category:Tuvaluan cuisine]]
+[[Category:Pitcairn Islands cuisine]]
+[[Category:Wallis and Futuna cuisine]]
+[[Category:Polynesian cuisine]]
+[[Category:Melanesian cuisine]]
+[[Category:Micronesian cuisine]]
+[[Category:Oceanian cuisine]]
+[[Category:Uncooked fish dishes]]
+[[Category:Seafood dishes]]
+[[Category:Raw fish salads]]
+[[Category:Fijian cuisine]]

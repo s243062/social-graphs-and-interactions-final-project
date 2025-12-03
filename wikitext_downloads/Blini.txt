@@ -1,0 +1,97 @@
+{{Short description|Russian pancake}}
+{{Infobox food
+| name               = Blini
+| image              = 50 блінкоў на талерцы 240 мм.jpg
+| image_size         = 250px
+| caption            = Blini
+| alternate_name     = blin, bliny
+| country            = [[Eastern Europe]]
+| region             = 
+| creator            = 
+| course             = 
+| type               = [[pancake]]
+| served             = 
+| main_ingredient    = [[wheat]], [[Egg as food|eggs (optional)]], [[milk]], water
+| variations         = 
+| calories           = 
+| other              = 
+| cookbook           = Bliny
+}}
+
+'''Blini''' (plural ''blinis'' or ''blini'', rarely ''bliny'';<ref name=ahd>{{cite web | url=https://www.ahdictionary.com/word/search.html?q=blini | title=The American Heritage Dictionary entry: Blini }}</ref><ref name=macmillan>{{Cite web|url=https://www.macmillandictionary.com/dictionary/british/blini|title=BLINI (noun) definition and synonyms &#124; Macmillan Dictionary}}</ref> {{langx|ru|блины}}; singular: '''blin''') are Russian [[crêpe]]s, often made with a yeast-raised batter of buckwheat or wheat flour and milk.<ref>{{cite book |last1=Sinclair |first1=Charles |title=A Cook's Dictionary: International Food and Cooking Terms from A to Z |date=October 2005 |publisher=Bloomsbury Publishing Plc |isbn=978-1-904970-18-7 |page=74 |url=https://www.google.com/books/edition/A_Cook_s_Dictionary/oC08NQAACAAJ?hl=en |language=en}}</ref><ref name="Bender">{{cite book |last1=Bender |first1=David A. |title=Dictionary Of Food & Nutrition |date=28 October 2005 |publisher=Oxford University Press |isbn=978-0-19-567787-4 |page=49 |url=https://www.google.com/books/edition/Dictionary_Of_Food_Nutrition/8-6SPwAACAAJ?hl=en |language=en |quote=Russian; small yeast pancakes made from buckwheat flour, served with salt herring, smoked salmon, or caviar, and sour cream.}}</ref><ref>{{cite book |last1=Sundaram |first1=Susmita |editor1-last=Smorodinskaya |editor1-first=Tatiana |editor2-last=Evans-Romaine |editor2-first=Karen |editor3-last=Goscilo |editor3-first=Helena |title=Encyclopedia of Contemporary Russian Culture |date=28 October 2013 |publisher=Routledge |isbn=978-1-136-78785-0 |page=75 |url=https://www.google.com/books/edition/Encyclopedia_of_Contemporary_Russian_Cul/ZXz2okCSfq8C |language=en |chapter=Bliny |quote=Russian version of crepes. Although there are several varieties of bliny, the most common consist of all-purpose wheat flour, eggs, milk, and butter}}</ref><ref name="Mason">{{cite book |last1=Mason |first1=Laura |editor-last1=Davidson |editor-first1=Alan |editor-last2=Jaine |editor-first2=Tom  |title=The Oxford Companion to Food |chapter=Blini |date=2014 |publisher=Oxford University Press |isbn=978-0-19-967733-7 |pages=87–88 |url=https://www.google.com/books/edition/The_Oxford_Companion_to_Food/RL6LAwAAQBAJ |language=en}}</ref><ref name="Ayto">{{cite book |last1=Ayto |first1=John |title=The Diner's Dictionary |date=18 April 2013 |publisher=Oxford University Press |isbn=978-0-19-964024-9 |url=https://www.oxfordreference.com/display/10.1093/acref/9780199640249.001.0001/acref-9780199640249-e-113 |language=en |chapter=Blini |page=36 |quote=Blinis are small thick Russian pancakes made with buckwheat flour. They are usually served with salt herring, caviare, or smoked salmon, and sour cream and melted butter.}}</ref><ref>{{cite book |last1=Hudgins |first=Sharon |editor-last1=Kraig |editor-first1=Bruce |editor-last2=Sen |editor-first2=Colleen Taylor |title=Street Food around the World: An Encyclopedia of Food and Culture |chapter=Russian Federation |date=9 September 2013 |publisher=Bloomsbury Publishing USA |isbn=979-8-216-15026-8 |pages=292–298 |url=https://www.google.com/books/edition/Street_Food_around_the_World/swTHEAAAQBAJ |language=en |quote=''Bliny'' (singular ''blin'') are a type of Russian pancake traditionally made from a batter of buckwheat flour and yeast... Most contemporary street-food bliny are actually ''blinchiki'', the easier-to make, nonleavened Russian version of French crepes...}}</ref> They may be served with [[Smetana (dairy product)|smetana]], [[cottage cheese]], [[caviar]] and other garnishes, or simply smeared with [[butter]].<ref name="Bender"/><ref name="Ayto"/> They are a traditional dish in [[Russian cuisine]].<ref>{{cite web|url=https://www.npr.org/sections/thesalt/2013/03/14/174097702/its-russian-mardi-gras-bring-on-the-pancakes-and-butter?t=1620939022038|title=It's Russian Mardi Gras: Time For Pancakes, Butter And Fistfights|website=NPR.org|date=14 March 2013}}</ref>  
+
+In the West, blini traditionally refers to small savory pancakes made with leavened batter. In modern Russian, the term most often refers to pan-sized leavened thin pancakes, although smaller leavened pancakes are also called blini. Smaller and thicker pancakes (with several of them baked on one larger pan) are called ''[[oladyi]]''.
+
+[[Blintzes]], called ''blinchiki'' (little blinis) in Russian, are an offshoot of blini or crêpes. They are basically [[roll (food)|roll]]s based on thin pancakes usually made of wheat flour, folded to form a casing for various kinds of filling, typically cheese, fruit, or (in Russian cuisine) pre-fried [[minced meat]], and then sautéed or baked.<ref>{{cite web|title = blintze {{!}} a thin, usually wheat-flour pancake folded to form a casing (as for cheese or fruit) and then sautéed or baked|url = http://www.merriam-webster.com/dictionary/blintze|website = Merriam-webster.com|access-date = 2015-08-12}}</ref>
+
+==Etymology==
+
+The [[Proto-Slavic language|Proto-Slavic]] term for the Russian pancakes was probably ''mlinŭ'' ('to mill'), which was transformed in Old Russian into {{langx|orv|млинъ|mlinŭ|label=none}}, and {{langx|orv|блинъ|blinŭ|label=none}} (cf. {{langx|uk|млинець|mlynets|label=none}}, [[Ukrainian language|Ukrainian]] for ''blin'').<ref>{{cite book |last1=Raţă |first1=Georgeta |title=The English of Tourism |date=3 January 2013 |publisher=Cambridge Scholars Publishing |isbn=978-1-4438-4486-4 |page=192 |url=https://www.google.com/books/edition/The_English_of_Tourism/MOGmBgAAQBAJ |language=en}}</ref> [[Max Vasmer]], in his ''Etymological Dictionary of the Russian Language'', notes that a similar word is used in many Slavic languages, as well as in Latvian and Lithuanian.<ref>{{cite web|url=http://dic.academic.ru/dic.nsf/vasmer/36941/%D0%B1%D0%BB%D0%B8%D0%BD|title=блин - это... Что такое блин?|author=близорукий блинд|website=Dic.academic.ru|access-date=2017-01-06}}</ref> While the modern Russian word {{langx|ru|блины|bliny|label=none}} (plural of {{langx|ru|блин|blin|label=none}}), also refers to foreign-introduced [[pancake]]s in general, the term {{langx|ru|русские блины|russkiye bliny|label=none}} ('Russian pancakes'), is often emphasized in Russia for differentiation.
+
+Some English dictionaries record usage of the forms ''blin'' as singular and ''blini'' or ''bliny'' as plural, which corresponds to the original Russian forms, but other dictionaries consider this usage so rare in English that they do not mention ''blin'' at all and only record the widespread modern regular usage of ''blini'' for the singular and ''blinis'' for the plural.<ref>{{cite web|url=http://www.macmillandictionary.com/dictionary/british/blini |title=blini definition and synonyms |publisher=Macmillan Dictionary |date=2016-12-09 |access-date=2017-01-06}}</ref><ref name="Ayto"/>
+
+==History==
+Blini have a history dating to the [[Middle Ages]].<ref name="Mason"/> In Russian culture, blini were traditionally prepared at the end of winter during [[Maslenitsa]] ('butter week') as a treat eaten twice a day.<ref name="Mason"/> There were also other occasions for eating blini, such as at funerals and during prayers for the dead.<ref name="Mason"/>
+
+Traditional Russian blini are made with yeasted batter, which is left to rise and then diluted with [[milk]], [[soured milk]], and cold or boiling water. When diluted with boiling water, they are referred to as ''zavarnye bliny'' (the Russian term ''zavarnoe testo'' corresponds to "[[choux pastry]]"). A lighter and thinner form made from unyeasted batter (usually made of flour, eggs, milk, or soured milk, [[kefir]], [[ryazhenka]], [[varenets]]) is also common in Russia.  All kinds of flour may be used, from [[wheat]] and [[buckwheat]] to [[oatmeal]] and [[millet]], although wheat is currently the most popular. Historically, blini have been baked in a [[Russian oven]], which was used for heat processing of all kinds of food. Even though blini are nowadays pan-fried, like pancakes, preparing blini is still referred to as "pech bliny" (i.e., "to bake blini") in Russian, and the word for "Russian oven" is a cognate, "(russkya) pech".
+
+The influence of French cuisine in the 19th century may have led to the development of lighter blini.<ref name="Mason"/> According to [[Lesley Chamberlain]]: "In a full Russian ''obed'', blini are served after the cold ''[[zakuski]]''. They may be followed by [[consommé]], then pies and then the main meat course. For all this you would need a gargantuan appetite..."<ref name="Mason"/>
+
+== Ukraine ==
+Blini, or as they are known in Ukrainian, ''mlyntsi'', are a highly popular dish around [[Ukraine]], the simplicity of making the thin pancakes as well as the basic ingredients yet highly favourable taste have led to the popularity of the dish. Mlyntsi have been eaten in Ukraine since pre-Christian times. Mlyntsi tend to be served in Ukraine with sour cream (Ukrainian: smetana) as well as with caviar; they can also be served as a sweet dish by serving them alongside a fruit preserve or a sweet cream. The thin pancakes can also be stuffed with cottage cheese, chopped boiled eggs, mixed green onions, stewed cabbage, minced meat, mashed beans, mushrooms, fruit and berries and raisins. However upon being stuffed the dish acquires a new title (Ukrainian: Налисники, ''nalysnyky''), a fundamental dish of [[Ukrainian cuisine]] that is served all around the country with a number of regional varieties, for example the Chernihiv style nalysnyky are marked by their mushroom and cabbage filling. The most popular form of nalysnyky served in Ukraine is those stuffed with cottage cheese and served with sour cream. Nalysnyky as well as mlyntsi are also served for special occasions such as [[Maslenitsa|Masnytsya]], which may originally have been a pagan festival that celebrated the end of winter and the arrival of spring (the round yellow pancake most likely symbolising the sun), but has for a millennium been the time for using up dairy products before the beginning of [[Great Lent]]. Nalysnyky can be formed out of mlyntsi in a number of different shapes including; tubes, envelopes and even triangles. Some recipes call for the stuffed mlyntsi to be placed in an oven proof dish and cooked in an oven.<ref>{{Cite book |last=Ehrlich |first=M. Avrum |title=Encyclopedia of the Jewish Diaspora Origins, Experiences, and Culture |date= |publisher=Bloomsbury Publishing |year=2008 |isbn=9781851098736 |pages=169}}</ref><ref>{{Cite book |last=Wong |first=Cecily |title=Gastro Obscura A Food Adventurer's Guide |publisher=Workman Publishing Company |year=2021 |isbn=9781523511877}}</ref>
+
+==Varieties==
+[[File:Preparation of blins or blini.jpg|thumb|right|The preparation of bliny]]
+
+Some ways that blini are prepared and served include the following:
+* Blini made from [[batter (cooking)|batter]] containing various additions such as grated [[potato]] or [[apple]] and [[raisins]].<ref name="Encyclopedia">{{cite book |url = https://books.google.com/books?id=ojc4Uker_V0C&q=food+encyclopedia%2C+blintz&pg=PA57 |title = Encyclopedia of Jewish Food|publisher = Wiley|year = 2010|access-date = April 18, 2012|author = Marks, Gil|pages = 56–58|isbn = 978-0-470-94354-0}} {{ISBN|978-0-470-39130-3}}</ref>
+* Blini covered with [[butter]], [[sour cream]], [[varenie]] or [[jam]], [[honey]] or [[caviar]] ([[Whitefish (fisheries term)|whitefish]], [[salmon]] or traditional [[sturgeon]]).
+
+They may be folded or rolled into a tube with sweet or salty fillings such as [[varenye]], fruit, berry, mashed potatoes, [[tvorog]], cooked [[ground meat]], cooked [[poultry|chicken]], salmon, chopped boiled eggs with green onions or chopped mushrooms.<ref>{{Cite web |title=Shrovetide indulgence with babushka's tvorog blini |url=https://www.rbth.com/russian-kitchen/330053-shrovetide-indulgence-babushka-tvorog-blini-maslenitsa/amp |access-date=2022-12-28 |website=www.rbth.com}}</ref>
+
+* Blini made by pouring batter over chopped vegetables, meat, or mushrooms put on a frying pan beforehand are called "blini s pripyokom."
+* Caviar is a popular filling for blini during Russian-style parties and in foreign Russian-style restaurants.
+* '''Buckwheat blini''' are part of traditional [[Russian cuisine]].<ref name="Encyclopedia" /> They are also widespread in [[Ukraine]],<ref name="Encyclopedia" /> where they are sometimes known as {{Transliteration|uk|hrechanyky}} ({{Langx|uk|гречаники}}), and Lithuania's [[Dzūkija]] region, the only region of the country in which buckwheat is grown, where they are called ''grikių blynai'' (which is in fact literally "buckwheat blini").
+
+Similar pancakes are eaten in neighboring countries, such as ''nalistniki'' in Belarus, although blini are also widely eaten.<ref>{{cite book |last1=Kraig  |first=Bruce|editor-last1=Kraig |editor-first1=Bruce |editor-last2=Sen |editor-first2=Colleen Taylor |title=Street Food around the World: An Encyclopedia of Food and Culture |chapter=Belarus |date=9 September 2013 |publisher=Bloomsbury Publishing USA |isbn=979-8-216-15026-8 |pages=47–48 |url=https://www.google.com/books/edition/Street_Food_around_the_World/swTHEAAAQBAJ |language=en |quote=The most popular are ''bliny'', originally a Russian dish (the Belarusian ''nalistniki'' is similar).}}</ref>
+
+==Gallery==
+<gallery mode="packed" heights="140px">
+File:Зворыкин С-широкой-масленицей.jpg|An old woman prepares blini in a [[Russian oven]] for [[Maslenitsa]]
+File:Blini with salmon roe.jpg|Blini served with [[red caviar]]
+File:Russian stamp no 1029.jpg|Russian stamp with blini and other stereotypes of Russian cuisine
+File:Блины - мелна готовятся в печи 15 дек 2016.jpg|Blini fried in an oven in the [[Mari El|Mari El Republic]], Russia
+File:Pancake week (silver coin)r.gif|Belarusian commemorative coin with Maslenitsa theme and the accompanying blini
+File:Blini.jpg|Blini rolled up
+File:С_широкой_масляницей.jpg|A pre-1917 ''Maslenitsa'' congratulation postcard
+File:Street food, Novosibirsk 02.jpg|Blini shop in [[Novosibirsk]], Russia
+File:Blini Tanya.jpg|Lithuanian Blini (blynai or sklindziai)
+</gallery>
+
+==In popular culture==
+Aside from referring to pancakes, the word ''{{Transliteration|ru|blin}}'' ({{IPA|блин}}) is used in Russian as a "[[minced oath]]" for the [[Russian mat|Russian swear word]] "блять" {{Transliteration|ru|blyat'}}, used as an interjection to express a negative emotion, akin to the words "damn!" or saying "Holy Moly!" while meaning "Holy shit!".<ref name=leru>{{Cite web|url=https://learnrussiandaily.com/meaning-in-russian/blin/|archive-url=https://web.archive.org/web/20190822150708/https://learnrussiandaily.com/meaning-in-russian/blin/|url-status=dead|archive-date=August 22, 2019|title=Blin - Meaning in Russian - Translation and audio|website=Learn Russian Daily|language=en-GB|access-date=2019-08-22}}</ref>
+
+There are many Russian proverbs involving ''blini''.<ref>[https://nazaccent.ru/phrase/poslovicy-i-pogovorki-o-blinah/ ПОСЛОВИЦЫ И ПОГОВОРКИ О БЛИНАХ]</ref><ref>[https://cgon.rospotrebnadzor.ru/istoriya/istoriya-sanitarnogo-prosveshcheniya/istoriya-pitaniya/russkie-poslovitsy-i-pogovorki-o-blinakh-i-maslenitse/ Русские пословицы и поговорки о блинах и масленице]</ref> For example, "[[:ru:Первый блин комом|Первый блин комом]]" ("The first ''blin'' is lumpy") is a figurative saying that the first attempt to do something is expected to be unsuccessful, said to calm down the person who failed the first try.<ref name=leru/> An English equivalent would be "You must spoil before you spin".<ref name=leru/>
+
+==See also==
+* [[List of pancakes]]
+* [[List of Russian dishes]]
+
+==References==
+{{Reflist}}
+
+{{Pancakes}}
+{{Authority control}}
+
+[[Category:Belarusian cuisine]]
+[[Category:German desserts]]
+[[Category:Lithuanian cuisine]]
+[[Category:Carnival foods]]
+[[Category:Pancakes]]
+[[Category:Russian desserts]]
+[[Category:Ukrainian desserts]]
+[[Category:Ukrainian cuisine]]
+[[Category:Stuffed dishes]]
+[[Category:Lithuanian desserts]]
+[[Category:Soviet cuisine]]
+[[Category:Street food in Russia]]

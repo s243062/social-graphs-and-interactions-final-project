@@ -1,0 +1,42 @@
+{{short description|Ecuadorian fish stew}}
+{{Refimprove|date=October 2018}}
+{{Infobox prepared food
+| name             = Encebollado
+| image            = Semifinal del Campeonato del Encebollado en Esmeraldas 2015 (18062294436).jpg
+| caption          = 
+| alternate_name   = 
+| country          = {{flagcountry|Ecuador}}
+| region           = 
+| creator          = 
+| course           = Main course
+| type             = [[Fish stew]]
+| served           = 
+| main_ingredient  = Fish ([[albacore]] or other [[tuna]] or [[billfish]]), [[cassava]], pickled [[red onion]]s
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Encebollado''' ([[Spanish language|Spanish]]: ''onionized'', [[participle]] of “encebollar” ''to onionize/to make in onions'') is an [[onion]]-dressed [[fish stew]] from [[Ecuador]], where it is regarded as a national dish.
+
+Although known throughout Ecuador, the dish is most popular in the country's coastal region.<ref>{{cite web |url=http://www.gastronomiaperu.com/noticias/detalles.php?d=2534 |title=El encebollado, un plato que evolucionó con los marineros españoles de antaño |trans-title=Encebollado, a dish that evolved with Spanish sailors of yesteryear |last=Martin |first=Herrera |date=7 October 2007 |website=Gastronomiaperu.com |language=Spanish |accessdate=16 August 2013 |archive-date=11 July 2011 |archive-url=https://web.archive.org/web/20110711073443/http://www.gastronomiaperu.com/noticias/detalles.php?d=2534 |url-status=dead }}</ref><ref>{{cite web|url=http://recetaecuatoriana.com/2009/02/encebollado-de-pescado/|title=Receta Ecuatoriana – Encebollado de pescado|website=Recetaecuatoriana.com|accessdate=2 October 2018|archive-date=22 September 2018|archive-url=https://web.archive.org/web/20180922094030/http://recetaecuatoriana.com/2009/02/encebollado-de-pescado/|url-status=dead}}</ref><ref>{{Cite web |url=http://especiales.eluniverso.com/sabor-guayaquil/platos/encebollado/ |title=Encebollado - Historia del sabor guayaco |access-date=2013-08-17 |archive-url=https://web.archive.org/web/20130802010032/http://especiales.eluniverso.com/sabor-guayaquil/platos/encebollado/ |archive-date=2013-08-02 |url-status=dead }}</ref> It is served with boiled [[cassava]] and pickled red onion rings. A dressing of onion is prepared with fresh tomato and spices such as pepper or coriander leaves. It is commonly prepared with [[albacore]], but [[tuna]], [[billfish]], or [[bonito]] may also be used. It should be served with [[Lime (fruit)|lime]], toasted corn, and [[Chifle|banana chips]] known as chifles.
+
+It possibly originates from the [[Basques|Basque]] dish by the name of ''[[marmitako]]''.
+
+Encebollado is usually served with [[Chifle|banana chips]], plantains, or bread as side dishes. It may be garnished with lime juice and chili sauce. People in Ecuador eat it for breakfast, lunch, or dinner. Restaurants that sell only this dish start serving it in the early morning. 
+
+It is a common cure for [[wiktionary:chuchaqui|chuchaqui]] or [[hangover]]<ref>{{Cite web |last=León |first=Carolina Loza |date=2017-06-20 |title=Hangover-Curing Fish Soup, Ecuador Edition |url=https://roadsandkingdoms.com/2017/hangover-curing-fish-soup-ecuador-edition/ |access-date=2024-10-10 |website=Roads & Kingdoms |language=en-US}}</ref><ref>{{Cite web |date=2022-11-14 |title=Encebollado: Ecuador’s Failsafe Hangover Cure |url=https://mayorgacoffee.com/blogs/news/what-is-encebollado?srsltid=AfmBOoqP1zqjHeLgL1uJIBAWky_slOe5JRhypKNblbBTPGoNIra4xzMC |access-date=2024-10-10 |website=Mayorga Coffee |language=en}}</ref> accompanied with pilsner beer.
+
+==See also==
+* [[List of Ecuadorian dishes and foods]]
+* [[List of onion dishes]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://laylita.com/recipes/2008/03/01/encebollado-de-pescado-or-tuna-soup/ Recipe] by Layla Pujol
+
+[[Category:Ecuadorian soups]]
+[[Category:Onion-based foods]]
+[[Category:National dishes]]
+[[Category:Fish stews]]

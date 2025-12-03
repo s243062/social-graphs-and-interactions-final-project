@@ -1,0 +1,34 @@
+{{Short description|Tanzania's national street food}}
+{{redirect|Zege|the peninsula|Zege Peninsula}}
+{{more citations needed|date=June 2020}}
+{{Infobox food
+| name            = Chipsi mayai
+| image           = Chipsi mayai (zege).jpg
+| image_size      = 230px
+| caption         = Chipsi mayai (zege)
+| country         = [[Dar Es Salaam]], [[United Republic of Tanzania]]. 
+* Invented, 1980s
+| main_ingredient = Potatoes, eggs
+| variations      = Eggs can be mixed with onions, bell pepper, and other ingredients 
+}}
+
+'''Chipsi mayai''' ([[Swahili language|Swahili]] for "chips and eggs"), also known as '''zege''', is the most popular street food found all over [[Tanzania]]. The dish was invented in the streets of [[Dar es Salaam]]. In its most basic form, chipsi mayai is a simple [[potato]]-[[egg (food)|egg]] [[omelette]]. It is available in all regions of Tanzania, from the most remote [[villages]] to large [[town]]s. Food stands both indoors and on streets make them to order. It is the unofficial national dish of the country.<ref>{{Cite book |last=Khong |first=Rachel |url=https://www.google.ch/books/edition/Lucky_Peach_All_About_Eggs/sr6mDAAAQBAJ?hl=en&gbpv=1&dq=%22Chips+mayai%22&pg=PA78&printsec=frontcover |title=Lucky Peach All About Eggs: Everything We Know About the World's Most Important Food: A Cookbook |date=2017-04-04 |publisher=Clarkson Potter/Ten Speed |isbn=978-0-8041-8776-3 |language=en}}</ref> 
+
+It is generally prepared with chips (French fries), oil and beaten eggs fried together in a pan. It is often served with [[kachumbari]] or ''pili-pili'', which can be any type of hot sauce.<ref>{{Cite book |last=Finke |first=Jens |url=https://www.google.ch/books/edition/Tanzania/16--sm53nX4C?hl=en&gbpv=1&dq=%22Chipsi+mayai%22+-wikipedia&pg=PA163&printsec=frontcover |title=Tanzania |date=2003 |publisher=Rough Guides |isbn=978-1-85828-783-6 |language=en}}</ref>
+
+==See also==
+* [[List of egg dishes]]
+* {{annotated link|Tortilla española}}
+
+==References==
+{{reflist}}
+* {{cite book|url=https://books.google.com/books?id=sr6mDAAAQBAJ&q=Chipsi+mayai&pg=PA78|title=Lucky Peach All About Eggs: Everything We Know About the World's Most Important Food|author=Rachel Khong|publisher=Potter/Ten Speed/Harmony/Rodale|year=2017|isbn=978-0804187763|page=78}}
+
+{{Omelettes}}
+
+[[Category:Omelettes]]
+[[Category:Potato dishes]]
+[[Category:Tanzanian cuisine]]
+
+
+{{Tanzania-cuisine-stub}}

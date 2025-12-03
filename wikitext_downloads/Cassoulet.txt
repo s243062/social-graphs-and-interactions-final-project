@@ -1,0 +1,90 @@
+{{Short description|Slow-cooked stew containing meat and white beans}}
+{{Infobox food
+| name             = Cassoulet
+| image           = [[File:Bowl of cassoulet.JPG|320 px|Bowl of cassoulet]]
+| caption          = Cassoulet served in Carcassonne, France,<br />in a [[casserole]] sized for single serving
+| alternate_name   = 
+| country          = France
+| region           = 
+| creator          = 
+| course           = 
+| type             = Stew/casserole
+| served           = 
+| main_ingredient  = [[Haricot bean]]s with meat (typically pork, sausages, goose, duck, lamb or [[mutton]])
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Cassoulet''' ({{IPAc-en|ˌ|k|æ|s|ə|ˈ|l|eɪ}},<ref>{{cite Merriam-Webster|cassoulet|access-date=29 May 2019}}</ref> <small>also</small> {{IPAc-en|UK|ˈ|k|æ|s|ʊ|l|eɪ}},<ref>{{cite OED|cassoulet}}</ref>{{IPAc-en|US|ˌ|k|æ|s|ʊ|ˈ|l|eɪ}};<ref>{{cite American Heritage Dictionary|cassoulet |access-date=29 May 2019}}</ref> {{IPA|fr|kasulɛ|lang|LL-Q150 (fra)-WikiLucas00-cassoulet.wav}}) is a rich stew originating in [[southern France]]. The food writer [[Elizabeth David]] described it as "that sumptuous amalgamation of [[haricot beans]], sausage, pork, [[mutton]] and preserved goose, aromatically spiced with garlic and herbs".<ref name=ed39>David, 2008, p. 39</ref> It originated in the town of [[Castelnaudary]] in the [[Aude]] [[Departments of France|department]] in the [[Occitania (administrative region)|Occitanie]] [[Regions of France|region]]. Variants of the dish are local to other towns and cities in the Aude.
+
+==History and etymology==
+According to tradition, cassoulet was invented in 1355 in the town of [[Castelnaudary]], under siege by the English during the [[Hundred Years' War]].{{refn|The legend goes that the inhabitants prepared themselves for battle by eating a stew of beans, duck, goose and sausage, and, thus fortified, repelled the English attackers. In historical fact there was no siege and the [[Black Prince]] sacked and burned the town and killed much of the populace.<ref name=rupp>Rupp, pp. 40–41</ref>|group=n}} In medieval times the dish was referred to as an ''estouffet''.<ref>[https://www.confrerieducassoulet.com/l-histoire.html "L'Histoire du Cassoulet de Castelnaudary"], Grande confrérie du Cassoulet. Retrieved 29 January 2023</ref> The ''[[Dictionnaire de l'Académie française]]'' dates the term cassoulet to no earlier than the 19th century.<ref name=daf>[https://www.dictionnaire-academie.fr/article/A9C1043 "Cassoulet"], ''Dictionnaire de l'Académie française''. Retrieved 29 January 2023</ref> The current name is a diminutive of the [[Occitan language|Languedoc]] ''cassolo'' – a cooking pot – according to the ''Dictionnaire de l'Académie française'';<ref name=daf/> [[Elizabeth David]] states that it comes from "Cassol d'Issel", the original clay baking pot made in the small town of [[Issel, Aude|Issel]], near Castelnaudary.<ref>David, 1999, p. 290</ref>
+
+In cassoulets, the haricot bean is now the principal ingredient.<ref name=bts/> In the medieval period, [[broad beans]] ({{lang|fr|favolles}}), fresh or dried, were used in stews of the cassoulet type.<ref name=bts>Beullac, pp. 172 and 230; and Toussaint-Samat, pp. 45–46</ref> Sources differ on when haricots were first used instead of ''favolles'': the ''[[Oxford Companion to Food]]'' states that haricots arrived in France via Spain from the [[New World]] in the 16th century; according to ''[[Larousse Gastronomique]]'' they were not used in France until the 19th century.<ref name=b230>Beullac, p. 230</ref>
+
+==Method==
+[[File:Maison Porcella - December 2023 - Sarah Stierch 14.jpg|thumb|alt=A photograph of cassoulet in a metal dish.|Cassoulet with duck and [[Rancho Gordo]] beans at Maison Porcella in Windsor, California]]
+
+Traditionally, the dish is cooked in an [[earthenware]] pot, which [[Jane Grigson]] notes is correctly called a cassole or toupin; she adds that any earthenware or [[stoneware]] casserole will do, "provided it is deep and wide".<ref name=g164/> The authors of ''[[Mastering the Art of French Cooking]]'', [[Simone Beck]], [[Louisette Bertholle]] and [[Julia Child]], write, "The composition of a cassoulet is, in typical French fashion, the subject of infinite dispute ... arguments about what should go into this famous dish seem based on local traditions".<ref name=mta1>Beck, Bertholle and Child, p. 423</ref> Although haricot beans are common to all varieties, the meats vary considerably. The ''[[Michelin Guide]]'' comments that every town brings its own personal touch to the recipe, all claiming the title of the one and only stronghold of authentic cassoulet.<ref name=mich>Michelin, p. 257</ref> 
+
+Beck, Bertholle and Child comment that regardless of local custom, an extremely good cassoulet can be made anywhere out of beans with "whatever traditional meats are available: goose, game, pork, sausages, lamb, mutton".<ref name=mta2>Beck, Bertholle and Child, p. 424</ref> To this list, David adds turkey legs or wings,<ref>David, 1999, p. 291</ref> and Grigson adds [[partridge]]s.<ref name=g164/> In 1996, the ''Etats généraux de la gastronomie traditionnelle française'', a professional body dedicated to promoting regional products and traditional cuisine, specified the following proportions for cassoulet: at least 30 per cent pork (which can include sausage and [[Toulouse sausage]]), mutton or preserved goose; and up to 70 per cent haricot beans and stock, fresh pork rind, herbs and flavourings.<ref name=b230/>
+
+The editor of the original ''Larousse Gastronomique'', [[Prosper Montagné]], divided the main varieties of cassoulet into "the Trinity", according to the meats used, the "Father" being the cassoulet from Castelnaudary, the "Son" the cassoulet from [[Carcassonne]] and the "Holy Ghost" that from [[Toulouse]].<ref name=b230/> The Castelnaudary cassoulet contains pork (loin, ham, leg, sausages and fresh rind) and in some recipes preserved goose. The Carcassonne version uses leg of mutton and, when in season, partridge. The Toulouse cassoulet uses smaller quantities of the same meats used in Castelnaudary but adds Toulouse sausage and mutton and also duck or goose, according to ''Larousse'', or partridge, according to Grigson.<ref name=g164>Grigson, p. 164</ref> 
+
+Other variants include the [[Montaubon]] cassoulet, spiced with tomato purée;<ref name=mich/> the food historian Maguelonne Toussaint-Samat observes that it "would be sacrilege to make cassoulet in [[Corbières, Aude|Corbières]] without lightly salted pig's tail and ears";<ref>Toussaint-Samat, pp. 45–46</ref> and ''Larousse'' records a fish cassoulet, made with [[salt cod]] replacing the duck or goose.<ref name=b230/> Common to most recipes for cassoulet is a sprinkling of breadcrumbs, to form a crust on the surface of the dish.<ref>Beck, Bertholle and Child, p. 428; David, 1999, p. 291; and David, 2008, p. 362</ref>
+
+Although recipes have been published for [[haute cuisine]] versions of cassoulet in which roast meats are mixed with beans that have been simmered separately with aromatic vegetables,<ref name="BonAppétit">{{cite web |title=Classic Cassoulet |url=https://www.bonappetit.com/recipe/classic-cassoulet |website=Bon Appétit |publisher=Condé Nast |access-date=19 August 2020 |archive-url=https://web.archive.org/web/20200411054518/https://www.bonappetit.com/recipe/classic-cassoulet |archive-date=11 April 2020 |language=en |date=March 2018}}</ref> Beck, Bertholle and Child comment that cassoulet is not "a kind of rare ambrosia" but rather "nourishing country fare".<ref name=mta1/> David calls it a "sumptuous amalgamation of haricot beans, sausage, pork, mutton and preserved goose, aromatically spiced with garlic and herbs".<ref name=ed39/> In the process of preparing the dish, it is traditional to [[Deglazing (cooking)|deglaze]] the pot from the previous cassoulet to give a base for the next one. This has led to stories, such as the one given by David, citing [[Anatole France]], of a single original cassoulet being [[Perpetual stew|extended for years or even decades]].<ref name=af>David, 1998, p. 289</ref>{{refn|''"Le cassoulet de la mère Clémence cuit depuis vingt ans. Elle ajoute de temps en temp dans la marmite, de l'oie, ou du lard, parfois un morceau de saucisson ou quelques haricots, mais c'est toujours le même cassoulet."'' – Mother Clémence's cassoulet has been cooking for twenty years. From time to time she adds to the pot goose, or bacon, sometimes a piece of sausage or some beans, but it is always the same cassoulet.<ref name=af/>|group=n}}
+
+==La Grande confrérie==
+
+In 1970, ''La Grande confrérie du cassoulet de Castelnaudary'' – The Grand Brotherhood of the Cassoulet of Castelnaudary – was established to increase the prestige and spread and defend the traditions and quality of cassoulet.<ref>[https://www.confrerieducassoulet.com/historique.html  "Historique de la Confrérie"], Grande Confrérie du Cassoulet de Castelnaudary. Retrieved 29 January 2023</ref> Together with the town council and other bodies, the confrérie set up the Fête du Cassoulet in 2000, a three-day annual festival celebrating cassoulet, offering tastings along with free concerts, a flower parade and other attractions.<ref>[https://www.confrerieducassoulet.com/historique-1.html "Historique des fêtes du cassoulet de Castelnaudary"], Grande Confrérie du Cassoulet de Castelnaudary. Retrieved 29 January 2023</ref>
+
+==See also==
+{{portal|Food}}
+{{div col|colwidth=30em}}
+* [[Cassolette]]
+* [[Cassoeula]]
+* [[Cholent]]
+* [[Cozido]]
+* [[Fabada asturiana]]
+* [[Feijoada]]
+* [[Guernsey bean jar]]
+* [[List of casserole dishes]]
+* [[List of French dishes]]
+* [[List of sausage dishes]]
+* [[List of stews]]
+* [[Occitan cuisine]]
+* [[Perpetual stew]]
+* [[Pork and beans]]
+{{div col end}}
+
+==Notes, references and sources==
+===Notes===
+{{Reflist|group=n}}
+
+===References===
+{{Reflist}}
+
+===Sources===
+*{{cite book | last = Beck | first = Simone | author2 = Louisette Bertholle | author3 = Julia Child | title = Mastering the Art of French Cooking, Volume One | date = 2012 | orig-date = 1961 | location = London | publisher = Particular | isbn = 978-0-241-95339-6 }} 
+*{{cite book | editor-last = Beullac |editor-first= Geneviève  | title = Larousse Gastronomique| publisher = Hamlyn| date = 2001| location = London| isbn = 978-0-60-060235-4 }}
+* {{cite book | last = David | first = Elizabeth | title = Elizabeth David Classics | year = 1999 | orig-year = 1980 | location = London | publisher = Grub Street | isbn = 978-1-902304-27-4}}
+* {{cite book | last = David | first = Elizabeth | title = French Provincial Cooking | date = 2008 | orig-date = 1960 | location = London | publisher = Folio Society | oclc = 809349711}} 
+*{{cite book | last = Grigson | first = Jane | title = Charcuterie and French Pork Cookery| publisher = Grub Street | date= 2008 | location =London | isbn = 978-1-90-811793-9}}
+*{{cite book | last = Rupp | first = Rebecca | title = How Carrots Won the Trojan War | publisher = Storey | date = 2011| location = North Adams | isbn =978-1-60-342968-9 }}
+*{{cite book | last = Toussaint-Samat | first = Maguelonne | title = A History of Food| publisher = Wiley| date =2009 | location = London| isbn= 978-1-44-430514-2}}
+*{{cite book | title = Bonnes petites tables du guide Michelin 2011| publisher = Le guide Michelin | date = 2010| location = Paris | isbn = 978-2-06-715392-9}}
+
+== External links ==
+{{Wiktionary}}
+* Sylvie Girard, La route du cassoulet, L'Express, 30 décembre 1988, https://archive.org/details/cassoulet-lexpress-30-dec-1988-contribution-2-its-history-and-tradition
+
+{{French cuisine}}
+{{Legume dishes}}
+
+[[Category:French stews]]
+[[Category:Occitan cuisine]]
+[[Category:Legume dishes]]
+[[Category:Sausage dishes]]
+[[Category:Casserole dishes]]

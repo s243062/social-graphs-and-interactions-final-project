@@ -1,0 +1,40 @@
+{{Short description|Iranian dish}}
+{{Expand Persian|چلوکباب|topic=culture|date=January 2022}}
+{{Infobox food
+| name             = Chelow kebab
+| image            = Kebab Bakhtyari.jpg
+| caption          = ''Chelow kebab Bakhtyari''
+| country          = {{IRN}}
+| region           = [[Golpayegan]] and [[Tehran]]
+| national_cuisine = {{IRN}}
+| creator          = [[Demographics of Iran|Iranians]]
+| course           = Main course
+| served           = Hot
+| main_ingredient  = [[Pilaf|Chelow]] and [[kebab]]
+}}
+'''Chelow kebab''' or '''chelow kabab''' ({{langx|fa|[[wikt:چلوکباب|چلوکباب]]}} {{IPA|fa|t͡ʃʰeˌlow.kʰæˈbɒːb|}}) is an [[Iranian cuisine|Iranian dish]] consisting of [[steamed rice]] ({{Transliteration|fa|''chelow''}}) and one of the many varieties of Iranian [[kebab]].<ref name="Iranica">{{cite encyclopedia |url=http://www.iranicaonline.org/articles/celow-kabab-a-popular-persian-dish-which-consists-of-cooked-rice-celow-see-berenj-and-a-variety-of-broiled-kabab-se |volume=V |page=125 |title=ČELOW-KABĀB |encyclopedia=[[Encyclopædia Iranica]] |access-date=July 21, 2017}}</ref> It is considered the [[national dish]] of [[Iran]],<ref name="Shaida 1992">{{cite conference |url=https://books.google.com/books?id=FrWgDRkS90EC&pg=PA272 |title=Chellow-Kabab – The National Dish of Iran |last1=Shaida |first1=Margaret |date=1992 |publisher=Prospect Books |pages=272 |location=London |conference=Oxford Symposium on Food and Cookery 1991: Public Eating |isbn=9780907325475|access-date=21 April 2018}}</ref><ref>{{cite news |url=https://www.examiner.co.uk/lifestyle/restaurant-review-apadana-huddersfield-4884705 |archive-url=https://web.archive.org/web/20171230083526/http://www.examiner.co.uk/lifestyle/restaurant-review-apadana-huddersfield-4884705 |url-status=dead |archive-date=December 30, 2017 |work=[[Huddersfield Daily Examiner]] |title=Restaurant review: Apadana, Huddersfield |date=June 21, 2013 }}</ref> and was probably created during the time of the [[Qajar dynasty]].<ref name="Iranica"/>
+
+Chelow kabab is served with accompaniments such as butter, [[sumac]] powder, basil, onions, and grilled tomatoes.<ref name="Iranica"/> The traditional beverage accompanied with chelow kebab is [[doogh]],<ref name="Iranica"/> an Iranian [[yogurt]]-based drink, sometimes made of carbonated water. 
+[[File:Persian kebab barbequed in skewers bbq Iran.jpg|thumb|Persian kebab barbequed in Iran]]
+In the old [[bazaar]] tradition, the rice and accompaniments are served first, immediately followed by the kababs, which are threaded on skewers, as well as a piece of flat bread (typically [[lavash]]).<ref>{{cite book |url=https://books.google.com/books?id=19C3DnJyWE0C |title=A Taste of Persia: An Introduction to Persian Cooking |year=2007 |page=54 |publisher=[[I.B. Tauris]] |first=Najmieh |last=Batmanglij|isbn=9781845114374 }}</ref> A skewer is placed directly on the rice and while holding the kabab down on the rice with the bread, the skewer is quickly pulled out.
+
+== Varieties ==
+* [[Kabab barg|Barg]] - barbecued and marinated lamb, chicken or beef kabab dish. The most popular form is [[filet mignon]] beef.<ref>{{Cite web|date=2010-01-24|title=Kabab Barg (Filet Mignon Kabob)|url=https://familyspice.com/foodbuzz-24-24-24-a-winter-barbeque-persian-style-a-night-of-kabob/|access-date=2021-09-22|website=Family Spice|language=en-US}}</ref>
+* [[Kabab koobideh|Koobideh]] - is an Iranian minced meat kabab which is made from ground lamb, beef, or chicken, often mixed with parsley and chopped onions.<ref>{{Cite web|date=2019-03-26|title=Kabob Koobideh (Minced Meat Kebab)|url=https://www.thedeliciouscrescent.com/kabob-koobideh-minced-meat-kebab/|access-date=2021-09-22|website=The Delicious Crescent|language=en-US}}</ref>
+* [[Jujeh kabab|Jujeh]] - grilled chunks of chicken, sometimes with bone, sometimes boneless.<ref>{{Cite web|title=Joojeh Kabab ba Holu (Saffron Chicken Kababs With Peaches) Recipe|url=https://cooking.nytimes.com/recipes/1022310-joojeh-kabab-ba-holu-saffron-chicken-kababs-with-peaches|access-date=2021-09-22|website=NYT Cooking|language=en-US}}</ref>
+* Soltani - ''soltānī'', meaning "(a meal) in the style of a sultan." Typically it is combo plate of barg and koobideh plus rice.<ref>{{Cite web|date=2019-05-25|title=Soltani Kabob Recipe - Kabab Soltani|url=https://www.epersianfood.com/soltani-kabob/|archive-url=https://web.archive.org/web/20190514161316/https://www.epersianfood.com/soltani-kabob/|url-status=usurped|archive-date=May 14, 2019|access-date=2021-09-22|website=EpersianFood|language=en-US}}</ref>
+* Shah abbasi - ''şāh äbbāsī'', meaning "(a meal) in the style of a shah." Typically it is combo plate of barg, koobideh and jujeh plus rice.
+
+==See also==
+*[[Nan-e-kabab]]
+*[[Pilaf]]
+*[[Iranian cuisine]]
+
+==References==
+{{Commons category|Kebabs of Iran}} 
+{{reflist}}
+
+{{Cuisine of Iran|kebab}}
+
+[[Category:Iranian cuisine]]
+[[Category:National dishes]]

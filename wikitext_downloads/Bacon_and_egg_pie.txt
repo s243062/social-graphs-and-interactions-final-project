@@ -1,0 +1,53 @@
+{{Short description|Savoury pie}}
+{{Infobox food
+| name = Bacon and egg pie
+| image = Bacon&egg pie.jpg
+| caption = 
+| alternate_name = Egg and bacon pie
+| country = [[England]]
+| region = 
+| creator = 
+| course = [[Breakfast]], [[lunch]], [[dinner]], or as a [[snack]]
+| type = [[Savoury pie]]
+| served = Hot or cold
+| main_ingredient = Shortcrust or other base crust, [[bacon]], [[Egg (food)|eggs]]
+| variations = Additional ingredients such as peas or tomatoes
+| calories = 
+| other = 
+}}
+
+The '''bacon and egg pie''' is a savoury [[pie]] consisting of a crust containing [[bacon]], [[egg (food)|egg]] and sometimes [[onion]], [[mushroom]]s, [[bell pepper]]s, [[pea]]s, [[tomato]], fresh herbs and [[cheese]].  Bacon and egg pie may be served with [[ketchup]], which can be combined with [[Worcestershire sauce]] and drizzled over the filling before the pie is baked<ref>{{cite web|title=Famous New Zealand Bacon & Egg also known as quiche Pie|url=https://www.food.com/recipe/famous-new-zealand-bacon-egg-pie-201918|access-date=14 June 2012}}</ref> and some versions have a rising agent such as [[baking powder]] mixed into the egg to make a fluffier filling.
+
+==Composition==
+The pie is often constructed with [[shortcrust pastry]] or other stable base crust. The crust is usually topped with a pastry lid,<ref>{{cite web|url=https://www.deliaonline.com/recipes/bacon-and-egg-pies,1761,RC.html|title=Bacon and Egg Pies|date=9 November 2015|work=deliaonline.com|access-date=18 June 2016}}</ref> but is sometimes left open.<ref>{{cite web|url=https://www.bettycrocker.com/recipes|title=Recipes|work=bettycrocker.com|access-date=18 June 2016}}</ref>
+
+A bacon and egg pie differs from a [[quiche]], most notably due to the absence of [[cheese]] and [[milk]] and the presence of an upper crust. Also the eggs are not beaten and are whole, or at the most yolks pierced. The pie also tends to have a heavier texture and feel, and is generally high in calories.
+
+Although the bacon and egg combination is not unique to any country, its use in modern cooking is notable in the United Kingdom, New Zealand, Canada and Australia.<ref>{{cite web|url=https://theculturetrip.com/pacific/new-zealand/articles/a-brief-history-of-the-new-zealand-meat-pie/|title=A Brief History of The New Zealand Meat Pie|author=Thalita Alves|date=2017-05-07|publisher=Culture Trip}}</ref> Recipes for it have been found as early as ''[[The Experienced English Housekeeper]]'' in 1769.<ref>{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11722297|title=Tui Flower shares a slice of bacon and egg pie history|author=Sarah Harris|date=9 October 2016|work=New Zealand Herald|access-date=20 May 2017}}</ref>
+
+==See also==
+{{Portal|Food}}
+* [[Cornish pasty]]
+* [[List of pies, tarts and flans]]
+* [[Quiche]]
+* [[Steak and kidney pie]]
+* [[Bacon, egg and cheese sandwich]]
+
+==References==
+{{Reflist}}
+{{Bacon}}
+{{British pies}}
+
+{{DEFAULTSORT:Bacon And Egg Pie}}
+[[Category:Bacon dishes]]
+[[Category:British pies]]
+[[Category:English cuisine]]
+[[Category:New Zealand pies]]
+[[Category:Savoury pies]]
+[[Category:Australian pies]]
+[[Category:National dishes]]
+[[Category:Egg dishes]]
+
+
+{{bacon-stub}}
+{{pie-stub}}

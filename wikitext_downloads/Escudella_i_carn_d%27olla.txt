@@ -1,0 +1,51 @@
+{{Short description|Traditional Catalan and Valencian soup}}
+{{Refimprove|date=June 2019}}
+{{Italics title}}
+{{Infobox food
+| name               = ''Escudella i carn d'olla''
+| image              = File:Escudella Catalana - Barcelona (2011).JPG
+| image_size         = 250px
+| caption            = 
+| alternate_name     = ''Escudella''
+| place_of_origin    = {{flag|Spain}}
+| region             = {{plainlist|
+{{flag|Catalonia}}
+{{flag|Valencian Community}}
+}}
+| creator            = 
+| course             = 
+| type               = [[Soup]]
+| served             = 
+| main_ingredient    = ''Pilota'' (large spiced [[meatball]]), [[vegetable]]s
+| variations         = ''Escudella de pagès''
+}}
+
+[[File:Escudella.jpg|thumb|A bowl of ''escudella'' with pasta]]
+'''''Escudella i carn d'olla''''', or shorter '''''escudella''''' ({{IPA|ca|əskuˈðeʎə|label=Eastern Catalan:}}; {{literally|bowl}}), is a traditional [[Catalan cuisine|Catalan]] and [[Valencian cuisine|Valencian]] [[soup]] made with [[meat]] and [[Vegetable|vegetables]].<ref>{{cite book | last=Ichijo | first=A. | last2=Johannes | first2=V. | last3=Ranta | first3=R. | title=The Emergence of National Food: The Dynamics of Food and Nationalism | publisher=Bloomsbury Publishing | year=2019 | isbn=978-1-350-07414-9 | url=https://books.google.com/books?id=TKJ-DwAAQBAJ&pg=PA90 | access-date=20 June 2019 | page=90}}</ref> [[Francesc Eiximenis]] wrote in the 14th century that it was eaten every day by Catalan people.<ref name=fabrega>''Totes les sopes: Brous, escudelles i sopes d'arreu'', de [[Jaume Fàbrega]]. Cossetània Edicions, 2008. {{ISBN|978-84-9791-394-2}} {{in lang|ca}}</ref>
+
+It is characterized by the use of a '''''pilota''''', a very big meatball spiced with garlic and parsley; it also contains vegetables as celery, cabbage, carrots, etc.<ref name="Song Riera 2019"/> depending on the season. Additionally, bones, sausages called ''[[botifarra]]'', and other types of meat, can be used.
+
+==Service==
+''Escudella'' is typically served in two parts:
+* The ''escudella'' proper is a soup consisting of a broth with pasta, rice or both.
+* The ''carn d'olla'' is all the meat used in the broth, served afterwards in a tray along with the vegetables used.<ref>{{cite book | last=Andrews | first=C. | title=Catalan Cuisine: Europe's Last Great Culinary Secret | publisher=Grub Street | year=1997 | isbn=978-1-898697-76-3 | url=https://books.google.com/books?id=zFJEBgAAQBAJ&pg=PA254 | access-date=20 June 2019 | page=254-256}}</ref>
+
+When both parts are served mixed together, it is called ''escudella barrejada'' or ''escudella de pagès''.
+
+==''Escudella de Nadal''==
+There is a particular version of this soup that can be called "''escudella de Nadal''" (Christmas soup) or either "''sopa de galets''" (galets' soup), and is very typical on Christmas Day.<ref name=fabrega /><ref>{{cite book | last=Nadeau | first=C.A. | title=Food Matters: Alonso Quijano's Diet and the Discourse of Food in Early Modern Spain | publisher=University of Toronto Press | series=Toronto Iberic | year=2016 | isbn=978-1-4426-3730-6 | url=https://books.google.com/books?id=SLyqCwAAQBAJ&pg=PA121 | access-date=20 June 2019 | page=121}}</ref> It includes meat from four different animals, a ''pilota'', several vegetables and the traditional special type of pasta, known as ''galets'', which are snail-shaped and notable for their considerable size.
+
+==See also==
+* [[Catalan cuisine]]
+* [[List of soups]]
+
+==References==
+{{Reflist|refs=
+<ref name="Song Riera 2019">{{cite book | last=Song | first=H.R. | last2=Riera | first2=A. | title=A Taste of Barcelona: The History of Catalan Cooking and Eating | publisher=[[Rowman & Littlefield Publishers]] | series=Big City Food Biographies | year=2019 | isbn=978-1-5381-0784-3 | url=https://books.google.com/books?id=VdKcDwAAQBAJ&pg=PA181 | access-date=20 June 2019 | page=181-183}}</ref>
+}}
+
+[[Category:Catalan cuisine]]
+[[Category:Spanish soups and stews]]
+[[Category:Meat stews]]
+[[Category:Andorran cuisine]]
+[[Category:National dishes]]

@@ -1,0 +1,53 @@
+{{short description|Lithuanian potato dish}}
+{{Infobox food
+| name = Cepelinai
+| image = Cepelinai 2, Vilnius, Lithuania - Diliff.jpg
+| image_size = 250px
+| caption = Cepelinai served with sour cream sauce and bacon bits
+| country = [[Lithuania]]
+| region = 
+| creator = 
+| course = 
+| type = [[Dumpling]]
+| served = 
+| main_ingredient = [[Potato]]es, ground meat or dry [[cottage cheese]] ([[curd]]) or mushrooms
+| variations = 
+| calories = 
+| other = 
+}}
+'''Cepelinai'''<ref name="Jacob Ashkenazi 2014 p. 793">{{cite book | last1=Jacob | first1=J. | last2=Ashkenazi | first2=M. | title=The World Cookbook: The Greatest Recipes from Around the Globe, 2nd Edition &#91;4 Volumes&#93;: The Greatest Recipes from Around the Globe | publisher=ABC-CLIO | year=2014 | isbn=978-1-61069-469-8 | url=https://books.google.com/books?id=GmqEAwAAQBAJ&pg=PA793 | access-date=November 5, 2016 | pages=793–794}}</ref> ({{abbrlink|lit.|literal translation}} "zeppelins"; [[Grammatical number|singular]]: ''cepelinas'') are potato dumplings made from grated [[potato]]es and stuffed with ground meat, dry [[Quark (dairy product)|curd cheese]], liver, or mushrooms. It has been described as a [[national dish]] of [[Lithuania]],<ref name="Albala 2011 p. 3-PA226">{{cite book | last=Albala | first=K. | title=Food Cultures of the World Encyclopedia | publisher=Greenwood | issue=v. 1 | year=2011 | isbn=978-0-313-37626-9 | url=https://books.google.com/books?id=NTo6c_PJWRgC&pg=RA3-PA226 | access-date=November 5, 2016 | page=3-PA226}}</ref><ref name="McLachlan 2008 p. 61">{{cite book | last=McLachlan | first=G. | title=Lithuania | publisher=Bradt Travel Guides | series=Bradt Guides | year=2008 | isbn=978-1-84162-228-6 | url=https://books.google.com/books?id=pDdqGoXvSvYC&pg=PA61 | access-date=November 5, 2016 | page=61}}</ref> and is typically served as a main dish.<ref name="Jacob Ashkenazi 2014 p. 793"/>
+ 	
+Originally called didžkukuliai, or dumb-bells, they were renamed modishly in honour of Count Ferdinand von Zeppelin, pioneer of the rigid airship, in 1900. Cepelinai shape resembles of a [[Zeppelin|Zeppelin airship]],.<ref name="Jacob Ashkenazi 2014 p. 793"/> Cepelinai are typically around 10–30&nbsp;cm long, although the size depends on where they are made: in the western [[Subdivisions of Lithuania|counties]] of Lithuania cepelinai are made bigger than in the east.{{Citation needed|date=January 2015}} In [[Samogitia]] cepelinai are called ''cepelinā''.
+
+After boiling, the ''cepelinai'' are often served with [[sour cream]] sauce and [[bacon]] bits<ref name="Jacob Ashkenazi 2014 p. 793"/> or [[pork rind]]s.
+
+In the [[Suwałki Region]], [[Podlachia]], [[Warmia]] and [[Masuria]], it is known as ''kartacz'' ({{abbrlink|pol.|literal translation}}: ''grapeshot''). It is a part of the cuisine of north-eastern [[Poland]].{{Cn|date=February 2025}} 
+
+Similar dishes include Polish [[Pyzy (dish)|pyzy]], Swedish [[kroppkaka]], Acadian [[poutine râpée]], Norwegian [[raspeball]], German [[Knödel|Kartoffelklöße]] and Italian [[Knödel|canederli]].<gallery widths=200px heights=150px>
+File:Cepelinai 2, Vilnius, Lithuania - Diliff.jpg|Cepelinai with ground meat cut open
+File:Karmėlavos Cepelinas.JPG|Large cepelinas served with [[pork rinds]]
+</gallery>
+
+==See also==
+* [[Ba-wan]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080512164015/http://ausis.gf.vu.lt/eka/food/potatoes.html Potato dishes of Lithuania]
+
+{{portalbar|Food|Lithuania}}
+{{Potato dishes}}
+{{Dumplings}}
+
+[[Category:Lithuanian cuisine]]
+[[Category:Polish cuisine]]
+[[Category:Potato dishes]]
+[[Category:Dumplings]]
+[[Category:National dishes]]
+
+
+{{Lithuania-cuisine-stub}}
+
+[[no:Raspeball]]

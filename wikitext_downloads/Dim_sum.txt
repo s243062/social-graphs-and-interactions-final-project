@@ -1,0 +1,757 @@
+{{Short description|Chinese cuisine}}
+{{Distinguish|Dim sim}}
+{{other uses}}
+{{Use dmy dates|date=September 2021}}
+{{use American English|date=September 2020}}
+{{Infobox Chinese
+| title = Dim sum
+| pic = Dim Sum Trang.jpg
+| pic2 = Chinese DimSum (9023590541).jpg
+| t = {{linktext|點心}}
+| s = {{linktext|点心}}
+| showflag = jy
+| p = diǎnxīn
+| tp = diǎn-sin
+| w = {{tone superscript|tien3-hsin1}}
+| mi = {{IPAc-cmn|d|ian|3|.|x|in|1}}
+| bpmf = ㄉㄧㄢˇ ㄒㄧㄣ
+| j = dim2 sam1
+| y = dím sām
+| ci = {{IPAc-yue|d|im|2|-|s|am|1}}
+| h = tiám-sîm
+| l = "Touch the heart"
+}}
+
+'''Dim sum''' ({{lang-zh|t={{linktext|點心}}|p=diǎn xīn|c=|s={{linktext|点心}}|first=t|j=dim2 sam1}}) is a large range of small Chinese dishes that are traditionally enjoyed in restaurants for [[brunch]].<ref name=":9">{{Cite book |last1=Davidson |first1=Alan  |last2=Jaine |first2=Tom |last3=Vannithone |first3=Soun |year=2014 |title=The Oxford companion to food |edition=3rd |url=https://books.google.com/books?id=RL6LAwAAQBAJ |location=New York, NY |isbn=978-0-19-967733-7|oclc=890807357}}</ref><ref name=":10" />{{page needed | date=March 2025}} Most modern dim sum dishes are commonly associated with [[Cantonese cuisine]], although dim sum dishes also exist in other Chinese cuisines. In the tenth century, when the city of Canton ([[Guangzhou]]) began to experience an increase in commercial travel,<ref name=":0" /> many frequented [[teahouses]] for small-portion meals with tea called "''[[yum cha]]''" ([[brunch]]).<ref name=":11" />{{page needed | date=May 2025}}<ref name=":0" />{{page needed | date=May 2025}}<ref name=":13" />{{page needed | date=May 2025}} "''Yum cha''" includes two related concepts.<ref name=":14" /> The first is "[[One bowl with two pieces|jat zung loeng gin]]" ({{lang-zh|  {{linktext|一盅兩件}}}}), which translates literally as "one cup, two pieces". This refers to the custom of serving teahouse customers two delicately made food items, savory or sweet, to complement their tea. The second is ''dim sum'', which translates literally to "touch the heart", the term used to designate the small food items that accompanied the tea.
+
+Teahouse owners gradually added various snacks called dim sum to their offerings. The practice of having tea with dim sum eventually evolved into the modern "''yum cha''".<ref name=":0" /> Cantonese dim sum culture developed rapidly during the latter half of the nineteenth century in Guangzhou.<ref name=":4" /> Cantonese dim sum was originally based on local foods.<ref name=":4" /> As dim sum continued to develop, chefs introduced influences and traditions from other regions of China.<ref name=":4" /> Cantonese dim sum has a very broad range of flavors, textures, cooking styles, and ingredients<ref name=":4" /> and can be classified into regular items, seasonal offerings, weekly specials, banquet dishes, holiday dishes, house signature dishes, and travel-friendly items, as well as breakfast or lunch foods and late-night snacks.<ref name=":4" />
+
+Some estimates claim that there are at least two thousand types of dim sum in total across China, but only about forty to fifty types are commonly sold outside of China.<ref name=":7">{{Cite web |title=What Is Dim Sum? Chinese Dim Sum, Most Popular Dim Sum Dishes |url=https://www.chinaeducationaltours.com/guide/culture-chinese-food-dim-sum.htm |access-date=2022-06-30 |website=China Educational Tours |language=en}}</ref><ref name=":28">{{Cite web |date=2019-02-14 |title=Why dumplings - the ultimate comfort food - are so popular right now |url=https://inews.co.uk/inews-lifestyle/food-and-drink/dumplings-trend-recipe-xiaolongbao-london-din-tai-fung-georgian-jewish-257681 |access-date=2022-04-20 |website=inews.co.uk |language=en}}</ref> There are over one thousand dim sum dishes originating from [[Guangdong]] alone, a total that no other area in China comes even close to matching. In fact, the cookbooks of most Chinese food cultures tend to combine their own variations on dim sum dishes with other local snacks. But that is not the case with Cantonese dim sum, which has developed into a separate branch of cuisine.<ref name=":1" /><ref name=":4" />
+
+Dim sum restaurants typically have a wide variety of dishes, usually totaling several dozen.<ref name=":16" /><ref name="Dim Sum Guide Glossary">{{Cite web|title=A Visual Glossary for Dim Sum!|url=https://dimsumguide.com/site/all|access-date=2022-02-23|website=Dim Sum Guide |language=en}}</ref> The tea is very important, just as important as the food.<ref name="NYT 1981" /><ref name=":17" /> Many Cantonese restaurants serve dim sum as early as five in the morning,<ref name="Jacobs 2017">{{Cite web|last=Jacobs |first=Harrison |title=Here's how to navigate one of the most epic New York food traditions — 'Dim Sum' in Chinatown|url=https://www.businessinsider.com/what-is-dim-sum-best-new-york-city-chinatown-chinese-food-nyc-2017-11|access-date=3 July 2020|website=[[Business Insider]]|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703183630/https://www.businessinsider.com/what-is-dim-sum-best-new-york-city-chinatown-chinese-food-nyc-2017-11|url-status=live}}</ref><ref name=":18" /> while more traditional restaurants typically serve dim sum until mid-afternoon.<ref name="Jacobs 2017" /><ref name="Time guide" /><ref name="NYT" /> Some restaurants in Hong Kong and Guangdong province even offers dim sum all day till late night.<ref>{{Cite web |last=Wiens |first=Mark |date=2010-01-06 |title=Eating Cultural Dim Sum in Hong Kong |url=https://migrationology.com/5-conclusions-about-late-night-dim-sum-in-hong-kong/ |access-date=2025-02-18 |website=Migrationology - Food Travel Blog |language=en}}</ref><ref>{{Cite web |date=2021-09-06 |title=Very Early or Extremely Late Dim Sum at Sun Hing Restaurant - Foodie |url=https://www.afoodieworld.com/blog/2021/09/06/very-early-or-extremely-late-dim-sum-at-sun-hing-restaurant/ |access-date=2025-02-18 |language=en-GB}}</ref><ref>{{Cite web |date=2018-03-30 |title=The Ultimate Guangzhou Food Guide - The Food Ranger |url=https://www.thefoodranger.com/the-ultimate-guangzhou-food-guide/ |access-date=2025-02-18 |website=www.thefoodranger.com |language=en-US}}</ref><ref>{{Cite web |last=Hayes |first=Janice Leung |date=2018-03-05 |title=19 Best Dim Sum Spots in Hong Kong |url=https://www.cntraveler.com/gallery/best-dim-sum-in-hong-kong |access-date=2025-02-18 |website=Condé Nast Traveler |language=en-US}}</ref>  Dim sum restaurants have a unique serving method where servers offer dishes to customers from steam-heated carts.<ref name=":1" /><ref name="Phillips 2016" /><ref name=":20" /> It is now commonplace for restaurants to serve dim sum at dinner and sell various dim sum items [[à la carte]] for [[takeout]].<ref name=":19" /> In addition to traditional dim sum, some chefs also create and prepare new fusion-based dim sum dishes.<ref name=":21" /><ref name=":22" /><ref name=":23" /><ref name=":24" /> There are also variations designed for visual appeal on social media, such as dumplings and buns made to resemble animals.<ref name=":25" /><ref name="Andrea Brown">{{Cite web|last=Andrea Brown |date=1 March 2018|title=Piggy buns at Fashion Dim Sum will put a smile on your face|url=https://www.heraldnet.com/life/piggy-buns-at-fashion-dim-sum-will-put-a-smile-on-your-face/|access-date=3 September 2020|website=HeraldNet.com |language=en-US |archive-date=20 January 2021|archive-url=https://web.archive.org/web/20210120151748/https://www.heraldnet.com/life/piggy-buns-at-fashion-dim-sum-will-put-a-smile-on-your-face/|url-status=live}}</ref>
+
+== Etymology ==
+The original meaning of the term "''dim sum''" remains unclear and contested.<ref>{{Cite web |url=https://www.bastillepost.com/hongkong/article/1116073-%E9%BB%9E%E5%BF%83%E9%BB%9E%E8%A7%A3%E5%8F%AB%E3%80%8C%E9%BB%9E%E5%BF%83%E3%80%8D%EF%BC%9F |title=點心點解叫「點心」？ |year=2016 |website=Bastille Post |language=zh-hk |access-date=8 June 2019 |archive-date=8 June 2019 |archive-url=https://web.archive.org/web/20190608182556/https://www.bastillepost.com/hongkong/article/1116073-%e9%bb%9e%e5%bf%83%e9%bb%9e%e8%a7%a3%e5%8f%ab%e3%80%8c%e9%bb%9e%e5%bf%83%e3%80%8d%ef%bc%9f |url-status=live}}</ref> Some references state that the term originated in the [[Eastern Jin dynasty]] (317 AD–420 AD).<ref>{{Cite book |title=精選美食王 |last=施 |first=莉雅 |publisher=萬里 |year=2013 |language=zh}}</ref><ref name="Su 2011">{{Cite book |title=人人都要學的三分鐘國文課5: 常用詞語篇 |last=蘇 |first=建新 |publisher=如果出版社 |year=2011 |language=zh}}</ref> According to one legend, to show soldiers gratitude after battles, a general had civilians make buns and cakes to send to the front lines. "Gratitude" or 點點心意 ({{lang-zh|p=diǎn diǎn xīn yì |j=dim2 dim2 sam1 ji3}}), later shortened to {{wikt-lang|zh|點心}}, of which {{lang|zh-Latn|dim sum}} is the Cantonese pronunciation, came to represent dishes made similarly.
+
+Some versions date the legend to the [[Song dynasty|Southern Song dynasty]] (960–1279) after the term's earliest attestation in the ''[[Old Book of Tang|Book of Tang]]'' ({{lang-zh|t=唐書|p=Táng shū |j=Tong4 Syu1}}).<ref name="Su 2011" /> Written in the [[Five Dynasties and Ten Kingdoms period]] (907–979), the book uses 點心 as a verb instead: 「治妝未畢, 我未及餐, 爾且可點心」({{lang-zh|p="Zhì zhuāng wèi bì, wǒ wèi jí cān, ěr qiě kě diǎn xīn" |j="Zi6 zong1 mei6 bat1, ngo5 mei6 kap6 caan1, ji5 ce2 ho2 dim2 sam1"}}), which translates to "I have not finished preparing myself and am not ready for a proper meal; therefore, you can treat yourself to some small snacks."<ref name="Su 2011" />{{page needed | date=November 2025}} In this context, "dim sum" means "to barely fill your stomach".<ref name="Su 2011" />{{page needed | date=November 2025}} Dim sum dishes are usually associated with "''[[yum cha]]''" ({{lang-zh|t=飲茶 |cy=yám chàh |p=yǐn chá}}), which is known as the [[Cantonese cuisine|Cantonese]] [[brunch]] tradition.<ref name=":2">{{Cite web|title=Yum Cha – Cantonese Tea Brunch Tradition|url=https://www.travelchinaguide.com/chinese-yum-cha.htm|access-date=5 August 2020|website=travelchinaguide.com|archive-date=17 January 2021|archive-url=https://web.archive.org/web/20210117193526/https://www.travelchinaguide.com/chinese-yum-cha.htm|url-status=live}}</ref>'''''<ref name=":8">{{Cite web|last=Gao |first=Sally |title=6 Things You Should Know Before Eating Dim Sum In Hong Kong|url=https://theculturetrip.com/asia/china/hong-kong/articles/six-things-you-should-know-when-eating-dim-sum-in-hong-kong/|access-date=5 August 2020|website=Culture Trip|date=22 November 2016|archive-date=31 October 2020 |archive-url=https://web.archive.org/web/20201031201319/https://theculturetrip.com/asia/china/hong-kong/articles/six-things-you-should-know-when-eating-dim-sum-in-hong-kong/|url-status=live}}</ref>'''''  Chinese food historian [[Yan-kit So]] has described dim sum as:<ref>{{Cite book |last1=Jaine |first1=Tom |title=[[The Oxford Companion to Food]] |last2=Vannithone |first2=Soun |publisher=[[Oxford University Press]] |year=2014 |isbn=978-0-19-967733-7 |edition=3 |location=New York |publication-date=2014 |oclc=890807357 |author-link=Tom Jaine}}</ref><ref name=":10">{{Cite book|author=So, Yan-kit |title=Classic food of China |date=April 1997|isbn=0-333-56907-5|publisher= [[Macmillan Publishers]] |location=London |oclc=32049410|author-link=Yan-kit So}}</ref><blockquote>Literally translated as "so close to the heart", they are, in reality, a large range of hors d'oeuvres Cantonese people traditionally enjoy in restaurants (previously teahouses) for breakfast and lunch but never for dinner, washed down with tea. "Let's go yum cha" (to drink tea) is understood among the Cantonese to mean going to a restaurant for dim sum; such is the twin linkage between the food and the beverage.</blockquote>
+
+== Cuisine ==
+There are at least two thousand types of dim sum in total across China,<ref name=":7" /><ref name=":28" /> and over one thousand available in Guangdong alone.<ref name=":4" /><ref name=":1">{{Cite book|last=Simoons, Frederick J.|title=Food in China: A Cultural and Historical Inquiry |date=1991|publisher=[[CRC Press]]|isbn=0-8493-8804-X|location=Boca Raton |oclc=20392910}}</ref><ref name=":26">{{Cite book|title=Entertaining from Ancient Rome to the Super Bowl: An Encyclopedia |date=2008|publisher=[[Greenwood Press]]|others=Adamson, Melitta Weiss., Segan, Francine.|isbn=978-0-313-08689-2|location=Westport, Conn.|oclc=273865320}}</ref> Dim sum are usually eaten as breakfast or [[brunch]].<ref name="Time guide">{{Cite magazine|title=How to Order Dim Sum, According to the Head Chef of the First Chinese Restaurant in North America to Receive a Michelin Star|url=https://time.com/5750814/dim-sum-ordering-guide/|access-date=3 July 2020|magazine=[[Time (magazine)|Time]]|archive-date=2 July 2020|archive-url=https://web.archive.org/web/20200702222220/https://time.com/5750814/dim-sum-ordering-guide/|url-status=live}}</ref><ref name="NYT">{{Cite news|title=Dim Sum |newspaper=[[The New York Times]] |url=https://archive.nytimes.com/www.nytimes.com/fodors/top/features/travel/destinations/asia/china/hongkong/fdrs_feat_74_5.html |access-date=3 July 2020 |archive-date=5 July 2020|archive-url=https://web.archive.org/web/20200705025109/https://archive.nytimes.com/www.nytimes.com/fodors/top/features/travel/destinations/asia/china/hongkong/fdrs_feat_74_5.html |url-status=live}}</ref> Cantonese dim sum has a very broad range of flavors, textures, cooking styles, and ingredients,<ref name=":4" /> and can be classified into regular items, seasonal offerings, weekly specials, banquet dishes, holiday dishes, house signature dishes, travel-friendly, as well as breakfast or lunch foods and late night snacks.<ref name=":4" />
+
+The subtropical climate of the southeast quadrant of Guangdong partly influences dim sum's portion size.<ref name=":4" /> It can cause a decrease in appetite,<ref>{{Cite web|title=How the hot weather impacts your appetite|url=https://www.krem.com/article/news/health/how-the-hot-weather-impacts-your-appetite/293-579151592|access-date=14 August 2020|website=krem.com |date=31 July 2018 |language=en-US |archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130724/https://www.krem.com/article/news/health/how-the-hot-weather-impacts-your-appetite/293-579151592|url-status=live}}</ref> so that people prefer eating scaled-down meals throughout the day rather than the customary three large meals.<ref name=":4" /> Teahouses in Guangzhou served "three teas and two meals," which included lunch and dinner, and breakfast, afternoon, and evening teas with dim sum.<ref name=":4" />
+
+Many dim sum dishes are made of seafood, chopped meats, or vegetables wrapped in dough or thin wrappings and steamed, deep-fried, or pan-fried.<ref name="Asia Society">{{Cite web|title=What Is Dim Sum? The Beginner's Guide to South China's Traditional Brunch Meal|url=https://asiasociety.org/reference/what-dim-sum-beginners-guide-south-chinas-traditional-brunch-meal|access-date=3 July 2020|website=[[Asia Society]]|date=25 July 2017 |language=en |archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703054952/https://asiasociety.org/reference/what-dim-sum-beginners-guide-south-chinas-traditional-brunch-meal|url-status=live}}</ref><ref name=":1" /><ref>{{Cite web|title=The best thing you're not ordering at a dim sum restaurant|url=https://thetakeout.com/the-best-thing-you-re-not-ordering-at-a-dim-sum-restaur-1798256096|access-date=3 July 2020|website=The Takeout |date=7 December 2017 |language=en-us |archive-date=5 July 2020 |archive-url=https://web.archive.org/web/20200705070828/https://thetakeout.com/the-best-thing-you-re-not-ordering-at-a-dim-sum-restaur-1798256096 |url-status=live}}</ref> A traditional dim sum brunch includes various types of steamed buns, such as ''[[cha siu bao]]'' (a steamed bun filled with barbecue pork), [[rice]] or [[wheat]] [[dumplings]], and [[rice noodle rolls]] that contain a range of [[ingredients]], including [[beef]], chicken, pork, [[prawns]], and [[vegetarianism|vegetarian]] options.<ref name="Spruce Eats2">{{Cite web|title=Your Complete Guide to Dim Sum, the Traditional Chinese Brunch|url=https://www.thespruceeats.com/delicious-dim-sum-chinese-brunch-694544|access-date=3 July 2020|website=The Spruce Eats |language=en |archive-date=10 June 2020|archive-url=https://web.archive.org/web/20200610175750/https://www.thespruceeats.com/delicious-dim-sum-chinese-brunch-694544|url-status=live}}</ref><ref name="Dim Sum Guide">{{Cite web|title=The Ultimate Guide to Dim Sum!|url=https://dimsumguide.com/site/page/the-ultimate-guide-to-dim-sum|access-date=2022-02-23|website=Dim Sum Guide |language=en}}</ref> Many dim sum restaurants also offer plates of steamed green vegetables, stuffed eggplant, stuffed green peppers, roasted meats, [[congee]] and other soups.<ref>{{Cite web|title=Your Ultimate Guide to a Typical Chinese Dim Sum Menu|url=https://www.thespruceeats.com/dim-sum-menu-translator-694589|access-date=3 July 2020|website=The Spruce Eats |language=en |archive-date=24 September 2020|archive-url=https://web.archive.org/web/20200924111116/https://www.thespruceeats.com/dim-sum-menu-translator-694589|url-status=live}}</ref> Dessert dim sum is also available and can be ordered at any time since there is not a set sequence for the meal.<ref name="Spoon Uni 2014" /><ref name="Epicurious etiquette" />
+
+It is customary to order "family-style", sharing the small dishes consisting of three or four pieces of dim sum among all members of the dining party.<ref name="Time guide" /><ref name="NYT" /><ref name="Millson 2017">{{Cite news|last=Millson |first=Alex |date=6 December 2017|title=Six Rules for Eating Dim Sum Like a Pro: A top chef in Hong Kong tells all |work=bloomberg.com}}</ref><ref name="Epicurious etiquette">{{Cite web|title=Dim Sum Etiquette - Chinese/Lunar New Year|url=https://www.epicurious.com/archive/holidays/lunarnewyear/dim-sum|access-date=3 July 2020|website=[[Epicurious]]|date=5 January 2012 |language=en|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703092001/https://www.epicurious.com/archive/holidays/lunarnewyear/dim-sum|url-status=live}}</ref> Small portion sizes allow people to try a wide variety of food.<ref name="NYT" />
+
+=== Dishes ===
+Dim sum restaurants typically have a wide variety of dishes, usually several dozen.<ref name=":16">{{Cite web|last=TODAY |first=Larry Olmsted, special for USA |title=Great American Bites: Ping's serves savory dim sum in NYC's Chinatown|url=https://www.usatoday.com/story/travel/columnist/greatamericanbites/2013/01/02/great-american-bites-pings-serves-savory-dim-sum-in-nycs-chinatown/1804925/|access-date=16 August 2020|website=USA Today |language=en-US |archive-date=4 March 2020|archive-url=https://web.archive.org/web/20200304064036/https://www.usatoday.com/story/travel/columnist/greatamericanbites/2013/01/02/great-american-bites-pings-serves-savory-dim-sum-in-nycs-chinatown/1804925/|url-status=live}}</ref>
+
+==== Dumplings ====
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+|[[Har gow|Shrimp dumpling]]
+|[[File:Ha Gow (Cantonese Shrimp Dumplings).jpeg|150px]]
+|({{lang|zh-hant|蝦餃}}; haa1 gaau2)
+|steamed dumpling with shrimp filling.<ref>{{Cite book|title=Food Cultures of the World Encyclopedia |last=Albala |first=Ken |publisher=[[ABC-Clio]]|year=2011|isbn=978-0-313-37626-9|volume=3|pages=89}}</ref>
+|-
+|[[Fun guo|Teochew dumpling]]
+|[[File:Chaozhoufenguo.jpg|150px]]
+|({{lang-zh|t=潮州粉粿|cy=Chìu jāu fán gwó|p=cháozhōu fěnguǒ|labels=no|j=ciu4zau1 fan2gwo2}})
+|steamed dumpling with [[peanut]]s, [[garlic]], [[Allium tuberosum|Chinese chives]], pork, dried shrimp, and [[Shiitake|Chinese mushrooms]].<ref name="Stone 2009 p. 22">{{cite book|last=Stone|first=A.|url=https://books.google.com/books?id=7adZrrlYHw8C&pg=PA22|title=Hong Kong. Con Cartina. Ediz. Inglese |publisher=[[Lonely Planet]]|year=2009|isbn=978-1-74220-514-4|series=Best Of Series |page=22|access-date=5 November 2016|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130733/https://books.google.com/books?id=7adZrrlYHw8C&pg=PA22|url-status=live}}</ref>
+|-
+|Chive dumpling 
+|[[File:Food (27942342621).jpg|150px]]
+|({{lang-zh|t=韭菜餃|labels=no|j=gau2coi3 gaau2}})
+|steamed dumpling with Chinese chives.<ref>{{cite book
+ |last1=Tse
+ |first1=Helen
+ |last2=Tse
+ |first2=Lisa
+ |date=8 August 2016
+ |title=A Chinese Street Food Odyssey
+ |url=https://books.google.com/books?id=XPQcDQAAQBAJ&q=Chive+dumpling+%E9%9F%AD%E8%8F%9C%E9%A4%83+dim+sum&pg=PT153
+ |location=[[London]]
+ |publisher=[[Pavilion Books]]
+ |page=<!-- or pages= -->
+ |isbn=9781911216568
+ |access-date=5 October 2020
+ |archive-date=5 October 2020
+ |archive-url=https://web.archive.org/web/20201005130738/https://books.google.com/books?id=XPQcDQAAQBAJ&q=Chive+dumpling+%E9%9F%AD%E8%8F%9C%E9%A4%83+dim+sum&pg=PT153
+ |url-status=live
+ }}</ref>
+|-
+|[[Xiaolongbao]]
+|[[File:HK 灣仔 Wan Chai 柯布連道 30號 Obrien Road shop 三六九飯店 369 Restaurant Shanghai Food diner February 2019 SSG 20.jpg|150px]]
+|{{lang-zh|s=小笼包|t=小籠包|p=xiǎolóngbāo|cy=síu lùhng bāau|labels=no|j=siu2lung4baau1}}
+|dumplings containing a rich broth and filled with meat or seafood.<ref>古時面皮中有餡之物方稱爲饅頭。見曾维华，〈古代的馒头〉，《上海师范大学学报（哲学社会科学版）》1995年第2期，页157。</ref>
+|-
+|[[Tangbao]]
+|[[File:开封第一楼小笼包.JPG|150px]]
+|{{lang-zh|s=灌汤包|t=|p=|cy=|labels=no|j=}}
+| soup-filled steamed buns
+|-
+|[[Jiaozi#Guotie|Guotie]]  
+|[[File:Noodlecat - Lee Anne Wong - "Lucky Dumpring Jiao Zi" (6739677033).jpg|150px]]
+|{{lang-zh|t=鍋貼|cy=wōtip |p=guōtiē |labels=no}}
+|pan-fried dumpling, usually with meat and cabbage filling.<ref>{{Cite web|last=Fong |first=Nathan |title=Potstickers: A tasty traditional dish for Lunar New Year |url=https://vancouversun.com/life/Potstickers+tasty+traditional+dish+Lunar+Year/7922860/story.html |website=[[The Vancouver Sun]] |date=5 February 2013 |access-date=15 August 2020|archive-date=10 December 2018 |archive-url=https://web.archive.org/web/20181210172829/http://www.vancouversun.com/life/potstickers+tasty+traditional+dish+lunar+year/7922860/story.html |url-status=dead}}</ref><ref>{{Cite book|last=Parkinson |first=Rhonda Lauret |title=The Everything Chinese Cookbook: From Wonton Soup to Sweet and Sour Chicken |publisher=[[Simon & Schuster Canada]], Inc.|year=2003}}</ref>
+|-
+|[[Shark fin dumpling]]
+|[[File:Shark fin dumplings, Holiday Restaurant, Semarang, 2014-06-19.jpg|150px]]
+|{{lang-zh|s=|p= |t=魚翅餃|cy= |labels=no}} 
+|steamed dumplings with shrimp, crab sticks, shiitake, and straw mushrooms. 
+|-
+|[[Shumai]]
+|[[File:HK SW 上環 Sheung Wan 星月樓 Sky Cuisine Restaurant 飲早茶 morning tea meal steamed Cantonese shrimp shumai April 2021 SS2 09.jpg|150px]]
+|{{lang-zh|s=烧卖|p=shāomài |t=燒賣|cy=sīu máai |labels=no}} 
+|steamed dumplings with pork and prawns, usually topped off with crab [[roe]] and mushroom.<ref name="Hsiung">Hsiung, Deh-Ta. Simonds, Nina. Lowe, Jason. [2005] (2005). The food of China: a journey for food lovers. Bay Books. {{ISBN|978-0-681-02584-4}}. p 38.</ref>
+|-
+|[[Taro dumpling]] 
+|[[File:Fried taro cake.jpg|150px]]
+|{{lang-zh|t=芋角|cy=wuh gok |p=yù jiǎo |labels=no}}
+| deep-fried dumpling made with mashed [[taro]] and stuffed with diced mushrooms, shrimp, and pork.<ref name="chinabaike">{{cite web|title=蜂巢炸芋角|url=http://www.chinabaike.com/article/39/food/2007/20071021602559.html|access-date=6 September 2012|work=chinabaike.com|archive-date=3 February 2019|archive-url=https://web.archive.org/web/20190203143741/http://www.chinabaike.com/article/39/food/2007/20071021602559.html|url-status=live}}</ref>
+|-
+|Haam seui gok 
+|[[File:Salty Pastry 鹹水角 Tim Ho Wan, the Dim-Sum Specialists, Sham Shui Po 添好運點心專門店, 深水埗 SML.20120820.G12.00097 (7885046796).jpg|150px]]
+|{{lang-zh|t=鹹水角|cy=hàahm séui gok|p=xiánshuǐ jiǎo|labels=no}}
+|deep-fried dumpling with a slightly [[umami|savory]]  filling of pork and chopped vegetables in a sweet and sticky wrapping.<ref>{{Cite web|date=6 November 2019|title=Guide to Authentic Dim Sum Dishes for Yum Cha & Zao Cha {{!}} Welcome To China|url=https://welcometochina.com.au/your-one-page-guide-to-yum-cha-dian-xin-5050.html|access-date=15 August 2020|website=welcometochina.com.au|language=en-US|archive-date=5 March 2020|archive-url=https://web.archive.org/web/20200305091504/https://welcometochina.com.au/your-one-page-guide-to-yum-cha-dian-xin-5050.html|url-status=live}}</ref>
+|-
+|Dumpling soup 
+|[[File:2016 0716 Guan Tong Gao.jpg|150px]]
+|{{lang-zh|t=灌湯餃|cy=guntōng gáau |p=guàntāng jiǎo |labels=no}}
+|soup with one or two big dumplings.<ref>{{cite news
+ |last1        = Reinfrank
+ |first1       = Alkira
+ |last2        = Chan
+ |first2       = Bernice
+ |date         = 19 August 2020
+ |title        = The history of xiaolongbao, or soup dumplings: from the outskirts of Shanghai to popular snack loved all over the world
+ |url          = https://www.scmp.com/lifestyle/food-drink/article/3097791/history-xiaolongbao-or-soup-dumplings-outskirts-shanghai
+ |work         = [[South China Morning Post]]
+ |location     = [[Hong Kong]]
+ |access-date  = 1 September 2020
+ |archive-date = 31 August 2020
+ |archive-url  = https://web.archive.org/web/20200831153606/https://www.scmp.com/lifestyle/food-drink/article/3097791/history-xiaolongbao-or-soup-dumplings-outskirts-shanghai
+ |url-status   = live
+}}</ref>
+|-
+|[[Wonton]]
+|[[File:Shaxian County snacks - wonton.jpg|150px]]
+|{{lang-zh|t=雲吞|labels=no}}
+|dumpling filled with ground pork and shrimp
+|-
+|}
+
+==== Rolls ====
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+|[[Spring roll]]  
+|[[File:춘권.jpg|150px]]
+|{{lang-zh|s=春卷|t=春捲|cy=chēun gyún|p=chūnjuǎn|labels=no|j=ceon1 gyun2}}
+|a deep-fried roll with various sliced vegetables (such as carrots, cabbage, mushrooms, and [[Cloud ear fungus|wood ear fungus]]) and sometimes meat.<ref name="yeinjee">{{cite web|author=yeinjee|date=23 January 2008|title=Maxim's Chinese Restaurant, Hong Kong International Airport|url=http://yeinjee.com/food/maxims-chinese-restaurant-hong-kong-international-airport/#more-130|url-status=live|archive-url=https://web.archive.org/web/20110921061318/http://yeinjee.com/food/maxims-chinese-restaurant-hong-kong-international-airport/#more-130|archive-date=21 September 2011|access-date=13 August 2012|work=yeinjee.com}}</ref>
+|-
+|[[Tofu skin roll]] 
+|[[File:09 Fu Pei Guen - tofu skin roll - East Harbor Dim Sum.jpg|150px]]
+|{{lang-zh|t=腐皮捲|cy=fuh pèih gyún |p=fǔpíjuǎn |labels=no}}
+| a roll made of [[tofu skin]] filled with various meats and sliced vegetables.<ref name="Hsiung2">Hsiung, Deh-Ta. Simonds, Nina. Lowe, Jason. [2005] (2005). The food of China: a journey for food lovers. Bay Books. {{ISBN|978-0-681-02584-4}}. p35.</ref>
+|-
+|Fresh bamboo roll 
+|[[File:HK dim sum food - streamed 蒸鮮竹卷芋頭 Feb-2014 MCK.jpg|150px]]
+|{{lang-zh|t=鮮竹卷|labels=no|j=sin1 zuk1 gyun2}}
+|a roll made of tofu skin filled with minced pork and [[bamboo shoot]], typically served in an [[oyster sauce]] broth.<ref>{{cite book
+ |author=蔡潔儀
+ |date=1 June 2011
+ |title=蔡潔儀百味料理：香港糕點
+ |trans-title=Cai's Amazing Cuisines: Hong Kong Snacks
+ |language=zh
+ |url=https://books.google.com/books?id=roNbAwAAQBAJ&q=%E9%AE%AE%E7%AB%B9%E5%8D%B7&pg=PA58
+ |location=Hong Kong
+ |publisher=Wan Li Book
+ |page= 58
+ |isbn=9789621444028
+}}</ref>
+|-
+|Four-treasure chicken roll
+|[[File:雞扎.jpg|150px]]
+|{{lang-zh|t=四寶雞扎|labels=no|j=sei3 bou2 gai1 zaat1}}
+|a roll made of tofu skin filled with chicken, [[Jinhua ham]], [[Swim bladder|fish maw]] ({{lang-zh|t=花膠|labels=no}}), and Chinese mushroom.<ref>{{cite news
+ |author       = Seechai
+ |date         = 20 July 2012
+ |title        = 四寶雞扎油脂高
+ |trans-title  = Four-treasure chicken roll is high in fats
+ |url          = https://hk.news.yahoo.com/四寶雞扎油脂高-223000812.html
+ |language     = zh
+ |work         = [[Sing Tao Daily]]
+ |location     = Hong Kong
+ |access-date  = 1 September 2020
+ |archive-date = 5 October 2020
+ |archive-url  = https://web.archive.org/web/20201005130737/https://hk.news.yahoo.com/%E5%9B%9B%E5%AF%B6%E9%9B%9E%E6%89%8E%E6%B2%B9%E8%84%82%E9%AB%98-223000812.html
+ |url-status   = live
+}}</ref>
+|-
+|[[Cifantuan]]
+|[[File:CiFanTuan.png|150px]]
+|{{lang-zh|t=粢饭团|cy=|p=cífàntuán |labels=no}}
+|steamed  glutinous rice rolls
+|-
+|[[Rice noodle roll]]
+|[[File:Dried shrimp rice noodle roll.jpg|150px]]
+|{{lang-zh|t=腸粉|cy=chéungfán |p=chángfěn |labels=no}}
+|steamed rice noodles with or without meat or vegetable filling. Popular fillings include: beef, dough fritter, shrimp, and [[Char siu|barbecued pork]]. Often served with sweetened [[soy sauce]].<ref>{{cite web|title=晶莹剔透，香滑可口--肠粉|url=http://home.meishichina.com/topic-118.html|access-date=14 July 2015|work=美食天下|language=zh|archive-date=14 June 2019|archive-url=https://web.archive.org/web/20190614151239/https://home.meishichina.com/topic-118.html|url-status=live}}</ref><ref>{{cite news|date=17 August 2014|title=的確涼布 拉出完美腸粉|language=zh|work=[[Apple Daily]]|url=http://hk.apple.nextmedia.com/supplement/food/art/20140817/18832121|access-date=14 July 2015|archive-date=11 October 2017|archive-url=https://web.archive.org/web/20171011044410/http://hk.apple.nextmedia.com/supplement/food/art/20140817/18832121|url-status=live}}</ref>
+|-
+|[[Zhaliang]] 
+|[[File:Zhaliang.jpg|150px]]
+|{{lang-zh|t=炸兩|cy=jaléung|labels=no|j=zaa3 loeng2}}
+|steamed rice noodles rolled around ''[[Youtiao|youjagwai]]'' ({{lang-zh|t=油炸鬼|labels=no}}), typically doused in soy sauce, [[hoisin sauce]], or [[sesame paste]], and sprinkled with [[sesame seeds]].<ref>{{cite web|title=Gallery: The Serious Eats Guide to Dim Sum: Serious Eats|url=http://www.seriouseats.com/2011/04/guide-to-dim-sum-dumplings-siu-mai-bao-chinese-steamed-buns-slideshow.html|access-date=4 October 2016|website=Serious Eats |archive-date=6 October 2016 |archive-url=https://web.archive.org/web/20161006002129/http://www.seriouseats.com/2011/04/guide-to-dim-sum-dumplings-siu-mai-bao-chinese-steamed-buns-slideshow.html |url-status=live}}</ref>
+|-
+|Duckfeet Roll
+|[[File:Duck leg dim sum - Chiang Rai - 2017-07-01.jpg|150px]]
+|鴨腳扎
+|Duck feet wrapped in bean curd sheets.
+|-
+|}
+
+==== Buns ====
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+|[[Char siu baau|Barbecued pork bun]]
+|[[File:Barbeque pork bao.jpg|150px]]<br>[[File:07 Char Siu Bao - Steamed Pork Buns - East Harbor Seafood Palace.jpg|150px]]
+| ({{lang-zh|t=叉燒包|cy=chāsīu bāau |p=chāshāo bāo |labels=no}})
+|bun with barbecued pork filling steamed to be white and fluffy. {{lang-zh|t=叉燒餐包|cy=chāsīu chāan bāau |p=chāshāo cān bāo |labels=no}} is a variant that is glazed and baked for a golden appearance.<ref name="Hsiung3">Hsiung, Deh-Ta. Simonds, Nina. Lowe, Jason. [2005]. ''The Food of China: A Journey for Food Lovers''. Bay Books. {{ISBN|978-0-681-02584-4}}. p. 24.</ref>
+|-
+|Sweet cream bun 
+|[[File:Flowing Custard Bun.JPG|150px]]
+|({{lang-zh|t=奶黃包|cy=náaih wòhng bāau |p=nǎihuáng bāo |labels=no}})
+|steamed bun with milk custard filling.<ref>{{cite news
+| date         = 14 March 2015
+| title        = 早餐零食必备的小点心—绝味浓香奶黄包
+| trans-title  = A must have breakfast snack for the dim sum: fragrance sweet cream bun
+| language     = zh
+| url          = http://www.chinadaily.com.cn/hqcj/xfly/2015-03-14/content_13371141.html
+| url-status   = dead
+| work         = [[China Daily]]
+| archive-url  = https://web.archive.org/web/20170220053731/http://www.chinadaily.com.cn/hqcj/xfly/2015-03-14/content_13371141.html
+| archive-date = 20 February 2017
+| access-date  = 1 September 2020
+}}</ref>
+|-
+|[[Lotus seed bun]]
+|[[File:Lianrongbao.jpg|150px]]
+|({{lang-zh|t=蓮蓉包|labels=no|j=lin4 jung4 baau1}})
+|steamed bun with [[lotus seed paste]] filling.<ref>{{cite web
+ |url=https://learning.hku.hk/ccch9051/group-32/items/show/38
+ |title=Steamed Lotus Seed Paste Bun
+ |author=CCCH9051 Group 32
+ |publisher=[[Hong Kong University]]
+ |access-date=1 September 2020
+ }}</ref>
+|-
+|[[Pineapple bun]]
+|[[File:Food 誠實菠蘿包, 點點心, Dimdimsum, 台北 (23775346279).jpg|150px]]
+|({{lang-zh|t=菠蘿包|cy=bōlòh bāau|p=bōluó bāo|labels=no|j=bo1lo4 baau1}})
+|a usually sweet bread roll that does not contain pineapple but has a topping textured like pineapple skin.<ref name="cnn-travel-1">{{cite news|date=13 July 2010|title=Hong Kong food: 40 dishes we can't live without - 6. 'Pineapple' bun |newspaper=[[CNN Travel]]|url=http://travel.cnn.com/hong-kong/none/40-things-eat-hong-kong-coronary-arrest-820489|access-date=5 January 2014|archive-date=18 June 2017|archive-url=https://web.archive.org/web/20170618024641/http://travel.cnn.com/hong-kong/none/40-things-eat-hong-kong-coronary-arrest-820489/|url-status=dead}}</ref>
+|-
+|[[Longevity peach]]
+|[[File:糕餅店製作的壽桃包(shoutao).jpg|150px]]
+|({{lang-zh|t=壽桃|labels=no}})
+|lotus seed bun sometimes with a filling made of red bean paste or lotus paste. 
+|-
+|Steamed Chinese Sausage Rolls
+|[[File:HK SYP 西營盤 Sai Ying Pun Kwan Yick Building 名星海鮮酒家 Star Seafood Restaurant 臘腸卷 Lap cheong bunOctober 2020 SS2 03.jpg|150px]]
+|({{lang-zh|t=臘腸卷|labels=no}})
+|steamed [[chinese sausage]] in a bun
+|-
+|}
+
+==== Cakes ====
+
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+| [[Turnip cake]] 
+|[[File:Food 臘味蘿蔔糕, 新葡苑, Shin Pu Yuan, 台北 (21551902251).jpg|150px]]
+|{{lang-zh|t=蘿蔔糕|cy=lòh baahk gōu |p=luóbo gāo |labels=no}}
+|pudding made from a mix of shredded [[white radish]], bits of dried shrimp, [[Chinese sausage]] and mushroom that is steamed, sliced, and pan-fried.<ref>{{cite news|last=Bartholomew |first=Ian |date=24 January 2008|title=New Year's Eve dinner: easy as pie |pages=13|work=[[Taipei Times]]|url=http://www.taipeitimes.com/News/feat/archives/2008/01/24/2003398676|access-date=16 July 2011|archive-date=10 October 2012|archive-url=https://web.archive.org/web/20121010200634/http://www.taipeitimes.com/News/feat/archives/2008/01/24/2003398676|url-status=live}}</ref><ref name="tastehongkong">{{cite web|date=23 February 2010|title=Turnip or Radish Cake with Chinese Sausages|url=http://www.tastehongkong.com/recipes/turnip-or-radish-cake-with-chinese-sausages/|access-date=6 September 2012|work=tastehongkong.com |archive-date=8 December 2012|archive-url=https://web.archive.org/web/20121208072515/http://www.tastehongkong.com/recipes/turnip-or-radish-cake-with-chinese-sausages/|url-status=live}}</ref>
+|-
+|  [[Taro cake]] 
+|[[File:Food 香火腩芋頭糕, 新葡苑, Shin Pu Yuan, 台北 (21516902726).jpg|150px]]
+|{{lang-zh|t=芋頭糕|cy=wuh táu gōu |p=yùtou gāo |labels=no}}
+|pudding made of taro.<ref name="christinesrecipes">{{cite web|date=26 January 2009|title=Chinese New Year Taro Cake|url=http://en.christinesrecipes.com/2009/01/chinese-new-year-taro-cake.html#.UEjM4_I6eio|access-date=6 September 2012|work=christinesrecipes.com |archive-date=8 December 2015|archive-url=https://web.archive.org/web/20151208093039/http://en.christinesrecipes.com/2009/01/chinese-new-year-taro-cake.html#.UEjM4_I6eio|url-status=live}}</ref>
+|-
+| [[Water chestnut cake]] 
+|[[File:Waterchestnutcake.jpg|150px]]
+|{{lang-zh|t=馬蹄糕|cy=máh tàih gōu |p=mǎtí gāo |labels=no}}
+|pudding made of crispy water chestnut; some restaurants also serve a variation made with bamboo juice.<ref name="tastehongkong2">{{cite web|date=10 February 2010|title=Water Chestnut Cake for Chinese New Year and sometimes Valentine's Day|url=http://www.tastehongkong.com/recipes/water-chestnut-cake-for-chinese-new-year-and-valentines-day/|access-date=8 January 2007|work=tastehongkong.com|archive-date=14 February 2010|archive-url=https://web.archive.org/web/20100214170337/http://www.tastehongkong.com/recipes/water-chestnut-cake-for-chinese-new-year-and-valentines-day/|url-status=live}}</ref>
+|-
+|[[Nian gao]]
+|[[File:Guangdong Nian cake.jpg|150px]]
+|年糕
+|glutinous rice flour cake, sweetened, usually with brown sugar.<ref name="Roufs 2014 p. 79-80">{{cite book | last=Roufs | first=Timothy | title=Sweet treats around the world : an encyclopedia of food and culture | publisher=ABC-CLIO | publication-place=Santa Barbara | year=2014 | isbn=978-1-61069-221-2 | oclc=890981785 | page=}}</ref>
+|-
+|Red Date Cake
+|[[File:Red Dates Cake From Dong Yuen Chinese Restaurant.jpg|150px]]
+|紅棗糕
+|Dessert made with dried [[jujube]]s and tapioca flour.
+|-
+| Thousand-layer cake 
+|[[File:千層馬拉糕 (Cantonese sponge cake).jpg|150px]]
+|{{lang-zh|t=千層糕|cy=chīnchàhng gōu|p=qiāncéng gāo|labels=no|j=cin1cang4 gou1}}
+|a dessert made of many layers of salted egg dough.<ref>{{cite web
+ |url=https://orientaldaily.on.cc/cnt/lifestyle/20150908/00296_002.html
+ |title=舊公屋歎老香港點心
+ |trans-title=Sigh about nostalgic dim sum in old housing area
+ |language=zh
+ |website=[[Oriental Daily News]]
+ |access-date=3 September 2020
+ |archive-date=5 October 2020
+ |archive-url=https://web.archive.org/web/20201005130742/https://orientaldaily.on.cc/cnt/lifestyle/20150908/00296_002.html
+ |url-status=live
+ }}</ref>
+|-
+|  [[Malay sponge cake]]
+|[[File:Sponge cake at Top Cantonese Restaurant.jpg|150px]]
+|{{lang-zh|t=馬拉糕|cy=máhlāai gōu |p=mǎlā gāo |labels=no}}
+|sponge cake consisting of lard or butter, flour, and eggs.<ref name=":03">{{Cite book|last=Ting |first=Chew-Peh |title=Chinese Immigration and the Growth of a Plural Society in Peninsular Malaysia.|publisher=Research in Race and Ethnic Relations |year=1982|location=United States |pages=103–123}}</ref>
+|-
+| [[White sugar sponge cake]]
+|[[File:WhiteSugarCake.jpg|150px]]
+|{{lang-zh|t=白糖糕|cy=baahk tòng gōu |p=báitáng gāo |labels=no}} 
+|steamed sponge cake made with white sugar.<ref>{{cite web|last=Shimabukuro |first=Bitty |date=21 May 2003|title=Rice cake revelation|url=http://archives.starbulletin.com/2003/05/21/features/story1.html|access-date=28 June 2011|work=[[Honolulu Star-Bulletin]]|archive-date=10 August 2011|archive-url=https://web.archive.org/web/20110810210012/http://archives.starbulletin.com/2003/05/21/features/story1.html|url-status=live}}</ref><ref>{{Cite book|last=梅联华|url=https://books.google.com/books?id=2_BKAQAAIAAJ&q=%E7%99%BD%E7%B3%96%E7%B3%95|title=南昌民俗|date=2008|publisher=江西人民出版社|isbn=9787210038184|language=zh|access-date=17 August 2020|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130745/https://books.google.com/books?id=2_BKAQAAIAAJ&q=%E7%99%BD%E7%B3%96%E7%B3%95|url-status=live}}</ref>
+|-
+|}
+
+==== Meats ====
+
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+| [[Steamed meatball]] 
+|[[File:HK Pacific Plaza SYP 德韾苑 Tak Hing Yuen Seafood Restaurant beef meat balls Mar-2013 Bamboo steamer.JPG|150px]]
+|{{lang-zh|t=牛肉丸|p=niúròu wán |cy=ngàuh yuhk yún |labels=no}} 
+|steamed meatballs served on thin tofu skin. Generally served with Worcestershire sauce.<ref name="hk-gov-1">{{cite web|title=Nutrient Values of Chinese Dim Sum |url=http://www.cfs.gov.hk/english/programme/programme_rafs/files/20070227_ra_dim_sum_pdf_full_e.pdf |access-date=11 June 2015|publisher=[[Food and Environmental Hygiene Department]] |archive-date=24 July 2015 |archive-url=https://web.archive.org/web/20150724075155/http://www.cfs.gov.hk/english/programme/programme_rafs/files/20070227_ra_dim_sum_pdf_full_e.pdf |url-status=live}}</ref>
+
+|-
+| [[Pearl meatballs]] 
+|[[File:Pearl Meatballs with Sticky Rice.jpg|150px]]
+|{{lang-zh|t=珍珠丸子|p=zhēnzhū wánzi |cy=zan1 zyu1 jyun2 zi2 |labels=no}} 
+|steamed meatballs coated with glutinous rice. Traditionally from  Hubei and Hunan.
+|-
+| [[Lion's Head (food)|Lion's Head]] 
+|[[File:Lions-head-MCB.jpg|150px]]
+|{{lang-zh|s=狮子头|t=獅子頭|p=Shīzitóu|labels=no}} 
+|pork meatballs or beef meatballs stewed with vegetables.
+|-
+| [[Chicken feet|Phoenix claws]] 
+|[[File:2015 0410 Chicken feet dim sum.jpg|150px]]
+|{{lang-zh|t=鳳爪|p=fèngzhuǎ |cy=fuhng jáau |labels=no}}
+|deep fried, boiled, and then steamed chicken feet with [[douchi]]. "White Cloud Phoenix Claws" ({{lang-zh|t=白雲鳳爪|p=báiyún fèngzhuǎ |cy=baahk wàhn fuhng jáau |labels=no}}) is a plain steamed version.<ref name="cnn2">{{cite web|author1=Christopher DeWolf|author2=Izzy Ozawa|author3=Tiffany Lam|author4=Virginia Lau|author5=Zoe Li |date=13 July 2010|title=40 Hong Kong foods we can't live without|url=http://www.cnngo.com/hong-kong/none/40-things-eat-hong-kong-coronary-arrest-820489|url-status=dead|archive-url=https://web.archive.org/web/20121105093220/http://www.cnngo.com/hong-kong/none/40-things-eat-hong-kong-coronary-arrest-820489|archive-date=5 November 2012|access-date=13 August 2012|work=CNN Go}}</ref><ref>Shimabukuro, Betty. [http://starbulletin.com/98/11/11/features/request.html "Dive In, Feet First"] {{Webarchive|url=https://archive.today/20120630131308/http://archives.starbulletin.com/98/11/11/features/request.html |date=30 June 2012 }}, ''[[Honolulu Star-Bulletin]]'', 11 November 1998.</ref>
+|-
+|  [[Spare ribs]] 
+|[[File:HK 灣仔 Wan Chai 莊士敦道 193 Johnston Road 君戶鍋貼大王 Kwan Wu Dumplings King Restaurant food 排骨豆鼓盅飯 pork meat steamed rice October 2019 SS2 02.jpg|150px]]
+|{{lang-zh|t=排骨|cy=pàaih gwāt |p=páigǔ |labels=no}}
+|steamed pork spare ribs with ''[[douchi]]'' and sometimes garlic and chili.<ref>Phillips, Carolyn (2006) p. 167</ref>
+|-
+| [[Tendon as food|Beef tendon]] 
+|[[File:單點特製牛筋, Braised Beef Tendon, 一膳食堂, 台北 (23345752366).jpg|150px]]
+|{{lang-zh|t=牛筋|labels=no}}
+|Beef tendons are cooked for a long time until it is very tender.  In Hong Kong, it is usually served together with beef brisket and/or radish. 
+|-
+| [[Reticulum (anatomy)|Reticulum]] beef [[tripe]] 
+|[[File:Reticulum Dim Sum.jpg|150px]]
+|{{lang-zh|t=金錢肚|labels=no|j=gam1cin4 tou5}}<ref>{{cite news
+ |last         = Fei Ying
+ |first        = Luo
+ |date         = 9 July 2016
+ |title        = 蝦餃燒賣做主角 本土漫畫推廣飲茶文化
+ |trans-title  = Prawn dumpling seller to become main character. Local comic to promote Yum Cha culture.
+ |url          = https://hk.nextmgz.com/article/2_409887_0
+ |language     = zh
+ |work         = [[Next Media]]
+ |access-date  = 1 September 2020
+ |archive-date = 5 October 2020
+ |archive-url  = https://web.archive.org/web/20201005130738/https://hk.nextmgz.com/article/2_409887_0
+ |url-status   = live
+}}</ref>
+|
+|-
+| [[Omasum]] beef tripe 
+|[[File:2016 0716 Ngau Pak Yip.jpg|150px]]
+|{{lang-zh<!-- |s=牛百叶 -->|t=牛百葉|labels=no|j=ngau4baak6jip6}}<br />({{lang-zh<!-- |s=牛柏叶 -->|t=牛柏葉|labels=no}})<ref>{{cite news
+| last        = Lui
+| first       = Novella
+| date        = 16 March 2019
+| title       = How dim sum lovers can stay healthy – and avoid 900-calorie meals
+| url         = https://www.scmp.com/magazines/style/travel-food/article/3001828/how-dim-sum-lovers-can-stay-healthy-and-avoid-900
+| work        = [[South China Morning Post]]
+| access-date = 1 September 2020
+| archive-date= 6 August 2020
+| archive-url = https://web.archive.org/web/20200806011745/https://www.scmp.com/magazines/style/travel-food/article/3001828/how-dim-sum-lovers-can-stay-healthy-and-avoid-900
+| url-status  = live
+}}</ref>
+|
+|-
+| [[Shrimp toast]] 
+|[[File:Shrimp Toast.jpg|150px]]
+|{{lang-zh|s=蝦多士|labels=no}}
+|Bread coated with a paste made from minced shrimp and cooked by baking or deep frying.
+|-
+|}
+
+==== Seafood ====
+
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+|[[Squid as food|Deep fried squid]]
+|[[File:Hong Kong fried squid.jpg|150px]]
+|{{lang-zh|t=椒鹽魷魚|labels=no|j=ziu1jim4 jau4jyu2}}
+|similar to fried [[calamari]], the battered squid is deep-fried.<ref>{{cite book
+ |last=Shan Li
+ |first=Kit
+ |date=23 July 2013
+ |title=Dim Sum: A Guide
+ |location=San Francisco
+ |publisher=[[Chronicle Books]]
+ |page= 52
+ |isbn=9781452132754
+}}</ref>
+|-
+|[[Curry squid]]
+|
+|
+| squid served in curry broth.<ref>{{cite magazine
+ |last         = Shih
+ |first        = Carol
+ |date         = April 2015
+ |title        = The Best Dim Sum in Dallas
+ |url          = https://www.dmagazine.com/publications/d-magazine/2015/april/best-dim-sum-in-dallas/
+ |magazine     = [[D Magazine]]
+ |location     = Dallas
+ |publisher    = [[D Magazine]]
+ |access-date  = 1 September 2020
+ |archive-date = 8 November 2020
+ |archive-url  = https://web.archive.org/web/20201108111820/https://www.dmagazine.com/publications/d-magazine/2015/april/best-dim-sum-in-dallas/
+ |url-status   = live
+}}</ref>
+|}
+
+==== Vegetables ====
+
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+|Steamed [[gai lan]]
+|[[File:Baby kailan chinese.jpg|150px]]
+|{{lang-zh|t=芥蘭|labels=no}} 
+|Steamed vegetables served with oyster sauce, popular varieties include [[lettuce]] ({{lang-zh|t=生菜|p=shēngcài|labels=no|j=saang1 coi3}}), ''[[choy sum]]'' ({{lang-zh|t=菜心|p=càixīn|labels=no|j=coi3 sam1}}), [[gai lan]] ({{lang-zh|s=芥兰|t=芥蘭|p=jièlán|labels=no|j=gaai3 laan2}}), or [[Ipomoea aquatica|water spinach]] ({{lang-zh|t=蕹菜|p=wèngcài|labels=no|j=ung3 coi3}}).<ref>{{cite web
+ |url=http://orientaldaily.on.cc/cnt/lifestyle/20100319/00296_001.html
+ |title=用心製作滋味懷舊點心
+ |trans-title=Make tasty nostalgic dim sum with love
+ |language=zh
+ |website=[[Oriental Daily News]]
+ |access-date=3 September 2020
+ |archive-date=19 February 2020
+ |archive-url=https://web.archive.org/web/20200219133939/http://orientaldaily.on.cc/cnt/lifestyle/20100319/00296_001.html
+ |url-status=live
+ }}</ref>
+|-
+|Fried [[tofu]]
+|[[File:Fried Tofu (炸豆腐).jpg|150px]]
+|{{lang-zh|t=炸豆腐|labels=no}} 
+|deep fried tofu with [[salt and pepper]].<ref>{{cite book
+ |last=Hong Xiang
+ |first=Zhang
+ |date=2003
+ |title=長汀城關傳統社會硏究
+ |trans-title=Traditional Society in the Changting County Seat
+ |language=zh
+ |publisher=Association for Hakka Studies
+ |page= 140
+ |isbn=9789627433262
+}}</ref>
+|}
+
+==== Rice ====
+
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+| [[Lo mai gai|Lotus leaf rice]] 
+|[[File:2016 0716 Lo Mai Gai.jpg|150px]]
+|{{lang-zh|t=糯米雞|cy=noh máih gāi |p=nuòmǐ jī |labels=no}} 
+|[[glutinous rice]] wrapped in a [[Nelumbo|lotus]] leaf that typically contains [[egg yolk]], dried [[scallop]], mushroom, and meat (usually pork and chicken). A lighter variant is known as "pearl chicken" ({{lang-zh|t=珍珠雞|cy=jānjyū gāi |p=zhēnzhū jī |labels=no}}).<ref name="Hsiung4">Hsiung, Deh-Ta. Simonds, Nina. Lowe, Jason. [2005] (2005). The food of China: a journey for food lovers. Bay Books. {{ISBN|978-0-681-02584-4}}. p27.</ref>
+|-
+| [[Chinese sticky rice]] 
+|[[File:HK 大快活 Cafe de Coral Tea time 糯米飯 Glutinous Mochi Rice Nuo Mi Fan with 蔥粒 Spring Onion Jan-2012.jpg|150px]]
+|{{lang-zh|t=糯米飯|cy=noh máih faahn |p=nuòmǐ fàn |labels=no}}
+| stir-fried (or steamed) glutinous rice with [[Chinese sausage]], soy sauce-steeped mushrooms, sweet spring onions, and sometimes chicken marinated with a mixture of spices including [[five-spice powder]].<ref name="food_NoMi">{{Cite web|author=Betty |date=8 January 2015|title=No Mi Fan (糯米饭 ) without a steamer (Chinese Sticky Rice)|url=http://food52.com/recipes/32870-no-mi-fan-without-a-steamer-chinese-sticky-rice|access-date=13 September 2015|work=Food52|archive-date=2 November 2015|archive-url=https://web.archive.org/web/20151102011558/http://food52.com/recipes/32870-no-mi-fan-without-a-steamer-chinese-sticky-rice|url-status=live}}</ref><ref name="tiny_Chin">{{Cite web|author=Jennifer Che |date=1 September 2001|title=Chinese Sticky Rice (Nuo Mi Fan)|url=http://www.tinyurbankitchen.com/chinese-sticky-rice-nuo-mi-fan/|access-date=13 September 2015|work=[[Tiny Urban Kitchen]] |archive-date=4 September 2015|archive-url=https://web.archive.org/web/20150904150912/http://www.tinyurbankitchen.com/chinese-sticky-rice-nuo-mi-fan|url-status=live}}</ref><ref name="food_Chin">{{Cite web|author=Nado2003|date=7 January 2008|title=Chinese Sticky Rice Nuomi Fan) Recipe|url=http://www.food.com/recipe/chinese-sticky-rice-nuomi-fan-359527|access-date=13 September 2015|work=Food.com |archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116201728/http://www.food.com/recipe/chinese-sticky-rice-nuomi-fan-359527|url-status=live}}</ref>
+|-
+| [[Congee]] 
+|[[File:Rice porridge with abalone flavor (9578736740).jpg|150px]]
+|{{lang-zh|t=粥|cy=jūk |p=zhōu |labels=no}}
+|many kinds of rice porridge, such as the "Preserved Egg and Pork Porridge" ({{lang-zh|t=皮蛋瘦肉粥|cy=pèihdáan sauyuhk jūk |p=pídàn shòuròu zhōu |labels=no}}).<ref>{{cite book|last1=(家政)|first1=陳春香|title=Congee - Special Porridge |date=1 April 2006|publisher=米乐文化国际 |isbn=978-9868213630|edition=Chinese}}</ref>
+|-
+|}
+
+==== Desserts ====
+{| class="wikitable collapsible"
+|-
+! Name !! Image !! Chinese !! Description
+|-
+| [[Egg tart]] 
+|[[File:Egg Tarts with Puff Pastry.jpg|150px]]
+|{{lang-zh|t=蛋撻|cy=daahn tāat|p=dàntǎ|j=daan6 taat1}}
+|baked tart with egg custard filling.<ref name=":12">{{Cite web|date=13 December 2018|title=Hong Kong egg tarts are not vegetarian – and here's why|url=https://www.scmp.com/magazines/style/travel-food/article/2177757/hong-kong-egg-tarts-are-not-vegetarian-and-heres-why|access-date=10 November 2019|website=[[South China Morning Post]]|language=en|archive-date=11 November 2019|archive-url=https://web.archive.org/web/20191111001711/https://www.scmp.com/magazines/style/travel-food/article/2177757/hong-kong-egg-tarts-are-not-vegetarian-and-heres-why|url-status=live}}</ref><ref>{{Cite web|last=Gao |first=Sally |title=Everything You Need To Know About The Hong Kong Egg Tart|url=https://theculturetrip.com/asia/china/hong-kong/articles/a-brief-history-of-the-hong-kong-egg-tart/|access-date=10 November 2019|website=Culture Trip|date=4 October 2016|archive-date=11 November 2019|archive-url=https://web.archive.org/web/20191111001713/https://theculturetrip.com/asia/china/hong-kong/articles/a-brief-history-of-the-hong-kong-egg-tart/|url-status=live}}</ref>
+|-
+| [[Douhua]] 
+|[[File:HK CWB 香港怡東酒店 Excelsior Hotel 豆腐花 Soybean pudding Sugar Dec-2011.jpg|150px]]
+|{{lang-zh|t=豆腐花|cy=dauh fuh fā |p=dòufuhuā |labels=no}}
+| soft tofu served with a sweet [[ginger]] or [[jasmine]] syrup.<ref>{{cite web|script-title=zh:教育部簡編國語辭典修訂本|url=http://dict.concised.moe.edu.tw/cgi-bin/jbdic/gsweb.cgi?o=djbdic&searchid=Z00000007811|quote=【豆腐】 注音 ㄉㄡˋ ㄈㄨˇ 漢語拼音 dòu fǔ |access-date=15 August 2020|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130744/http://dict.concised.moe.edu.tw/cgi-bin/jbdic/gsweb.cgi?ccd=dm7fJc&o=e0&sec1=1&op=sid=%22Z00000007811%22.&v=-2|url-status=live}}</ref><ref>{{Cite web|author=Mary Bai |date=19 October 2011|title=Tofu, a Healthy Traditional Food in China|url=http://www.cits.net/china-guide/china-traditions/tofu.html|url-status=dead|archive-url=https://web.archive.org/web/20111225032325/http://www.cits.net/china-guide/china-traditions/tofu.html|archive-date=25 December 2011|access-date=7 February 2012|publisher=China International Travel Service Limited}}</ref>
+|-
+| [[Jian dui|Sesame ball]] 
+|[[File:Onde-onde isi kacang.JPG|150px]]
+|{{lang-zh|t=煎堆|cy=jīn dēui|p=jiānduī|labels=no|j=zin1 deoi1}})
+|deep fried chewy dough with various fillings (lotus seed, black bean, red bean pastes) coated in sesame seeds.<ref>Misty, Littlewood and Mark Littlewood, 2008 ''Gateways to Beijing: a travel guide to Beijing'' {{ISBN|981-4222-12-7}}, pp. 52.</ref><ref>{{Cite web|title=Sesame Balls|url=http://en.radio86.com/chinese-food/chinese-ingredients-glutinous-rice|url-status=dead|archive-url=https://web.archive.org/web/20110715150320/http://en.radio86.com/chinese-food/chinese-ingredients-glutinous-rice|archive-date=15 July 2011|access-date=19 November 2010|publisher=[[Ching He Huang]]}}</ref>
+|-
+|  [[Coconut bar|Coconut pudding]]
+|[[File:Pudding Som Som Strawberi.jpg|150px]]
+| {{lang-zh|t=椰汁糕|cy=yèh jāp gōu |p=yézhī gāo |labels=no}}
+|light and spongy but creamy coconut milk pudding made with a thin, clear jelly layer made with coconut water on top.<ref>[http://www.wisegeek.com/what-is-a-coconut-bar.htm What is a coconut bar?] {{Webarchive|url=https://web.archive.org/web/20180905023338/https://www.wisegeek.com/what-is-a-coconut-bar.htm |date=5 September 2018 }} Wisegeek.com. Retrieved 31 March 2012.</ref>
+|-
+|  [[Mango pudding]] 
+|[[File:Mango pudding with heart style design.jpg|150px]]
+|{{lang-zh|t=芒果布甸|cy=mōnggwó boudīn |p=mángguǒ bùdiàn |labels=no}}
+| a sweet, rich mango pudding often served with a topping of [[evaporated milk]] and large chunks of fresh mango.<ref name="foodtimeline">{{cite web|last=Olver |first=Lynne |author-link=Lynne Olver |date=10 March 2012|title=puddings, custards & creams|url=http://www.foodtimeline.org/foodpuddings.html|access-date=12 August 2012|work=[[The Food Timeline]]|archive-date=9 May 2018|archive-url=https://web.archive.org/web/20180509195526/http://www.foodtimeline.org/foodpuddings.html|url-status=live}}</ref>
+|-
+|  [[Mango pomelo sago]] 
+|[[File:Mango Pomelo Sago by Lei Garden.jpg|150px]]
+|{{lang-zh|t=楊枝甘露|cy=|p= |labels=no}}
+| A Hong Kong dessert made with diced mango, pomelo, sago, coconut milk, and milk.
+|-
+|  [[Black sesame roll]]
+|[[File:Sesame roll in dinner.jpg|150px]]
+|{{lang-zh|t=芝麻卷 |labels=no}}
+|Refrigerated thin layer of black sesame paste
+|-
+|  [[Chinese flaky pastry]]
+|[[File:Char siew sou.JPG|150px]]
+|{{lang-zh|t=叉烧酥|labels=no}}
+| Also called Char Siu So. They are triangular, flaky pastries filled with a savory and slightly sweet barbecued pork filling, topped with sesame seeds for added flavor. 
+|-
+| [[Ox-tongue pastry]] 
+|[[File:HK WCD 灣仔 Wan Chai 軒尼詩道 432 Hennessy Road 人和悅大廈 Yan Wo Yuet Building shop 忠記粥品 Chung Kee Restaurant 牛脷酥 Ox-tongue pastry night October 2022 Px3.jpg|150px]]
+|{{lang-zh|t=牛脷酥|labels=no|j=ngau4lei6 sou1}}
+|a fried oval-shaped dough resembling an ox tongue that is similar to [[Youtiao|youjagwai]], but sugar is added to the flour.<ref name="oxs1">{{cite web|author=Johnny Law |date=20 January 2011|title=簡單粥品又一餐|url=http://www.openrice.com/restaurant/commentdetail.htm?commentid=2144788|access-date=13 August 2012|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130749/https://www.openrice.com/zh/hongkong/review/575-1-%E7%B0%A1%E5%96%AE%E7%B2%A5%E5%93%81%E5%8F%88%E4%B8%80%E9%A4%90-e2144788|url-status=live}}</ref>
+|-
+| [[Tong sui]] 
+|[[File:CantoneseHybridRedbeansoup.jpg|150px]]
+|{{lang-zh|t=糖水|labels=no|j=tong4 seoi2}}
+|sweet dessert soups; popular varieties include [[black sesame soup]] ({{lang-zh|t=芝麻糊|labels=no}}), [[red bean soup]] ({{lang-zh|t=紅豆沙|labels=no}}), mung bean soup ({{lang-zh|t=綠豆沙|labels=no}}), ''[[sai mai lo]]'' ({{lang-zh|t=西米露|labels=no}}), ''[[guilinggao]]'' ({{lang-zh|t=龜苓膏|labels=no}}), peanut paste soup ({{lang-zh|t=花生糊|labels=no}}), and [[walnut soup]] ({{lang-zh|s=核桃糊|t=核桃糊|labels=no}}).
+|-
+| [[Sweet potato soup]] 
+|[[File:HK KTD 觀塘區 Kwun Tong Sau Mau Ping 安泰邨 On Tai Estate shop 名舫酒家 Famous Restaurant food Sweet potato soup January 2022 Px3 03.jpg|150px]]
+|{{lang-zh|t=番薯糖水|labels=no|j=}}
+|sweet dessert soups containing sweet potato, rock sugar, and ginger.
+|-
+| [[Black sesame soup]] 
+|[[File:Black sesame paste.jpg|150px]]
+|{{lang-zh|t=芝麻糊|labels=no|j=}}
+|sweet dessert soups containing Black sesame seed flour; 
+|-
+|}
+
+=== Tea ===
+{{Main|Yum cha}}
+[[File:Chrysanthemum tea.JPG|thumb|alt= Chrysanthemum blossoms steep in a cup of hot water|Chrysanthemum tea]]
+[[File:Yumcha eating utensils.jpg|thumb|right|alt=A ceramic spoon in a bowl, pair of chopsticks, plate, and cup of tea|A typical dining set for "[[yum cha]]"]]
+
+Tea is considered to be very important, so much so that it is considered just as important as the food itself.<ref name="NYT 1981">{{Cite news|date=25 October 1981|title=Fare of the Country; Why Dim Sum Is 'Heart's Delight'|language=en-US |work=[[The New York Times]]|url=https://www.nytimes.com/1981/10/25/travel/fare-of-the-country-why-dim-sum-is-heart-s-delight.html|access-date=3 July 2020|issn=0362-4331|archive-date=4 July 2020 |archive-url=https://web.archive.org/web/20200704133705/https://www.nytimes.com/1981/10/25/travel/fare-of-the-country-why-dim-sum-is-heart-s-delight.html |url-status=live}}</ref><ref name=":17">{{Cite web|last=Stevenson |first=Rachel |date=15 February 2018|title=The Ideal Tea Pairing with Dim Sum Guide|url=https://idealmagazine.co.uk/ideal-tea-pairing-dim-sum-guide/|access-date=3 July 2020|website=Ideal Magazine |language=en|archive-date=3 July 2020 |archive-url=https://web.archive.org/web/20200703195558/https://idealmagazine.co.uk/ideal-tea-pairing-dim-sum-guide/|url-status=live}}</ref> Teas served during dim sum include:
+
+* [[Chrysanthemum tea]]: instead of tea leaves, it is a flower-based [[tisane]] (herbal tea) made from flowers of the species ''Chrysanthemum morifolium'' or ''Chrysanthemum indicum'', which are the most popular in East Asia.<ref>{{cite book|last=Campbell |first=Dawn L.|title=The Tea Book |publisher=[[Pelican Publishing Company|Pelican Publishing]]|year=1995|isbn=978-1-56554-074-3|location=Gretna |page=116}}</ref> To prepare the tea, chrysanthemum flowers (usually dried) are steeped in hot water (usually {{convert|90|to|95|°C|°F}} after cooling from a boil) in a teapot, cup, or glass. A common mix with [[Pu'er tea|pu-erh]] is called ''guk pou'' ({{lang-zh|t=菊普|p=jú pǔ |cy=gūk póu}}) from its component teas.
+* [[Green tea]]: freshly picked leaves that go through heating and drying processes but not oxidation, so keep their original green color and chemical compounds, like [[polyphenols]] and [[chlorophyll]].<ref name="Khan2013">{{cite journal|vauthors=Khan N, Mukhtar H |year=2013|title=Tea and health: studies in humans|journal=[[Current Pharmaceutical Design]]|type=Literature Review |volume=19|issue=34|pages=6141–7|doi=10.2174/1381612811319340008|pmc=4055352|pmid=23448443}}</ref> Produced all over China, and the most popular category of tea, green teas include the representative [[Longjing tea|Dragon Well]] ({{lang-zh|t=龍井|p=lóngjǐng |cy=lùhngjéng}}) and [[Biluochun]] from Zhejiang and Jiangsu provinces, respectively.
+* [[Oolong tea]]: partially [[Redox|oxidizing]], the tea leaves impart them with characteristics of both green and black teas.<ref name="Chen Zhongmao 1991">Zhongguo Chajing pp. 222–234, 271–282, 412–419 chief editor: Chen Zhongmao, publisher: Shanghai Wenhua Chubanshe (Shanghai Cultural Publishers) 1991.</ref><ref>施海根，中國名茶圖譜、烏龍茶黑茶及壓製茶花茶特種茶卷 p2，上海文化出版社 2007 {{ISBN|7-80740-130-3}}</ref><ref>Joseph Needham, ''Science and Civilization in China'', vol. 6, [[Cambridge University Press]], 2000, part V, (f) Tea Processing and Use, pp. 535–550 "Origin and processing of oolong tea".</ref> Oolong teas are closer in taste to green than black tea, yet have less of a "grassy" taste. Major oolong-tea producing areas such as Fujian, Guangdong, and Taiwan line the southeastern coast of China. [[Tieguanyin]] or Ti Kuan Yin ({{lang-zh|t=鐵觀音|p=tiěguānyīn |cy=titgūnyām}}): one of the most popular, originated in Fujian province, and is a premium variety with a delightful fragrance.
+* [[Pu-erh tea|Pounei]] (Cantonese) or pu-erh tea (Mandarin): usually a [[compressed tea]], pu-erh has unique, earthy notes derived from years of fermentation.<ref>{{cite web|last=Yoder |first=Austin |date=13 May 2013|title=Pu'er Vs. Pu-erh: What's the Deal with the Different Spellings?|url=http://tearroir.com/news/puer-vs-pu-erh-whats-the-deal-with-the-different-spellings|archive-url=https://web.archive.org/web/20160507081118/http://tearroir.com/news/puer-vs-pu-erh-whats-the-deal-with-the-different-spellings|archive-date=7 May 2016|url-status=usurped |publisher=Tearroir}}</ref><ref name="Chen438">{{harvp|Chen ZM|1991|p=438|loc=chpt. "Manufacturing pu'er [普洱茶的制造]"}}</ref>
+* [[Scented tea]]s: various mixes of flowers with green, black, or oolong teas exist. Flowers used include jasmine, gardenia, magnolia, grapefruit flower, [[Osmanthus fragrans|sweet-scented osmanthus]], and rose. Strict rules govern the proportion of flowers to tea. Jasmine tea, the most popular scented tea, is the one most often served at "''yum cha''" establishments.
+
+The tea service includes several customs.<ref name="Entertaining 2009">{{Cite journal|date=1 April 2009|title=Entertaining from ancient Rome to the Super Bowl: an encyclopedia| journal=[[Choice Reviews Online]]|volume=46|issue=8}}</ref><ref>{{Cite web|title=The Serious Eats Guide to Dim Sum|url=https://www.seriouseats.com/2011/04/guide-to-dim-sum-dumplings-siu-mai-bao-chinese-steamed-buns.html|access-date=3 July 2020|website=[[Serious Eats]]|language=en|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704023428/https://www.seriouseats.com/2011/04/guide-to-dim-sum-dumplings-siu-mai-bao-chinese-steamed-buns.html|url-status=live}}</ref><ref>{{Cite web|date=25 January 2017|title=Chinese food lovers' guide to ordering, eating and appreciating dim sum|url=https://www.dallasnews.com/food/2017/01/25/chinese-food-lovers-guide-to-ordering-eating-and-appreciating-dim-sum/|access-date=3 July 2020|website=[[Dallas News]]|language=en|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704022311/https://www.dallasnews.com/food/2017/01/25/chinese-food-lovers-guide-to-ordering-eating-and-appreciating-dim-sum/|url-status=live}}</ref><ref name="Chiang 2019">{{Cite web|last=Chiang |first=Karen |title=The yum cha rules you need to know|date=28 February 2019 |url=https://www.bbc.com/travel/story/20190227-the-yum-cha-rules-you-need-to-know|access-date=3 July 2020|publisher=[[BBC]]|language=en|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704041550/http://www.bbc.com/travel/story/20190227-the-yum-cha-rules-you-need-to-know|url-status=live}}</ref> Typically, the server starts by asking diners which tea to serve. According to etiquette, the person closest to the teapot pours tea for the others. Sometimes, a younger person will serve an older person.
+
+Those receiving tea express thanks by tapping their index and middle fingers twice on the table.<ref name="Millson 2017" /><ref name="Chiang 2019" /> According to one legend, the finger-tapping tradition evolved from an incident when an emperor poured tea for his servant in a public teahouse during a trip where the emperor concealed his identity to mingle with the commoners. Having been instructed by the emperor not to expose his identity to the public, the servant showed gratitude by improvising the finger-tapping gesture instead of what should have been a kowtow, which would have betrayed the emperor's noble status. The practice gradually evolved to represent gratitude for having tea poured by others.
+
+Diners also flip open the lid (of hinged metal tea pots) or offset the tea pot cover (on ceramic tea pots) to signal an empty pot; servers will then refill the pot.<ref name="Dim Sum Guide" /><ref name="Chiang 2019" />
+
+== History ==
+[[File:Dim-sum-HK.JPG|thumb|alt=A server pushes a cart laden with bamboo baskets|A dim sum restaurant in [[Hong Kong]]]]
+[[File:How To Dim Sum - A Beginner's Guide.webm|thumb|A video guide to dim sum]]
+Dim sum is part of the Chinese tradition of [[snack]]s originating from the [[Song dynasty]] (960–1279), when royal chefs created various dishes such as minced pheasant, [[Eurasian skylark|lark]] tongue, and [[Chinese desserts|desserts]] made from steamed milk and bean paste.<ref name=":26" /> [[Guangzhou]] experienced an increase in commercial travel in the tenth century<ref name=":0">{{Cite news |last=Gourse |first=Leslie |title=Dim Sum Has Come a Long Way, From Esoteric to Mass Popularity|url=https://www.chicagotribune.com/news/ct-xpm-1988-03-13-8802290511-story.html|access-date=5 August 2020|newspaper=[[Chicago Tribune]] |date=13 March 1988 |language=en-US}}</ref>{{page needed | date=May 2025}} At that time, travelers would frequent teahouses for small-portion meals with tea called "''yum cha''" or "tea" meals.<ref name=":11">{{cite book|last=Wong |first=Adele |title=Hong Kong Food & Culture: From Dim Sum to Dried Abalone |year=2016 |publisher=Man Mo Media |isbn=978-9887756002}}</ref>{{page needed | date=May 2025}}<ref name=":0" /><ref name=":13">{{Cite news|date=25 October 1981|title=Fare of the Country; Why Dim Sum Is 'Heart's Delight'|language=en-US |work=[[The New York Times]] |url=https://www.nytimes.com/1981/10/25/travel/fare-of-the-country-why-dim-sum-is-heart-s-delight.html|access-date=16 August 2020|issn=0362-4331|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704133705/https://www.nytimes.com/1981/10/25/travel/fare-of-the-country-why-dim-sum-is-heart-s-delight.html|url-status=live}}</ref> ''Yum cha'' includes two related concepts. The first, {{linktext|一盅兩件}}, translates literally as "one cup, two pieces". This refers to the custom of serving teahouse customers two delicately made food items, savory or sweet, to complement their tea. The second, {{linktext|點心}}, which means dim sum, translates literally to "touch the heart" (i.e., heart touching). This is the term used to designate the small food items that accompanied the drinking of tea.<ref name=":14">{{Cite web|date=13 May 2019|title=Jian Dui -- Sesame Balls (煎堆)|url=https://kindredkitchen.ca/2019/05/13/jian-dui-sesame-balls/|access-date=14 August 2020|website=Kindred Kitchen |language=en-CA |archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130704/https://www.kindredkitchen.ca/2019/05/13/jian-dui-sesame-balls/|url-status=live}}</ref>
+
+During the thirteenth century, when the [[Mongol conquest of China|Mongols invaded China]], the royal court fled to southern China, bringing a royal influence to the dim sum of [[Guangzhou]].<ref name=":26" /> Guangzhou was a wealthy, large port city that had international visitors, a temperate climate, and a coastline where fresh and tropical ingredients were grown, resulting in an ideal environment for food and entertainment.<ref name=":26" /> In Guangzhou, street vendors and teahouses sold dim sum.<ref name=":26" /> The practice of having tea with dim sum at tea houses eventually evolved into modern ''yum cha''.<ref name=":0" /> While at the teahouses, travelers selected their preferred snacks from carts.<ref name=":0" /> Visitors to tea houses often socialized as they ate, and business people negotiated deals over dim sum.<ref name=":0" />
+
+During the [[Ming dynasty]] (1368–1644), the Tea and Horses Bureau was established to monitor tea production and improve tea quality.<ref name=":26" /> The improvements in tea quality also led to teahouse improvements.<ref name=":26" />
+
+Cantonese dim sum culture developed rapidly during the latter half of the nineteenth century in Guangzhou.<ref name=":4">{{Cite journal|last=Phillips |first=Carolyn |date=1 February 2017|title=Modern Chinese History as Reflected in a Teahouse Mirror|url=https://online.ucpress.edu/gastronomica/article/17/1/56/45126/Modern-Chinese-History-as-Reflected-in-a-Teahouse|journal=[[Gastronomica]]|language=en|volume=17|issue=1|pages=56–65|doi=10.1525/gfc.2017.17.1.56|issn=1529-3262|url-access=subscription}}</ref> Teahouse dining areas were typically located upstairs, and initial dim sum fare included steamed buns.<ref name=":4" /> Eventually, these evolved into specialized dim sum restaurants, and the variety and quality of dim sum dishes rapidly followed suit.<ref name=":4" /> Cantonese dim sum was originally based on local foods such as sweet roast pork called "''char siu''" and fresh [[rice noodles]].<ref name=":4" /> As dim sum continued to develop, chefs introduced influences and traditions from other regions of [[China]], which created a starting point for the wide variety of dim sum available today.<ref name=":4" /> Chefs created a large range of dim sum that even today comprises most of a teahouse's dim sum offerings.<ref name=":4" /> Part of this development included reducing portion sizes of larger dishes originally from northern China, such as stuffed steamed buns, so they could easily be incorporated into the dim sum menu.<ref name=":4" /> The rapid growth in dim sum restaurants was partly because people found the preparation of dim sum dishes to be time-consuming and preferred the convenience of dining out and eating a large variety of baked, steamed, pan-fried, deep-fried, and [[braised]] foods.<ref name=":4" /> Dim sum continued to develop and also spread southward to [[Hong Kong]].<ref>Tam, S. (1997). Eating Metropolitaneity: Hong Kong Identity in yumcha. ''[[Australian Journal of Anthropology]]'', 8(1), 291-306</ref>
+
+Although dim sum is normally considered Cantonese, it includes many additional influences.<ref name=":4" /> Over thousands of years, as people in China migrated in search of different places to live, they carried the recipes of their favorite foods and continued to prepare and serve these dishes.<ref name=":4" /> Many [[Han Chinese]] migrated south, seeking warmer climates.<ref name=":4" /> Settlements took shape in the [[Yangtze River Valley]], the central highlands, and the coastal southeast, including Guangdong.<ref name=":4" /> The influence of [[Suzhou, Jiangsu|Suzhou]] and [[Hangzhou]] is found in vegetarian soy skin rolls and [[pearl meatballs]]. The dessert squares flavored with [[Jujube|red dates]] or wolfberries are influenced by [[Beijing]] desserts.<ref name=":4" /> Savory dishes, such as [[Jiaozi|pot stickers]] and steamed dumplings, include Muslim influences because of people traveling from Central Asia across the [[Silk Road]] and into Guangdong.<ref name=":4" /> These are just a few examples of how a wide range of influences became incorporated into traditional Cantonese dim sum.<ref name=":4" />
+
+By 1860, foreign influences had shaped Guangdong's dim sum with culinary innovations such as [[ketchup]], [[Worcestershire sauce]], and curry, all of which came to be used in some savory dishes.<ref name=":4" /> [[Custard]] pies evolved into the miniature classics found in every teahouse.<ref name=":4" /> Other dim sum dishes evolved from Indian [[samosas]], [[mango]] puddings, and Mexican [[Concha (bread)|conchas]] (snow-topped buns).<ref name=":4" /> Cantonese-style dim sum has an extremely broad range of tastes, textures, cooking styles, and ingredients.<ref name=":4" /> As a result, there are more than a thousand different varieties of dim sum.<ref name=":4" />
+
+During the 1920s, in Guangzhou, the foremost places to enjoy tea were its tea pavilions, which had refined and expansive surroundings.<ref name=":4" /> The customers were wealthy, and there were rather high standards for the privilege of enjoying tea pavilion service and dim sum.<ref name=":4" /> Upon entering a tea pavilion, customers would inspect tea leaves to ensure their quality and to verify the water temperature.<ref name=":4" /> Once satisfied, these guests were presented with a pencil and a booklet listing the available dim sum.<ref name=":4" /> A waiter would then tear their orders out of the booklet so that the kitchen could pan-fry, steam, bake, or deep-fry these dishes on demand.<ref name=":4" /> Customers dined upstairs in privacy and comfort.<ref name=":4" /> Servers carefully balanced the dishes on their arms or arranged them on trays as they climbed up and down the stairs.<ref name=":4" /> Eventually, dim sum carts were used to serve the steamers and plates.<ref name=":4" />
+
+People with average incomes also enjoyed tea and dim sum.<ref name=":4" /> Early every morning, customers visited inexpensive restaurants that offered filled steamed buns and hot tea.<ref name=":4" /> During the mid-morning, students and government employees ordered two or three kinds of dim sum and ate as they read their newspapers.<ref name=":4" /> In the late morning, people working at small businesses visited restaurants for breakfast and to use the restaurant as a small office space.<ref name=":4" />
+
+By the late 1930s, Guangzhou's teahouse culture included four high-profile dim sum chefs, with signs at the front doors of their restaurants.<ref name=":4" /> There was heavy competition among teahouses, and as a result, new varieties of dim sum were invented almost daily, including dishes influenced by the tea pastries of Shanghai, Beijing, and the [[Western world]].<ref name=":4" /> Many new fusion dishes were also created, including puddings, baked rolls, turnovers, custard tarts, and Malay steamed cakes.<ref name=":4" />
+
+There were also significant increases in the variety of thin wrappers used in both sweet and savory items.<ref name=":4" /><blockquote>If we concentrate only on the changes and developments in the variety of wrappers, the main types of dim sum wrappers during the 1920s included such things as raised (for filled buns), wheat starch, ''shao mai'' (i.e., egg dough), crystal bun, crispy batter, sticky rice, and boiled dumpling wrappers. By the 1930s, the varieties of wrappers commonly used by chefs included puff pastry, Cantonese short pastry, and so on, for a total of 23 types that were prepared by pan-frying, deep-frying, steaming, baking, and roasting.<ref name=":4" /><ref>{{Cite journal|last=Feng |first=Mingquan |year=1986|title=A discussion on Guangzhou's teahouse industry. Guangzhou wenshi ziliao 廣州文史資料|journal=Literary and Historical Materials on Guangzhou |volume=36,1}}</ref></blockquote>As the [[Chinese Civil War]] progressed from 1927 to 1949, many dim sum chefs left China and settled in Hong Kong, resulting in further refinements and innovations of the dim sum there.<ref name=":26" /> Very large dim sum restaurants in major cities like Hong Kong, San Francisco, Boston, Toronto, and New York were also established.<ref name=":26" />
+
+In the nineteenth century, Cantonese immigrants brought dim sum to the west and east coasts of the United States.<ref>{{Cite book|title=Entertaining from Ancient Rome to the Super Bowl: An Encyclopedia |date=2008|publisher=[[Greenwood Press]] |others=Adamson, Melitta Weiss., Segan, Francine.|isbn=978-0-313-08689-2|location=Westport, Conn.|oclc=273865320}}</ref> Some of the earliest dim sum restaurants in the U.S. still operating today opened in the [[1920s]] in [[San Francisco]] and [[New York City]].<ref name=":5">{{Cite web|title=Step Inside 98-Year-Old Hang Ah Tea Room, the Oldest Dim Sum Restaurant in America|url=https://www.vice.com/en/article/step-inside-96-year-old-hang-ah-tea-room-the-oldest-dim-sum-restaurant-in-america/|access-date=17 August 2020|website=Vice|date=December 2016 |language=en|archive-date=7 September 2020|archive-url=https://web.archive.org/web/20200907064722/https://www.vice.com/en_us/article/ezkzwm/step-inside-96-year-old-hang-ah-tea-room-the-oldest-dim-sum-restaurant-in-america|url-status=live}}</ref><ref>{{Cite web|title=Nearly 100 Years Later, New York's First Dim Sum Restaurant Continues to Innovate|url=https://squareup.com/us/en/townsquare/nearly-100-years-later-new-yorks-first-dim-sum-restaurant-continues-to-innovate|access-date=29 August 2020|website=Square |date=19 August 2015 |language=en-US}}</ref> The history of San Francisco's Chinese community is believed to have started about 30 years before the first dim sum restaurant opened in the city's [[Chinatown]] neighborhood. The Chinese preferred to live in the present Chinatown area because of its restaurants and theatres.<ref name=":5" /> In the late 1930s, some early U.S. newspaper references to dim sum began to appear. While some Chinese restaurants in the U.S. had offered dim sum for decades, it was not until the late 1980s that there was a broader public awareness of dim sum.<ref name=":0" />
+
+Although there was increased awareness of dim sum around this time, one chef from Hong Kong, who immigrated to San Francisco, noted that diners in the U.S. usually focused on the food itself and not the communal aspects of eating dim sum.<ref name=":6">{{Cite magazine|title=How to Order Dim Sum, According to the Head Chef of the First Chinese Restaurant in North America to Receive a Michelin Star|url=https://time.com/5750814/dim-sum-ordering-guide/|access-date=19 August 2020|magazine=[[Time (magazine)|Time]] |archive-date=19 August 2020|archive-url=https://web.archive.org/web/20200819075135/https://time.com/5750814/dim-sum-ordering-guide/|url-status=live}}</ref> Although dim sum is a Chinese meal, it is a communal dining and social experience that can span hours.<ref name=":6" /> It is customary for large groups to enjoy dishes together as a leisurely social activity.<ref name=":6" /> Diners go to restaurants early, around 10:00&nbsp;AM, and rather than ordering a whole table of food, they order small amounts, have a cup of tea, read the newspaper, and wait for friends and family to join them.<ref name=":6" /> As a result, a visit to a dim sum restaurant can last from late morning well into the afternoon.<ref name=":6" /> For some people in Hong Kong, eating dim sum is a daily routine and a way of life.<ref name=":6" /> Since this dim sum tradition is not always present in some U.S. dim sum restaurants, however, approaches to generate interest and attract customers include customized seasoning and flavors of traditional dishes, as well as creating novel dishes with an emphasis on enhanced flavors and visual appeal.<ref name=":6" />
+
+One food reviewer notes that there has been an increase in popularity in posting dim sum photos on social media feeds, and that dim sum has become so popular that every U.S. state now has at least one high-quality dim sum restaurant.<ref>{{Cite news|date=5 February 2016|title=Where to Find the Best Dim Sum in Every State in America |url=https://spoonuniversity.com/lifestyle/where-to-find-the-best-dim-sum-in-every-state-in-america|access-date=19 August 2020|website=Spoon University |language=en-US |archive-date=18 September 2020|archive-url=https://web.archive.org/web/20200918233545/https://spoonuniversity.com/lifestyle/where-to-find-the-best-dim-sum-in-every-state-in-america|url-status=live}}</ref> There is a restaurant, bar, and highly rated dance club complex in Las Vegas, NV, that features high-end Cantonese food (including dim sum), craft cocktails, dinner parties, and prominent [[disc jockey]]s in a chic setting.<ref>{{Cite web|date=7 January 2020|title=Tiësto, Zedd, Garrix, Aoki in Hakkasan Group's 2020 lineup|url=https://www.reviewjournal.com/entertainment/entertainment-columns/kats/tiesto-zedd-garrix-aoki-in-hakkasan-groups-2020-lineup-1930236/|access-date=19 August 2020|website=[[Las Vegas Review-Journal]]|language=en-US |archive-date=14 January 2020|archive-url=https://web.archive.org/web/20200114023403/https://www.reviewjournal.com/entertainment/entertainment-columns/kats/tiesto-zedd-garrix-aoki-in-hakkasan-groups-2020-lineup-1930236/|url-status=live}}</ref><ref>{{Cite web|last=Kennedy |first=Marina |title=Chef Spotlight: Executive Chef Pinyo Saewu of Hakkasasn Las Vegas |url=https://www.broadwayworld.com/bwwfood-wine/article/Chef-Spotlight-Executive-Chef-Pinyo-Saewu-of-HAKKASAN-LAS-VEGAS-20200302|access-date=19 August 2020|website=BroadwayWorld.com |language=en|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130702/https://www.broadwayworld.com/bwwfood-wine/article/Chef-Spotlight-Executive-Chef-Pinyo-Saewu-of-HAKKASAN-LAS-VEGAS-20200302|url-status=live}}</ref><ref>{{Cite web|title=Hakkasan Las Vegas - Las Vegas Restaurants - Las Vegas, United States|url=https://www.forbestravelguide.com/restaurants/las-vegas-nevada/hakkasan-las-vegas|access-date=19 August 2020|website=Forbes Travel Guide |language=en|archive-date=27 September 2020|archive-url=https://web.archive.org/web/20200927081346/https://www.forbestravelguide.com/restaurants/las-vegas-nevada/hakkasan-las-vegas|url-status=live}}</ref><ref>{{cite web|title=Hakkasan|url=https://djmag.com/content/poll-clubs-2015-hakkasan|work=[[DJ magazine]]|access-date=21 August 2020|archive-date=10 August 2020|archive-url=https://web.archive.org/web/20200810025812/https://djmag.com/content/poll-clubs-2015-hakkasan|url-status=live}}</ref>
+
+The dim sum restaurants in [[Chicago's Chinatown]] serve mainly traditional dim sum dishes, but there has been recent growth in contemporary dim sum with new fusion dishes, as well as restaurants now located outside Chinatown.<ref name=":3">{{Cite web|title=Zagat|url=https://www.zagat.com/b/trend-watch-dim-sum-goes-beyond-chinatown|access-date=19 August 2020|website=zagat.com|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704000753/https://www.zagat.com/b/trend-watch-dim-sum-goes-beyond-chinatown|url-status=live}}</ref>
+
+In Hong Kong, many chefs are also introducing variants based on traditional Cantonese cuisine, which generates interest and provides both Hongkongers and tourists with new, fresh dim sum dishes.<ref>{{Cite web|last=Springer |first=Janice Leung Hayes, Kate |title=19 Best Dim Sum Spots in Hong Kong|url=https://www.cntraveler.com/gallery/best-dim-sum-in-hong-kong|access-date=19 August 2020|website=[[Condé Nast Traveler]]|date=5 March 2018|language=en|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812215519/https://www.cntraveler.com/gallery/best-dim-sum-in-hong-kong|url-status=live}}</ref>
+
+== Modern dim sum ==
+In addition to traditional dim sum, some chefs also create and prepare new fusion-based dim sum dishes.<ref name=":21">{{Cite web|date=22 July 2015|title=Four Hong Kong restaurants putting a modern spin on dim sum|url=https://www.scmp.com/magazines/48-hours/article/1842495/four-hong-kong-restaurants-putting-modern-spin-dim-sum|access-date=3 July 2020|website=[[South China Morning Post]]|language=en|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704170624/https://www.scmp.com/magazines/48-hours/article/1842495/four-hong-kong-restaurants-putting-modern-spin-dim-sum|url-status=live}}</ref><ref name=":22">{{Cite web|last=Magyarics |first=Kelly |date=26 January 2017|title=4 Spots for modern take on Dim Sum |url=http://dcrefined.com/eat-drink/4-spots-for-modern-take-on-dim-sum|access-date=4 July 2020|website=DC Refined |archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704022826/http://dcrefined.com/eat-drink/4-spots-for-modern-take-on-dim-sum|url-status=live}}</ref><ref name=":23">{{Cite web|last=Kirouac |first=Matt |date=21 March 2017|title=Trend Watch: Dim Sum Goes Beyond Chinatown|url=https://www.zagat.com/b/trend-watch-dim-sum-goes-beyond-chinatown|access-date=4 July 2020|website=[[Zagat]]|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704000753/https://www.zagat.com/b/trend-watch-dim-sum-goes-beyond-chinatown|url-status=live}}</ref><ref name=":24">{{Cite web|date=11 March 2020|title=The best modern dim sum restaurants in Hong Kong |url=https://www.lifestyleasia.com/hk/food-drink/dining/the-best-modern-dim-sum-restaurants-in-hong-kong/|access-date=4 July 2020|website=[[Lifestyle Asia]] Hong Kong |language=en-US |archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704001345/https://www.lifestyleasia.com/hk/food-drink/dining/the-best-modern-dim-sum-restaurants-in-hong-kong/|url-status=live}}</ref><ref>{{Cite web|date=2020-02-17|title=Best Dim Sum in London, 7 Must-Try Restaurants to Yum Cha |url=https://www.honestfoodtalks.com/best-dim-sum-london-restaurant-yum-cha/|access-date=2020-11-01|website=Honest Food Talks |language=en-GB |archive-date=20 November 2020|archive-url=https://web.archive.org/web/20201120130011/https://www.honestfoodtalks.com/best-dim-sum-london-restaurant-yum-cha/|url-status=live}}</ref><ref name=":3" /><ref>{{Cite web|title=Hong Kong's most innovative dim sum restaurants {{!}} Hong Kong Tourism Board |url=https://www.discoverhongkong.com/ca/explore/dining/innovative-dim-sum-restaurants.html|access-date=2 October 2020|website=Discover Hong Kong |language=en|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130756/https://www.discoverhongkong.com/ca/explore/dining/innovative-dim-sum-restaurants.html|url-status=live}}</ref>  Modern versions of buns include pork belly steamed buns with cucumber, green onion, cilantro, and ginger hoisin sauce, cocoa mushroom buns, and chili lamb buns.  Dumplings include snow pea shoot and shrimp dumplings, and chili crab with fried garlic, ''siu mai'' with pork, shrimp, scallop, and caviar, dumplings stuffed with shrimp and peanut, dumplings with South Australian scallop, [[garoupa]] (grouper), caviar, gold leaf, and egg white, and bone marrow or beef short ribs in potstickers.  Pastry puff dishes include Australian [[Wagyu]] beef puff, [[Malaysian cuisine|Assam curry]] chicken puff, and pumpkin puffs. Toast dishes include Hong Kong–style French toast with condensed milk and peanut butter and prawn toast.  Additional examples are spring rolls filled with goat and duck skin and duck hearts cooked over a wood-fired grill and served with sesame-horseradish sauce.
+
+One AAA four-diamond-award-winning Chinese restaurant in Miami Beach has a prix-fixe dim sum menu, prix-fixe "yum cha" menu and breakfast cocktails.<ref>{{Cite web|date=16 June 2014|title=Hakkasan at Fontainebleau introduces new dim sum & prix-fixe menus for lunch|url=https://themiamiguide.com/hakkasan-at-fontainebleau-introduces-new-dim-sum-prix-fixe-menus-for-lunch/|access-date=6 September 2020|website=The Miami Guide |language=en-US |archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130801/https://themiamiguide.com/hakkasan-at-fontainebleau-introduces-new-dim-sum-prix-fixe-menus-for-lunch/|url-status=live}}</ref>  Variations designed for visual appeal on social media, such as dumplings and buns made to resemble animals and fictional characters, also exist.<ref name=":25">{{Cite web|last=Schulman |first=Amy |date=5 February 2019|title=Hungerlust: One Man Is Reshaping Yum Cha in Hong Kong|url=https://theculturetrip.com/asia/china/articles/hungerlust-one-man-is-reshaping-yum-cha-in-hong-kong/|access-date=6 August 2020|website=Culture Trip |archive-date=24 June 2020|archive-url=https://web.archive.org/web/20200624022001/https://theculturetrip.com/asia/china/articles/hungerlust-one-man-is-reshaping-yum-cha-in-hong-kong/|url-status=live}}</ref><ref name="Andrea Brown"/><ref>{{Cite web|date=15 June 2020|title=Cute dim sum is huge in Hong Kong and we love it! {{!}} Honeycombers|url=https://thehoneycombers.com/hong-kong/cute-dim-sum-hong-kong-novelty-food/|access-date=2 October 2020|website=Honeycombers Hong Kong |language=en-GB}}</ref> Dim sum chefs have previously used cocoa powder as coloring to create steamed bread puffs to appear like forest mushrooms, espresso powder as both flavoring and coloring for deep-fried riblets, as well as pastry cream, and French puffs to create innovative dishes while paying tribute to the history of dim sum.<ref name=":4" />
+
+=== Fast food ===
+Dim sum can often be purchased from grocery stores in major cities.<ref name="Entertaining 2009" /> They can be cooked easily by steaming, frying, or microwaving.<ref>{{Cite web|title=How to Throw a Dim Sum Party Like A Pro|url=https://www.foodandwine.com/how/throw-dim-sum-party-pro|access-date=3 July 2020|website=[[Food & Wine]]|language=EN |archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703235554/https://www.foodandwine.com/how/throw-dim-sum-party-pro|url-status=live}}</ref><ref>{{Cite web|title=How to Cook Frozen Dumplings|url=https://www.seriouseats.com/2015/03/how-to-cook-frozen-dumplings-boil-steam-microwave-fry.html|access-date=3 July 2020|website=seriouseats.com |language=en|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704032658/https://www.seriouseats.com/2015/03/how-to-cook-frozen-dumplings-boil-steam-microwave-fry.html|url-status=live}}</ref> Major grocery stores in Hong Kong, Vietnam, the Philippines, Singapore, Taiwan, China, Indonesia, Malaysia, Brunei, Thailand, Australia,<ref>{{Cite web|title=A Super Guide to Asian Supermarkets|url=https://www.broadsheet.com.au/sydney/food-and-drink/article/super-guide-asian-supermarkets|access-date=2 September 2020|website=[[Broadsheet (website)|Broadsheet]]|language=en|archive-date=5 October 2020|archive-url=https://web.archive.org/web/20201005130753/https://www.broadsheet.com.au/sydney/food-and-drink/article/super-guide-asian-supermarkets|url-status=live}}</ref> the United States<ref name=":27">{{Cite web|last=Sietsema |first=Robert |date=21 May 2020|title=Eater's Restaurant Critics Review NYC's Best Frozen Dumplings and Bao |url=https://ny.eater.com/2020/5/21/21257478/best-frozen-dumpling-bao-chinese-korean-japanese-soup-grocery-review|access-date=2 September 2020|website=[[Eater NY]] |language=en |archive-date=28 June 2020|archive-url=https://web.archive.org/web/20200628205841/https://ny.eater.com/2020/5/21/21257478/best-frozen-dumpling-bao-chinese-korean-japanese-soup-grocery-review|url-status=live}}</ref><ref>{{Cite web|last=Daley |first=Bill |title=Who makes the best frozen pork pot stickers? We put 7 brands to the test|url=https://www.chicagotribune.com/dining/craving/ct-food-chinese-dumplings-supermarket-tasting-0214-story.html|access-date=2 September 2020|website=Chicago Tribune |date=2 February 2018 |archive-date=22 June 2020|archive-url=https://web.archive.org/web/20200622131147/https://www.chicagotribune.com/dining/craving/ct-food-chinese-dumplings-supermarket-tasting-0214-story.html|url-status=live}}</ref> and Canada<ref>{{Cite web|date=17 December 2008|title=Entertaining's easy with dim sum at the ready |url=https://www.straight.com/article-176234/entertainings-easy-dim-sum-ready|access-date=2 September 2020|website=[[The Georgia Straight]]|language=en|archive-date=27 December 2011|archive-url=https://web.archive.org/web/20111227142334/http://straight.com/article-176234/entertainings-easy-dim-sum-ready|url-status=live}}</ref> stock a variety of frozen or fresh dim sum. These include dumplings, ''[[shumai]]'', pork buns, and others.<ref name=":27" />
+
+In Hong Kong and other cities in Asia, dim sum can be purchased from convenience stores, [[café|coffee shops]] and other eateries.<ref>{{Cite web|title=7-Eleven champions its dim sum with "Wholehearted, Simple and Tasty" campaign launch|url=https://www.marketing-interactive.com/7-eleven-champions-its-dim-sum-with-wholehearted-simple-and-tasty-campaign-launch|access-date=3 July 2020|website=marketing-interactive.com|date=9 April 2019 |language=en-gb|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703153857/https://www.marketing-interactive.com/7-eleven-champions-its-dim-sum-with-wholehearted-simple-and-tasty-campaign-launch|url-status=live}}</ref><ref>{{Cite web|title=7-Eleven Now Sells 'Din Tai Fung' Style Garlic Fried Rice & Here's What We Think |url=https://www.todayonline.com/8days/eatanddrink/newsandopening/7-eleven-now-sells-din-tai-fung-style-garlic-fried-rice-heres-what|access-date=3 July 2020|website=[[Today (Singapore newspaper)|Today]] |archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704012252/https://www.todayonline.com/8days/eatanddrink/newsandopening/7-eleven-now-sells-din-tai-fung-style-garlic-fried-rice-heres-what|url-status=live}}</ref> [[Halal]]-certified dim sum that uses chicken instead of pork is very popular in Hong Kong,<ref>{{cite news
+| last         = Tobin
+| first         = Meaghan
+| date         = 16 December 2018
+| title         = Halal dim sum, airport prayer rooms: how Hong Kong, Japan and Korea won over Muslim travellers
+| url         = https://www.scmp.com/week-asia/lifestyle-culture/article/2177964/halal-dim-sum-airport-prayer-rooms-how-hong-kong-japan
+| work         = [[South China Morning Post]]
+| access-date         = 10 August 2020
+| archive-date         = 15 August 2020
+| archive-url         = https://web.archive.org/web/20200815121955/https://www.scmp.com/week-asia/lifestyle-culture/article/2177964/halal-dim-sum-airport-prayer-rooms-how-hong-kong-japan
+| url-status         = live
+}}</ref> Malaysia,<ref>{{cite news
+| last         = Tan
+| first         = G.C.
+| date         = 16 June 2017
+| title         = Halal dim sum gains steam
+| url         = https://www.thestar.com.my/metro/eat-and-drink/2017/06/16/halal-dim-sum-gains-steam-new-version-of-chinese-dumplings-find-a-place-in-ramadan-bazaar
+| work         = [[The Star (Malaysia)|The Star]]
+| access-date         = 10 August 2020
+| archive-date         = 13 August 2020
+| archive-url         = https://web.archive.org/web/20200813035015/https://www.thestar.com.my/metro/eat-and-drink/2017/06/16/halal-dim-sum-gains-steam-new-version-of-chinese-dumplings-find-a-place-in-ramadan-bazaar
+| url-status         = live
+}}</ref> Indonesia<ref>{{cite news
+ |last         = Elmira
+ |first        = Putu
+ |date         = 7 February 2019
+ |title        = Kuliner Malam Jumat: Berawal dari Mimpi Makan Dimsum Halal dan Terjangkau
+ |trans-title  = Friday night culinary: Started from dreaming about eating Halal Dim sum and very affordable
+ |url          = https://www.liputan6.com/lifestyle/read/3889744/kuliner-malam-jumat-berawal-dari-mimpi-makan-dimsum-halal-dan-terjangkau
+ |language     = id
+ |work         = [[Liputan 6]]
+ |access-date  = 10 August 2020
+ |archive-date = 5 October 2020
+ |archive-url  = https://web.archive.org/web/20201005130755/https://www.liputan6.com/lifestyle/read/3889744/kuliner-malam-jumat-berawal-dari-mimpi-makan-dimsum-halal-dan-terjangkau
+ |url-status   = live
+}}</ref> and Brunei.<ref>{{cite book
+ |last=Thiessen
+ |first=Tamara
+ |date=2012
+ |title=Borneo: Sabah, Brunei, Sarawak
+ |url=https://books.google.com/books?id=DCDkRTYwN5AC&q=%22halal%22%20%22dim%20sum%22%20%22brunei%22&pg=PA145
+ |location=Guilford, Connecticut
+ |publisher=[[Bradt Travel Guides]]
+ |page= 145
+ |isbn=9781841623900
+}}</ref>
+<gallery>
+HK SYP 西環 Sai Ying Pun 正街 Centre Street Dim Sum food shop March 2020 SS2 05.jpg|Streetside dim sum food shop in Hong Kong
+Frozen dimsum.JPG|Frozen dim sum are widely available at [[convenience stores]]
+Frozen Dim Sum in Grocery Store.jpg|Frozen dim sum in a grocery store in the United States
+File:Vancouver - Dim Sum Express.jpg|Express Dim Sum food truck, Canada Place, Vancouver, British Columbia.
+</gallery>
+
+=== Restaurants ===
+[[File:Example of Dim Sum Lunch.jpg|thumb|A light blue bill card (upper left) on a table of traditional family-style dim sum lunch dishes in a restaurant|alt=|left]]
+
+Some Cantonese restaurants serve dim sum as early as five in the morning,<ref name=":18">梁廣福. (2015). 再會茶樓歲月 (初版. ed.). 香港: 中華書局(香港)有限公司</ref> while more traditional restaurants typically serve dim sum from mid-morning until mid-afternoon.<ref name="Jacobs 2017" /><ref name="Time guide" /><ref name="NYT" /> It is common for restaurants to serve dim sum during dinner as well as for [[takeout]].<ref name=":19">{{Cite news|last=Scholem |first=Richard Jay |date=16 August 1992|title=A la Carte; Dim Sum Delights |language=en-US |work=[[The New York Times]]|url=https://www.nytimes.com/1992/08/16/nyregion/a-la-carte-dim-sum-delights.html|access-date=3 July 2020|issn=0362-4331|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704161629/https://www.nytimes.com/1992/08/16/nyregion/a-la-carte-dim-sum-delights.html|url-status=live}}</ref>
+
+Dim sum is served using a unique serving method<ref name="Phillips 2016">{{cite book | last=Phillips | first=C. | title=The Dim Sum Field Guide: A Taxonomy of Dumplings, Buns, Meats, Sweets, and Other Specialties of the Chinese Teahouse | publisher=[[Ten Speed Press]] | year=2016 | isbn=978-1-60774-956-1 | url=https://books.google.com/books?id=2zvIDAAAQBAJ&pg=PA6 | access-date=5 November 2016 | pages=5–6 | archive-date=3 March 2019 | archive-url=https://web.archive.org/web/20190303215630/https://books.google.com/books?id=2zvIDAAAQBAJ&pg=PA6 | url-status=live }}</ref> whereby servers offer dishes to customers from carts, including some carts that are steam-heated.<ref name=":1" /><ref name="Phillips 2016" /><ref name=":20">{{cite book | last=Guides | first=R. | title=The Rough Guide to Southeast Asia On A Budget | publisher=[[Rough Guides]] | year=2010 | isbn=978-1-4053-8686-9 | url=https://books.google.com/books?id=blOJhyGSjtwC&pg=PA145 | access-date=5 November 2016 | page=145 | archive-date=3 March 2019 | archive-url=https://web.archive.org/web/20190303215629/https://books.google.com/books?id=blOJhyGSjtwC&pg=PA145 | url-status=live }}</ref> Diners often prefer tables nearest the kitchen since servers and carts pass by these tables first.<ref name="Epicurious etiquette" /> Many restaurants place [[lazy susan]]s on tables to help diners reach food and tea.<ref>{{Cite news|last=Daniel A. Gross |title=The Lazy Susan, the Classic Centerpiece of Chinese Restaurants, Is Neither Classic nor Chinese |language=en |work=[[Smithsonian Magazine]]|url=https://www.smithsonianmag.com/arts-culture/lazy-susan-classic-centerpiece-chinese-restaurants-neither-classic-nor-chinese-180949844/|access-date=6 July 2020|archive-date=3 August 2020|archive-url=https://web.archive.org/web/20200803191637/https://www.smithsonianmag.com/arts-culture/lazy-susan-classic-centerpiece-chinese-restaurants-neither-classic-nor-chinese-180949844/|url-status=live}}</ref>
+
+The pricing of dishes at these types of restaurants may vary, but traditionally they are classified as "small", "medium", "large", "extra-large", or "special".<ref name="Spoon Uni 2014">{{Cite web|date=31 December 2014|title=Everything You Need to Know About Dim Sum|url=https://spoonuniversity.com/lifestyle/dim-sum-101|access-date=3 July 2020|website=Spoon University |language=en-US |archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703155702/https://spoonuniversity.com/lifestyle/dim-sum-101|url-status=live}}</ref> Servers record orders with a rubber stamp or an ink pen on a bill card that remains on the table.<ref name="Entertaining 2009" /><ref name="Spruce Eats2"/><ref name="Asia Society" /> Servers in some restaurants use distinctive stamps to track sales statistics for each server.{{Citation needed|date=September 2020}} When they have finished eating, the customer calls the server over, and their bill is calculated based on the number of stamps or quantities marked in each priced section.<ref name=":26" /><ref name="Spruce Eats2"/><ref name="Asia Society2">{{Cite web|title=What Is Dim Sum? The Beginner's Guide to South China's Traditional Brunch Meal|url=https://asiasociety.org/reference/what-dim-sum-beginners-guide-south-chinas-traditional-brunch-meal|access-date=3 July 2020|website=Asia Society |date=25 July 2017 |language=en|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703054952/https://asiasociety.org/reference/what-dim-sum-beginners-guide-south-chinas-traditional-brunch-meal|url-status=live}}</ref>
+
+Another way of pricing the food that was consumed uses the number and color of the dishes left on the table.<ref name=":4" /><ref name=":26" /> Some restaurants offer a new approach by using a [[conveyor belt]] format.<ref>{{Cite web|last=Corporation |first=Ready-Market Online |title=Dim Sum restaurant Solution Project|url=https://www.hong-chiang.com.tw/en/solutions/Dim-Sum-restaurant-Solution-Project/solutions-faq-003.html|access-date=3 July 2020|website=Hong Chiang Technology Industry Co.|language=en|archive-date=8 June 2020|archive-url=https://web.archive.org/web/20200608032229/https://www.hong-chiang.com.tw/en/solutions/Dim-Sum-restaurant-Solution-Project/solutions-faq-003.html|url-status=live}}</ref>
+
+Other Cantonese restaurants may take orders from a pre-printed sheet of paper and serve [[à la carte]], much like Spanish [[tapas]] restaurants,<ref>{{Cite web|last=James |first=Trevor |date=9 August 2019|title=What is Dim Sum + The Ultimate Ordering Guide|url=https://www.thefoodranger.com/what-is-dim-sum-the-ultimate-guide/|access-date=3 July 2020|website=[[The Food Ranger]]|language=en-US|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703142332/https://www.thefoodranger.com/what-is-dim-sum-the-ultimate-guide/|url-status=live}}</ref><ref>{{Cite web|date=10 December 2017|title=Six rules for eating dim sum like a pro |url=https://www.scmp.com/magazines/style/travel-food/article/2123276/six-rules-eating-dim-sum-hong-kong-pro|access-date=3 July 2020|website=[[South China Morning Post]]|language=en|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704063402/https://www.scmp.com/magazines/style/travel-food/article/2123276/six-rules-eating-dim-sum-hong-kong-pro|url-status=live}}</ref> to provide fresh, cooked-to-order dim sum or because of real estate and resource constraints.<ref>{{Cite web|last=Embiricos |first=George |date=16 June 2015|title=Dim Sum Has Gotten The Hell Out Of Chinatown|url=https://www.foodrepublic.com/2015/06/16/dim-sum-has-gotten-the-hell-out-of-chinatown/|access-date=3 July 2020|website=[[Zero Point Zero Production|Food Republic]]|language=en-US|archive-date=8 August 2020|archive-url=https://web.archive.org/web/20200808143110/https://www.foodrepublic.com/2015/06/16/dim-sum-has-gotten-the-hell-out-of-chinatown/|url-status=live}}</ref><ref>{{Cite web|title=Britain's Dim Sum Trolleys Are Making Their Last Rounds|url=https://www.vice.com/en/article/britains-dim-sum-trolleys-are-making-their-last-rounds/|access-date=3 July 2020|website=[[Vice Media|Vice]]|date=25 April 2016 |language=en|archive-date=3 July 2020|archive-url=https://web.archive.org/web/20200703164737/https://www.vice.com/en_us/article/9aggq5/britains-dim-sum-trolleys-are-making-their-last-rounds|url-status=live}}</ref>
+[[File:HK 堅尼地城 Kennedy Town 北街 North Street dim sum food shop October 2019 SS2 12.jpg|thumb|Dim sum food shop in Hong Kong]]
+
+==See also==
+* [[Bamboo steamer]]
+* [[Cantonese cuisine]]
+* [[Chinese cuisine]]
+* [[Dim sim]], Australian dumpling inspired by dim sum, with origins in local Cantonese restaurants.
+* [[Hong Kong cuisine]]
+* [[List of brunch foods]]
+* [[List of dumplings]]
+* {{portal-inline|China}}
+* {{portal-inline|Hong Kong}}
+* {{portal-inline|Food}}
+
+== References ==
+{{Reflist|3}}
+
+==Sources==
+{{Refbegin}}
+* Phillips, Carolyn (2006) ''The Dim Sum Field Guide: A Taxonomy of Dumplings, Buns, Meats, Sweets, and Other Specialties of the Chinese Teahouse''. [[New York City|New York]]: [[Crown Publishing Group]] {{isbn|9781607749578}}
+* {{cite book |author=Chén Zōngmào [陳宗懋] |year=1991 |script-title=zh:中國茶經 |title=Zhōngguó chájīng |trans-title=Chinese Tea |language=zh <!-- location=[[Shanghai]] (obvious) --> |publisher=Shanghai Culture Press [上海文化出版社]  |isbn=978-7-80511-499-6 |ref={{harvid|Chen ZM|1991}} }}
+{{Refend}}
+
+== Further reading ==
+*[https://www.scmp.com/magazines/post-magazine/food-drink/article/3238622/hong-kongs-disappearing-dim-sum-why-old-school-trolleys-and-pig-liver-siu-mai-are-being-replaced Hong Kong’s disappearing dim sum: why old-school trolleys and pig liver siu mai are being replaced] {{Webarchive|url= https://web.archive.org/web/20231031015120/https://www.scmp.com/magazines/post-magazine/food-drink/article/3238622/hong-kongs-disappearing-dim-sum-why-old-school-trolleys-and-pig-liver-siu-mai-are-being-replaced|date=October 31, 2023}}
+*[https://www.scmp.com/magazines/post-magazine/food-drink/article/3236476/hong-kong-dim-sum-essential-why-bamboo-steamers-are-such-vital-part-one-citys-most-loved-food A Hong Kong dim sum essential: why bamboo steamers are such a vital part of one of the city’s most loved food traditions]  {{Webarchive|url= https://web.archive.org/web/20231129185805/https://www.scmp.com/magazines/post-magazine/food-drink/article/3236476/hong-kong-dim-sum-essential-why-bamboo-steamers-are-such-vital-part-one-citys-most-loved-food|date=November 29, 2023}} 
+*[https://www.thestandard.com.hk/breaking-news/fc/4/204716/'Joys-of-life':-Hong-Kong-food-traditions-endure-in-city-of-flux 'Joys of life': Hong Kong food traditions endure in city of flux] {{Webarchive|url=https://web.archive.org/web/20250207024331/https://www.thestandard.com.hk/breaking-news/fc/4/204716/|date=February 7, 2025}}
+*[https://www.discoverhongkong.com/uk/explore/dining/dim-sum-culture.html How to enjoy dim sum in Hong Kong] {{Webarchive|url=https://web.archive.org/web/20221004170313/https://www.discoverhongkong.com/uk/explore/dining/dim-sum-culture.html|date=October 4, 2022}}
+
+== External links ==
+{{Commons category|Dim sum}}
+{{Spoken Wikipedia|Dim sum.ogg|date=2005-04-19}}
+
+{{Cantonese cuisine}}
+{{Hong Kong cuisine}}
+{{Dumplings}}
+{{Breakfast topics}}
+{{Street food}}
+{{Guangdong topics}}
+{{Authority control}}
+
+[[Category:Dim sum| ]]
+[[Category:Breakfast]]
+[[Category:Cantonese cuisine]]
+[[Category:Cantonese words and phrases]]
+[[Category:Dumplings]]
+[[Category:Fast food]]
+[[Category:Hong Kong cuisine]]
+[[Category:Malaysian cuisine]]
+[[Category:National dishes]]
+[[Category:Filipino cuisine]]
+[[Category:Serving and dining]]
+[[Category:Singaporean cuisine]]
+[[Category:Street food]]
+[[Category:Taiwanese cuisine]]
+[[Category:Vietnamese cuisine]]
+[[Category:Tea culture]]
+[[Category:Yum cha]]
+[[Category:Australian cuisine]]

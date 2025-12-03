@@ -1,0 +1,338 @@
+{{Short description|Rice-based dish from South Asia}}
+{{Distinguish|Isfahan beryani}}
+{{pp-pc|small=yes}}
+{{Use British English|date=March 2023}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox food
+| name               = Biryani
+| image              = "Hyderabadi Dum Biryani".jpg
+| caption            = Hyderabadi dum biryani
+| alternate_name     = ''Biriyani'', ''biriani'', ''beriani'', ''briyani'', ''breyani'', ''briani'', ''birani'', ''buriyani'', ''bariania'', ''beriani''
+| region             = [[South Asia]]
+| course             = Main dish
+| served             = Hot
+| main_ingredient    = {{plain list|
+* Meat
+* Rice
+* Spices
+ }}
+| minor_ingredient   = {{plainlist|
+* Beef
+* Chicken
+* Dried fruits
+* Eggs
+* Mutton
+* Nuts
+* Potatoes
+* Vegetables
+ }}
+| variations         = Various
+| other              = 
+}}
+
+{{Contains special characters
+|special = [[Devanagari|Hindi]], [[Urdu alphabet|Urdu]], [[Arabic alphabet|Arabic]], and [[Persian alphabet|Persian]] text
+|fix = Help:Multilingual support
+|error = [[Specials (Unicode block)#Replacement character|question marks, boxes]], unjoined letters running left to right, misplaced vowels, missing conjuncts, or other symbols instead of [[Devanagari|Hindi]], [[Urdu alphabet|Urdu]] or [[Arabic alphabet|Arabic]], an appropriate script 
+}}
+
+'''Biryani''' ({{IPAc-en|b|ɜːr|ˈ|j|ɑː|n|i}}) is a [[mixed rice dish]] originating in [[South Asia]], traditionally made with rice, meat ([[Chicken as food|chicken]], [[Goat meat|goat]], [[Lamb (food)|lamb]], [[beef]]) or seafood ([[Shrimp and prawn as food|prawns]] or [[Fish as food|fish]]), and [[spices]].
+
+Biryani is one of the most popular dishes in South Asia and among the [[South Asian diaspora]], though the dish is often associated with [[Islam in South Asia|the region's Muslim population]] in particular.<ref name="scroll7Feb20202">{{Cite news |last=Daniyal |first=Shoaib |date=7 February 2020 |title=Biryani is India's most popular dish – so why does the BJP hate it so much? |url=https://scroll.in/article/952475/biryani-is-indias-most-popular-dish-so-why-does-the-bjp-hate-it-so-much |access-date=2021-12-17 |work=Scroll.in }}</ref> Regional variations exist, such as regarding the addition of [[Eggs as food|eggs]] and/or [[Potato|potatoes]], as well as [[Hindu Vegetarianism|religious ones]], such as the replacement of meat with [[paneer]] or vegetables by vegetarians.<ref>{{cite news |last=Bhandari |first=Kabir Singh |date=21 April 2020 |title=The curious case of potato in Kolkata biryani and how the British fed us a lie |url=https://www.hindustantimes.com/more-lifestyle/the-curious-case-of-potato-in-kolkata-biriyani-and-how-the-british-fed-us-a-lie/story-k1smJjNz1QhxyyVZVdNyKN.html |access-date=19 August 2020 |newspaper=[[Hindustan Times]]}}</ref> Similar dishes are also prepared in many other countries like [[Iraq]] and [[Malaysia]], and was often spread to such places by South Asian diaspora populations.<ref>{{Cite news |last=Wallis |first=Bruce |date=12 April 2017 |title=Eat My Words: A taste of Iraqi Kurdistan |url=https://www.duluthnewstribune.com/lifestyle/food/4249270-eat-my-words-taste-iraqi-kurdistan |url-status=dead |archive-url=https://web.archive.org/web/20211005065230/https://www.duluthnewstribune.com/lifestyle/food/4249270-eat-my-words-taste-iraqi-kurdistan |archive-date=5 October 2021 |access-date=28 December 2018 |work=[[Duluth News Tribune]] |language=en}}</ref><ref>{{Cite web |title=Iconic Dishes: A Guide to Rice Dishes in Malaysia and Where to Find Them |url=https://guide.michelin.com/en/article/dining-out/iconic-dishes-a-guide-to-rice-dishes-in-malaysia-michelin-guide |access-date=2025-05-30 |website=MICHELIN Guide |language=en-US}}</ref> Biryani is the single most-ordered dish on Indian online food ordering and delivery services, and has been described as the most popular dish in [[India]].<ref name="scroll7Feb2020">{{Cite news |last=Daniyal |first=Shoaib |title=Biryani is India's most popular dish – so why does the BJP hate it so much? |url=https://scroll.in/article/952475/biryani-is-indias-most-popular-dish-so-why-does-the-bjp-hate-it-so-much |access-date=2021-12-17 |work=Scroll.in |date=7 February 2020 |language=en-US}}</ref><ref>{{cite news |last1=Tandon |first1=Suneera |title=Jubilant FoodWorks forays into biryani business with 'Ekdum' |url=https://www.livemint.com/companies/news/jubilant-foodworks-forays-into-biryani-brand-ekdum-11608126898411.html |work=mint |access-date=15 November 2021 |language=en |date=16 December 2020}}</ref>
+{{TOC limit}}
+
+==Etymology==
+[[File:Indian Cuisine - Biryani on 2017 stamp of India.jpg|alt=Decorative stamp with picture of a biryani served up in a round terracotta pot, labelled "500" in top left corner of stamp and "Biryani" in top right corner|thumb|''Biryani'' depicted on a 2017 Indian stamp]]
+Theories propose that the word biryani comes from ''birinj'' ({{langx|fa|{{Wikt-lang|fa|برنج}}}}), the Persian word for rice.<ref>{{cite web | url=https://www.bbc.com/news/world-asia-india-36423412 | title=From Iran to India: The journey and evolution of biriyani | work=BBC News | date=15 July 2016 }}</ref><ref name="Pratibha2009">{{cite book |last=Karan |first=Pratibha |url=https://books.google.com/books?id=cZe-r38DYjcC |title=Biryani |publisher=Random House India |year=2009 |isbn=978-81-8400-254-6 |pages=1–12, 45}}</ref> Another theory states that it is derived from ''biryan'' or ''beriyan'' ({{langx|fa|{{Wikt-lang|fa|بریان}}}}), which means "to fry" or "to roast".<ref>{{cite book |url=https://books.google.com/books?id=2iX3RXJnHCUC |title=The Persian Contributions to the English Language: An Historical Dictionary |last1=Cannon |first1=Garland Hampton |last2=Kaye |first2=Alan S. |publisher=[[Otto Harrassowitz Verlag]] |year=2001 |isbn=978-3-44704-503-2 |page=71}}</ref><ref name="BS2011">{{cite news |url=http://www.business-standard.com/article/beyond-business/when-rice-met-meat-111051400071_1.html |title=When rice met meat |first=Anoothi |last=Vishal |date=14 May 2011 |newspaper=[[Business Standard]] |access-date=6 August 2018}}</ref><ref>{{cite web |url=http://www.oxforddictionaries.com/us/definition/american_english/biryani |archive-url=https://web.archive.org/web/20131014020333/http://oxforddictionaries.com/us/definition/american_english/biryani |url-status=dead |archive-date=14 October 2013 |title=Definition of 'biryani' |website=Oxford Dictionary |access-date=15 July 2016}}</ref> It may alternatively be related to the Persian word ''bereshtan'' ({{langx|fa|{{Wikt-lang|fa|برشتن}}}}) which also means "to roast (onions)", as the dish is often prepared by flavouring rice with fried onions and meat, along with mild spices.
+
+==Origin==
+According to the historian [[Lizzie Collingham]], the modern ''biryani'' developed in the royal kitchens of the [[Mughal Empire]] (1526–1857) and is a mix of the native spicy rice dishes of South Asia and the Persian ''[[pilaf|polao]]''.<ref name="Lizzie2006">{{cite book |last=Collingham |first=Lizzie |author-link=Lizzie Collingham |url=https://archive.org/details/curry00lizz |title=Curry: A Tale of Cooks and Conquerors |date=6 February 2006 |publisher=[[Oxford University Press]] |isbn=978-0-19-988381-3 |page=[https://archive.org/details/curry00lizz/page/27 27] |url-access=registration}}</ref> Indian restaurateur Kris Dhillon believes that the dish originated in [[Persia]] and was brought to South Asia by the Mughals.<ref name="Dhillon2013">{{cite book |last=Dhillon |first=Kris |url=https://books.google.com/books?id=kj3BBAAAQBAJ&pg=PT234 |title=The New Curry Secret |publisher=Little, Brown Book Group |year=2013 |isbn=978-0-7160-2352-4 |page=234}}</ref> Salma Hossein, whom the [[BBC]] has dubbed the "doyenne of Islamic cooking in India," shares a similar view, asserting that biryani came to South Asia from Persia even before the Mughal era. Food scholar [[Pushpesh Pant]] also challenges the Mughal-origin claim, stating that it originated in [[Iran]] and that "there is no evidence that biryani first came to this land with the Mughals. It is far more probable that it travelled with pilgrims and soldier-statesmen of noble descent to the [[Deccan Plateau|Deccan region]] in South India".<ref>{{Cite news |date=15 June 2016 |title=From Iran to India: The journey and evolution of biriyani |url=https://www.bbc.com/news/world-asia-india-36423412 |access-date=23 January 2024 |work=[[BBC News]] |language=en-GB}}</ref>
+
+Another theory claims that the dish was prepared in South Asia before the first Mughal emperor [[Babur]] conquered India.<ref name="Vir_invention">{{cite news |last=Sanghvi |first=Vir |author-link=Vir Sanghvi |title=Biryani Nation |url=http://blogs.hindustantimes.com/rude-food/2010/03/03/biryani-nation/ |work=Hindustan Times |url-status=dead |archive-url=https://web.archive.org/web/20140817181203/http://blogs.hindustantimes.com/rude-food/2010/03/03/biryani-nation/ |archive-date=17 August 2014 |access-date=24 August 2014}}</ref> The 16th-century Mughal text ''[[Ain-i-Akbari]]'' makes no distinction between ''biryanis'' and ''pilaf'' (or ''pulao''): it states that the word "biryani" is of older usage in India.<ref name="TheHindu2012" /> A similar theory, that ''biryani''<ref>{{Cite web |date=2025-08-19 |title=अब घर पर बनाएं खुशबूदार और स्वादिष्ट Best No.1 Chicken Biryani बिलकुल रेस्टोरेंट जैसा मज़ा! - Muskan Food Recipes |url=https://muskanfoodrecipes.com/chicken-biryani/ |access-date=2025-09-20 |language=en-US}}</ref> came to India with [[Timurid dynasty|Timur]]'s invasion, appears to be incorrect because there is no record of ''biryani'' having existed in his native land during that period.<ref name="Vir_invention" />
+
+Pratibha Karan, author of ''Biryani'', writes how ''biryani'' is of Mughal origin, derived from ''pilaf'' varieties brought to the Indian subcontinent by [[Arab people|Arab]] and [[Persians|Persian]] traders. She speculates that the ''pulao'' was an army dish in medieval India. Armies would prepare a one-pot dish of rice with any available red meat. Over time, the dish became ''biryani'' due to different methods of cooking, with the distinction between "pulao" and "biryani" being arbitrary.<ref name="Pratibha2009" /><ref name="Vir_invention" />
+
+According to Vishwanath Shenoy, the owner of a ''biryani'' restaurant chain in India, one branch of ''biryani'' comes from the Mughals, while another was brought by the Arab traders to [[Malabar Coast|Malabar]] in South India.<ref name="rediff_Priya2004">{{cite news |last=Ganapti |first=Priya |date=9 April 2004 |title=Of biryani, history, and entrepreneurship |url=http://www.rediff.com/money/2004/apr/09spec.htm |access-date=27 August 2014 |work=[[Rediff.com]]}}</ref>
+
+There are various apocryphal stories dating the invention to Shah Jahan's time but Rana Safvi, the distinguished historian, says she could only find a recipe from the later Mughal period, from Bahadur Shah Zafar's time. It is not her claim that there was no biryani before that; just that she has not found a recipe. Other historians who have gone through texts say that the first references to biryani only appear around the 18th century.<ref>{{Cite news |date=25 July 2021 |title=Rude Food by vir Sanghvi: The people's biryani |url=https://www.hindustantimes.com/lifestyle/brunch/rude-food-by-vir-sanghvi-the-people-s-biryani-101627181800260-amp.html |work=Hindustan Times}}</ref>
+
+=== Southern India ===
+[[File:Thalassery biryani -1.jpg|thumb|[[Thalassery]] Biryani, a Southern Indian Biryani]]
+
+
+In Southern India, where rice is more widely used as a staple food, several distinct varieties of ''biryani'' emerged from [[Hyderabad]] in [[Telangana]], [[Vijayawada]] in [[Andhra Pradesh]], [[Mangalore]] and [[Bhatkal]] in Coastal [[Karnataka]], [[Thalassery]] in [[Kerala]], as well as [[Ambur]] and [[Chettinad]] in [[Tamil Nadu]].<ref name="Pratibha2009" /><ref name=":2">{{Cite web |last=Saxena |first=Sparshita |title=10 Best Biryani Recipes |url=http://food.ndtv.com/lists/10-best-biryani-recipes-696324 |access-date=24 June 2016 |website=NDTV Food}}</ref>
+
+=== Local varieties ===
+* [[Hyderabadi biryani]]
+* [[Thalassery cuisine#Thalassery biryani|Kerala biriyani]]
+* [[Kolkata biryani]]
+* [[Sindhi biryani]]
+* [[Thalassery cuisine#Thalassery biryani|Thalassery biryani]]
+* [[Trivandrum Travancore Biriyani|Travancore Biriyani]]
+
+=== Difference between biryani and pulao ===
+[[File:Mirchi ka salan and Dahi chutney.jpg|thumb|Two ''biryani'' accompaniments, ''[[mirchi ka salan]]'' and ''[[raita]]'']]
+''[[Pilaf]]'' or ''pulao'', as it is known on the Indian subcontinent, is another mixed rice dish popular in the [[cuisines of the Indian subcontinent]], Central Asia, and [[Middle Eastern cuisine]]. Opinions differ on the differences between ''pulao'' and ''biryani'', and whether there is actually a difference between the two.<ref name="KrishTulasi2012">{{cite book |last=Shaffer |first=Holly |chapter=6: Dum Pukht |editor1-last=Ray |editor1-first=Krishnendu |editor2-last=Srinivas |editor2-first=Tulasi |title=Curried Cultures: Globalization, Food, and South Asia |chapter-url=https://books.google.com/books?id=p1kZBqJBjOgC&pg=PA124 |year=2012 |publisher=University of California Press |isbn=978-0-520-27011-4 |pages=124–}}</ref><ref>{{cite web | url=https://www.myntorlando.com/what-is-the-difference-between-biryani-and-pulao/ | title=What is the Difference Between Biryani and Pulao - Mynt Orlando | date=23 June 2023 }}</ref>
+
+According to Delhi-based historian [[Sohail Hashmi]], ''pulao'' tends to be plainer than ''biryani'', and consists of meat or vegetables cooked with rice with the bottom layered with potatoes or onions. ''Biryani'' contains more gravy (or [[yahni|''yakhni'']]), and is often cooked longer, leaving the meat (and vegetables, if present) more tender, and the rice more flavoured. ''Biryani'' is also cooked with additional dressings and often would have a light layer of [[scorched rice]] at the bottom.<ref name="ndtvravish"/>
+
+Author Pratibha Karan states that while the terms are often applied arbitrarily, the main distinction is that a ''biryani'' consists of two layers of rice with a layer of meat (and vegetables, if present) in the middle, while the ''pulao'' is not layered.<ref name="Vir_invention" />
+
+Author [[Colleen Taylor Sen]] lists the following distinctions between ''biryani'' and ''pulao'':<ref>{{cite book |url=https://books.google.com/books?id=VN_vCgAAQBAJ&pg=PA194 |title=Feasts and Fasts: A History of Food in India |last=Taylor Sen |first=Colleen |publisher=Reaktion Books |year=2014 |isbn=9781780233918 |pages=194–195}}</ref>
+* ''Biryani'' is the primary dish in a meal, while the ''pulao'' is usually a secondary accompaniment to a larger meal.
+* In ''biryani'', meat (and vegetables, if present) and rice are cooked separately before being layered and cooked together for the gravy to absorb into the rice. ''Pulao'' is a single-pot dish: meat (or vegetables) and rice are cooked separately and they are not mixed. However, some other writers have reported ''pulao'' recipes in which the rice and meat are cooked together and then simmered for [[dum pukht|dum cooking]] until the liquid is absorbed.<ref name="KrishTulasi2012" /><ref name="BhatnagarSaxena1997">{{cite book |first1=Sangeeta |last1=Bhatnagar |first2=R. K. |last2=Saxena |title=Dastarkhwan-e-Awadh |url=https://books.google.com/books?id=XBNHAAAAYAAJ |date=1 January 1997 |publisher=HarperCollins Publishers, India |isbn=978-81-7223-230-6}}</ref>
+* ''Biryanis'' have more complex and stronger spices compared to ''pulao''.
+The [[British Raj|British-era]] author [[Abdul Halim Sharar]] mentions that ''biryani'' has a stronger taste of curried rice due to a greater amount of spices.<ref name="KrishTulasi2012" /><ref name="Abdul1913">{{cite book |first=ʻAbdulḥalīm |last=Sharar |author-link=Abdul Halim Sharar |title=Lucknow: The Last Phase of an Oriental Culture (Hindustan Men Mashriqi Tamaddun ka Akhri Namuna) |translator=E.S. Harcourt |translator2=Fakhir Hussain |url=https://books.google.com/books?id=98IPSgAACAAJ |year=1989 |publisher=Oxford University Press |isbn=978-0-19-562364-2 |orig-year=1913}}<!-- Originally serialized in the journal ''Dil Gudaz'' in the years after 1913 --></ref>
+
+==Ingredients==
+Ingredients for ''biryani'' are extensive and vary according to the region and the type of meat and vegetables used. Meat (chicken, goat, beef, lamb,<ref name="Saveur 2017-06-22">{{Cite magazine |url=https://www.saveur.com/south-asian-indian-biryani-guide |title=A Beginner's Guide to Biryani, the Ultimate Rice Dish |last=Makhijani |first=Pooja |magazine=Saveur |language=en |date=22 June 2017 |access-date=19 December 2018}}</ref> prawn or fish) is the prime ingredient with rice. As is common in dishes of South Asia, vegetables are sometimes also used when preparing ''biryani''. Corn may be used, depending on the season and availability. Navratan ''biryani'' tends to use sweeter, richer ingredients such as [[cashew]]s, [[Sultana (grape)|sultanas]] (''kishmish''), and fruits such as apples and [[pineapple]]s.<ref name="ndtvravish" />
+
+The spices and [[condiment]]s used in biryani may include [[fennel seeds]], ''[[ghee]]'' (clarified butter), [[nutmeg]], [[Mace (spice)|mace]],<ref name="WWeek">{{Cite news |url=http://www.wweek.com/portland/article-17853-the-melting-pot.html |first=Ruth |last=Brown |date=16 August 2011 |title=The Melting Pot – A Local Prep Kitchen Incubates Portland's Next Generation of Food Businesses |newspaper=[[Willamette Week]] |volume=37 |number=41}}</ref> [[Black pepper|pepper]], [[clove]]s,<ref name="WWeek" /> [[cardamom]], [[cinnamon]], [[Bay leaf|bay leaves]], [[coriander]], [[Mentha|mint]], [[ginger]], onions, tomatoes, [[green chilies]],<ref name="Saveur 2017-06-22" /> [[star anise]], and garlic. The premium varieties include [[saffron]].<ref name="WWeek" /> Some commercial recipes for biryani also include aromatic essences such as Mitha [[attar]], [[kewra]] and [[rose water]]. Dried sour [[Prune|prunes]] (Plum is called ''alu bukhara'') may also be added to the biryani. In ''nasi briyani'' and other variants made in Southeast Asian countries such as [[Malaysia]], Singapore, and [[Indonesia]], typical Southeast Asian spices and aromatics such as [[Pandanus amaryllifolius|pandan]] leaf may be used alongside typical South Asian spices.<ref>{{Cite web |title=Nasi Biryani Recipe |url=https://cooking.nytimes.com/recipes/1022901-nasi-biryani |access-date=2024-05-02 |website=NYT Cooking |language=en-US}}</ref>
+
+The main ingredient that usually accompanies the spices is chicken, [[Lamb and mutton|lamb]] or [[Goat meat|goat]] meat; special varieties might use beef or seafood instead. The dish may be served with ''[[dahi chutney|raita]], [[dahi chutney]]'', or other accompaniments to soothe the biryani and lower the heat from the spices in the biryani. Other sides include [[seekh kebab]], ''[[Qorma]]'', [[curry]], a sour dish of [[aubergine]] (''brinjal''), [[boiled egg]]s, and [[salad]].
+
+== Preparation styles ==
+''Biryani'' can be cooked using one of two styles/techniques, ''pakki'' ("cooked") and ''kacchi'' ("raw").<ref>{{cite web|url=https://www.getbengal.com/details/the-origin-of-biryani-how-a-mughal-delicacy-invaded-bengal|title=The origin of Biryani – how a Mughal delicacy invaded Bengal|first=Shuvra|last=Dey|date=16 November 2022|website=GetBengal|access-date=18 November 2022}}</ref>
+* In a ''pakki biryani'', the rice, marinated meat, and any vegetables are partially ("three-quarters") cooked separately, before being combined into layers in a cooking vessel. Different layers of rice may be treated with different spices (e.g., with dissolved saffron or turmeric to give the rice different colours and flavours). The contents are then [[Baking|baked]] to complete the cooking and allow the flavours to combine. Alternatively, the components may be fully cooked, and then simply combined by layering before serving.
+* In a ''kacchi biryani'', layers of raw marinated meat are alternated in layers with wet, pre-soaked, raw rice (which may be treated with different spices as above), and cooked together by baking, or medium-to-low direct heat (typically, for at least an hour). Cooking occurs by a process of steaming from the ingredients' own moisture: the cooking vessel's lid is sealed (traditionally, with a strip of wheat dough) so that steam cannot escape (proper [[dum pukht]]).
+:A yoghurt-based marinade at the bottom of the cooking pot provides additional flavour and moisture.  Potatoes often comprise the bottom layer (a technique also used in Iranian cuisine), because, with their natural moisture content, they brown well with less risk of getting burned accidentally. The lid is not opened until the dish is ready to serve. ''Kacchi biryani'' is technically much more demanding and time-consuming than ''pakki biryani'', for the following reasons:
+:* The different ingredients—meat, rice, vegetables—have different cooking times: tender cuts of meat/chicken can be fully cooked well before the rice is done. To prevent this, many ''kacchi'' recipes use parboiled (semi-cooked) rice rather than raw rice.
+:* If direct heat is used, there is a risk that the food layer in contact with the vessel bottom may get burned while the interior's contents are still raw. This risk is minimized by sustained baking with moderate heat or very slow cooking on low direct heat. This approach, however, increases cooking time considerably.
+:* One method is cooking the dish "blind", with the cooking vessel sealed, so one cannot monitor the cooking progress—it takes expertise and understanding of the raw foods used, the heat required to cook those raw foods, and how the climate can affect the cooking process. Hence making ''kacchi biryani'' requires a seasoned hand.
+
+==Varieties==
+===On the Indian subcontinent===
+[[File:Hyderabadi egg biryani.jpg|thumb|[[Hyderabad, India|Hyderabadi]] egg ''biryani'' served with mirchi ka salan, raita and salad]]
+[[File:Vegetable Biriyani.jpeg|thumb|A Hyderabadi vegetable ''biryani'' served in [[Tampa]], U.S.]]
+[[File:Biryani of Lahore.jpg|thumb|''Biryani'' of Lahore]]
+There are many types of ''biryani'', whose names are often based on their region of origin. For example, [[Sindhi biryani]] developed in the [[Sindh]] region of what is now Pakistan, and [[Hyderabadi biryani]] developed in the city of [[Hyderabad]] in South India.
+
+Some have taken the name of the shop that sells it, for example: ''[[Haji Biriyani]]'', ''Haji Nanna Biriyani'' in [[Old Dhaka]],<ref>{{cite web |url=http://www.espncricinfo.com/page2/content/story/489063.html |title=The king of rice dishes |first=Mohammad |last=Isam |website=ESPN Cricinfo |access-date=6 August 2018}}</ref> ''Fakhruddin Biriyani'' in [[Dhaka]],<ref>{{cite web |url=https://www.nibizsoft.com/dhakas-biryani-a-taste-of-aristocracy/ |title=Dhaka's Biryani - A Taste of Aristocracy |date=23 May 2015 |website=NIBiz Soft |access-date=6 August 2018}}</ref><ref>{{cite news |url=https://bdnews24.com/lifestyle/2016/03/28/dhakas-biryani-can-be-unesco-world-heritage-says-food-critic-matt-preston |title=Dhaka's biryani can be UNESCO world heritage, says food critic Matt Preston |first=Hassan |last=Bipul |date=28 March 2016 |website=[[Bdnews24.com]] |access-date=6 August 2018}}</ref> Students ''biryani'' in [[Karachi]], Lucky ''biryani'' in Bandra, Mumbai and Baghdadi ''biryani'' in [[Colaba]], Mumbai.<ref name="ndtvravish" /> ''Biryanis'' are often specific to the Muslim communities where they originate; they are usually the defining dishes of those communities.<ref>{{cite news |url=http://blogs.hindustantimes.com/rude-hotels/2009/02/01/where-does-biryani-come-from/ |title=Where does biryani come from? |website=Hindustan Times |access-date=20 October 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160624141257/http://blogs.hindustantimes.com/rude-hotels/2009/02/01/where-does-biryani-come-from/ |archive-date=24 June 2016}}</ref>
+
+==== Ambur/Vaniyambadi biryani ====
+Ambur/Vaniyambadi ''biryani'' is a variety cooked in the neighboring towns of [[Ambur]] and [[Vaniyambadi]] in the [[Tirupattur district]] of the northeastern part of [[Tamil Nadu]], which houses a high Muslim population. It was introduced during the time of the [[Nawab of Arcot|Nawabs of Arcot]] who once ruled the area. It is typically made with [[Samba (rice)|''jeera samba'' rice]]. Nowadays, it is popular as both  [[Ambur]] or [[Vaniyambadi]] style ''biryani'' as those are two prominent towns along the popular [[National Highway 48 (India)|Bangalore to Chennai highway]], where travellers are known to stop for eating.<ref>{{Cite news |date=2015-08-20 |title=Ambur and the art of biryani |url=https://www.thehindu.com/features/metroplus/society/ambur-and-the-art-of-biryani/article7561508.ece |access-date=2024-08-04 |work=The Hindu |language=en-IN |issn=0971-751X}}</ref>
+
+The Ambur/Vaniyambadi ''biryani'' is often accompanied by ''dhalcha'', a sour ''[[brinjal]]'' curry, and ''pachadi'' or ''[[Raita|raitha]]'' (sliced onions mixed with plain yogurt, tomato, chilies, and salt). It is known to have a distinctive aroma and is considered light on the stomach.{{Fact|date=August 2024}} The usage of spice is moderate, and curd is used as a gravy base. It also utilizes a higher ratio of meat to rice.<ref name="TheHindu2012">{{Cite news |url=http://www.thehindu.com/life-and-style/Food/food-safari-in-search-of-ambur-biryani/article3452311.ece |title=Food Safari: In search of Ambur biryani |last1=Padmanabhan |first1=Mukund |last2=Jeyan |first2=Subash |last3=Wilson |first3=Subajayanthi |date=26 May 2012 |newspaper=[[The Hindu]] |access-date=6 August 2018 |url-status=dead |archive-url=https://web.archive.org/web/20121018041053/http://www.thehindu.com/life-and-style/Food/food-safari-in-search-of-ambur-biryani/article3452311.ece |archive-date=18 October 2012}}</ref> Ambur-style ''biryani'' is popular as a street food all across [[South India]].
+
+==== Bhatkali/Navayathi biryani ====
+This is an integral part of the [[Nawayath|Navayath]] cuisine and a specialty of [[Bhatkal]], a coastal town in [[Karnataka]]. Its origins are traced to the Persian traders who introduced ''biryani'' along with ''kababs'' and Indian breads. In Bhatkali ''biryani'', the meat is cooked in an onion and green chili-based ''masala'' and layered with fragrant rice. It has a unique spicy flavour, and the rice is overwhelmingly white with mild streaks of orange. Its variations include beef, goat, chicken, ''titar'' ([[partridge]]), egg, fish, crab, prawn, and vegetable ''biryani''.
+
+Though similar to those in [[Thalassery]], this ''biryani'' differs with lingering after-notes of mashed onions laced with garlic.{{Fact|date=August 2024}} A few chilies and spices littered with curry leaves lends a unique flavour to Bhatkali ''biryani''. No oil is used.<ref>{{cite news |last1=Kumar |first1=K. C. Vijaya |title=In search of Bhatkal Biryani |url=http://www.thehindu.com/features/magazine/mag-columns/in-search-of-bhatkal-biryani/article4512252.ece |date=16 March 2013 |newspaper=The Hindu |access-date=6 August 2018}}</ref>
+
+Another variety common among the Navayath mainly involves rice vermicelli being used as a substitute for rice, therefore lending this biryani the name '' shayya'' or ''shayyo'' as a result of its use. Like many other recipes, the meat, typically chicken, is first cooked with spices and yoghurt, with the vermicelli and fried onions being added later.<ref>{{cite web|url=https://www.clubmahindra.com/blog/food/shayya-biryani-recipe|title=Shayyo Biryani: A Bhatkali tradition}}</ref>
+
+==== Bohri biryani ====
+This ''biryani'', traditionally made by the [[Musta'li|Bohri]] community, is one with a rich history. The Bohris, originally from [[Yemen]], migrated mainly to [[Gujarat]] and other parts of India between the 11th and 13th centuries. As a result, the dish incorporates both Yemeni and Gujarati influences. The recipe is typically standard and can vary, although its signature ingredients include crispy potatoes along with even more tomatoes and onions. It is seemingly also a dish in Pakistan.<ref>{{cite web|url=https://smshahinulislam.substack.com/p/bohri-biryani|title=Bohri Biryani: History and Tradition|date=15 August 2023 }}</ref>
+
+==== Chettinad biryani ====
+[[Chettinad cuisine|Chettinad]] ''biryani'' is famous in the Indian state of [[Tamil Nadu]]. It is mostly made using [[Samba (rice)|''jeera samba'']] rice, and is known to have a distinct aroma of spices and ''[[ghee]]''.This biryani is usually paired with ''nenju elumbu kuzhambu'', a spicy and tangy goat meat gravy {{citation needed|date=March 2023}}. The ''podi [[Chicken|kozhi]]'' is usually topped with fried onions and curry leaves.<ref>{{cite news |url=http://www.thehindu.com/features/metroplus/All-the-way-from-Karaikudi/article14397076.ece |title=All the way from Karaikudi |first=Parshathy J. |last=Nath |date=23 June 2016 |newspaper=The Hindu |access-date=19 January 2017}}</ref><ref>{{cite news |url=http://www.thehindu.com/features/metroplus/little-chettinad-in-east-delhi/article6272241.ece |title=Little Chettinad in East Delhi |first=Rahul |last=Verma |date=1 August 2014 |newspaper=The Hindu |access-date=19 January 2017}}</ref><ref>{{cite news |url=http://indianexpress.com/article/lifestyle/food-wine/delicious-destinations-from-dindigul-biryani-to-bikaneri-bhujia-foodie-2852537/ |title=Delicious destinations: From Dindigul biryani to Bikaneri bhujia |date=14 June 2016 |newspaper=The Indian Express|access-date=19 January 2017}}</ref><ref>{{cite news |url=http://www.thehindu.com/features/metroplus/Food/When-Hyderabad-came-to-Chennai/article14485058.ece |title=When Hyderabad came to Chennai |first=Akila |last=Kannadasan |date=12 July 2016 |newspaper=The Hindu |access-date=19 January 2017}}</ref>
+
+[[File:Degh ki.jpg|thumb|alt=Degh Biryani|Degh biryani, as served in Parbhani District and surroundings]]
+
+==== Degh ki biryani/akhni biryani of Parbhani ====
+{{Cite section|date=August 2024}}
+Degh ki biryani is a traditional biryani dish made with small cubes of beef or mutton. This biryani is believed to have originated in the Ahmadnagar Sultanate and is particularly famous in Parbhani, a city in the Marathwada region of Maharashtra. It is commonly served at weddings.
+
+The meat is marinated with a blend of spices, including ginger, garlic, red chili powder, cumin, garam masala, fried onions, and curd, enhancing its rich flavor. This biryani is also referred to as ''kachay gosht ki biryani'' or ''dum biryani'', as the marinated meat is slow-cooked with fragrant, short-grained rice under ''dum'' (sealed, slow-cooking method) to enhance its aroma and taste. The dish is cooked on a low flame using the ''dum'' method, allowing the flavors to infuse deeply, resulting in a rich, aromatic biryani.
+
+==== Delhi biryani ====
+The Delhi version of ''biryani'' developed a unique local flavour as the Mughal kings shifted their political capital to the North Indian city of Delhi. Until the 1950s, most people cooked ''biryani'' in their home and rarely ate at eateries outside of their homes. Hence, restaurants primarily catered to travellers and merchants. Any region that saw more of these two classes of people nurtured more restaurants, and thus their own versions of ''biryani''. This is the reason why most shops that sold ''biryani'' in Delhi tended to be near mosques such as [[Jama Masjid]] (for travellers) or traditional shopping districts (such as [[Chandni Chowk]]).{{Fact|date=August 2024}}
+
+Each part of Delhi has its own style of biryani, often based on its original purpose, thus giving rise to Nizamuddin ''biryani'', Shahjahanabad ''biryani'', and others.{{Fact|date=August 2024}}  Nizamuddin ''biryani'' usually had little expensive meat and spices as it was primarily meant to be made in bulk for offering at the [[Nizamuddin Dargah]] shrine and thereafter to be distributed to devotees.<ref name="ndtvravish" /> A non-''dum'' ''biryani'', using many green chillies, popularized by the Babu Shahi Bawarchi shops located outside the National Sports Club in Delhi, is informally called Babu Shahi ''biryani''. Another version of Delhi ''biryani'' uses ''achaar'' (pickles) and is called achaari ''biryani''.<ref name="pratibha">{{cite book |last1=Karan |first1=Pratibha |year=2009 |title=Biryani |publisher=Random House (India) |isbn=978-8184000931}}</ref>
+
+==== Dhakaiya biryani ====
+[[File:Bangladeshi Biryani.jpg|thumb|right|Bengali mutton biryani is known as Dhaka kacchi ''biriyani'']]
+The city of [[Dhaka]] in Bangladesh used to be the capital of [[Bengal Subah]] and is known for Dhakaiya kacchi ''biryani'', a [[Goat meat|chevon]] ''biryani'' made with highly seasoned rice and goat meat. The recipe includes highly seasoned rice, goat meat, [[mustard oil]], garlic, onion, [[black pepper]], [[saffron]], [[clove]], [[cardamom]], [[cinnamon]], salt, lemon, [[Curd (India)|''doi'']], peanuts, [[cream]], [[raisin]]s and a small amount of cheese (either from cows or [[Water buffalo|buffalo]]). It is accompanied by ''[[borhani]]'', a salted mint drink made of yogurt, coriander, mint and salt.
+
+[[Haji Biriyani|Haji ''biryani'']] is a favourite among Bangladeshis living abroad.<ref>{{cite news |last1=Sakhawat |first1=Adil |title=Haji Biriyani: The Scintillating Taste from Old Dhaka |url=http://www.daily-sun.com/old_version/details_yes_08-03-2013_Haji-Biriyani:-The-Scintillating-Taste-from-Old-Dhaka_431_4_14_1_8.html |access-date=30 April 2015 |newspaper=[[Daily Sun (Bangladesh)|Daily Sun]] |date=8 March 2013 |url-status=dead |archive-url=https://web.archive.org/web/20150518091201/http://www.daily-sun.com/old_version/details_yes_08-03-2013_Haji-Biriyani:-The-Scintillating-Taste-from-Old-Dhaka_431_4_14_1_8.html |archive-date=18 May 2015}}</ref> A recipe was handed down by the founder of one Dhaka restaurant to the next generation. Haji Mohammad Shahed claimed, "I have never changed anything, not even the amount of salt".<ref>{{cite news |last1=Mydans |first1=Seth |title=For A Secret Stew Recipe, Time Is Running Out |url=https://www.nytimes.com/1987/07/08/garden/for-a-secret-stew-recipe-time-is-running-out.html |date=8 July 1987 |newspaper=The New York Times |access-date=30 April 2015}}</ref> [[Bengali cuisine|Bengali-style]] biryani often includes potatoes.
+
+==== Dindigul biryani ====
+The city of [[Dindigul]] in Tamil Nadu is noted for its ''biryani'', which uses a little curd and lemon juice for a tangy taste.<ref>{{cite news |url=https://www.thehindu.com/todays-paper/tp-features/tp-metroplus/Biryani-bistro/article15706628.ece |title=Biryani bistro |newspaper=The Hindu |date=22 November 2010 |orig-date=11 March 2010 |access-date=28 December 2012 |url-status=live |archive-url=https://web.archive.org/web/20200227015614/https://www.thehindu.com/todays-paper/tp-features/tp-metroplus/Biryani-bistro/article15706628.ece |archive-date=27 February 2020}}</ref>
+
+==== Donne biryani ====
+According to some historians, this ''biryani'' is believed to have originated many centuries ago, although the purported origins are numerous and disputed. One historical account states that in 1638, [[Shahaji|Shahaji Bhosale]] of the Maratha Empire achieved his conquest of [[Bangalore]] in Karnataka, and his descendants set up and ran these new establishments called "military hotels".<ref>{{cite web|url=https://timesofindia.indiatimes.com/city/bengaluru/a-cottonpet-institution-famed-for-biryani-turns-111/articleshow/70231923.cms|title=The Rich History of Donne Biryani|work=The Times of India |date=16 July 2019 }}</ref>
+
+Today, the [[Military hotels in Bangalore|military hotels]] of Bangalore are well known for selling ''biryani'' served in dried leaf bowls called '''donne''' in Kannada.<ref>{{cite news |title=This Bengaluru hotel is a hit with biriyani lovers |url=https://www.thehindu.com/life-and-style/food/watch-this-bengaluru-hotel-is-a-hit-with-biriyani-lovers/article66135707.ece |work=The Hindu}}</ref> Like many other biryani varieties in South India, it uses standard short-grain [[Samba (rice)|''seeraga samba'' rice]]. Along with yogurt and spices, it contains a gravy, mainly composed of [[Spearmint|mint]], [[coriander]] leaves and [[chili pepper|green chillies]], that gives the biryani its signature green colour. To impart a specific taste, the recipe for this biryani usually includes either kapok buds (known as Marathi moggu) or [[Parmotrema perlatum|stone flowers]] as additional spices. The choice of meat can be either chicken or mutton.<ref>{{cite web|url=https://www.kannammacooks.com/donne-biryani/|title=Chicken Donne Biryani: A Kannada Favourite|date=19 October 2024 }}</ref><ref>{{cite news |title=Biryani Galore: 5 Must-Have Biryanis in Bengaluru City |url=https://www.hindustantimes.com/cities/bengaluru-news/biriyani-galore-5-must-have-biriyanis-in-bengaluru-city-101647080504135.html |work=Hindustan Times}}</ref><ref>{{cite news |title=When power lunches get gourmet |url=https://timesofindia.indiatimes.com/life-style/food-news/when-power-lunches-get-gourmet/articleshow/74337733.cms |work=The Times of India}}</ref>
+
+==== Hyderabadi biryani ====
+{{Main|Hyderabadi biryani}}
+
+[[File:Hyderabadi Chicken Biryani.jpg|thumb|right|Hyderabadi chicken ''biryani'']]
+Hyderabadi ''biryani'' is India's most famous ''biryani''; some say ''biryani'' is synonymous with Hyderabad.<ref>{{cite web |url=http://www.india.com/food-2/10-cities-in-india-for-the-food-lovers-soul-212397/ |title=10 Cities in India for the Food Lover's Soul |date=5 December 2014 |website=India.com |access-date=26 July 2016}}</ref> Hyderabadi ''biryani'' developed in [[Hyderabad Subah]] under the rule of [[Qamar-ud-din Khan, Asif Jah I|Asaf Jah I]], who was first appointed as the governor of [[Deccan Plateau|Deccan]] by the [[Mughal Empire|Mughal]] Emperor [[Aurangzeb]]. It is made with ''[[basmati]]'' rice, spices and goat meat. Popular variations use chicken instead of goat meat. There are various forms of Hyderabadi ''biryani'', such as ''kachay gosht ki biryani'' or ''dum biryani'', where [[goat meat]] is marinated and cooked along with the rice. It is left on a slow fire or ''[[Dum pukht|dum]]'' for a fragrant and aromatic flavour.<ref>{{cite news |url=https://blogs.wsj.com/indiarealtime/2013/04/14/indias-best-city-for-biryani-is-2/ |title=India's Best City For Biryani Is... |date=14 April 2013 |newspaper=[[The Wall Street Journal]] |access-date=16 May 2016}}</ref>
+
+==== Kutchi/Memoni biryani ====
+Memoni or Kutchi ''biryani'' is an extremely spicy variety developed by the [[Memon people|Memons]] of [[Gujarat]]-[[Sindh]] region in India and Pakistan.<ref name="rediff_Priya2004" /> It is made with mutton, ''dahi'', fried onions, and potatoes, and fewer tomatoes compared to Sindhi ''biryani''.
+
+==== Kalyani biryani ====
+[[File:Food-Beef-Biryani-2.jpg|thumb|Beef ''biryani'' |right]]
+Kalyani ''biryani'' is a beef ''biryani'' from the former state of [[Hyderabad Deccan]].<ref>{{cite news |url=http://www.hindu.com/mag/2008/02/10/stories/2008021050080400.htm |archive-url=https://web.archive.org/web/20080216011627/http://www.hindu.com/mag/2008/02/10/stories/2008021050080400.htm |url-status=dead |archive-date=16 February 2008 |title=Stuff of memories |date=10 February 2008 |newspaper=[[The Hindu]] |access-date=6 August 2018}}</ref> Also known as the "poor man's"  Hyderabadi ''biryani'', Kalyani ''biryani'' is made from small cubes of [[water buffalo|buffalo meat]] or cow meat.<ref>{{cite web |last=Balachandran |first=Mohit |date=24 August 2015 |title=The Other Hyderabadi Biryani With a 300-Year-Old Past |url=http://food.ndtv.com/opinions/the-other-hyderabadi-biryani-with-a-300-year-old-past-730300 |access-date=6 August 2018 |website=NDTV}}</ref><ref>{{cite news |last=Nanisetti |first=Serish |date=4 November 2015 |title=A tale of two biryanis |url=http://www.thehindu.com/opinion/op-ed/a-tale-of-two-biryanis/article7838496.ece |access-date=6 August 2018 |newspaper=The Hindu}}</ref> 
+
+The meat is flavoured with [[ginger]], garlic, [[turmeric]], [[Chili pepper|red chili]], [[cumin]], [[coriander]] powder, and considerable amounts of onion and tomato. It is first cooked in a thick [[curry]] and then cooked along with rice. It is then cooked [[dum pukht|''dum'']]-style (the Indian method of [[steaming]] in a covered pot). It has a distinct flavour of tomatoes, ''jeera'' and ''dhania''.<ref>{{cite news |last=Dhara |first=Tushar |date=10 June 2015 |title=Why Kalyani Beef Biryani Is a Favourite of Many Hyderabadis, Muslim, and Hindu |url=http://www.huffingtonpost.in/tushar-dhara-/as-the-furore-over-beef-r_b_8243228.html |access-date=6 August 2018 |work=[[The Huffington Post]]}}</ref> 
+
+Kalyani ''biryani'' is supposed to have originated in [[Bidar]] during the reign of the Kalyani [[Nawab]]s, who migrated to Hyderabad in the mid-18th century after one of the Nawabs, Ghazanfur Jang, married into the [[Asaf Jahi Dynasty|Asaf Jahi]] family and united their realms.{{Fact|date=August 2024}} Kalyani ''biryani'' was served by the Kalyani Nawabs to all of their subjects who came from Bidar to Hyderabad and stayed or visited their ''[[devdi]]'' or noble mansion.
+
+==== Kizhi biryani ====
+This variant of ''biryani'' is well-known in the state of [[Kerala]], and gets its name from the method by which it is prepared. The recipe is considerably different from many others due to its preparation and assemblage. The meat can typically be chicken, fish or ''chemmeen'' (prawns), depending on the region. Unlike other methods, the meat is marinated in spices and lemon juice and cooked separately, as are the rice and gravy. Coconut milk is used as a signature ingredient to enrich the texture.
+
+The easily distinguishable aspect of this biryani is in its serving. A banana leaf is cut in half and tempered, and the meat, rice and gravy are all placed together in a particular fashion on its surface, involving some herbs and ''birista'' (fried onions). Additional accompaniments may include eggs and coconut [[chutney]]. After assembly, the biryani is wrapped within the leaf and steamed. Due to the manner in which it is cooked and served, this is most likely ideal to be consumed by only one person.<ref>{{cite web|url=https://www.thehindu.com/life-and-style/food/a-derivative-of-the-evergreen-pothichoru-kizhi-biriyani-has-become-a-popular-belly-filler-in-the-city/article25057075.ece|title=The Leaf-Wrapped Biryani: A Hidden Gem of South India|work=The Hindu |date=27 September 2018 |last1=S |first1=Harikumar J. }}</ref>
+
+==== Kolkata biryani ====
+{{Main|Kolkata biryani}}
+[[File:Kolkata mutton biryani.jpg|thumb|right|Kolkata ''biryani'']]
+Calcutta or [[Kolkata]] ''biryani'' evolved from Dhakaiya biryani and [[Lucknow]]-style biryani when Awadh's last Nawab, [[Wajid Ali Shah]], was exiled in 1856 to the Kolkata suburb of [[Metiabruz]]. Shah brought his personal chef with him. Like Dhakaiya biryani,  Kolkata biryani is characterized by the presence of potatoes.<ref name="rediff_Priya2004"/>
+
+==== Lucknow biryani ====
+Lucknow was a capital of [[Oudh State|Awadh Subah]]. For Lucknow, or Awadhi, biryani, basmati rice is cooked in [[ghee]] with warm, aromatic spices and then layered with a type of meat curry or marinade, sealed, and cooked over low heat until done.<ref>{{Cite news |date=2016-07-29 |title=For the love of Lucknavi biryani |url=https://www.thehindu.com/features/metroplus/Food/For-the-love-of-Lucknavi-biryani/article14515090.ece |access-date=2024-08-04 |work=The Hindu |language=en-IN |issn=0971-751X}}</ref><ref>{{Cite web |title='Best biryani I've ever had': Japan ambassador Hiroshi Suzuki raves over Lucknow's biryani |date=5 November 2023 |url=https://www.hindustantimes.com/trending/best-biryani-i-ve-ever-had-japan-ambassador-hiroshi-suzuki-raves-over-lucknow-s-biryani-101699175674529.html}}</ref>
+
+==== Beary biryani (Mangalorean-style biryani) ====
+Beary biryani is a specialty of the [[Beary|Beary community]] in coastal [[Karnataka]] and is also referred to as Mangalorean-style biryani. This biryani is distinct for its use of green chilies and coconut, giving it a rich, mildly spicy flavor with subtle hints of fennel. The spice blend typically includes nutmeg, mace (''javitri''), fennel seeds, poppy seeds, star anise, almonds, and fresh mint leaves. The rice and meat (mutton, chicken, or beef) are first cooked separately, then layered and slow-cooked together in the ''dum'' style, allowing the flavors to blend harmoniously. This biryani is popularly served at weddings and family gatherings.{{Cite section|date=August 2024}}
+
+==== MLA Potlam biryani ====
+This viral style of ''biryani'' traces its origins to "The Spicy Venue" restaurant in Hyderabad. The recipe is  unique and easily distinguishable from every other biryani by appearance. It is composed of a mutton [[keema]] and prawn biryani wrapped inside an [[omurice]]-style seasoned omelette.<ref>{{cite web|url=https://www.thehindu.com/life-and-style/food/have-you-tried-the-mla-potlam-biryani-in-visakhapatnam/article26026342.ece|title=MLA Potlam: A Hidden Gem of Hyderabad|work=The Hindu |date=18 January 2019 |last1=Mehta |first1=Archit }}</ref>
+
+==== Rowther biryani ====
+{{Cite section|date=August 2024}}
+This type of ''biryani'' is popular in the [[Palakkad district|Palakkad]] and [[Coimbatore]] regions. This was most commonly prepared by [[Rowther]] families in Kerala and Tamil Nadu. This type of ''biryani'' is cooked in a different style. Goat meat is most commonly used and it is entirely different from [[malabar biryani|Malabar ''biryani'']].{{citation needed|date=January 2018}}
+
+==== Sindhi biryani ====
+{{Cite section|date=August 2024}}[[File:Sindhi Biryani.JPG|thumb|right|[[Sindhi biryani|Sindhi ''biryani'']]]]
+The exotic and aromatic [[Sindhi cuisine|Sindhi]] ''biryani'', originating in the former Mughal subah based in [[Thatta]], is known in Pakistan for its spicy taste, fragrant rice, and delicate meat. [[Sindhi biryani|Sindhi ''biryani'']] is a staple in food menus of [[Pakistani cuisine|Pakistani]] and Sindhi cuisine. This ''biryani'' is prepared with meat and a mixture of [[basmati]] rice, vegetables, and various spices.
+
+==== Sofiyani biryani ====
+Also known as ''safeeda biryani'', this variant of biryani is another with Hyderabadi origins. It was said to have been created for a Nizam who was very fond of biryani but was unable to digest spices. Today, the recipe mainly involves [[khoya]] and almond paste as a base along with meat and many other ingredients, with no trace of red chillies or chilli powder, which leads to the so-called "white" look of this dish. Green chillies may be used as an alternative.<ref>{{cite web|url=https://www.myfridayfoodswings.com/sofiyani-biryani/|title=Sofiyani Biryani: A Hidden Gem of Hyderabad|date=15 April 2019 }}</ref>
+
+==== Sri Lankan biryani ====
+{{Cite section|date=August 2024}}[[File:Chicken Biryani.jpg|thumbnail|Sri Lankan chicken ''biryani'']]
+''Biryani'' was introduced in the 1900s to [[Sri Lanka]] by the [[Indian Muslims]] who engaged in trade within the country.{{citation needed|date=February 2018}}  In many cases, Sri Lankan ''biryani'' is spicier than most Indian varieties. Side dishes may include Malay pickle, cashew curry and mint sambol.{{citation needed|date=January 2018}}
+
+==== Thalassery biryani ====
+{{Main|Thalassery cuisine}}
+[[File:Biriyani.jpg|thumbnail|[[Thalassery biryani|Thalassery ''biryani'']]]]
+Thalassery ''biryani'' is the variation of ''biryani'' found in the Indian state of [[Kerala]]. It is one of the many dishes of the [[Mappila|Kerala Muslim community]].<ref>{{cite book |url=https://books.google.com/books?id=cZe-r38DYjcC |title=Biryani |last=Karan |first=Pratibha |year=2012 |publisher=Random House India |isbn=978-8-18400-254-6}}</ref>
+
+The primary ingredients are chicken with spices, with the unique ingredient being the choice of rice, called ''khyma''. [[Wayanad Gandhakasala rice|''Khyma'' rice]] is generally mixed with ''[[ghee]]''. Although a large number of spices such as mace, [[cashew nuts]], sultana [[raisin]]s, fennel and [[cumin seeds]], tomatoes, onions, ginger, garlic, [[shallot]]s, cloves and cinnamon are used,<ref>{{cite book |last=Abdulla |first=Ummi |title=Malabar Muslim Cookery |publisher=Orient Blackswan |year=1993 |isbn=978-8125013495 |page=2}}</ref> there is only a small amount of chilli (or chili powder) used in its preparation.
+
+As a ''pakki'' type of ''biryani'', the Thalassery biryani uses a small-grained thin (not round) fragrant variety of rice known as ''khyma'' or ''jeerakasala''. The ''[[Dum pukht|dum]]'' method of preparation is applied to avoid [[scorched rice]].
+
+In Kerala, another variety called beef ''biryani'' is well known.<ref>{{cite news |last=Lal |first=Amrith |date=25 December 2015 |title=In fact: How beef became Malayalis' object of desire |url=http://indianexpress.com/article/explained/explained-how-beef-became-malayalis-object-of-desire/ |access-date=6 August 2018 |newspaper=The Indian Express}}</ref>
+
+==== Travancore biriyani ====
+
+[[Trivandrum Travancore Biriyani|Travancore biriyani]] is a  dish from Trivandrum. Characterized by its use of long-grained basmati rice, the biryani is lightly spiced with whole spices such as cloves, cinnamon, and bay leaves, and enriched with ghee or coconut oil. Typically prepared with mutton, chicken, or beef, it is garnished with fried cashew nuts, raisins, fresh coriander, and mint leaves, and often includes a boiled egg at the center. It is served with accompaniments like raita, coconut chutney, lime pickle, and pappadam. <ref>{{cite web | last1=Nagarajan | first1=Saraswathy | title=Long grained biriyani popular in southern Kerala is intertwined with the story of Travancore | work=The Hindu | date=16 June 2023 | url=https://www.thehindu.com/life-and-style/food/long-grained-biriyani-popular-in-southern-kerala-is-intertwined-with-the-story-of-travancore/article66936956.ece }}</ref>
+
+===Outside the Indian subcontinent===
+
+====Burma====
+[[File:Kyet Shar Soon biryani.jpg|thumb|A dish of Burmese ''biryani'' (locally known as ''danpauk''), as served at Kyet Shar]]
+
+In Myanmar (Burma), ''biryani'' is known in [[Burmese language|Burmese]] as ''danpauk'' or ''danbauk'' ({{Linktext|ဒံပေါက်}}), derived from the Persian term ''[[dum pukht]]'', which refers to a slow oven cooking technique. ''Danbauk'' is a mainstay at festive events such as [[Thingyan]], weddings and donation feasts.<ref name="tmt20Mar2015">{{Cite web|url=https://www.mmtimes.com/business/13642-biryani-trade-takes-on-a-new-flavour.html|title=Biryani trade takes on a new flavour|date=2015-03-20|website=The Myanmar Times|access-date=2020-04-25|archive-date=27 July 2020|archive-url=https://web.archive.org/web/20200727012233/https://www.mmtimes.com/business/13642-biryani-trade-takes-on-a-new-flavour.html|url-status=dead}}</ref><ref>{{Cite web|url=https://www.mmtimes.com/news/mouth-watering-thingyan-food-and-delicacies.html|title=Mouth-watering Thingyan food and delicacies|date=2018-04-06|website=The Myanmar Times|access-date=2020-04-25|archive-date=12 November 2019|archive-url=https://web.archive.org/web/20191112054705/https://www.mmtimes.com/news/mouth-watering-thingyan-food-and-delicacies.html|url-status=dead}}</ref> Given ''danbauk''{{'}}s South Asian origins, ''danbauk'' restaurants and chains have traditionally been owned by Muslims, but in recent decades Buddhist entrepreneurs have entered the market.<ref name="tmt20Mar2015" />
+
+Featured ingredients include: cashew nuts, yogurt, raisins and peas, chicken, cloves, cinnamon, saffron and bay leaf cooked in long-grain rice.<ref>{{Cite web|url=https://www.foodmagazinemyanmar.com/contributors/%E1%80%92%E1%80%B6%E1%80%95%E1%80%B1%E1%80%AB%E1%80%80%E1%80%BA-biryani/|archive-url=https://web.archive.org/web/20200727011229/https://www.foodmagazinemyanmar.com/contributors/%E1%80%92%E1%80%B6%E1%80%95%E1%80%B1%E1%80%AB%E1%80%80%E1%80%BA-biryani/|url-status=usurped|archive-date=27 July 2020|title=ဒံပေါက် (Biryani)|date=2019-09-12|website=Food Magazine Myanmar|language=my|access-date=2020-04-25}}</ref> In ''danbauk'', chicken specially seasoned with a ''danbauk'' [[Spice mix|masala]] spice mix,<ref>{{Cite web|url=https://www.foodmagazinemyanmar.com/contributors/%E1%81%BE%E1%80%80%E1%80%80%E1%80%B9%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%92%E1%80%B6%E1%80%B1%E1%80%95%E1%80%AB%E1%80%80%E1%80%B9/|archive-url=https://web.archive.org/web/20200727004647/https://www.foodmagazinemyanmar.com/contributors/%E1%81%BE%E1%80%80%E1%80%80%E1%80%B9%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%92%E1%80%B6%E1%80%B1%E1%80%95%E1%80%AB%E1%80%80%E1%80%B9/|url-status=usurped|archive-date=27 July 2020|title=ကြက်သားဒံပေါက်|website=Food Magazine Myanmar|access-date=2020-04-25}}</ref> is cooked with the rice.<ref>{{cite news |url=http://www.sfgate.com/recipes/article/The-Burmese-Way-A-visit-to-the-land-of-pagodas-3238193.php#photo-2382531 |newspaper=[[The San Francisco Chronicle]] |title=The Burmese Way / A visit to the land of pagodas and enchanting cuisine |quote=Burmese chicken biryani differs from its Indian counterpart: the chicken is cooked with the rice. |first=Mai |last=Pham |date=11 October 2000}}</ref> ''Danbauk'' is typically eaten with a number of side dishes, including a fresh salad of sliced onions, julienned cabbage, sliced cucumbers, fermented limes and lemons, fried dried chilies, and soup.<ref name="mmtimes.com">{{Cite web|url=https://www.mmtimes.com/news/top-10-biryani-restaurants-yangon.html|title=Top 10: Biryani Restaurants in Yangon|date=2020-01-03|website=The Myanmar Times|access-date=2020-04-25|archive-date=15 January 2021|archive-url=https://web.archive.org/web/20210115195448/https://www.mmtimes.com/news/top-10-biryani-restaurants-yangon.html|url-status=dead}}</ref> In recent decades, ''danbauk'' restaurants have innovated variations, including "ambrosia" ''biryani'' ({{Linktext|နတ်သုဓာထမင်း}}), which features dried fruits and buttered rice.<ref name="mmtimes.com"/>
+
+====West Asia====
+In Iraq and in the states of the Persian Gulf, ''biryani'' (برياني: "biryani") is usually saffron-based with chicken usually being the meat or poultry of choice. It is popular throughout Iraq, especially in the [[Kurdistan Region]].  Most variations also include [[vermicelli]], fried onions, fried potato cubes, almonds, and raisins spread liberally over the rice.<ref name="rediff_Priya2004"/> Sometimes, a sour/spicy tomato sauce is served on the side (''maraq'').
+
+In Iran, during the [[Safavid dynasty]] (1501–1736), a dish called ''Beriyan Polo'' ([[Nastaliq script]]: {{Nastaliq|بریان پلو}}) was made with lamb or chicken, marinated overnight—with yogurt, herbs, spices, dried fruits like [[raisin]]s, [[prune]]s or [[pomegranate]] seeds—and later cooked in a [[Tandoor|''tannour'']] oven, then served with [[steamed rice]].{{citation needed|date=September 2018}}
+
+====Afghan biryani====
+A different dish called ''biryan'' is popular in Afghanistan. ''Biryan'' traces its origins to the same source as ''biryani'', when most of Afghanistan was part of [[History of Afghanistan#Mughals, Uzbeks, and Safavids|Kabul and Qandahar Subahs]] and as today sold in Afghanistan as well as in [[Bhopal]], India. ''Biryan'' is prepared by cooking ''[[gosht]]'' and rice together, but without the additional gravy (''yakhni'') and other condiments that are used in ''biryani''. The Delhi-based historian Sohail Hashmi refers to the ''biryan'' as midway between [[Pilaf|''pulao'']] and ''biryani''.  Afghan ''biryani'' tends to use much dry fruit such as raisins and lesser amounts of meat, often cut into tiny pieces.<ref name="ndtvravish">{{cite AV media |people=Ravish Kumar interviews historian Sohali Hashmi |date=9 September 2016 |title=प्राइम टाइम : क्या-क्या अलग करेंगे बिरयानी से? |trans-title=Prime Time: What will separate from Biryani? |medium=Television production |language=hi |url=https://khabar.ndtv.com/video/show/prime-time/prime-time-what-will-be-separate-from-biryani-430689?yt |access-date=19 October 2016 |location=Old Delhi |publisher=NDTV}}</ref>
+
+====Indonesia====
+[[File:Nasi Kebuli Jakarta.JPG|thumb|An authentic ''[[nasi kebuli]]'' served in [[Jakarta]]]]
+''[[Nasi kebuli]]'' is an Indonesian spicy steamed rice dish<ref>{{cite news|title=Nasi Kebuli Gaya Betawi |date=21 February 2009 |newspaper= Kompas |url=http://travel.kompas.com/read/2009/02/21/08230951/nasi.kebuli.gaya.betawi|language=id |access-date=30 January 2015}}</ref> cooked in goat meat broth, milk and ''[[ghee]]''.<ref>{{cite book|url=https://books.google.com/books?id=9ihcDAAAQBAJ&q=kebuli+rice&pg=PA31|title=Kumpulan Masakan Favorit Sepanjang Masa|language=id| first = T.S. | last = Dharmaputra|isbn=978-602-213-036-9|publisher=Puspa Swara| year = 2015 | location = Jakarta | access-date=5 June 2017}}</ref> ''Nasi kebuli'' is descended from [[Kabuli Palaw|''kabuli palaw'']] which is an Afghan rice dish, similar to ''biryani'' served in the [[Indian subcontinent]].<ref>{{cite book|url=https://books.google.com/books?id=hcUWBAAAQBAJ&q=shredded+carrots+kabuli&pg=PA60|title=Mountain to Mountain: A Journey of Adventure and Activism for the Women of Afghanistan|first=Shannon|last=Galpin|publisher=Macmillan|author-link=Shannon Galpin|year=2014|isbn=978-1-250-04664-2}}</ref>
+
+Although Indonesia has authentic ''nasi kebuli'', Indonesia also inherited and has local-style of ''biryani'' which is known as ''nasi biryani'' or ''nasi briyani''. ''Nasi biryani'' is popular among and often associated as [[Acehnese cuisine|Acehnese]], [[Indonesian Arab cuisine|Arab Indonesian]], [[Indonesian Indian cuisine|Indian Indonesian]] and [[Malay cuisine]].<ref>{{cite web |url=http://www.lintas.me/go/travel.kompas.com/sajian-kebuli-mandi-dan-biryani |title=Sajian Kebuli, Mandi, dan Biryani |website=Kompas.com |date=6 July 2014 |language=id |access-date=24 August 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140903084827/http://www.lintas.me/go/travel.kompas.com/sajian-kebuli-mandi-dan-biryani |archive-date=3 September 2014}}</ref>
+
+====Malaysia and Singapore====
+[[File:Mutton briyani from Little India, Singapore - 20130719.jpg|thumb|Mutton ''biryani'' at [[Little India, Singapore]]]]
+The Malaysian and Singaporean variety of biryani is called ''nasi briyani'' or ''nasi biryani''. Although authentic styles of biryani from South India are popular, nasi briyani remains the most popular. The key differences between nasi briyani and Indian biryanis are that the meat in nasi briyani is cooked separately from the rice, and there is more curry, sauce, or gravy present in the nasi briyani than in Indian biryanis.<ref>{{Cite web |title=Nasi Biryani Recipe |url=https://cooking.nytimes.com/recipes/1022901-nasi-biryani |access-date=2023-03-28 |website=NYT Cooking |language=en-US}}</ref>
+
+''Nasi briyani'' dishes are very popular in Malaysia and Singapore. As an important part of [[Malaysian Indian cuisine|Malaysian]] and [[Indian Singaporean cuisine|Singaporean Indian cuisines]], they are popularized through [[mamak stall]]s, [[hawker centre]]s, and [[food court]]s as well as fine dining restaurants.
+
+There are also eateries that sell pork as the main meat of the dish in Singapore.<ref>{{Cite web |title=Local Indian food stall's novelty offering of pork briyani and rainbow pratas |url=https://www.todayonline.com/lifestyle/food/local-indian-food-stalls-novelty-offering-pork-briyani-and-rainbow-pratas |access-date=2024-06-10 |website=TODAY |language=en}}</ref><ref>{{Cite web |date=2017-07-31 |title=Young S'pore hawker serves up roasted pork biryani from S$5.50 |url=https://mothership.sg/2019/08/pork-biryani-chop-chop-biryani/ |access-date=2024-06-10 |website=mothership.sg |language=en}}</ref>
+
+==== Mauritius ====
+{{Cite section|date=August 2024}}
+''Biryani'' dishes are very popular in Mauritius, especially at Muslim weddings and festivities. It is also widely available at street food places. Mauritian biryanis are often accompanied by an achaar (mango pickles), chilies and salads.
+
+====Philippines====
+[[Kapampangan cuisine]] of the Philippines (often in [[Pampanga]]) features a special dish called ''[[nasing biringyi]]'' (chicken saffron rice), resembling the Malaysian ''nasi briyani'' in both name and form, that is typically prepared only during special occasions such as weddings, family get-togethers or [[Festival|fiestas]]. It is not a staple of the Filipino diet as it is difficult to prepare compared to other usual dishes. A version that has merged with the [[Paelya|Filipino version]] of the [[Paella|Spanish ''paella'']] is known as ''[[bringhe]]''.<ref>{{Cite web |url=https://aboucheamused.com/2012/01/16/come-taste-my-philippines-the-food-of-pampanga/ |title=Come Taste My Philippines – the food of Pampanga |date=16 January 2012 |website=A Bouche Amused |access-date=20 February 2018}}</ref><ref>{{cite web |title=Násîng Biringyi, a Kapampángan Pre-colonial Dish {{!}} Siuálâ Ding Meángûbié |url=http://siuala.com/biringyi/ |access-date=7 February 2025}}</ref>
+
+South Asian and Middle Eastern-styled biryani underwent a surge in popularity in [[Manila]] in the 2020s, with both high-end restaurants and working-class eateries serving the dish, popularized by both [[Indian Filipinos]] and other South Asians as well as returning [[Overseas Filipino Workers]] from the Middle East. Some restaurants adjust recipes to suit Filipino palates.<ref>{{cite web |last1=Vergara |first1=Paolo |title=Is biryani the next cross-cultural Manila food trend? |url=https://lifestyle.inquirer.net/530781/biryani-manila-food-trend/ |website=Lifestyle.INQ |access-date=7 February 2025 |date=1 February 2025}}</ref>
+
+====South Africa====
+{{Cite section|date=August 2024}}
+In the [[Cape Malay]] culture, a variation of ''biryani'' incorporates lentils as a key ingredient in the dish along with meat (usually beef, chicken, seafood or vegetables). The dish is made by cooking the rice and legumes and meat and gravy separately, then mixing it. Uncommonly, it is made using the [[Dum pukht|''dum''-cooking]] method. The spices are similar to those used in the original Indian ''biryani''.
+
+==== East Africa ====
+{{Cite section|date=August 2024}}
+Variants of biryani exist in the cuisines of [[Somalia]], [[Kenya]], and [[Tanzania]] due to centuries of trade between the East African coast and South Asia for centuries, and the more recent migration of Indians to the latter two countries more recently during the British colonial era.
+
+[[Zanzibar]] has its own form of biryani characterized by the mixture of East African and Indian spices, as well as influences from Arab cuisine. The meat used is most commonly chicken.<ref>{{Cite web |last=kzafarullah |date=2023-02-01 |title=Zanzibari biryani |url=https://www.abowlofsugar.com/post/zanzibari-biryani |access-date=2024-04-01 |website=AbowlofSugar |language=en}}</ref> This variant is similar to the forms of biryani served in Kenya.
+
+In Somalia, the descendant of biryani is [[bariis iskukaris]]. It is served with chicken, goat, beef, lamb, or camel meat, and spiced with the Somali spice mixture ''xawaash'' and other spices. A unique characteristic of bariis and other Somali dishes is the addition of banana on the side to be mixed with the dish.
+
+====Thailand====
+{{Cite section|date=August 2024}}[[File:Khaomhokkhai.png|thumb|''Khao mhok ghai'' (Thai ''biryani'' with chicken)]]
+''Biryani'' in Thailand is commonly known as ''khao mhok'' ({{langx|th|ข้าวหมก}}). It is commonly paired with chicken, beef or fish and topped with fried garlic. The dish is common in Thai cuisine and is often served with a green sour sauce.<ref>{{Cite web |last=Ismael |first=Furqan |date=2022-02-11 |title=ข้าวหมกไก่มาจากไหน ทำไมถึงกลายมาเป็นอาหารอิสลามในประเทศไทย |url=https://www.halallifemag.com/thai-chicken-biryani/ |access-date=2025-09-22 |website=Halal Life Magazine |language=th}}</ref>
+
+==See also==
+{{Portal|Food}}
+* [[Bannu Pulao]]
+* [[Fried rice]]
+* [[Kabuli pulao|Kabuli Pulao]]
+* [[Jollof rice]]
+* [[Tehri (dish)|Tehari]]
+* [[Paella]]
+* [[List of rice dishes]]
+
+==References==
+{{reflist|30em}}
+
+{{Rice dishes |state=collapsed}}
+{{Bangladeshi dishes|state=collapsed}}
+{{Burmese cuisine}}
+{{Indian Dishes |state=collapsed}}
+{{Indonesian cuisine}}
+{{Malaysian cuisine |state=collapsed}}
+{{Pakistani dishes |state=collapsed}}
+{{Sri Lankan cuisine}}
+{{Street food}}
+{{Curry in the United Kingdom}}
+
+[[Category:Andhra cuisine]]
+[[Category:Awadhi cuisine]]
+[[Category:Bahraini cuisine]]
+[[Category:Bangladeshi rice dishes]]
+[[Category:Beef dishes]]
+[[Category:Bengali cuisine]]
+[[Category:Burmese rice dishes]]
+[[Category:Chicken and rice dishes]]
+[[Category:Desi culture]]
+[[Category:Fish dishes]]
+[[Category:Goat dishes]]
+[[Category:Gujarati cuisine]]
+[[Category:Hyderabadi cuisine]]
+[[Category:Indian chicken dishes]]
+[[Category:Indian meat dishes]]
+[[Category:Indian rice dishes]]
+[[Category:Indonesian cuisine]]
+[[Category:Iraqi cuisine]]
+[[Category:Kerala cuisine]]
+[[Category:Kurdish cuisine]]
+[[Category:Kuwaiti cuisine]]
+[[Category:Lamb dishes]]
+[[Category:Malagasy cuisine]]
+[[Category:Malaysian cuisine]]
+[[Category:Mauritian cuisine]]
+[[Category:Muhajir cuisine]]
+[[Category:Pakistani rice dishes]]
+[[Category:Punjabi cuisine]]
+[[Category:Sindhi cuisine]]
+[[Category:Singaporean cuisine]]
+[[Category:South African cuisine]]
+[[Category:Sri Lankan chicken dishes]]
+[[Category:Sri Lankan lamb dishes]]
+[[Category:Sri Lankan rice dishes]]
+[[Category:Tamil cuisine]]
+[[Category:Telangana cuisine]]

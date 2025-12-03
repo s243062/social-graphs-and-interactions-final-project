@@ -1,0 +1,238 @@
+{{short description|Dish of marinated raw seafood}}
+{{pp-move|small=yes}}
+{{Infobox food
+| name               = Ceviche
+| name_lang          = es
+| image              = Cebiche de corvina.JPG
+| caption            = Peruvian ceviche
+| region             = [[Latin America]]n countries along the Pacific coast
+| country            = [[#History|Disputed]]
+| course             = Main course, [[Hors d'oeuvre|appetizer]]
+| served             = Cold; cured with lime juice
+| main_ingredient    = [[Fish (food)|Fish]], [[Key lime|lime]], [[lemon]], [[onion]], [[chili pepper]], [[cilantro]]
+| similar_dish       = [[Kelaguen]], [['Ota 'ika]], [[Kinilaw]], [[Kilawin]], [[Hinava]], [[Poke (Hawaiian dish)|Poke]], [[Dengke mas na niura|Naniura]]
+| module = {{Infobox designation list
+ | embed = yes
+ | designation1 = PCN
+ | designation1_offname = Seviche: comida tradicional del Perú
+ | designation1_type    = Intangible
+ | designation1_date    = {{Start date and age|2004|03|26|df=yes}}<ref>{{cite act |title=Resolución Directoral Nº 241/INC |url=http://administrativos.cultura.gob.pe/intranet/dpcn/anexos/15_1.pdf |publisher=[[National Institute of Culture]] |date=2004-03-23 |access-date=2025-08-03 |italics=y |language=es}}</ref>
+ | designation1_criteria = Knowledge, skills and practices associated with traditional medicine and gastronomy, among others
+ | designation1_number   =
+ | designation1_free1name = Legal basis
+ | designation1_free1value = RDN 241/INC-2004
+}}
+}}
+{{Infobox intangible heritage
+| ICH = Practices and meanings associated with the preparation and consumption of ceviche, an expression of Peruvian traditional cuisine
+| State Party = Peru
+| ID = 01952
+| Region = LAC
+| Year = 2023
+| Session = 18th
+| List = Representative
+}}
+
+'''Ceviche''', '''cebiche''', '''sebiche''', or '''seviche'''{{efn|All four spellings are included in the Dictionary of the Spanish language; each one is used in a different geographical area.<ref>{{cite web |title=¿Es "cebiche" o "ceviche"? |url=https://www.rae.es/duda-linguistica/es-cebiche-o-ceviche |publisher=rae.es |access-date=23 May 2023}}</ref><ref name="RAE-cebiche1">{{cite web|url=http://lema.rae.es/drae/srv/search?id=GV8j3LjK4DXX2Exsj3Eb|title=cebiche|work=Diccionario de la Lengua Española|publisher=Real Academia Española|access-date=August 28, 2013|archive-date=August 10, 2017|archive-url=https://web.archive.org/web/20170810212246/http://lema.rae.es/drae/srv/search?id=GV8j3LjK4DXX2Exsj3Eb|url-status=live}}</ref><ref name="RAE-cebiche3">{{cite web|url=http://buscon.rae.es/drae/?type=3&val=seviche&val_aux=&origen=REDRAE|title=sebiche|work=Diccionario de la Lengua Española|publisher=Real Academia Española|access-date=August 28, 2013|archive-date=November 10, 2013|archive-url=https://web.archive.org/web/20131110224908/http://buscon.rae.es/drae/?type=3&val=seviche&val_aux=&origen=REDRAE|url-status=live}}</ref>}} ({{IPA|es|seˈβitʃe}}) is a cold dish consisting of [[Fish as food|fish]] or [[shellfish]] [[marinated]] in [[citrus]] and [[seasoning]]s. Different versions of ceviche are part of the culinary cultures of various [[Latin America]]n countries along the [[Pacific Ocean]]<ref>{{cite book |title=Ceviches y tiraditos |date=2014 |publisher=Susaeta |isbn=9788467735857 |url=https://books.google.com/books?id=ZWjFrQEACAAJ |access-date=23 May 2023}}</ref> where each one is native, including [[Chile]], [[Colombia]], [[Costa Rica]], [[Ecuador]], [[El Salvador]], [[Guatemala]], [[Honduras]], [[Mexico]], [[Puerto Rico]], [[Nicaragua]], [[Panama]], and [[Peru]]. Ceviche is considered the [[national dish]] of Peru and is recognized by [[UNESCO]] as an expression of [[Peruvian cuisine|Peruvian traditional cuisine]] and an [[Intangible Cultural Heritage of Humanity]].<ref>{{cite web |title=El Cebiche: un plato que une a todos los peruanos |url=https://elcomercio.pe/blog/huellasdigitales/2014/04/el-cebiche-un-plato-que-une-a-todos-los-peruanos/ |website=elcomercio.pe |date=16 April 2014 |access-date=23 May 2023}}</ref>
+
+The fish or shellfish in ceviche is not served raw like [[sashimi]]; the [[citric acid]] from the citrus marinade causes the proteins in the seafood to become [[Denaturation (biochemistry)|denatured]], resulting in the dish appearing to be "cooked" without the application of heat. The fish is typically cured in [[lemon]] or sour [[Lime (fruit)|lime]] juice, although [[sour orange]] was historically used. The dressing also includes some local variety of [[chili pepper]] or [[Chili powder|chili]], replaced by [[Mustard seed|mustard]] in some parts of Central America. The marinade usually also includes sliced or chopped [[onion]]s and chopped [[Coriander|cilantro]], though in some regions such as Mexico, [[tomato]]es, [[avocado]]es, and [[tomato sauce]] may be included.<ref>{{cite web |title=3 recetas fáciles y deliciosas para hacer ceviche |url=https://www.eluniversal.com.mx/menu/3-recetas-faciles-y-deliciosas-para-hacer-ceviche/ |access-date=23 May 2023}}</ref><ref>{{cite web |title=Esto le sirvieron a Mónica Cabrejos cuando pidió ceviche y tiradito en Cancún |url=https://www.capital.com.pe/entretenimiento/esto-le-sirvieron-a-monica-cabrejos-cuando-pidio-ceviche-y-tiradito-en-cancun-noticia-1147514 |website=Radio Capital (Perú) |access-date=23 Dec 2018}}</ref>
+
+Ceviche is often eaten as an [[appetizer]]; if eaten as a main dish, it is usually accompanied by side dishes that complement its flavors, such as [[sweet potato]], [[lettuce]], [[maize]], [[avocado]], or [[fried plantain]]s, among various other accompaniments.<ref name="EPI" /><ref>[[Ceviche#great ceviche|Rodriguez, ''The Great Ceviche Book'']], pp. 5–10</ref><ref name="Harrison, p. 85" />
+
+== Etymology ==
+
+The first documented evidence of the term {{lang|es|ceviche}} is from 1820, in the patriotic song "[[:es:La chicha|La Chicha]]," considered the first Peruvian national anthem.
+
+According to the [[Royal Spanish Academy]], the word might have the same etymology as the Spanish term {{lang|es|[[escabeche]]}}, which derives from [[Mozarabic language|Mozarabic]] {{lang|mxi|izkebêch}}, in turn descending from [[Andalusian Arabic]] {{lang|xaa-Latn|assukkabáǧ}}, which also derives from [[Classical Arabic]] {{lang|ar-Latn|sakbāj}} ({{lang|ar|سكباج}},<ref>{{cite web |title=Cebiche |url=https://dle.rae.es/cebiche |website=DLE: Diccionario de la Lengua Española |publisher=Real Academia Española |access-date=30 August 2023}}</ref> meaning meat cooked in vinegar).<ref name="RAE-cebiche4">{{cite web |title=sebiche |work=Diccionario de la Lengua Española |publisher=[[Royal Spanish Academy]] |url=http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=cebiche |access-date=2010-08-09 |archive-date=2012-02-13 |archive-url=https://web.archive.org/web/20120213143307/http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=cebiche |url-status=live }}</ref><ref>Hans Wehr, ''Arabic–English Dictionary.'' Otto Harrassowitz KG: 1994. Page 486</ref> It is ultimately from the unattested [[Middle Persian]] {{lang|pal-Latn|*sikbāg}}, from {{lang|pal-Latn|sik}} ("vinegar")<ref>"sik" in [[David Neil MacKenzie]] (1986), ''A Concise Pahlavi Dictionary'', London: Oxford University Press, {{ISBN|0-19-713559-5}}</ref> and {{lang|pal-Latn|*bāg}} ("soup"), which also yielded the [[Persian language|Persian]] word {{lang|fa-Latn|sekbā}} ({{lang|fa|سکبا}}, a soup made with meat and vinegar).<ref>{{lang|fa|سکبا}} in ''[[Dehkhoda Dictionary]]''</ref> Another hypothesis is that it derives from the Quechua word {{lang|qu|siwichi}}, meaning fresh fish.<ref>{{Cite web |title=Descubre el origen del Cebiche, uno de los potajes más "trendys" y aclamados |url=https://www.peru.travel/es/masperu/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados |url-status=live |archive-url=https://web.archive.org/web/20211226041032/https://www.peru.travel/es/masperu/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados |archive-date=2021-12-26 |access-date=2021-08-16}}</ref>
+
+The name of the dish is spelled variously as {{lang|es|cebiche}}, {{lang|es|ceviche}}, {{lang|es|seviche}}, or {{lang|es|sebiche}}, but the most common spelling is ''ceviche'' with ''v'', such as in Peru, which is an alternative spelling accepted by the Royal Spanish Academy.<ref name="RAE-cebiche1" /><ref name="RAE-cebiche3" /> There are also other local variants of the name, including {{lang|es|cerbiche}} and {{lang|es|serviche}}.<ref name="Harrison, p. 85">[[Ceviche#beyond gumbo|Harrison, ''Beyond Gumbo'']], p. 85</ref>
+
+== History ==
+Various explanations of the dish's origins exist, with Peruvian researchers favoring a pre-Hispanic origin. According to some historic sources from Peru, the [[Caral–Supe civilization|Caral civilization]] that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw [[Peruvian anchoveta|Peruvian anchovy]] with chili and salt, according to the investigations of archaeologist [[Ruth Shady]].<ref>{{Cite news |date=12 December 2023 |title=En Caral y Moche ya se servían ceviche|language=es |website=[[La República]]|url=https://larepublica.pe/cultural/2023/12/12/en-caral-y-moche-ya-se-servian-ceviche-gastronomia-peruana-patrimonio-cultural-unesco-historia-del-peru-991392|access-date=22 December 2023}}</ref> Another predecessor of ceviche originated among the [[Moche culture|Moche]], a coastal civilization that began to flourish in present-day northern Peru nearly 2,000 years ago.<ref>{{cite news |year = 2023 |url = https://www.tapasmagazine.es/en/this-is-the-origin-of-ceviche-perus-most-international-dish/ |author-first1=José Manuel|author-last1=Ruiz Blas|title = This is the origin of ceviche, Peru's most international dish |publisher = tapasmagazine.es |access-date = 29 February 2024}}</ref><ref name="EPI">{{cite news |date=September 19, 2008 |title=Perú decreta el 28 de Junio como el Día del Seviche |language=es |newspaper=El País Internacional |publisher=Ediciones El País, S.L. |location=Lima |url=http://internacional.elpais.com/internacional/2008/09/19/actualidad/1221775203_850215.html |url-status=live |access-date=August 28, 2013 |archive-url=https://web.archive.org/web/20161026183559/http://internacional.elpais.com/internacional/2008/09/19/actualidad/1221775203_850215.html |archive-date=October 26, 2016}}</ref><ref name="Dicc1">{{cite book| last = Zapata Acha| first = Sergio| publisher = Universidad San Martín de Porres| title = Diccionario de gastronomía peruana tradicional| edition = 1st|date=November 2006| location = Lima, Perú| isbn = 9972-54-155-X|language=es}}</ref> The Moche used the fermented juice from the local [[banana passionfruit]].<ref name="EPI"/> Recent investigations further show that during the [[Inca Empire]], fish was marinated with ''[[chicha]]'', an Andean [[fermented beverage]]. Different chronicles also report that along the [[Incan]] coast before the arrival of Spaniards, fish was consumed with salt and ''[[Ají (sauce)|ají]]''.<ref name="Dicc1" />
+
+The dish is popular in the [[Pacific Ocean|Pacific]] coastal regions of western [[South America]].<ref name="Ross, p. 171">[[#entre el comal|González and Ross, ''Entre el comal y la olla: fundamentos de gastronomía costarricense'']], p. 171</ref><ref name="EPI"/> The technique of macerating raw fish and meat in vinegar, citrus, and spices ([[escabeche]]) was brought to the Americas from Spain and is linked to the Muslim heritage in Spanish cuisine. However, archeological records suggest that something resembling ceviche may have been indigenous to western South America as early as 2,000 years ago.<ref name="EPI"/>
+
+Nevertheless, some historians believe that ceviche originated during [[Spanish colonization of the Americas|colonial times]] in present-day Peru and Ecuador.<ref name="Rodriguez, p. 3">[[#great ceviche|Rodriguez, ''The Great Ceviche Book'']], p. 3</ref><ref name="Peschiera, p. 35">[[#peschiera|Peschiera, ''Cocina Peruana'']], p. 35</ref><ref>{{cite web |title=Ecuadorian Ceviche|author= Mariuxi Prieto|website=weblogtheworld.com |date=15 September 2010 |url=https://weblogtheworld.com/countries/southern-america/ecuadorian-ceviche}}</ref> They propose that a predecessor to the dish{{specify|date=January 2023}} was brought to the area by [[Andalusia]]n women of [[Moors|Moorish]] background who accompanied the Conquistadors and that this dish eventually evolved into what is now considered ceviche.<ref name="Peschiera, p. 35" /><ref name="historiacocina.com">{{cite web | last =Ariansen Cespedes | first =Jaime | title =La facinante historia del Cebiche | work =Mito, Leyenda y Folklore en la Gastronomia Peruana VI | publisher =Instituto de los Andes | language =es | url =http://www.historiacocina.com/paises/articulos/peru/cebiche.html | access-date =August 28, 2013 | archive-date =August 5, 2018 | archive-url =https://web.archive.org/web/20180805142916/https://www.historiacocina.com/paises/articulos/peru/cebiche.html | url-status =live }}</ref> The Peruvian chef [[Gastón Acurio]] further explains that the dominant position that Lima held throughout four centuries as the capital of the [[Viceroyalty of Peru]], which at one point included most of western South America, allowed for popular dishes such as ceviche to be brought to other administrative provinces in the region, and in time becoming local cuisine incorporating regional flavors and styles.<ref name="Revolución">[[#Revolución|Revolución de los gustos en el Perú]] pp. 80–81</ref>
+
+[[National Geographic]]<ref>"[https://web.archive.org/web/20230512011026/https://www.nationalgeographic.com/travel/article/ceviche%2Dsurprising%2Dhistory%2Dbehind%2Dperus%2Draw%2Dfish%2Ddish Ceviche: the surprising history behind Peru's raw fish dish"]</ref> and [[TasteAtlas|Taste Atlas]]<ref>{{Cite web|url=https://www.tasteatlas.com/ceviche|title=Ceviche &#124; Traditional Fish Dish From Peru &#124; TasteAtlas|website=www.tasteatlas.com}}</ref> recognize the origin of ceviche in Peru. The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard [[Ferran Adrià]], who in an interview stated, "Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian."<ref>{{cite news | title = Los cocineros peruanos realizan un magnífico trabajo | newspaper = LaRepublica.pe | location =Perú | language =es | date = August 14, 2011 }}</ref><ref>{{cite news |year = 2011 |url = http://elcomercio.pe/gastronomia/878146/noticia-chef-chileno-reconocio-que-cebiche-pisco-sour-son-peruanos |title = Chef chileno reconoció que causa, cebiche y pisco sour son peruanos |newspaper = El Comercio |publisher = elcomercio.pe |access-date = 14 August 2011 |archive-date = 4 August 2011 |archive-url = https://web.archive.org/web/20110804153439/http://elcomercio.pe/gastronomia/878146/noticia-chef-chileno-reconocio-que-cebiche-pisco-sour-son-peruanos |url-status = live }}</ref>
+
+The first recipe for this dish was published by Manual Atanasio Fuentes in "The Guide of Lima."<ref>{{Cite web|url=https://pisacinn.com/the-peruvian-ceviche-and-the-history-that-made-it-a-cultural-patrimony-of-the-nation/|title=The Peruvian ceviche and the history that made it a Cultural Patrimony of the Nation &#124; Pisac Inn|website=pisacinn.com}}</ref>{{clarify |date =July 2023}}
+
+Its origin is also attributed to places ranging from [[Central America]] to [[Polynesia]].<ref>{{cite book|last=Ross|first=Marjorie|title=Entre el comal y la olla : fundamentos de gastronomía costarricense|year=2001|publisher=Editorial Universidad Estatal a Distancia|isbn=9789968311281|edition=1|language=es|oclc=48168513}}</ref><ref>{{cite book|last=Butler|first=Cleora|title=Cleora's kitchens: the memoir of a cook & eight decades of great American food|year=2003|publisher=Council Oak Books|isbn=1571781331|edition=12|language=en|oclc=55742726}}</ref><ref>{{cite news|last=Stradley|first=Linda|title=History Of Ceviche, Seviche, Cebiche, Whats Cooking America|url=http://whatscookingamerica.net/History/CevicheNotes.htm|date=2015-05-18|access-date=2017-11-28|editor=What's Cooking America|language=en-US}}</ref><ref>{{cite book|last1=Meyer|first1=Arthur L.|title=The appetizer atlas: a world of small bites|date=2003|publisher=J. Wiley|isbn=0471411027|location=Hoboken, New Jersey|oclc=52631729|last2=Vann|first2=Jon M.}}</ref> In Ecuador, it may have had its origins in coastal civilizations, as Ecuador shares cultural heritages (such as the Inca Empire) and a wide variety of fish and shellfish with Peru. The Ecuadorian position traces the origin of ceviche to the harvest of the Spondylus shell in the years 3500&nbsp;BC to 1500&nbsp;BC in the [[Valdivia culture]], whose diet used marine products that were later used in ceviche.<ref name="eluniverso.com">{{cite web |title=El cebiche ecuatoriano tiene su historia de mestizaje |url=https://www.eluniverso.com/fotogalerias/el-cebiche-ecuatoriano-tiene-su-historia-de-mestizaje/ |website=www.eluniverso.com |date=24 February 2019 |access-date=21 May 2023}}</ref><ref>{{cite web |last1=Caramel |first1=Santi |title=La Concha Spondylus y su importancia: El Origen del Ceviche |url=https://www.clubensayos.com/Ciencia/La-Concha-Spondylus-y-su-importancia-El-Origen/5563131.html |website=clubensayos.com |access-date=21 May 2023}}</ref><ref>{{cite web |title=El origen del ceviche |url=https://www.youtube.com/watch?v=RJzhlh8d7bg |website=youtube.com | date=24 November 2021 |access-date=21 May 2023}}</ref><ref>{{cite web |title=Libertad Regalado: "el primer ceviche que sale al mundo es el de Manabí" |url=https://bagre.life/contenido/cultura-urbana/libertad-regalado/ |website=bagre.life |date=4 September 2022 |access-date=21 May 2023}}</ref> The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in [[Moors|Moorish]] cuisine.<ref>{{cite book|last=Harris|first=Jessica B.|title=Beyond gumbo: Creole fusion food from the Atlantic Rim|url=https://archive.org/details/beyondgumbocreol0000harr|year=2003|publisher=Simon & Schuster|isbn=0684870622|language=en|oclc=50905957}}</ref> Peruvian historian Juan José Vega supports the theory put forward by Fernando Rueda García, historian of [[Málaga]] and a member of the Andalusian Ethnology Commission, who suggests that it was Moorish slaves who created ceviche by mixing local and foreign ingredients that were arriving on the [[Iberian Peninsula]].<ref name="traveler.es">{{cite web |year = 2016|url = https://www.traveler.es/gastronomia/articulos/origen-ceviche-peruano-espanol/8991 |title = El ceviche es español (lo sentimos, Perú)|publisher = traveler.es |access-date = 22 April 2023}}</ref>
+
+== Preparation and variants ==
+Ceviche is marinated in a citrus-based mixture, with lemons and limes most commonly used. In addition to adding flavor, the citric acid causes the proteins in the seafood to become [[Denaturation (biochemistry)|denatured]], resulting in the dish appearing to be cooked without the application of heat. Because the dish is eaten raw and not cooked with heat, it must be prepared fresh and consumed immediately to minimize the risk of [[Foodborne illness|food poisoning]].<ref name="Benson p. 78">[[Ceviche#LP peru|Benson et al. ''Peru'']] p. 78</ref> Acid marinades will not kill bacteria or parasitic worms, unlike the heat of cooking. Traditional-style ceviche was marinated for about three hours. Modern-style ceviche, popularized in the 1970s, usually has a very short marinating period. The appropriate fish can marinate in the time it takes to mix the ingredients, serve, and carry the ceviche to the table.<ref>{{cite web | title =Peruvian cuisine. What food do they eat in Peru? | publisher =Travel Food Atlas | url =https://travelfoodatlas.com/what-food-do-they-eat-in-peru | access-date =2018-03-24 | archive-url =https://web.archive.org/web/20180915115441/https://travelfoodatlas.com/what-food-do-they-eat-in-peru | archive-date =2018-09-15 | url-status =dead }}</ref>
+
+Accompaniments to ceviche vary greatly by region: in Ecuador, ceviche is served with [[fried plantain]]s, [[popcorn]], or [[tostones]]; in Colombia, Panama, and Guatemala, it is served with [[saltine cracker]]s, though in the north [[cookies]] or [[Toast (food)|toast]] are used as a garnish; in Mexico, it is served with corn [[Tostada (toast)|tostadas]] or crackers; in Panama, the spicy chombo chili pepper is sometimes added to taste; and in Peru, it is served with boiled root vegetables (such as [[sweet potato]]es, [[cassava]], or rarely [[potato]]es), grains or seeds such as boiled or roasted [[Maize|corn]], [[legume]]s, fried plantains, [[seaweed]], or [[lettuce]]; sometimes it can also be accompanied by ''chilcano'' (broth made from fish heads).<ref>{{cite web |last1=Vera |first1=Milagros |date=28 June 2018 |title=Día del ceviche: un par de barras marinas para celebrar |url=https://elcomercio.pe/blog/checklistviajero/2018/06/dia-del-ceviche-un-par-de-barras-marinas-para-celebrar/ |access-date=23 May 2023 |website=elcomercio.pe}}</ref><ref>{{cite web |last1=Centoira |first1=Lucía |date=17 December 2015 |title=Aprende a preparar cocina peruana: ceviche clásico |url=https://www.elmundo.es/papel/gastro/2015/12/17/56715b7822601d363f8b4599.html |access-date=23 May 2023 |website=www.elmundo.es}}</ref>
+
+Most Latin American countries have given ceviche its own touch of individuality by adding their own particular garnishes.
+
+<gallery widths="200px" heights="160px">
+File:Cebiche-don-lucho.jpg|Peruvian ceviche
+File:Ceviche de camarón (gastronomía Ecuatoriana).jpg|Ecuadorian ceviche
+File:Lobster and shrimp ceviche.jpg|Mexican ceviche
+File:Ceviche CR.jpg|Ceviche from Costa Rica
+</gallery>
+
+=== South America ===
+In Peru, ceviche has been declared part of the country's national heritage and has even had a holiday declared in its honor.<ref>{{cite web |url=http://www.livinginperu.com/news/12547 |title=Peru this Week |publisher=Livinginperu.com |access-date=2013-08-25 |archive-date=2010-07-12 |archive-url=https://web.archive.org/web/20100712141451/http://www.livinginperu.com/news/12547 |url-status=live }}</ref> The classic [[Peruvian ceviche]] is composed of chunks of raw [[Fish (food)|fish]], [[Marination|marinated]] in freshly squeezed [[key lime]], with sliced onions, chili peppers, salt and pepper. [[Cilus gilberti|Corvina]] or cebo (sea bass) was the fish traditionally used. The mixture was traditionally marinated for several hours and served at room temperature, with chunks of corn on the cob and slices of cooked [[sweet potato]]. Regional or contemporary variations include garlic, fish bone broth, minced Peruvian ''ají limo'', or the Andean chili ''[[rocoto]]'', toasted corn or ''cancha'' and ''yuyo'' ([[Edible seaweed|seaweed]]). A specialty of [[Trujillo, Peru|Trujillo]] is ceviche prepared from shark (''tollo'' or ''tojo''). ''Lenguado'' ([[Sole (fish)|sole]]) is often used in [[Lima]]. The modern version of Peruvian ceviche, similar to the method used in making Japanese [[sashimi]], consists of fish marinated for a few minutes and served promptly. It was developed in the 1970s by Peruvian-Japanese chefs, including Dario Matsufuji and Humberto Sato.<ref>{{cite web|last=Solari|first=Carola|title=Peruano + japonés|url=https://translate.google.com/translate?hl=en&sl=es&u=http://www.paula.cl/reportaje/nikkei-peruano-japones/&prev=/search%3Fq%3Dhumberto%2Bsato%2Bdario%2Bmatsufuji%26num%3D30%26hl%3Den%26safe%3Doff%26rlz%3D1C1CHKZ_enUS434US434&sa=X&ei=fT5DUcWqK7HK4AOm9oGYBA&ved=0CEQQ7gEwAQ|work=Paula.cl|date=11 January 2010 |access-date=15 March 2013|archive-date=17 August 2014|archive-url=https://web.archive.org/web/20140817070504/http://translate.google.com/translate?hl=en&sl=es&u=http%3A%2F%2Fwww.paula.cl%2Freportaje%2Fnikkei-peruano-japones%2F&prev=%2Fsearch%3Fq%3Dhumberto%2Bsato%2Bdario%2Bmatsufuji%26num%3D30%26hl%3Den%26safe%3Doff%26rlz%3D1C1CHKZ_enUS434US434&sa=X&ei=fT5DUcWqK7HK4AOm9oGYBA&ved=0CEQQ7gEwAQ|url-status=live}}</ref>  Many Peruvian ''cevicherías'' serve a small glass of the marinade, which is called ''leche de tigre'' or ''leche de pantera'', as an appetizer along with the fish.
+
+According to an [[Inter-American Development Bank]] (IDB) study of innovation in Peruvian cuisine and its connection with Peruvian cultural diversity (2022),<ref>Julio Elías, Alvaro Garcia, Ian Mount y Maia Schiling , 2022.[https://publications.iadb.org/en/analysis-innovation-perus-gastronomic-industry "Analysis of Innovation in Peru's Gastronomic Industry"] Inter-American Development Bank.</ref> the great variety of ceviches offered by Peruvian marine cuisine is an example of the gastronomic impact of cultural diversity throughout its territory, in which fishers, farmers, and chefs come together. In his 2015 book ''Ceviche Power'',<ref>Acurio, Gaston. 2015. Ceviche Power. Planeta.</ref> [[Gaston Acurio]]  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna. This great diversity has motivated chefs to create new types of ceviches.
+
+In Ecuador, the classic ceviche is made up of pieces of fish pickled in lemon juice and cooked<ref>{{cite news|url=https://bucanero.restaurant/menu/ceviche-de-pescado/|title=Ceviche de Pescado
+|access-date=February 23, 2023|year=2018|newspaper=El Bucanero|language=es}}</ref> or shrimp cooked using the tomato juice or water along with the shrimp shells,<ref>{{cite news|url=https://bucanero.restaurant/menu/ceviche-de-camaron/|title=Ceviche de Camarón
+|access-date=February 23, 2023|year=2018|newspaper=El Bucanero|language=es}}</ref> with sliced red onions, sliced tomatoes, salt, pepper, cilantro, and oil. The mixture is traditionally marinated for several hours and served with a bowl of toasted corn kernels as a side dish; fried green plantain chunks called "[[Tostones|patacones]]", or thinly sliced [[Plantain (cooking)|plantain]] chips called ''[[chifle]]s''. In some regions, ceviche is served with rice on the side. Ceviches in Ecuador are seasoned with tomato sauce, mustard, and oil. The [[Manabí Province|Manabí
+]] style, made with lemon juice, salt, and the juice provided by the cooked shrimp itself, and sometimes topped with peanut butter, is very popular. Occasionally, ceviche is made with various types of local shellfish, such as black [[clam]] (cooked or raw), [[oyster]]s (cooked or raw), [[spondylus]] (raw), [[barnacle]]s (cooked percebes), among others mostly cooked.  Well-cooked sea bass (corvina) or bicuda (picudo), octopus, and crab ceviches are also common in Ecuador. In all ceviches, red onion, lemon juice, cilantro, salt, and oil are ubiquitous ingredients.<ref>{{cite journal |last1=Duarte-Casar |first1=Rodrigo |last2=Robalino-Vallejo |first2=Jessica |last3=Buzetta-Ricaurte |first3=María Fernanda |last4=Rojas-Le-Fort |first4=Marlene |title=Toward a characterization of Ecuadorian ceviche: much more than shrimp |journal=Journal of Ethnic Foods |date=12 May 2022 |volume=9 |issue=1 |pages=16 |doi=10.1186/s42779-022-00131-w|s2cid=248725703 |doi-access=free }}</ref>
+
+In Chile, ceviche is often made with fillets of [[halibut]] or [[Patagonian toothfish]]<ref>{{cite web | url = http://www.gourmetmexicanrecipes.com/MexicanRecipes/ChileanCeviche.htm | title = Chilean Ceviche | access-date = 2010-08-09 | archive-date = 2009-11-16 | archive-url = https://web.archive.org/web/20091116205952/http://www.gourmetmexicanrecipes.com/MexicanRecipes/ChileanCeviche.htm | url-status = live }}</ref> and marinated in lime and grapefruit juices; finely minced garlic and red chili peppers<ref>{{cite web | title =Chilean Ceviche' | publisher =The Gutsy Gourmet | url =http://www.thegutsygourmet.net/ceviche.html | access-date =August 28, 2013 | archive-date =May 24, 2013 | archive-url =https://web.archive.org/web/20130524052914/http://www.thegutsygourmet.net/ceviche.html | url-status =live }}</ref> and often fresh mint and cilantro are added.<ref>{{cite web | title =Chilean Ceviche' | publisher =The Gutsy Gourmet | url =http://www.thegutsygourmet.net/ceviche.html | accessdate = August 28, 2013}}</ref><ref>{{cite web | title =Chilean Ceviche | publisher = www.foodofsouthamerica.com | url = http://www.foodofsouthamerica.com/chilean-ceviche.htm | archive-url = https://web.archive.org/web/20090106161459/http://www.foodofsouthamerica.com/chilean-ceviche.htm | url-status = usurped | archive-date = January 6, 2009 | accessdate = August 28, 2013}}</ref> On [[Easter Island]], the preferred fish is [[Tuna as food|tuna]], marinated in lemon juice and coconut milk.
+
+In Colombia, cebiches or shrimp cocktails,<ref>{{cite book |title=Ceviches y tiraditos El rincón del paladar |date=2014 |publisher=Susaeta Ediciones |isbn=978-8467735857 |url=https://books.google.com/books?id=ZWjFrQEACAAJ |access-date=4 June 2023}}</ref> oysters, crabs, squid, chipi chipi, among others, and combinations of them are prepared. The sauce includes tomato sauce, mayonnaise, garlic sauce, cilantro, chopped white onion, lemon juice, among other seasonings. They are accompanied with salty soda cracker.<ref>{{cite web |title=¿ Cómo hacer Ceviche de Camaron Colombiano? |url=http://www.viviendocali.com/ceviche-de-camaron-colombiano/ |website=viviendocali.com |date=22 May 2023 |access-date=4 June 2023}}</ref>
+
+=== North and Central America and the Caribbean ===
+[[File:Alaskan ceviche.jpg|thumb|Alaskan ceviche made with Pacific [[halibut]], serrano peppers, cilantro and tomato]]
+
+In Mexico, the U.S., and some parts of Central America, it is served either in cocktail cups with [[tostada (tortilla)|tostadas]] or as a tostada topping and taco filling. In Mexico, when served in a cup with tomato sauce, it is called a ceviche cocktail. [[Shrimp and prawn as food|Shrimp]], octopus, [[squid (food)|squid]], tuna, and [[Mackerel as food|mackerel]] are also popular bases for Mexican ceviche. The marinade ingredients include salt, [[lime (fruit)|lime]], onion, chili peppers, [[avocado]], and [[cilantro]] ([[coriander]]). Cut [[olive]]s and tomatoes are often added to the preparation.
+
+In El Salvador and Nicaragua, one popular ceviche recipe is ''ceviche de concha negra'' ("black conch ceviche"), known in Mexico as ''pata de mula'' ("mule's foot"). It is dark, nearly black, with a distinct look and flavor. It is prepared with lime juice, onion, [[yerba buena]], salt, pepper, tomato, [[Worcestershire sauce]], and sometimes [[picante]] (any hot sauce or any kind of hot pepper) as desired.
+
+The dish includes marinated fish, lime juice, salt, ground black pepper, finely minced onions, cilantro, and finely minced peppers in Nicaragua and Costa Rica. It is usually served in a cocktail glass with a lettuce leaf and soda crackers on the side, as in Mexico. Popular condiments are tomato [[ketchup]], [[mayonnaise]], and [[Tabasco sauce]]. The fish is typically tilapia or corvina, although [[mahi-mahi]], [[Shark meat|shark]], and [[marlin]] are also popular.
+
+In Panama, ceviche is prepared with lemon juice, chopped onion, celery, cilantro, assorted peppers, and sea salt. Ceviche made with corvina (white sea bass) is very popular and is served as an appetizer in most local restaurants. It is also commonly prepared with octopus, shrimp, and [[squid (food)|squid]] or served with small pastry shells called "canastitas."
+
+In the Caribbean, ceviche is often made using mahi-mahi prepared with lime juice, salt, onion, green pepper, [[habanero]], and a touch of [[allspice]]. Squid and tuna are also popular. In Puerto Rico and other places in the Caribbean, the dish is prepared with coconut milk. In the Bahamas and south Florida, a [[conch]] ceviche, conch salad, is popular. It is prepared by marinating diced fresh conch in lime, chopped onions, and [[bell pepper]]. Diced [[pequin pepper]] or [[Scotch bonnet pepper]] is often added for spice. In south Florida, it is common to encounter a variation to which tomato juice has been added.
+
+== Health risks ==
+Aside from contaminants, raw seafood can also be the vector for various pathogens, viral and bacterial, as well as larger parasitic creatures.<ref>{{cite web | title =Parasites in Marine Fishes | work =Seafood Network Information Center – Sea Grant Extension Program | publisher =National Oceanic and Atmospheric Administration | url =http://seafood.ucdavis.edu/pubs/parasite.htm | access-date =August 28, 2013 | url-status =dead | archive-url =https://web.archive.org/web/20110927063512/http://seafood.ucdavis.edu/Pubs/parasite.htm | archive-date =September 27, 2011 }}</ref><ref>{{cite web | title =Doctor's Responses | work =parasites from sushi – abdominal pain & dairrrhea article | publisher =MedicineNet, Inc. | url =http://www.medicinenet.com/script/main/art.asp?articlekey=19929 | access-date =August 28, 2013 | archive-date =November 14, 2012 | archive-url =https://web.archive.org/web/20121114095645/http://www.medicinenet.com/script/main/art.asp?articlekey=19929 | url-status =live }}</ref> According to the [[Food and Drug Administration]] and studies since 2009, specific microbial hazards in ceviche include ''[[Anisakis simplex]]'', ''[[Diphyllobothrium]]'' spp., ''[[Pseudoterranova|Pseudoterranova decipiens]]'' and ''P. cattani'', and ''[[Vibrio parahaemolyticus]]''.<ref>{{Cite web|title=FDA|website=[[Food and Drug Administration]] |url=https://www.fda.gov/Food/FoodSafety/RetailFoodProtection/ManagingFoodSafetyHACCPPrinciples/Regulators/ucm078283.htm|url-status=dead|archive-url=https://web.archive.org/web/20130227120632/https://www.fda.gov/Food/FoodSafety/RetailFoodProtection/ManagingFoodSafetyHACCPPrinciples/Regulators/ucm078283.htm|archive-date=February 27, 2013}}</ref><ref name="EID">{{cite journal |doi=10.3201/eid2110.141848|pmid=26402377|title=Human Infections with ''Pseudoterranova'' cattani ''Nematodes'', Chile|journal=Emerging Infectious Diseases |volume=21 |issue=10 |pages=1874–5 |year=2015 |last1=Weitzel |first1=Thomas |last2=Sugiyama |first2=Hiromu |last3=Yamasaki |first3=Hiroshi |last4=Ramirez |first4=Cristian |last5=Rosas |first5=Reinaldo |last6=Mercado |first6=Rubén |pmc=4593429}}</ref> [[Anisakiasis]] is a zoonotic disease caused by the ingestion of larval nematodes in raw seafood dishes such as ceviche.<ref>{{cite journal | last1 =Sakanari | first1 =J. A. | last2 =McKerrow | first2 =J. H. | title =Anisakiasis | journal =Clinical Microbiology Reviews | volume =2 | issue =3 | pages =278–284 | publisher =American Society for Microbiology | date =July 1989 | issn =1098-6618 | doi =10.1128/CMR.2.3.278 | pmid =2670191 | pmc=358121}}</ref><ref>{{cite web | title =Factors that played a role in cholera's resurgence | work =Publications: People & Ecosystems: World Resources 1998–99 | publisher =World Resources Institute | url =http://www.wri.org/publication/content/8478 | access-date = August 28, 2013|archive-url =https://web.archive.org/web/20100726214308/http://www.wri.org/publication/content/8478|archive-date=2010-07-26}}</ref> The Latin American [[cholera]] outbreaks in the 1990s may have been attributed to the consumption of raw cholera-infested seafood that was eaten as ceviche.<ref>Benjamin Reilly, ''Disaster and Human History: Case Studies in Nature, Society and Catastrophe''. McFarland: 2009. Page 351</ref>
+
+The [[American Dietetic Association]] urges women to avoid ceviche during pregnancy due to the health risks it introduces if not prepared properly.<ref>{{cite web | title =Food Safety Risks for Pregnant Women and Newborns | work =eatright.org: Public | publisher =Academy of Nutrition and Dietetics | date =December 2012 | url =http://www.eatright.org/resource/health/pregnancy/prenatal-wellness/food-safety-risks-for-pregnant-women-and-newborns | access-date =August 28, 2013 | archive-url =https://web.archive.org/web/20150906121819/http://www.eatright.org/resource/health/pregnancy/prenatal-wellness/food-safety-risks-for-pregnant-women-and-newborns | archive-date =September 6, 2015 | url-status =dead }}</ref>
+
+== UNESCO Intangible Cultural Heritage of Humanity ==
+In December 2023, the practices and meanings associated with the preparation and consumption of ceviche, were recognized by [[UNESCO]] as an expression of [[Peruvian cuisine|Peruvian traditional cuisine]] and an [[Intangible Cultural Heritage of Humanity]]. The statement was made within the framework of the eighteenth session of its Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage. As a basis for its decision, it was considered that the preparation and consumption of ceviche in Peru, "entail specific practices, knowledge and meanings at each stage, from fishing to cultivating the ingredients and preparing the dish. As recipes vary from one region to the next, the dish also strengthens regional cultural identity".<ref>{{cite web |title=Practices and meanings associated with the preparation and consumption of ceviche, an expression of Peruvian traditional cuisine |url=https://ich.unesco.org/en/RL/practices-and-meanings-associated-with-the-preparation-and-consumption-of-ceviche-an-expression-of-peruvian-traditional-cuisine-01952 |access-date=2024-02-27}}</ref><ref>{{cite web |title=UNESCO - Traditional knowledge and practices for the making and consumption of cassava bread |url=https://ich.unesco.org/en/RL/traditional-knowledge-and-practices-for-the-making-and-consumption-of-cassava-bread-02118}}</ref>
+
+In awarding the honor to Peru's ceviche, UNESCO highlighted the role of the dish in Peru's cultural identity, the importance of artisanal sustainable fishers and traditional female ceviche cooks in cevicherías, regional variations of the dish, and how the knowledge of ingredients and techniques are passed down through families in Peru.<ref>{{cite web | last1=Read | first1=Johanna |title=UNESCO Names Peru's Ceviche Intangible Cultural Heritage |url=https://www.forbes.com/sites/johannaread/2024/02/22/unesco-names-perus-ceviche-as-intangible-cultural-heritage/?sh=3f5b34895677 |access-date=2024-02-27 |website=[[Forbes]]}}</ref>
+
+== See also ==
+{{portal|Food}}
+* {{annotated link|Boquerones en vinagre}} marinated in vinegar, garlic and parsley eaten in Spain
+* {{annotated link|Escabeche}}, cooked and served in an acidic marinade
+* {{annotated link|Kinilaw}} of raw cubed fish mixed with vinegar and sour fruit juice
+* {{annotated link|Kilawin}}
+* {{annotated link|List of raw fish dishes}}
+* {{annotated link|List of fish dishes}}
+* {{annotated link|'Ota 'ika}} consisting of raw fish marinated in citrus juice and coconut milk
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+* {{cite book|last1=Bayless|first1=Rick|title=Mexico One Plate at aTime|year=2000|publisher=Simon & Schuster|isbn=0-684-84186-X|ref=bayless_one}}
+* {{cite book
+|title=Cleora's Kitchens: The Memoir of a Cook and Eight Decades of Great American Food
+|first=Cleora
+|last=Butler
+|ref=cleora_butler
+|isbn=1-57178-133-1
+|year=2003
+|publisher=Council Oak Books, LLC
+|url=https://books.google.com/books?id=CytJGpIPh1kC
+}}
+* {{cite news
+|title=Revolución de los gustos en el Perú
+|newspaper=Américas
+|publisher=General Secretariat of the Organization of American States
+|date=June 2006
+|isbn=9780071596602
+|url=https://books.google.com/books?id=lBtkuboN5vgC&q=origen+ceviche+mexico&pg=PA81
+|ref=Revolución
+}}
+* {{cite book
+|url=https://books.google.com/books?id=icY2kM6bn-gC
+|title=Entre el comal y la olla: fundamentos de gastronomía costarricense
+|first1=Marjorie Ross
+|last1=González
+|first2=Marjorie
+|last2=Ross
+|publisher=Euned
+|ref=entre_el_comal
+|isbn=9789968311281
+|year=2001
+}}
+* {{cite book
+|title=Beyond gumbo: Creole fusion food from the Atlantic Rim
+|first=Jessica B.
+|last=Harris
+|isbn=0-684-87062-2
+|year=2003
+|publisher=Simon & Schuster
+|url=https://archive.org/details/beyondgumbocreol0000harr
+|url-access=registration
+|ref=beyond_gumbo
+}}
+* {{cite book
+|isbn=0-471-41102-7
+|title=The Appetizer Atlas: A World of Small Bites
+|first1=Arthur L.
+|last1=Meyer
+|first2=Jon M.
+|last2=Vann
+|publisher=John Wiley and Sons
+|year=2003
+|url=https://books.google.com/books?id=w9p8mVe9wTUC
+|ref=AAtlas
+}}
+* {{cite book
+|title=Cocina Peruana
+|first=Emilio
+|last=Peschiera
+|publisher=Ediciones Granica S.A.
+|isbn=956-8077-30-8
+|year=2005
+|url=https://books.google.com/books?id=TBlIsgmqA8AC
+|ref=peschiera
+}}
+* {{cite book
+|publisher=W. W. Norton & Company
+|year=2012
+|isbn=978-0-393-05069-1
+|title=Gran Cocina Latina |url=https://books.google.com/books?id=H-ZRGwAACAAJ&q=gran+cocina+latina
+|first1=Maricel
+|last1=Presilla
+|page=479
+|ref=presilla
+}}
+* {{cite book
+|title=The Great Ceviche Book
+|first=Douglas
+|last=Rodriguez
+|isbn=978-1-58008-107-8
+|publisher=Ten Speed Press
+|date=2010-06-08
+|url=https://books.google.com/books?id=dJcNQZi7_hQC&q=cebiche+origin+peru&pg=PA3
+|page=3
+|ref=great_ceviche
+}}
+
+<!-- Keep in both "Fish dishes" and "Uncooked fish dishes" because ceviche can be either cooked or uncooked. -->
+
+[[Category:Bahamian cuisine]]
+[[Category:Belizean cuisine]]
+[[Category:Chilean cuisine]]
+[[Category:Citrus dishes]]
+[[Category:Colombian cuisine]]
+[[Category:Costa Rican cuisine]]
+[[Category:Ecuadorian cuisine]]
+[[Category:Fish dishes]]
+[[Category:Cuisine of Florida]]
+[[Category:Guatemalan cuisine]]
+[[Category:Mexican cuisine]]
+[[Category:National dishes]]
+[[Category:Nicaraguan cuisine]]
+[[Category:Panamanian cuisine]]
+[[Category:Peruvian cuisine]]
+[[Category:Pascuense cuisine]]
+[[Category:Puerto Rican cuisine]]
+[[Category:Salvadoran cuisine]]
+[[Category:Uncooked fish dishes]]

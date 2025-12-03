@@ -1,0 +1,850 @@
+{{pp-semi-indef|small=yes}}
+{{use dmy dates|date=March 2022}}
+{{Short description|Chicken dish associated with Russian and Ukrainian cuisines}}
+{{Infobox food
+| name=Chicken Kiev
+| image=Chicken Kiev - Ukrainian East Village restaurant.jpg
+| image_size=250px
+| caption=Chicken Kiev cut open
+| alt=Pieces of chicken Kiev in butter sauce spread on a plate
+| alternate_name=Chicken Kyiv, côtelette de volaille, suprême de volaille à la Kiev
+| course=[[Main course|Main]]
+| country=[[Russian Empire]]
+| national_cuisine=[[Russian cuisine|Russian]], [[Ukrainian cuisine|Ukrainian]]
+| served=Hot
+| main_ingredient=[[Chicken (food)|Chicken]] breast, (garlic) butter, [[herb]]s, eggs, [[bread crumbs]]
+}}
+
+'''Chicken Kiev''',{{efn|{{langx|uk|котлета по-київськи|translit=kotleta po-kyivsky}},{{sfnp|Butler|2022}}{{sfnp|Demianyk|2022}} {{IPA|uk|kotˈlɛtɐ po ˈkɪjiu̯sʲke|pron}}; {{langx|ru|котлета по-киевски|translit=kotleta po-kiyevski}}.}} also known as '''chicken Kyiv''',{{sfnp|Butler|2022}}{{efn|In response to the [[2022 Russian invasion of Ukraine]], some supermarket chains rebranded their versions of the dish to the spelling "chicken Kyiv", in line with [[Kyiv#Name|the general media shift]] from the Russian-derived name "Kiev" to "Kyiv".{{sfnp|Butler|2022}}{{sfnp|Demianyk|2022}}}} is a dish made of [[Chicken (food)|chicken]] [[Fillet (cut)|fillet]] pounded and rolled around cold butter, then coated with egg and [[bread crumbs]], and either [[Frying|fried]] or [[Baking|baked]].{{sfnp|Volokh|1983|p=320}}{{sfnp|Cookery|1955|p=442|loc=[http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1324-1145-kotleta-po-kievski.html 1145. Котлета по-киевски]}} Since fillets are often referred to as [[Supreme (cookery)|suprêmes]] in professional cookery,<ref name="Escoffier1907-507">{{harvp|Escoffier|1907|p=[https://archive.org/stream/cu31924000610117#page/n531/mode/2up 507]|ps=. Chicken suprêmes with the humerus bone left attached are referred to as chicken cutlets.}}</ref> the dish is also called "suprême de volaille à la Kiev".{{sfnp|Leto|Bode|2006|p=[https://books.google.com/books?id=35CESNLtg8gC&pg=PA130 130]}}{{sfnp|Cracknell|Kaufmann|2012|p=[https://books.google.com/books?id=l2Om8L3diTQC&pg=PA452 452]}} Stuffed chicken breast is generally known in [[Russian cuisine|Russian]] and [[Ukrainian cuisine|Ukrainian]] cuisines as ''côtelette de volaille''.{{sfnp|Alexandrova-Ignatieva|1909|p=425}}{{sfnp|Watt|2014|p=[https://books.google.com/books?id=RB4iBQAAQBAJ&pg=PA99 99–100]}}{{sfnp|Strybel|2005|p=[https://books.google.com/books?id=UtA6-pyGJmMC&pg=PA303 303]}} Though it has disputed origins, the dish is particularly popular in the [[post-Soviet states]], as well as in several other countries of the former [[Eastern Bloc]],{{sfnp|Strybel|2005|p=[https://books.google.com/books?id=UtA6-pyGJmMC&pg=PA303 303]}}{{sfnp|Miller-Yianni|2011|p=[https://books.google.com/books?id=oIWcAgAAQBAJ&pg=PA64 64]}} and in the [[English-speaking world]].{{sfnp|Cloake|2012}}
+
+== History ==
+The history of this dish is not well documented, and various sources make claims about its origin. Since the 18th century, Russian chefs have adopted many techniques of French ''[[haute cuisine]]'' and combined them with the local culinary tradition. The adoption was furthered by the French chefs, such as [[Marie-Antoine Carême]] and [[Urbain Dubois]], who were hired by Russian gentry. In particular, the use of high quality meat cuts, such as various cutlets, steaks, escalopes and suprêmes became widespread in the 19th century, and a number of original dishes involving such components were developed in Russia at that time.{{sfnp|MacVeigh|2008|p=[https://books.google.com/books?id=g9KcADhDPqkC&pg=PA218 218]}}{{sfnp|Pokhlyobkin|2004|p=21}}
+
+=== Côtelette de volaille ===
+[[File:Chicken cutlets.jpg|thumb|Common Russian minced chicken cutlets]]
+The French term ''de volaille'' means "of poultry" and denotes almost exclusively chicken dishes in French cookbooks.{{sfnp|Escoffier|1907|p=[https://archive.org/stream/cu31924000610117#page/n497/mode/2up 473]}} The name ''côtelette de volaille'' means thus simply "chicken cutlet". Despite the original French name, the Russian recipe is unknown in [[French cuisine]], where the term ''côtelette de volaille'' refers to chicken breasts in general{{sfnp|Vintcent|2004|p=[https://books.google.com/books?id=6P2w8ZV31N8C&pg=PA50 50]}} and is used nearly synonymously with chicken ''filet'' or ''suprême''.<ref name="Escoffier1907-507"/> The French term also denotes a minced chicken cutlet-shaped [[patty]].{{sfnp|Dubois|1868|p=[https://archive.org/details/bub_gb_A7DX5_x_hrAC/page/n187 160–161]}}{{sfnp|Meyer|1903|p=[http://www.ebooksread.com/authors-eng/adolphe-meyer/the-post-graduate-cookery-book--consisting-of-a-large-number-of-special-receipt-eye/page-13-the-post-graduate-cookery-book--consisting-of-a-large-number-of-special-receipt-eye.shtml 192–193]|ps=. See recipes for ''côtelettes de volaille à la du Barry'', ''côtelettes de volaille à la Montglas'', and ''côtelettes de volaille à la Lucullus''.}}{{sfnp|Escoffier|1907|p=[https://archive.org/stream/cu31924000610117#page/n551/mode/2up 526]}} The general Russian term for chicken cutlets, ''kurinaya kotleta'' (куриная котлета), refers predominantly to such minced cutlets, whereas ''kotleta de-voliay'' (котлета деволяй) is applied exclusively to the stuffed chicken breast dish. The latter name appears in the pre- and post-[[October Revolution|revolutionary]] Russian literature (in cookbooks as well as in fiction) since the beginning of the 20th century and is usually mentioned as a common restaurant dish.{{sfnp|Alexandrova-Ignatieva|1909|p=425}}<ref name="Averchenko1914">{{harvp|Averchenko|1914|ps=. "Ладно. Выберу. Сделайте ей котлеты де-воляй. — Только не котлеты де-воляй! Это все шансонетки едят — котлеты де-воляй." – "Make cutlets de volaille for her. / Anything but cutlets de volaille! It's what [[chanteuse]]s eat, cutlets de volaille."}}</ref><ref name="Bulgakov1940">{{harvp|Bulgakov|1940|p=[https://studyenglishwords.com/book/Мастер-и-Маргарита/11?page=58 58]|ps=, online parallel text. "В самом деле, не пропадать же куриным котлетам де-воляй?" – "And, really, can one let chicken cutlets de volaille perish?"}}</ref><ref name="Stepun1947">{{harvp|Stepun|1947|ps=. In his memoirs Fyodor Stepun recalls in particular his school graduation in May 1900 and mentions: "Обедали мы совсем как взрослые: закуска, котлеты «de volaille», Гурьевская каша и к ней две бутылки шампанского..." – "We were dining like adults: [[zakuski]], cutlets de volaille, [[Guriev porridge]] and two bottles of [[Sovetskoye Shampanskoye#History|champagne]]..."}}</ref><ref name="Vorobyov1947">{{harvp|Vorobyov|1947|p=[https://books.google.com/books?id=flBBAAAAIAAJ&q=де-воляй 88]|ps=. "Котлеты «де-воляй» готовятся на два вкуса, — поучал Бондарин. — Есть котлеты «де-воляй» по-киевски и котлеты «де-воляй жардиньер»." — "Cutlets de volaille are cooked for two tastes," tutored Bondarin. "There are cutlets de volaille Kiev-style and cutlets de volaille [[jardiniere]]."}}</ref><ref name="Sologub1926">{{harvp|Sologub|1926|p=[https://www.litmir.co/br/?b=174896&p=42 42]|ps=. "И породисты, и горды, // В элегантных сюртуках, // В лакированных туфлях, // Лошадиные две морды // Ржут в саду Шато-Гуляй, // Жрут котлеты де-воляй."}}</ref>
+
+The recipe in the classical Russian cookery textbook ''The Practical Fundamentals of the Cookery Art'' by {{ill|Pelageya Alexandrova-Ignatieva|ru|Александрова-Игнатьева, Пелагея Павловна}} (which had eleven editions between 1899 and 1916) includes a complex stuffing similar to [[quenelle]] (a mixture of minced meat, in this case the rest of the meat of the chicken, and cream) but with butter added. It also points out that "the cutlets ''de volaille'' are made from whole chicken fillets, like the [[Game (hunting)|game]] cutlets ''à la Maréchale''".{{sfnp|Alexandrova-Ignatieva|1909|pp=421 (ingredients for côtelettes de volaille), 425 (recipe for côtelettes de volaille)|ps=. The recipe for ''côtelette de volaille'': "Котлеты де-воляйль приготовляются из цельных куриных филеев, как котлеты марешаль из дичи (см. по оглавлению); из одной курицы получается всего две котлеты. Отделив филеи курицы от костей с плечевыми косточками, снять с них пленки, отбить слегка тяпкой, чтобы филей имел везде одинаковую толщину; маленькие филейчики также отбить, чтобы были шире и тоньше. Из всей остальной мякоти приготовить фарш, как для кнели, но только с прибавкою сливочного масла, которое кладется в фарш при толчении его в ступке. Приготовив все указанным образом, нафаршировать большие филеи кнелевым фаршем, положить внутрь по кусочку чистого льда, накрыть маленькими филейчиками, запанировать в яйце и тертом белом хлебе и изжарить на отколерованном сливочном масле, как и прочие котлеты. Гарниры и соуса подаются самые разнообразные." A somewhat similar recipe in English is given in {{harvp|Watt|2014|p=[https://books.google.com/books?id=RB4iBQAAQBAJ&pg=PA100 100]}}.}} The recipe is preceded by a similar one for "[[hazel grouse]] cutlets ''à la Maréchale''" with a quenelle and [[truffle]] stuffing.{{sfnp|Alexandrova-Ignatieva|1909|p=415 (recipe for game cutlets à la Maréchale)}} Another Russian cookbook published at the same time gives basically identical recipes for ''côtelette de volaille'' and ''côtelette à la Maréchale'' and notes that the only difference between them is that the former are made of chicken while the latter are made of game, such as hazel grouse, [[Black grouse|blackcock]], etc.{{sfnp|Maslov|1911|p=220}}
+
+The term ''[[à la Maréchale]]'' ("[[Marshal of France|marshal]]-style") denotes in French cookery tender pieces of meat, such as cutlets, [[escalope]]s, [[sweetbread]]s, or chicken breasts, which are treated ''à l'anglaise'' ("English-style"), i.e. coated with egg and breadcrumbs, and [[Sautéing|sautéed]].{{sfnp|Escoffier|1907|p=[https://archive.org/stream/cu31924000610117#page/n537/mode/2up 512]}}{{sfn|Supertoinette|ps=. "À la Maréchale se dit de petites pièces de boucherie (côtes ou noisettes d'agneau, escalopes ou côtes de veau, ris de veau, suprêmes de volaille) panées à l'anglaise et sautées."}} Numerous recipes of such dishes, some of them with stuffings, are described in both Western and Russian cookbooks of the 19th century. Among the stuffed versions, one finds a recipe for a "fowl fillet ''à la Maréchale''" stuffed with truffles and herbs in ''The Art of French Cuisine of the 19th Century'' (1847) by [[Marie-Antoine Carême]],{{sfnp|Carême|Plumerey|Fayot|1847|p=[https://archive.org/stream/b21526047_0004#page/n137/mode/2up 119]|ps=. The recipe for ''Filets de poulets à la Maréchale'': "Après avoir levé quatorze filets de poulets suivant la règle, et avoir enleve les filets mignons, que vous parez et mettez mariner avec sel, poivre, quelques branches de persil et un jus de citron, préparez des fines herbes avec persil haché, champignons, truffes hachées, une échalote hachée très-finement et bien blanchie; passez au beurre ces fines herbes, en y ajoutant gros comme une noix de glace de volaille, et un peu de muscade rapée; versez sur une assiette, et laissez refroidir pour en garnir les filets de poulets au milieu, en leur faisant une légère incision dans la partie où se trouvait le filet mignon; puis trempez-les dans l'œuf battu; panez-les, et arrosez-les de beurre clarifié pour les paner de nouveau; un quart d'heure avant de servir, faites-les griller sur une feuille de papier huilèe; garnissez le puits de truffes ou d'une toulouse; couronnez de filets mignons, que vous aurez fat frire dans une pate légère, et saucez, sans masquer, d'une espagnole demi-glace." The same recipe is given in ''The Modern Cook'' (1859) by [[Charles Elmé Francatelli]].{{sfnp|Francatelli|1859|p=[https://books.google.com/books?id=F68_6rvpwdsC&pg=PA37 37], "996. Fillets of fowls, ''à la Maréchale''"|ps=. "Trim the fillets of three of four fowls, and with the minion fillets form three or four large ones; make a slight incision down the centre of each fillet, so as to hollow it out a little: this must be done on the rough side. Then, chop a truffle, one shalot, and a little parsley very fine, and simmer these for five minutes in a small stewpan, with a bit of butter, pepper and salt, nutmeg, and a small piece of glaze, add the yolks of two eggs, and with this preparation fill the hollow made in the fillets, and then mask them over on both sides with a little stiffly reduced Allemande sauce, when this has become firmly set upon them by cooling, bread-crumb the fillets twice over: having once after dipped them in beaten eggs, and again after they have been sprinkled over with clarified butter; put them gently into shape with the blade of a knife, and place them upon a dish in the larder. Twenty minutes before serving to table cover the gridiron with a piece of oiled paper, place the fillets upon this, and broil them (on both sides) over a clear coke fire, of a bright-yellow color; when they are done, glaze them lightly, and dish them up in a close circle; fill the centre with a white Toulouse ragout, pout some reduced essence of fowls under them, and serve."}}}} and a similar ''filet de poulets à la Maréchale'' with herbs and [[forcemeat]] in ''La cuisine classique'' (1868) by [[Urbain Dubois]].{{sfnp|Dubois|1868|p=[https://archive.org/details/bub_gb_A7DX5_x_hrAC/page/n207 178]|ps=. The recipe for "fowl fillets à la Maréchale": "Parez 14 filets de poulets sans moignons; fendez-les sur leur épaisseur, fourrez-les avec une petite partie d'appareil aux fines herbes cuites, liées simplement avec un peu de glace; soudez les deux parties avec un peu de farce crue. Assaisonnez les filets, trempez-les dans des œufs battus pour les paner; 20 minutes avant de servir, trempez les dans du beurre fondu; rangez les sur un gril pour les faire cuire des deux côtés à feu modéré; dressez-les ensuite en couronne sur une mince couche de farce, pochée sur plat; emplissez le puits avec une garniture de petits pois cuits à l anglaise, liés avec une cuillerée de bon velouté, un morceau de beurre fin. Envoyez en même temps une saucière de velouté."}} Elena Molokhovets' ''[[A Gift to Young Housewives]]'', the most successful Russian cookbook of the 19th century, has included since its first edition in 1861 an elaborate recipe for "hazel grouse ''à la Maréchale''" stuffed with [[Madeira sauce]], [[Agaricus bisporus|portobello mushrooms]] and [[truffle]]s.{{sfnp|Molokhovets|1861|loc=495. Марешаль из рябчиков|ps=; ([http://www.molohovetc.ru/otdel_viii/1113_mareshal_iz_rjabchikov/ 1113. Марешаль из рябчиков] in the 1901 edition; [https://books.google.com/books?id=ttlCGJxfLRUC&pg=PA250 863. Hazel grouse à la Maréchale] in the English translation): "Remove both fillets from the hazel grouse, cutting off the wings at the first joint. Make a slit lengthwise on the underside of the fillets. Stuff them and sew them up. Dip the fillets in egg and deep fry, or dip them in egg and crumbs and fry on gridiron. Stuff with the following: Prepare a brown sauce using 1/8 lb butter and 1/2 glass flour and dilute with 1 1/2 glasses bouillon. Add salt and bring to a boil 2 or 3 times. Add a wineglass of Madeira, 6 chopped raw field mushrooms, and 1–2 truffles. Bring to a boil 4 more times, cool, and stuff the fillet pieces with this mixture. Arrange the hazel grouse around a platter and fill the center with the following ragout: Prepare a white sauce using 2/3 glass flour, 2 spoons crayfish butter made from crayfish shells, and 2 glasses bouillon. Add 12 washed, raw field mushrooms and 25 crayfish tails. Boil together thoroughly about twice and add 1–2 chopped truffles."}}
+
+=== Pozharsky cutlet ===
+[[File:Pozharskaya kotleta 1.jpg|thumb|A Pozharsky cutlet served with sautéed potatoes|alt=A Pozharsky cutlet with cubed potatoes on a plate]]
+The main difference between the old time ''côtelette de volaille'' and the modern chicken Kiev is that the elaborate stuffings of the former are replaced by butter.<ref>Compare {{harvp|Alexandrova-Ignatieva|1909|p=425}} and {{harvp|Cookery|1955|p=442|loc=[http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1324-1145-kotleta-po-kievski.html 1145. Котлета по-киевски]}}</ref> The use of butter for chicken cutlets has been known in Russian cuisine at least since the invention of the [[Pozharsky cutlet]] in the first half of the 19th century. The Pozharsky cutlets are breaded ground chicken patties for which butter is added to minced meat. This results in an especially juicy and tender consistency. The dish was a widely appraised invention of 19th-century Russian cuisine, which was also adopted by French ''haute cuisine'' and subsequently by the [[international cuisine]].{{sfnp|Syutkin|Syutkina|2015|loc=[https://books.google.com/books?id=fcLhIkoXc10C&pg=PP209 Котлетная история]}}{{sfnp|Alexandrova-Ignatieva|1909|p=317}}{{sfnp|Escoffier|1907|p=[https://archive.org/stream/cu31924000610117#page/n537/mode/2up 513]}}{{sfnp|MacVeigh|2008|pp=[https://books.google.com/books?id=g9KcADhDPqkC&pg=PA218 218], [https://books.google.com/books?id=g9KcADhDPqkC&pg=PA233 233]}}
+
+While the roots of chicken Kiev can thus be traced back to French ''haute cuisine'' and Russian cookery of the 19th century, the origin of the particular recipe known today as chicken Kiev remains disputed.
+
+=== Individual attributions ===
+The ''[[Russian Tea Room]] Cookbook'' notes that chicken Kiev was "most likely ... a creation of the great French chef Carême at the Court of [[Alexander I of Russia|Alexander I]]."{{sfnp|Steward-Gordon|Hazelton|1981|p=74}} [[Marie-Antoine Carême]] spent just several months of the year 1818 in [[St. Petersburg]],{{sfnp|Goldstein|1995}} but made a profound impact on Russian cuisine in this short time.{{sfnp|Pokhlyobkin|2004|p=21}} The reforms carried out by his followers introduced in particular various meat cuts into Russian cookery.{{sfnp|Pokhlyobkin|2004|p=21}} The recipe of the Russian ''côtelette de volaille'' is not present in Carême's major work mentioned above, but his "fowl fillet ''à la Maréchale''" could have served as the starting point for the further development of such dishes.
+
+Some Russian sources attribute the creation of this dish (or of its precursor) to [[Nicolas Appert]], French confectioner and chef, best known as the inventor of airtight [[food preservation]]. In contrast, common biographic sources for Appert do not mention this dish, and the origin of these claims is unclear.{{sfnp|Gelman|Zheutlin|2011|p=[https://books.google.com/books?id=LFID7guvvgAC&pg=PA201 201]}}{{sfnp|Summers|2015}}
+
+=== Novo-Mikhailovsky cutlet ===
+Russian food historian [[William Pokhlyobkin]] claimed that chicken Kiev was invented in 1912 as ''Novo-Mikhailovskaya kotleta'' in а St. Petersburg Merchants' Club located near the [[Russian Museum|Mikhailovsky palace]], and was renamed ''kotleta po-kiyevski'' in 1947 by a Soviet restaurant.{{sfnp|Pokhlyobkin|1997}} However, these claims collide with primary sources. The cookbook by Alexandrova-Ignatieva (including editions before and after 1912) describes indeed Novo-Mikhailovsky cutlets and mentions that they were invented in the club near the Mikhailovsky palace. However, in the provided recipe these cutlets are made from minced meat similarly to the Pozharsky cutlet, with the only difference being the meat pounded by a [[Meat tenderizer|tenderizer]] until it gets minced. This allows one to remove [[tendon]]s from the meat and results in a more tender consistency of the ground meat than after the use of a [[Meat grinder|grinder]]. The author also remarks that not only breasts but also other parts of chicken can be prepared this way and added to the mixture of meat and butter.{{sfnp|Alexandrova-Ignatieva|1909|pp=655–656|ps=. The recipe and comments for Novo-Michailovsky cutlet read: "'''Правила приготовления.''' Не опаливая и не потроша, снять с костей всё мясо и очистить его от жил. Смочив стол и тяпку молоком, начать отбивать мясо так, как отбивается говядина, т. е. после каждого удара притягивать тяпку к себе, чтобы куски не отскакивали. Во время отбивания подливать к мясу понемногу сливок. Когда все мясо настолько отбито, что представляет такую же измельчённую массу, как для обыкновенных котлет, из него будут удалены все жилы, то соединить его с растертым сливочным маслом, прибавить соли, перцу, влить ещё сливок, если измельчённая масса недостаточно нежна, снова смочить стол молоком и разделать котлеты, как мясные. При разделке котлет в широкую их сторону вставляются косточки, взятые из крылышек или ножек курицы. Смазав с обеих сторон разделанные котлеты желтком, разведённым молоком, запанировать их в мелко нарезанных сдобных булочках и зажарить на медном сотейнике на отколерованном сливочном масле. '''Название.''' Новомихайловскими называются эти котлеты потому, что впервые были приготовлены в Петербурге, в клубе сельских хозяев, помещавшемся на Михайловской улице. '''Отличительное качество.''' Новомихайловские котлеты отличаются от обыкновенных рубленых куриных, или так называемых пожарских котлет, своей необыкновенной нежностью. Нежность эта достигается тем, что: а) берётся молодая курица, б) мясо не рубится, а отбивается тяпкой и в) что вместо толчёных сухарей для панировки употребляются сдобные булочки. При правильном отбивании достигается полное отделение мельчайших пленок, которые при обыкновенной рубке не замечаются и попадают в котлеты. Для получения еще большей нежности новомихайловские котлеты можно приготовлять из одних филе курицы, употребляя остальную мякоть на пожарские котлеты или на оттяжку для консоме; но можно их готовить и со всей остальной мякотью, в таком случае следует только тщательно выбрать из мяса все жилки. Если новомихайловские котлеты приготовляются не только из филеев, а со всей мякоти курицы, то темное мясо (не филей) нужно сначала изрубить, потом протереть через частое сито и тогда уже смешать с белым мясом."}}
+
+The second claim of Pokhlyobkin's version is invalidated, as the references of chicken Kiev appeared in published sources much earlier, since the 1910s.{{sfnp|Cookery Digest|1915|p=72|loc=148. Котлеты киевские из кур или телятины}}{{sfnp|Apportionments|1928|p=98|ps=. "8. Котлеты по-киевски — Котлеты куриные фарширован. маслом" – "8. Cutlets Kiev-style — Chicken cutlets stuffed with butter"}}<ref name="CDT1937">{{harvp|Chicago Daily Tribune|1937|ps=. "Col. Yaschenko, generalissimo of the Yar, is an ex-officer of the Russian imperial army. He recommends Russian food, particularly stuffed breast of chicken, Kiev style."}}</ref><ref name="DMN1938">{{harvp|Dallas Morning News|1938|ps=. "Some of my Chicago friends took me to the same restaurant (a Russian restaurant called Yar—ed.) for dinner one night and ordered the specialty of the house, stuffed breast of chicken, Kieff. If you have ever eaten chicken prepared in this manner you know that you must begin at the small end of the batter shell which surrounds it. When you cut into it a savory butter sauce pours out."}}</ref><ref name="CDT1939">{{harvp|Chicago Daily Tribune|1939|ps=. "Michael A. Thompson, who has been a chef for twelve of his thirty-two years, is in charge of the kitchen at the Yar. His favorite recipe is chicken à la Kiev, which he introduced to Chicago, he says, ten years ago. It is chicken-breast with sweet butter and prepared in a fashion which Mr. Thompson has no intention of bandying about. He says he’s told a few other chefs how to make it and that’s enough."}}</ref>
+
+=== Modern chicken Kiev ===
+[[File:Kiev downtown.jpg|thumb|Continental hotel in Kyiv, beginning of the 20th century|alt=A photochrom print (color photo lithograph) showing Nikolayevskaya street and the facade of the hotel "Continental" in Kiev on a sunny day]]
+Oral tradition in [[Kiev]] (Kyiv) attributes the invention of the "cutlet ''de volaille'' Kiev-style" (''kotłeta de-voljaj po-kyjivśky'') to the restaurant of the Continental hotel in Kiev in the beginning of the 20th century.{{sfnp|May|1997}} A luxury hotel built in 1897 in the center of Kiev, it was run until the German invasion of the Soviet Union in 1941. The building was then mined by the retreating [[Red Army]] and exploded when the [[German Army (Wehrmacht)|German Army]] [[Battle of Kiev (1941)|occupied Kiev]]<!--See WP:KIEV--> in September 1941.{{sfnp|Zabecki|2015|p=[https://books.google.com/books?id=Mq_lCAAAQBAJ&q=kiev%20continental%20hotel&pg=PT51 18]}} After the war, the building was rebuilt and has since then been used by the [[Kiev Conservatory]]. According to the memoirs of contemporaries, Chicken Kiev was the [[signature dish]] of the hotel's restaurant.{{sfnp|May|1997}}
+
+[[File:Chicken Kiev, Cookery Digest, 1913-1914.jpg|thumb|Recipe of "Kiev cutlets from chicken or veal". ''Cookery Digest'', 1915.|alt=An excerpt from a page in a Russian book showing a recipe written in the pre-revolutionary Russian orthography]]
+An early reference of "Kiev cutlets from chicken or veal" is found in the ''Cookery Digest'' (1915), a collection of recipes which were published in the Moscow ''Journal for Housewives'' in 1913–1914. These were minced meat cutlets similar to the Pozharsky cutlets, but shaped like a croquette with a bar of cold butter placed in the middle. Like modern chicken Kiev, the croquettes were covered with egg and breadcrumbs and fried.{{sfnp|Cookery Digest|1915|p=72|loc=148. Котлеты киевские из кур или телятины}}
+
+Later, "chicken cutlets Kiev-style" were listed in ''Apportionments for dinners, separate dishes and other products of public catering'' (1928) which served as a standard reference for Soviet catering establishments. The book also included other items for chicken cutlets, such as "cutlet ''de volaille''" and "cutlet ''à la Maréchale''". The book demanded renaming of many traditional restaurant dishes to replace the (mostly French-style) "[[Bourgeoisie|bourgeois]]" names with simple "[[Proletariat|proletarian]]" forms. In particular, the "cutlet Kiev-style" had to be renamed into "chicken cutlet stuffed with butter".{{sfnp|Apportionments|1928|pp=96–97}} This program was not realised immediately (at least not completely), and its successor, ''The Directory of Apportionments for Catering'' (1940), published by the Soviet Ministry of Food Industry, still included the traditional names.<ref name="DAC1940">{{harvp|Apportionments|1940|p=[https://books.google.com/books?id=RTkkAQAAMAAJ&q=киевские 376]|loc=728. Котлеты из филе курицы с гарниром (деволяй). 729. Котлеты из филе курицы (марешаль) с горошком. 730. Котлеты из филе курицы (киевские) с горошком. – 728. Chicken fillet cutlets (de volaille) with a side dish. 729. Chicken fillet cutlets (Maréchale) with peas. 730. Chicken fillet cutlets (Kiev) with peas.}}</ref> In post-World War II publications of this directory and in other Soviet cookery books, such as ''Cookery'' (1955), the "Kiev-style" name was retained, but the terms ''de volaille'' and ''à la Maréchale'' were indeed dropped in favour of simple names such as "chicken cutlet stuffed with milk sauce", "chicken cutlet stuffed with liver" and "chicken cutlet stuffed with chicken [[quenelle]] and mushrooms".<ref name="Cookery1955">{{harvp|Cookery|1955|p=442|loc=[http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1324-1145-kotleta-po-kievski.html 1145. Котлета по-киевски]. [http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1325-1146-kotleta-iz-file-kuricy-farshirovannaya-molochnym-sousom.html 1146. Котлета из филе курицы, фаршированная молочным соусом]. [http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1326-1147-kotleta-iz-file-kuricy-farshirovannaya-pechenkoy.html 1147. Котлета из филе курицы, фаршированная печёнкой].}}</ref>{{sfnp|BTHF|1952|p=364|loc=110. Котлеты куриные, фаршированные куриной кнелью и грибами}}{{sfnp|DRC|1980|p=311|loc=719. Котлеты из филе птицы или дичи, фаршированные печенью}} As a result of this policy, the names ''de volaille'' and ''à la Maréchale'' disappeared from menus of Soviet restaurants.
+
+The "old-style" name "cutlet ''de volaille'' Kiev-style" was occasionally mentioned in some post-World War II Soviet fiction books.<ref name="Vorobyov1947"/>{{sfnp|Bylinov|1959|p=62|ps=. "Основное питание доставляют из ресторана "Интурист" с коньячком и котлетами де-воляй по-киевски."}} In particular, in a short story ''This Is Not Written In A Cookbook'' (1947) by Yevgeny Vorobyov, a Soviet soldier and a former chef in a Moscow noble hotel explains to his comrade in arms, that "cutlets ''de volaille'' are made for two tastes. There are cutlets ''de volaille'' Kiev-style and cutlets ''de volaille [[jardiniere]]''."<ref name="Vorobyov1947"/>
+
+The name {{Lang|pl|kotlet de volaille}} is used to this day for chicken Kiev in Poland.{{sfnp|Strybel|2005|p=[https://books.google.com/books?id=UtA6-pyGJmMC&pg=PA303 303]}} The name is oftentimes polonised as {{Lang|pl|dewolaj}} ({{Lang|pl|dewolaje}} for plural).{{sfnp|Bańko|2003|p=[https://books.google.com/books?id=GFoZAQAAIAAJ&q=dewolaj 269]}}
+
+Mentions of chicken Kiev are also found in US newspapers starting from 1937. The reports describe the Russian-style restaurant Yar in Chicago serving this dish.<ref name="CDT1937"/><ref name="DMN1938"/><ref name="WP1938">{{harvp|Washington Post|1938|ps=. "A rare morsel is Troika’s breast of chicken à la Kieff. The commendable Mr. Kieff seems to have been the [[Florenz Ziegfeld Jr.|Ziegfeld]] of chicken breast."}}</ref><ref name="CDT1939"/><ref name="JP1939">{{harvp|June Provines|1939|ps=. "Chicken Kiev at The Yar—breast of chicken with so much butter inside it spurts out when your fork goes in."}}</ref> The restaurant existed until 1951 and was run by Vladimir Yaschenko, a former colonel of the imperial Russian army. It was styled after the famous [[Yar (restaurant)|eponymous Moscow restaurant]] and was frequented by celebrities of that time.{{sfnp|Chicago Tribune|1968|ps=. "Services for Wladimir W. Yaschenko, owner of the Yar restaurant in Chicago in the 1930s...died Tuesday at the age of 71... During its day the Yar, a near north side dining place, was famous as a gathering spot for celebrities such as [[Ethel Barrymore]], [[Tito Schipa]], [[Jascha Heifetz]], and [[Igor Sikorsky]]. It was designed after the Yar restaurant in Moscow... After completing four years at the Railroad Institute in St. Petersburg (Petrograd) Russia, he served in the imperial Russian Army. He was a colonel in the second light cavalry artillery regiment during World War I. Yaschenko came to Chicago in 1926. In addition to the Yar he operated the Opera club, the Club Petrushka, and the Trading Post."}}{{sfnp|Chicago Daily Tribune|1951|ps=. "A voluntary bankruptcy petition was filed in federal court yesterday by Col. Wladimir W. Yaschenko, owner and operator of the Yar restaurant, 181, E. Lake Shore dr., which closed earlier this week."}} After World War II, US newspapers mentioned chicken Kiev served in New York restaurants.{{sfnp|Nickerson|1946}}{{sfnp|Hesser|2010|p=[https://books.google.com/books?id=QWrVBAAAQBAJ&pg=PT781 455]}} Recipes for a "chicken cutlet à la Kiev" were published in ''[[The New York Times]]'' in 1946{{sfnp|Nickerson|1946}}{{sfnp|Hesser|2010|p=[https://books.google.com/books?id=QWrVBAAAQBAJ&pg=PT781 455]}} and in ''[[Gourmet (magazine)|Gourmet]]'' magazine in 1948.{{sfnp|Gourmet|1948}}
+
+Since the end of the 1940s or beginning of the 1950s, chicken Kiev became a standard fare in Soviet high class restaurants, in particular in the [[Intourist]] hotel chain serving foreign tourists. Tourist booklets warned the diners of the danger it presented to their clothing.{{sfnp|Pokhlyobkin|1997}}{{sfnp|Burros|1988}} At the same time the popularity of this dish grew in the US. According to [[Darra Goldstein]] chicken Kiev became "a symbol of Russian ''haute cuisine''".{{sfnp|Goldstein|1999|p=[https://books.google.com/books?id=aKEICug2T-EC&pg=PA65 65]}}
+
+== Variants ==
+Chicken Kiev is made from a boned and skinned breast which is cut lengthwise, pounded and stuffed with butter. Western recipes usually call for garlic butter, while in Russian ones regular butter is used. Herbs (parsley and dill) can be added to the butter.{{sfnp|Volokh|1983|p=320}}{{sfnp|Cookery|1955|p=442|ps=. "[http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1324-1145-kotleta-po-kievski.html 1145. Котлета по-киевски]"}} In some American recipes butter is replaced by blue cheese.{{sfnp|Smith|2004|p=378}} 
+
+In the classical preparation of French ''côtelettes de volaille'', the [[humerus]] bone of the wing is left attached.<ref name="Escoffier1907-507"/> This also holds for their Russian versions{{sfnp|Alexandrova-Ignatieva|1909|p=425}} and in particular for chicken Kiev.{{sfnp|Volokh|1983|p=320}}{{sfnp|Burros|1988}}{{sfnp|Cookery|1955|p=442|ps=. "[http://kulinaria1955.ru/domashnyaya_ptitsa_i_dich/bluda_iz_ptitsy/kury/1324-1145-kotleta-po-kievski.html 1145. Котлета по-киевски]"}} For serving, the bone is usually covered with a frilled paper napkin.{{sfnp|Burros|1988}} However, industrially produced pure fillets are often used nowadays, and the cutlets are served without the bone. This is the usual way of serving chicken Kiev in the US.{{sfnp|Volokh|1983|p=320}} A spherically shaped version was developed by English chef [[Jesse Dunford Wood]].{{sfnp|Salter|2010}}
+
+<gallery heights="200" mode="packed">
+File:Chicken Kiev in Kiev (cropped).jpg|alt=A chicken Kiev on a plate garnished with vegetables. A humerus bone is attached and covered with a frilled paper napkin|Classical version with bone retained, as served in Kyiv
+File:Chicken Kiev Flickr.jpg|alt=A chicken Kiev on a plate served with mashed potato and a lemon wedge|Boneless version
+</gallery>
+
+== Convenience food ==
+[[File:Preprepared-chicken-kiev.jpg|thumb|right|Pre-prepared chicken Kiev]]
+In the middle of the 20th century, [[Convenience food|semi-processed]] ground meat cutlets were introduced in the USSR. Colloquially known as [[Mikoyan cutlet]]s (named after Soviet politician [[Anastas Mikoyan]]), these were cheap pork or beef cutlet-shaped patties which resembled industrially produced American beef burgers.{{sfnp|Tanner|1964}} Some varieties bore names of well known Russian restaurant dishes but they had little in common with the original dishes. In particular, a variety of a pork patty was called "Kiev-style cutlet".{{sfnp|BTHF|1952|p=164}} Since the late Soviet times, "real" chicken Kiev cutlets have been offered in Russia as [[convenience food]].{{sfnp|Pokhlyobkin|1997}}
+
+Introduced in Britain during 1979, chicken Kiev was [[Marks & Spencer]] company's first [[TV dinner|ready-made meal]].{{sfnp|Moran|2005}}{{sfnp|Salter|2010}} It remains popular in the UK, being readily available in supermarkets and served in some restaurant chains. Due to its popularity, it is included in the UK inflation basket which is composed by the [[Office for National Statistics]] for calculations of the consumer price inflation indices.{{sfnp|Elliott|2012}} The wide popularity of chicken Kiev as a pre-packaged meal led to the term ''Kiev'' being applied to various stuffed chicken dishes, such as "leek-and-bacon Kiev", "cheese-and-ham Kiev" (the same dish as [[chicken cordon bleu|chicken ''cordon bleu'']]), and "vegetarian Kiev" (made from [[bean]]s).{{sfnp|Ayto|2012|p=[https://books.google.com/books?id=NoicAQAAQBAJ&pg=PA194 194]}}
+
+== Similar dishes ==
+Among other dishes similar to chicken Kiev, the aforementioned chicken ''cordon bleu'' with a cheese and ham filling instead of butter is particularly popular in the [[Western world|West]]. The recipe of [[Karađorđeva šnicla]], a [[Serbian cuisine|Serbian]] breaded veal or pork cutlet, was inspired by chicken Kiev.{{sfnp|Dejanović|2004|p=25}}
+
+== Cultural references ==
+{{Wikiquote|Chicken Kiev}}
+The "[[Chicken Kiev speech]]" is the derisive name coined by [[William Safire]] for then-U.S. President [[George Herbert Walker Bush|George H. W. Bush]]'s speech in Kiev<!--See WP:KIEV--> on 1 August 1991, which opposed independence for [[Ukraine]], cautioning Ukrainians against "suicidal [[Ukrainian nationalism|nationalism]]".{{sfnp|Washington Times|2004}}{{sfnp|Åslund|2009|pp=29–30}}<ref name=":0">{{Cite book |last=Plokhy |first=Serhii |title=The last empire: the final days of the Soviet Union |date=2014 |publisher=Basic Books |isbn=978-0-465-05696-5 |location=New York, NY |pages=206–207}}</ref> Bush did what he could diplomatically to keep the Soviet Union together, but on 24 August Ukraine [[Declaration of Independence of Ukraine|declared independence]], and on 1 December Ukrainians voted for it in a [[1991 Ukrainian independence referendum|national referendum]], leading to the [[Dissolution of the Soviet Union|USSR's dissolution]] by December 26.<ref name=":0" />
+
+[[File:Stamp of Ukraine s1691.jpg|thumb|Postage stamp of Ukraine dedicated to chicken Kiev, 2018]]
+In 2018, a bronze miniature sculpture of chicken Kiev was placed on Horodecki street in Kyiv, Ukraine, near the restaurant "Chicken Kyiv". The sculpture became the first of a set of such mini-sculptures depicting famous symbols of Kyiv placed throughout the city as part of an art project.{{sfnp|V Kieve|2018}}
+
+== See also ==
+{{Portal|Food|Ukraine}}
+* [[Breaded cutlet]]
+* [[List of chicken dishes]]
+* [[List of Russian dishes]]
+* [[Ukrainian cuisine]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+* {{cite book
+| author        = П. В. Абатуров
+| editor        = М. О. Лифшиц
+| title         = Кулинария
+| publisher     = Госторгиздат, Министерство пищевой промышленности СССР
+| location      = Москва
+| year          = 1955
+| display-authors = etal
+| ref           = {{harvid|Cookery|1955}}
+}} [{{cite book
+| author        = P. V. Abaturov
+| editor        = M. O. Lifschitz
+| title         = Cookery
+| location      = Moscow
+| year          = 1955
+| publisher     = Gostorgizdat, USSR Ministry of Food Industry
+| display-authors = etal
+| language      = ru
+}}]
+* {{cite book
+| author        = Пелагея Павловна Александрова-Игнатьева
+| title         = [[commons:File:Александрова-Игнатьева П.П. - Практические основы кулинарного искусства - 1909.djvu|Практические основы кулинарного искусства]]
+| location      = Санкт-Петербург
+| year          = 1909
+| ref           = {{harvid|Alexandrova-Ignatieva|1909}}
+}} [{{cite book
+| author        = Pelageya Alexandrova-Ignatieva
+| title         = The Practical Fundamentals of the Cookery Art
+| location      = St. Petersburg
+| year          = 1909
+| language      = ru
+}}]
+* {{cite book
+| author        = Anders Åslund
+| title         = How Ukraine Became a Market Economy and Democracy
+| publisher     = Peterson Institute for International Economics
+| date          = March 2009
+| ref           = {{harvid|Åslund|2009}}
+}}
+* {{cite book
+| author        = Аркадий Аверченко 
+| title         = [[:ru:wikisource:Женщина в ресторане (Аверченко)|Женщина в ресторане]]
+| year          = 1914
+| publisher     = Новый сатирикон
+| location      = Санкт-Петербург
+| ref           = {{harvid|Averchenko|1914}}
+}} [{{cite book
+| author        = Arkady Averchenko
+| author-link   = Arkady Averchenko
+| title         = A woman in a restaurant
+| year          = 1914
+| location      = St. Petersburg
+| publisher     = Novy Satirikon
+| language      = ru
+}}]
+* {{cite book
+| title           = The Diner's Dictionary: Word Origins of Food and Drink
+| author          = John Ayto
+| publisher       = Oxford University Press
+| location        = Oxford
+| year            = 2012
+| isbn            = 978-0-199-64024-9
+| ref             = {{harvid|Ayto|2012}}
+}}
+* {{cite book
+| author        = Mirosław Bańko
+| title         = Wielki słownik wyrazów obcych PWN
+| publisher     = Państwowe Wydawnictwo Naukowe
+| language      = pl
+| year          = 2003
+| isbn          = 978-8-301-13941-4
+| ref           = {{harvid|Bańko|2003}}
+}}
+* {{cite book
+| title         = Книга о вкусной и здоровой пище
+| publisher     = Пищепромиздат (Food Industry publishing house)
+| location      = Москва
+| date          = 1952
+| language      = ru
+| ref           = {{harvid|BTHF|1952}}
+}} [English translation: {{cite book
+| title         = The Book of Tasty and Healthy Food
+| translator    = Boris Ushumirskiy
+| publisher     = SkyPeak Publishing
+| date          = 1912
+| isbn          = 978-0615691350
+}}]
+* {{cite book
+| author        = Mikhail Bulgakov
+| author-link   = Mikhail Bulgakov
+| title         = [[The Master and Margarita]]
+| year          = 1928–1940
+| location      = Moscow
+| publisher     = [[Moskva (magazine)|Moskva]] (first publication 1966–67)
+| ref           = {{harvid|Bulgakov|1940}}
+}}
+* {{cite news
+| newspaper     = [[The New York Times]]
+| date          = 1988-08-14
+| title         = FARE OF THE COUNTRY; Further Tribulations of the Chicken From Kiev
+| author        = Marian Burros
+| url           = https://www.nytimes.com/1988/08/14/travel/fare-of-the-country-further-tribulations-of-the-chicken-from-kiev.html?pagewanted=all&src=pm
+| ref           = {{harvid|Burros|1988}}
+}}
+* {{cite news
+| title         = Sainsbury's renames chicken kievs and pulls Russian-made vodka
+| author        = Sarah Butler
+| url           = https://www.theguardian.com/business/2022/mar/04/sainsburys-renames-chicken-kievs-kyivrussian-made-vodka-uk-supermarket-soviet-spelling-ukraine
+| website       = The Guardian
+| date          = 2022-03-04
+| access-date   = 2022-03-04
+| ref           = {{harvid|Butler|2022}}
+}}
+* {{cite book
+| title         = Пароль "ДП-3"
+| author        = Александр Былинов
+| publisher     = Молодая гвардия
+| location      = Москва
+| date          = 1959
+| ref           = {{harvid|Bylinov|1959}}
+}} [{{cite book
+| title         = Password "DP-3"
+| author        = Alexander Bylinov
+| publisher     = [[Molodaya Gvardiya (publisher)|Molodaya Gvardiya]]
+| location      = Moscow
+| date          = 1959
+| language      = ru
+}}]
+* {{cite book
+| title         = L'art de la cuisine française au dix-neuviême siêcle : traité élémentaire et pratique
+| author1       = Marie Antonin Carême
+| author-link   = Marie-Antoine Carême
+| author2       = Armand Plumerey
+| author3       = Charles Frédéric Alfred Fayot
+| year          = 1847
+| volume        = 4
+| url           = https://archive.org/details/b21526047_0004
+| language      = fr
+| ref           = {{harvid|Carême|Plumerey|Fayot|1847}}
+}} ''Entrées chaudes''. Work completed after Carême's death by Armand Plumerey.
+* {{cite news
+| title         = A Line O'Type Or Two
+| newspaper     = [[Chicago Tribune|Chicago Daily Tribune]]
+| date          = 1937-11-26
+| page          = 10
+| url           = http://archives.chicagotribune.com/1937/11/26/page/10/
+| ref           = {{harvid|Chicago Daily Tribune|1937}}
+}}
+* {{cite news
+| title         = Chefs Reveal a Fondness for Plain Dishes
+| date          = 1939-03-16
+| newspaper     = [[Chicago Tribune|Chicago Daily Tribune]]
+| page          = 18
+| url           = http://archives.chicagotribune.com/1939/03/16/page/18/
+| ref           = {{harvid|Chicago Daily Tribune|1939}}
+}}
+* {{cite news
+| title         = Yar Restaurant Owner Reports He's Bankrupt
+| date          = 1951-01-06
+| newspaper     = [[Chicago Tribune|Chicago Daily Tribune]]
+| page          = 9
+| url           = http://archives.chicagotribune.com/1951/01/06/page/9/article/yar-restaurant-owner-reports-hes-bankrupt
+| ref           = {{harvid|Chicago Daily Tribune|1951}}
+}}
+* {{cite news
+| title         = Yaschenko, 71, Dies; Owner of Yar in 1930s
+| date          = 1968-11-07
+| newspaper     = [[Chicago Tribune]]
+| page          = B23
+| ref           = {{harvid|Chicago Tribune|1968}}
+}}
+* {{cite news
+| author        = Felicity Cloake
+| title         = How to cook the perfect chicken Kiev
+| date          = 2012-06-07
+| newspaper     = [[The Guardian]]
+| url           = https://www.theguardian.com/lifeandstyle/wordofmouth/2012/jun/07/how-cook-perfect-chicken-kiev
+| ref           = {{harvid|Cloake|2012}}
+}}
+* {{cite book
+| title         = Кулинарный сборник
+| date          = 1915
+| location      = Москва
+| publisher     = Журнал для хозяек
+| url           = https://rusneb.ru/catalog/000199_000009_004185091/
+| ref           = {{harvid|Cookery Digest|1915}}
+}} [{{cite book
+| title         = Cookery Digest
+| location      = Moscow
+| publisher     = Journal for housewives
+| year          = 1915
+| language      = ru
+}}]
+* {{cite book
+| title         = Practical Professional Cookery
+| author1       = H. L. Cracknell
+| author2       = R. J. Kaufmann
+| publisher     = Cengage Learning EMEA
+| date          = 1999
+| url           = https://books.google.com/books?id=l2Om8L3diTQC
+| isbn          = 978-1-86152-873-5
+| ref           = {{harvid|Cracknell|Kaufmann|2012}}
+}}
+* {{cite book
+| title         = Сборник раскладок для предприятий общественного питания
+| author        = Научно-исследовательский институт торговли и общественного питания
+| date          = 1940
+| location      = Москва
+| publisher     = Госторгиздат
+| ref           = {{harvid|Apportionments|1940}}
+}} [{{cite book
+| author        = Research Institute of Trade and Catering of the Ministry of Trade of the USSR
+| title         = Directory of Apportionments for Catering
+| location      = Moscow
+| publisher     = Gostorgizdat (publishing house of the State Ministry of Trade)
+| year          = 1940
+| language      = ru
+}}]
+* {{cite book
+| title         = Сборник рецептур блюд и кулинарных изделий для предприятий общественного питания
+| author        = Научно-исследовательский институт торговли и общественного питания
+| date          = 1980
+| location      = Москва
+| publisher     = Госторгиздат
+| ref           = {{harvid|DRC|1980}}
+}} [{{cite book
+| author        = Research Institute of Trade and Catering of the Ministry of Trade of the USSR
+| title         = Directory of Recipes and Coolinary Products for Catering
+| location      = Moscow
+| publisher     = Gostorgizdat (publishing house of the State Ministry of Trade)
+| year          = 1980
+| language      = ru
+}}]
+* {{cite news
+| title         = Unusual Dishes From Sirniki to Blinys Discovered by Food Expert on Recent Trip
+| date          = 1938-02-25
+| newspaper     = [[The Dallas Morning News]]
+| department    = 1
+| page          = 10
+| ref           = {{harvid|Dallas Morning News|1938}}
+}}
+* {{cite news
+| author        = Velimir Dejanović
+| title         = Одликовао шницлу "Карађорђеву"
+| work          = [[Politika]]
+| date          = 2004-06-11
+| language      = sr
+| ref           = {{harvid|Dejanović|2004}}
+}}
+* {{cite news
+| author        = Graeme Demianyk
+| title         = Here's Why 'Chicken Kiev' Is Being Renamed 'Chicken Kyiv'
+| date          = 2022-03-04
+| url           = https://www.huffingtonpost.co.uk/entry/kyiv-not-kiev-sainsburys-chicken-associated-press_uk_622280dbe4b04a0545d67d6c
+| access-date   = 2022-03-04
+| website       = HuffPost UK
+| ref           = {{harvid|Demianyk|2022}}
+}}
+* {{cite book
+| title         = La cuisine classique: études pratiques, raisonnées et démonstratives de l'Ecole française appliquée au service à la russe
+| author        = Urbain Dubois
+| author-link   = Urbain Dubois
+| edition       = 3
+| publisher     = E. Dentu
+| year          = 1868
+| language      = fr
+| url           = https://archive.org/details/bub_gb_A7DX5_x_hrAC
+| ref           = {{harvid|Dubois|1868}}
+}}
+* {{cite news
+| author        = Larry Elliott
+| title         = Inflation 'shopping basket' includes tablet computers and Twilight 
+| date          = 2012-03-13
+| newspaper     = [[The Guardian]]
+| url           = https://www.theguardian.com/business/2012/mar/13/inflation-shopping-basket-tablet-twilight
+| ref           = {{harvid|Elliott|2012}}
+}}
+*{{cite book
+| author        = Auguste Escoffier
+| author-link   = Auguste Escoffier
+| title         = A Guide to Modern Cookery
+| year          = 1907
+| publisher     = W. Heinemann
+| location      = London
+| url           = https://archive.org/details/cu31924000610117
+| ref           = {{harvid|Escoffier|1907}}
+}}
+* {{cite book
+| author        = Charles Elmé Francatelli
+| author-link   = Charles Elmé Francatelli
+| title         = The Modern Cook
+| year          = 1859
+| publisher     = reprinted by Applewood Books, 2008
+| isbn = 9781429012102
+| url           = https://books.google.com/books?id=F68_6rvpwdsC
+| ref           = {{harvid|Francatelli|1859}}
+}}
+* {{cite book
+| title         = Продуктовые нормы обедов, отдельных блюд и прочих изделий общественных столовых (раскладки)
+| location      = Москва
+| publisher     = паевое товарищество "Нарпит"
+| year          = 1928
+| ref           = {{harvid|Apportionments|1928}}
+}} [{{cite book
+| title         = Ration standards (apportionments) for dinners, separate dishes and other products of public catering
+| publisher     = Narpit (state organisation for public catering)
+| location      = Moscow
+| year          = 1928
+| language      = ru
+}}]
+* {{cite book |last1=Gelman |first1=Judy |last2=Zheutlin |first2=Peter |title=The Unofficial Mad Men Cookbook: Inside the Kitchens, Bars, and Restaurants of Mad Men |date=6 December 2011 |publisher=BenBella Books |isbn=978-1-936661-40-4 |url=https://books.google.com/books?id=LFID7guvvgAC&pg=PA201 |language=en}}
+* {{cite book
+| author        = Darra Goldstein
+| author-link   = Darra Goldstein
+| title         = A Taste of Russia: A Cookbook of Russian Hospitality
+| year          = 1999
+| publisher     = Russian Information Service
+| isbn          = 978-1-88010-042-4
+| url           = https://books.google.com/books?id=aKEICug2T-EC
+| ref           = {{harvid|Goldstein|1999}}
+}}
+* {{cite journal
+| author        = Darra Goldstein
+| author-link   = Darra Goldstein
+| title         = Russia, Carême, and the Culinary Arts
+| journal       = The Slavonic and East European Review
+| volume        = 73
+| issue         =  4
+| date          = October 1995
+| pages         = 691–715
+| publisher     = The Modern Humanities Research Association and University College London, School of Slavonic and East European Studies
+| jstor         = 4211935
+| ref           = {{harvid|Goldstein|1995}}
+}}
+* {{cite magazine
+| title         = Chicken Cutlet a la Kiev
+| magazine      = [[Gourmet (magazine)|Gourmet]]
+| date          = July 1948
+| publisher     = [[Condé Nast]]
+| page          = 59
+| ref           = {{harvid|Gourmet|1948}}
+}}
+* {{cite book
+| title         = The Essential New York Times Cookbook: Classic Recipes for a New Century
+| author        = Amanda Hesser
+| publisher     = W. W. Norton & Company
+| year          = 2010
+| isbn          = 978-0-39324-767-1
+| ref           = {{harvid|Hesser|2010}}
+}}
+* {{cite book
+| title         = Организация предприятий общественного питания
+| author1       = В. Д. Коростышевский
+| author2       = К. И. Левитский
+| author3       = Н. П. Цыпленков
+| author4       = Г. Ф. Шорин
+| publisher     = Госторгиздат, Министерство пищевой промышленности СССР
+| location      = Москва
+| year          = 1955
+| ref           = {{harvid|Korostyshevskiy|Levitskiy|Tsyplyonkov|Shorin|1958}}
+}} [{{cite book
+| author1       = V. D. Korostyshevskiy
+| author2       = K. I. Levitskiy
+| author3       = N. P. Tsyplyonkov
+| author4       = G. F. Shorin
+| title         = The organisation of foodservice
+| location      = Moscow
+| year          = 1958
+| publisher     = Gostorgizdat, USSR Ministry of Food Industry
+| language      = ru
+}}]
+* {{cite book
+| author1       = Mario Jack Leto
+| author2       = Willi Karl Heinrich Bode
+| title         = The Larder Chef
+| publisher     = Routledge
+| date          = 2006
+| url           = https://books.google.com/books?id=35CESNLtg8gC
+| isbn          = 978-0-75066-899-6
+| ref           = {{harvid|Leto|Bode|2006}}
+}}
+* {{cite book
+| author        = Jeremy MacVeigh
+| title         = International Cuisine
+| publisher     = Cengage Learning
+| year          = 2008
+| isbn          = 978-1-41804-965-2
+| ref           = {{harvid|MacVeigh|2008}}
+}}
+* {{cite news
+ |title        = Непростительная оплошность
+ |author       = Феля Май
+ |date         = 1997-12-05
+ |publisher    = ZN, UA (Зеркало недели. Украина)
+ |url          = http://gazeta.zn.ua/SOCIETY/neprostitelnaya_oploshnost.html
+ |ref          = {{harvid|May|1997}}
+ |access-date  = 10 September 2016
+ |archive-date = 21 September 2016
+ |archive-url  = https://web.archive.org/web/20160921145956/http://gazeta.zn.ua/SOCIETY/neprostitelnaya_oploshnost.html
+ |url-status   = dead
+}} [{{cite news
+| title         = Unforgivable Mistake
+| author        = Felya May
+| date          = 1997-12-05
+| publisher     = ZN, UA
+| language      = ru
+}}]
+* {{cite web
+| title         = 1970 to 1990
+| url           = https://marksintime.marksandspencer.com/ms-history/timeline/art1277
+| website       = Marks in Time
+| publisher     = Marks & Spencer
+| access-date    = 24 October 2019
+| ref           = {{harvid|M&S}}
+}}
+* {{cite book
+| author        = Н. Н. Маслов
+| title         = Кулинар
+| year          = 1911
+| publisher     = В. И. Губинский
+| location      = Санкт-Петербург
+| ref           = {{harvid|Maslov|1911}}
+}} [{{cite book
+| author        = N. N. Maslov
+| title         = The Cook
+| year          = 1911
+| publisher     = V. I. Gubinsky
+| location      = St. Petersburg
+| language      = ru
+}}]
+* {{cite book
+ |author       = Adolphe Meyer
+ |title        = The post-graduate cookery book
+ |url          = http://www.ebooksread.com/authors-eng/adolphe-meyer/the-post-graduate-cookery-book--consisting-of-a-large-number-of-special-receipt-eye.shtml
+ |publisher    = Caterer Pub. Co.
+ |location     = New York
+ |year         = 1903
+ |ref          = {{harvid|Meyer|1903}}
+ |access-date  = 30 August 2015
+ |archive-date = 16 October 2023
+ |archive-url  = https://web.archive.org/web/20231016163307/https://www.ebooksread.com/authors-eng/adolphe-meyer/the-post-graduate-cookery-book--consisting-of-a-large-number-of-special-receipt-eye.shtml
+ |url-status   = dead
+}}
+* {{cite book
+| author        = Martin Miller-Yianni
+| title         = 100 Essential Recipes from Bulgaria
+| publisher     = Lulu.com
+| year          = 2011
+| isbn          = 978-1-44675-384-2
+| url           = https://books.google.com/books?id=oIWcAgAAQBAJ
+| ref           = {{harvid|Miller-Yianni|2011}}
+}}{{Self-published source|date=February 2020}}
+* {{cite book
+| author        = Елена Молоховец
+| title         = Подарок молодым хозяйкам
+| year          = 1861
+| location      = Санкт-Петербург
+| language      = ru
+| ref           = {{harvid|Molokhovets|1861}}
+}} [[A Gift to Young Housewives]], English translation: {{cite book
+| author        = Joyce Stetson Toomre
+| title         = Classic Russian Cooking: Elena Molokhovets' a Gift to Young Housewives
+| year          = 1998
+| publisher     = Indiana University Press
+| isbn          = 978-0-253-21210-8
+}}
+* {{cite magazine
+| title         = Hum, ping, rip: the sounds of cooking
+| author        = Joe Moran
+| magazine     = [[New Statesman]]
+| date          = 2005-01-24
+| access-date    = 2008-09-04
+| url           = http://www.newstatesman.com/node/195205
+| ref           = {{harvid|Moran|2005}}
+}}
+* {{cite news |title=News of the Food. Chefs Challenges Housewives, Says Few Know How to Do Chicken Kiev |author=Jane Nickerson |author-link=Jane Nickerson |date=1946-08-06 |newspaper=[[The New York Times]] |ref={{harvid|Nickerson|1946}}}}
+* {{cite book
+| author        = Вильям Похлёбкин
+| title         = Кулинарный словарь
+| year          = 2006
+| publisher     = Центрполиграф
+| location      = Москва
+| isbn          = 5-227-00460-9
+| ref           = {{harvid|Pokhlyobkin|2006}}
+}} [{{cite book
+| author        = William Pokhlyobkin
+| author-link        = William Pokhlyobkin
+| title         = Dictionary of Cookery
+| year          = 2006
+| publisher     = Centrpoligraf
+| location      = Moscow
+| language      = ru
+}}]
+* {{cite book
+ |author       = Вильям Похлёбкин
+ |title        = Национальные кухни наших народов
+ |year         = 2004
+ |publisher    = Центполиграф
+ |location     = Москва
+ |isbn         = 5-9524-0718-8
+ |url          = http://www.jagannath.ru/users_files/books/V.V._Pohlyobkin_-_Natcionalnye_kuhni_na6ih_narodov.pdf
+ |ref          = {{harvid|Pokhlyobkin|2004}}
+ |access-date  = 30 August 2015
+ |archive-date = 19 June 2018
+ |archive-url  = https://web.archive.org/web/20180619062757/http://www.jagannath.ru/users_files/books/V.V._Pohlyobkin_-_Natcionalnye_kuhni_na6ih_narodov.pdf
+ |url-status   = dead
+}} [{{cite book
+| author        = William Pokhlyobkin
+| author-link        = William Pokhlyobkin
+| title         = National cuisines of our peoples
+| year          = 2004
+| publisher     = Centrpoligraf
+| location      = Moscow
+| language      = ru
+}}]
+* {{cite journal
+ |author      = Вильям Похлёбкин
+ |title       = Стреляющие котлеты
+ |journal     = Огонёк
+ |location    = Москва
+ |date        = 1997-05-04
+ |url         = http://www.ogoniok.com/archive/1997/4500/17-56-57/
+ |ref         = {{harvid|Pokhlyobkin|1997}}
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20110928043645/http://www.ogoniok.com/archive/1997/4500/17-56-57/
+ |archive-date = 2011-09-28
+}} [{{cite journal
+| author        = William Pokhlyobkin
+| author-link        = William Pokhlyobkin
+| title         = Popping cutlets
+| year          = 1997
+| journal       = Ogonyok
+| location      = Moscow
+| language      = ru
+}}]
+* {{cite web
+| title         = Проект "Шукай". Главные символы Киева
+| work = в Киеве - Достопримечательности Киева - памятники, скульптуры
+| publisher     = В Киеве
+| year          = 2018
+| url           = http://vkieve.net/stati/proekt-shukaj-glavnye-simvoly-kieva
+| ref           = {{harvid|V Kieve|2018}}
+}} [{{cite web
+| title         = Project ''Shukay'' ('Search'). Major symbols of Kiev
+| work = в Киеве - Достопримечательности Киева - памятники, скульптуры
+| publisher     = V Kieve
+| year          = 2018
+| url           = http://vkieve.net/stati/proekt-shukaj-glavnye-simvoly-kieva
+| language      = ru
+}}]
+* {{cite news
+| title         = Front Views and Profiles
+| author        = June Provines
+| date          = 1939-10-06
+| newspaper     = [[Chicago Tribune|Chicago Daily Tribune]]
+| page          = 28
+| url           = http://archives.chicagotribune.com/1939/10/06/page/28/article/front-views-and-profiles
+}}
+* {{cite news
+| author        = Kate Salter
+| title         = Cathy Chapman: the woman who changed the way we eat
+| url           = https://www.telegraph.co.uk/foodanddrink/8041879/Cathy-Chapman-the-woman-who-changed-the-way-we-eat.html
+| newspaper     = [[The Daily Telegraph|The Telegraph]]
+| date          = 2010-10-10
+| ref           = {{harvid|Salter|2010}}
+}}
+* {{cite book
+| title         = Oxford Encyclopedia of Food and Drink in America
+| editor        = Andrew F. Smith
+| publisher     = Oxford University Press
+| location      = New York
+| year          = 2004
+| volume        = 2
+| ref           = {{harvid|Smith|2004}}
+}}
+* {{cite encyclopedia
+| author        = Фёдор Сологуб
+| title         = И породисты, и горды...
+| encyclopedia  = Неизданный Федор Сологуб
+| orig-year     = стихотворение 1926 г.
+| date          = 1997
+| ref           = {{harvid|Sologub|1926}}
+}} [{{cite encyclopedia
+| author        = Fyodor Sologub
+| author-link   = Fyodor Sologub
+| encyclopedia  = Unpublished Fyodor Sologub
+| title         = High-bred and proud...
+| orig-year     = a poem written in 1926
+| date          = 1997
+| language      = ru
+}}]
+* {{cite book
+| author        = Fyodor Stepun
+| author-link   = Fyodor Stepun
+| title         = Vergangenes und Unvergängliches
+| volume        = 1
+| year          = 1947
+| language      = de
+| publisher     = Kösel-Verlag
+| location      = Munich
+| ref           = {{harvid|Stepun|1947}}
+}}
+* {{cite book
+| author        = Faith Steward-Gordon and Nika Hazelton
+| title         = Russian Tea Room Cookbook
+| year          = 1981
+| publisher     = Richard Marek Publishers
+| isbn          = 978-0399901287
+| ref           = {{harvid|Steward-Gordon|Hazelton|1981}}
+}}
+* {{cite book
+| author1       = Robert Strybel
+| author2       = Maria Strybel
+| title         = Polish Heritage Cookery
+| year          = 2005
+| publisher     = Hippocrene Books
+| isbn          = 978-0781811248
+| ref           = {{harvid|Strybel|2005}}
+}}
+* {{cite book
+| author        = Malcolm Summers
+| title         = A Biography of Nicolas Appert 1749 - 1841
+| year          = 2015
+| publisher     = Downs Way Publishing
+| isbn          = 978-0992751524
+| ref           = {{harvid|Summers|2015}}
+}}
+* {{cite web
+| title         = Maréchale (à la)
+| website       = La glosssaire des termes de cuisine
+| publisher     = Supertoinette.com
+| url           = http://www.supertoinette.com/glossaire-cuisine/1051/culinaire/marechale-a-la.html
+| language      = fr
+| ref           = {{harvid|Supertoinette}}
+}}
+* {{cite book
+| author1       = Павел Сюткин
+| author2       = Ольга Сюткина
+| title         = Непридуманная история русской кухни
+| publisher     = Астрель
+| year          = 2015
+| isbn          = 978-5-45717-598-3
+| ref           = {{harvid|Syutkin|Syutkina|2015}}
+}} [{{cite book
+| author1       = Pavel Syutkin
+| author2       = Olga Syutkina
+| title         = Uninvented History of Russian Cuisine
+| publisher     = Astrel
+| year          = 2015
+| language      = ru
+}}]
+* {{cite web
+| title         = Others come and go—Mikoyan remains
+| newspaper     = [[The New York Times]]
+| author        = Henry Tanner
+| url           = https://www.nytimes.com/1964/11/15/others-come-and-go-mikoyan-remains.html?_r=0
+| date          = 1964-11-15
+| access-date    = 10 Feb 2015
+| ref           = {{harvid|Tanner|1964}}
+}} 
+* {{cite book
+| title         = Vintcent's French Food Dictionary
+| author        = Charles Vintcent
+| publisher     = Harriman House Limited
+| year          = 2004
+| isbn          = 978-1-897597-48-4
+| url           = https://books.google.com/books?id=6P2w8ZV31N8C
+| ref           = {{harvid|Vintcent|2004}}
+}}
+* {{cite book
+| title         = The Art of Russian Cuisine
+| author        = Anne Volokh
+| publisher     = MacMillan
+| location      = New York
+| year          = 1983
+| ref           = {{harvid|Volokh|1983}}
+}}
+* {{cite book
+| title         = Однополчане: рассказы
+| section       = Этого нет в поваренной книге
+| author        = Евгений Воробьёв
+| publisher     = Военное издательство Министерства вооружёных сил СССР
+| year          = 1947
+| ref           = {{harvid|Vorobyov|1947}}
+}} [{{cite book
+| author        = Yevgeny Vorobyov
+| title         = Companions in arms
+| section       = This is not written in a cookbook
+| year          = 1947
+| publisher     = [[Voenizdat]], publishing house of the USSR Ministry of Armed Forces
+| location      = Moscow
+| language      = ru
+}}]
+* {{cite news
+| url           = https://www.telegraph.co.uk/news/worldnews/europe/ukraine/1379468/Email-from-Ukraine.html
+| title         = E-mail from Ukraine
+| newspaper     = [[The Daily Telegraph|Electronic Telegraph]]
+| author        = Marcus Warren
+| date          = 2001-06-19
+| ref           = {{harvid|Warren|2001}}
+}}
+* {{cite news
+| title         = News of Capital Night Clubs
+| newspaper     = [[The Washington Post]]
+| date          = 1938-10-26
+| page          = X16
+| ref           = {{harvid|Washington Post|1938}}
+}}
+* {{cite news
+| url           = http://www.washingtontimes.com/news/2004/may/23/20040523-101623-2724r/
+| title         = Bush Sr. clarifies 'Chicken Kiev' speech
+| newspaper     = [[The Washington Times]]
+| date          = 2004-05-24
+| access-date    = 2008-09-04
+| ref           = {{harvid|Washington Times|2004}}
+}}
+* {{cite book
+| title         = Paris Bistro Cookery
+| author        = Alexander Watt
+| publisher     = Routledge
+| year          = 2014
+| isbn          = 978-1-317-84617-8
+| url           = https://books.google.com/books?id=RB4iBQAAQBAJ
+| ref           = {{harvid|Watt|2014}}
+}}
+* {{cite book
+| title         = World War II in Europe: An Encyclopedia
+| editor        = David T. Zabecki
+| editor-link   = David T. Zabecki
+| publisher     = Routledge
+| year          = 2015
+| orig-year     = 1999
+| isbn          = 978-1-135-81242-3
+| ref           = {{harvid|Zabecki|2015}}
+}}
+
+{{Chicken dishes|state=collapsed}}
+{{Foods featuring butter}}
+{{portalbar|Food|Ukraine|Russia}}
+
+[[Category:Baked foods]]
+[[Category:Breaded cutlets]]
+[[Category:Foods featuring butter]]
+[[Category:Stuffed dishes]]
+[[Category:Russian chicken dishes]]
+[[Category:Ukrainian cuisine]]
+[[Category:Soviet cuisine]]

@@ -1,0 +1,65 @@
+{{Short description|Type of Mongolian steamed meat dumpling}}
+{{Infobox prepared food
+| name            = Buuz
+| image           = Buuz.jpg
+| image_size      = 250px
+| caption         =
+| alternate_name  =
+| country         = [[Mongolia]] and [[Buryatia]]
+| region          = 
+| creator         = 
+| course          =
+| type            = [[Dumpling]]
+| served          =
+| main_ingredient = Dough, [[Lamb and mutton|mutton]], or [[beef]]
+| variations      =
+| calories        =
+| other           =
+}}
+
+'''Buuz''' ({{IPAc-en|ˈ|b|u:|z|,_|ˈ|b|u:|t|s|}}; {{langx|mn|Бууз}} {{MongolUnicode|ᠪᠤᠤᠵᠠ|v|lang=mn}}; {{langWithName|bxr-Cyrl|Buryat|Бууза}} {{MongolUnicode|ᠪᠤᠤᠽᠠ|v}}, {{IPA|mn|ˈpʊːt͡s(ɐ)|}}) are a type of Mongolian [[Steaming|steamed]] [[dumpling]] filled with meat. An example of authentic [[Mongolian cuisine|Mongolian]] and [[Buryats|Buryatian]] cuisine, the dish is traditionally eaten at home during [[Tsagaan Sar]], the Lunar New Year. In modern times it is also offered at restaurants and small cafes ("guanz") throughout the capital city of [[Ulaanbaatar]].<ref name="Slater2004">{{cite book|last=Slater|first=Judith J.|title=Teen Life in Asia|url=https://books.google.com/books?id=7Oz5cvi3z3EC&pg=PA118|access-date=10 February 2013|year=2004|publisher=Greenwood|isbn=9780313315329|page=118}}</ref>
+
+==History and function==
+{{Wiktionary|бууз}}
+Buuz is the Mongolian version of the steamed dumpling which is commonly found throughout the region. Etymologically, it reveals its origin to [[China]], as ''[[baozi]]'' ({{zh|c=包子|p={{Audio|Zh-bāozi.oga|bāozi|help=no}}}}) is the [[Mandarin Chinese|Mandarin]] word for steamed dumpling. They are eaten in great quantities throughout the year but especially during the Mongolian New Year celebrations, which usually fall in February. ''Buuz'' are prepared in the weeks before and left outside to freeze; they are consumed with salads and fried bread, accompanied by ''[[suutei tsai]]'' (Mongolian tea) and [[vodka]].<ref name="Williams2006">{{cite book|last=Williams|first=Sean|title=The Ethnomusicologists' Cookbook: Complete Meals from Around the World|url=https://books.google.com/books?id=1R6xigawTekC&pg=PA59|access-date=10 February 2013|year=2006|publisher=CRC Press|isbn=9780415978194|page=59}}</ref> Niislel salad (Mongolian: Нийслэл салат), a variant of [[Olivier salad|Olivier]] potato salad, is particularly popular, being almost ubiquitous among banquets and formal meals in Mongolian households, a fact is that Buuz is a food, not a snack. Most people view it as a snack but it is considered a food.{{Cn|date=February 2025}}
+
+==Ingredients and preparation==
+{{Unreferenced section|date=February 2025}}
+[[File:MongolianBuuz.JPG|thumb|Uncooked and cooked buuz]]
+[[File:Буузы.JPG|thumb|Buuz served in [[Buryatia]]]]
+[[File:Double buuz. Buryatia, Russia.jpg|thumb|Double buuz, [[Buryatia]]]]
+Buuz are filled with minced [[lamb and mutton]] or [[beef]], which is flavored with onion and/or garlic and salted. Occasionally, they are flavored with sprouted fennel seeds and other seasonal herbs. Mashed potato, cabbage, or rice may be added as well. In more affluent families, particularly within urban areas, carrots and various other vegetables are also common additions. Occasionally, condiments such as [[soy sauce]] and [[Maggi sauce|Chinsu]] are added for further flavoring. 
+
+The meat ball is then placed inside a small pocket of dough which is folded around the ball with a small opening at the top to prevent bursting due to steam formation, in the chef's own personal style. The buuz is then steamed and eaten by hand, with the dough pocket catching the juices of the meat.
+
+The filling in buuz is similar to another Mongolian dumpling, [[khuushuur]]; however, the latter is fried.
+
+==See also==
+*[[Gürzə]], the Azerbaijani equivalent
+*[[Khinkali]], the Georgian equivalent
+*[[Gyoza]], the Japanese equivalent
+*[[Jiaozi]] and [[baozi]], Chinese equivalents
+*[[Mandu (food)|Mandu]], the Korean version
+*[[Mantı]], the Turkic/Central Asian version
+*[[Modak]], the Indian equivalent
+*[[Kozhukkatta|Kozhukkattai]], the Tamil equivalent
+*[[Momo (food)|Momo]], Nepalese and Tibetan equivalent
+*[[Pelmeni]], the Russian equivalent
+*[[Pierogi|Vareniki]], the Ukrainian/Polish/Lithuanian equivalent
+*[[List of steamed foods]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.mongolfood.info/en/recipes/buuz.html Buuz] recipe from mongolfood.info
+
+{{Dumplings}}
+
+[[Category:Mongolian cuisine]]
+[[Category:Buryat cuisine]]
+[[Category:Tuvan cuisine]]
+[[Category:Kalmyk cuisine]]
+[[Category:Dumplings]]
+[[Category:National dishes]]
+[[Category:Steamed foods]]

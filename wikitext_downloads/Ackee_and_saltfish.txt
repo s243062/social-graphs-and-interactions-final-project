@@ -1,0 +1,63 @@
+{{short description|Jamaican national dish}}
+{{Infobox food
+| name = Ackee and saltfish
+| image = Ackee and Saltfish.jpg
+| image_size = 300px
+| image_alt =
+| caption = Ackee and saltfish, served with coleslaw
+| alternate_name = 
+| type = 
+| course = Breakfast
+| country = Jamaica
+| region = 
+| national_cuisine = [[Jamaican cuisine|Jamaican]]
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 
+| maxtime = 
+| served = 
+| main_ingredient = [[Ackee]] and [[salt cod]]
+| minor_ingredient = Onion, [[Scotch bonnet pepper]], tomato, spices
+| variations = 
+| serving_size = 
+| calories = 
+| calories_ref =
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| similar_dish = 
+| cookbook =
+| commons =
+| other = 
+| no_recipes= false
+}}
+
+'''Ackee and saltfish''' is the Jamaican [[national dish]] prepared with [[ackee|sautéed ackee]] and [[Dried and salted cod|salted codfish]].
+
+==Background==
+The [[ackee]] fruit (''[[Blighia sapida]]'') is the national fruit of [[Jamaica]].<ref>{{cite web |title=National Fruit – Ackee – Office of the Prime Minister |url=https://opm.gov.jm/symbols/national-fruit-ackee/ |access-date=23 March 2024}}</ref> It was brought to the Caribbean from [[Ghana]] before 1725 as 'Ackee' or 'Aki', another name for the Akan people, [[Akyem]]. The fruit's scientific name honours [[William Bligh|Captain William Bligh]] who took the fruit from Jamaica to the Royal Botanic Gardens in Kew, England in 1793 and introduced it to science.<ref>{{Cite web |url=http://www.nlj.gov.jm/FeastingontheHeritage/ackee.htm |title=ACKEE |access-date=2013-04-01 |archive-url=https://web.archive.org/web/20120424224704/http://www.nlj.gov.jm/FeastingontheHeritage/ackee.htm |archive-date=2012-04-24 |url-status=dead }}</ref> Because parts of the fruit are toxic, such as the [[Aril|arils]] prior to the opening of the husk at the ripening stage, there are shipping restrictions when being imported to countries such as the United States.<ref>{{Cite web|url=https://www.accessdata.fda.gov/cms_ia/importalert_64.html|title = Import Alert 21-11}}</ref> Salted codfish, on the other hand, was introduced to Jamaica for enslaved people as a long-lasting and inexpensive protein source.<ref>{{cite news|url=https://www.vice.com/en/article/the-history-of-jamaica-tastes-like-ackee-and-saltfish/|newspaper=Vice|title=The History of Jamaica Tastes Like Ackee and Saltfish|first=Korsha|last=Wilson|date=21 June 2017}}</ref> In west Africa, ackee is mainly used as medicine or an ingredient for soap and is not consumed as food.<ref>{{Cite web |last=Sainsbury |first=Brendan |title=Ackee and saltfish: Jamaica's breakfast of champions |url=https://www.bbc.com/travel/article/20210315-ackee-and-saltfish-jamaicas-breakfast-of-champions |access-date=2023-06-02 |website=www.bbc.com |language=en}}</ref>
+
+==Preparation==
+To prepare the dish, [[salt cod]] is sautéed with boiled [[ackee]], onions, [[Scotch bonnet pepper]]s, tomatoes, then seasoned with spices like pepper and paprika.<ref name="Anderson2013">{{cite book|author=Heather Arndt Anderson|title=Breakfast: A History|url=https://books.google.com/books?id=5LghYCqDJw8C&pg=PA74|date=11 July 2013|publisher=AltaMira Press|isbn=978-0-7591-2165-2|page=74}}</ref> It can be garnished with bacon and tomatoes, and is usually served as breakfast alongside [[breadfruit]], [[hard dough bread]], [[Dumpling#Jamaican|dumplings]], or boiled [[Cooking banana|green banana]]s.<ref name="Newton">{{cite book|author=James Newton|title=Jamaican Cookbook - Classic Jamaican Cuisine|url=https://books.google.com/books?id=TVnDJZidteAC&pg=PT13|publisher=Springwood emedia|isbn=978-1-4762-3118-1|page=13}}</ref><ref name="DeMers2012">{{cite book|author=John DeMers|title=Authentic Recipes from Jamaica|url=https://books.google.com/books?id=HQ7RAgAAQBAJ&pg=PT66|date=13 March 2012|publisher=Tuttle Publishing|isbn=978-1-4629-0536-2|page=66}}</ref>
+
+Ackee and saltfish can also be eaten with [[rice and peas]] or plain white rice.<ref>{{cite news|url=https://www.derbytelegraph.co.uk/burton/take-sneak-peek-exciting-new-3441953|title=Take a sneak peek at the exciting new menu at this Burton pub|date=18 October 2019|newspaper=Derbyshire Live|last=Rashid|first=Adnan}}</ref><ref name="Lorren">{{cite book|author=Keith Lorren|title=Caribbean Soul Cookbook|date=July 2012 |url=https://books.google.com/books?id=oqDRAwAAQBAJ&pg=PA24|publisher=Lulu|isbn=978-1-105-91549-9|page=24}}</ref> When seasonings (onion, [[escallion]], thyme, garlic) and saltfish are combined with plain rice it is often called "seasoned rice", which can be a one-pot meal including ackee.<ref name="Coburn2017">{{cite book|author=Dr. Milicent J. Coburn|title=Treasures of the Tropics|url=https://books.google.com/books?id=vMNYDwAAQBAJ&pg=PT74|date=3 November 2017|publisher=Trafford Publishing|isbn=978-1-4907-8462-5|page=74}}</ref>
+
+==In popular culture==
+Ackee and saltfish is widely regarded as the national dish of Jamaica.<ref>{{cite web|url=https://interactive.carbonbrief.org/how-climate-change-could-threaten-worlds-traditional-dishes/|title=Interactive: How climate change could threaten the world's traditional dishes|last=Dunne|first=Daisy|publisher=Carbon Brief|access-date=9 May 2020}}</ref><ref>{{cite news|newspaper=The New Yorker|url=https://www.newyorker.com/culture/kitchen-notes/coming-back-to-ackee-and-salt-fish-jamaicas-national-dish|title=Coming Back to Ackee and Saltfish, Jamaica's National Dish|date=1 July 2019|last=Washington|first=Bryan}}</ref><ref>{{Cite web|date=2011-09-13|title=Top 10 National Dishes -- National Geographic|url=https://www.nationalgeographic.com/travel/top-10/national-food-dishes/|archive-url=https://web.archive.org/web/20161014060413/http://www.nationalgeographic.com/travel/top-10/national-food-dishes/|url-status=dead|archive-date=October 14, 2016|access-date=2020-08-08|website=Travel|language=en}}</ref> According to ''[[The Guardian]]'', Jamaican sprinter [[Usain Bolt]] often has ackee and saltfish for breakfast.<ref>{{cite news|url=https://www.theguardian.com/lifeandstyle/2015/apr/18/usain-bolt-ackee-saltfish-breakfast-champions|title=Breakfast of champions: Usain Bolt's ackee and saltfish|last=Seal|first=Rebecca|date=18 April 2015|newspaper=The Guardian}}</ref>   [[Harry Belafonte]]'s 1956 hit song "[[Jamaica Farewell]]" declares, "Ackee rice, saltfish are nice".<ref>{{Citation|title=Harry Belafonte – Jamaica Farewell|url=https://genius.com/Harry-belafonte-jamaica-farewell-lyrics|access-date=2021-10-19}}</ref>
+
+==See also==
+* [[List of Jamaican dishes]]
+
+==References==
+{{Reflist}}
+
+{{cod topics|state=expanded}}
+{{seafood}}
+
+{{DEFAULTSORT:Ackee And Saltfish}}
+[[Category:Jamaican seafood dishes]]
+[[Category:Fish dishes]]
+[[Category:National dishes]]
+[[Category:Food combinations]]
+[[Category:Cod dishes]]

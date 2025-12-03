@@ -1,0 +1,93 @@
+{{short description|Korean meat dish}}
+{{Infobox food
+| name             = ''Bulgogi''
+| image            = Bulgogi 2.jpg
+| caption          = 
+| alternate_name   = 
+| country          = [[Korea]]
+| region           = [[East Asia]]
+| national_cuisine = [[Korean cuisine]]
+| creator          = 
+| year             = 
+| mintime          = 
+| maxtime          = 
+| type             = ''[[Gui (food)|Gui]]''
+| course           = 
+| served           = 
+| main_ingredient  = [[Beef]]
+| minor_ingredient = 
+| variations       = 
+| serving_size     = {{cvt|150|g|0|disp=or}}
+| calories         = 150
+| calories_ref     = <ref name="KFF">{{Cite web|url=http://www.hansik.org/kr/board.do?cmd=view&bbs_id=021&menu=PKR2020100&lang=kr&art_id=2006|title=bulgogi|website=[[Korean Food Foundation]]|language=ko|script-title=ko:불고기|access-date=8 April 2017|archive-date=24 August 2017|archive-url=https://web.archive.org/web/20170824185727/http://www.hansik.org/kr/board.do?cmd=view&bbs_id=021&menu=pkr2020100&art_id=2006&lang=kr|url-status=dead}}</ref>
+| protein          = 
+| fat              = 
+| carbohydrate     = 
+| glycemic_index   = 
+| similar_dish     = ''[[Neobiani]]'', ''[[galbi]]'', ''[[yakiniku]]''
+| other            =
+| cookbook         = Bulgogi
+| module = {{Infobox Korean name/auto
+| hangul     = 불고기
+| ipa  = {{ipa|puɭɡoɡi}}
+|child=yes
+}}
+}}
+{{Steak}}
+
+'''Bulgogi''' ({{IPAc-en|b|ʊ|l|ˈ|ɡ|oʊ|ɡ|i}} {{respell|buul|GOH|ghee}}, {{IPAc-en|UKalso|ˈ|b|ʊ|l|ɡ|ɒ|ɡ|i}} {{respell|BUUL|gog|ee}}, {{IPAc-en|USalso|ˈ|b|uː|l|ɡ|oʊ|ɡ|i}} {{respell|BOOL|goh|ghee}};<ref name="ODE">{{Cite web|url=https://www.oed.com/dictionary/bulgogi_n?tab=pronunciation#1327633150|title=bulgogi|website=[[Oxford Dictionary of English]]|publisher=[[Oxford University Press]]|access-date=29 November 2023}}</ref> {{Korean|hangul=불고기}} {{IPA|ko|puɭɡoɡi|}}, {{lit|fire meat}}) is a ''[[Gui (food)|gui]]'' (Korean-style grilled or roasted dish) made of thin, [[marination|marinated]] slices of meat, most commonly [[beef]], grilled on a barbecue or on a stove-top griddle. It is also often stir-fried in a pan in home cooking. [[Sirloin steak|Sirloin]] and [[rib eye steak|rib eye]] are frequently used cuts of beef for the dish. Bulgogi is a very popular dish in South Korea, where it can be found anywhere from upscale restaurants to local supermarkets as pan-ready kits.<ref>{{Cite news |last= |first= |date=2015-08-13 |title=Food map: Eat your way around South Korea |url=http://www.cnn.com/2015/08/13/travel/korea-food-map/index.html |access-date=27 February 2017 |work=[[CNN]]|author-last=Kim|author-first1=Violet}}</ref>
+
+== Etymology ==
+{{Transliteration|ko|rr|Bulgogi}} came from the Korean word ''bulgogi'' ({{lang|ko|불고기}}), consisting of ''bul'' ("fire") and ''gogi'' ("meat"). The compound word is derived from the [[Pyongan dialect]], as the dish itself is a delicacy of [[Pyongan Province]], North Korea.<ref name="Yi">{{Cite journal|last=이|first=기문|date=Winter 2006|title='bulgogi' iyagi|script-title=ko:'불고기' 이야기|url=http://www.korean.go.kr/nkview/nklife/2006_4/2006_0406.pdf|journal=The New Korean Language Life|volume=16|issue=4|pages=77–83}}</ref> The dish became popular in Seoul and other parts of South Korea, introduced by refugees from Pyongan.<ref name="Gim">{{Cite journal|last=Gim|first=Girim|date=July 1949|title=Saemarui imojeomo|script-title=ko:새말의 이모저모|url=http://db.history.go.kr/id/ma_045_0070_0030|journal=Hakpung|language=ko|volume=2|issue=5|pages=19–33}}</ref> It was listed in the 1947 edition of the ''Dictionary of the Korean Language'' as meat grilled directly over a charcoal fire.<ref name="KLS">{{Cite book|url=https://www.hangeul.or.kr/modules/doc/index.php?doc=page_40|title=Joseon mal keun sajeon|last=Korean Language Society|publisher=Eulyoo Publishing|year=1947|location=Seoul, Korea|pages=1449|language=ko|script-title=ko:조선말큰사전|trans-title=Dictionary of the Korean Language|quote=불-고기【이】숯불에 얹어서 직접 구워 가면서 먹는 짐승의 고기.|author-link=Korean Language Society|access-date=2017-05-04|archive-date=2017-08-21|archive-url=https://web.archive.org/web/20170821174303/https://www.hangeul.or.kr/modules/doc/index.php?doc=page_40|url-status=dead}}</ref>
+
+In the ''[[Standard Korean Language Dictionary]]'' published by the [[National Institute of Korean Language]], the word is listed as meat, such as beef that is thinly sliced, marinated, and grilled over a fire.<ref name="SKLD">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=155030|title=bulgogi|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:불고기|access-date=4 May 2017|archive-date=21 November 2018|archive-url=https://web.archive.org/web/20181121203708/http://stdweb2.korean.go.kr/search/View.jsp?idx=155030|url-status=dead}}</ref> The word is also included in English-language dictionaries such as the ''[[Merriam-Webster Dictionary]]'' and the ''[[Oxford Dictionary of English]]''.<ref name="ODE"/><ref name="MW">{{Cite web|url=https://www.merriam-webster.com/dictionary/bulgogi|title=bulgogi|website=[[Merriam-Webster Dictionary]]|publisher=[[Encyclopædia Britannica, Inc.|Encyclopædia Britannica]]|access-date=4 May 2017}}</ref> Merriam-Webster dated the word's appearance in the American English lexicon in 1961.<ref name="MW"/>
+
+== History ==
+{{Transliteration|ko|rr|Bulgogi}} is believed to have originated during the [[Goguryeo]] era (37 BCE–668 CE), when it was originally called ''[[jeok|maekjeok]]'' ({{Korean|hangul=맥적|hanja=貊炙}}), with the beef being grilled on a [[skewer]].<ref>[http://www.mct.go.kr/html/symbolImg/eng/bulgogi/sec01.html The origin of bulgogi] {{webarchive|url=https://web.archive.org/web/20100201114947/http://www.mct.go.kr/html/symbolImg/eng/bulgogi/sec01.html |date=1 February 2010 }}, official site of the Ministry of Culture, Sports and Tourism, South Korea.</ref><ref name="Bulgogi">{{in lang|ko}} [http://100.nate.com/dicsearch/pentry.html?s=K&i=244223&v=44 Bulgogi] {{webarchive|url=https://web.archive.org/web/20110610005210/http://100.nate.com/dicsearch/pentry.html?s=K&i=244223&v=44|date=10 June 2011}} at Encyclopedia of Korean Culture</ref> It was called ''[[neobiani]]'' ({{Korean|hangul=너비아니|labels=no}}), meaning "thinly spread" meat,<ref name="bulgogi doosan">{{in lang|ko}} [https://archive.today/20130208124237/http://100.naver.com/100.nhn?docid=79741 Bulgogi] at [[Doosan Encyclopedia]]</ref> during the [[Joseon]] period and was traditionally prepared especially for the wealthy and the nobility.<ref>{{cite web |url=http://media.daum.net/culture/view.html?cateid=1021&newsid=20110114113521972&p=SpoSeoul |script-title=ko:겨울은 역시 야식의 계절 (English: "Winter is also the season for late-night snacks") |access-date=3 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111011062522/http://media.daum.net/culture/view.html?cateid=1021&newsid=20110114113521972&p=SpoSeoul |archive-date=2011-10-11 |language=ko}}</ref> In the medieval Korean history book ''Dongguksesi'' ({{Korean|hangul=동국세시|labels=no}}), {{Transliteration|ko|rr|bulgogi}} is recorded under the name ''yeomjeok'' ({{Korean|hangul=염적|labels=no}}), which means "fire meat." It was grilled barbecue-style on a ''hwaro'' grill on skewers, in pieces approximately 0.5&nbsp;cm thick. Although it is no longer cooked skewered, this original type of {{Transliteration|ko|rr|bulgogi}} is today called ''bulgogi sanjeok'' ({{Korean|hangul=불고기 산적|labels=no}}).
+
+== Preparation and serving ==
+[[File:Korean barbeque-beef-16.jpg|thumb|{{Transliteration|ko|rr|Bulgogi}}, Korean grilled beef]]
+[[File:Pork bulgogi.jpg|thumb|''Dwaeji-bulgogi'' ({{Korean|hangul=돼지 불고기|labels=no}}) (pork {{Transliteration|ko|rr|bulgogi}}) with [[bap (food)|rice]]]]
+[[File:Bassak-bulgogi.jpg|thumb|''Bassak-bulgogi'' ({{Korean|hangul=바싹 불고기|labels=no}}) ([[Eonyang]]-style ''bulgogi'')]]
+[[File:Ttukbaegi-bulgogi.jpg|thumb|''Ttukbaegi-bulgogi'' ({{Korean|hangul=뚝배기 불고기|labels=no}}) (hot pot bulgogi)]]
+[[File:Lunch at Eatery Lund in April 2025.jpg|thumb|right|Bulgogi at a lunch restaurant in Sweden]]
+Bulgogi is made from thin slices of [[sirloin]] or other prime [[cuts of beef]].<ref>[http://www.kscpp.net/KSCPPHome/OurProjects/KoreanFoodCulminationofWisdom/Bulgogi/tabid/102/Default.aspx Bulgogi] {{Webarchive|url=https://web.archive.org/web/20120308151936/http://www.kscpp.net/KSCPPHome/OurProjects/KoreanFoodCulminationofWisdom/Bulgogi/tabid/102/Default.aspx |date=2012-03-08 }}, Korean Spirit and Culture Project</ref> Ribeye is also commonly used due to its tenderness and easily cuttable texture. In addition to beef, chicken and pork bulgogi are also common ingredients used to prepare the dish. Pork belly, or samgyeopsal in Korean, is a popular cut for pork bulgogi. Much like the ribeye, it is tender and fatty which can give the meat a better taste. Before cooking, the meat is marinated to enhance its flavor and tenderness with a mixture of [[soy sauce]], [[sugar]], [[sesame oil]], [[garlic]], ground [[black pepper]], and other ingredients such as [[scallions]], ginger, onions, [[Chili pepper|New World peppers]], or mushrooms, especially [[Agaricus bisporus|white button mushrooms]] or ''[[matsutake]]''. In most cases when cooking bulgogi, these are common ingredients. However, the ingredients used to marinate the meat can vary from chef to chef and even from family to family depending on one's preferences and traditions. Pureed pears, pineapple, kiwi, and onions are often used as tenderizers. Sugar or other types of sweeteners such as corn syrup may sometimes also be used to add a sweeter taste. The length of time in which the meat is left to marinate also varies depending on preferences. Generally, bulgogi meat is left to marinate for less than an hour. Sometimes, [[cellophane noodles]] are added to the dish, which varies by the region and specific recipe.<ref name="Bulgogi"/><ref name="bulgogi doosan"/>
+
+The most common way of preparing beef bulgogi produces a dark-looking texture that is well seasoned and flavored. Spicy variations are also common where a spicy paste such as [[gochujang]], made from chili powder, rice, fermented soybeans, barley, and salt, is added to the marinade to make the meat spicy. This is most commonly done with the pork variations.
+
+Bulgogi is traditionally [[grilled]], but [[Pan frying|pan-cooking]] has become popular as well. Whole cloves of garlic, sliced onions and chopped [[bell pepper|green pepper]]s are often grilled or fried with the meat.<ref name="bulgogi doosan"/> Bulgogi is often served over or with a side of rice and accompanied by various side dishes such as egg soup and [[kimchi]] (fermented cabbage). This dish is sometimes served with a side of [[lettuce]] or other [[leafy vegetable]], which is used to wrap a slice of cooked meat, often along with a dab of ''[[ssamjang]]'', rice, or other side dishes, and then eaten together.<ref name="bulgogi hanwoo">{{in lang|ko}} [http://www.hanwoo114.co.kr/bin/p_main/PR_center/PR_pds/view.php?pdsIdx=351 Bulgogi] {{webarchive|url=https://web.archive.org/web/20110722134044/http://www.hanwoo114.co.kr/bin/p_main/PR_center/PR_pds/view.php?pdsIdx=351|date=22 July 2011}}, Hanwoo Board</ref>
+
+In many Korean barbecue restaurants, customers are seated at a table that will have a grill installed in the middle. Raw and marinated bulgogi is one of many popular types that customers can order and cook themselves right on the table. It is common for each person to pick at the meat directly from the grill or serve each other when eating. Bulgogi is eaten any time of the year; however, it is common for people in Korea to enjoy grilling the marinated meat on special occasions or in social settings.
+
+== In popular culture ==
+Bulgogi is served in barbecue restaurants in Korea, and there are bulgogi-flavored fast-food [[hamburger]]s sold at many South Korean fast-food restaurants. The hamburger patty is marinated in bulgogi sauce and served with lettuce, tomato, onion, and sometimes cheese.<ref>{{in lang|ko}} [http://www.asiatoday.co.kr/news/view.asp?seq=284304 Bulgogi burger], Asia Today, 2009-09-11. Retrieved 2010-06-27.</ref><ref>{{in lang|ko}} [http://news.hankooki.com/lpage/health/201006/h2010061721225084520.htm Upgrade burgers] {{webarchive|url=https://web.archive.org/web/20100811180438/http://news.hankooki.com/lpage/health/201006/h2010061721225084520.htm|date=11 August 2010}}, Hankook Ilbo, 2010-06-17. Retrieved 2010-06-27.</ref>
+
+== Variations ==
+* ''[[Kongnamul-bulgogi]]''
+* ''[[Osam-bulgogi]]''
+
+== See also ==
+* ''[[Galbi]]''
+* [[Korean barbecue]]
+* [[Korean royal court cuisine]]
+* [[List of beef dishes]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{wiktionary}}
+* {{Cite web|url=https://www.hansik.org/en/board.do?cmd=view&bbs_id=211&menu=PEN3020000&lang=en&art_id=37066|title=Bulgogi – Korean food storytelling|website=[[Korean Food Foundation]]|access-date=2017-02-28|archive-url=https://web.archive.org/web/20170227231653/https://www.hansik.org/en/board.do?cmd=view&bbs_id=211&menu=PEN3020000&lang=en&art_id=37066|archive-date=2017-02-27|url-status=dead}}
+* {{Cite web|url=http://cooks.org.kp/cooking_view.php?tID=2&cID=2&dID=67|title=Bulgogi – recipe|website=[[Korean Dishes]]|publisher=Korean Association of Cooks|access-date=2017-02-28|archive-date=2020-06-15|archive-url=https://web.archive.org/web/20200615092448/http://cooks.org.kp/cooking_view.php?tID=2&cID=2&dID=67|url-status=dead}}
+* {{Cite web|url=http://www.korea.net/NewsFocus/Culture/view?articleId=127796|title=BEEF-ore You Eat: A Guide To Korean Beef|website=[[Korea.net]]|publisher=[[Korean Culture and Information Service]]}}
+
+{{Korean food and drink}}
+{{barbecue}}
+{{Beef}}
+
+[[Category:Korean beef dishes]]
+[[Category:Korean pork dishes]]
+[[Category:Korean barbecue]]
+[[Category:Joseon cuisine]]
+[[Category:Korean cuisine]]
+[[Category:1st-century BC introductions]]

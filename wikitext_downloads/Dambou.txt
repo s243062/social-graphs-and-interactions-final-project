@@ -1,0 +1,47 @@
+{{short description|Food from Niger}}
+
+{{Infobox food
+|name             = Dambou
+|image            = Dambu.jpg
+|image_size       = 140px
+|caption          = Dambou
+|alternate_name   = Dambu
+|country          = [[Niger]]
+|creator          = [[Zarma people]], [[Songhai people (subgroup)|Songhai people]]
+|course           =
+|type             = 
+|served           =
+|main_ingredient  = Usually [[rice flour]] or millet, wheat or corn couscous, [[Moringa (genus)|moringa]] leaves, [[peanut]], [[meat]] or [[fish]]
+|variations       =
+|serving_size     = 
+|calories         = 
+|protein          = 
+|fat              = 
+|carbohydrate     = 
+|similar_dish     = 
+|other            =
+}}
+[[File:Dambou.jpg|thumb]]
+'''Dambu''' or '''dambou''' is a dish native to the [[Zarma people|Zarma]] and [[Songhai people (subgroup)|Songhai]] of Southwestern [[Niger]] made from cereals and [[Moringa (genus)|moringa]]. It is consumed at any time but mainly during festive occasions such as [[outdooring]]s and [[wedding]]s. This dish is also common among the [[Dendi people]] of North [[Benin]] and other West African cities. It is also common in the [[Zongo settlements]] where the Songhai and Zarma travel.<ref>{{Citation |last= |first= |year=2017 |title="Dambou", couscous aux épinards |publisher= |publication-place= |page= |url= https://cuisine.abidjan.net/index.php?page=view_recette&RecetteID=23712|access-date=2021-05-09}}</ref>
+
+==Ingredients==
+(from a French version of the dish)<ref>{{Citation|last=|first=|year=|title=Dambou:Couscous with moringa leaves|publisher=Afrik Cuisine|publication-place=|page=|url=https://m.afrik-cuisine.com//recettes/dambou|access-date=2021-05-09|archive-date=2021-05-09|archive-url=https://web.archive.org/web/20210509170625/https://m.afrik-cuisine.com//recettes/dambou|url-status=dead}}</ref>
+#Fine [[wheat]] [[semolina]] or [[couscous]]
+#[[Spinach]] (or [[Moringa (genus)|moringa]] leaves)
+#[[Onion]]
+#[[Capsicum chinense|Aji dulce]] capsicum (or similar, like the sweet Martinique pepper or Grenada seasoning chile), or substitute [[Capsicum annuum|green bell pepper]] (optional)
+#[[Salt]]
+#Stock cubes
+#[[Cooking oil]]
+
+==Preparation==
+Dambou is prepared according to the desire and will of the cook. For a simple dish, cooks mostly use either rice flour or fine hard wheat semolina (couscous semolina) or millet, wheat or corn couscous. The cereals is steamed for about 20 to 30 minutes and added the already boiled moringa leaves. Finally, the other ingredients are added in their raw state: onion, chili, salt, broth, peanut, vegetable oil, meat or fish as a side dish.<ref>{{Citation |last= |first= |title=Un Jour, une Recette : Le Dambou|date= 29 April 2020|publisher=ESMA – Paris 1|publication-place= |page= |url=https://esmaparis1.com/2020/04/29/un-jour-une-recette-le-dambou/ |access-date=2021-05-09}}</ref><ref>{{Citation |last= |first= |year= |title=Couscous aux épinards - Dambou (Niger) |publisher= |publication-place= |page= |url=https://recettesvegetales.com/couscous-aux-epinards/ |access-date=2021-05-09}}</ref><ref>{{Citation |last= |first= |year=2020|title=Dambou, couscou avec épinards |publisher= |publication-place= |page= |url= https://recettes.africa/dambou-couscou-avec-epinards/|access-date=2021-05-09}}</ref><ref>{{Citation |last= |first= |year= |title=Dambou|publisher= |publication-place= |page= |url=https://www.cookinghali.com/recettes/cuisine-nig%C3%A9rienne/dambou/ |access-date=2021-05-09}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Nigerien cuisine]]
+
+
+{{Africa-cuisine-stub}}
+{{Niger-stub}}

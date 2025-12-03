@@ -1,0 +1,88 @@
+{{Short description|Small unsweetened griddle bread}}
+{{about|the bread|the French animated television series|The Crumpets{{!}}''The Crumpets''|the slang term|Thinking man's crumpet}}
+{{Infobox prepared food
+| name             = 
+| image            = Buttered crumpet2.jpg
+| image_size       = 250px
+| caption          = A buttered crumpet
+| country          = United Kingdom
+| region           = United Kingdom and other parts of [[Commonwealth of Nations|the Commonwealth]]
+| creator          = 
+| course           = 
+| type             = Bread
+| served           = 
+| main_ingredient  = Flour, butter, yeast
+| variations       = 
+| calories         = 
+| other            = 
+| cookbook         = Crumpet
+}}
+
+A '''crumpet''' ({{IPAc-en|audio=en-uk-crumpet.ogg|ˈ|k|r|ʌ|m|p|ᵻ|t}}) is a small [[griddle]] bread, originating from the [[United Kingdom]], made from an unsweetened [[Batter (cooking)|batter]] of water or milk, [[flour]], and [[Baker's yeast|yeast]]. It has since become popular in [[Australia]], [[Canada]],<ref>{{cite magazine |last=Moncada |first=Katlyn |title=Crumpets vs. English Muffins: What's the Difference? |magazine=Better Homes & Gardens |url=https://www.bhg.com/recipes/bread/crumpets-vs-english-muffins/#:~:text=Crumpets%20are%20small%2C%20round%2C%20griddled,New%20Zealand%2C%20and%20South%20Africa.}}</ref> [[New Zealand]], and [[South Africa]].
+
+Historically, crumpets are also regionally known as "pikelets". This is limited, however, as pikelets are more widely known as a thinner, more [[pancake]]-like griddle bread;<ref name=ingram>{{cite book|last=Ingram|first=Christine|title=The Cook's Guide to Bread|date=1999|publisher=Hermes|page=50}}</ref> a type of the latter is referred to as a "crumpet" in Scotland.<ref>{{Cite web |last=Kinnear |first=Audrey |date=2023-10-06 |title=The History of Crumpets |url=https://www.averybritishcatalogoffoodandcooking.com/post/template-how-to-write-a-recipe-post-2-29 |access-date=2025-03-07 |website=A Very British Catal |language=en}}</ref>
+
+==History and etymology==
+
+Crumpets have been variously described as originating in Wales<ref name=shulman>{{cite book|last=Shulman|first=Martha|title=Great Breads|publisher=Houghton Mifflin|date=1995|page=240}}</ref> or as part of the [[Anglo-Saxon]] diet,<ref name=hagen>Ann Hagen, A Handbook of Anglo-Saxon Food Processing and Consumption, 1992, p. 20</ref> based on proposed etymologies of the word. In either case, breads were, historically, commonly cooked on a griddle wherever [[Masonry oven|bread oven]]s were unavailable.<ref>{{Cite web |title=History of crumpets |url=https://crumpetman.com/crumpet-history |access-date=2025-03-07 |website=crumpetman.com}}</ref> The {{lang|cy|bara planc}}{{ref|notea|a}}, or griddle bread, baked on an iron plate over a fire, was part of the everyday diet in Wales until the 19th century.<ref name=nq>''[[Notes & Queries]]'', 3rd. ser. VII (1865), 170</ref>
+
+Small, oval pancakes baked in this manner were called ''picklets'',<ref name=nq/> a name used for the first recognisable crumpet-type recipe, published in 1769 by [[Elizabeth Raffald]] in ''[[The Experienced English Housekeeper]]''.<ref name=davidson>Davidson, A. ''The Penguin Companion to Food'', 2002, p. 277</ref> This name was derived from the [[Welsh language|Welsh]] {{Lang|cy|bara pyglyd}} or "pitchy [i.e., dark or sticky] bread", later shortened simply to ''{{Lang|cy|pyglyd}}''.<ref name=edwards>Edwards, W. P. ''The Science of Bakery Products'', Royal Society of Chemistry, 2007, p. 198</ref><ref name=luard>Luard, E. ''European Peasant Cookery'', Grub Street, 2004, p. 449</ref> The early 17th-century lexicographer [[Randle Cotgrave]] referred to "''popelins'', soft bread of fine flour, &c., fashioned like our Welsh ''barrapycleds''".<ref>{{cite book |last=Darlington |first=Thomas |title=The Folk-speech of South Cheshire |date=1887 |publisher=Trübner and Co.; English Dialect Society |location=London |page=[https://archive.org/details/folkspeechsouth00darlgoog/page/n315 297] |url=https://archive.org/details/folkspeechsouth00darlgoog |quote=pikelet|oclc=3352236}}</ref>
+
+The word spread initially to the [[West Midlands (region)|West Midlands]] of England, where it became anglicised as ''pikelet'',<ref name=wilson>Wilson, C. A. ''Food & drink in Britain'', Barnes and Noble, 1974, p. 266</ref> and subsequently to [[Cheshire]], [[Lancashire]], [[Yorkshire]], and other areas of Northern England; crumpets are still referred to as ''pikelets'' in some areas. The word ''crumpet'' itself, of unclear origin, first appears in relatively modern times; it has been suggested as referring to a crumpled or curled-up cake, based on an isolated 14th-century reference to a "crompid cake",<ref name="Ayto2012">{{cite book|author=John Ayto|title=The Diner's Dictionary: Word Origins of Food and Drink|url=https://archive.org/details/dinersdictionary0000ayto|url-access=registration|date=18 October 2012|publisher=Oxford University Press|isbn=978-0-19-964024-9|pages=[https://archive.org/details/dinersdictionary0000ayto/page/106 106]–107}}</ref> and the Old English word ''{{Lang|ang|crompeht}}'' ('crumpled') being used to gloss Latin ''{{Lang|la|folialis}}'', possibly a type of thin bread.<ref name=hagen/>
+
+Alternatively, ''crumpet'' may be related to the Welsh ''{{lang|cy|[[crempog]]}}'' or ''{{lang|cy|crempot}}'', a type of pancake;<ref name=shulman/> Breton ''{{lang|br|krampouzh}}'' and Cornish ''{{lang|kw|krampoth}}'' for 'pancakes' are cognate with the Welsh. An etymology {{ety|fr|crompâte|a paste of fine flour, slightly baked}},<ref name=nq2>''Notes & Queries'', 16 (1850), 253</ref> has also been suggested. However, a correspondent to Manchester ''Notes and Queries'', writing in 1883, claimed that the ''crampet'', as it was then locally known, simply took its name from the metal ring or "cramp" used to retain the batter during cooking.<ref name="mnq">''City News Notes and Queries'', vol. V, (1883), 33 ("In Lancashire there are muffins, crampets, and pikelets. The crampet is so called because the batter is poured into a circular metal ring or "cramp" for baking, and the size is that of an ordinary tea-saucer".)</ref>
+
+The early crumpets were hard pancakes cooked on a griddle, rather than the soft and spongy crumpets of the [[Victorian era]], which were made with yeast.<ref name="Ayto2012"/>  From the 19th century, a little [[bicarbonate of soda]] was also usually added to the batter.<ref name="davidson"/> In modern times, the mass production of crumpets by large commercial bakeries has eroded some regional differences. As late as the 1950s, [[Dorothy Hartley]] noted a wide degree of regional variation, identifying the small, thick, spongy type of crumpet specifically with the Midlands.<ref name=davidson/>
+
+==Characteristics==
+[[File:Crumpets, hot.jpg|thumb|Hot crumpets]]
+Crumpets are distinguished from similarly sized [[English muffin|muffin]]s by being made from a batter, rather than a [[dough]].<ref name=braun196>{{cite book|last=Braun|first=Emil|title=The Baker's Book: A Practical Hand Book of the Baking Industry in All Countries, vol 1|year=1901|page=196}}</ref> English crumpets are generally circular, roughly {{convert|8|cm|in|0}} in diameter and {{convert|2|cm|in|frac=4}} thick. Their shape comes from being restrained in the pan or griddle by a shallow ring. They have a characteristic flat top with many small [[Pores (bread)|pores]] and a spongy texture which allows butter or other spreads to permeate.<ref>{{Cite web |date=2025-01-11 |title=Crumpet: British, Toasted, Teatime |url=https://www.britannica.com/topic/crumpet |access-date=2025-03-07 |website=www.britannica.com |language=en}}</ref>
+
+Crumpets may be cooked until ready to eat warm from the pan, but may also be left slightly undercooked and then toasted. While premade commercial versions are available in most supermarkets, freshly home-made crumpets are less heavy and doughy in texture.<ref name=ingram144>Ingram (1999), p.144</ref> They are usually eaten with a spread of [[butter]], or with other sweet or savoury toppings.<ref>{{Cite web |title=Our Most Popular Crumpet Topping Ideas {{!}} Recipes |url=https://www.warburtons.co.uk/recipe-category/crumpets/ |access-date=2025-03-07 |website=Warburtons |language=en-GB}}</ref>
+
+While in some areas of the country the word ''pikelet'' is synonymous with the crumpet,<ref name=ingram/> in others (such as [[Staffordshire]] and [[Yorkshire]]) it refers to a different recipe. A pikelet is distinguished by containing no yeast as a raising agent and by using a thinner batter than a crumpet,<ref name=manna>{{cite book|last=Banfield|first=Walter|title=Manna: A Comprehensive Treatise on Bread Manufacture|publisher=Maclaren & Sons|date=1947|page=444}}</ref> and as being cooked without a ring, giving a flatter result than a crumpet.<ref name="davidson"/><ref name="edwards"/><ref name=manna/> In [[Stoke-on-Trent]], pikelets are and have historically been sold in the town's many [[Staffordshire oatcake|oatcake]] shops.<ref name=hopkins>{{cite book|last=Hopkins|first=Harry|title=England is Rich|publisher=G.G. Harrap|date=1957|page=100}}</ref> A 1932 recipe for Staffordshire pikelets specifies that they were made with flour and [[buttermilk]], with bicarbonate of soda as a raising agent, and suggests cooking them using [[bacon]] fat.<ref name=byron359>{{cite book|last=Byron|first=May|title=Pot-luck|publisher=Hodder & Staughton|date=1932|page=359}}</ref>
+
+The term ''[[Pancake|pikelet]]'' is used in [[Australian cuisine|Australian]] and [[New Zealand cuisine]] for a smaller version, served cold or just warm from the pan, of what in [[Scottish cuisine|Scotland]] and North America would be called a pancake and, in England, a Scotch pancake, girdle or [[griddle cake]], or [[drop scone]].<ref>''The Concise Household Encyclopedia'' (ca. 1935) Fleetway House, The Amalgamated Press, London</ref>
+
+==Scottish crumpet==
+[[Image:Pancake and crumpet.jpg|thumb|A Scotch pancake (left) and folded Scottish fruit crumpet (right)]]
+
+A [[Scotland|Scottish]] crumpet is broadly similar to the crumpet of parts of Northern England. It is made from the same ingredients as a [[Scotch pancake]], and is about {{convert|18|cm|0}} diameter and {{convert|8|mm|1}} thick. It is available plain, or as a fruit crumpet with [[raisin]]s baked in, usually fried in a pan and served with a [[fry-up|fried breakfast]]. It is also sometimes served with butter and jam. The ingredients include a [[leavening agent]], usually [[baking powder]], and different proportions of eggs, flour, and milk, which create a thin batter. Unlike a pancake, it is cooked to brown on one side only, resulting in a smooth darker side where it has been heated by the griddle, then lightly cooked on the other side which has holes where bubbles have risen to the surface during cooking.<ref>[http://www.rampantscotland.com/recipes/blrecipe_crumpets.htm Traditional Scottish Recipes - Scottish Crumpets]</ref>
+
+==Ireland==
+While now relatively uncommon in Ireland, crumpets were once produced by [[Boland's Bakery]] in [[Dublin]] during the 19th and much of the 20th centuries; Boland's recipe was subsequently used by a number of other bakeries. Irish crumpets differed from most British recipes by having a yeastless batter and being cooked on both sides, giving a smooth rather than spongy top.<ref name=cowan149>Cowan, C. and Sexton, R. (1997) ''Ireland's Traditional Foods'', Teagasc, p.149</ref>
+
+==See also==
+{{div col|colwidth=30em}}
+* [[Baghrir]]
+* [[Blini]]
+* [[Uttappam]]
+* [[Lahoh]]
+* ''[[Martabak manis|Apam balik]]''
+* [[Dorayaki]]
+* [[English muffin]]
+* [[List of British breads]]
+* [[Tea (meal)]]
+* [[Thinking man's/woman's crumpet]], a slang use of the word
+
+{{div col end}}
+
+==Notes==
+:a.{{note|notea||''Planc'' is a borrowing of English 'plank' as in a board or plank. The Welsh word is also used of a griddle, therefore ''bara planc'' is 'griddle bread' and not 'plank bread'.}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wiktionary}}
+* {{webarchive |url=https://web.archive.org/web/20110216012128/http://www.history.uk.com/recipes/traditional-english-crumpets/ |date=February 16, 2011 |title=Description and recipe on history.uk }}
+
+{{British bread}}
+{{Pancakes}}
+{{Australian cuisine}}
+
+[[Category:British breads]]
+[[Category:Australian breads]]
+[[Category:New Zealand breads]]
+[[Category:Yeast breads]]
+[[Category:Pancakes]]

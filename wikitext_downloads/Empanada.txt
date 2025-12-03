@@ -1,0 +1,177 @@
+{{Short description|Baked or fried turnover consisting of pastry and filling}}
+{{Original research|date=April 2016}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox food
+| name               = Empanada
+| image              = Tapa de empanadillitas.JPG
+| image_size         = 
+| caption            = Empanadillas from Spain
+| alternate_name     = 
+| country            = [[Spain]]
+| region             = [[Galicia (Spain)|Galicia]]
+| associated_cuisine = {{flatlist|
+* [[Spanish cuisine|Spanish]]
+* [[Galician cuisine|Galician]]
+* [[Argentine cuisine|Argentine]]
+* [[Peruvian cuisine|Peruvian]]
+* [[Nicaraguan cuisine|Nicaraguan]]
+* [[Chilean cuisine|Chilean]]
+* [[Colombian cuisine|Colombian]]
+* [[Cuban cuisine|Cuban]]
+* [[Ecuadorian cuisine|Ecuadorian]]
+* [[Mexican cuisine|Mexican]]
+* [[Venezuelan cuisine|Venezuelan]]
+* [[Uruguayan cuisine|Uruguayan]]
+* [[Sardinian cuisine|Sardinian]]
+* [[Filipino cuisine|Filipino]]
+* [[Sicilian cuisine|Sicilian]]
+* [[Tunisian cuisine|Tunisian]]
+* [[Minahasan cuisine|Minahasan]]
+}}
+| creator            = 
+| course             = [[Hors d'oeuvre|Appetiser]], [[main course]]
+| type               = [[Pastry]]
+| served             = 
+| main_ingredient    = Meat, cheese, corn, or other ingredients
+| minor_ingredient   = 
+| variations         = [[Pastel (food)|Pastel]], [[pasty]], Sri Lankan patties
+}}
+
+An '''empanada''' is a type of baked or fried [[turnover (food)|turnover]] consisting of [[pastry]] and [[stuffing|filling]], common in [[Culture of Spain|Spain]], [[Portugal|Portugal]], other [[Southern Europe]]an countries, [[North Africa]]n countries, West African countries (also known as Meatpie in Nigeria), South Asian countries, [[Latin American culture|Latin America]]n countries, and the [[Culture of the Philippines|Philippines]]. The name comes from the [[Spanish language|Spanish]] {{lang|es|empanar}} (to bread, i.e., to coat with bread),<ref>{{Cite web |title=empanar |url=https://www.spanishdict.com/translate/empanar |url-status=live |archive-url=https://web.archive.org/web/20220929035949/https://www.spanishdict.com/translate/empanar |archive-date=September 29, 2022 |access-date=September 28, 2022 |website=[[SpanishDict]]}}</ref><ref>{{Cite web|last1=ASALE|first1=RAE-|last2=RAE|title=empanar {{!}} Diccionario de la lengua española|url=https://dle.rae.es/empanar|access-date=January 20, 2022|website=«Diccionario de la lengua española» - Edición del Tricentenario|language=es|archive-date=October 25, 2021|archive-url=https://web.archive.org/web/20211025104952/https://dle.rae.es/empanar|url-status=live}}</ref> and translates as 'breaded', that is, wrapped or coated in bread. They are made by folding dough over a filling, which may consist of meat, cheese, tomato, corn, or other ingredients, and then cooking the resulting turnover, either by baking or frying.
+
+==Origins==
+The origin of empanadas is unknown, but they are thought to have originated in 7th century [[Galicia (Spain)|Galicia]], a region in northwest [[Spain]].<ref>{{cite web |title=Historia de la empanada criolla |url=http://www.produccion-animal.com.ar/temas_historia/76-empanadas.pdf |work=Dra. Susana Barberis |access-date=July 8, 2010 |archive-date=September 22, 2020 |archive-url=https://web.archive.org/web/20200922131612/http://www.produccion-animal.com.ar/temas_historia/76-empanadas.pdf |url-status=live}}</ref><ref>[[Penelope Casas]] (1982), ''The Food, Wines, and Cheeses of Spain'', Alfred A. Knopf, New York 1982 (p. 52)</ref><ref>{{cite web |title=Breve historia de la alimentación en Argentina |url=http://www.fac.org.ar/fec/foros/cardtran/gral/Historia.htm |work=Liliana Agrasar |access-date=July 8, 2010 |archive-date=September 17, 2019 |archive-url=https://web.archive.org/web/20190917211804/http://www.fac.org.ar/fec/foros/cardtran/gral/Historia.htm |url-status=live}} They first appeared in [[Middle Ages|medieval]] [[Iberian Peninsula|Iberia]] during the time of the [[Al-Andalus|Moorish invasions]].</ref>
+
+An empanada (''empãada'') is mentioned in the [[Cantigas de Santa Maria]] 57:VI (c. 1282):<blockquote>Entr' esses roubadores / viu jazer um vilão / desses mais malfeitores, / ũa perna na mão / de galinha, freame / que sacara com fame / entom dũ' '''empãada''' | que so um seu çurame/ comer quisera, / mais nom podera, / ca Deus nom queria.<ref>Santalha, José-Martinho Montero. [https://www.academia.edu/50870774/Cantigas_de_Santa_Maria_Texto_cr%C3%ADtico_completo_2021_ "Cantigas de Santa Maria (Texto crítico completo) (2021)"].</ref>
+
+In the midst of these robbers he saw lying there one of the most vicious of the rascals with a chicken leg in his hand. He had taken the cold morsel out of a '''pasty''' and was about to eat it under the cover of his cape. However, he could not, for God prevented it.<ref>{{Cite book |last=Alfonso X |first=King of Castile and Leon |url=http://archive.org/details/songsofholymaryo0000alfo |title=Songs of Holy Mary of Alfonso X, the Wise: A Translation of the Cantigas de Santa María |date=2000 |publisher=Tempe, AZ: Arizona Center for Medieval and Renaissance Studies |others=Internet Archive |isbn=978-0-86698-213-9}}</ref></blockquote>[[Rabbinic Judaism|Rabbinic Jewish]] books from the same period, including the ''Novellae'' of [[Asher ben Jehiel]] (1250–1327),<ref>b. Shabbat 40b</ref> the ''Novellae'' of [[Yom Tov of Seville]] (<abbr>c.</abbr> 1260–1320),<ref>b. Shabbat 40b</ref> the ''Orchot Chayyim'' of [[Aaron ben Jacob ha-Kohen|Aaron ben Jacob]] ({{Circa|1250–1325}})<ref>f. 160v</ref> and the ''[[Arba'ah Turim]]'' of [[Jacob ben Asher]] ({{Circa|1270–1340}}) mention "inpanada" and "panada" as bread products containing fat, meat or fish on the inside.<ref>{{Cite web |title=TurShulchanArukh – AlHaTorah.org |url=https://turshulchanarukh.alhatorah.org/Full/Yoreh_Deah/113.3#e0n6 |access-date=2023-07-11 |website=turshulchanarukh.alhatorah.org |language=he}}</ref><ref>{{Cite web |title=TurShulchanArukh – AlHaTorah.org |url=https://turshulchanarukh.alhatorah.org/Full/Orach_Chayyim/318.16#e0n6 |access-date=2023-07-11 |website=turshulchanarukh.alhatorah.org |language=he}}</ref>
+
+A cookbook published in [[Catalan language|Catalan]] in 1520, ''Llibre del Coch'' by [[Robert de Nola]], mentions empanadas filled with seafood in the recipes for [[Catalan cuisine|Catalan]], [[Italian cuisine|Italian]], [[French cuisine|French]], and [[Arab cuisine|Arabian]] food.<ref name="B11x1">{{cite book |last=Adamson |first=Melitta Weiss |url=https://books.google.com/books?id=jtgud2P-EGwC&q=empanadas&pg=PA125 |title=Food in Medieval Times |publisher=Greenwood Publishing Group |year=2004 |isbn=0-313-32147-7 |access-date=November 10, 2020 |archive-url=https://web.archive.org/web/20230406044941/https://books.google.com/books?id=jtgud2P-EGwC&q=empanadas&pg=PA125 |archive-date=April 6, 2023 |url-status=live}}</ref><ref name="1rW1">{{cite web |author=Lady Brighid ni Chiarain |title=An English translation of Ruperto de Nola's ''Libre del Coch'' |url=http://www.florilegium.org/?http%3A%2F%2Fwww.florilegium.org%2Ffiles%2FFOOD-MANUSCRIPTS%2FGuisados1-art.html |url-status=live |archive-url=https://web.archive.org/web/20190407100356/http://www.florilegium.org/?http%3A%2F%2Fwww.florilegium.org%2Ffiles%2FFOOD-MANUSCRIPTS%2FGuisados1-art.html |archive-date=April 7, 2019 |access-date=January 31, 2011 |publisher=Stefan's Florilegium}}</ref>
+
+==By country and region==
+
+===Argentina===
+[[File:Empanadas cordobesas (Argentina) caseras.JPG|thumb|Homemade empanadas from [[Córdoba, Argentina]]|left]]
+[[Argentine cuisine|Argentine]] empanadas are often served during parties and festivals as a starter or main course. Shops specialize in freshly made empanadas, with many flavors and fillings.
+
+Every region of Argentina has its own characteristic variant. Those of Salta (''[[salteña]]s'') are small, juicy and spicy, and contain potatoes, peppers and ground chili. These are also popular in neighbouring [[Bolivia]].
+
+The Jujuy variant adds peas and [[garlic]]. Its filling is called {{Lang|es|recado}} and the {{Lang|es|repulgue}} (method of closing the empanada) {{Lang|es|simbado}}. The [[La Rioja, Argentina|La Rioja]] variant includes hard-boiled egg, red bell pepper, olives, and raisins. In Jujuy, there are two variants: ''criollas'' and ''arabes''. Those of Santiago are considered especially juicy. Those of [[Catamarca Province|Catamarca]] are similar but smaller. [[Tucumán Province|Tucumán]] is known for the empanada creole; an annual National Empanada festival is held in Famaillá. Those of Famaillá are made with ''[[matambre]]'' and fried in good fat, competing with the {{Lang|es|entreveradas}} (mixed-grated), in which the {{Lang|es|matambre}} is mixed with chicken breast, garlic, ground chili, hard-boiled egg and cumin. Those of [[Mendoza, Argentina|Mendoza]] are large and include olives and garlic. Those of [[San Juan, Argentina|San Juan]] have a higher proportion of onion, making them juicier and slightly sweet. Olives are also common and sometimes fat is also added to the {{Lang|es|recado}} or the dough. In San Luis they are big, seasoned with oregano and hot pepper, and kneaded with pork fat. In [[Córdoba, Spain|Córdoba]], there is a version ''"Pastel Federal"'' "federal cake" or {{Lang|es|empanadas de Misia Manuelita}}.<ref name=":0" /> These are famous because pears boiled in wine with cloves were added to their filling. Today they are not so sweet but it is tradition to sprinkle them with sugar. In Traslasierra they add carrots and potatoes. In the Litoral, where immigrants from various parts of the world predominated, Santa Fe, Entre Ríos and Corrientes fill them with river fish, such as ''[[surubí]]'' (catfish) or ''dorado'', or with white sauce and Goya cheese. In the Cordillera of Patagonia, they are made with lamb and on the coast with seafood. In [[Buenos Aires]], the [[Creole peoples|Creole]] empanada is so important that it has been declared a Cultural Heritage of Food and Gastronomy by the Argentine Ministry of Culture.<ref>{{Cite web|title=Empanadas: su origen y una historia extensa|url=http://misionesalinstante.com/?a=26265|access-date=August 3, 2020|website=misionesalinstante.com|language=en|archive-date=January 9, 2021|archive-url=https://web.archive.org/web/20210109235224/http://misionesalinstante.com/?a=26265|url-status=live}}</ref><ref name=":0">{{Cite news|date=October 5, 2018|title=El mapa definitivo de las empanadas argentinas con sus 14 versiones|url=https://www.lanacion.com.ar/lifestyle/el-mapa-definitivo-empanadas-argentinas-sus-14-nid2175466|access-date=August 3, 2020|newspaper=La Nación|language=es|archive-date=March 30, 2020|archive-url=https://web.archive.org/web/20200330152436/https://www.lanacion.com.ar/lifestyle/el-mapa-definitivo-empanadas-argentinas-sus-14-nid2175466|url-status=live}}</ref>
+
+===Belize===
+[[File:Belize panades.jpg|thumb|{{Lang|es|Panades}} in [[Cayo District]], Belize|left]]
+In [[Belize]], empanadas are known as {{Lang|es|panades}}. They are made with [[masa]] (corn dough) and typically stuffed with fish, chicken, or beans.<ref name="Belize.com">{{cite web |title=Belizean Food |url=http://www.belize.com/belize-fast-food |website=Belize.com |publisher=ITM Ltd. |access-date=December 1, 2015 |archive-url=https://archive.today/20240527151157/https://www.webcitation.org/6dSyL6UMp?url=http://www.belize.com/belize-fast-food |archive-date=May 27, 2024 |url-status=live }}</ref> They are usually deep-fried and served with a cabbage or salsa topping. {{Lang|es|Panades}} are frequently sold as [[street food]].<ref>{{cite book|editor1-last=Kraig|editor1-first=Bruce|editor2-last=Sen|editor2-first=Colleen Taylor|title=Street Food Around the World: An Encyclopedia of Food and Culture|date=2013|publisher=ABC-CLIO|location=Santa Barbara, California|isbn=978-1-59884-954-7|page=72}}</ref>
+
+===Brazil===
+{{Further|Pastel (Brazilian food)}}
+[[File:Brazilian pastel.jpg|thumb|Brazilian pastel|right]]
+In [[Brazil]], a '''{{lang|pt|pastel}}''' ({{plural form}}: {{lang|pt|pastéis}}) consists of half-circle or rectangle-shaped thin-crust pies with assorted fillings, fried in vegetable oil. The result is a crispy, brownish fried pie. The most common fillings are [[ground meat]], [[mozzarella]], [[Catupiry]], [[heart of palm]], [[Cod as food|codfish]], [[cream cheese]], [[Chicken as food|chicken]] and small [[Shrimp and prawn as food|shrimp]]. Pastéis with sweet fillings such as [[Goiabada|guava paste]] with [[Minas cheese]], banana and chocolate also exist.
+
+===Chile===
+Traditional Chilean styles include ''empanada de pino'' or ''de horno'', filled with seasoned ground beef, onions, olives, raisins, and hard-boiled eggs and cooked in an oven, and cheese-filled empanadas with crimped edges which are deep-fried.
+<ref>{{cite web |title=Chilean Empanadas – A Delicious Food Tradition |url=https://pepeschile.com/chilean-empanadas-a-delicious-food-tradition/ |website=Pepe's Chile |date=November 9, 2011 |access-date=4 May 2025}}</ref>
+
+===Colombia===
+[[File:Colombian empanadas with ají.jpg|thumb|A bowl of Colombian beef empanadas, served with salsa de ají|right]]In Colombia, like in Venezuela, empanadas are made with corn and are typically filled with beef or chicken. They are sometimes served with salsa de [[Ají (sauce)|ají]], a chilli sauce.
+
+===Ecuador===
+
+[[File:Empanadas de viento .jpg|thumb|Ecuadorian empanadas de viento|left ]]
+The traditional Ecuadorian style is called "empanada de viento" (literally, "wind empanada").  These are made from thin-rolled flour dough and filled with cheese, sometimes with onions mixed in, and deep-fried.  The "viento" refers to the fact that as they fry they fill with air, leaving them hollow (but coated with cheese inside).  They can be served sweet, sprinkled with sugar, or savory, with salsa de ají.
+
+===El Salvador===
+[[File:Empanadas de platano.jpg|thumb|Salvadoran {{Lang|es|empanadas de platano}} with coffee|left]]
+[[El Salvador]] is one of the few countries where empanadas are made with plantain rather than a flour-based dough wrapping.<ref>{{cite news |last1=Guillén |first1=Alejandro |title=Cultura y tradición: Empanadas salvadoreñas |url=https://exclusivadigital.com.sv/cultura-y-tradicion-empanadas-salvadorenas/ |access-date=October 17, 2022 |agency=Exclusiva Digital |date=March 18, 2021 |archive-date=October 17, 2022 |archive-url=https://web.archive.org/web/20221017162017/https://exclusivadigital.com.sv/cultura-y-tradicion-empanadas-salvadorenas/ |url-status=live }}</ref> A popular sweet variation, {{Lang|es|empanadas de platano}}, are torpedo-shaped dumplings of dough made from very ripe plantains, filled with vanilla custard, fried, then rolled in sugar.<ref>{{cite web |title=Salvadorean Plantain Empanadas with Milk Filling |url=https://eng.cocinamerica.com/recipes/salvadorean-empanadas/ |website=CocinAmerica |date=January 11, 2019 |access-date=November 28, 2021 |archive-date=November 28, 2021 |archive-url=https://web.archive.org/web/20211128152427/https://eng.cocinamerica.com/recipes/salvadorean-empanadas/ |url-status=live }}</ref> They may alternatively have a filling made from [[refried beans]] rather than milk-based custard, but the flavour profile remains sweet rather than savoury.<ref>{{cite web |title=Empanada de plátano con frijoles |url=https://www.recetassalvador.com/recetas/reposteria/empanada-de-platano-con-frijoles |website=Recetas de El Salvador |access-date=October 17, 2022 |archive-date=October 17, 2022 |archive-url=https://web.archive.org/web/20221017162013/https://www.recetassalvador.com/recetas/reposteria/empanada-de-platano-con-frijoles |url-status=live }}</ref><ref>{{cite web |last1=Morataya |first1=Celina |title=Empanadas Salvadoreñas Fuente: Recetas Salvadoreñas |url=https://www.recetassalvadorenas.com/receta/empanadas-salvadorenas/ |website=Recetas Salvadoreñas |date=March 24, 2014 |access-date=October 17, 2022 |archive-date=October 17, 2022 |archive-url=https://web.archive.org/web/20221017162013/https://www.recetassalvadorenas.com/receta/empanadas-salvadorenas/ |url-status=live }}</ref>
+
+===France===
+In [[France]], the traditional {{Lang|fr|chaussons}} are made with a puff pastry dough filled with stew such as [[daube]] or [[confit]], or a bechamel sauce mixed with ham and/or cheese.<ref>{{Cite book |last=Larousse |first=Librairie |url=https://books.google.com/books?id=mmWBEAAAQBAJ |title=Larousse Gastronomique: The World's Greatest Culinary Encyclopedia, Completely Revised and Updated |date=2022-08-30 |publisher=Clarkson Potter/Ten Speed |isbn=978-0-593-57774-5 |language=en}}</ref> They also exist in sweet version (see {{Lang|fr|[[chausson aux pommes]]}}). They are half-moon shaped. If the shape is rectangular they receive the name of [[friand]]. One regional version is the {{Lang|fr|pâté lorrain}}, filled with pork meat cooked with wine and onions. All these versions are baked.
+
+The fried versions can be made of puff pastry or shortcrust pastry and are called [[rissole]]s. The most famous is the {{Lang|fr|{{ill|Rissoles de Coucy|fr|Rissoles de Coucy|lt=rissole de Coucy}}}}, filled with meat or fish.
+
+===Galicia===
+[[Image:Bandejas de empanadas gallegas.jpg|thumb|''Empanadas galegas'']]
+Galician empanada ({{Langx|gl|empanada galega}}) is a variety of empanada and one of the most popular dishes of [[Galician cuisine]], commonly served in the towns of [[Galicia (Spain)|Galicia]] during festivals and [[pilgrimage]]s. It is prepared with a variety of fillings, including local seafood, [[chorizo|sausage]], and chicken. It can be served hot or cold. The origin of this preparation is determined in the preparation of cakes in embers that were initially made directly in embers until it evolved into a preparation in clay pots that give it its current characteristic round shape. The preparation is mainly homemade and is done in ovens, but nowadays, it is common to find it for sale in bakeries or street stalls.
+
+The history of this dish in the region dates back to the [[Visigoths|Visigothic]] era in the 7th century, when rules for their preparation were decreed.<ref>{{cite book |last=Tejeiro |title=De la comida y otras sensualidades |publisher= |location= |year= |isbn=|language=es}}</ref> The first referenced empanada used mushroom or chicken fillings.<ref>{{cite book|last=Cunqueiro |title=Cocina Gallega |language=es|publisher=|location=|year=|isbn=}}</ref> The empanada was an ideal food for travelers because it is a covered preparation that prevented contact of the interior with the dust of the roads. Galician empanadas appear sculpted as early as the 12th century on the [[Portico of Glory]] in [[Santiago de Compostela]].<ref>{{cite book|last=López Ferreiro |title=El Pórtico de la Gloria, Platerías y el Primitivo Altar Mayor de la catedral de Santiago|location=Santiago de Compostela|publisher=Pico Sacro|edition=1st|year=|isbn=|language=es}}</ref>
+
+===Indonesia===
+[[File:Panada.JPG|thumb|Indonesian Minahasan {{Lang|id|panadas}}]]
+In [[Indonesia]], empanadas are known as {{Lang|id|panada}}. They are especially popular in [[Manado cuisine]] of [[North Sulawesi]] where their {{Lang|id|panada}} has a thick crust made from fried bread, filled with spicy {{Lang|id|cakalang}} fish ([[skipjack tuna]]) and chili, [[curry]], potatoes or [[quail egg]]s. The {{Lang|id|panada}} in North Sulawesi was derived from [[Portuguese Empire|Portuguese]] influence in the region.<ref>{{Cite web|url=https://indonesiakaya.com/pustaka-indonesia/panada-kue-lezat-peninggalan-bangsa-portugis-di-manado/|title=Panada, Kue Lezat Peninggalan Bangsa Portugis di Manado|access-date=February 28, 2021|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308105922/https://indonesiakaya.com/pustaka-indonesia/panada-kue-lezat-peninggalan-bangsa-portugis-di-manado/|url-status=live}}</ref> The dish is similar to {{Lang|id|[[Curry puff#Indonesia|karipap]]}} and [[kue pastel|pastel]], although they have a thinner crust compared to panada.
+
+===Italy===
+[[File:'Mpanatigghi.JPG|thumb|Sicilian {{lang|scn|'mpanatigghi}}|left]]
+The [[Sicilian cuisine|Sicilian]] {{lang|scn|'mpanatigghi}} are stuffed, consisting of half-moon-shaped [[Panzerotto|panzerotti]] filled with a mixture of almonds, walnuts, chocolate, sugar, cinnamon, cloves and minced beef.<ref name="corri">{{cite news |author=Red. Spe. |title=Quanto è "dolce" Ragusa |newspaper=[[Corriere del Mezzogiorno]] |date=July 31, 2013}}</ref><ref name="Assenza">{{cite book |author=Giovanni Assenza |title=Miele, garofano, cannella. I profumi dei dolci di Sicilia |publisher=Assenza |date=2014 |isbn=978-605-030-594-4}}</ref><ref>{{cite book |author=Nicky Pellegrino |title=The Food of Love Cookery School |publisher=Hachette UK |date=2013 |isbn=978-1-4091-3381-0}}</ref> These are typical of [[Modica]], in the province of [[Ragusa, Sicily]]. They are also known by the [[Italianization|italianized]] word {{lang|it|impanatiglie}} or {{lang|it|dolce di carne}} (pasty of meat).<ref>{{cite book |author=Monica Cesari Sartoni |title=Mangia italiano. Guida alle specialità regionali italiane |publisher=Morellini Editore |date=2005 |isbn=88-89550-05-8}}</ref>
+
+They were probably introduced by the Spaniards during their rule in Sicily which took place in the sixteenth century; this is suggested by the etymology of the name which comes from the Spanish {{lang|es|empanadas}} or {{lang|es|empanadillas}}, as well as the somewhat unusual combination of meat and chocolate, which occurs occasionally in Spanish cuisine.<ref name="corri" /><ref name="Assenza" /><ref>{{cite book |author=Touring Club of Italy |title=Authentic Sicily |publisher=Touring Editore |date=2005 |isbn=88-365-3403-1}}</ref> In previous centuries, [[Game (hunting)|game meat]] was used in {{lang|scn|'mpanatigghi}}; today beef is used.<ref name="corri" />
+
+===Mexico===
+[[File:Empanadas de Queso.jpg|thumb|Mexican fried corn empanadas]]
+Empanadas are common in Mexico, although the dish there is noticeably different.<ref>[https://patijinich.com/empanadas/ Picadillo Empanadas of the “Immaculate Conception”]</ref> Mexican empanadas are made of fried corn paste [[masa]] instead of flour, similar to ''[[gordita]]s'' or ''[[Huarache (food)|huarache]]s''. They are usually filled with taco ingredients, such as [[refried beans]], boiled chicken, boiled chopped potato with [[white cheese]], pork belly and ground beef, and are typically garnished with pickled cabbage salad, white [[Powdered cheese|cheese powder]], [[cream]] and spicy tomato sauce.<ref>[https://www.mexicoinmykitchen.com/fried-corn-empanadas-with-cheese/ Fried Corn Empanadas with Queso Fresco | Mexican Recipe]</ref> It is commonly served, along with ''[[flauta]]s,'' as a cheap appetizer in [[fair]] stands and other outdoor events due to its quick preparation.
+
+=== Philippines ===
+[[File:Pinoy Empanada.jpg|left|thumb|Philippine fried empanadas, with ground beef, potatoes, carrots, cheese, and raisins in a thin, crisp crust]]
+[[Filipino cuisine|Filipino]] empanadas usually contain ground beef, pork or chicken, potatoes, chopped onions, and raisins ([[picadillo]]-style),<ref name=merano>{{cite web |last1=Merano |first1=Vanjo |title=Picadillo Recipe |url=https://panlasangpinoy.com/picadillo-recipe/ |website=Panlasang Pinoy |date=February 3, 2018 |access-date=3 January 2024}}</ref> in a somewhat sweet, wheat flour bread. There are two kinds available: the baked sort and the flaky fried type. To lower costs, potatoes are often added as an extender, while another filling is ''[[kutsay]]'' ([[garlic chives]]).
+{{Multiple image
+| image1            = Empanada de Vigan.jpg
+| image2            = Ilocos Empanada in Batac, Ilocos Norte.jpg
+| direction         = vertical
+| caption1          = [[Vigan]] Empanada has a pale color with thinner dough and is typically filled with green [[papaya]] or mixed with [[cabbage]].
+| caption2          = [[Batac]] Empanada has an orange-tinged color and is typically filled with [[mung bean]] sprouts and green papaya.
+}}
+Empanadas in the northern part of the Philippines, particularly in [[Ilocos Region|Ilocos]], are known as ''Ilocos Empanada'' or ''Empanada de Ilocos''. These empanadas are characterized by savory fillings, typically including [[green papaya]], [[mung bean]]s, and sometimes chopped [[cabbage]].<ref>{{Cite web |last=Koppe |first=Jaclyn Clemente |title=Filipino Food: What Is The Ilocos Empanada? |url=https://www.tatlerasia.com/dining/food/ph-the-ilocos-empanada-what-is-it |access-date=2025-02-09 |website=Tatler Asia |language=en}}</ref> They are also commonly filled with Ilocano [[sausage]], or [[Vigan longganisa]], and egg yolk. The empanada is deep-fried and made with [[glutinous rice]] paste ([[Glutinous rice|''galapong'']]) or [[rice flour]] combined with ''[[annatto]]'', which gives the dough its distinct orange color and contributes to a crunchier texture.<ref>{{cite web |url=http://www.sunstar.com.ph/pampanga/vigan-empanada-and-gastronomic-treats-ilocos |title=Vigan Empanada and the gastronomic treats of Ilocos |author=Ian Ocampo Flora |date=April 23, 2010 |publisher=www.sunstar.com.ph |access-date=December 30, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100505212143/http://www.sunstar.com.ph/pampanga/vigan-empanada-and-gastronomic-treats-ilocos |archive-date=May 5, 2010 }}</ref> Ilocos Empanadas can also be filled with mashed [[eggplant]], scrambled eggs, and [[cabbage]], which is called ''[[poqui poqui]]''.<ref>{{Cite web|url=https://www.abs-cbn.com/lifestyle/06/17/16/look-restaurant-adds-twist-to-ilocos-empanada|title=Look: Restaurant adds twist to Ilocos empanada|last=Galiste|first=Ria|website=ABS-CBN News|date=June 17, 2016|access-date=May 31, 2019|archive-date=May 31, 2019|archive-url=https://web.archive.org/web/20190531024758/https://news.abs-cbn.com/lifestyle/06/17/16/look-restaurant-adds-twist-to-ilocos-empanada|url-status=live}}</ref>
+[[File:Empanada de Kaliskis in front of Barasoain church in Bulacan.jpg|thumb|''Empanada de kaliskis'' ({{literally|[[fish scale]] empanada}}), a traditional empanada from [[Bulacan]], Philippines, with a [[croissant]]-like flaky layered crust|left]]
+In [[Bulacan]], {{Lang|fil|empanada de kaliskis}} ({{literally|[[fish scale]] empanada}}), uniquely has a flaky multilayered crust resembling scales, hence the name. In [[Cebu Island|Cebu]], ''empanada [[Danao, Cebu|Danao]]'' is a characteristically sweet-savory variant. It is filled with chopped ''[[longganisa|chorizo]]'' and [[chayote]], deep-fried, and dusted in white sugar before serving. In [[Zamboanga peninsula|Zamboanga]], ''empanada Zamboangueño'' is filled with chopped [[sweet potato]], [[garbanzo bean]]s, and served with a sweet vinegar dipping sauce.<ref name="polistico" />
+
+Dessert versions of empanadas also exist, notably empanaditas, which commonly have a filling of ''[[latik]]'' (coconut caramel), honey and nuts, or peanut butter. [[Kapampangan people|Kapampangan]] versions of empanaditas have a ''[[Yema (candy)|yema]]'' (custard) and [[cashew nut]] filling. In [[Cebu]], {{Lang|fil|sinudlan empanada}} is a small deep-fried empanada with ''[[bukayo]]'' (sweetened coconut meat) filling.<ref name="polistico">{{cite book |last1=Polistico |first1=Edgie |title=Philippine Food, Cooking, & Dining Dictionary |date=2017 |publisher=Anvil Publishing, Inc. |isbn=9786214200870 |url=https://books.google.com/books?id=STSWDwAAQBAJ |access-date=September 14, 2020 |archive-date=April 6, 2023 |archive-url=https://web.archive.org/web/20230406044941/https://books.google.com/books?id=STSWDwAAQBAJ |url-status=live }}</ref>
+
+===Portugal===
+In [[Portugal]], there are foods called "Pasteis de Bacalhau" and "Rissols."  These fried treats are both made with fish, the pasteis being made with codfish and the rissoles being made with shrimp.  These are delicacies known far and wide throughout the country.
+
+===Puerto Rico===
+In [[Puerto Rico]], empanadas are made of a flour base and fried, and are known as empanadillas. Common fillings include meat such as ground beef [[picadillo]], pork, chicken, pizza<ref>{{Cite web |title=Empanadillas de Pizza – Kikuet |url=https://kikuet.com/producto/empanadillasdepizza/ |access-date=2024-01-04 |language=en-US}}</ref> (marinara sauce and cheese), guava and cheese, ''[[Cardisoma guanhumi|jueyes]]'' (crab), ''chapín'' ([[Spotted trunkfish]]), rabbit, octopus, and much more depending on local cuisine.
+
+===United States===
+Empanadas, mainly based on South American recipes, are widely available in [[New York City]], [[New Jersey]], [[Baltimore]], [[Philadelphia]], [[Washington, D.C.]], and [[Miami]] from [[food cart]]s, [[food truck]]s, and restaurants.<ref>[http://gothamist.com/2014/10/13/nyc_empanada_guide.php "10 Spots To Score Excellent Empanadas In NYC"] {{webarchive|url=https://web.archive.org/web/20160708091422/http://gothamist.com/2014/10/13/nyc_empanada_guide.php |date=July 8, 2016 }} by Angely Mercado, ''[[Gothamist]]'', October 13, 2014;<br />[http://newyork.cbslocal.com/2015/10/09/nyc-food-truck-lunch-empanadas-from-la-sonrisa-empanadas/ "NYC Food Truck Lunch: Empanadas From La Sonrisa Empanadas"] {{Webarchive|url=https://web.archive.org/web/20210224031735/http://newyork.cbslocal.com/2015/10/09/nyc-food-truck-lunch-empanadas-from-la-sonrisa-empanadas/ |date=February 24, 2021 }} by Perry R., [[CBS New York]], October 9, 2015</ref> Empanadas are usually found in U.S. areas with a large Hispanic population, such as [[San Antonio]],<ref>{{cite web|title=The 15 Best Places for Empanadas in San Antonio|url=https://foursquare.com/top-places/san-antonio/best-places-empanadas|website=FourSquare|access-date=January 4, 2017|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308171448/https://foursquare.com/top-places/san-antonio/best-places-empanadas|url-status=live}}</ref><ref>{{cite web|last1=Rice|first1=Janae|title=Finding Empanadas in SA|url=http://www.sacurrent.com/Flavor/archives/2014/04/08/finding-empanadas-in-sa|work=[[San Antonio Current]]|access-date=January 4, 2017|archive-date=February 25, 2021|archive-url=https://web.archive.org/web/20210225084414/https://www.sacurrent.com/Flavor/archives/2014/04/08/finding-empanadas-in-sa|url-status=dead}}</ref> [[Los Angeles]],<ref>{{cite web|last1=Chabala|first1=Tracy|title=5 Great Baked Empanadas in Los Angeles|url=http://www.laweekly.com/restaurants/5-great-baked-empanadas-in-los-angeles-2895481|work=[[LA Weekly]]|date=July 18, 2013|access-date=January 4, 2017|archive-date=March 30, 2019|archive-url=https://web.archive.org/web/20190330111825/https://www.laweekly.com/restaurants/5-great-baked-empanadas-in-los-angeles-2895481|url-status=live}}</ref> and [[San Francisco]].<ref>{{Cite web |last=bayareabites |title=Bay Area Bites Guide to Empanadas in San Francisco |url=https://www.kqed.org/bayareabites/122940/bay-area-bites-guide-to-empanadas-in-san-francisco |access-date=October 31, 2022 |website=KQED |date=November 30, 2017 |language=en-us |archive-date=October 31, 2022 |archive-url=https://web.archive.org/web/20221031033829/https://www.kqed.org/bayareabites/122940/bay-area-bites-guide-to-empanadas-in-san-francisco |url-status=live }}</ref>
+
+===Venezuela===
+[[File:Empanadas Venezolanas.jpg|thumb|Homemade Venezuelan empanadas]]
+Traditional [[Venezuelan cuisine|Venezuelan]] empanadas are made with ground corn dough, though modern versions are made with precooked corn. The dough may have a yellow color when toasted due to the addition of [[annatto]]. The fillings are very diverse, with the most conventional being cheese, [[Ropa vieja|shredded beef]], chicken, {{Lang|es|cazón}} ([[school shark]]) in the [[Margarita Island|Margaritan Island]] region especially,<ref>{{Cite journal|last1=Suárez Rodríguez|first1=Jesús M.|last2=Almerich|first2=Gonzalo|last3=Gargallo López|first3=Bernardo|last4=Aliaga|first4=Francisco M.|date=May 10, 2010|title=Competencies in ICT of teachers and their relation to the use of the technological resources|journal=Education Policy Analysis Archives|volume=18|pages=10|doi=10.14507/epaa.v18n10.2010|issn=1068-2341|doi-access=free}}</ref><ref>{{Cite journal|last=Parra|first=William|date=November 15, 2009|title=El sistema penal acusatorio como comunicación universal y como parte del proceso de construcción de una cultura jurídica en Colombia, basada en el respeto de los derechos humanos|journal=Criterios|volume=2|issue=2|pages=105–142|doi=10.21500/20115733.1907|issn=2011-5733|doi-access=free}}</ref> ham, [[Frijoles negros|black beans]] and cheese (commonly called {{Lang|es|dominó}}) and even combinations of mollusks. The empanadas have a half-moon shape and are fried in oil. Sometimes, they may have more than one filling, such as in {{Lang|es|empanadas de pabellón}},<ref>{{Cite web|title=Hay masas de repostería que son húmedas o grasas y al estirarlas se quedan pegadas, aprende cómo evitarlo|url=https://cocinayvino.net/hay-masas-de-reposteria-que-son-humedas-o-grasas-y-al-estirarlas-se-quedan-pegadas-aprende-como-evitarlo/|access-date=April 15, 2021|website=CocinayVino.Net|language=en-US|archive-date=April 14, 2021|archive-url=https://web.archive.org/web/20210414170002/https://cocinayvino.net/hay-masas-de-reposteria-que-son-humedas-o-grasas-y-al-estirarlas-se-quedan-pegadas-aprende-como-evitarlo/|url-status=live}}</ref> which are made with a shredded beef filling (or ''{{Lang|es|cazón}}'' in the Margarita Island region), black beans, slices of fried plantain, and shredded white cheese.
+
+==Similar foods==
+The empanada resembles savory pastries found in many other cultures, such as the ''[[molote]]'', [[pirozhki]],<ref name=MackSurina>Glenn Randall Mack & Asele Surina, ''Food Culture in Russia and Central Asia'' (Greenwood, 2005), p. 138.</ref> [[calzone]],<ref name=MackSurina/> [[samosa]],<ref name=MackSurina/><ref name=Yeo>Patricia Yeo & Julia Moskin, ''Cooking from A to Z'' (St. Martin's Press, 2002),  p. 53.</ref> [[Gujhia]], [[knish]],<ref name=MackSurina/><ref name=Yeo/> ''kreatopitakia'',<ref name=MackSurina/> ''[[khuushuur]]'', [[Jamaican patty]] and [[pasty]].<ref name=Yeo/>
+
+In most [[Malay language|Malay]]-speaking countries in [[Southeast Asia]], the pastry is commonly called ''[[epok-epok]]'' or ''[[karipap]]'' (English: [[curry puff]]). Fried dumplings are found in [[Chinese cuisine]] (''[[jiucai hezi]]'' and ''[[jiaozi]]'') and in [[Vietnamese cuisine]] (''[[bánh gối]]'').
+
+==References==
+{{Reflist}}
+
+{{Cheese dishes}}
+{{Dumplings}}
+{{Indonesian bread}}
+{{Kue}}
+{{Pastries}}
+{{Street food}}
+
+[[Category:Argentine cuisine]]
+[[Category:Belizean cuisine]]
+[[Category:Chilean cuisine]]
+[[Category:Cuisine of the Southwestern United States]]
+[[Category:Dumplings]]
+[[Category:Ecuadorian cuisine]]
+[[Category:Filipino cuisine]]
+[[Category:Galician cuisine]]
+[[Category:Guamanian cuisine]]
+[[Category:Indonesian cuisine]]
+[[Category:Italian cuisine]]
+[[Category:Latin American cuisine]]
+[[Category:Mexican cuisine]]
+[[Category:Paraguayan cuisine]]
+[[Category:Pascuense cuisine]]
+[[Category:Portuguese cuisine]]
+[[Category:Puerto Rican cuisine]]
+[[Category:Savoury pies]]
+[[Category:Spanish cuisine]]
+[[Category:Stuffed dishes]]
+[[Category:Tapas]]
+[[Category:Uruguayan cuisine]]
+[[Category:Venezuelan cuisine]]

@@ -1,0 +1,398 @@
+{{Short description|Dried, split pulses used for cooking}}
+{{redirect|Dhal|the shield|Dhal (shield)|text=For the Arabic letters, see [[Dāl]] or [[Ḏāl]]}}
+{{Other uses}}
+{{Use dmy dates|date=April 2019}}
+{{Use Indian English|date=August 2013}}
+{{Infobox food
+| name             = Dal or Paruppu
+| image            = 3 types of lentil.png
+| caption          = Lentils are a staple ingredient in cuisines from the [[Indian subcontinent]]. Clockwise from upper right: split red lentils, common green whole lentils, and [[Le Puy green lentil|Le Puy lentils]]. Whole lentils have their outer coats visible.
+| alternate_name   = Daal, dail, dahl, parripu, pappu, ooti, daje
+| region           = [[Indian subcontinent]]
+| creator          =
+| course           =
+| type             =
+| served           =
+| main_ingredient  = [[Lentil]]s, [[pea]]s or [[bean]]s
+| variations       =
+| calories         =
+| other            =
+|image_size=300}}
+In [[Indian cuisine]], '''dal''' (also spelled '''daal''' or '''dhal''' <ref name="BBC Good Food - 20 Dhal recipes">{{cite news |title=20 Dhal recipes |url=https://www.bbcgoodfood.com/recipes/collection/dhal-recipes |access-date=19 April 2023 |work=[[BBC Good Food]] |publisher=[[Immediate Media Company]]}}</ref> pronunciation: {{IPA|hns|d̪aːl|}}), '''paruppu''' (also spelled '''parippu'''), or '''pappu''' are dried, split [[Pulse (botany)|pulses]] (e.g., [[lentil]]s, [[pea]]s, and [[bean]]s) that do not require soaking before cooking. India is the largest producer of pulses in the world.<ref>{{cite web |url=http://www.fao.org/india/fao-in-india/india-at-a-glance/en/#:~:text=India%20is%20the%20largest%20producer,population%20190%20million%20in%202012. |title=FAO in India |access-date=2 September 2020}}</ref> The term is also used for various [[soup]]s prepared from these pulses. These pulses are among the leading  [[staple food]]s in [[South Asia|South Asian countries]], and form an important part of the [[cuisines of the Indian subcontinent]].<ref>{{Cite book |chapter-url=https://books.google.com/books?id=RL6LAwAAQBAJ&pg=PA246 |title=The Oxford Companion to Food |last1=Davidson |first1=Alan |last2=Jaine |first2=Tom |year=2014 |publisher=Oxford University Press |page=246 |isbn=9780199677337 |language=en |chapter=Dal}}</ref>
+
+==Etymology==
+The word ''dāl'' (dal) derives from the [[Sanskrit]] verbal root ''dal-'' "to split",<ref>{{cite book |author=John Ayto |title=The Diner's Dictionary: Word Origins of Food and Drink |url=https://books.google.com/books?id=NoicAQAAQBAJ&pg=PA116 |year=2012 |publisher=Oxford University Press |isbn=978-0-19-964024-9 |page=116}}</ref><ref>{{cite book |last=Williams |first=Monier |year=1899 |title=A Sanskrit–English Dictionary |location=Oxford |publisher=Clarendon Press |oclc=458052227 |page=471}}</ref> which is inherited from [[Proto-Indo-European]] ''*delh₁-'' "to split, divide".<ref>Mallory, J. P.; Adams, D. Q. (2006) The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World (Oxford Linguistics), New York: Oxford University Press, page 372</ref><ref>Rix, Helmut, editor (2001) Lexikon der indogermanischen Verben [Lexicon of Indo-European Verbs] (in German), 2nd edition, Wiesbaden: Dr. Ludwig Reichert Verlag, page 114</ref><ref>
+Pokorny, Julius (1959) Indogermanisches etymologisches Wörterbuch [Indo-European Etymological Dictionary] (in German), volume 1, Bern, München: Francke Verlag, page 0194</ref>
+
+== History ==
+Lentils are among the most ancient cultivated foods; they have been found in human settlements dating back to the [[Bronze Age]].<ref>{{cite web|url=https://www.britannica.com/plant/lentil-plant|publisher=Encyclopædia Britannica|title=Lentil}}</ref> Researchers have dated the preparation and cooking of split dal as far back as 800-300 BC.<ref>{{cite web|url=https://www.bonappetit.com/story/what-is-dal|publisher=Bon Appetit|title=What is dal?|last1=Agrawal|first1=Chitra|date=22 November 2021 }}</ref>
+
+Dal as a staple food has been mentioned in many ancient religious texts, including the [[Yajurveda]] and the [[Mahayana Buddhist]] [[Laṅkāvatāra Sūtra]].
+{{Blockquote
+|text=May for me strength, righteousness, milk, sap, ghee, honey, eating and drinking in company, ploughing, rain, conquest, victory, wealth, riches, prosperity, prospering, plenteousness, lordship, much, more, fun, fuller, imperishableness, bad crops, food, freedom from hunger, rice, barley, beans, sesame, kidney beans, vetches, wheat, lentils, millet, ''Panicum miliaceum'', ''Panicum frumentaceum'', and wild rice (prosper through the sacrifice).
+|source=''[[Yajurveda]], Kanda IV, Prapathaka VII, trans. [[Arthur Berriedale Keith]]''<ref>{{cite book|title=The Yajur Veda (Taittiriya Sanhita)|last1=Berriedale Keith|first1=Arthur|author-link=Arthur Berriedale Keith}}</ref>
+}}
+{{Blockquote
+|text=Now, Mahāmati, the food I have permitted [my disciples to take] is gratifying to all wise people but is avoided by the unwise; it is productive of many merits, it keeps away many evils; and it has been prescribed by the ancient Rishis. It comprises rice, barley, wheat, kidney beans, beans, lentils, etc., [...] food prepared with these is proper food.
+|source=''[[Laṅkāvatāra Sūtra]] 249-250, trans. [[D. T. Suzuki]]''<ref>{{cite book|last1=Suzuki|first1=D.T.|year=1999|author-link=D. T. Suzuki|title=''The Laṅkāvatāra Sūtra: A Mahāyāna Text''}}</ref>
+}}
+
+== Use ==
+[[File:Vada (gare).jpg|thumb|Dal or paruppu is the main ingredient of the Indian snack [[Vada (food)|vada]].|alt=]]
+[[File:Dal tadka and naan.jpg|thumb|Dal tadka and naan]]
+Dal are often prepared in three different forms:
+* Unhulled and whole, known as ''sabut'' ('whole' in Hindi), such as ''sabut urad dal'' or ''mung sabut'';
+* Unhulled and split, known as ''chilka'' ('shell' in Hindi), such as ''chilka urad dal'' or ''mung dal chilka'';
+* [[Hulled]] and split, known as ''dhuli'' ('washed' in Hindi), e.g. ''urad dhuli'', or ''mung dhuli''.<ref>{{cite news |url=https://www.theguardian.com/lifeandstyle/2014/jun/13/yotam-ottolenghi-dried-bean-and-pea-recipes |title=Pulse points: Yotam Ottolenghi's dried bean and pea recipes |last1=Ottolenghi |first1=Yotam |author-link=Yotam Ottolenghi |work=The Guardian |access-date=29 September 2015}}</ref><ref>{{cite web |url=http://www.chefandherkitchen.com/2012/10/chilka-moong-dhal-split-green-lentils.html |title=Sample recipe for Chilka Urad dhal, split unhulled urad}}</ref><ref>Mehta, Nita (2006). ''Dal & Roti''. SNAB. p12. {{ISBN|978-81-86004-06-7}}.</ref>
+
+The hulling of a pulse is intended to improve digestibility and palatability. It also affects the nutrition provided by the dish, significantly increasing protein and reducing [[dietary fiber|dietary fibre]] content.<ref>{{cite journal |last1=Wang |first1=N. |last2=Hatcher |first2=D.W. |last3=Toews |first3=R. |last4=Gawalko |first4=E.J. |title=Influence of cooking and dehulling on nutritional composition of several varieties of lentils (''Lens culinaris'') |journal=LWT - Food Science and Technology |volume=42 |issue=4 |pages=842–848 |doi=10.1016/j.lwt.2008.10.007 |year=2009}}</ref> Pulses with their outer hulls intact are also quite popular in the Indian subcontinent as the main cuisine. Over 50 different varieties of pulses are known in the Indian subcontinent.{{citation needed|date=April 2019}}
+
+Dal is frequently eaten with [[flatbread]]s, such as ''[[roti]]s'' or ''[[chapati]]s,'' or with rice. The latter combination is called ''[[dal bhat]]'' in [[Nepali language|Nepali]], [[Gujarati language|Gujarati]], and various other Indian languages. In addition, certain types of dal are fried, salted, and eaten as a dry snack, and a variety of savory snacks are made by frying a paste made from soaked and ground dals in different combinations, to which other ingredients, such as spices and nuts (commonly [[cashews]]) may be added.
+
+Dal preparations are eaten with rice, [[chapati]] and [[naan]] on the [[Indian subcontinent]]. The manner in which it is cooked and presented varies by region. In South India, dal is often called "paruppu". It is primarily used to make a dish called [[Sambar (dish)|sambar]]. It is also used to make [[Telugu cuisine#Pappu (dal)|parippu]] that is mixed with [[charu]] and rice. Ground chana dal is used to make a paste called [[besan]], which is used in the preparation of many dishes including [[bhaji]]<ref>{{cite news |last1=Cloake |first1=Felicity |author-link=Felicity Cloake |title=How to make the perfect onion bhajis|url=https://www.theguardian.com/lifeandstyle/wordofmouth/2013/nov/13/how-to-make-perfect-onion-bhajis|work=The Guardian}}</ref> and Mediterranean dishes like [[farinata]].
+
+=={{anchor|Tadka}}Preparation==
+[[File:Dal Tadka 01 (36779549481).jpg|thumb|Dal tadka garnished with fried onion]]
+Most dal recipes are quite simple to prepare. The standard preparation begins with boiling a variety of dal (or a mix) in water with some [[turmeric]], salt to taste, and then adding a fried garnish at the end of the cooking process.<ref>{{cite news|url=https://www.theguardian.com/lifeandstyle/2011/jun/02/how-to-cook-perfect-dal|title=How to cook perfect dal|last1=Cloake|first1=Felicity|author-link=Felicity Cloake|work=The Guardian|date=2 June 2011 }}</ref> In some recipes, tomatoes, [[kokum]], unripe [[mango]], [[jaggery]], or other ingredients are added while cooking the dal, often to impart a sweet-sour flavour.
+
+The fried garnish for dal goes by many names, including ''[[chaunk]]'', ''tadka/tarka'', ''bagar'', ''fodni'', and ''phoran''. The ingredients in the ''chaunk'' for each variety of dal vary by region and individual tastes. The raw spices (more commonly [[cumin seed]]s, [[mustard seed]]s, [[asafoetida]], and sometimes [[fenugreek seed]]s and dried [[chili pepper|red chili pepper]]) are first fried for a few seconds in the hot oil on medium/low heat. This is generally followed by [[ginger]], garlic, and onion, which are generally fried for 10 minutes. After the onion turns golden brown, ground spices ([[turmeric]], [[coriander]], [[chili powder|red chili powder]], [[garam masala]], etc.) are added. The ''chaunk'' is then poured over the cooked dal.
+
+==Nutrition==
+{{See also|Legume#Nutritional value}}
+
+As the main ingredient of dal is the pulse used, it gains much of its nutritional properties from the pulse.
+
+{| class="wikitable"
+|+ Selected nutrients in grams per 100&nbsp;g
+ ! Item || Water || Protein
+ |-
+ | Cooked rice<ref>{{cite web|url=http://nutritiondata.self.com/facts/cereal-grains-and-pasta/5813/2|title=Nutrition Facts|work=self.com|access-date=29 September 2015}}</ref> || 68.4 || 2.7
+ |-
+ | Cooked dal<ref>{{cite web|url=http://nutritiondata.self.com/facts/legumes-and-legume-products/4338/2|title=Lentils, mature seeds, cooked, boiled, without salt Nutrition Facts & Calories|website=nutritiondata.self.com}}</ref> || 68.5 || 11.9
+ |-
+ | [[Roti]]<ref>{{cite web|url=http://ndb.nal.usda.gov/ndb/foods/show/8109?fgcd=&manu=&lfacet=&format=&count=&max=35&offset=&sort=&qlookup=roti|title=Food Composition Databases Show Foods -- Bread, chapati or roti, plain, commercially prepared|website=ndb.nal.usda.gov|access-date=5 November 2015|archive-date=10 March 2016|archive-url=https://web.archive.org/web/20160310090719/https://ndb.nal.usda.gov/ndb/foods/show/8109?fgcd=&manu=&lfacet=&format=&count=&max=35&offset=&sort=&qlookup=roti|url-status=dead}}</ref> || 33.5 || 11.5
+ |-
+ | Cooked soybean<ref>{{cite web|url=http://nutritiondata.self.com/facts/legumes-and-legume-products/4376/2|title=Nutrition Facts|work=self.com|access-date=29 September 2015}}</ref> || 62.5  || 16.6
+ |-
+ | Boiled egg<ref>{{cite web|url=http://nutritiondata.self.com/facts/dairy-and-egg-products/117/2|title=Nutrition Facts|work=self.com|access-date=29 September 2015}}</ref> || 74.6 || 12.6
+ |-
+ | Cooked chicken<ref name="self.com1">{{cite web|url=http://nutritiondata.self.com/facts/poultry-products/695/2|title=Nutrition Facts|work=self.com|access-date=29 September 2015}}</ref> || 64.3  || 25.3
+ |}
+
+{| class="wikitable sortable collapsible"
+|+ Nutrient contents in %DV of various dals, wheat and rice (Raw, Uncooked) per 100 g<ref>{{cite web|url=http://nutritiondata.self.com/facts/legumes-and-legume-products/4325/2|title=Nutrition Facts|work=self.com|access-date=29 September 2015}}</ref>
+|-
+! colspan=2 |
+! style="background: lightpink" colspan=13 | Vitamins
+! style="background: lightblue" colspan=10 |Minerals
+|-
+! Food
+! Protein
+! A
+!  B1
+! B2
+! B3
+! B5
+! B6
+! B9
+! B12
+! Ch.
+! C
+! D
+! E
+! K
+! Ca
+! Fe
+! Mg
+! P
+! K
+! Na
+! Zn
+! Cu
+! Mn
+! Se
+|-
+! Cooking Reduction %
+!   <!-- prot -->
+! 10   <!-- A -->
+! 30      <!-- B1 -->
+! 20   <!-- B2 -->
+! 25   <!-- B3 -->
+!      <!-- B5 -->
+! 25   <!-- B6 -->
+! 35   <!-- B9 -->
+! 0    <!-- B12 -->
+! 0      <!-- Ch -->
+! 30   <!-- C -->
+!      <!-- D -->
+!    <!-- E -->
+!     <!-- K -->
+! 10    <!-- Ca -->
+! 15     <!-- Fe -->
+! 20    <!-- Mg -->
+! 10   <!-- P -->
+! 20   <!-- K -->
+! 5   <!-- Na -->
+! 10   <!-- Zn -->
+! 25   <!-- Cu -->
+!      <!-- Mn -->
+!     <!-- Se -->
+|-
+! style="background: khaki" |Rice
+| 14
+| 0
+| 12
+| 3
+| 11
+| 20
+| 5
+| 2
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 1
+| 9
+| 6
+| 7
+| 2
+| 0
+| 8
+| 9
+| style="background: lightGray" | '''49'''
+| 22
+|-
+! style="background: khaki" |Wheat
+| 27
+| 0
+| 28
+| 7
+| style="background: lightGray" |'''34'''
+| style="background: lightGray" |'''19'''
+| style="background: lightGray" |'''21'''
+| 11
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 3
+| 20
+| 36
+| style="background: lightGray" |'''51'''
+| 12
+| 0
+| 28
+| 28
+| style="background: lightGray" |'''151'''
+| style="background: lightGray" |'''128'''
+|-
+! style="background: khaki" |Soybean
+| style="background: lightGray" |'''73'''
+| 0
+| style="background: lightGray" |'''58'''
+| style="background: lightGray" |'''51'''
+| 8
+| 8
+| 19
+| style="background: lightGray" |'''94'''
+| 0
+| style="background: lightGray" |'''24'''
+| 10
+| 0
+| 4
+| style="background: lightGray" |'''59'''
+| style="background: lightGray" |'''28'''
+| style="background: lightGray" |'''87'''
+| style="background: lightGray" |'''70'''
+| style="background: lightGray" |'''70'''
+| style="background: lightGray" |'''51'''
+| 0
+| style="background: lightGray" |'''33'''
+| style="background: lightGray" |'''83'''
+| style="background: lightGray" |'''126'''
+| 25
+|-
+! style="background: khaki" |Toor Dal (split pigeon pea)
+| style="background: lightGray" |'''43'''
+| 1
+| style="background: lightGray" |'''43'''
+| 11
+| 15
+| 13
+| 13
+| style="background: lightGray" |'''114'''
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 13
+| 29
+| style="background: lightGray" |'''46'''
+| style="background: lightGray" |'''37'''
+| style="background: lightGray" |'''40'''
+| 1
+| 18
+| style="background: lightGray" |'''53'''
+| style="background: lightGray" |'''90'''
+| 12
+|-
+!style="background: khaki" | Urad Dal (black lentil)
+|  45<!-- Protein -->
+|  0<!-- A -->
+|  24<!--  B1-->
+|  21<!-- B2-->
+|  10<!-- B3-->
+|  0<!-- B5-->
+|  22<!-- B6-->
+|  style="background: lightGray" | '''54'''<!-- B9-->
+|  0<!-- B12-->
+|  0<!-- Ch.-->
+|  0<!-- C-->
+|  0<!-- D-->
+|  0<!-- E-->
+|  0<!-- K-->
+|  14<!-- Ca-->
+|  style="background: lightGray" | '''58'''<!-- Fe-->
+|  style="background: lightGray" | '''75'''<!-- Mg-->
+|  style="background: lightGray" | '''54'''<!-- P-->
+|  21<!-- K-->
+|  3<!-- Na-->
+|  35<!-- Zn-->
+|  0<!-- Cu-->
+|  0<!-- Mn-->
+|  0<!-- Se-->
+|-
+!style="background: khaki" | Mung Dal (mung bean)
+|  43<!-- Protein -->
+|  0<!-- A -->
+|  style="background: lightGray" | '''54'''<!--  B1-->
+|  19<!-- B2-->
+|  15<!-- B3-->
+|  38<!-- B5-->
+|  29<!-- B6-->
+|  style="background: lightGray" | '''156'''<!-- B9-->
+|  0<!-- B12-->
+|  0<!-- Ch.-->
+|  6<!-- C-->
+|  0<!-- D-->
+|  3<!-- E-->
+|  9<!-- K-->
+|  13<!-- Ca-->
+|  style="background: lightGray" | '''52'''<!-- Fe-->
+|  style="background: lightGray" | '''53'''<!-- Mg-->
+|  style="background: lightGray" | '''52'''<!-- P-->
+|  27<!-- K-->
+|  0<!-- Na-->
+|  28<!-- Zn-->
+|  0<!-- Cu-->
+|  49<!-- Mn-->
+|  0<!-- Se-->
+|-
+!style="background: khaki" |  Chana Dal (chickpea)
+|  25<!-- Protein -->
+|  1<!-- A -->
+|  32<!--  B1-->
+|  12<!-- B2-->
+|  8<!-- B3-->
+|  16<!-- B5-->
+|  27<!-- B6-->
+|  style="background: lightGray" | '''139'''<!-- B9-->
+|  0<!-- B12-->
+|  17<!-- Ch.-->
+|  7<!-- C-->
+|  0<!-- D-->
+|  0<!-- E-->
+|  0<!-- K-->
+|  11<!-- Ca-->
+|  35<!-- Fe-->
+|  29<!-- Mg-->
+|  37<!-- P-->
+|  25<!-- K-->
+|  24<!-- Na-->
+|  23<!-- Zn-->
+|  42<!-- Cu-->
+|  style="background: lightGray" | '''110'''<!-- Mn-->
+|  12<!-- Se-->
+|-
+|}
+
+Note: All nutrient values including protein are in %DV per 100 grams of the food item. Significant values are highlighted in light gray color and bold letters.<ref name="nd">{{cite web|url=http://nutritiondata.self.com/facts/legumes-and-legume-products/4338/2|title=Lentils, mature seeds, cooked, boiled, without salt per 100 g|publisher=Nutritiondata.com by Conde Nast; from USDA National Nutrient Database, Standard Reference 21|year=2014|access-date=29 September 2015}}</ref><ref>{{cite web|url=https://fdc.nal.usda.gov/fdc-app.html#/?component=0|title=Show Nutrients List|work=usda.gov|access-date=29 September 2015|archive-date=3 April 2019|archive-url=https://web.archive.org/web/20190403171801/https://fdc.nal.usda.gov/fdc-app.html#/?component=0|url-status=dead}}</ref>
+Cooking reduction = % Maximum typical reduction in nutrients due to boiling without draining for ovo-lacto-vegetables group.<ref>{{Cite web|url=https://www.ars.usda.gov/ARSUserFiles/80400525/Data/retn/retn06.pdf|title = USDA Table of Nutrient Retention Factors, Release 6|date = Dec 2007|website = USDA|publisher = USDA.}}</ref><ref>{{cite web|url=http://nutritiondata.self.com/topics/processing|title=Nutritional Effects of Food Processing|work=self.com|access-date=29 September 2015}}</ref>
+
+==Common ingredients==
+* [[Pigeon pea]], i.e., yellow pigeon pea, is available either plain or oily. It is called ''toor dal'' in Hindi. It is called ''thuvaram paruppu'' in Tamil Nadu, ''thuvara parippu'' in Kerala and is the main ingredient for the dish ''[[Sambar (dish)|sambar]]''. In Karnataka, it is called ''togari bele'' and is an important ingredient in ''[[Bisi Bele Bath|bisi bele bath]]''. It is called ''kandi pappu'' in Telugu and is used in the preparation of a staple dish ''pappu charu''. It is also known as arhar dal in northern India.{{citation needed|date=September 2024}}
+* ''Chana dal'' is produced by removing the outer layer of black [[chickpeas]] and then splitting the kernel''.'' Although machines can do this, it can be done at home by soaking the whole chickpeas and removing the loose skins by rubbing.  In [[Karnataka]] it is called {{Transliteration|kn|kadle bele}}. [[Chickpea#Varieties|Other varieties of chickpea]] may be used, e.g., ''[[kabuli chana|kabuli]] dal''.
+* [[Yellow split peas]] are very prevalent in the Indian communities of [[Guyana]], [[Fiji]], [[Suriname]], [[Jamaica]], [[South Africa]], [[Mauritius]], [[Trinidad and Tobago]], and are popular amongst Indians in the United States as well as India. There, it is referred to generically as dal and is the most popular dal. It is prepared similarly to dals found in India, but may be used in recipes. The whole dried pea is called ''matar'' or ''matar dal'' in India. The whole dried yellow pea is the main ingredient in the common [[Bengalis|Bengali]] street food ''[[ghugni]]''.
+* Split [[mung bean]]s (''mung dal'') is by far the most popular in [[Bangladesh]] and [[West Bengal]] (''moog dal'', (মুগ ডাল)). It is used in parts of South India, such as in the [[Tamil cuisine|Tamil]] dish ''[[Pongal (dish)#Venn pongal|ven pongal]]''. Roasted and lightly salted or spiced mung bean is a popular snack in most parts of India.
+* ''[[Vigna mungo|Urad dal]]'', sometimes referred to as "black gram", is a primary ingredient of the south Indian dishes ''[[idli]]'' and ''[[Dosa (food)|dosa]]''. It is one of the main ingredients of East Indian ([[Oriya cuisine|Odia]] and [[Bengali cuisine|Bengali]] or [[Assamese people|Assamese]]) ''[[Bori (food)|bori]]'', sun-dried dumplings. The [[Punjabi cuisine|Punjabi]] version is {{Transliteration|pa|[[dal makhani]]}}. It is called {{Transliteration|kn|uddina bele}} in Karnataka, {{Transliteration|bn|biulir dal}} in Bengali. It is rich in protein.
+* ''Masoor dal:'' split red [[lentil]]s. In Karnataka, it is called ''kempu'' (red)'' togari bele''.
+* ''Rajma dal'': split [[kidney bean]]s.
+* ''[[Mussyang]]'' is made from dals of various colours found in various hilly regions of Nepal.
+* ''[[Panchratna Dal|Panchratna dal]]'' (Hindi) ("five jewels") is a mixture of five varieties of dal, which produces a dish with a unique flavour.
+* ''[[Navrangi dal]]'' is a lesser known Dal variety from Himachal Pradesh. It is mostly cultivated in Himachal and is multicoloured.
+* ''Moth bean'': is an Indian dal main ingredient for popular Indian snack bikaneri bhujia and Maharashtrian snacks misal and usal.
+* Pulses may be split but not hulled; they are distinguished from hulled dals by adding the word ''chilka'' (skin).
+
+== Gallery ==
+<gallery widths="200" heights="200">
+File:Split Red Lentil.jpg|Split red lentil seeds
+File:Tur Dal.JPG|Split [[pigeon pea]], commonly used in dal
+File:Dal tadka and chapati.jpg|Dal tadka and chapati
+File:A thali with daal roti bhindi ki sabzi and mango pickle.jpg|Plain dal served with roti, sauteed okra and green-mango pickle.
+File:Sanna (Commons).jpg|[[Idli]]s, steamed rice and black lentil cakes
+File:Dal Fry Tadka, Cumin Rice, Roasted Papad on the side.jpg|''Dal tadka'' served with rice and [[papadum|papadam]], a staple meal in the Indian subcontinent
+File:Roasted Papad - Howrah 2013-11-02 4068.jpg|Fire-toasted [[papad]]s, using lentils as a major ingredient
+File:Dhokla on Gujrart.jpg|[[Dhokla]], a steamed, fermented chana dal snack using lentils
+</gallery>
+
+==See also==
+{{Portal|Food}}
+* ''[[Dal bhat]]''
+* ''[[Dal bati churma]]''
+* ''[[Dal biji]]''
+* [[Ezogelin soup]]
+* [[Fasole bătută]]
+* [[Lentil soup]]
+* [[Monggo]] (Philippine version of dal)
+* [[Pea soup]]
+{{Clear}}
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* {{cite book |author1=Salma Husain |author2=Vijay Thukral |title=Pull of Pulses: Full of Beans |url=https://books.google.com/books?id=fHKQtAEACAAJ |year=2018 |publisher=Niyogi |isbn=978-93-86906-19-9}}
+
+{{Indian Dishes}}
+{{Pakistani dishes}}
+{{Sri Lankan cuisine}}
+{{Legume dishes}}
+
+[[Category:Andhra cuisine]]
+[[Category:Bangladeshi soups and stews]]
+[[Category:Bengali cuisine]]
+[[Category:Bihari cuisine]]
+[[Category:Indian soups and stews]]
+[[Category:Indo-Caribbean cuisine]]
+[[Category:Legume dishes]]
+[[Category:Lentil dishes]]
+[[Category:Muhajir cuisine]]
+[[Category:Nepalese cuisine]]
+[[Category:Pakistani soups and stews]]
+[[Category:Plant common names]]
+[[Category:Punjabi cuisine]]
+[[Category:Rajasthani cuisine]]
+[[Category:Uttar Pradeshi cuisine]]
+[[Category:Sri Lankan legume dishes]]
+[[Category:Gujarati cuisine]]
+[[Category:Kutchi cuisine]]
+[[Category:Indian cuisine]]
+[[Category:Pakistani cuisine]]
+[[Category:Fijian cuisine]]
+[[Category:Assamese cuisine]]

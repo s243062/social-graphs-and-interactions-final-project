@@ -1,0 +1,88 @@
+{{Short description|Slovenian sausage}}
+{{Use dmy dates|date=September 2021}}
+
+{{Refimprove|date=October 2011}}
+{{Infobox prepared food
+| name             = Carniolan sausage
+| image            = Carniolian sausage - Kranjska klobasa - Klobasarna Ljubljana.jpg
+| caption          = Carniolian sausage served with a bun, mustard and horseradish, Ljubljana, Slovenia
+| country          = [[Slovenia]]
+| region           = Territory of the former [[Duchy of Carniola|Carniola]]
+| creator          =
+| course           = [[Sausage]]
+| served           =
+| main_ingredient  = [[Pork]]<br>[[Garlic]]
+| variations       = Käsekrainer
+| calories         =
+| other            =
+| no_recipes       = true
+| no_commons       = true
+}}
+The '''Carniolan sausage''' ({{langx|sl|kranjska klobasa}}, {{langx|sh|kranjska kobasica}}, {{langx|en-AU|kransky}}, {{langx|de|Krainer Wurst}}, [[Italian dialect of Trieste]]: ''luganighe de Cragno'') is a [[Slovenia]]n [[Brühwurst|parboiled sausage]] similar to what is known as [[kielbasa]] or Polish sausage in North America.
+
+The noun ''klobasa'' refers to a small sausage generally served whole (in contrast to ''salama'') in Slovene. The adjective ''kranjska'' derives from the region of [[Carniola]] (''Kranjska'' in Slovene, ''Krain'' in German), which used to be a duchy of the [[Austrian Empire]]. The earliest mention of the Carniolan sausage in German is found in [[Katharina Prato]]'s renowned cookbook ''Süddeutsche Küche'' (South German Cooking, 1896, first edition 1858). The Slovene term ''kranjska klobasa'' was first mentioned in the sixth edition of ''Slovenska kuharica'' (Slovene Cookbook) by [[Felicita Kalinšek]] in 1912.<ref>{{Cite book |title=Taste Slovenia |author=Bogataj Janez |year=2007 |publisher=Rokus Gifts |isbn=978-9-6165-3139-9}}</ref>
+
+The Carniolan sausage contains at least 75 to 80% [[pork]] (aside from [[bacon]]) and at most 20% bacon. It may contain as much as 5% water, the [[sea salt]] from [[Sečovlje salt pans]], little [[garlic]], [[saltpetre]] and [[black pepper]]. No other ingredients are permitted. The meat must be cut in small pieces 10 to 13&nbsp;mm and bacon 8 to 10&nbsp;mm. The filling is stuffed into pork intestine with a diameter of 32 to 36&nbsp;mm. They are formed in pairs of {{convert|12|to|16|cm|abbr=on}} lengths and a weight of 180 to 220&nbsp;grams. Pairs are linked together with a wooden skewer. The sausages are hot smoked and heat-cured at about {{convert|70|C|F}}.
+
+== Variations and preparation ==
+[[File:Käsekrainer.jpg|thumb|Käsekrainer made in Austria]]
+The ''[[Käsekrainer]]'' is a variation of this sausage made with small chunks of [[cheese]] – it contains 10% to 20% cheese (e.g., [[Emmental cheese| Emmentaler]]) cut into small cubes. ''Käsekrainer'' were first made in Austria in the early 1980s. {{As of|2019}} they are a standard offering at sausage stands ([[Würstelstand|Würstelstände]]). ''Käsekrainer'' can be boiled, baked or grilled. It is essential to keep them on low to medium heat; otherwise the outside may get burned and the inside remains cold. Care should be taken when preparing them, because the cheese can become quite hot; the sausages should not be cut or poked while cooking, otherwise the melting cheese would be released.
+
+The sausage can be served with [[mustard (condiment)|mustard]], [[ketchup]] and a piece of dark [[bread]]; or – in the most common form in Austria – as a ''Käsekrainer-Hot-Dog''. (By ''Hot Dog'' Austrians mean the bun, not the sausage.) The bread used is somewhat similar to a French [[baguette]], but shorter ({{convert|200|to(-)|250|mm|abbr=on}} long) and has a different texture and recipe,  hence not called a baguette but a bun. The bun is cut open at one end and a hole is poked into it with a warm {{convert|1|in|mm|adj=mid|-diameter}} metal rod. The next step is to put sauce in the hole. Austrians usually select from the following three sauces: sharp mustard, sweet mustard and ketchup.
+
+== The (cheese) kransky in Australia ==
+In the late 1940s and the 1950s, post-war immigrants from Yugoslavia introduced ''kranjska klobasa'' into Australia, where it became known as ''kransky''. Cheese kransky is very popular in Australia and in New Zealand.<ref>{{ cite web
+	| url = https://adelaidewideopen.com/australian-kransky-sausage-guide/
+	| title = Australian kransky sausage guide 
+	| last= Falcon  
+	| date = June 3, 2021 
+    | publisher = Adelaide Wide Open 
+	| access-date = 2023-08-05
+}}</ref><ref> {{ cite web
+	| url = https://theworstofperth.com/2007/10/08/kranskys-smoke-em-if-you-got-em/
+	| title = Kranskys – Smoke 'em if you got 'em.
+    | first = AHC 
+	| last =  McDonald
+    | publisher = The Worst of Perth
+	| date = October 8, 2007 
+	| access-date = 2023-08-05
+}} </ref>
+
+Like the [[Meat_pie_(Australia_and_New_Zealand)|pie]], the [[sausage roll]], the fried [[Dim Sim|dim sim]] and the [[Chiko Roll|Chiko roll]], the cheese kransky (often with chilli and sometimes wrapped in pastry<ref>{{ cite web
+	| url = https://www.foodstandards.gov.au/industry/foodrecalls/recalls/Pages/Banger-chilli-cheese-kransky-150g.aspx
+    | title = Balfours Banger Chilli Cheese Kransky 150g         
+    | date = Jul 25, 2019
+	| publisher = Food Standards Australia
+	| access-date = 2023-08-05
+}}</ref>) is a takeaway staple.
+
+== Protection regime ==
+In January 2015, Slovenia successfully entered it into the register of [[protected geographical indication]]s (PGIs), despite objections by Austria, Croatia and Germany.<ref>{{cite news|url=http://www.mkgp.gov.si/nc/si/media_room/news/article/1328/7838/ |title=Kranjska klobasa approved as the 22nd protected Slovenian product in the EU |date=7 January 2015 |publisher=Ministry of Agriculture, Forestry and Food, Republic of Slovenia |url-status=dead |archive-url=https://web.archive.org/web/20160304115120/http://www.mkgp.gov.si/nc/si/media_room/news/article/1328/7838/ |archive-date=4 March 2016}}</ref>
+
+* [[Geographical indications and traditional specialities in the European Union|Protected geographical indication (PGI) in the European Union]]
+
+== See also ==
+{{portal|Food}}
+* [[Slovenian cuisine]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+
+* Jernej Mlekuž. 2019. "[[doi:10.1111/nana.12572|The renaissance of sausage: The role of Kranjska sausage in the contemporary process of reconstructing the Slovenian nation.]]" ''Nations and Nationalism.''
+
+== External links ==
+{{Commonscat|Kranjska klobasa|Carniolian sausage}}
+* [https://www.slovenia.info/en/press-centre/news-of-the-tourism-press-agency/5939-the-famous-kranjska-sausage ''Kranjska klobasa'' with photos, in English]
+
+{{Bacon}}
+{{Sausage}}
+
+
+[[Category:Australian snack foods]]
+[[Category:Australian sausages]]
+[[Category:Slovenian cuisine]]
+[[Category:Cooked sausages]]
+[[Category:Bacon dishes]]
+[[Category:Culture of Carniola]]

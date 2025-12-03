@@ -1,0 +1,454 @@
+{{Short description|Polish dish of chopped meat & sauerkraut}}
+{{For|the Polish player of Canadian football|Arek Bigos}}
+{{Infobox food
+| name             = Bigos
+| image            = Bigos (1).jpg
+| caption          = A plate of ''bigos''
+| alt              = A plate of bigos
+| country          = Poland
+| national_cuisine = [[Polish cuisine|Polish]]
+| region           = [[Central Europe]] and [[Eastern Europe]]
+| type             = [[Stew]]
+| course           = Hot starter or main dish
+| served           = Hot
+| main_ingredient  = Various meats, sauerkraut, cabbage
+| no_recipes       = true
+| no_commons       = true
+}}
+
+'''Bigos''' ({{IPA|pol|ˈbʲiɡɔs|audio=Pl-bigos.ogg}}),{{efn|{{langx|uk|бігус}}; {{langx|be|бігас}},{{sfnp|Krapiva|2003|p=389}} ''{{Transliteration|be|bihas}}'', or бігус,{{sfnp|Martynav|1978|p=348}} ''{{Transliteration|be|bihus}}'', {{langx|lt|bigusas}}}} often translated into English as '''hunter's stew''', is a [[Polish cuisine|Polish]] dish of chopped meat of various kinds stewed with [[sauerkraut]], shredded fresh cabbage and spices. It is served hot and can be enriched with additional vegetables and wine.<ref>{{Cite web|date=2017-12-15|title=The best dishes of traditional Polish cuisine|url=https://thefad.pl/english-newsletter/the-best-dishes-of-traditional-polish-cuisine/|access-date=2021-05-13|website=TheFad.pl - Polska i Świat. Opinie i komentarze|language=pl}}</ref> Originally from Poland, the dish also became traditional in the areas of the vast [[Polish–Lithuanian Commonwealth]].{{sfnp|Szymanderska|2010|p=517}}{{sfnp|Pokhlebkin|2004|p=113}}
+
+== Etymology ==
+The Polish word ''{{lang|pl|[[wikt:bigos|bigos]]}}'' is probably of Italian or German origin, but its exact etymology is disputed. According to the Polish loanword dictionary edited by Elżbieta Sobol, it may derive from German ''{{lang|de|begossen}}'', meaning "doused" or "basted".{{sfnp|Sobol|1995|loc=[http://netsprint.swo.pwn.pl/haslo.php?id=3112 "bigos"]}} Jerzy Bralczyk similarly derives the word from archaic German ''{{lang|de|Beiguss}}'', "sauce".{{sfnp|Bralczyk|2014|p=15}} [[Aleksander Brückner]] has proposed the German ''{{lang|de|Bleiguss}}'', "piece of lead",{{sfnp|Brückner|1927|loc=[[s:pl:Słownik etymologiczny języka polskiego/bigos|"bigos"]]}} as a possible source, referring to a tradition of divining from strangely shaped flakes of molten lead dropped into water. [[Maria Dembińska]] rejects this etymology as "doubtlessly erroneous", suggesting instead either archaic German ''{{lang|de|becken}}'', "to chop", or old German ''{{lang|de|bîbôz}}'' (''{{lang|de|Beifuss}}'' in modern German), meaning "mugwort" (''[[Artemisia vulgaris]]''), a herb that was popular in medieval cuisine.{{sfnp|Dembińska|1999|p=21}} Andrzej Bańkowski also points to the Italian ''{{lang|it|bigutta}}'', or "pot for cooking soup", as a possible derivation via German.{{sfnp|Bańkowski|2000|p=51}}
+
+== Ingredients and preparation ==
+The principal ingredients of ''{{lang|pl|bigos}}'' are assorted kinds of meat chopped into bite-sized chunks and a mixture of [[sauerkraut]] and shredded fresh white cabbage. The meats may include [[pork]] (such as [[ham]], shoulder, [[bacon]], [[Ribs (food)|ribs]], and [[Pork loin|loin]]), [[beef]] and [[veal]], [[poultry]] ([[Chicken as food|chicken]], [[Duck (food)|duck]], [[Domestic goose|goose]], [[Turkey meat|turkey]]) and [[Game (hunting)|game]], as well as [[charcuterie]], especially various kinds of ''{{lang|pl|[[kiełbasa]]}}''.{{sfnp|Kuroń|2004|pp=113–114}}{{sfnp|Strybel|Strybel|2005|pp=320, 778–779}}{{sfnp|Szymanderska|2010|p=249}} The variety of meats is considered essential for good ''{{lang|pl|bigos}}''; its preparation may be a good occasion to clean out one's freezer and use up leftovers from other meat dishes.{{sfnp|Strybel|Strybel|2005|p=31}}{{sfnp|Applebaum|Crittenden|2012|p=184}}{{sfnp|Monaghan|2011}} Some of the meats may be roasted before being diced together with other cuts of meat and braised in [[lard]] or [[vegetable oil]].{{sfnp|Kuroń|2004|pp=113–114}}{{sfnp|Strybel|Strybel|2005|p=320}}
+
+[[File:Bigos-445017.jpg|thumb|left|Closeup of ''{{lang|pl|bigos}}'']]
+The sauerkraut is often rinsed and drained before being chopped and mixed with shredded fresh cabbage. The proportion depends on the sauerkraut's maturity; the longer it has cured, the more sour it tastes, calling for more fresh cabbage to balance the flavor. Traditionally, cabbage was pickled in fall, so ''{{lang|pl|bigos}}'' made at that time could be made with only half-cured sauerkraut, but by early spring, the sauerkraut had to be combined in equal parts with fresh cabbage.{{sfnp|Kuroń|2004|p=113}} The mixture is precooked in a small amount of water before being mixed with the braised meat and left to simmer for several hours. Ideally, the stew should thicken through evaporation alone,{{sfnp|Dembińska|1999|pp=23, 169}} but flour, [[roux]], crumbled rye bread or a grated raw potato may be added to it to take up excess moisture.{{sfnp|Strybel|Strybel|2005|p=454}}{{sfnp|Kuroń|2004|p=112}}{{sfnp|Lemnis|Vitry|1979|p=248}}
+
+Other ingredients often added to ''{{lang|pl|bigos}}'' include [[onion]]s, diced and browned in lard together with the meat, and dried forest [[Edible mushroom|mushrooms]]{{sfnp|Strybel|Strybel|2005|p=396}} that are precooked separately in boiling water. The stew is usually seasoned with salt, [[black pepper]]corns, [[allspice]], [[juniper berry|juniper berries]] and [[Laurus nobilis|bay leaves]].{{sfnp|Strybel|Strybel|2005|p=43}} Some recipes also call for [[caraway]], [[clove]]s, [[garlic]], [[marjoram]], [[mustard seed]]s, [[nutmeg]], [[paprika]] and [[thyme]].{{sfnp|Kuroń|2004|pp=113–114}}{{sfnp|Strybel|Strybel|2005|pp=56, 59}} The tart flavor of sauerkraut may be enhanced by adding some dry [[red wine]]{{sfnp|Strybel|Strybel|2005|p=320}}{{sfnp|Lemnis|Vitry|1979|p=248}} or beet sour (fermented [[beetroot]] juice that is also a traditional ingredient of [[borscht]]), which may impart a reddish hue to the stew.{{sfnp|Strybel|Strybel|2005|p=28}}{{sfnp|Kuroń|2004|p=112}} ''{{lang|pl|Bigos}}'' is often slightly sweetened with sugar, [[honey]], [[raisin]]s, [[prune]]s or plum butter known in Polish as ''{{lang|pl|[[powidl|powidła]]}}''.{{sfnp|Strybel|Strybel|2005|p=732}}{{sfnp|Szymanderska|2010|p=249}}
+
+[[File:Żywność - 032.JPG|thumb|A bowl of ''{{lang|pl|bigos}}'']]
+Traditionally, ''{{lang|pl|bigos}}'' is stewed in a cauldron over an open fire or in a large pot on a stove, but it may also be prepared in an electric [[slow cooker]].{{sfnp|Strybel|Strybel|2005|p=10}} The contents should be stirred from time to time, to prevent scorching, which may impart a bitter taste to the entire batch.{{sfnp|Strybel|2007|p=80}} ''{{lang|pl|Bigos}}'' is considered best after it has been repeatedly refrigerated and reheated to allow the flavors to fuse.{{sfnp|Strybel|Strybel|2005|p=173}}{{sfnp|Dembińska|1999|pp=169}}
+
+== Varieties ==
+The flexible and forgiving recipe for ''{{lang|pl|bigos}}'' allows a great number of variants, often simply using what ingredients are at hand.{{sfnp|Monaghan|2011}} It is often claimed that there are as many recipes as there are cooks in Poland.{{sfnp|Applebaum|Crittenden|2012|p=184}}{{sfnp|Spysz|Turek|2014|loc=Chapter 26}}
+
+In the region of [[Greater Poland]], ''{{lang|pl|bigos}}'' typically contains [[tomato paste]] and is seasoned with garlic and marjoram.{{sfn|Lista produktów tradycyjnych|loc=[http://www.minrol.gov.pl/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-wielkopolskie/Bigos-wielkopolski Bigos wielkopolski]}} [[Kuyavia]]n ''{{lang|pl|bigos}}'' is often made from [[red cabbage]] as well as white.{{sfnp|Szymanderska|2010|p=163}} In [[Silesia]], it is usually mixed with ''{{lang|pl|[[kopytka]]}}'' or ''{{lang|pl|kluski}}'', that is, small plain boiled dumplings made from unleavened dough that contains flour and [[mashed potato]]es.{{sfnp|Strybel|Strybel|2005|p=475}}{{sfn|Lista produktów tradycyjnych|loc=[http://www.minrol.gov.pl/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-slaskie/Bigos-slaski Bigos śląski]}}{{sfnp|Szymanderska|2010|p=408}} A variant which contains [[Julienning|julienned]] apples, preferably with a winey tart taste, such as [[Antonovka]], is known as Lithuanian ''{{lang|pl|bigos}}'' and is typical for the territory of the erstwhile [[Grand Duchy of Lithuania]] (now Belarus, Lithuania and Ukraine).{{sfnp|Szymanderska|2010|p=517}}{{sfnp|Pokhlebkin|2004|p=113}}
+[[File:Bigos (Malta).jpg|alt=Bigos in bowl|thumb|A serving of bigos]]
+In ''{{lang|pl|bigos myśliwski}}'', or "hunter's ''{{lang|pl|bigos}}''", at least part of the meat comes from game, such as [[wild boar]], [[venison]] or [[hare]].{{sfnp|Kuroń|2004|p=113}} It is usually seasoned with juniper berries, which help neutralize [[off-flavor]]s that may be found in the meat of wild animals.{{sfnp|Strybel|Strybel|2005|p=45}}
+
+== Serving ==
+[[File:Bigos in Kraków.jpg|thumb|Bigos served in a bread bowl served with beer]]
+As a dish that does not spoil quickly and is thought to improve with each reheating, ''{{lang|pl|bigos}}'' has been traditionally used as a provision for travellers{{sfn|Chwalba|2008|p=152}}{{sfnp|Gloger|1900|loc=[[s:pl:Encyklopedia staropolska/Bigos|"Bigos"]]}} and campers or consumed at outdoor events, such as a hunt or a carnival sleigh ride known in Polish as ''{{lang|pl|[[kulig]]}}''.{{sfnp|Olszewska Heberle|2005|p=8}}{{sfnp|Kuroń|2004|p=112}}{{sfnp|Strybel|2007|pp=77, 210}} It may be also eaten indoor, for breakfast, supper or as a hot starter served before soup at a dinner party.{{sfnp|Strybel|Strybel|2005|p=164}}{{sfnp|Spysz|Turek|2014|loc=Chapter 26}} It is commonly found on the menus of [[Bar mleczny|milk bars]], pubs and bistros throughout Poland.{{sfnp|Dembińska|1999|p=21}} ''{{lang|pl|Bigos}}'' is particularly associated with major Catholic holidays, such as [[Christmas]] and [[Easter]], as it can be prepared in ample quantities beforehand and only reheated on the holiday itself and the following days.{{sfnp|Olszewska Heberle|2005|p=8}}{{sfnp|Lemnis|Vitry|1979|p=248}} Bigos can be stored for a long time and is often frozen for later consumption, which actually enhances its flavor.{{Citation needed|date=October 2025}}
+
+The stew is typically dished up with [[rye bread]] or boiled potatoes.{{sfnp|Monaghan|2011}}{{sfnp|Strybel|2007|p=92}} 
+In a fancier setting, it may be served in stoneware bowls,{{sfnp|Strybel|Strybel|2005|p=164}} [[puff pastry]] shells{{sfnp|Strybel|Strybel|2005|p=175}} or [[bread bowl]]s. ''{{lang|pl|Bigos}}'', especially when enjoyed outdoors, is traditionally paired with shots of chilled [[vodka]], either clear or flavored.{{sfnp|Lemnis|Vitry|1979|p=248}} Varieties of flavored vodka that match well with ''{{lang|pl|bigos}}'' include ''{{lang|pl|[[żubrówka]]}}'' ([[Hierochloe odorata|bison grass]]), ''{{lang|pl|jałowcówka}}'' (juniper), ''{{lang|pl|[[piołunówka]]}}'' ([[Artemisia absinthium|wormwood]]), ''{{lang|de|[[Goldwasser]]}}'' (various herbs) and ''{{lang|pl|[[starka]]}}'' (oak-aged).{{sfnp|Strybel|Strybel|2005|p=173}}{{sfnp|Gloger|1900|loc=[[s:pl:Encyklopedia staropolska/Bigos|"Bigos"]]}} If served at home or in a restaurant, the stew may be paired with beer, red wine or [[Riesling]].{{sfnp|Ermochkine|Iglikowski|2003|pp=31–32}}{{sfnp|Monaghan|2011}}
+[[File:Bigos and kopytka.JPG|thumb|Traditional Polish Bigos with Kopytka as a side dish]]
+
+== History ==
+According to Polish food historian Maria Dembińska, ''{{lang|pl|bigos}}'' may derive from a medieval dish known in [[Medieval Latin|Latin]] as ''{{lang|la|compositum}}'', or "mixture". It was made from various vegetables, such as cabbage, chard and onions, that were chopped or shredded, layered inside an earthenware three-legged [[Dutch oven]] and braised or baked.{{sfnp|Dembińska|1999|p=150}} A remnant of this old procedure may be found in a ''{{lang|pl|bigos}}'' recipe, in which bacon and cabbage are arranged in layers, from the 19th-century Russian cookbook ''[[A Gift to Young Housewives]]'' by [[Elena Molokhovets]].{{sfnp|Dembińska|1999|p=22}} It is believed this dish was introduced in the region by [[Sephardic Jews]] coming from the Portuguese region of [[Alentejo]], replacing ingredients with regional produce. Similar layered dishes of medieval origin also exist in other European cuisines; they include the Italian ''{{lang|it|mescolanza}}'' (known in 16th-century Poland under the Polonized name ''{{lang|it|miszkulancja}}'') and the [[Alsace|Alsatian]] ''{{lang|gsw|[[Baeckeoffe]]}}''  (also known as ''{{lang|fr|[[potée]] boulangère}}''), made from cabbage, leftover meats and fruits.{{sfnp|Dembińska|1999|pp=20–21}} They are reminiscent of a rustic Polish casserole, known in various regions as ''{{lang|pl|pieczonka, prażonki, duszonki, maścipula}}'', and other names. It is traditionally made from sliced or diced potatoes, onions, carrots, sausages and bacon arranged in layers inside a cast-iron cauldron greased with lard and lined with cabbage leaves, which is placed in bonfire embers for baking.{{sfnp|Szymanderska|2010|pp=578, 580}}{{sfn|Lista produktów tradycyjnych|loc=[http://www.minrol.gov.pl/pol/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-slaskie/Porebskie-prazonki Porębskie prażonki]}}{{sfn|Lista produktów tradycyjnych|loc=[http://www.minrol.gov.pl/pol/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-malopolskie/Prazone-prazonki-polanskie Prażone – prażonki polańskie]}}
+
+[[File:Ziemniaki po cabańsku.JPG|thumb|left|''{{lang|pl|Pieczonka}}'' baked in a cast-iron pot over a campfire]]
+The word "''{{lang|pl|bigos}}''" is not attested before the 17th century.{{sfnp|Dembińska|1999|p=22}} At that time, it referred to any dish of finely chopped components, usually meat or fish – but no cabbage – doused generously with melted butter and heavily seasoned with sour, sweet and spicy ingredients.{{sfnp|Dumanowski|Jankowski|2011|p=213}} [[Stanisław Czerniecki]], head chef to Prince [[Aleksander Michał Lubomirski (died 1677)|Aleksander Michał Lubomirski]], who consistently used the diminutive form ''{{lang|pl|bigosek}}'', included several recipes for it in his ''{{lang|la|[[Compendium ferculorum, albo Zebranie potraw|Compendium ferculorum]]}}'' (''A Collection of Dishes''), the oldest surviving book imprinted and published originally in Polish, in 1682 (however, in ca. 2019, another old cook book has been found which included recipes from the earlier, e.i. the 16th century lost Polish cook book, the oldest one<ref>{{Cite web|date=2021-12-23|title=Kuchmistrzostwo. Zagubiona książka kucharska ukazała się w Krakowie prawie 500 lat temu|url=https://plus.dziennikpolski24.pl/kuchmistrzostwo-zagubiona-ksiazka-kucharska-ukazala-sie-w-krakowie-prawie-500-lat-temu/ar/c15-15967157|access-date=2022-02-12|website=plus.dziennikpolski24.pl|language=pl}}</ref>). They include ''{{lang|pl|bigosek}}'' prepared with chopped [[capon]],{{sfnp|Czerniecki|1682|p=33}} [[hazel grouse]],{{sfnp|Czerniecki|1682|p=35}} [[carp]], [[Northern pike|pike]],{{sfnp|Czerniecki|1682|p=56}} and [[Crayfish as food|crawfish]] with beef [[Bone marrow (food)|marrow]].{{sfnp|Czerniecki|1682|p=25}} Seasonings that appear in most of these recipes include onions, [[wine vinegar]], [[lemon]] or [[Lime (fruit)|lime]] juice, [[verjuice]], [[sorrel]], sugar, raisins, black pepper, [[cinnamon]], nutmeg, cloves and [[cumin]]. A manuscript recipe collection from the [[Radziwiłł]] family court, dating back to ca. 1686, contains instructions for cooking ''{{lang|pl|bigos}}'' of roast beef,{{sfnp|Dumanowski|Jankowski|2011|p=139}} fried fish{{sfnp|Dumanowski|Jankowski|2011|p=155}} and even chopped ''{{lang|fr|[[crêpe]]s}}'' (thin pancakes).{{sfnp|Dumanowski|Jankowski|2011|p=173}} ''{{lang|pl|Kucharz doskonały}}'' (''The Perfect Cook''), a cookbook published by [[Wojciech Wielądko]] in 1783, contains recipes for beef, veal, wether [[mutton]], [[oyster]], as well as root vegetable ''{{lang|pl|bigos}}'' (the latter was a mixture of carrots, [[parsnip]], [[rutabaga]] and [[celeriac]]).{{sfnp|Dumanowski|2015}}{{sfnp|Dumanowski|2012}}
+
+''{{lang|pl|Bigos}}'' made entirely of meat and exotic spices was affordable only to the affluent Polish [[szlachta|nobility]]. The 18th century saw the development of a poor man's version of the dish, known as ''{{lang|pl|bigos hultajski}}'', or "rascal's ''{{lang|pl|bigos}}''", in which vinegar and lemon juice were replaced with cheaper sauerkraut as the source of tartness.{{sfnp|Dumanowski|Jankowski|2011|p=213}} Sauerkraut and cabbage also acted as a filler allowing to reduce the amount of meat in the dish. Rascal's ''{{lang|pl|bigos}}'' became common during the reign of King [[Augustus III of Poland]] (r. 1734–1763).{{sfnp|Kitowicz|1840|p=146}} Over the course of the 19th century, its rise in popularity continued as the proportion of meat decreased in favor of sauerkraut, eventually superseding all other kinds of ''{{lang|pl|bigos}}'' and losing the disparaging epithet in the process.{{sfnp|Dumanowski|2012}}
+
+== In culture ==
+{{Quote box|quote=<poem>
+In the pots warmed the bigos; mere words cannot tell
+Of its wondrous taste, colour and marvellous smell.
+One can hear the words buzz, and the rhymes ebb and flow,
+But its content no city digestion can know.
+To appreciate the Lithuanian folksong and folk food,
+You need health, live on land, and be back from the wood.
+Without these, still a dish of no mediocre worth
+Is bigos, made from legumes, best grown in the earth;
+Pickled cabbage comes foremost, and properly chopped,
+Which itself, is the saying, will in one's mouth hop;
+In the boiler enclosed, with its moist bosom shields
+Choicest morsels of meat raised on greenest of fields;
+Then it simmers, till fire has extracted each drop
+Of live juice, and the liquid boils over the top,
+And the heady aroma wafts gently afar.
+Now the bigos is ready. With triple hurrah
+Charge the huntsmen, spoon-armed, the hot vessel to raid,
+Brass thunders and smoke belches, like camphor to fade,
+Only in depths of cauldrons, there still writhes there later
+Steam, as if from a dormant volcano's deep crater. </poem>
+|author=[[Adam Mickiewicz]] (translated by [[Marcel Weyland]])
+|source=<br />''[[Pan Tadeusz]]'' (Book Four, ''Diplomacy and the Hunt''){{sfnp|Mickiewicz|2006}}
+|salign=right
+}}
+[[File:Bigas.Jpg|thumb|left|A plate of bigos]]
+''{{lang|pl|Bigos}}'' is considered a Polish [[national dish]],{{sfnp|Strybel|Strybel|2005|p=396}} which, according to American food historian William Woys Weaver, "has been romanticized in poetry, discussed in its most minute details in all sorts of literary contexts, and never made in small quantities."{{sfnp|Dembińska|1999|pp=169}}
+
+The most famous literary monument to ''{{lang|pl|bigos}}'' can be found in ''{{lang|pl|[[Pan Tadeusz]]}}'', a [[mock-heroic]] poem venerated as the Polish national epic, extolling the country life of Polish noblemen in the [[Grand Duchy of Lithuania]], written by [[Adam Mickiewicz]] in 1834. It describes a group of men out in the woods, enjoying the stew of "wondrous taste, colour and marvellous smell" after a successful bear hunt.
+
+==See also==
+* [[Cabbage stew]]
+* [[List of cabbage dishes]]
+* ''{{lang|it|[[Cassoeula]]}}'', a Lombard stew of Savoy cabbage with pork
+* ''{{lang|fr|[[Choucroute garnie]]}}'', an Alsatian dish of sauerkraut and large chunks of various meats and potatoes
+*''{{lang|pl|[[Kapusta kiszona duszona]]}}'', braised sauerkraut usually served as a side dish in Polish cuisine
+* ''{{lang|sr|[[Podvarak]]}}'' and ''{{lang|sr|[[Wedding cabbage|svadbarski kupus]]}}'', Serbian dishes of sauerkraut or cabbage stewed with meat
+* [[List of stews]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+== Sources ==
+{{refbegin|30em}}
+* {{cite book
+| last1         = Applebaum
+| first1        = Anne 
+| author-link1   = Anne Applebaum
+| last2         = Crittenden
+| first2        = Danielle 
+| author-link2   = Danielle Crittenden
+| year          = 2012
+| title         = From a Polish Country House Kitchen: 90 Recipes for the Ultimate Comfort Food
+| publisher     = Chronicle Books
+| location      = San Francisco
+| isbn          = 978-1-4521-2425-4
+}}
+* {{cite book
+| editor-last1  = Bańkowski
+| editor-first1 = Andrzej
+| year          = 2000
+| title         = Etymologiczny słownik języka polskiego
+| trans-title   = Polish etymological dictionary
+| language      = pl
+| publisher     = Wydawnictwo Naukowe PWN
+| volume        = 1
+}}
+* {{cite book
+| last1         = Bralczyk
+| first1        = Jerzy
+| year          = 2014
+| title         = Jeść!!!
+|trans-title=Let me eat!
+| publisher     = BOSZ
+| language      = pl
+| isbn          = 978-83-7576-218-1
+}}
+* {{cite book
+| editor-last1  = Brückner
+| editor-first1 = Aleksander
+| editor-link   = Aleksander Brückner
+| year          = 1927
+| title         = Słownik etymologiczny języka polskiego
+| trans-title   = Polish etymological dictionary
+| language      = pl
+| publisher     = Krakowska Spółka Wydawnicza
+}}
+* {{cite book
+| editor1-last  = Chwalba
+| editor1-first = Andrzej
+| editor-link1   = Andrzej Chwalba
+| year          = 2008
+| title         = Obyczaje w Polsce: Od średniowiecza do czasów współczesnych
+|trans-title=Customs of Poland: From the Middle Ages to Modern Times
+| publisher     = Wydawnictwo Naukowe PWN
+| location      = Warszawa
+| language      = pl
+| isbn          = 978-83-01-14253-7
+}}
+* {{cite book
+| last1         = Czerniecki
+| first1        = Stanisław
+| author-link   = Stanisław Czerniecki
+| year          = 1682
+| title         = Compendium ferculorum, albo Zebranie potraw
+| trans-title   = A Collection of Dishes
+| url           = http://polona.pl/item/3490233/82/
+| language      = pl
+| location      = Kraków
+| publisher     = Drukarnia Jerzego i Mikołaja Schedlów
+}}
+* {{cite book
+| last          = Dembińska
+| first         = Maria
+| editor1-last  = Weaver
+| editor1-first = William Woys 
+| year          = 1999
+| title         = Food and Drink in Medieval Poland: Rediscovering a Cuisine of the Past
+| publisher     = University of Pennsylvania Press
+| location      = Philadelphia
+| isbn          = 0-8122-3224-0
+}}
+* {{cite book
+| editor-last1  = Dumanowski
+| editor-first1 = Jarosław
+| editor-last2  = Jankowski
+| editor-first2 = Rafał
+| year          = 2011
+| title         = Moda bardzo dobra smażenia różnych konfektów
+| trans-title   = A Very Good Way of Frying Various Confections
+| series        = Monumenta Poloniae Culinaria
+| language      = pl
+| location      = Warszawa
+| publisher     = Muzeum Pałac w Wilanowie
+| isbn          = 978-83-60959-18-3
+}}
+* {{cite web
+| last1         = Dumanowski
+| first1        = Jarosław
+| year          = 2012
+| url           = http://dumanowski.natemat.pl/40473,bigos-oswieconych
+| title         = Bigos oświeconych
+| trans-title   = Bigos of the Enlightened
+| website       = naTemat.pl
+| access-date   = 2016-06-17 
+}}
+* {{cite web
+| last1         = Dumanowski
+| first1        = Jarosław
+| year          = 2015
+| url           = http://www.wilanow-palac.pl/polish_cuisine_or_bigos_with_cabbage.html
+| title         = Polish cuisine, or bigos with cabbage
+| website       = Silva Rerum
+| publisher     = Muzeum Pałacu Króla Jana III w Wilanowie
+| access-date   = 2016-06-17 
+}}
+* {{cite book
+| last1         = Ermochkine
+| first1        = Nicholas
+| last2         = Iglikowski
+| first2        = Peter 
+| year          = 2003
+| title         = 40 Degrees East: An Anatomy of Vodka
+| publisher     = Nova Science Publishers
+| isbn          = 978-1-61470-108-8
+}}
+* {{cite book
+| last1         = Gloger
+| first1        = Zygmunt
+| author-link    = Zygmunt Gloger
+| year          = 1900
+| title         = Encyklopedja Staropolska
+|trans-title=Old Polish Encyclopedia
+| publisher     = P. Laskauer i W. Babicki
+| location      = Warszawa
+| language      = pl
+}}
+* {{cite book
+| last1         = Kitowicz
+| first1        = Jędrzej
+| year          = 1840
+| title         = Opis obyczajów i zwyczajów za panowania Augusta III
+|trans-title=Description of customs and habits under Augustus III
+| publisher     = Edward Raczyński
+| location      = Poznań
+| language      = pl
+}}
+* {{cite book
+| editor-last    = Крапіва
+| editor-first   = Кандрат
+| year          = 2003
+| title         = Беларуска-рускі слоўнік
+| volume        = 1
+| publisher     = Беларуская энцыклапедыя імя Петруся Броўкі. Нацыянальная акадэмія навук Беларусі. Інстытут мовазнаўства імя Якуба Коласа
+| location      = Мінск
+| isbn          = 985-11-0271-7
+| language      = be
+| ref           = {{harvid|Krapiva|2003}} }}
+* {{cite book
+| editor-last   = Мартынаў
+| editor-first  = В. У.
+| title         = Этымалагічны слоўнік беларускай мовы
+| year          = 1978
+| volume        = 1
+| publisher     = Навука і тэхніка
+| location      = Мінск
+| language      = be
+| ref           = {{harvid|Martynav|1978}}
+}}
+* {{cite book
+| last          = Kuroń
+| first         = Maciej
+| author-link   = Maciej Kuroń
+| year          = 2004
+| title         = Kuchnia polska: Kuchnia Rzeczypospolitej wielu narodów
+| trans-title   = Polish Cuisine: Cuisine of the Commonwealth of Many Nations
+| publisher     = Czarna Owca
+| language      = pl
+| isbn          = 83-89763-25-7
+}}
+* {{cite book
+| last1         = Lemnis
+| first1        = Maria
+| author1-link  = Tadeusz Żakiej
+| last2         = Vitry
+| first2        = Henryk
+| author2-link  = Tadeusz Żakiej
+| year          = 1979
+| title         = W staropolskiej kuchni i przy polskim stole
+|trans-title=Old Polish Traditions in the Kitchen and at the Table
+| publisher     = Interpress
+| location      = Warszawa
+| language      = pl
+}}
+* {{cite web
+ |title        = Lista produktów tradycyjnych
+ |trans-title  = List of traditional products
+ |url          = http://www.minrol.gov.pl/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych
+ |access-date  = 2016-06-15
+ |publisher    = Ministerstwo Rolnictwa i Rozwoju Wsi
+ |language     = pl
+ |ref          = {{harvid|Lista produktów tradycyjnych}}
+ |archive-url  = https://web.archive.org/web/20180524011143/http://www.minrol.gov.pl/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych
+ |archive-date = 2018-05-24
+ |url-status   = dead
+}}
+* {{cite book
+| last1         = Łozińska
+| first1        = Maja
+| last2         = Łoziński
+| first2        = Jan
+| year          = 2013
+| title         = Historia polskiego smaku: kuchnia, stół, obyczaje
+|trans-title=History of the Polish Taste: Kitchen, Table, Customs
+| publisher     = Wydawnictwo Naukowe PWN
+| location      = Warszawa
+| language      = pl
+| isbn          = 978-83-7705-269-3
+}}
+* {{cite web
+ |last1            = Mickiewicz
+ |first1           = Adam
+ |author-link      = Adam Mickiewicz
+ |translator-last  = Weyland
+ |translator-first = Marcel
+ |translator-link  = Marcel Weyland
+ |year             = 2006
+ |orig-year         = 1834
+ |title            = Pan Tadeusz
+ |url              = http://www.antoranz.net/BIBLIOTEKA/PT051225/PanTad-eng/PT-books/BOOK04.HTM
+ |access-date      = 2016-06-15
+ |archive-url      = https://web.archive.org/web/20170209134144/http://www.antoranz.net/BIBLIOTEKA/PT051225/PanTad-eng/PT-books/BOOK04.HTM
+ |archive-date     = 2017-02-09
+ |url-status         = dead
+}}
+* {{cite news
+| last          = Monaghan
+| first         = Gail
+| author-link   = Gail Monaghan
+| date          = 2011-02-19
+| title         = A Royal Ragout
+| url           = https://www.wsj.com/articles/SB10001424052748703584804576144332584561872
+| access-date   = 2016-06-14
+| newspaper     = The Wall Street Journal
+}}
+* {{cite book |last1      = Olszewska Heberle
+ |first1     = Marianna
+ |year       = 2005
+ |orig-year  = 1991
+ |title      = Polish Cooking
+ |publisher  = Penguin
+ |isbn       = 1-55788-477-3
+ |url-access = registration
+ |url        = https://archive.org/details/polishcooking0000hebe
+}}
+* {{cite book
+| last          = Pokhlebkin
+| first         = William Vasilyevich
+| author-link   = William Pokhlebkin
+| year          = 2004
+| orig-year      = 1978
+| title         = Natsionalnye kukhni nashikh narodov
+| trans-title   = National Cuisines of Our Peoples
+| script-title  = ru:(Национальные кухни наших народов)
+| publisher     = Tsentrpoligraf
+| location      = Moskva
+| language=ru
+| isbn          = 5-9524-0718-8
+}}
+* {{cite book
+| editor-last1  = Sobol
+| editor-first1 = Elżbieta
+| year          = 1995
+| title         = Słownik wyrazów obcych
+| trans-title   = Loanword dictionary
+| language      = pl
+| publisher     = Wydawnictwo Naukowe PWN
+| isbn          = 978-8-3011-1837-2
+}}
+* {{cite book
+| last1         = Spysz
+| first1        = Anna 
+| last2         = Turek
+| first2        = Marta 
+| year          = 2014
+| title         = The Essential Guide to Being Polish
+| publisher     = New Europe Books
+| location      = Williamstown, Massachusetts
+| isbn          = 978-0-9850623-1-6
+}}
+* {{cite book
+| last1         = Strybel
+| first1        = Robert
+| last2         = Strybel
+| first2        = Maria
+| orig-year      = 1993
+| year          = 2005
+| title         = Polish Heritage Cookery
+| publisher     = Hippocrene Books
+| location      = New York
+| isbn          = 0-7818-1124-4
+}}
+* {{cite book
+| last1         = Strybel
+| first1        = Robert
+| orig-year      = 2003
+| year          = 2007
+| title         = Polish Holiday Cookery
+| publisher     = Hippocrene Books
+| location      = New York
+| isbn          = 978-0-7818-0994-8
+}}
+* {{cite book
+| last1         = Szymanderska
+| first1        = Hanna
+| year          = 2010
+| title         = Kuchnia polska: Potrawy regionalne
+|trans-title=Polish Cuisine: Regional Dishes
+| publisher     = Świat Książki
+| location      = Warszawa
+| language      = pl
+| isbn          = 978-83-7799-631-7
+}}
+{{refend}}
+
+==External links==
+* {{Cookbook-inline}}
+* {{Commons category-inline}}
+* {{Wikiquote-inline}}
+* {{cite web
+ | url         = https://www.bbc.co.uk/food/recipes/bigos_stew_69890
+ | title       = Bigos stew
+ | last1       = Myers
+ | first1      = David
+ | last2       = King
+ | first2      = Simon
+ | website     = Recipes from Programmes: The Hairy Bikers' Northern Exposure
+ | publisher   = BBC
+ | access-date = 2016-05-13
+ }} Note: the hosts mispronounce "bigos" as "bigosh".
+
+[[Category:Polish stews]]
+[[Category:Polish cuisine]]
+[[Category:Belarusian cuisine]]
+[[Category:Ukrainian cuisine]]
+[[Category:Lithuanian cuisine]]
+[[Category:National dishes]]
+[[Category:Cabbage soups]]
+[[Category:Christmas food]]
+[[Category:Easter food]]
+[[Category:Catholic cuisine]]
+[[Category:Chicken soups]]
+[[Category:Meat stews]]

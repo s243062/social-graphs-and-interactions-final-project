@@ -1,0 +1,166 @@
+{{pp|small=yes}}
+{{Short description|Middle Eastern fried bean dish}}
+{{About|the Middle Eastern food|the film|Falafel (film)|the backgammon player|Matvey Natanzon}}
+{{Use dmy dates|date=August 2021}}
+{{Use American English|date=August 2025}}
+{{Good article}}
+{{Infobox food
+|name=Falafel
+|image=File:Falafels 2.jpg
+|image_size=300
+|caption=Falafel balls
+|alternate_name=Felafel
+|region=Middle East
+|place_of_origin=[[Egypt]]
+|course=[[Meze]]
+|type = [[Fritter]]
+|served=Hot
+|main_ingredient=[[Vicia faba|Broad beans]] or [[chickpea]]s
+|variations=
+|calories=
+| other   = Unicode [[emoji]] 🧆
+}}
+<!-- This article covers a topic of relevance to several countries. DO NOT remove content that only relates to one country, language or culture. Use talk page for discussion first. -->
+
+'''Falafel''' ({{IPAc-en|f|ə|ˈ|l|ɑː|f|əl}} {{respell|fə|LAH|fəl}}; {{langx|ar|فلافل}}, {{IPA|ar|fæˈlæːfɪl|IPA|ArFalafel.ogg}}) is a [[Deep frying|deep-fried]] ball or patty-shaped [[fritter]] of [[Egyptian cuisine|Egyptian]] origin that features in [[Middle Eastern cuisine]], particularly [[Levantine cuisine]]s. It is made from ground [[Vicia faba|fava beans]], [[chickpea]]s, or both, and mixed with herbs and spices before frying.
+
+Falafel is often served in a [[flatbread]] such as [[pita]], [[samoon]], [[laffa]], or [[Taboon bread|taboon]]; ''falafel'' also frequently refers to a wrapped sandwich that is prepared in this way. The falafel balls may be topped with [[salad]]s, [[Pickling|pickled]] vegetables, and [[hot sauce]], and drizzled with [[tahini]]-based sauces. Falafel balls may also be eaten alone as a snack or served as part of a [[meze]] tray.
+
+Falafel is a popular [[street food]] eaten throughout the Middle East. In Egypt and the [[Arabian Peninsula]], it is most often made with fava beans, while in the [[Levant]], it is typically made with chickpeas or sometimes a blend of both.
+
+The adoption of the Palestinian chickpea version of falafel into [[Israeli cuisine]] and its identification as Israeli is contentious, and has led to accusations of [[cultural appropriation]] and [[gastronationalism]].<ref name="Vered-20182">{{Cite news |last=Vered |first=Ronit |date=13 June 2018 |title=Israelis or Arabs – Who Owns Falafel - and Does It Matter? |url=https://www.haaretz.com/food/2018-06-13/ty-article-magazine/.premium/which-nation-owns-falafel-and-does-it-matter/0000017f-e498-d7b2-a77f-e79f24d30000 |access-date=2023-12-12 |work=[[Haaretz]] |language=en}}</ref>
+
+==Etymology==
+
+The word {{transliteration|ar|falāfil}} ({{langx|ar|فلافل}}) is Arabic and is the plural of {{transliteration|ar|ALA-LC|filfil}} ({{lang|ar|[[wikt:فلفل|فلفل]]}}) 'pepper',<ref>{{cite encyclopedia|encyclopedia=[[American Heritage Dictionary]]|edition=5th|year=2011|title=falafel|url=http://ahdictionary.com/word/search.html?q=falafel&submit.x=38&submit.y=12}}</ref> borrowed from [[Persian language|Persian]] {{transliteration|fa|felfel}} ({{lang|fa|فلفل}}),<ref>{{Cite web|title=دیکشنری آنلاین - Dehkhoda dictionary - معنی پلپل|url=https://abadis.ir/?lntype=dehkhoda,fatofa,moeen,amid,name,wiki,wikiislamic&word=%D9%BE%D9%84%D9%BE%D9%84&from=ac|access-date=2021-01-06|website=abadis.ir|archive-date=6 March 2021|archive-url=https://web.archive.org/web/20210306165047/https://abadis.ir/?lntype=dehkhoda,fatofa,moeen,amid,name,wiki,wikiislamic&word=%D9%BE%D9%84%D9%BE%D9%84&from=ac|url-status=live}}</ref> cognate with the [[Sanskrit]] word {{transliteration|sa|pippalī}} ({{lang|sa|पिप्पली}}) 'long pepper'; or an earlier {{transliteration|arc|*filfal}}, from Aramaic {{transliteration|arc|pilpāl}} 'small round thing, peppercorn', derived from ''palpēl'' 'to be round, roll'.<ref>{{Cite web|title=Definition of falafel {{!}} Dictionary.com|url=https://www.dictionary.com/browse/falafel|access-date=2021-01-03|website=www.dictionary.com|language=en|archive-date=6 January 2019|archive-url=https://web.archive.org/web/20190106204535/https://www.dictionary.com/browse/falafel|url-status=live}}</ref>
+
+The name {{transliteration|ar|falāfil}} is used world-wide. In English (where it has been written ''falafel'', ''felafel'', ''filafel'' and ''filafil''), it is first attested in 1936.<ref>The [[Oxford English Dictionary]] (3rd ed., March 2022) has a [https://www.oed.com/view/Entry/69033 1936 citation].</ref>
+
+Falafel is known as {{transliteration|arz|ṭaʿmiyya}} ({{langx|ar|طعمية|links=no}}, {{IPA|arz|tˤɑʕˈmejjɑ|IPA}}) in Egypt and Sudan. The word is derived from a [[diminutive]] form of the Arabic word {{transliteration|ar|ALA-LC|ṭaʿām}} ({{lang|ar|طعام}}, 'food'); the particular form indicates a "unit" of the given [[Semitic root|root]] in this case {{transliteration|sem|Ṭ-ʕ-M}} ({{lang|ar|ط ع م}}, having to do with taste and food), thus meaning 'a little piece of food' or 'small tasty thing'.<ref name="Oxford Press">{{cite book|last=Davidson|first=Alan|author2=Jaine, Tom|title=The Oxford Companion to Food|publisher=Oxford University Press|year=2006|edition=2nd|page=287|isbn=978-0-19-280681-9|url=https://books.google.com/books?id=JTr-ouCbL2AC&q=falafel&pg=PA287|access-date=April 27, 2010}}</ref><ref name="Vegetarian Journal 2001-04-01" /><ref>{{cite book|last=Ham|first=Anthony|title=Africa|year=2010|publisher=Lonely Planet|location=Footscray, Victoria|url=https://books.google.com/books?id=n-jEEqvIqi4C&pg=PA199|page=199|isbn=978-1-74104-988-6|access-date=July 19, 2011}}</ref>
+
+The word ''falafel'' can refer to the fritters themselves or to sandwiches filled with them.
+
+==History and distribution==
+[[File:Pita felafel.jpg|thumb|alt=A pita filled with vegetables and fritters on a plate|Falafel sandwich in [[pita]]]]
+[[File:Falafel_balls.jpg|thumb|Despite the frying process, the inside of a falafel remains soft.]]
+[[File:Falafels frying in egypt.jpg|thumb|Egyptian falafel patties frying in oil]]
+[[File:Il Falafel di Ramallah.JPG|thumb|alt= A man in a restaurant kitchen making fritters|Falafel being fried in [[Ramallah]], Palestine]]
+The origin of falafel is uncertain.<ref name="Slow food">{{cite book|last=Petrini|first=Carlo|title=Slow food : collected thoughts on taste, tradition, and the honest pleasures of food|year=2001|publisher=Chelsea Green Publishing|isbn=978-1-931498-01-2|page=55|access-date=6 February 2011|url=https://books.google.com/books?id=KVf94-rwpJ8C&q=Slow%20food:%20collected%20thoughts%20on%20taste,%20tradition,%20and%20the%20honest%20pleasures%20...%20By%20Carlo%20Petrini,%20Benjamin%20Watson&pg=PA55|author2=Watson, Benjamin}}</ref> The dish most likely originated in [[Egypt]].<ref>{{cite book |last=Helman |first=Anat |title=Jews and Their Foodways |publisher=Oxford University Press |date=2015 |isbn=978-0-19-049359-2 |url=https://books.google.com/books?id=-LOlCgAAQBAJ |quote=The claim that Indian cooking may have influenced the invention of falafel is reasonable. There are many fried foods in India that predate falafel and that are similar in shape and consistency. British soldiers familiar with ''vada'', ''ambode'', ''dal ke pakode'' and other fried foods might easily have experimented and encouraged resourceful Egyptian chefs to come up with a local equivalent. |access-date=19 March 2023 |archive-date=8 December 2022 |archive-url=https://web.archive.org/web/20221208211427/https://books.google.com/books?id=-LOlCgAAQBAJ |url-status=live }}</ref><ref name=ynet>{{cite news|last=Galili|first=Shooky|title=Falafel fact sheet|url=http://www.ynetnews.com/articles/0,7340,L-3421119,00.html|access-date=6 February 2011|publisher=Ynet News|date=4 July 2007|archive-date=28 June 2011|archive-url=https://web.archive.org/web/20110628183259/http://www.ynetnews.com/articles/0,7340,L-3421119,00.html|url-status=live}}</ref><ref name="Lee 2019">{{Cite web|first=Alexander|last=Lee|title=Historian's Cookbook - Falafel|date=1 January 2019|url=https://www.historytoday.com/archive/historians-cookbook/falafel|access-date=3 January 2021|website=[[History Today]]|archive-date=3 January 2021|archive-url=https://web.archive.org/web/20210103043712/https://www.historytoday.com/archive/historians-cookbook/falafel|url-status=live}}</ref><ref>{{Cite web|date=21 July 2020|title=A short wrap-up of the history of falafel|url=https://www.zmescience.com/science/history-falafel-food-feature/|access-date=8 January 2021|website=ZME Science|language=en-US|archive-date=14 January 2021|archive-url=https://web.archive.org/web/20210114194037/https://www.zmescience.com/science/history-falafel-food-feature/|url-status=live}}</ref><ref>{{Cite web|date=4 May 2016|title=The falafel battle: which country cooks it best?|url=http://www.theguardian.com/lifeandstyle/2016/may/04/the-falafel-battle-which-country-cooks-it-best|access-date=8 January 2021|website=the Guardian|language=en|archive-date=26 January 2021|archive-url=https://web.archive.org/web/20210126153112/https://www.theguardian.com/lifeandstyle/2016/may/04/the-falafel-battle-which-country-cooks-it-best|url-status=live}}</ref> It has been speculated that its history may go back to [[Pharaonic Egypt#Dynastic Egypt|Pharaonic Egypt]].<ref>{{Cite book |last=Wilson |first=Hilary |title=Egyptian food and drink |date=1988 |publisher=Shire |isbn=978-0-85263-972-6 |edition=1. publ |series=Shire Egyptology |location=Princes Risborough}}</ref> However, the earliest written references to falafel from Egyptian sources date to the 19th century,{{sfn|Raviv|2003}}<ref>{{cite book |last=Denker |first=Joel |url=https://books.google.com/books?id=S_x6nrkcoUkC&q=falafel&pg=PA41 |title=The World on a Plate: A Tour Through the History of America's Ethnic Cuisine |publisher=U of Nebraska Press |year=2003 |isbn=0-8133-4003-9 |page=41}}</ref><ref name="solomonov">{{cite book |last=Solomonov |first=Michael |url=https://books.google.com/books?id=7GVwDwAAQBAJ&dq=falafel+copts&pg=PA20 |title=Israeli Soul: Easy, Essential, Delicious |date=2018 |publisher=Houghton Mifflin |isbn=9780544970373}}</ref> and oil was probably too expensive to use for deep frying in ancient Egypt.<ref name=solomonov/><ref>{{cite news|author=Liz Steinberg|title=Food Wars: Did Jews Invent Falafel After All?|work=Haaretz|url=https://www.haaretz.com/food/.premium-food-wars-did-jews-invent-falafel-after-all-1.5429673|access-date=18 February 2021|archive-date=14 April 2021|archive-url=https://web.archive.org/web/20210414213438/https://www.haaretz.com/food/.premium-food-wars-did-jews-invent-falafel-after-all-1.5429673|url-status=live}}</ref>
+
+As [[Alexandria]] is a port city, it was possible to export the dish and its name to other areas in the Middle East.<ref>{{cite book|last=Green|first=Aliza|title=Beans|year=2004|publisher=Running Press|isbn=978-0-7624-1931-9|page=76}}</ref> The dish later migrated northwards to the [[Levant]], where chickpeas replaced the fava beans, and from there spread to other parts of the Middle East.{{sfn|Raviv|2003|p=20}}<ref name="Kantor">{{cite web|title=A History of the Mideast in the Humble Chickpea|date=10 July 2002|author=Kantor, Jodi|url=https://www.nytimes.com/2002/07/10/dining/a-history-of-the-mideast-in-the-humble-chickpea.html|work=[[The New York Times]]|access-date=8 January 2020|archive-date=13 September 2020|archive-url=https://web.archive.org/web/20200913210032/https://www.nytimes.com/2002/07/10/dining/a-history-of-the-mideast-in-the-humble-chickpea.html|url-status=live}}</ref><ref name="MacLeod">{{cite news|url=http://www.theage.com.au/world/lebanon-turns-up-the-heat-as-falafels-fly-in-food-fight-20081011-4yqo.html|title=Lebanon turns up the heat as falafels fly in food fight|last=MacLeod|first=Hugh|date=12 October 2008|work=The Age|access-date=10 February 2010|archive-date=14 October 2008|archive-url=https://web.archive.org/web/20081014091818/http://www.theage.com.au/world/lebanon-turns-up-the-heat-as-falafels-fly-in-food-fight-20081011-4yqo.html|url-status=live}}</ref>
+
+<!-- NOTE: Pursuant to an Arbitration Committee ruling, editors who do not have the [[WP:extendedconfirmed]] user right may not edit portions of this article pertaining to the Arab–Israeli conflict. [[WP:ARBPIA4]] -->
+According to historian [[Gil Marks]], the pita falafel [[sandwich]] was popularized after Israel's independence and in the 1950s by [[Yemenite Jews in Israel|Jewish Yemeni immigrants]]. A 19 October 1939 ''[[The Palestine Post]]'' article is the first mention of the concept of falafels served in a pita bread as a [[street food]].<ref>Encyclopedia of Jewish Food, Gil Marks, HMH, 2010</ref>
+
+=== Middle East ===<!-- NOTE: Pursuant to an Arbitration Committee ruling, editors who do not have the [[WP:extendedconfirmed]] user right may not edit portions of this article pertaining to the Arab–Israeli conflict. [[WP:ARBPIA4]] -->
+
+Falafel is a common form of [[street food]] or [[fast food]] in Egypt, across the [[Levant]], and in the wider [[Middle East]].{{sfn|Roden|2008|p=62}}<ref>{{cite news|last=Kelley|first=Leigh|date=28 January 2010|title=Dining with a Middle Eastern flair|work=[[Times-News (Hendersonville, North Carolina)|Times-News]] |url=https://www.blueridgenow.com/article/NC/20100128/News/606056826/HT |access-date=1 May 2021|archive-date=1 May 2021|archive-url=https://web.archive.org/web/20210501090256/https://www.blueridgenow.com/article/NC/20100128/News/606056826/HT|url-status=dead}}</ref> The croquettes are regularly eaten as part of [[meze]]. During [[Ramadan]], falafel balls are sometimes eaten as part of the ''[[iftar]]'', the meal that breaks the daily fast after sunset.<ref name="Vegetarian Journal 2001-04-01">{{cite web |url=http://www.accessmylibrary.com/coms2/summary_0286-30704219_ITM|title=Falafel: healthy Middle Eastern hamburgers capture the West.|last=Habeeb|first=Salloum|date=1 April 2007|work=Vegetarian Journal|access-date=16 February 2010|archive-date=2 September 2019|archive-url=https://web.archive.org/web/20190902204559/https://www.nelsonbrain.com/shop|url-status=dead}}</ref> Falafel became so popular that [[McDonald's]] for a time served a "McFalafel" in its breakfast menu in Egypt.<ref>{{cite news|url=http://www.wnewsj.com/main.asp?SectionID=43&SubSectionID=200&ArticleID=172473 |first=Jerry |last=Allison |title=Fast food – Middle Eastern style |date=6 January 2009 |work=[[The News Journal]] |access-date=6 February 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110718075130/http://www.wnewsj.com/main.asp?SectionID=43&SubSectionID=200&ArticleID=172473 |archive-date=18 July 2011 }}</ref>
+
+Falafel is still popular in the [[Copts|Coptic]] diet, and as such large volumes are cooked during religious holidays.{{sfn|Roden|2008|p=62}} Falafel is consumed as part of the [[Lent]]en diet by [[Arab Christians]].<ref>{{cite book|title=Food and Everyday Life|first=Thomas|last= M. Conroy|year= 2014| isbn=9780739173114| page =73|publisher=Lexington Books|quote=}}</ref><ref>{{cite book|title=The Oxford Companion to Food|first=Alan |last=Davidson|year= 2014| isbn=9780191040726| page =295|publisher=Oxford University Press |quote=Falafel are made for religious festivals, especially among Christian communities during Lent when meat is forbidden.}}</ref>{{sfn|Raviv|2003|p=20}}{{sfn|Roden|2008|p=62}}{{sfn|Malouf|Malouf|2008|p=90}}
+
+Chickpea-based falafel, common in many Levantine cuisines including Israeli and Palestinian, has become widely recognized as a national dish in Israel, where it is a popular street food.{{sfn|Raviv|2003|p=20}}{{sfn|Pilcher|2006|p=115}} <!-- END Arab–Israeli conflict-related portion -->
+
+=== Europe ===
+Waves of migration of Arabs and Turks took falafel through Europe to [[Germany]] in particular, where a large Turkish population had put down roots. At first it was a dish consumed principally by migrants. During the early 1970s, the appearance of Turkish food stalls and restaurants made falafel available to the Germans, resulting in a transformation of the recipe.<ref name="Lee 2019" />
+
+===North America===
+In North America, prior to the 1970s, falafel was found only in Middle Eastern, Mediterranean and Jewish neighborhoods and restaurants.<ref name=vegtimes1/><ref name=mouth>{{cite book|url=https://books.google.com/books?id=ze3F_n37NVoC&q=falafel+american&pg=PA181|title=Mouth Wide Open: A Cook and His Appetite|author1=Thorne, Matt |author2=Thorne, John |pages=181–187|publisher=Macmillan|year=2007|isbn=978-0-86547-628-8| access-date=23 February 2011}}</ref><ref name="ocafd">{{cite book|first=Charles|last=Perry|chapter=Middle Eastern Influences on American Food|editor-first=Andrew F.|editor-last=Smith|title=The Oxford Companion to American Food and Drink|date=May 2007|isbn=978-0-19-530796-2|page=384|publisher=Oxford University Press, USA }}</ref><ref name=encmah>{{cite book|url=https://books.google.com/books?id=owZCMZpYamMC&q=falafel+american&pg=PA207|title=Encyclopedia of Muslim-American History, Volume 1|publisher=Infobase Publishing|year=2010|page=207|author=Curtis IV, Edward|access-date=23 February 2011|isbn=978-0-8160-7575-1}}</ref> Today, the dish is a common and popular street food in many cities throughout North America.<ref name=atlanta>{{cite journal|url=https://books.google.com/books?id=mA8AAAAAMBAJ&q=falafel+american&pg=PA194|journal=[[Atlanta Magazine]]|page=194|title=Cuisine of the Month|author=Lenhard, Elizabeth|date=January 2006|access-date=23 February 2011}}</ref><ref name=religion>{{cite book|url=https://books.google.com/books?id=ORy2aVD7cEgC&q=falafel+american&pg=PA178|title=The World Religions Cookbook|publisher=[[Greenwood Publishing Group]]|last1=Schmidt|first1=Arno|last2=Fieldhouse|first2=Paul |page=178|year=2007|access-date=23 February 2011|isbn=978-0-313-33504-4}}</ref><ref name=goodhousekeeping>{{cite book|url=https://books.google.com/books?id=2fJK8R_x0j8C&q=falafel+american&pg=PT387|title=The Good Housekeeping Cookbook|publisher=Hearst Books|editor= Westmoreland, Susan |year=2004|access-date=23 February 2011|isbn=978-1-58816-398-1}}</ref>
+
+===Vegetarianism===
+
+Falafel is popular with vegetarians worldwide.<ref name="vegtimes1" />
+
+Falafel became popular among [[Vegetarianism|vegetarians]] and [[Veganism|vegans]] as an alternative to meat-based street foods.<ref name="vegtimes1">{{cite web|url=https://books.google.com/books?id=LwcAAAAAMBAJ&q=%22Falafel+Without+the+Fat%22&pg=PA20|work=[[Vegetarian Times]]|title=Falafel without fat|author=Grogan, Bryanna Clark|date=July 2003|pages=20, 22|access-date=23 February 2011|issn=0164-8497 }}</ref><ref name="Wolfe 2007">{{cite book|last=Wolfe|first=Frankie Avalon|title=The Complete Idiot's Guide to Being Vegetarian|publisher=Penguin Group|year=2007|pages=175, 186|access-date=22 February 2011|isbn=978-1-59257-682-1|url=https://books.google.com/books?id=c0S-LmVSYgsC&q=falafel&pg=PA126}}</ref> While traditionally thought of as being used to make [[veggie burger]]s,<ref name="falafel burgers">{{cite book|last=Murphy|first=Jane|title=The Great Big Burger Book: 100 New and Classic Recipes for Mouth Watering Burgers Every Day Every Way|year=2010|publisher=ReadHowYouWant.com|access-date=6 February 2011|isbn=978-1-4587-6463-8|page=304|url=https://books.google.com/books?id=GcjxTyEMNjAC&q=The%20Great%20Big%20Burger%20Book:%20100%20New%20and%20Classic%20Recipes%20for%20Mouth%20Watering%20...%20By%20Jane%20Murphy&pg=PP1}}</ref> its use has expanded as more have adopted it as a source of protein.<ref name="veganvolume">{{cite book|url=https://books.google.com/books?id=XzJUBO3Sm_YC&q=%22Falafel%22+vitamin&pg=PA203|author=Berkoff R.D., Nancy|access-date=22 February 2011|title=Vegan in volume: vegan quantity recipes for every occasion|isbn=978-0-931411-21-2|year=1999|publisher=Vegetarian Resource }}</ref> Falafel is used as a meat substitute in some vegetarian recipes for [[meatloaf]], [[sloppy joe]]s and [[spaghetti and meatballs]].<ref name="vegtimes2">{{cite web|url=https://books.google.com/books?id=tAQAAAAAMBAJ&q=%22Falafel%22+vegetarian+times&pg=PA36|work=Vegetarian Times|title=New Ways with Falafel: The Middle Eastern favorite has evolved from a high fat sandwich stuffer to a low fat meal magician|author=Leonard, Joanne|date=October 1996|pages=36, 38|access-date=22 February 2011}}</ref><ref name="vegtimes3">{{cite web|url=https://books.google.com/books?id=JQcAAAAAMBAJ&q=%22Falafel%22+vegetarian+times&pg=PA30|work=Vegetarian Times|title=Minute Meals|author=Whitney, Winona|date=June 1991|page=30|access-date=23 February 2011}}</ref>
+
+==Preparation and variations==
+
+Falafel is made from [[Vicia faba|fava beans]], [[chickpea]]s, or a combination of both.{{sfn|Raviv|2003|p=20}} In Egypt, it is typically prepared with fava beans. In Israeli and Palestinian cuisine, chickpeas are commonly used,{{sfn|Raviv|2003|p=20}} while in Jordan, Lebanon, Syria, and the wider Middle East, either chickpeas or a mix of both are used.{{sfn|Roden|2008|p=62}}{{sfn|Raviv|2003|p=20}}{{sfn|Malouf|Malouf|2008|p=90}}<ref name="Aytop106">{{cite book|title=The glutton's glossary: a dictionary of food and drink terms|first=John|last=Ayto|publisher=Routledge|year=1990|access-date=6 February 2011|isbn=0-415-02647-4|url=https://books.google.com/books?id=vAQOAAAAQAAJ&q=syria+falafel+chickpeas&pg=PA106}}</ref> The chickpea-based version is the most popular in the West.{{sfn|Roden|2008|p=62}}
+
+When chickpeas are used, they are not cooked prior to use (cooking the chickpeas will cause the falafel to fall apart, requiring adding some flour to use as a binder). Instead they are soaked (sometimes with [[Sodium bicarbonate|baking soda]]) overnight, then ground together with various ingredients such as parsley, [[scallion]]s, and garlic.{{sfn|Roden|2008|p=62}} Spices such as [[cumin]] and [[coriander]] are often added to the beans for added flavor.<ref>{{cite web|url=http://query.nytimes.com/gst/fullpage.html?res=9401E7D81F30F937A35757C0A9619C8B63|title=For the Best Falafel, Do It All Yourself|last=Bittman|first=Mark|date=4 April 2007|work=The New York Times|access-date=11 July 2011|archive-date=12 June 2011|archive-url=https://web.archive.org/web/20110612120635/http://query.nytimes.com/gst/fullpage.html?res=9401E7D81F30F937A35757C0A9619C8B63|url-status=live}}</ref> The dried fava beans are soaked in water and then stone ground with leek, parsley, green coriander, cumin and dry coriander.<ref>{{cite web | url=http://www.scienzavegetariana.it/nutrizione/favabeans.html | title=Fava Beans, Levodopa, and Parkinson's Disease | author=Kathrynne Holden | access-date=17 March 2013 | archive-date=22 July 2018 | archive-url=https://web.archive.org/web/20180722191415/https://www.scienzavegetariana.it/nutrizione/favabeans.html | url-status=live }}</ref><ref>{{cite web | url=http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19960529/LIFE/305299944 | author=Russ Parsons | title=The Long History of the Mysterious Fava Bean | access-date=10 August 2014 | archive-date=29 October 2020 | archive-url=https://web.archive.org/web/20201029223716/https://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19960529/LIFE/305299944 | url-status=dead }}</ref> The mixture is shaped into balls or patties. This can be done by hand or with a tool called an ''aleb falafel'' (falafel mould).<ref name="Oxford Press" /> The mixture is usually [[Deep frying|deep-fried]], or it can be oven-baked.
+
+Falafel is typically ball-shaped, but is sometimes made in other shapes. The inside of falafel may be green (from green herbs such as parsley or green onion), or tan. Sometimes sesame seeds are added on top of the falafel before frying it.
+{{Nutritional value
+| name = Homemade falafel
+| kJ = 1393
+| carbs = 31.84 g
+| fat = 17.80 g
+| protein = 13.31 g
+| water = 34.62 g
+| calcium_mg = 54
+| iron_mg = 3.42
+| phosphorus_mg = 192
+| magnesium_mg = 82
+| manganese_mg = 0.691
+| sodium_mg = 294
+| potassium_mg = 585
+| zinc_mg = 1.50
+| vitA_iu = 13
+| thiamin_mg = 0.146
+| riboflavin_mg = 0.166
+| niacin_mg = 1.044
+| pantothenic_mg = 0.292
+| vitB6_mg = 0.125
+| folate_ug = 78
+| vitB12_ug = 0.00
+| source_usda = 1
+| note = [https://fdc.nal.usda.gov/food-details/172455/nutrients Link to USDA Database entry]
+}}
+
+When served as a sandwich, falafel is often wrapped with [[flatbread]] or stuffed in a hollow [[pita]] bread,<ref name="fluffy">{{cite book|last=Marks|first=Gil|title=Encyclopedia of Jewish food|year=2010|publisher=John Wiley & Sons|access-date=6 February 2011|isbn=978-0-470-39130-3|page=183|url=https://books.google.com/books?id=ojc4Uker_V0C&q=Encyclopedia+of+Jewish+Food+By+Gil+Marks}}</ref> or it can be served with flat or [[unleavened bread]].<ref>{{cite book|last=Basan|first=Ghillie|title=Middle Eastern Kitchen|year=2007|publisher=Hippocrene Books|isbn=978-0-7818-1190-3|page=33}}</ref> Tomatoes, lettuce, cucumbers, and other garnishes can be added.{{sfn|Winget|Chalbi|2003|p=33}}<ref>Claudia Roden, The Book of Jewish Food: An Odyssey from Samarkand to New York, New York, Knopf, 1997, 688 p. ({{ISBN|0-394-53258-9}}), p. 273.</ref> Falafel is commonly accompanied by [[tahini sauce]].{{sfn|Roden|2008|p=62}}
+<!-- END Arab–Israeli conflict-related portion -->
+
+==Nutrition==
+Homemade falafel is typically around 35% water, 32% [[carbohydrate]]s, 13% [[protein (nutrient)|protein]], and 18% [[fat]] (table). In a reference amount of {{convert|100|g}}, homemade falafel supplies 333 [[calorie]]s and is a rich source (20% or more of the [[Daily Value]], DV) of [[folate]] (20% DV),  several [[mineral (nutrient)|dietary minerals]], and [[dietary fiber]] (table). Falafel can be baked to avoid the high fat content associated with frying in oil.<ref name=vegtimes1/>{{sfn|Winget|Chalbi|2003|p=33}}
+
+== Politics ==
+{{Main|Politics of food in the Arab-Israeli conflict}}
+
+<!--NOTE: Pursuant to an Arbitration Committee ruling, editors who do not have the [[WP:extendedconfirmed]] user right may not edit portions of this article pertaining to the Arab–Israeli conflict. [[WP:ARBPIA4]]-->
+Arguments over the relative importance of the dish in various cuisines is an example of [[gastronationalism]].<ref name="Vered-20182" /> In particular, discussion centers around the adoption of the dish into Israeli cuisine as an example of [[cultural appropriation]].<ref name="Vered-20182" /> The chickpea version of the falafel has been adopted into [[Israeli cuisine]], where it now features prominently and has been called a [[national dish]] of Israel – an attribution that Palestinians and other Arabs have criticized.{{sfn|Raviv|2003|p=20}}{{sfn|Pilcher|2006|p=115}}
+
+==See also==
+* [[Operation Dugo]]
+
+==References==
+===Citations===
+{{Reflist}}
+===Sources===
+* {{cite book|last1=Malouf|first1=Greg|title=Artichoke to Za'atar: Modern Middle Eastern Food|year=2008|publisher=University of California Press|isbn=978-0-520-25413-8|page=90|url=https://books.google.com/books?id=0j5c0GMrOdcC&q=egyptian+falafel+spicy&pg=PA90|last2=Malouf |first2=Lucy|access-date=6 February 2011}}
+* {{cite book |last=Pilcher |first=Jeffrey M. |url=https://books.google.com/books?id=lbEVK2DSu3AC&q=falafel |title=Food in World History |publisher=Routledge |year=2006 |isbn=978-0-415-31146-5 }}
+* {{cite journal |last=Raviv |first=Yael |date=2003 |title=Falafel: A National Icon |journal=[[Gastronomica]] |volume=3 |issue=3 |pages=20–25 |doi=10.1525/gfc.2003.3.3.20 |url=https://doi.org/10.1525/gfc.2003.3.3.20|url-access=subscription }}
+* {{cite book|last=Roden|first=Claudia|author-link=Claudia Roden|title=The New Book of Middle Eastern Food|date=2008|publisher=Random House|isbn=978-0-375-40506-8|url=https://books.google.com/books?id=r723owliVz8C&q=falafel}}
+* {{cite book|last1=Winget|first1=Mary|last2=Chalbi |first2=Habib|title=Cooking the North African Way|publisher=Twenty-First Century Books|year=2003|edition=2nd|access-date=28 April 2010|isbn=978-0-8225-4169-1|url=https://books.google.com/books?id=yzYgQpdSf7QC}}
+
+==External links==
+{{Sister project auto|cookbook=y|wikt=y}}
+
+* [https://cooking.nytimes.com/recipes/1015257-falafel ''Recipe of the Day'' for 12 February 2008] – ''[[The New York Times]]''
+
+{{Portal bar|Food|Middle East}}
+{{Cuisine of Lebanon}}
+{{Cuisine of Egypt}}
+{{Cuisine of Israel}}
+{{Legume dishes}}
+{{Street food}}
+
+[[Category:Arab cuisine]]
+[[Category:Bahraini cuisine]]
+[[Category:Chickpea dishes]]
+[[Category:Egyptian cuisine]]
+[[Category:Fritters]]
+[[Category:Iraqi cuisine]]
+[[Category:Israeli cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Lebanese cuisine]]
+[[Category:Lenten foods]]
+[[Category:Middle Eastern cuisine]]
+[[Category:Mizrahi Jewish cuisine]]
+[[Category:National dishes]]
+[[Category:Palestinian cuisine]]
+[[Category:Saudi Arabian cuisine]]
+[[Category:South Sudanese cuisine]]
+[[Category:Street food]]
+[[Category:Sudanese cuisine]]
+[[Category:Syrian cuisine]]
+[[Category:Vegan cuisine]]
+[[Category:Vegetarian sandwiches]]

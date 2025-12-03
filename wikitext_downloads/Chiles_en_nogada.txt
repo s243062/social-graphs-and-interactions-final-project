@@ -1,0 +1,49 @@
+{{short description|Stuffed pepper dish with walnut cream sauce}}
+{{Infobox food
+| name             = Chile en nogada
+| image            = File:Chile en nogada24.jpg
+| image_size       = 250px
+| caption          = Chile en nogada prepared for serving
+| alternate_name   = 
+| country          = [[Mexico]] (1821)
+| region           = [[Puebla]]
+| creator          = 
+| course           = Main
+| type             = Stuffed vegetable
+| served           = Room temperature
+| main_ingredient  = [[poblano]] chile, [[picadillo]], [[walnut]]s, [[cream]], [[pomegranate]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+[[File:PreparingNogada02.JPG|thumb|Ingredients for the preparation of the dish]]
+[[File:2006-08-19 Mexikanisches Restaurant in Puebla.jpg|thumb|Restaurant in Puebla]]
+
+'''''Chiles en nogada''''' is a [[Mexican cuisine|Mexican]] dish of [[poblano]] chiles stuffed with ''[[picadillo]]'' (a mixture usually containing minced meat, aromatics, fruits and spices) topped with a walnut-based cream sauce called ''nogada'', [[pomegranate]] seeds and parsley; it is typically served at room temperature. It is widely considered a national dish of Mexico.<ref name=NYT>{{cite news | last =Martinez | first =Rick A. | title = Sweet, Salty, Sour, and Part of Mexico's Soul: Chiles en nogada — stuffed poblano peppers topped with a creamy walnut sauce and pomegranate seeds — makes a brief but grand appearance every September for the country's Independence Day. | newspaper =[[New York Times]] | location = | pages = | language = | publisher = | date =September 9, 2019 | url =https://www.nytimes.com/2019/09/09/dining/chiles-en-nogada.html| access-date =September 13, 2022 }}</ref>
+
+The ''picadillo'' usually contains ''panochera'' apple (''manzana panochera''), sweet-milk pear (''pera de leche'') and ''criollo'' peach (''durazno criollo''). The cream sauce usually has milk, double cream, fresh cheese, [[sherry]] and [[walnut]]. The walnuts, which give the ''nogada'' sauce its name (''nogal'' being [[Spanish language|Spanish]] for "walnut tree")<ref>{{cite dictionary|title=Nogal |url=http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=nogal |dictionary=[[Diccionario de la lengua española]] |publisher=[[Real Academia Española]]}}</ref> are traditionally of the [[cultivar]] ''nogal de Castilla'' (Castilian walnut). In some cases, [[pecan]]s may substitute for or supplement the walnuts.
+
+This dish is made in Central Mexico in August and the first half of September, when pomegranates are in season.<ref>{{cite web |last=Graber |first=Karen Hursh |title=Pomegranates: September's Gift To Mexican Cuisine |url=http://www.mexconnect.com/articles/2055-pomegranates-september-s-gift-to-mexican-cuisine/ |publisher=MexConnect |access-date=2 February 2012 |date=1 January 2006}}</ref> The colors of the dish&mdash;green chile, white sauce, red pomegranate&mdash;are the colors of the [[flag of Mexico]],<ref name=Hursh>{{cite book | last =Graber | first =Karen Hursh | authorlink = | title = Take This Chile and Stuff It: Authentic Chile Relleno Recipes | publisher = American Traveler Press | series = | volume = | edition = | date =1998 | location = | pages =26–27 | language = | url = https://books.google.com/books?id=wh0pkgEACAAJ| doi = | id = | isbn =9781885590398 | quote=}}</ref> and [[Cry of Dolores|Independence Day]] is during the pomegranate season.
+
+==History==
+The traditional ''chile en nogada'' is from [[Puebla (city)|Puebla]]; it is tied to the Mexican independence since it is said they were prepared for the first time to entertain the future emperor [[Agustín de Iturbide]]<ref name=Hursh/> when he came to the city after the signing of the [[Treaty of Córdoba]]. This dish is a source of pride for the inhabitants of the state of [[Puebla]].<ref name=Moon>{{cite web |last=Moon |first=Freda |title=Delicious patriotism |url=http://www.thedaily.com/page/2011/09/17/091711-arts-food-chiles-en-nogada-1-6/ |archive-url=https://archive.today/20130205191247/http://www.thedaily.com/page/2011/09/17/091711-arts-food-chiles-en-nogada-1-6/ |url-status=dead |archive-date=5 February 2013 |publisher=The Daily Holdings, Inc. |access-date=18 September 2011 |date=17 September 2011 }}</ref> 
+
+Some Mexican historians believe the inventors of this dish were the Monjas Clarisas, although others think they were the Madres Contemplativas Agustinas of the convent of Santa Mónica, Puebla.<ref name=GobMX>{{cite web |last=Molina de Merlos |first=Lucia |title=El emblemático platillo #HechoEnMéxico |url= https://www.gob.mx/agricultura/es/articulos/el-platillo-emblematico-de-las-fiestas-patrias |archive-url= https://web.archive.org/web/20200614101739/https://www.gob.mx/agricultura/es/articulos/el-platillo-emblematico-de-las-fiestas-patrias  |archive-date=14 June 2020 |publisher= The Mexican Government (Agriculture Secretariat) |access-date=14 June 2020 |date=15 September 2017}}</ref><ref name=NYT/>
+
+==References==
+{{Reflist}}
+
+==See also==
+* [[Chile relleno]]
+* [[Stuffed peppers]]
+
+{{Mexican cuisine}}
+
+{{portal bar|Mexico|Food}}
+
+{{DEFAULTSORT:Chiles En Nogada}}
+[[Category:Meat dishes]]
+[[Category:Mexican cuisine]]
+[[Category:Stuffed vegetable dishes]]
+[[Category:Walnut dishes]]
+[[Category:Pomegranate dishes]]

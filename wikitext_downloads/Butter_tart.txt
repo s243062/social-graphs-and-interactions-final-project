@@ -1,0 +1,78 @@
+{{Short description|Canadian dessert pastry}}
+{{Use Canadian English|date=June 2024}}
+{{Use mdy dates|date=September 2013}}
+{{for|the English savoury pie|Butter pie}}
+{{Infobox food
+| name             = Butter tart
+| image            = File:ButtertartS1360020.jpg
+| image_size       = 250px
+| caption          = A pair of plain butter tarts with some salt
+| alternate_name   = 
+| country          = [[Canada]]
+| region           = 
+| creator          = 
+| type             = [[Pastry]]
+| course           = [[Snack]] or [[Dessert]]
+| served           = 
+| main_ingredient  = Pastry shell, [[butter]], [[sugar]], syrup, [[egg (food)|eggs]]
+| variations       = Addition of [[raisin]]s, [[walnut]]s or [[pecan]]s or other flavourings
+| calories         = 580
+| other            = 
+}}
+{{Canadian cuisine}}
+A '''butter tart''' ({{langx|fr|tarte au beurre}}) is a type of small [[pastry]] tart highly regarded in [[Canadian cuisine]]. The sweet tart consists of a filling of [[butter]], [[sugar]], syrup, and [[egg (food)|egg]], baked in a [[pastry]] shell until the filling is semi-solid with a crunchy top.<ref name=great>{{Cite episode |title=What makes a great butter tart? |series=[[Morningside (radio program)|Morningside]] |credits= Presenter:[[Peter Gzowski]] Guests:Max Burns, Marion Kane, Charles Pachter |network=[[CBC Radio]] |station=[[CBC Radio One]] |location=[[Moose Jaw]] |airdate=December 5, 1991}}</ref> The butter tart should not be confused with [[butter pie]] (a savoury pie from the [[Preston, Lancashire|Preston]] area of [[Lancashire]], [[England]]) or with [[bread and butter pudding]].
+
+Recipes for the butter tart vary according to the families baking them. Because of this, the appearance and physical characteristics of the butter tart – the firmness of its pastry, or the consistency of its filling – also vary.<ref name=SS/><ref>{{citation|title=Better butter tarts |journal=The Ottawa Citizen |date=October 26, 2006 |url=http://www.canada.com/topics/lifestyle/food/story.html?id=be2adf75-3134-4a2d-97b2-280c9155d9c2 |url-status=dead |archive-url=https://web.archive.org/web/20121110140939/http://www.canada.com/topics/lifestyle/food/story.html?id=be2adf75-3134-4a2d-97b2-280c9155d9c2 |archive-date=November 10, 2012 |df=mdy }}</ref>
+
+Traditionally, the [[English Canadian]] [[tart]] consists of butter, sugar, and eggs in a pastry shell, similar to the French-Canadian [[sugar pie]]. The butter tart is different from the sugar pie given the lack of flour in the filling.<ref>{{cite encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/butter-tarts|title=Butter tarts|encyclopedia=[[The Canadian Encyclopedia]]|access-date=August 29, 2019}}</ref> The butter tart is different from the American [[pecan pie]] in that it has a "runnier" filling due to the omission of [[corn starch]]. Often [[raisin]]s, [[walnut]]s, or [[pecan]]s are added to the traditional butter tart, although the acceptability of such additions is a matter of national debate.<ref>{{cite journal |last1=Bonisteel |first1=Sara |title=Butter Tarts, Canada's Humble Favorite, Have Much to Love |journal=The New York Times |date=2018-01-12 |url=https://www.nytimes.com/2018/01/12/dining/butter-tarts-canada.html}}</ref><ref>{{cite web |last1=Jackson |first1=Lisa|title=The sticky sweet history of the butter tart| date=January 2018 |url=https://www.foodnetwork.ca/shows/great-canadian-cookbook/blog/the-sticky-sweet-history-of-the-butter-tart|publisher=Food Network}}</ref> As an iconic Canadian food and one of the most popular desserts in the country, the raisin-or-no-raisin question can provoke polarizing debate.<ref>{{cite news |last1=Grief |first1=Amy |title=Step Down, Nanaimo Bars. Butter Tarts Are The Ultimate Canadian Dessert |url=https://www.chatelaine.com/food/butter-tart-recipe-ultimate-canadian-dessert/ |work=Chatelaine |date=2019-04-24}}</ref>
+
+More exotic flavours are also produced by some bakers. Examples such as [[maple syrup|maple]], [[bacon]], [[Pumpkin pie spice|pumpkin spice]], [[chili pepper|chili]], and [[salted caramel]] [[cardamom]] flavours have been made for competitions.<ref>[https://www.thestar.com/life/food_wine/2015/06/25/ontarios-best-butter-tart-bakers-gather-in-midland-for-a-contest-and-festival.html "Ontario's best butter tart bakers gather in Midland for a contest and festival"], Jennifer Bain, ''Toronto Star'', June 25, 2015</ref>
+
+==History==
+Butter tarts became common in Canadian pioneer cooking, and they remain a characteristic pastry of Canada. It is primarily eaten in and associated with the English-speaking provinces of [[Canada]].
+
+The butter tart is a derivative of one or more of the following:<ref name="great" />
+*Border tart: a similar pie including dried fruit from the [[Anglo-Scottish border|Anglo-Scottish border country]],<ref>{{cite news |url=http://www.torontosun.com/life/eat/2010/06/07/14296321.html |title=On the butter tart trail |newspaper=[[Toronto Sun]] |date=June 16, 2010 |access-date=September 22, 2015|url-status=dead|archive-url=https://web.archive.org/web/20100619031502/http://www.torontosun.com/life/eat/2010/06/07/14296321.html|archive-date=19 June 2010 }}</ref>
+*[[Sugar pie]] (''{{lang|fr|tarte au sucre}}''): which possibly came with the arrival of the "[[King's Daughters]]" in [[Quebec]] during the 1600s, where the imported brides used [[maple syrup]], [[butter]] and [[dried fruit]] to make a possible precursor to modern examples of the butter tart.<ref name=SS>{{citation |first=Susan |last=Sampson |url=https://www.thestar.com/Life/article/211699 |title=The art of the tart |date=May 9, 2007 |publisher=Toronto Star |website=thestar.com |access-date=August 25, 2017 |archive-url=https://web.archive.org/web/20121024012753/http://www.thestar.com/Life/article/211699 |archive-date=October 24, 2012 |url-status=dead }}</ref> The butter tart is sometimes described as a smaller, tart-sized version of the sugar pie.
+*[[Pecan pie]]: which possibly came north from the southern [[United States]]{{speculation inline|date=August 2019}},
+*Backwoods pie: which is found in [[the Maritimes]]<ref>{{Cite web |title=Backwoods Pie |url=https://thebitehouse.com/blog/2012/01/02/backwoods-pie |access-date=2023-03-11 |website=Bite House |date=January 2, 2012 |language=en-US}}</ref> and western Canada and made with corn syrup,
+*[[Shoofly pie]]: which is made with molasses and comes from the [[Pennsylvania Dutch]] community,
+*[[Treacle tart]]: which is an English pastry made with [[golden syrup]] or [[treacle]].
+
+The earliest published Canadian recipe is from [[Barrie]], Ontario, dating back to 1900 and can be found in The Women's Auxiliary of the Royal Victoria Hospital Cookbook,<ref name=hj>{{Citation |title=Structural Elements in Canadian Cuisine |first=Hersch |last=Jacobs |journal=Cuizine: The Journal of Canadian Food Cultures |volume=2 |number=1 |year=2009 |url=http://www.erudit.org/revue/cuizine/2009/v2/n1/039510ar.html }}</ref> to which a chef by the name of Mrs. Mary Ethel MacLeod submitted the recipe for a butter tart filling.<ref>Mrs. Malcolm MacLeod and her recipe for butter tart filling https://www.simcoe.ca/Archives/Pages/Mrs-MacLeods-Butter-Tarts.aspx</ref> The original cookbook and recipe is housed at the Simcoe County Archives.<ref>{{Citation |title=The Canadian history of the butter tart (video) |journal=Breakfast TV Video, City TV |url=http://www.bttoronto.ca/videos/the-canadian-history-of-the-butter-tart/|date=January 17, 2018 }}</ref> Another early publication of a butter tart recipe was found in a 1915 pie cookbook.<ref name=great/> The food was an integral part of early Canadian cuisine and often viewed as a source of pride.<ref name=hj/>
+
+Similar tarts are made in Scotland, where they are often referred to as ''Ecclefechan butter tarts'' from the town of [[Ecclefechan]].  In [[France]], they are related to the much more common ''{{lang|fr|tarte à la frangipane}}'', that differs from the basic Canadian recipe only by the addition of ground almonds.
+
+==Cultural identity==
+Butter tarts are an integral part of Central Canadian cuisine and are objects of cultural pride of many communities across [[Ontario]] and other provinces in central Canada.<ref>{{citation|title=Does Canada Have a National Dish? |url=http://www.canadianliving.com/blogs/food/2009/06/30/does-canada-have-a-national-dish/ |first=Elizabeth |last=Baird |date=June 30, 2009 |journal=Canadian Living}}</ref> This cultural and community connection with the tart has spawned butter tart themed tourism such as the Butter Tart festival at [[Muskoka Lakes]], Ontario,<ref>{{citation |journal=Bracebridge Examiner |first1=Laura |last1=Finney |first2=Alison |last2=Sandstrom |date=July 11, 2013 |title=Buttertart festival a big success |url=http://www.cottagecountrynow.ca/news-story/3887729-buttertart-festival-a-big-success/ |access-date=July 12, 2013 |archive-url=https://web.archive.org/web/20130928021427/http://www.cottagecountrynow.ca/news-story/3887729-buttertart-festival-a-big-success/ |archive-date=September 28, 2013 |url-status=dead |df=mdy-all }}</ref> the trademarked "Butter Tart Trail" at [[Wellington North, Ontario]], and the "Butter Tart Tour" in Kawarthas Northumberland, Ontario.<ref>{{citation |url=http://www.mykawartha.com/news-story/3885882-misunderstanding-over-butter-tarts-could-turn-into-sweet-success-for-city-bakeries/ |date=July 10, 2013 |journal=Kawartha Lakes This Week |title=Misunderstanding over butter tarts could turn into sweet success for City bakeries}}</ref> The two competing associations have since resolved their dispute, called "The Butter Tart Wars" by ''[[Canadian Living]]'',<ref>{{Cite web|url=https://www.canadianliving.com/life-and-relationships/community-and-current-events/article/the-canadian-butter-tart-wars|title=The Canadian butter tart wars|last=Johnson|first=Tim|date=June 18, 2014|website=Canadian Living|access-date=September 6, 2019}}</ref> through the mutual agreement to modify "The Butter Tart Tour" to "Kawarthas Northumberland Butter Tart Tour".<ref>{{cite news|first=Kirk |last=Dickson |title=Wellington North In Butter Tart Taste Off |date=August 14, 2013 |publisher=Blackburn Radio Inc. |url=http://blackburnnews.com/midwestern-ontario/midwestern-ontario-news/2013/08/14/wellington-north-in-butter-tart-taste-off/ |url-status=dead |archive-url=https://web.archive.org/web/20130917224432/http://blackburnnews.com/midwestern-ontario/midwestern-ontario-news/2013/08/14/wellington-north-in-butter-tart-taste-off/ |archive-date=September 17, 2013 |df=mdy }}</ref> The first Kawarthas Northumberland Butter Tart Tour Taste-Off was launched at the Flavour Festival in Peterborough on Sunday, April 28, 2013, where four bakeries were crowned winners by a panel of celebrity judges.
+
+Ontario's Best Butter Tart Festival and Contest is an annual event held in [[Midland, Ontario]].<ref>{{citation|title=Butter Tart Fans Flock to Midland |url=http://www.simcoe.com/community-story/3842983-buttertart-fans-flock-to-midland/ |first=Nikki | last=Million-Cole |date=June 17, 2013 | journal=The Midland Mirror}}</ref>  The contest portion of the festival attracts bakers from across Ontario, and is Canada's largest butter tart–themed celebration, with over 50,000 tarts sold in the festival market in 2014.<ref>{{Cite web|url=https://cottagelife.com/outdoors/50-fun-things-to-do-in-cottage-country-this-spring/|title=50 fun things to do in cottage country this spring|last=Campbell|first=Jackie|date=March 26, 2015|website=Cottage Life|language=en-US|access-date=September 6, 2019}}</ref>
+
+''[[National Geographic]]'' recognized the significance of the butter tart in an article on Georgian Bay, Ontario. In October 2013, referring to a stand in Wasaga Beach, they stated that "It's the homemade Canadian butter tarts – flaky crust with gooey pecan filling – that set this place apart from other lakeside ice cream stands."<ref>{{Cite web|url=https://www.nationalgeographic.com/travel/canada/georgian-bay-ontario/|archive-url=https://web.archive.org/web/20160921174602/http://www.nationalgeographic.com/travel/canada/georgian-bay-ontario/|url-status=dead|archive-date=September 21, 2016|title=Georgian Bay|date=September 30, 2013|website=Travel}}</ref>
+
+The production of butter tarts in Canada slowed after a flood in Quebec, in April 2019, striking a major production centre. Global News reported the Vachon bakery in Sainte-Marie-de-Beauce had to be evacuated after a long-term flood. In July, Global News reported the bakery was slowly getting back to speed.<ref>{{Cite web|url=https://globalnews.ca/news/5350929/quebec-vachon-jos-louis-shortage-floods/|title=Jos Louis pastry bakery slowly resumes production after severe flooding in Quebec - Montreal|last=Laframboise|first=Kalina|date=June 4, 2019 |website=globalnews.ca |language=en |access-date=September 6, 2019}}</ref>
+
+As part of the "Sweet Canada" series, a commemorative postage stamp was issued by Canada Post in April 2019 to celebrate the butter tart.<ref>{{cite web |url=https://postagestampguide.com/stamps/20326/butter-tart-2019-canada-postage-stamp-sweet-canada |title=Butter Tart |website=Postage Stamp Guide |access-date=September 15, 2021}}</ref>
+
+The Canadian alternative rock band [[Len (band)|Len]] referenced butter tarts on their 1999 international hit "[[Steal My Sunshine]]", which confused some non Canadian listeners.<ref>{{cite web|url=https://www.grammy.com/news/million-miles-fun-listening-lens-steal-my-sunshine-20-years-l-t-e-r|title=A Million Miles of Fun: Listening To Len's "Steal My Sunshine" 20 Years L-A-T-E-R|last1=Weiss|first1=Dan|publisher=[[Grammy Awards|Grammy]]|quote=Len, definitively, in the public eye, came from nowhere, to whence they returned, but not before offering history some butter tarts. (If you've been wondering for 20 years, the Canadian treat resembles mini pecan pies sans pecans. They're better than you think.)|date=July 23, 2019|accessdate=August 10, 2022}}</ref>
+
+==See also==
+{{portal|Food}}
+* [[List of butter dishes]]
+* [[List of pies, tarts and flans]]
+* [[Canadian cuisine]]
+* [[List of Canadian inventions and discoveries]]
+
+==References==
+{{Reflist}}
+
+{{Wiktionary|butter tart}}
+{{Cookbook}}
+{{Foods featuring butter}}
+
+{{DEFAULTSORT:Butter Tart}}
+[[Category:Canadian desserts]]
+[[Category:Cuisine of Ontario]]
+[[Category:Tarts]]
+[[Category:Foods featuring butter]]
+[[Category:National dishes]]

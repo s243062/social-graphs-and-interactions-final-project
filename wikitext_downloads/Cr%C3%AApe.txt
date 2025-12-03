@@ -1,0 +1,167 @@
+{{Short description|Thin pancake in French cuisine}}
+{{About|the batter/dough based food|the cloth|Crêpe (textile)|the decorative paper|Crêpe paper|other uses|Crepe (disambiguation)}}
+{{EngvarB|date=May 2018}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox food
+| name = Crêpe
+| image = Crepes dsc07085.jpg
+| image_size = 250px
+| caption = A stack of crêpes
+| alternate_name = Crepe
+| place_of_origin = [[France]]<ref>{{Cite web |last=Vachon |first=Pamela |date=2022-01-13 |title=The History of Crêpes |url=https://www.ice.edu/blog/french-crepes |access-date=2025-11-07 |website=[[Institute of Culinary Education]] |language=en-US}}</ref>
+| region = [[Brittany]]<ref>{{Cite web |last=Vachon |first=Pamela |date=2021-01-02 |title=The history of crêpes: A personal and historical exploration of the famous French pancake's origin |url=https://www.salon.com/2021/01/02/the-history-of-crpes-a-personal-and-historical-exploration-of-the-famous-french-pancakes-origin_partner/ |access-date=2023-09-10 |website=[[Salon.com]] |language=en-US}}</ref><ref>{{Cite web |last= Mikus |first=Matt |date=July 31, 2015 |title=Crepe history connected to France |url=https://eu.petoskeynews.com/story/news/local/2015/07/31/crepe-history-connected-to-france/45240655/ |access-date=2023-09-10 |website=[[Petoskey News-Review]] |language=en-US}}</ref>
+| type =
+| served =
+| main_ingredient = [[Wheat flour]], [[milk]], [[Eggs as food|eggs]], [[butter]], [[sugar]] and/or [[salt]]
+| variations = 
+| calories = 
+| other = 
+}}
+
+[[File:Crêpe opened up.jpg|thumb|A sweet crêpe opened up, with whipped cream and [[strawberry sauce]] on it]]
+A '''crêpe''' or '''crepe''' ({{IPAc-en|audio=En-us-crepe.ogg|k|r|eɪ|p}} {{respell|KRAYP}}<ref>Longman Pronunciation Dictionary. 3rd Ed. 2008.<br />[http://www.merriam-webster.com/dictionary/crêpe Merriam-Webster Dictionary]</ref> <small>or</small> {{IPAc-en|k|r|ɛ|p}} {{respell|KREP}}, {{IPA|fr|kʁɛp|lang|Fr-Paris--crêpe.ogg}}, {{IPA|fr-CA|kʁaɪ̯p||Qc-crêpe.ogg|label=[[Quebec French]]:}}) is a dish made from [[Leavening agent|unleavened]] [[Batter (cooking)|batter]] or [[dough]] that is cooked on a [[frying pan]] or a [[griddle]]. Crêpes are usually one of two varieties: ''sweet crêpes'' ({{lang|fr|crêpes sucrées}}) or ''savoury [[Kaletez|galettes]]'' ({{lang|fr|crêpes salées}}). They are often served with a wide variety of fillings such as cheese, fruit, vegetables, meats, and a variety of spreads.<ref>{{Cite web|date=2016-09-14|title=48 Delicious Crepe Fillings That Will Rule Your Sunday Brunch!|url=https://www.diys.com/delicious-crepe-fillings/|access-date=2021-11-12|website=DIYs.com|language=en-US}}</ref> Crêpes can also be [[flambé]]ed, such as in [[Crêpe Suzette|crêpes Suzette]].
+
+==Etymology==
+The French term "{{lang|fr|crêpe|italic=no}}" derives from {{lang|la|crispa}}, the feminine version of the [[Latin]] word {{lang|la|crispus}}, which means "curled, wrinkled, having curly hair."<ref>{{Cite web|title=crepe {{!}} Search Online Etymology Dictionary|url=https://www.etymonline.com/search?q=crepe|access-date=2021-11-12|website=www.etymonline.com}}</ref>
+
+==Traditions==
+In France, crêpes are traditionally served on the Christian holiday {{lang|fr|La Chandeleur}} ([[Candlemas]]), on February 2.<ref>{{Cite book|last=Roy|first=Christian|url=https://books.google.com/books?id=IKqOUfqt4cIC&dq=candlemas+crepe&pg=PA41|title=Traditional Festivals: A Multicultural Encyclopedia|date=2005|publisher=ABC-CLIO|isbn=978-1-57607-089-5|language=en}}</ref> On that day in 472, [[Pope Gelasius I]] offered crepes as [[sacramental bread]] to French pilgrims that were visiting Rome for the Chandeleur.<ref>{{Cite web |title=The History of Crêpes {{!}} Institute of Culinary Education |url=https://ice.edu/blog/french-crepes |access-date=2022-10-11 |website=ice.edu |date=13 January 2022 |language=en}}</ref> The sacramental bread was replaced by crêpes in France, and the day became known as "Le Jour des Crêpes" ("The Day of the Crêpes"). The day is also celebrated by many as the day that marks the transition from winter to spring (similar to the North American tradition of [[Groundhog Day]]), with the golden colour and circular shape of crêpes representing the sun and the circle of life.<ref name=":02">{{Cite web |date=2017-02-01 |title=Why the French Eat Crêpes on February 2 |url=https://www.cntraveler.com/story/how-to-celebrate-la-chandeleur-frances-crepe-holiday |access-date=2022-10-11 |website=Condé Nast Traveler |language=en-US}}</ref>
+
+There are a few superstitions around the preparation of crêpes for Le Jour des Crêpes.
+
+One example involves holding a gold coin (such as a [[Louis d'or]]) or ring in the left hand while successfully flipping a crêpe in a pan with the right hand. It is said to bring a person wealth in the upcoming year (other variations describe a year of good weather).<ref>{{Cite web |last=Salzberg |first=Alysa |date=2022-01-31 |title=All about La Chandeleur, a day of superstition and crepes |url=https://frenchtogether.com/chandeleur/ |access-date=2022-10-11 |website=French Together |language=en-US}}</ref>
+
+Another version of the tradition involves cooking a crêpe with a gold coin on top. Some hide the first crêpe in a drawer instead of eating it for good luck in the coming year. Eating and sharing crêpes with others on Candlemas is another tradition based on popes giving food to the poor every year on February 2.<ref name=":02" />
+
+A traditional rhyming French proverb describes the tradition of eating crêpes on Candlemas: “manger des crêpes à la chandeleur apporte un an de bonheur” (eating crêpes on Candlemas brings a year of happiness).<ref name=":1">{{Cite book |last=Albala |first=Ken |title=Pancake: A Global History |publisher=Reaktion Books Ltd |year=2008 |isbn=9781861893925 |edition=1st |location=London |pages=24–93}}</ref>
+
+== Types ==
+Sweet crêpes are generally made with [[wheat flour]] ({{lang|fr|farine de blé}}). When sweet, they can be eaten as part of [[breakfast]] or as a [[dessert]]. Common fillings include hazelnut [[Chocolate spread|cocoa spread]], [[preserves]], sugar (granulated or powdered), [[maple syrup]], [[golden syrup]], [[lemon juice]], [[whipped cream]], [[fruit spread]]s, [[custard]], and sliced soft fruits or [[confiture]].
+
+Savoury crêpes can be made with non-wheat flours such as [[buckwheat]]. A normal savoury crêpe recipe includes using wheat flour but omitting the sugar.<ref>{{cite web |last1=Alfaro |first1=Danilo |title=Sweet or Savory Basic Crepe Recipe |url=https://www.thespruceeats.com/basic-crepe-recipe-sweet-or-savory-995317 |website=The Spruce Eats |publisher=Dotdash |access-date=3 April 2020}}</ref> Batter made from buckwheat flour is [[gluten]]-free, which makes it possible for people who have a wheat allergy or gluten [[Food intolerance|intolerance]] to eat this type of crêpe.<ref>{{Cite journal|last1=Mariotti|first1=Manuela|last2=Pagani|first2=M. Ambrogina|last3=Lucisano|first3=Mara|date=2013-01-01|title=The role of buckwheat and HPMC on the breadmaking properties of some commercial gluten-free bread mixtures|url=https://www.sciencedirect.com/science/article/pii/S0268005X12001580|journal=Food Hydrocolloids|language=en|volume=30|issue=1|pages=393–400|doi=10.1016/j.foodhyd.2012.07.005|issn=0268-005X|url-access=subscription}}</ref> Common savoury fillings for crêpes are cheese, ham, and eggs, [[ratatouille]], mushrooms, [[artichoke]] (in certain regions), and various meat products.
+
+[[Batter (cooking)|Batters]] can also consist of other ingredients such as butter, milk, water, eggs, flour, salt, and sugar.<ref>"Wrap it up in a crêpe; Thin pancakes work in savoury or sweet dishes." Times-Colonist (Victoria, British Columbia). (24 April 2013 Wednesday) LexisNexis Academic.</ref> Fillings are commonly added to the centre of the crêpe and served with the edges partially folded over the centre. An Indian variety of the crêpe uses a multi-grain flour called "bhajanee," eggs, [[curd]], and an assortment of spices as its ingredients. It is a modern variation of an Indian dish called [[Thalipeeth]].
+[[File:202412 彩虹千層蛋糕與草莓奶油千層蛋糕(Photo by Junyu-K).jpg|thumb|Slices of "mille-crêpe" cakes from Taiwan]]
+Crêpes can also be made into crepe cakes by stacking plain crepes on top of each other, adding a layer of filling between the layers. Fruits, chocolate, cookies, marshmallow, etc., can be added. Most crêpe cakes are sweet and considered dessert. It can also replace the traditional birthday cake. Crêpe cakes are usually 15–30 layers, and the crêpes used are very thin and soft.<ref>{{Cite web|date=2020-10-19|title=Tiramisu Crepe Cake Recipe|url=https://sallysbakingaddiction.com/tiramisu-crepe-cake/|access-date=2021-11-12|website=Sally's Baking Addiction|language=en-US}}</ref>
+
+A cake made with layers of crêpes with a filling in between is called “gâteau de crêpes” or “ミルクレープ(mille-crêpes)” (a Japanese-made French word combining crêpes and [[mille-feuille]]).<ref>{{Cite web|title=Invented Overseas, Reinterpreted in Japan: Unique Japanese Sweets with International Roots {{!}} LIVE JAPAN travel guide|url=https://livejapan.com/en/in-hokkaido/in-pref-hokkaido/in-sapporo_chitose/article-a0000628/|access-date=2021-02-26|website=LIVE JAPAN|language=en}}</ref> This French pâtisserie,<ref>{{cite book |last=Babinski |first=Henri|authorlink=Henri Babinski |date=1923 |title= Gastronomie pratique : études culinaires; suivies du Traitement de l'obésité des gourmands |edition=3rd |language=French |trans-title=The Encyclopedia of Practical Gastronomy |url=https://gallica.bnf.fr/ark:/12148/bpt6k34113057/f865.item |access-date=2021-10-12}}</ref><ref>{{cite book |last=Child |first=Julia |date=1976 |title= Mastering the Art of French Cooking |publisher=Knopf |isbn=9785879620764 |edition=3rd |language=English | url=https://books.google.com/books?id=ukkVAwAAQBAJ&pg=PA653 |access-date=2021-10-12}}</ref> was popularised by Emy Wada, a pâtissière who studied in France<ref>{{Cite web|date=2021-01-02|title=The history of crêpes: A personal and historical exploration of the famous French pancake's origin|url=https://www.salon.com/2021/01/02/the-history-of-crpes-a-personal-and-historical-exploration-of-the-famous-french-pancakes-origin_partner/|access-date=2021-10-12|website=Salon|language=en-US}}</ref> and operated Paper Moon Cake Boutiques in Japan, in the 1980s. In 2001, she expanded to New York City, where she supplied crêpe cakes to popular chains [[Dean & DeLuca]] and [[Takashimaya]] through the company [[Lady M (boutique)|Lady M]].<ref>{{Cite web|date=2011-09-15|title=Gâteau de Crêpes (Crepe Cake)|url=https://www.thelittleepicurean.com/2011/09/gateau-de-crepes-crepe-cake.html|access-date=2021-02-26|website=The Little Epicurean|language=en-US}}</ref>
+
+==Recipe==
+[[File:Crepes.webmhd.webm|thumb|Video demonstration of preparing crêpes]]
+The standard recipe for French crêpe calls for flour, eggs, milk, salt, and butter. Sugar is optional. In the industrial production of crêpes, the dry ingredients are combined with eggs to form a dough. The rest of the wet ingredients are then added to thin the batter to a loose enough consistency to spread easily. The batter is added, one ladle at a time, to a hot, greased pan, cooked until golden, then flipped. Crêpe batter is characterised by its liquidity, making it easy to spread in a thin layer. Crêpes are also characterised by their quick cooking time, usually 20–30 seconds per side.<ref>Guibert-Martin, Jury, V., Bouchet, B., Roellens, G., Lioret, P., & Le-Bail, A. (2017). Impact of the baking protocol on the structure of French crêpes. Journal of Food Engineering, 196, 183–192. https://doi.org/10.1016/j.jfoodeng.2016.07.002</ref>
+
+In older versions of crêpe recipes, beer or wine was used instead of milk. Buckwheat flour is often used as well, specifically in making a [[Galette|Breton Galette]].<ref name=":1" />
+
+==Crêperies==
+A '''crêperie''' ({{IPA|fr|kʁɛpʁi|lang}}) may be a [[Take-out|takeaway]] restaurant or stall, serving crêpes as a form of fast food or [[street food]], or it may be a more formal sit-down restaurant or café. Crêperies can be found throughout France, especially in [[Brittany]], and in many other countries. Many also serve apple [[cider]], a popular drink to accompany crêpes.
+
+<gallery widths="150px" heights="150px" mode="packed">
+Picswiss BS-55-89.jpg|A small crêperie in [[Basel]], Switzerland
+Creperie du Ciel à Münster.JPG|Crêperie in [[Münster]], Germany
+ศูนย์การแพทย์ปัญญานันทภิกขุ ชลประทาน (ธันวาคม 2022) crepe stall.jpg|A street crêperie stall in [[Pak Kret]], Thailand
+マリオンクレープ (45607141481).jpg|A [[:ja:マリオンクレープ|Marion Crepes]] store in [[Tokyo]], Japan
+</gallery>
+
+==Special crêpes==
+[[File:Mille crêpe.jpg|thumb|Mille crêpes]]
+''Crepe cakes'', known in French as ''mille crêpes'', are a [[Cuisine of France|French]] cake made of many crêpe layers. The word ''mille'' means "a thousand," implying the many layers of crêpe.<ref>{{cite news| url=https://www.nytimes.com/2005/05/15/magazine/15FOOD.html | work=The New York Times | title=The Way We Eat: Building a Modern, Multistoried Dessert | first=Amanda | last=Hesser | date=15 May 2005}}</ref> Another standard French and Belgian crêpe is the ''[[crêpe Suzette]]'', a crêpe with lightly grated orange peel and [[liqueur]] (usually [[Grand Marnier]]), which is lit during presentation.<ref>Courtine, Robert J. (1984), ''Larousse gastronomique'' (French edition), Paris: Librairie Larousse.</ref>
+
+[[File:49ers flapjack OHP.jpg|thumb|right|A plate of 49er flapjacks]]
+The ''49er flapjack'' is a [[sourdough]] crêpe which is popular in the United States,<ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-1995-03-16-ol-43368-story.html |title=Why They Sell Like Hot Cakes |work=Los Angeles Times |date=16 March 1995 |access-date=19 October 2018}}</ref> getting its name from the popularity of this style of pancake during the [[California Gold Rush]]. Because it is similar to a Swedish pancake, the 49er is sometimes served with [[lingonberry]] sauce, although most often, it is rolled up with butter and powdered sugar or served open-faced and topped with maple syrup.
+
+''Crêpe dentelle'' is a crispy biscuit made with a very thin layer of crêpe folded in a cigar shape and then baked. It is usually enjoyed with a hot drink during the ''goûter''<!-- , or [[Tea (meal)|Afternoon Tea]] No such thing in France-->, in France.<ref>{{cite web|title=lace crepes|url=http://www.alimentation-france.com/france/specialites/les-crepes-dentelles.html|access-date=4 December 2012|archive-url=https://web.archive.org/web/20121221085858/http://www.alimentation-france.com/france/specialites/les-crepes-dentelles.html|archive-date=21 December 2012|url-status=dead}}</ref>
+
+==Crêpes in European culture==
+In [[Norwegian language|Norwegian]], crêpes are called ''pannekake'', and in most [[German language|German]] regions ''Crêpes'' (referring to a wide and flat crêpe, as opposed to the smaller and thicker native ''Pfannkuchen'' pancakes). In [[swedish language|Swedish]], a crêpe is called ''pannkaka'' in southern regions while being called ''plättar'' in the north. In [[danish language|Danish]] it is called ''pandekager'' ("pancakes"). In Icelandic it is called ''pönnukaka.'' In [[Finnish language|Finnish]] a crêpe is called either ''ohukainen'' or ''lettu'' or '' lätty'' or ''räiskäle.'' In [[Greek language|Greek]] it is called krepa (Κρέπα). In [[Dutch language|Dutch]] it is a ''[[pannenkoek]]'' or ''flensje.'' In [[Afrikaans]] crêpes are called ''pannekoek'', and are usually served with [[cinnamon]] and sugar. In the Spanish regions of [[Galicia (Spain)|Galicia]] and [[Asturias]], they are traditionally served at carnivals. In Galicia, they're called ''filloas'' and may also be made with pork blood instead of milk. In Asturias, they are called ''fayueles'' or ''frixuelos'', and in [[Turkey]], ''akıtma''.
+
+In areas of [[central Europe]], formerly belonging to the [[Austro-Hungarian empire]], there is a thin pancake comparable to a crêpe that in [[Austro-Bavarian]] is called ''[[Palatschinken]]''; in {{langx|hu|palacsinta}}; and in [[Bosnian language|Bosnian]], [[Bulgarian language|Bulgarian]], [[Macedonian language|Macedonian]], [[Czech language|Czech]], [[Croatian language|Croatian]], [[Serbian language|Serbian]] and {{langx|sl|palačinka}}; in {{langx|sk|palacinka}}. In the Balkan countries, ''palačinka'' or ''pallaçinka'' may be eaten with fruit jam, [[quark cheese]], sugar, honey, or the hazelnut-chocolate cream [[Nutella]], while there is also a breaded variant which is mostly filled with meat. Restaurants specialising in palačinci are called "Palačinkara" in the region. In [[Ashkenazi]] Jewish cuisine, there is a similar dish known as the [[blintz]]. The ''Oxford English Dictionary'' derives the German and Slavic words from the Hungarians ''[[palacsinta]]'', which it derives from the Romanian ''plăcintă'', which comes in turn from classical Latin ''placenta'' ("small flat cake"), even though the Romanian ''plăcintă'' is more similar to a pie, and the crêpes are called ''clătită''.
+
+During the East Slavic celebration of [[Maslenitsa]] (Cheesefare Week), one of the most popular foods are [[blini]], or crêpes. Since they are made from butter, eggs, and milk, crêpes can be consumed during the celebration by the [[Eastern Orthodox Church|Orthodox church]].  White flour can be replaced with buckwheat flour, milk can be switched for [[kefir]], and oils can be added or substituted.  Blini are served with butter and topped with [[caviar]], cheese, meat, potatoes, mushrooms, honey, berry jam, or often a dollop of sour cream. The dish is supposed to represent the sun since the holiday is about the beginning of spring.<ref>{{cite web |last=Nesterova |first=Maria |url=http://eurokulture.missouri.edu/buttery-crepes-of-deliciousness-and-other-stuff/ |title=Maslenitsa, another Russian festival you've probably never heard of |work=Eurokulture.missouri.edu |date=24 February 2014 |access-date=19 October 2018 |archive-date=29 September 2018 |archive-url=https://web.archive.org/web/20180929031152/http://eurokulture.missouri.edu/buttery-crepes-of-deliciousness-and-other-stuff/ |url-status=dead }}</ref>
+{{Gallery
+|align=center
+|width=200
+|height=155
+|File:Fruit_Filled_crêpe.jpg|A sweet crêpe filled with oats and berries and topped with whipped cream
+|File:Frixuelos-fayuelos.jpg|Frixuelos. This is a kind of crêpe made in Asturias, Spain.
+|File:Finnish Summer Pastime (7568431466).jpg|Making [[Finland|Finnish]] crêpes called ''ohukainen''
+|File:Chocolate-Coconut Crêpe Paris.jpg|Chocolate-Coconut Crêpe served in crêperie near the Pantheon in Paris, France
+}}
+
+==Crêpes outside of Europe==
+Crêpes have also long been popular in [[Japan]] and [[Malaysia]], with sweet and savoury varieties being sold at many small stands, usually called crêperies. In [[Argentina]], [[Uruguay]], and [[Chile]], they are called ''panqueques'' and are often eaten with [[dulce de leche]]. Various other French foods such as crêpes, [[soufflé]]s, and [[quiche]] have slowly made their way into American cooking establishments.<ref>Benenson, R. (1984). Dining in America. Editorial research reports 1984 (Vol. I). Washington, DC: CQ Press.</ref> Typically, these franchises stick to the traditional French method of making crêpes, but they have also put their own spin on the crêpe with new types, such as the hamburger and pizza crêpe. In Canada, particularly in French-speaking regions, crêpes and galettes have long been traditional food items.
+
+[[File:Displayed Crêpes of Japan.jpg|thumb|[[Harajuku]] Crêpes]]
+[[File:Crepe vending machine in Kagoshima.jpg|thumb|Crepe vending machine in [[Kagoshima]]]]
+The Japanese crêpes developed into something different from the French crêpes due to their various fillings and toppings, and the style later spread outside of [[Japan]]. It is often called '[[Harajuku]] Crêpes'. In Japan, French crêpes were introduced in the 1970s, and they were only spread with jam and were not very popular. In 1977, Mizuki Ono opened a crêpe shop in Harajuku and, taking inspiration from [[Monaka|ice cream monaka]], began to sell crêpes with ice cream, whipped cream, and sliced fruit, which became very popular. They were rarely made at home and spread as sweets purchased from street stalls and eaten on the street.<ref>{{cite web|url=https://dot.asahi.com/wa/2016030100261.html?page=2|archive-url=https://web.archive.org/web/20170701102157/https://dot.asahi.com/wa/2016030100261.html?page=2|script-title=ja:本場フランスに逆輸入もされた“ハラジュクスタイル” カフェクレープ開発秘話|language=ja|publisher=[[Asahi Shimbun]]|date=6 March 2016|archive-date=1 July 2017}}</ref><ref>{{cite web|url=https://www.shibukei.com/special/81/|archive-url=https://web.archive.org/web/20210119093201/https://www.shibukei.com/special/81/|script-title=ja:今や「竹下通り」の定番アイテム？原宿とクレープの甘い関係|language=ja|publisher=Shibuya Keizai Shimbun|date=23 May 2003|archive-date=19 January 2021}}</ref><ref>{{cite web|url=https://itsjapantime.com/japanese-crepes-a-harajuku-take-on-a-french-staple/|archive-url=https://web.archive.org/web/20211105074317/https://itsjapantime.com/japanese-crepes-a-harajuku-take-on-a-french-staple/|title=Japanese Crêpes: a Harajuku take on a French staple|publisher=Japan time|date=6 October 2021|archive-date=5 November 2021}}</ref>
+
+In Mexico, crêpes are known as ''crepas'' and were introduced during the 19th century by the French<ref>Fernández-del-Villar, Miguel Angel and Ruiz-Naufal,  Víctor M., ''Mesa Mexicana'' (1993), Fundación Cultural Bancomer, {{ISBN|9789686084948}}</ref><ref>{{cite web|last=Hursh |first=Karen |url=http://www.mexconnect.com/articles/2139-the-french-influence-on-mexican-cooking-la-comida-afrancescada |title=The French Influence On Mexican Cooking |work=Mexconnect.com |date=1 February 2005 |access-date=19 October 2018}}</ref> and are typically served either as a sweet dessert when filled with ''[[cajeta]]'' (similar to [[dulce de leche]]), or as a savoury dish when filled with ''Huitlacoche'' ([[corn smut]]), which is considered a delicacy.
+
+==Similar dishes in other cuisines==
+{{original research|section|date=June 2023}}
+In Southern India, a similar dish made of fermented [[rice]] [[Batter (cooking)|batter]] is called a [[Dosa (food)|dosa]], which often has savoury fillings.<ref>{{Cite web |date=2011-09-29 |title=Massive Indian crepes a huge draw |url=https://www.dispatch.com/story/entertainment/dining/2011/09/29/massive-indian-crepes-huge-draw/23626876007/ |access-date=2025-09-09 |website=[[The Columbus Dispatch]] |language=en-US}}</ref> In Western India, a dish made of [[gram flour]] is called "Pudlaa" or "Poodla," with the batter consisting of vegetables and spices. Another variety is called "patibola" and is sweet in taste due to milk, [[jaggery]], or sugar. The [[injera]] of [[Ethiopia]]n/[[Eritrea]]n/[[Somali people|Somali]]/[[Yemen]]i cuisine is often described as a thick crêpe. In Somalia, [[malawah]] is very similar to a crêpe. It is mostly eaten at breakfast.
+
+In China, [[Jianbing]] is a traditional Chinese street food similar to crêpes. It is generally eaten for breakfast and hailed as "one of China's most popular street breakfasts."  It consists of wheat and grain-based crepe, an egg, deep-fried crackers (known as Bao Cui/薄脆 in Chinese), chopped scallions, coriander, and typically a mixture of chilli and soybean paste.<ref>{{Cite web |date=2023-12-11 |title=Video guide to making Jianbing, China’s favourite breakfast crêpe |url=https://gulfnews.com/food/video-guide-to-making-jianbing-chinas-favourite-breakfast-crpe-1.1670421223286 |access-date=2025-09-09 |website=[[Gulf News]] |language=en}}</ref>
+
+In [[Indonesia]], [[Kue leker]] is a type of Indonesian crêpe. Also, ''ledre'', a rolled banana crêpe from [[Bojonegoro]].<ref>{{cite web |title=Ledre |url=https://sippadu.bojonegorokab.go.id/menu/open/71/ledre |url-status=dead |archive-url=https://web.archive.org/web/20220618034410/https://sippadu.bojonegorokab.go.id/menu/open/71/ledre |archive-date=18 June 2022 |access-date=21 April 2022 |website=bojonegorokab.go.id |language=id, en}}</ref>
+
+In the [[Philippines]], a  native crêpe recipe is the ''[[Daral (food)|daral]]'' which is made from ground [[glutinous rice]] and [[coconut milk]] batter (''[[galapong]]''). It is rolled into a cylinder and filled with sweetened coconut meat strips (''[[bukayo|hinti]]'').<ref>{{cite web |last1=Polistico |first1=Edgie |title=daral |url=https://pinoyfoodillustrated.blogspot.com/2012/12/daral.html |website=Philippine Food Illustrated |date=28 December 2012 |access-date=15 January 2020}}</ref>
+
+In [[Taiwan]], [[Danbing]] is a traditional Taiwanese breakfast similar to crêpes. The dough is made by kneading cornstarch and sweet potato flour with water into a thin dough, and an omelet is baked on top of the dough.<ref>{{cite web |author=[[Angela Hui (writer)|Angela Hui]]|url=https://www.huffingtonpost.co.uk/entry/this-taiwanese-egg-pancake-is-an-ideal-no-fuss-breakfast-for-kids_uk_5f48c9ffc5b697186e346589 |title=This Taiwanese Egg Pancake Is An Ideal No-Fuss Breakfast For Kids |publisher=Huffington Post |access-date=2022-10-27 |date=31 August 2020}}</ref> In Taiwan, dan bing is mainly sold at breakfast shops, restaurants as well as [[Night markets in Taiwan|night market]] food stalls. They are also sold commercially in supermarkets, where the dough is [[frozen food|frozen]] in plastic packaging, and egg is added as the dough is heated.<ref>{{cite news |author=G. Daniela Galarza |url=https://www.washingtonpost.com/food/2022/10/27/dan-bing-recipe-egg-crepe/ |title=Dan bing are a Taiwanese breakfast treat that can be a meal anytime |newspaper=The Washington Post |access-date=2022-10-27 |date=27 October 2022}}</ref>
+
+==See also==
+{{columns-list|colwidth=22em|
+* [[List of pancakes]]
+* [[Bánh xèo]]
+* [[Blini]]
+* [[Maslenitsa]] – a related Eastern Slavic festival
+* [[Blintz]]
+* [[Blodplättar]] – a form of savoury crepe made with blood
+* [[Brik]]
+* [[Crêpe bretonne]]
+* [[Crepe maker]] – crepe cooking device
+* [[Dosa (food)|Dosa]]
+* [[Galette]] – another kind of Breton pancake, also from Brittany, France
+* [[Injera]]
+* [[Jianbing]] – a traditional Chinese street food similar to a crepe
+* [[Kue leker]] – a traditional Indonesian crepe
+* [[Krampouz]] – crepe maker manufacturer, also from Brittany, France
+* [[Memiljeon]]
+* [[Palatschinken]]
+* [[Pek Nga]] – Malaysian crepe-like snack
+* [[Popiah]] – Chinese roll wrapped in a thin crepe made by "wiping" dough on a hot plate
+* [[Roti prata]]
+* [[Sope (food)|Sope]]
+* [[Swedish pancake]]
+* [[Tava]]
+* [[Krumkake]]
+* [[Fazuelos]]
+* [[Waffle]]}}
+
+==References==
+{{reflist}}
+
+==Sources==
+: 19. Life A La Henri – Being The Memories of Henri Charpentier, by Henri Charpentier and Boyden Sparkes, The Modern Library, New York, 2001 Paperback Edition.  Originally published in 1934 by Simon & Schuster, Inc.
+
+==External links==
+* {{commons-inline}}
+* {{Wiktionary-inline}}
+* {{cookbook-inline}}
+* [https://firmitas.org/crepe.php How to make a crepe]
+
+{{Pancakes}}
+{{Street food}}
+{{Authority control}}
+{{Portal bar|France|Food}}
+
+{{DEFAULTSORT:Crepe}}
+[[Category:Pancakes]]
+[[Category:Belgian cuisine]]
+[[Category:Breton cuisine]]
+[[Category:Desserts]]
+[[Category:European cuisine]]
+[[Category:French desserts]]
+[[Category:Snack foods]]
+[[Category:Street food]]
+[[Category:Articles containing video clips]]
+[[Category:National dishes]]

@@ -1,0 +1,58 @@
+{{short description|Colombian potato soup}}
+{{Infobox prepared food
+| name             = Ajiaco
+| image            = Ajiaco.jpg
+| caption          = Ajiaco is one of the most representative dishes of [[Bogotá, Colombia]].
+| alternate_name   =
+| course           = 
+| served           = 
+| type             = [[Soup]]
+| country          = [[Pre-Columbian era]]
+| region           = [[Latin America]]
+| main_ingredient  = [[Potatoes]], chicken 
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Ajiaco''' ({{IPA|es|aˈxjako}}) is a [[soup]] common to [[Colombia]], [[Cuba]],<ref name="cuban">{{cite web|url=http://www.tasteofcuba.com/ajiacocubano.html |title=Cuban Ajiaco Recipe |publisher=Tasteofcuba.com |access-date=2014-06-03}}</ref>  and [[Peru]].<ref name="nytimes">Clark, Melissa (October 28, 2011). [https://www.nytimes.com/2011/11/02/dining/from-colombia-the-ultimate-one-pot-meal-a-good-appetite.html?_r=0 "From Colombia, the Ultimate One-Pot Meal"]. ''[[The New York Times]]''. Accessed April 2016.</ref> Scholars have debated the origin of the dish. The dish is especially popular in the Colombian capital, [[Bogotá]], being called ajiaco santafereño, where it is typically made with chicken, three varieties of [[potatoes]], and the herb ''[[Galinsoga parviflora]]'', known locally as ''guasca'' or ''guascas''. In Cuba, ajiaco is prepared as a stew, while in Peru the dish is prepared with a number of regionally specific variations.
+
+==History==
+The exact origin of this dish has been debated by scholars.<ref name="cuban"/> In his book ''Lexicografia Antillana'', former president of Cuba [[Alfredo Zayas y Alfonso]] stated that the word "ajiaco" derived from "aji", the native [[Taíno people|Taíno]] word for "[[hot pepper]]." Cuban ethnologist [[Fernando Ortiz Fernández|Fernando Ortiz]] stated that ajiaco was a meal typical of the Taíno, and was an appropriate metaphor for Cuba being a [[melting pot]].<ref>Fernando Ortiz, "Los factores humanos de la cubanidad," in ''Etnia y sociedad'', ed. Isaac Barreal (Havana: Editorial de Ciencias Sociales, 1993), 1–20</ref> In the Cuban city of Camagüey, the San Juan festival begins with the making and serving of ajiaco.<ref name="lacalle">{{cite web|url=http://www.lacalle.cu/index.php/2013/06/25/el-ajiaco-de-camaguey/ |title=El ajiaco de Camagüey |publisher=Lacalle.cu |date=2013-06-25 |access-date=2014-06-03 |url-status=dead |archive-url=https://web.archive.org/web/20140606202451/http://www.lacalle.cu/index.php/2013/06/25/el-ajiaco-de-camaguey/ |archive-date=2014-06-06 }}</ref> ''La Calle'' magazine of Cuba stated that the inhabitants of the village of Santa María de Puerto del Príncipe began the tradition of making ajiaco using their own cooking ingredients, donations from passersby, surplus from farmers, and surplus slave provisions.<ref name="lacalle"/> Ajiaco is believed to have become popular in Cuba during the 16th century, particularly among rural Cubans, although it was occasionally enjoyed by the [[upper class]].<ref name="cubanow">{{Cite web |url=http://www.cubanow.net/articles/emblematic-dish-ajiaco |title=Emblematic dish: the ajiaco {{!}} Cubanow<!-- Bot generated title --> |access-date=2013-08-26 |archive-date=2014-06-06 |archive-url=https://web.archive.org/web/20140606234708/http://www.cubanow.net/articles/emblematic-dish-ajiaco |url-status=dead }}</ref>
+
+==Preparation==
+[[File:Ajiaco.jpeg|thumb|Ajiaco in [[Bogotá]], Colombia]]
+
+===Colombia===
+In the Colombian<ref name="viviendocali">{{cite web|url=https://www.viviendocali.com/receta-ajiaco-santafereno/ |title=Ajiaco Santafereño |language=es|publisher=viviendocali.com |access-date=2023-08-08}}</ref> capital of [[Bogotá]], ajiaco is a popular dish typically made with chicken, three varieties of [[potatoes]], and the ''[[Galinsoga parviflora]]'' herb, commonly referred to in Colombia as ''guasca'' or ''guascas'', and in the U.S., where it is considered a weed, as gallant soldier.<ref name="mycolombian">{{cite web|url=http://www.mycolombianrecipes.com/ajiaco-bogotano-colombian-chicken-and |title=Ajiaco Bogotano (Colombian Chicken and Potato Soup) |publisher=Mycolombianrecipes.com |date=2009-03-19 |access-date=2014-06-03}}</ref><ref>[http://eatocracy.cnn.com/2012/08/20/colombian-potatoes/ Americans just don’t understand the potato. Colombians do. – Eatocracy - CNN.com Blogs<!-- Bot generated title -->]</ref> It can be garnished with [[capers]], [[avocado]] slices, pieces of [[corn on the cob]], or [[cream]].
+
+===Cuba===
+In Cuba, ajiaco is a hearty stew made from beef, pork, chicken, vegetables, and a variety of starchy roots and [[tubers]] classified as ''viandas''.<ref name="cuban"/><ref>Garth, Hanna. 2013 Food and Identity in the Caribbean. Bloomsbury Press.</ref>
+
+===Peru===
+In Peru, ajiaco is a quite different dish of potatoes cooked with garlic, a mix of dried yellow and red chilies (aji mirasol and [[aji panca]]), [[hierba buena]], and [[huacatay]], generally accompanied by rice and stewed chicken or rabbit.
+
+===Chile===
+In [[Chile]], ajiaco is a food of northern origin, it contains beef, onion, carrot and paprika, garlic and colored chili, potatoes and seasonings, powdered rib broth and [[coriander]]/parsley.
+
+==See also==
+* [[List of soups]]
+* [[List of potato dishes]]
+* {{portal-inline|Food}}
+
+==Further reading==
+* {{cite web |title=Ajiaco: Chicken, corn and potato soup: A special soup cooked by an ambassador |author=Kate Ryan |date=15 Mar 2023 |website=BBC World Table |url=https://www.bbc.com/travel/article/20230314-ajiaco-chicken-corn-and-potato-soup}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{commonscat-inline}}
+
+{{Potato dishes}}
+
+[[Category:Colombian soups]]
+[[Category:Cuban soups]]
+[[Category:Latin American cuisine]]
+[[Category:Peruvian soups]]
+[[Category:Potato dishes]]
+[[Category:Stews]]

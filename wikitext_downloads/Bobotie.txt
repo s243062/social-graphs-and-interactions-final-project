@@ -1,0 +1,81 @@
+{{short description|South African dish (food)}}
+{{distinguish|Bobote}}
+{{EngvarB|date=July 2016}}
+{{Use dmy dates|date=July 2016}}
+{{Infobox food
+| name             = Bobotie
+| image            = Bobotie, South African dish.jpg
+| image_size       = 
+| caption          = Bobotie with salad and chutney
+| alternate_name   = 
+| country          = [[South Africa]]
+| region           = 
+| creator          = 
+| course           = 
+| served           = 
+| main_ingredient  = [[Ground meat|Minced meat]]
+| variations       = 
+| calories         = 
+}}
+
+'''Bobotie''' ({{IPA|af|bəˈbuəti|audio=LL-Q14196 (afr)-Oesjaar-bobotie.wav}}) is a South African dish consisting of spiced [[ground meat|minced meat]] baked with an egg-based topping.<ref name="Times" />
+
+==Origin of name and recipe==
+Bobotie appears to be a variant of ''patinam ex lacte'', a dish documented by the ancient Roman writer [[Apicius]] consisting of layers of cooked meat, pine nuts, and seasoned with pepper, [[celery]] seeds and [[asafoetida]]. These were cooked until the flavours had blended, when a top layer of egg and milk was added. When the latter had set, the dish was ready to be served.<ref>Claassens, H.W., Die Geskiedenis van Boerekos 1652-1806, unpublished D.Phil. thesis, University of Pretoria, 2003, pp. 195–6.</ref> [[C. Louis Leipoldt]], a South African writer and gourmet, wrote that the recipe was known in Europe in the seventeenth century.<ref>C. Louis Leipoldt, Leipoldt's Cape Cookery, Cape Town, 1976, p. 16.</ref>
+
+The origin of the word ''bobotie'' is contentious. The Afrikaans etymological dictionary claims that the probable origin is the Malayan word ''[[Bumbu (seasoning)|boemboe]]'', meaning curry spices.<ref>Etimologiewoordeboek van Afrikaans, WAT, 2003, p. 58.</ref> Others think it to have originated from ''[[bobotok]]'',<ref>{{cite journal|last=Hoogervorst|first=Tom |date=Dec 2018|url=https://www.cambridge.org/core/journals/itinerario/article/sailors-tailors-cooks-and-crooks-on-loanwords-and-neglected-lives-in-indian-ocean-ports/442E3D4F7E58EFBB54C935A8064D2F92 |title=Sailors, Tailors, Cooks, and Crooks: On Loanwords and Neglected Lives in Indian Ocean Ports|journal=Itinerario|publisher=Research Institute for History, Leiden University|volume=42|issue=3|page=532|doi=10.1017/S0165115318000645|doi-access=free}}</ref><ref name="JPBobotie">{{cite news | title =Bobotie's melting pot | author =Theodora Hurustiati | date =10 November 2013 | newspaper =The Jakarta Post | url =http://www.thejakartapost.com/news/2013/11/10/bobotie-s-melting-pot.html | access-date =12 May 2015 | archive-date =18 May 2015 | archive-url =https://web.archive.org/web/20150518093916/http://www.thejakartapost.com/news/2013/11/10/bobotie-s-melting-pot.html | url-status =live }}</ref> an Indonesian dish which consisted of totally different ingredients.<ref name="Smit, S. 1983">Smit, S., and Fulton, M. (1983) The South African Encyclopedia of Food and Cookery. Cape Town; C Struik.</ref> The first recipe for bobotie appeared in a Dutch cookbook in 1609.{{verification needed|date=December 2017}}<ref name="Smit, S. 1983"/> Afterwards, it was taken to South Africa and adopted by the [[Cape Malay]] community.<ref name="Times">{{Cite web |url=http://www.timeslive.co.za/lifestyle/food/article617120.ece/Bobotie |title="Bobotie" – Times Live |access-date=31 August 2010 |archive-date=9 October 2012 |archive-url=https://web.archive.org/web/20121009071230/http://www.timeslive.co.za/lifestyle/food/article617120.ece/Bobotie |url-status=dead }}</ref> It is also made with curry powder, leaving it with a slight "tang".<ref>{{Cite web |url=https://pqasb.pqarchiver.com/courant/access/922270592.html?dids=922270592:922270592&FMT=ABS&FMTS=ABS:AI&type=historic&date=Jan+12%2C+1967&author=&pub=Hartford+Courant&desc=Bobotie+Is+South+African+Favorite&pqatl=google |title="Bobotie Is South African Favorite" – The Hartford Courant |access-date=5 July 2017 |archive-date=3 November 2012 |archive-url=https://web.archive.org/web/20121103171720/http://pqasb.pqarchiver.com/courant/access/922270592.html?dids=922270592:922270592&FMT=ABS&FMTS=ABS:AI&type=historic&date=Jan+12,+1967&author=&pub=Hartford+Courant&desc=Bobotie+Is+South+African+Favorite&pqatl=google |url-status=dead }}</ref> It is often served with [[sambal]].<ref>[https://pqasb.pqarchiver.com/timesdispatch/access/17992362.html?dids=17992362:17992362&FMT=ABS&FMTS=ABS:FT&type=current&date=May+31%2C+1995&author=Alexa+Welch+Times-Dispatch&pub=Richmond+Times+-+Dispatch&desc=SAMPLING+SOUTH+AFRICA+COOKS+MELD+FAR-FLUNG+CUISINES+TO+CREATE+A+FLAVOR+FOR+A+NATION&pqatl=google "Sampling South Africa Cooks Meld Far Flung Cuisines to Create a Flavor for a Nation" – Richmond Times]{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref> The dish has been known in the [[Cape of Good Hope]] since the 17th century, when it was made with a mixture of [[mutton]] and pork.<ref>{{Cite web |url=https://www.nytimes.com/1981/12/20/travel/bobotie-south-africa-s-indigenous-cuisine.html |title="Bobotie, South Africa's Indigenous Cuisine" – New York Times |access-date=6 February 2017 |archive-date=24 September 2021 |archive-url=https://web.archive.org/web/20210924141158/https://www.nytimes.com/1981/12/20/travel/bobotie-south-africa-s-indigenous-cuisine.html |url-status=live }}</ref>
+
+==Preparation==
+[[File:Bobootie 2.JPG|thumb|Bobotie, ready in a baking dish]]
+[[File:Bobotie_South_Africa.jpg|thumb|Bobotie, with egg and milk-soaked bread mixture, colored with turmeric. Almonds for topping, banana, chutney, coconut and rice on side.]]
+Today, bobotie is much more likely to be made with beef or [[Lamb and mutton|lamb]], although pork can also be used. Early recipes incorporated [[ginger]], [[marjoram]] and [[lemon]] rind; the introduction of [[curry powder]] has simplified the recipe but the basic concept remains the same. Some recipes also call for chopped onions and [[almond]]s to be added to the mixture. Traditionally, bobotie incorporates [[dried fruit]] like [[raisin]]s or [[sultana (grape)|sultana]]s. It is often garnished with [[bay leaves]], walnuts, [[chutney]] and [[banana]]s.<ref>[http://www.iol.co.za/index.php?set_id=9&click_id=247&art_id=qw1014898861822C432&page_number=1 "Bobotie, a local and international winner" – Independent Online]</ref> Although not particularly spicy, the dish incorporates a variety of flavours that can add complexity. For example, the dried fruit (usually [[apricot]]s and raisins or sultanas) contrasts the curry flavouring. The texture of the dish is also complex, the baked egg mixture topping complementing the milk-soaked bread which adds moisture to the dish. Bobotie is usually served with "yellow rice", which is rice cooked with [[turmeric]].{{Cn|date=February 2025}}
+
+===Leipoldt's recipe===
+Leipoldt's recipe book published in 1933 calls for finely minced meat, breadcrumbs, milk, onions and butter and a curry sauce made with spices, sugar, lemon juice, chilli pepper and vinegar. This is baked with a topping of egg and milk.<ref>Leipoldt, C. Louis, Kos vir die Kenner, Human & Rossouw, 2011, p. 253.</ref>
+
+===Tulleken's recipe===
+A 1923 recipe by Mrs S. van H. Tulleken uses mutton, almonds, bitter almond essence, onions, butter, bread, curry powder, lemon juice, eggs and sugar, baked with a custard topping of eggs and milk.<ref>Tulleken, S. van H.,  The Practical Cookery Book for South Africa, 22nd edition, 1947, p. 133.</ref>
+
+==Bobotie elsewhere in Africa==
+Bobotie recipes were transported by [[Afrikaaners|South African settlers]] to other parts of Africa. Today, recipes for it can be found that originated in Afrikaner-descended settler communities in [[Botswana]], [[Kenya]], [[Zambia]] and [[Zimbabwe]]. There is a variation that was popular among the 7,000 [[Boer]] settlers who settled in the [[Chubut River]] Valley in [[Argentina]] in the early 20th century, in which the bobotie mixture is packed inside a large pumpkin, which is then baked until tender.{{Cn|date=February 2025}}
+
+==In culture==
+
+===2008 Augusta National Champions Dinner===
+
+Bobotie was selected by [[2008 Masters Tournament|2008 Masters]] golf champion and South African native [[Trevor Immelman]] as the featured menu item for [[Augusta National Golf Club|Augusta National]]'s annual "Champions Dinner"  in April 2009. Each year, the reigning champion at The Masters golf tournament, played every year in [[Augusta, Georgia]], hosts the gathering and tends to create a menu featuring specialties from his home region.<ref>{{Cite web |url=http://golf.about.com/od/majorchampionships/a/champdinner.htm |title="On the Menu: The Champions Dinner at The Masters" – About.com |access-date=13 April 2009 |archive-date=11 April 2009 |archive-url=https://web.archive.org/web/20090411154938/http://golf.about.com/od/majorchampionships/a/champdinner.htm |url-status=dead }}</ref>
+
+===2014 Epcot International Food and Wine Festival===
+
+South African bobotie was one of the featured items on the menu; it is also served with turkey and mushrooms. It is listed as gluten-free. It is also on the everyday menu at the buffet restaurant Boma at Disney's Animal Kingdom Lodge.<ref>{{cite web|url=http://guidewdw.com/africa-2014-epcot-international-food-wine-festival-menu/ |title=AFRICA – 2014 EPCOT INTERNATIONAL FOOD & WINE FESTIVAL MENU |publisher=GuideWDW.com |access-date=27 September 2014 |url-status = dead|archive-url=https://web.archive.org/web/20141014122948/http://guidewdw.com/africa-2014-epcot-international-food-wine-festival-menu/ |archive-date=14 October 2014 |df=dmy }}</ref>
+
+==See also==
+{{Portal|South Africa|Food}}
+* ''[[Cook and Enjoy It]]'', a cookbook by S.J.A. de Villiers
+* [[List of African dishes]]
+* [[List of meat dishes]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20071127020829/http://www.congocookbook.com/rare_recipes/laurens_van_der_post.html Bobotie recipe] from [[Laurens van der Post]]
+*[http://allears.net/din/recipes/rec-bob.htm Bobotie recipe] from Boma at [[Disney's Animal Kingdom Lodge]]
+
+{{African cuisine}}
+{{South African cuisine}}
+
+[[Category:Casserole dishes]]
+[[Category:Ground meat]]
+[[Category:Meat dishes]]
+[[Category:South African cuisine]]
+[[Category:Botswana cuisine]]
+[[Category:Kenyan cuisine]]
+[[Category:Zimbabwean cuisine]]
+[[Category:Zambian cuisine]]
+[[Category:Argentine cuisine]]
+[[Category:Egg dishes]]
+[[Category:Dried fruit]]
+[[Category:Spicy foods]]
+[[Category:Curry dishes]]
+[[Category:Ginger dishes]]

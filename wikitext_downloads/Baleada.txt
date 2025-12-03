@@ -1,0 +1,33 @@
+{{Short description|Traditional Honduran dish}}
+{{Infobox prepared food
+| name             = Baleada
+| image            = Baleada.jpg
+| image_size       = 250px
+| caption          = A baleada, as it is usually served
+| alternate_name   = 
+| country          = Honduras
+| creator      = 
+| course           = 
+| type             = [[Tortilla]]
+| served           = 
+| main_ingredient  = [[Wheat flour]], fried [[beans]] and crumbled [[cheese]]
+| variations       = 
+| other            = 
+}}
+
+A '''baleada''' ({{IPA|es|baleˈaða}}) is a traditional Honduran dish, believed to have originated on the northern coast of the country.{{cn|date=July 2022}} It is composed of a [[flour]] [[tortilla]], filled with a smear of mashed [[Refried beans|refried red beans]] (a variety of bean native to Central and South America), ''[[crema (dairy product)|crema]]'' (''mantequilla blanca''), and crumbled ''queso duro'' (salty hard cheese). This is usually called ''baleada sencilla'' (simple baleada).<ref>{{Cite web |date=2023-09-11 |title=Honduran Baleadas - One Happy Housewife |url=https://www.onehappyhousewife.com/honduran-baleadas/ |access-date=2024-03-03 |website=www.onehappyhousewife.com |language=en-US}}</ref> Other ingredients may include [[scrambled eggs]], [[Avocado|avocados]], meat, or plantains.
+
+==See also==
+* ''[[Phaseolus vulgaris]]''
+* [[Black turtle bean]]
+* [[Honduran cuisine]]
+
+==References==
+{{Reflist}}
+
+[[Category:Honduran cuisine]]
+[[Category:Tortilla-based dishes]]
+[[Category:National dishes]]
+
+
+{{Honduras-cuisine-stub}}

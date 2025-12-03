@@ -1,0 +1,146 @@
+{{short description|French veal ragout}}
+{{Infobox prepared food
+| name = Blanquette de veau
+| image = Blanquette de veau à l'ancienne 04.jpg
+| image_size =
+| caption = 
+| alternate_name = 
+| country = France
+| region = Normandy
+| creator = 
+| course = 
+| type = Stew
+| served = 
+| main_ingredient = [[Veal]], [[Mirepoix (cuisine)|mirepoix]], butter or cream, flour
+| variations = 
+| calories = 
+| other = 
+}}
+'''Blanquette de veau''' ({{IPA|fr| blɑ̃kɛt də vo| language|Blanquette-de-veau.ogg }}) is a [[French cuisine|French]] [[veal]] stew. In the classic version of the dish the meat is simmered in a [[white stock]] and served in a ''[[sauce velouté]]'' enriched with cream and egg. It is among the best-liked meat dishes in France.
+
+==Definition==
+''[[The Oxford Companion to Food]]'' describes "blanquette" as "a French and to some extent international culinary term indicating a dish of white meat (veal, poultry, also lamb) served in a white sauce".<ref>Davidson, pp. 80–81</ref> In the ''[[Larousse gastronomique]]'', [[Prosper Montagné]]'s definition is "the French term for a ragout of white meat (veal, lamb or poultry) cooked in a [[white stock]] or water with aromatic flavourings".<ref name=larousse>Montagné, p. 125</ref>{{refn|Montagné adds that blanquettes, which had "a very important place in historical cuisine and became a classic of [[bourgeois]] cookery", were also made with fish ([[monkfish]]) and vegetables ([[chard]] and celery).<ref name=larousse/>|group=n}}
+
+In their ''[[Mastering the Art of French Cooking]]'', [[Simone Beck]], [[Louisette Bertholle]] and [[Julia Child]] describe blanquette de veau as "a much-loved stew in France … veal simmered in a lightly seasoned white stock … served in a sauce velouté made from the veal cooking stock and enriched with cream and egg yolks".<ref>Beck ''et al'', p. 383</ref> In 2007 [[Anne Willan]] wrote that French television had recently conducted a poll of favourite meat dishes in which "Blanquette de veau was in the top five, with [[steak frites]] and gigot d'agneau [leg of lamb]".<ref name=willan/>
+
+==Ingredients==
+The name "blanquette" derives from "blanc", the French word for white, and there is a purist view that the whiteness of the dish is key, and coloured vegetables such as carrots should not be included. In the words of [[Anthony Bourdain]]:
+{{blockindent|There are certain rules in the world of cooking. One of them is that color contrast is a good thing. A plate with too much white, for instance, cries out for some garnish, some color, something, anything, to distract the eye from all that monochrome. But not this dish. This dish is the exception to the rule. For a chef, it can be maddening to make it for the first time, as the natural impulse, the sum total of all one's training, says "Put some carrot in there – a little chopped parsley, for God's sake!" Resist the urge. It's supposed to be white. All white. Keep it that way. It makes something of a statement.<ref name=bourdain>Bourdain, p. 142</ref>}}
+Some cooks, such as Willan, share Bourdain's view, but numerous cooks from [[Auguste Escoffier]] (1907) onwards have included carrots in their recipes for blanquette de veau, though in many cases the carrot is removed prior to serving.<ref>Beard, p. 276; Berry, p. 78; Bocuse, p. 77; Brazier, p. 188; Carrier, p. 196; Claiborne, p. 134; Escoffier, p. 692; Field, p. 179; Grigson, p. 205; Guérard, p. 202; Pomiane. p. 225; Robuchon, pp. 156–157; and Roux, p. 150</ref>
+
+Beck, Bertholle and Child list six suitable cuts of veal for a blanquette: poitrine (breast), haute de côtes (short ribs), épaule (shoulder), côtes découvertes (middle neck) and gîte/jarret (knuckle).<ref>Beck ''et al'', p. 381</ref> Other cooks and food writers have differed in their recommended cuts for the dish:
+
+{| class="wikitable plainrowheaders" style="text-align: left; margin-right: 0;"
+! scope="col" |Cook/writer
+! scope="col" |Recommended cut
+! scope="col" |{{Refh}}
+|-
+|[[James Beard]]
+| shoulder
+| <ref>Beard, p. 276</ref>
+|-
+| [[Mary Berry]]
+| shoulder
+| <ref>Berry, p. 78</ref>
+|-
+| [[Paul Bocuse]]
+| flank and tendron{{refn|In French butchery the tendrons are from the middle of the underside of the animal, between the breast to the front and the flank to the rear.|group=n}}
+| <ref>Bocuse, p. 77</ref>
+|-
+| [[Anthony Bourdain]]
+| neck or shoulder 
+| <ref name=bourdain>Bourdain, p. 142</ref>
+|-
+| [[Eugénie Brazier]]
+| mixture of breast and collar 
+| <ref>Brazier, p. 188</ref>
+|-
+| [[Robert Carrier (chef)|Robert Carrier]]
+| shoulder or breast 
+| <ref>Carrier, p. 196</ref>
+|-
+| [[Craig Claiborne]]
+| shoulder 
+| <ref>Claiborne, p. 134</ref>
+|-
+| [[Auguste Escoffier]]
+| breast, shoulder and collar ribs 
+| <ref name=escoffier>Escoffier, p. 692</ref>
+|-
+| [[Michael Field (food writer)|Michael Field]]
+| leg or rump
+| <ref>Field, p. 179</ref>
+|-
+| [[Jane Grigson]]
+| shoulder
+| <ref>Grigson, p. 205</ref>
+|-
+| [[Michel Guérard]] 
+| shoulder 
+| <ref>Guérard, p. 202</ref>
+|-
+| [[Edouard de Pomaine]] 
+| breast 
+| <ref>Pomiane. p. 225</ref>
+|-
+| [[Joël Robuchon]] 
+| collar, shoulder or knuckle, and either tendron or breast
+| <ref>Robuchon, pp. 156–157</ref>
+|-
+| [[Michel Roux, Jr.]]
+| breast 
+| <ref>Roux, p. 150</ref>
+|-
+| [[Louis Saulnier (writer)|Louis Saulnier]] 
+| shoulder or tendron 
+| <ref>Saulnier, p. 171</ref>
+|-
+| [[Anne Willan]]
+| shoulder 
+| <ref name=willan>Willan, p. 147</ref>
+|-
+|[[David Leite]]
+|(chicken) breast
+|<ref>{{Cite web |last=Leite |first=David |date=2022-03-24 |title=Creamy French Chicken Stew |url=https://leitesculinaria.com/399606/recipes-creamy-french-chicken-stew.html |access-date=2025-10-28 |website=Leite's Culinaria |language=en-US}}</ref>
+|}
+[[File:Hannah-Glasse-Blanquette.png|thumb|upright=1.5|alt=extract from 18th-century cookery book|[[Hannah Glasse]]'s recipe, from the 1770 edition of her ''[[The Art of Cookery Made Plain and Easy]]'']]In older recipes the veal was roasted and allowed to go cold before being sliced or chopped, covered in a white sauce and reheated.<ref>Francatelli, p. 260</ref> [[Eliza Acton]]'s 1858 recipe includes mushrooms gently sautéed in butter and served over the veal with "sauce tournée" (also called velouté).<ref>Acton, p. 273</ref> There was at one time some question of how blanquettes were to be distinguished from [[fricassée]]s. In 1960 ''[[The Times]]'' commented:
+{{blockindent|Both should be made from fresh meat (usually chicken, veal or lamb) cooked in a flavoured white stock. The meat for a fricassée is often cooked (without browning) in butter before it is simmered. For a blanquette the meat is more often [[Blanching (cooking)|blanched]] with herbs and seasoning, this liquid being added to a white roux to make the sauce in which the cooking is finished. For both dishes the sauce should be bound with a liaison of egg yolks, cream and lemon juice before serving.<ref>"Cookery Glossary", ''The Times'', 1 August 1960, p. 9</ref>}}
+
+According to Montagné, blanquette de veau is usually served with rice ''à la créole'' but may also be served with [[celeriac]], halved celery hearts, carrots, braised parsnips or leeks, braised cucumber, braised lettuce or lettuce hearts.<ref name=larousse/> Pasta or potatoes are sometimes served instead of rice, and Escoffier recommends noodles.<ref name=escoffier/>
+
+==Notes, references and sources==
+===Notes===
+{{Reflist|group=n}}
+===References===
+{{Reflist}}
+===Sources===
+*{{cite book | last =Acton | first = Eliza | title = Modern Cookery, in All Its Branches | date = 1858| orig-date=1845|location = Philadelphia| publisher = Lea and Blanchard | oclc = 191115250|url=https://archive.org/details/moderncookeryin01actogoog/page/n163/mode/2up?q=blanquette }} 
+*{{cite book | last = Beard | first = James | title= The James Beard Cookbook| date = 1959| location = New York | publisher =Dell | oclc = 1035934036| url=https://archive.org/details/jamesbeardcookbo00bear/page/276/mode/2up}} 
+*{{cite book | last = Beck | first =Simone |author2 = Bertholle, Louisette  |author3 = Child, Julia | title = Mastering the Art of French Cooking, Volume One | date = 2012 | orig-date = 1961 | location = London | publisher = Particular | isbn = 978-0-241-95339-6 }} 
+*{{cite book | last = Berry | first = Mary | title = Popular Freezer Cookery| date = 1972| location = London | publisher = Octopus | isbn= 978-0-7064-0159-2|url= https://archive.org/details/popularfreezerco0000berr_g8a9/page/78/mode/2up?q=%22blanquette+de+veau%22}}
+*{{cite book | last = Bocuse | first = Paul | title = Les meilleures recettes des régions de France| date = 2002| location = Paris | publisher = Flammarion| isbn =978-2-08-200929-4 }} 
+*{{cite book | last = Bourdain | first = Anthony | title = Anthony Bourdain's Les Halles cookbook | date = 2004| location = London | publisher = Bloomsbury | isbn =978-0-7475-8012-6 |url=https://archive.org/details/b30502287/page/56/mode/2up }}
+*{{cite book |last1= Brazier |first1 = Eugénie |last2= Moreau |first2 = Roger|last3= Bocuse |first3 = Paul|last4= Pacaud |first4 = Bernard|translator=Drew Smith |title= La Mère Brazier: The Mother of Modern French Cooking|location =London |publisher=Modern Books |year =2015|orig-date=2004 |isbn =978-1-906761-84-4}}
+*{{cite book | last = Carrier | first = Robert | title = Great Dishes of the World| date =1983| location = New York | publisher = A & W | isbn = 978-0-89479-134-5|url=https://archive.org/details/greatdishesofwor0000carr/page/196/mode/2up?q=%22blanquette+de+veau%22}} 
+*{{cite book | last = Claiborne | first = Craig | title = A Kitchen Primer | date =1973 | location =London | publisher = Penguin| isbn =978-0-14-046172-5 }}
+* {{cite book | last= Davidson|first=Alan | title=The Oxford Companion to Food | location=Oxford | publisher=Oxford University Press | year=1999 | isbn=978-0-19-211579-9  }}
+*{{cite book | last = Escoffier | first = Auguste | title = Le guide culinaire: aide-mémoire de cuisine pratique| date = 1907| location = Paris | publisher = Colin | oclc = 969508192 |url=https://archive.org/details/leguideculinaire00esco_0/page/692/mode/2up?q=blanquette}} 
+*{{cite book | last = Field | first = Michael | title = Michael Field's Cooking School | date = 1965 | location = New York | publisher = M. Barrows | oclc= 1036710870 |url=https://archive.org/details/michaelfieldscoo00fiel/page/178/mode/2up?q=%22blanquette+de+veau%22 }} 
+*{{cite book | last = Francatelli | first = Charles Elmé | title = The Modern Cook|date =1911|orig-date=1845| location = London | publisher = Macmillan | oclc = 862897713|url= https://archive.org/details/b21530154/page/n7/mode/2up?q=blanquette}}
+*{{cite book | last = Grigson | first = Jane | title =The Mushroom Feast | date = 1975| location = London | publisher = Penguin | isbn = 978-0-14-046273-9}}
+*{{cite book | last = Montagne | first = Prosper | title= Larousse Gastronomique | date = 2001 | location = New York| publisher = Clarkson Potter  | isbn =978-0-609-60971-2 }} 
+*{{cite book | last = Pomiane | first = Edouard de | title = 365 menus, 365 recettes| date = 1938| location =Paris | publisher =A Michel | oclc = 459599801|url=https://archive.org/details/McGillLibrary-rbsc_365-menus-365-recettes_TX728P651938-17651/page/n223/mode/2up?q=%22blanquette+de+veau%22 }} 
+*{{cite book | last = Robuchon | first = Joël |editor-last= Dudemaine| editor-first=Sophie| title = La cuisine de Robuchon par Sophie| date = 2011| location =Paris | publisher =Ducasse | isbn = 978-2-84123-334-2}}
+*{{cite book | last =Roux | first =Michel Jr | title = A Life in the Kitchen| date = 2009| location = London | publisher = Weidenfeld & Nicolson | isbn =978-0-297-84482-2 }} 
+*{{cite book | last = Saulnier | first = Louis | title = Le répertoire de la cuisine | edition = fourteenth | date = 1978 | orig-date = 1923 | location = London | publisher = Jaeggi | oclc = 1086737491}}
+*{{cite book | last = Willan | first = Anne | title = The Country Cooking of France| date = 2007| location = San Francisco | publisher = Chronicle Books | isbn = 978-0-8118-4646-2|url=https://archive.org/details/countrycookingof0000will/page/146/mode/2up?q=%22when+French+television%22}}
+
+==See also==
+* [[Cuisine of France]]
+* [[List of stews]]
+* [[List of veal dishes]]
+* {{portal-inline|Food}}
+
+{{DEFAULTSORT:Blanquette de Veau}}
+[[Category:French stews]]
+[[Category:Veal dishes]]

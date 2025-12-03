@@ -1,0 +1,56 @@
+{{Short description|Traditional Portuguese boiled meal}}
+{{Infobox food
+| name             = Cozido à portuguesa
+| image            = Cozido a portuguesa 1.JPG
+| caption          = ''Cozido à portuguesa'' (Portuguese boil) plate
+| alternate_name   =
+| country          = [[Portugal]]
+| region           =
+| national_cuisine = [[Portuguese cuisine]]
+| creator          =
+| year             =
+| mintime          = 240
+| maxtime          =
+| type             = ''[[Cozido]]''
+| course           =
+| served           =
+| main_ingredient  = [[Vegetable]]s, [[meat]]s, Portuguese [[smoked sausage]]s
+| minor_ingredient =
+| variations       =
+| serving_size     = 1
+| calories         = 1178
+| calories_ref     = <ref name="Piazzesi">{{Cite book|url=https://books.google.com/books?id=BMUlyImo6uoC&pg=PA94|title=A cozinha portuguesa: uma viagem inesquecívelm através dos paladares e das cores de um país encantador|publisher=Casa Editrice Bonechi|year=2009|isbn=978-88-476-0925-9|editor-last=Piazzesi|editor-first=Paolo|location=Florence, Italy|pages=94|language=pt|translator-last=Castro|translator-first=Cristina|orig-year=2002}}</ref>
+| protein          = 67
+| fat              = 55
+| carbohydrate     =
+| glycemic_index   =
+| similar_dish     =
+| other            =
+}}
+
+{{lang|pt|'''Cozido à portuguesa'''}} ({{IPA|pt|kuˈziðu a puɾtuˈɣezɐ|pron}}) or '''Portuguese stew''' is a type of ''[[cozido]]'', traditional Portuguese boiled meal.<ref name="Alpas">{{Cite book|url=https://link.springer.com/book/10.1007/978-90-481-9558-9|title=Food Chain Security|last=Veiga|first=Alexandra|last2=Empis|first2=José|publisher=[[Springer Science+Business Media|Springer]]|year=2010|isbn=978-90-481-9560-2|editor-last=Alpas|editor-first=Hami|series=NATO Science for Peace and Security Series C: Environmental Security|location=Dordrecht, The Netherlands|pages=134|chapter=Food Chain Defense and Its Potential Implications on Traditional Foods: The Portuguese Case|doi=10.1007/978-90-481-9558-9_10|editor-last2=Çırakoğlu|editor-first2=Beyazit|chapter-url=https://books.google.com/books?id=ii4RBwAAQBAJ&pg=PA134}}</ref><ref name="Sinclair">{{Cite book|url=https://books.google.com/books?id=Mdwm7jI9J10C&pg=PT1051|title=Dictionary of Food: International Food and Cooking Terms from A to Z|publisher=[[A & C Black]]|year=2010|isbn=978-1-4081-0218-3|editor-last=Sinclair|editor-first=Charles|edition=Electronic|location=London|pages=1051|orig-year=1998}}</ref><ref name="Trichopoulou">{{Cite journal|last=Trichopoulou|first=Antonia|last2=Soukara|first2=Stavroula|last3=Vasilopoulou|first3=Effie|year=2007|title=Traditional foods: a science and society perspective|journal=[[Trends in Food Science & Technology]]|series=EuroFIR|volume=18|issue=8|pages=420–427|doi=10.1016/j.tifs.2007.03.007}}</ref> Numerous regional variations exist throughout [[Portugal]], and the dish is considered part of the [[Portuguese cuisine|Portuguese]] heritage, as well as one of the [[national dish]]es of Portugal.<ref name="Sinclair" /><ref name="Holland">{{Cite book|url=https://books.google.com/books?id=9wm5BAAAQBAJ&pg=PT71|title=The World on a Plate: 40 Cuisines, 100 Recipes, and the Stories Behind Them|last=Holland|first=Mina|publisher=[[Penguin Books]]|year=2015|isbn=978-0-14-312765-9|location=New York|pages=78|language=English|orig-year=2014}}</ref><ref name="Poelzl">{{Cite book|url=https://books.google.com/books?id=cRqJAAAAQBAJ&pg=PA150|title=Culture Shock! Portugal: A Survival Guide to Customs and Etiquette|last=Poelzl|first=Volker|publisher=[[Marshall Cavendish]]|year=2007|isbn=978-0-7614-5672-8|location=Tarrytown, NY|pages=150}}</ref>
+
+==Preparation and ingredients==
+''Cozido à Portuguesa'' is prepared with a multitude of vegetables ([[Brassica oleracea|cabbage]]s, [[Phaseolus vulgaris|bean]]s, [[potato]]es, [[carrot]]s, [[turnip]]s, [[rice]]), meat ([[chicken as food|chicken]], [[pork ribs]], [[bacon]], pork [[pig's ear (food)|ear]] and [[pig's trotters|trotters]], various parts of [[beef]]), and [[smoked sausage]]s ([[chouriço]], [[farinheira]], [[morcela]]), among others. In the [[São Miguel Island]], [[Azores]], a local version of the Cozido à Portuguesa is cooked underground with heat and steam coming from the volcanic phenomena in the area.<ref>{{cite web|url=https://en.azoresguide.net/how-to-make-and-where-to-eat-cozido-das-furnas/|title=How to make and where to eat Cozido das Furnas?|website=Açores Natureza Viva|publisher=Via Oceânica|access-date=30 August 2022|date=11 May 2021}}</ref>
+
+== See also ==
+{{Commons category|Cozido à portuguesa}}
+{{Portal|Portugal|Food}}
+* {{annotated link|Bosnian pot}}
+* {{annotated link|Cocido lebaniego|''Cocido lebaniego''}}
+* {{annotated link|Cocido montañés|''Cocido montañés''}}
+* {{annotated link|Irish stew}}
+* {{annotated link|Pot-au-feu|''Pot-au-feu''}}
+* {{annotated link|Jota (food)|''Jota''|aka=Istrian stew}}
+* {{annotated link|List of stews}}
+
+== References ==
+{{Reflist|2}}
+
+[[Category:National dishes]]
+[[Category:Portuguese stews]]
+[[Category:Sausage dishes]]
+
+{{DISPLAYTITLE:''Cozido à portuguesa''}}
+
+{{Portugal-cuisine-stub}}

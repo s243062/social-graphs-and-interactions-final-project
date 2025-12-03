@@ -1,0 +1,42 @@
+{{Short description|Traditional Slovak dish}}{{Infobox prepared food
+| name             = Bryndzové halušky
+| image            = Bryndzové halušky so slaninou.jpg
+| image_size       = 250px
+| caption          = {{Lang|sk|Bryndzové halušky|italic=no}} with bacon
+| alternate_name   = 
+| country          = [[Slovakia]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Dumpling]]
+| served           = 
+| main_ingredient  = [[Halušky]], [[bryndza]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''{{Lang|sk|Bryndzové halušky|italic=no}}''' ({{IPA|sk|ˈbrindzɔʋeː ˈɦaluʂki|lang}}), [[Austrian German]]: ''Brimsennocken'') is one of the [[national dish]]es in [[Slovakia]].<ref name=cravens2006p75>{{cite book |first=Craig Stephen |last=Cravens |title=Culture and customs of the Czech Republic and Slovakia |publisher=[[Greenwood Publishing Group]] |location=[[Westport, Connecticut]] |year=2006 |page=[https://archive.org/details/culturecustomsof00crav/page/75 75]|isbn=0-313-33412-9 |oclc=67240291 }}<!--|access-date=1 March 2009--></ref><ref name=dunford2007p452>{{cite book |first=Lisa |last=Dunford |chapter=Slovakia: Food & Drink |chapter-url=https://books.google.com/books?id=gIymIi4UvFcC&pg=PA452 |editor=Paul Smitz |editor2=Aaron Anderson |editor3=Steve Kokker |editor4=Brett Atkinson |editor5=Becca Blond |title=Lonely Planet Central Europe |publisher=[[Lonely Planet]] |location=[[Hawthorn, Victoria]] |year=2007 |page=452 |isbn=978-1-74104-301-3 |oclc=85763619 }}</ref> This meal consists of [[halušky]]<ref name=sinkovec2004>{{cite book |first=Magdalena |last=Sinkovec |chapter=Bryndzové Halušky / Potato Dumplings with 'Bryndza' Sheep Cheese and Bacon |chapter-url=https://books.google.com/books?id=9fNgBO3aEK8C&pg=PA115 |title=Culinary Cosmic Top Secrets A Nato Cookbook |year=2004 |publisher=[[Lulu (company)|Lulu]] |pages=115–16 |isbn=1-4116-0837-2 }}</ref> (boiled lumps of potato dough similar in appearance to [[gnocchi]])<ref name=sinkovec2004/><ref name=cravens2006p75/><ref name=dunford2007p452/> and [[bryndza]]<ref name=sinkovec2004/> (a soft [[sheep cheese]]),<ref name=cheese.com>{{cite web |url=http://www.cheese.com/Description.asp?Name=Bryndza |title=Cheese Description: Bryndza |access-date=1 March 2009 |publisher=Cheese.com }}</ref> optionally sprinkled with cooked bits of smoked pork fat or [[bacon]], and [[chive]]s or [[Scallion|spring onions]].<ref name=sinkovec2004/><ref name=cravens2006p75/><ref name=dunford2007p452/>
+
+
+[[Žinčica]] is traditionally drunk with this meal.<ref name="cravens2006p75" /> There is an annual bryndzové halušky festival in [[Turecká]] that features an [[Competitive eating|eating contest]].<ref>{{cite web |url=http://www.spectator.sk/articles/view/4209/9/ |title=Three liters of bryndzové halušky small work for hefty men in national eating competition |first=Matt |last=Reynolds |access-date=1 March 2009 |work=[[The Slovak Spectator]] |date=21 June 1999}}</ref><ref>{{cite web |url=http://www.haluskyturecka.sk/ |title=Halušky Turecká |language=sk |year=2008 |access-date=1 March 2009 |publisher=Občianske združenie Halušky Terchová |url-status=dead |archive-url=https://web.archive.org/web/20090227010612/http://haluskyturecka.sk/ |archive-date=27 February 2009 }}</ref>
+
+== History and terminology ==
+In the [[Kingdom of Hungary]], two types of galuska were developed at the same time: the potato galuska of the mountains and the galuska of the plains, without potatoes. Potatoes could be grown in harsher conditions and became a staple food for the poorer mountain dwellers, as less expensive flour was needed for the dough. Today the [[Slovaks]] call the soft dough dumplings with boiled potatoes and sheep's cheese ''bryndzové halušky'', while the [[Hungarians in Slovakia|local Hungarians]] call it ''sztrapacska''.  The Slovak ''[[Kapustové halušky|strapačky]]'' is a dish made mainly of dumplings with potatoes, as opposed to its [[Hungarians|Hungarian]] counterpart the ''[[Spätzle|nokedli]]'', which do not contain potatoes.{{Cn|date=February 2025}}
+
+==See also==
+*[[Strapačky]]
+
+==References==
+{{Portal|Slovakia|Food}}
+{{Reflist}}
+
+{{Cheese dishes}}
+{{Dumplings}}
+{{Potato dishes}}
+
+{{DEFAULTSORT:Bryndzove halusky}}
+[[Category:Slovak cuisine]]
+[[Category:Potato dishes]]
+[[Category:Cheese dishes]]
+[[Category:Dumplings]]
+[[Category:National dishes]]

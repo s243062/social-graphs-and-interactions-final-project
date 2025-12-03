@@ -1,0 +1,47 @@
+{{short description|Mediterranean kind of soup}}
+{{Infobox food
+| name = Fasolada
+| image = Fasolada.JPG
+| image_size = 250px
+| caption = 
+| alternate_name = Fasoulada, fasoulia
+| region = [[Greece]], [[Cyprus]]
+| creator = 
+| course = 
+| type = [[Soup]]
+| served = 
+| main_ingredient = [[Common bean|Dry white beans]], [[olive oil]], [[vegetable]]s and herbs
+| variations = 
+| calories = 
+| other = 
+}}
+'''Fasolada''' ({{langx|el|φασολάδα}}) or '''fasoulada''' ({{langx|el|φασουλάδα}}) is a [[Greek cuisine|Greek]] and [[Cypriot cuisine|Cypriot]] [[soup]] of [[Common bean|dry white beans]], [[olive oil]], and vegetables. It is sometimes called the "national food of the [[Greeks]]".<ref>{{cite book|title=Λεξικό της κοινής Νεοελληνικής|language=el|date=1998|author=Collective Work|location=[[Athens]]|publisher=Institute of Modern Greek Studies (Manolis Triandaphyllidis Foundation)|isbn=978-960-231-085-4}}</ref><ref>{{cite web|url=https://users.sch.gr/galexiad/files/lexika/babiniotis.pdf|title=Λεξικό της Νέας Ελληνικής Γλώσσας|language=el|date=2002|location=[[Athens]]|publisher=Lexicology Center EPE|first=Georgios|last=Babiniotis|author-link=Georgios Babiniotis|edition=2nd|pages=2031|url-status=live|archive-url=https://web.archive.org/web/20240718055726/https://users.sch.gr/galexiad/files/lexika/babiniotis.pdf|archive-date=18 July 2024}}</ref>    
+ 
+Fasolada is made by simmering beans with tomatoes and other vegetables such as [[carrots]], [[onion]], [[parsley]], [[thyme]], [[celery]], and [[bay leaf]]. [[Lima beans]] are sometimes used instead of white beans.<ref>{{cite web|url=https://www.tasteatlas.com/fasolada|title=Fasolada |publisher=[[TasteAtlas]]|url-status=live|archive-url=https://web.archive.org/web/20240114185621/https://www.tasteatlas.com/fasolada |archive-date=14 January 2024}}</ref><ref>{{cite web|url=https://www.gastronomos.gr/syntagh/fasolada-vinteo/119011/|title=Fasolada soup (video)|first=Nena|last=Ismyrnoglou|language=el|url-status=live|archive-url=https://web.archive.org/web/20220525195101/https://www.gastronomos.gr/syntagh/fasolada-vinteo/119011/|archive-date=25 May 2022}}</ref> Recipes vary considerably, often including meat like [[Pastirma|basturma]] and [[olive oil]].<ref>{{cite web|url=https://www.gastronomos.gr/syntages/fasolada-ola-ta-mystika-kai-13-lachtaristes-syntages/55435/|title=Fasolada soup: All the secrets and 13 delicious recipes|language=el|url-status=live|archive-url=https://web.archive.org/web/20230528122719/https://www.gastronomos.gr/syntages/fasolada-ola-ta-mystika-kai-13-lachtaristes-syntages/55435/ |archive-date=28 May 2023}}</ref><ref>{{cite web|url=https://www.gastronomos.gr/syntagh/fasolada-paradosiaki/97211/|title=Traditional fasolada soup|language=el|url-status=live|archive-url=https://web.archive.org/web/20240228152419/https://www.gastronomos.gr/syntagh/fasolada-paradosiaki/97211/ |archive-date=28 February 2024}}</ref><ref>{{cite web|url=https://www.gastronomos.gr/syntagh/fasolada-klasiki-paradosiaki/244518/|title=Classic and traditional fasolada soup|language=el|url-status=live|archive-url=https://web.archive.org/web/20240510211909/https://www.gastronomos.gr/syntagh/fasolada-klasiki-paradosiaki/244518/|archive-date=10 May 2024}}</ref>
+
+== Similar dishes ==
+Its counterparts are [[Italian cuisine|Italian]] ''[[fagiolata]]'', the [[Portuguese cuisine|Portuguese]] and [[Brazilian cuisine|Brazilian]] ''[[feijoada]]'', [[Bosnia and Herzegovina cuisine|Bosnian]] ''grah'', [[Romanian cuisine|Romanian]] ''fasole'', [[Albanian language|Albanian]] ''fasule'', and [[Spanish cuisine|Spanish]] ''[[fabada]]''. A similar dish in [[Turkish cuisine]] is called ''[[kuru fasulye]]''. The [[Arab cuisine|Arabic]] version is called [[fasoulia]] ({{langx|ar|فاصوليا}}) and is found in [[Egypt]], [[Ethiopia]], [[Iraq]], [[Jordan]], [[Lebanon]], [[Libya]], [[Palestine (region)|Palestine]], [[Saudi Arabia]], [[Sudan]], [[Syria]], and [[Yemen]]. <ref>{{cite web |url=https://www.gastronomos.gr/syntages/fasolada-me-polloys-tropoys-21-syntages-axeperastis-nostimias/250534/|title=Fasolada in many ways: 21 recipes|language=el|url-status=live|archive-url= https://web.archive.org/web/20240301134129/https://www.gastronomos.gr/syntages/fasolada-me-polloys-tropoys-21-syntages-axeperastis-nostimias/250534/|archive-date=1 March 2024}}</ref>
+
+==See also==
+* [[Gigandes plaki]]
+* [[Arab cuisine]]
+* [[Greek cuisine]]
+* [[List of bean soups]]
+* [[List of legume dishes]]
+* [[List of soups]]
+* {{portal-inline|Food}}
+
+==References==
+{{reflist}}
+
+{{Legume dishes}}
+{{Greek soups}}
+{{Cuisine of Greece}}
+{{Levantine cuisine}}
+{{Cuisine of Lebanon}}
+{{Soups}}
+
+[[Category:Bean soups]]
+[[Category:Greek soups]]
+[[Category:National dishes]]
+[[Category:Cypriot cuisine]]

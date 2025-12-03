@@ -1,0 +1,173 @@
+{{Short description|Traditional Maghrebi dish}}
+{{distinguish|Israeli couscous}}
+{{About||the possum species|Cuscus|the ancient Chilean village|Cuz Cuz|the French film|The Secret of the Grain}}
+{{pp-semi-indef}}
+{{Use American English|date=May 2018}}
+{{Use mdy dates|date=March 2012}}
+{{Infobox food
+| name               = Couscous
+| image              = Moroccan cuscus, from Casablanca, September 2018.jpg
+| image_size         = 235px
+| caption            = Couscous served with vegetables and chickpeas
+| alternate_name     = Kesksou, Seksu, Ta'ām, Kosksi
+| place_of_origin    = [[Maghreb]]
+| creator            = 
+| course             = Main course, side dish or dessert
+| served             = 
+| main_ingredient    = [[Semolina]]
+| variations         = Moghrabieh, maftoul
+| serving_size       = {{cups|1/4|US}}, dry
+| calories           = 150
+| calories_ref       = <ref>{{cite web |title=Health Benefits of Couscous |website=WebMD |url=https://www.webmd.com/food-recipes/benefits-couscous}}</ref>
+| protein            = 5
+| fat                = 0
+| carbohydrate       = 30
+}}
+'''Couscous''' ({{Langx|ar|كُسْكُس|kuskus}}) is a traditional North African dish<ref>{{cite web|title=Couscous|url=https://www.britannica.com/topic/couscous|website=[[Encyclopedia Britannica]]|access-date=May 19, 2022}}</ref><ref name="chemache">{{cite journal|title=Couscous: Ethnic making and consumption patterns in the Northeast of Algeria|last1=Chemache|first1=Loucif|last2=Kehal|first2=Farida|last3=Namoune|first3=Hacène|last4=Chaalal|first4=Makhlouf|last5=Gagaoua|first5=Mohammed|date=September 2018|journal=Journal of Ethnic Foods|language=en|volume=5|issue=3|pages=211–219|doi=10.1016/j.jef.2018.08.002|s2cid=133982691|issn=2352-6181|doi-access=free}} a quote: “Couscous or seksu (Image 1) in Berber language or kuskus in Arabic is by origin a Numidian (the Berber population of Numidia) dish…”</ref> of small{{efn|Usually about {{cvt|2|mm|in|frac=16}} in diameter, though a finer (1&nbsp;mm) and larger varieties (3&nbsp;mm or more) also exist in North Africa.}} [[steaming|steamed]] granules of rolled [[semolina]]<ref name="notpasta">{{cite web |url=https://www.nytimes.com/2009/02/24/health/23recipehealth.html |title=Couscous: Just Don't Call It Pasta |last=Shulman |first=Martha Rose |website=The New York Times |date=23 February 2009|access-date=May 19, 2022}}</ref> that is often served with a [[stew]] spooned on top. [[Pearl millet]], [[sorghum]], [[bulgur]], and other cereals are sometimes cooked in a similar way in other regions, and the resulting dishes are also sometimes called couscous.<ref>{{cite journal|url=https://www.cerealsgrains.org/publications/plexus/cfw/pastissues/2010/Documents/CFW-55-1-0016.pdf|title=Pearl Millet—New Developments in an Ancient Food Grain |url-status=|last1=Taylor |first1=J.R.N. |last2=Barrion |first2=S.C. |last3=Rooney |first3=L.W. |journal=Cereal Foods World |publisher=Cereal and Grains Association|year=2010 |volume=55 |issue=1 |pages=16–19 |doi=10.1094/CFW-55-1-0016 |access-date=May 19, 2022}}{{dead link|date=September 2023}}</ref><ref name="milletCC">{{cite journal |url=https://www.aaccnet.org/publications/plexus/cfw/pastissues/2010/Documents/CFW-55-1-0016.pdf |title=Pearl Millet—New Developments in an Ancient Food Grain |url-status=dead|last1=Taylor |first1=J.R.N. |last2=Barrion |first2=S.C. |last3=Rooney |first3=L.W. |journal=Cereal Foods World |year=2010 |volume=55 |issue=1 |pages=16–19 |doi=10.1094/CFW-55-1-0016 |archive-url=https://web.archive.org/web/20190822040357/https://www.aaccnet.org/publications/plexus/cfw/pastissues/2010/Documents/CFW-55-1-0016.pdf |archive-date=22 August 2019|access-date=May 19, 2022}}</ref>{{rp|18}}<ref name="codex">{{cite web |title=The Codex Alimentarius (Codex Standard) (1995)  |url=https://www.fao.org/fao-who-codexalimentarius/sh-proxy/es/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B202-1995%252FCXS_202e.pdf |publisher=Food and Agriculture Organization of the United Nations |access-date=May 19, 2022}}</ref>
+
+Couscous is a [[staple food]] throughout the [[Maghrebi cuisine]]s of [[Algeria]], [[Tunisia]], [[Mauritania]], [[Morocco]], and [[Libya]].<ref name="Naylor2015">{{cite book |last=Naylor |first=Phillip C. |title=Historical Dictionary of Algeria|url=https://books.google.com/books?id=ftFbCQAAQBAJ&pg=PA195 |date=May 2015 |publisher=Rowman & Littlefield |isbn=978-0-8108-7919-5 |page=195}}</ref><ref name="soletti">{{cite book |last1=Soletti |first1=Francesco |last2=Selmi |first2=Luca |title=Turismo gastronomico in Italia, Volume 1 |publisher=Touring Club Italiano |date=2006 |isbn=978-88-365-3500-2}}</ref>{{rp|250}} It was integrated into French and European cuisine at the beginning of the twentieth century,<ref>{{Cite journal |last=Sainéan |first=L. |date=1921 |title=L'Histoire Naturelle dans L'Oeuvre de Rabelais (8 e et dernier article) |url=https://www.jstor.org/stable/41851648 |journal=Revue du Seizième siècle |volume=8 |issue=1/2 |pages=1–41 |jstor=41851648 |issn=0151-1823}}</ref> through the [[French colonial empire]] and the [[Pied-Noir|Pieds-Noirs]] of [[Algeria]].<ref>{{Cite journal |last=Wagda |first=Marin |date=1997 |title=L'histoire d'une migration culinaire |url=https://www.persee.fr/doc/homig_1142-852x_1997_num_1207_1_2982 |journal=Hommes & Migrations |volume=1207 |issue=1 |pages=163–166 |doi=10.3406/homig.1997.2982}}</ref><ref>{{Cite journal |last=Tabois |first=Stéphanie |date=2005 |title=Cuisiner le passé. Souvenirs et pratiques culinaires des exilés pieds-noirs |url=https://www.persee.fr/doc/diasp_1637-5823_2005_num_7_1_1016 |journal=Diasporas. Histoire et sociétés |volume=7 |issue=1 |pages=81–91}}</ref><ref>{{Cite journal |last=Albert-Llorca |first=Marlène |date=2004 |title=La mémoire des Pieds-noirs : une transmission impossible ? |url= |journal=Horizons Maghrébins - le droit à la mémoire |volume=51 |issue=1 |pages=169–176 |doi=10.3406/horma.2004.2250}}</ref>
+
+In 2020, couscous was added to [[UNESCO]]'s [[UNESCO Intangible Cultural Heritage Lists|Intangible Cultural Heritage list]].<ref>{{cite web |title=UNESCO adds couscous to list of intangible world heritage |url=https://www.aljazeera.com/news/2020/12/16/unesco-adds-couscous-to-list-of-intangible-world-heritage |website=Al Jazeera English |date=December 16, 2020 |language=en|access-date=May 19, 2022 }}</ref>
+
+== Etymology ==
+The word "couscous" (alternately ''cuscus'' or ''kuskus'') was first noted in early 17th century French, from Arabic kuskus, from kaskasa 'to pound', and is probably of [[Berber languages|Berber]] origin.<ref name=":0">{{Cite web|url=https://www.centrederechercheberbere.fr/tl_files/doc-pdf/couscous.pdf |archive-url=https://web.archive.org/web/20110816224311/http://www.centrederechercheberbere.fr/tl_files/doc-pdf/couscous.pdf |archive-date=2011-08-16 |url-status=live|title=Couscous : sur l'étymologie du mot|last=Chaker|first=Salem|website=[[INALCO]] - [[Centre de Recherche Berbère]]}}</ref><ref name=":2">{{Cite book|url=https://books.google.com/books?id=IGQovjGKj4IC|title=Couscous, boulgour et polenta. Transformer et consommer les céréales dans le monde|last1=Chastanet|first1=Monique|last2=Franconie|first2=Hélène|last3=Sigaut|first3=François|publisher=Karthala Editions|date=March 2010|isbn=978-2-8111-3206-4|language=fr|access-date=May 19, 2022}}</ref><ref name=":3">{{Cite book|url=https://books.google.com/books?id=I15eJt6U3gMC|chapter=Couscous and Its Cousins|title=Oxford Symposium on Food & Cookery, 1989: Staplefoods : Proceedings|last=Perry|first=Charles|date=1990|publisher=Oxford Symposium|isbn=978-0-907325-44-4|editor-last=Walker|editor-first=Harlan|pages=176–178|language=en|author-link=Charles Perry (food writer)|access-date=May 19, 2022}}</ref> The term ''seksu'' is attested in various Berber dialects such as [[Kabyle people|Kabyle]] and [[Rifians|Rifain]], while Saharan Berber dialects such as [[Tuareg people|Touareg]] and [[Ghadamès language|Ghadames]] have a slightly different form, ''keskesu.'' This widespread geographical dispersion of the term strongly suggests its local Berber origin, lending further support to its likely Berber roots as Algerian linguist [[Salem Chaker]] suggests.<ref name=":0" />
+
+The Berber root *KS means "well formed, well rolled, rounded."<ref name=":0" /><ref name=":2" /> Numerous names and pronunciations for couscous exist around the world.<ref name="foucauld">{{cite book |last1=Foucauld |first1=Charles de |title=Dictionnaire touareg-français : dialecte de l'Ahaggar |date=1950–1952 |publisher=Impr. nationale de France |location=Paris |url=https://archive.org/details/DictionnaireTouareg-francaisDialecteDeLAhaggar |language=fr|access-date=May 19, 2022}}</ref>{{rp|919}}
+
+== History ==
+[[File:Algerian couscous from Kabylia.jpg|thumb|[[Algeria]]n couscous from [[Kabylia]].|left]]
+It is unclear when couscous originated. Food historian Lucie Bolens believes couscous originated millennia ago, during the reign of [[Masinissa]] in the ancient kingdom of [[Numidia]]<ref name="chemache"/><ref name="hammami">{{cite journal |last1=Hammami |first1=Rifka |last2=Barbar |first2=Reine |last3=Laurent |first3=Marie |last4=Cuq |first4=Bernard |title=Durum Wheat Couscous Grains: An Ethnic Mediterranean Food at the Interface of Traditional Domestic Preparation and Industrial Manufacturing |journal=Foods |date=22 March 2022 |volume=11 |issue=7 |pages=902 |doi=10.3390/foods11070902 |pmid=35406989 |pmc=8998045 |doi-access=free}} Quote: “Part of the origin of couscous is related to Numidians, the Berber population of Numidia. The culinary historian Lucie Bolens describes primitive pots that closely resemble the main cooking utensil of couscous, which is the couscoussier, found in Kabylia in tombs coming from the period of Berber king Massinissa”</ref> in present-day [[Algeria]].<ref name=Bolens>{{Cite book|url=https://books.google.com/books?id=k6QEOwAACAAJ|title=La cuisine andalouse, un art de vivre: XIe-XIIIe siècle|last=Bolens|first=Lucie|date=1990|publisher=Albin Michel|isbn=9782226041005|access-date=May 19, 2022}}</ref><ref>{{cite news|title=Can North Africa unite over couscous?|date=February 2, 2018|newspaper=AFP}}</ref><ref>{{cite news|title=The unexpected allure of couscous: the history and tradition behind the North African staple|date=December 20, 2020|newspaper=The National News}}</ref><ref name=":1">{{Cite encyclopedia|url=https://www.encyclopedia.com/sports-and-everyday-life/food-and-drink/food-and-cooking/couscous|last=de Castro|first=Teresa|editor1-last=Katz|editor1-first=Solomon H.|year=2003|title=COUSCOUS|encyclopedia=Encyclopedia of Food and Culture|publisher=[[Charles Scribner's Sons]]|volume=3|page=466|isbn=0-684-80565-0|editor2-last=Weaver|editor2-first=William}}</ref> Traces of cooking vessels akin to [[couscoussier]]s have been found in graves from the 3rd century BC, from the time of the berber kings of [[Numidia]], in the city of [[Tiaret]], [[Algeria]].<ref>{{cite news |title=Can North Africa unite over couscous? |url=https://www.france24.com/en/20180213-can-north-africa-unite-over-couscous |work=France 24|language=en |date=February 13, 2018 |access-date=May 19, 2022 }}</ref> [[Couscoussier]]s dating back to the 12th century were found in the ruins of [[Igiliz]], located in the [[Sous]] valley of [[Morocco]].<ref>{{Cite journal |last1=Fili |first1=Abdallah |last2=Ettahiri |first2=Ahmed Saleh |last3=Van Staëvel |first3=Jean-Pierre |last4=Serrat |first4=Ihssane |year=2020 |title=Première approche typologique de la céramique protoalmohade d'Igiliz (Maroc) |trans-title=First typological approach to the proto-Almohad pottery of Igiliz (Morocco) |url=https://revues.imist.ma/index.php/BAM/article/view/29693/15408 |journal=Bulletin d'Archéologie Marocaine |volume=25 |issue=25 |pages=101–123 |doi=10.34874/IMIST.PRSM/bam-v25.29693 |issn=0068-4015 |eissn=2820-6908}}</ref>
+
+According to food writer [[Charles Perry (food writer)|Charles Perry]], couscous originated among the [[Berbers]] of Algeria and Morocco between the end of the 11th-century [[Zirid dynasty]], modern-day [[Algeria]], and the rise of the 13th-century [[Almohad Caliphate]].<ref name=":3" /> The historian Hady Idris noted that couscous is attested to during the [[Hafsid dynasty]], but not the Zirid dynasty.<ref name=":3" />
+
+In the 12th century, [[Berber cuisine|Maghrebi]] cooks were preparing dishes of non-mushy grains by stirring flour with water to create light, round balls of couscous dough that could be steamed.<ref>{{Cite book|url=https://books.google.com/books?id=H7MwDwAAQBAJ|title=Medieval Cuisine of the Islamic World: A Concise History with 174 Recipes|last=Zaouali|first=Lilia|publisher=Univ of California Press|date=September 2009|isbn=978-0-520-26174-7|page=xiii|language=en|access-date=May 19, 2022}}</ref>
+
+The historian [[Maxime Rodinson]] found three recipes for couscous from the 13th century [[Arabic literature#Culinary|Arabic cookbook]] ''Kitab al-Wusla ila al-Habib'', written by an [[Ayyubid dynasty|Ayyubid]] author,<ref name=":3" /> and the anonymous Arabic cooking book ''[[Kitab al tabikh fi-l-Maghrib wa-l-Andalus fi `asr al-Muwahhidin, limu'allif majhul|Kitab al tabikh]]'' and Ibn Razin al-Tujibi's ''Fadalat al-khiwan'' also contain recipes.<ref name=":1" />
+
+Couscous is believed to have been spread among the inhabitants of the Iberian Peninsula by the Berber dynasties of the 13th century, though it is no longer found in traditional Spanish or Portuguese cuisine. In modern-day [[Trapani]], [[Sicily]], the dish is still made to the medieval recipe of [[Andalusia]]n author Ibn Razin al-Tujibi. Ligurian families that moved from [[Tabarka]] to [[Sardinia]] brought the dish with them to [[Carloforte]] in the 18th century.<ref>{{Cite book|title=Medieval Cuisine of the Islamic World: A Concise History with 174 Recipes|last=Zaouali|first=Lilia|publisher=Univ of California Press|date=September 2009|isbn=978-0-520-26174-7|pages=45–46|language=en}}</ref>
+
+Known in France since the 16th century, it was brought into French cuisine at the beginning of the 20th century via the [[French colonial empire]] and the Pieds-Noirs.
+
+== Preparation ==
+[[File:Tunisian brown couscous with vegetables.JPG|thumb|Brown couscous with vegetables in Tunisia.]]
+Couscous is traditionally made from semolina, the hardest part of the grain of [[durum wheat]] (the hardest of all forms of wheat), which resists the grinding of the millstone. The semolina is sprinkled with water and rolled with the hands to form small pellets, sprinkled with dry flour to keep them separate, and then sieved. Any pellets that are too small to be finished, granules of couscous fall through the sieve and are again rolled and sprinkled with dry semolina and rolled into pellets. This labor-intensive process continues until all the semolina has been formed into tiny couscous granules. In the traditional method of preparing couscous, groups of people come together to make large batches over several days, which are then dried in the sun and used for several months. Handmade couscous may need to be rehydrated as it is prepared; this is achieved by a process of moistening and steaming over stew until the couscous reaches the desired light and fluffy consistency.<ref name="asbell">{{Cite book |title=The New Whole Grain Cookbook: Terrific Recipes Using Farro, Quinoa, Brown Rice, Barley, and Many Other Delicious and Nutritious Grains |last=Asbell |first=Robin |date=August 2007|publisher=Chronicle Books |isbn=978-1-4521-0042-5}}</ref>
+
+In some regions, couscous is made from [[Farina (food)|farina]] or coarsely ground [[barley]] or [[pearl millet]].
+
+[[File:Couscoussier.jpg|thumb|A ''kiskas'' (French: ''[[couscoussier]]''), a traditional steamer for couscous.]]
+In modern times, couscous production is largely mechanized, and the product is sold worldwide. This couscous can be sauteed before it is cooked in water or another liquid.<ref name="asbell" /> Properly cooked couscous is light and fluffy, not gummy or gritty.
+
+Traditionally, North Africans use a [[food steamer]] (called a ''taseksut'' in the [[Berber language]], a {{lang|ar|كِسْكَاس}} ''kiskas'' in  Arabic or a ''[[couscoussier]]'' in French). The base is a tall metal pot shaped like an oil jar, where the meat and vegetables are cooked as a stew. On top of the base, a steamer sits where the couscous is cooked, absorbing the flavours from the stew. The steamer's lid has holes around its edge so steam can escape. It is also possible to use a pot with a steamer insert. If the holes are too big, the steamer can be lined with damp [[cheesecloth]].
+
+The couscous that is sold in most [[Western culture|Western]] [[grocery store]]s is usually pre-steamed and dried. It is typically prepared by adding 1.5 measures of boiling water or stock to each measure of couscous and then leaving it covered tightly for about five minutes. Pre-steamed couscous takes less time to prepare than regular couscous, most dried pasta, or dried grains (such as rice). Packaged sets of quick-preparation couscous and canned vegetables, and generally meat, are routinely sold in European grocery stores and supermarkets. Couscous is widely consumed in France, where it was introduced by [[Maghreb]] immigrants<ref name="auto">{{cite web |last1=Randall |first1=Colin |date=31 March 2006 |title=French abandon traditional cuisine in favour of couscous |url=https://www.telegraph.co.uk/news/worldnews/europe/france/1514459/French-abandon-traditional-cuisine-in-favour-of-couscous.html |access-date=May 19, 2022 |work=[[The Daily Telegraph]]}}</ref> and voted the third most popular dish in a 2011 survey.<ref>{{cite web|url=http://www.tns-sofres.com/points-de-vue/79A4BE8A098F4BBFA11B939A135302CA.aspx|title=Les plats préférés des Français|url-status=dead|archive-url=https://web.archive.org/web/20120408173836/http://www.tns-sofres.com/points-de-vue/79A4BE8A098F4BBFA11B939A135302CA.aspx|archive-date=April 8, 2012|access-date=May 19, 2022}}, enquête réalisée en août 2011 pour le magazine Vie Pratique Gourmand auprès d'un échantillon national de {{formatnum:999}} personnes représentatif de l'ensemble de la population âgée de 18 ans et plus, interrogées en face à face. Méthode des quotas (sexe, âge, profession du chef de ménage PCS) et stratification par région et catégorie d’agglomération.</ref><ref>{{Cite web|url=https://www.connexionfrance.com/article/Archive/Magret-is-the-No1-dish-for-French|title=Magret is the No1 dish for French - Moules-frites and couscous trail duck dish as study looks at what's on people's plates|website=The Connexion - French News in English|date=November 30, 2016|access-date=May 19, 2022}}</ref>
+
+== Recognition ==
+In December 2020, Algeria, Mauritania, Morocco, and Tunisia obtained official recognition for the knowledge, know-how, and practices pertaining to the production and consumption of couscous on the ''Representative List of the Intangible Cultural Heritage of Humanity'' by [[UNESCO]]. The joint submission by the four countries was hailed as an "example of international cooperation."<ref>{{Cite web|url=https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602|title=UNESCO - Knowledge, know-how and practices pertaining to the production and consumption of couscous|publisher= UNESCO|language=en|date=December 1, 2020|access-date=May 19, 2022}}</ref><ref>{{Cite web|url=https://www.dw.com/en/couscous-joins-unesco-intangible-cultural-heritage-list/a-55967754|title=Couscous joins UNESCO Intangible Cultural Heritage list|website=[[Deutsche Welle]]|language=en-GB|date= December 17, 2020|access-date=May 19, 2022}}</ref>
+
+== Local variations ==
+[[File:Couscous Tfaya 3.jpg|thumb|Moroccan couscous with ''[[tfaya]]'' and roasted chicken.]]
+Couscous proper is about 2&nbsp;mm in diameter, but there also exists a larger variety (3&nbsp;mm more) known as ''berkoukes'', as well as an ultra-fine version (around 1&nbsp;mm).<ref name=":3"/> In Morocco, Algeria, Tunisia, and Libya, it is generally served with vegetables ([[carrot]]s, [[potato]]es, and [[turnip]]s) cooked in a spicy or mild [[broth]] or stew, usually with some meat (generally, [[Chicken (food)|chicken]], [[lamb and mutton|lamb, or mutton]]).[[File:MoroccanCouscous.jpg|thumb|Couscous with vegetables, meat, and ''[[tfaya]]''.]]
+
+=== Algeria ===
+[[File:Algerian Couscous from Biskra.jpg|thumb|Algerian couscous from Biskra.]]
+[[Algerian couscous]] is a traditional staple food in Algeria, and it plays an important role in Algerian culture and cuisine. It is commonly served with vegetables, meat, or fish. In Algeria, there are various types of couscous dishes.<ref name=":3" />
+
+=== Egypt ===
+In Egypt, couscous ({{langx|arz|كسكسي}}, ''{{Transliteration|arz|koskosi}}'') is traditionally prepared and consumed as a sweet dish, differing notably from the savory couscous dishes commonly associated with other North African cuisines. It is typically served for breakfast, as a light evening meal, or as a dessert. The preparation involves steaming or soaking the couscous with melted butter and hot water, after which it is topped with a variety of sweet ingredients. Common toppings include sugar (white, brown, or powdered), cinnamon, grated coconut, raisins, and assorted nuts such as almonds, walnuts, or hazelnuts. In some variations, sweetened condensed milk may also be used.<ref>{{cite web |last=Nasr |first=Noor |title=Egyptian Couscous |url=https://fulbrightfeasting.wordpress.com/2011/03/12/egyptian-couscous/ |website=Fulbright Feasting |date=March 12, 2011 |access-date=March 27, 2025}}</ref>
+
+=== Tunisia ===
+[[File:Fish couscous from Kerkenah, Tunisia, August 16th, 2007.jpg|thumb|Fish couscous from Tunisia.]]
+In Tunisia, couscous is usually spicy, made with [[harissa]] sauce, and served commonly with vegetables and meat, including lamb, fish, seafood, beef, and sometimes (in southern regions) camel. [[Fish as food|Fish]] couscous is a Tunisian specialty and can also be made with [[octopus as food|octopus]], [[squid as food|squid]] or other [[seafood]] in a hot, red, spicy sauce.
+Couscous can also be served as a dessert. It is then called Masfuf. Masfuf can also contain raisins, grapes, or pomegranate seeds.
+
+=== Libya ===
+In Libya, couscous is mostly served with lamb (but sometimes [[camel meat]] or, rarely, beef) in Tripoli and the western parts of Libya, but not during official ceremonies or weddings. Another way to eat couscous is as a dessert; it is prepared with dates, sesame, and pure honey and is locally referred to as ''maghrood''.
+
+=== Malta ===
+In Malta, small round pasta slightly larger than typical couscous is known as ''kusksu''. It is commonly used in a dish of the same name, which includes broad beans (known in [[Maltese language|Maltese]] as ''ful'') and ''ġbejniet'', a local type of cheese.<ref>{{Cite web |date=2016-01-05 |title=Kusksu - A traditional Maltese soup made with broad beans, peas and giant couscous. |url=https://www.amaltesemouthful.com/kusksu-beautiful-maltese-soup-start-new-year/ |access-date=2023-08-26 |website=A Maltese Mouthful |language=en-US |archive-date=July 19, 2021 |archive-url=https://web.archive.org/web/20210719094532/https://www.amaltesemouthful.com/kusksu-beautiful-maltese-soup-start-new-year/ |url-status=dead }}</ref>
+
+=== Mauritania ===
+In Mauritania, the couscous uses large wheat grains (''mabroum'') and is darker than the yellow couscous of Morocco. It is cooked with lamb, beef, or camel meat together with vegetables, primarily onion, tomato, and carrots, then mixed with a sauce and served with [[ghee]], locally known as ''dhen''.
+
+== Similar foods ==
+Couscous is made from crushed wheat flour rolled into its constituent granules or pearls, making it distinct from pasta, even pasta such as [[orzo]] and [[risoni]] of similar size, which is made from ground wheat and either molded or extruded. Couscous and pasta have similar nutritional value, although pasta is usually more refined.<ref name="notpasta"/>
+
+Several dishes worldwide are also made from granules, like those of couscous rolled from flour from grains or other milled or grated starchy crops.
+[[File:مغربية.jpg|thumb|Moghrabieh, in a stew with meat, chickpeas and onions]]
+* [[Attiéké]], a staple food in Côte d'Ivoire and surrounding regions of West Africa, is made from granulated grated [[cassava]].
+* [[Dambou]] is a couscous-like dish from Niger. It may be made from semolina for special occasions but is often made with rice, millet, or other grain. [[Moringa (genus)|Moringa]] leaves are traditionally included in the dish.<ref name="UNDP">{{cite book |url=https://www.undp.org/publications/adaptive-farms-resilient-tables-building-secure-food-systems-and-celebrating-0 |title= Adaptive Farms, Resilient Tables: Building secure food systems and celebrating distinct culinary traditions in a world of climate uncertainty  |author=United Nations Development Programme - Climate Change Adaption Facility |chapter=CCAF Cookbook |date=June 2017|page=66|language=en|access-date=May 19, 2022}}</ref><ref name="CCRP">{{cite web |url=https://www.ccrp.org/wp-content/uploads/2019/08/Food-Processing-W.pdf |archive-url=https://web.archive.org/web/20201024011334/https://www.ccrp.org/wp-content/uploads/2019/08/Food-Processing-W.pdf |archive-date=2020-10-24 |url-status=live |title=Nutrition for Agriculture: Food Processing 2009-2017 |author=Collaborative Crop Research Program |publisher=The McKnight Foundation |access-date=May 19, 2022}}</ref> In France, this Nigerien dish has been adapted as a specific variant (called ''couscous aux épinards'') of the Maghreb-syle couscous commonly found there, often using spinach in place of the moringa.<ref name="rec">{{cite web |url=https://recettesvegetales.com/couscous-aux-epinards/ |title=Couscous aux épinards - Dambou (Niger) |website=Recettes Vegetales |date=June 18, 2017 |access-date=May 19, 2022 |archive-date=June 28, 2022 |archive-url=https://web.archive.org/web/20220628205629/https://recettesvegetales.com/couscous-aux-epinards/ |url-status=dead }}</ref>
+* [[Fregula]] is a type of pasta from Sardinia. It is similar to North African Berkoukes and Middle Eastern Moghrabieh. Fregula comes in varying sizes but typically consists of semolina dough rolled into balls 2–3&nbsp;mm in diameter and toasted in an oven.
+* Kouskousaki (Κουσκουσάκι (in Greek) or ''kuskus'' (in  Turkish) is a pasta from Greece and Turkey, that is boiled and served with cheese and walnuts.<ref>{{cite book|chapter-url=https://doi.org/10.1007/978-3-030-34163-3_15|last1=Hammami|first1=Rifka|date=2020|pages=347–367|editor-last=Igrejas|editor-first=Gilberto|last2=Sissons|first2=Mike|title=Wheat Quality for Improving Processing and Human Health |chapter=Durum Wheat Products, Couscous |editor2-last=Ikeda|editor2-first=Tatsuya M.|editor3-last=Guzmán|editor3-first=Carlos|publisher=Springer International Publishing|language=en|doi=10.1007/978-3-030-34163-3_15|isbn=978-3-030-34163-3|s2cid=216234604 |access-date=May 19, 2022}}</ref>
+[[File:Palestinian couscous.jpg|thumb|Maftoul, a Palestinian variety of couscous that is made with bulgur.]]
+* Wusu-Wusu is a couscous that is prepared out of [[fonio]] in the Hausa region of Nigeria, Benin, Togo and Ghana.<ref name="Martin Brink, Getachew Melese Belay">{{cite book|url=https://books.google.com/books?id=K3uww3qB94sC&pg=PA60|title=Céréales et légumes secs |author=Martin Brink, Getachew Melese Belay|year=2006|pages=60|publisher=PROTA |isbn=978-90-5782-172-1|access-date=May 19, 2022}}</ref>
+
+===Cuscuz===
+
+Cuscuz ({{IPA|pt|kusˈkus}}) is a couscous-like dish from the [[Northeast Region, Brazil|Northeast Region of Brazil]]. It is made out of [[cornmeal]] and eaten hot with meat and cold with milk.<ref>{{cite web |url=http://revistagloborural.globo.com/GloboRural/0,6993,EEC533123-1488-4,00.html |title=Receitas |website=revistagloborural.globo.com |access-date=9 August 2017 |url-status=dead |archive-url=https://web.archive.org/web/20080129120634/http://revistagloborural.globo.com/GloboRural/0%2C6993%2CEEC533123-1488-4%2C00.html |archive-date=January 29, 2008 |df=mdy-all}}</ref> In the state of [[São Paulo]], a speciality known as {{ill|Cuscuz-paulista|pt|Cuscuz paulista}}, is made with cornmeal, tomato sauce, tomato pieces, olive oil, boiled egg and other ingredients, such as peas, sweetcorn, hearts of palm and sardines. It is also possible to find the dish made with shredded chicken, tuna or shrimp. All the ingredients are cooked in a pan and then placed and left to set in a mould with a hole in the middle. The Mould is then inverted onto a serving dish.
+
+===Moghrabieh===
+
+In the Levant, the dish known as moghrabieh ({{langx|ar|مغربية|translation=Maghrebi}}, a reference to the Maghreb region) uses the same durum-based semolina flour but rolled into larger ({{Convert|5-6|mm|in|abbr=on|frac=16|disp=or}} in diameter) 'pearls' to create a dish that is popular across Jordan, Lebanon and Syria.<ref name=WashPost>{{cite news|url=https://www.washingtonpost.com/food/2021/05/14/couscous-moroccan-pearl-israeli/|title=A guide to couscous: The history, different types and how to cook with it|date=May 14, 2021|first=Aaron|last=Hutcherson|newspaper=The Washington Post|access-date=May 19, 2022}}</ref> The pearls are either cooked as part of a stew or flavored with cinnamon and served alongside a chicken and chickpea broth.<ref>{{cite news |title=My mother-in-law's moghrabieh is what my family gathers around |url=https://www.sbs.com.au/food/article/my-mother-in-laws-moghrabieh-is-what-my-family-gathers-around/tp73fmv5v |access-date=14 August 2025 |work=[[SBS Food]] |date=26 April 2022 |language=en}}</ref><ref>{{cite web |title=Moghrabieh (pearl couscous) |url=https://www.sbs.com.au/food/recipe/moghrabieh-pearl-couscous/fle9imr8u |website=[[SBS Food]] |access-date=14 August 2025 |language=en |date=19 May 2017}}</ref>
+<!-- Maftoul Cuscuz and Moghrabieh do not have their own pages and instead have redirect pages, do not rename these sections without updating the redirects! MOS:RENAMESECTION -->
+
+===Maftoul===
+
+Palestinian ''maftoul'' ({{langx|ar|[[wikt:مفتول|مفتول]]}}) uses granules that are larger than the North African variety but smaller than moghrabieh pearls ({{Convert|2-3|mm|in|frac=16|abbr=on|disp=or}} in diameter) and made with [[bulgur]] or [[Semolina]], or a mix of both,<ref>{{cite web|url=https://www.theguardian.com/lifeandstyle/2013/apr/26/maftoul-couscous-recipes-yotam-ottolenghi|title=Yotam Ottolenghi's maftoul recipes|date=April 26, 2013|first=Yotam|last=Ottolenghi|website=The Guardian|access-date=May 19, 2022}}</ref> white or whole wheat flour are sometimes used in place of semolina, which can sometimes be expensive.<ref>{{cite book |last1=el-Haddad |first1=Laila |title=The Gaza Kitchen: A Palestinian Culinary Journey |date=2016 |isbn=978-1682570081 |pages=245–250 |publisher=Just World Books |language=en}}</ref> It is similarly served alongside a chicken and chickpea broth. "Maftoul" is an Arabic word derived from the root "fa-ta-la," which means to roll or to twist, describing the hand-rolling method used to make the granules.<ref name="asbell" /><ref>{{cite news |last1=Kalla |first1=Joudie |title=Palestinian recipes for maftoul tabbouleh and za'atar chicken |url=https://www.theguardian.com/lifeandstyle/2017/feb/09/maftoul-tabbouleh-zaatar-chicken-recipe-palestinian-food-joudie-kalla-cook-residency |access-date=10 September 2025 |work=The Guardian |date=9 February 2017}}</ref>
+
+== Dishes with similar names ==
+[[Israeli couscous]] is an extruded and toasted pasta and does not share main ingredients or method of production with couscous.<ref>{{Cite web |last=Gaunt |first=Doram |date=9 May 2008 |title=Ben-Gurion rice |url=https://www.haaretz.com/2008-05-09/ty-article/ben-gurions-rice/0000017f-e310-df7c-a5ff-e37aef0e0000 |website=[[Haaretz]]}}</ref>
+
+== See also ==
+{{Commons category|Couscous}}
+{{Cookbook}}
+{{Portal|Food}}
+* [[North African cuisine]]: [[Moroccan cuisine]], [[Berber cuisine]], [[Algerian cuisine]], [[Tunisian cuisine]], [[Libyan cuisine]] and [[Egyptian cuisine]]
+* [[List of Middle Eastern dishes]]
+* [[List of African dishes]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Wheat}}
+{{Cuisine of Algeria}}
+{{Cuisine of Morocco}}
+{{Cuisine of Tunisia}}
+{{Cuisine of Israel}}
+{{Authority control}}
+
+[[Category:Algerian cuisine]]
+[[Category:Arab cuisine]]
+[[Category:Beninese cuisine]]
+[[Category:Berber cuisine]]
+[[Category:Cape Verdean cuisine]]
+[[Category:Egyptian cuisine]]
+[[Category:French cuisine]]
+[[Category:Gambian cuisine]]
+[[Category:Greek cuisine]]
+[[Category:Guinean cuisine]]
+[[Category:Israeli cuisine]]
+[[Category:Italian cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Libyan cuisine]]
+[[Category:Maghrebi cuisine]]
+[[Category:Mauritanian cuisine]]
+[[Category:Mediterranean cuisine]]
+[[Category:Middle Eastern cuisine]]
+[[Category:Moroccan cuisine]]
+[[Category:Nigerien cuisine]]
+[[Category:Palestinian cuisine]]
+[[Category:Senegalese cuisine]]
+[[Category:Syrian cuisine]]
+[[Category:Tunisian cuisine]]
+[[Category:Turkish cuisine]]
+[[Category:West African cuisine]]
+[[Category:Vegan cuisine]]
+[[Category:Staple foods]]
+[[Category:Steamed foods]]
+[[Category:Wheat dishes]]
+[[Category:National dishes]]
+[[Category:Semolina dishes]]
+[[Category:Intangible Cultural Heritage of Humanity]]

@@ -1,0 +1,87 @@
+{{Short description|Fast food dish of German origin}}
+{{Use dmy dates|date=July 2023}}
+{{title language|de}}
+{{Infobox food
+| name               = {{lang|de|Currywurst}}
+| name_lang          = de
+| name_italics       = true
+| image              = 20220430 currywurst.jpg
+| caption            = {{lang|de|Currywurst}} lightly topped with curry and served with French fries
+| alternate_name     = 
+| place_of_origin    = [[Germany]]
+| region             = 
+| year               = c. 1949
+| creator            = {{langrlink|de|Herta Heuwer}}
+| course             = 
+| type               = [[Bratwurst]]
+| served             = 70°C
+| main_ingredient    = Pork [[sausage]], [[curry ketchup]]
+| variations         = 
+| calories           = 
+| other              = 
+|no_commons=true
+}}
+
+'''{{lang|de|Currywurst}}''' ({{IPA|de|ˈkœʁiˌvʊɐ̯st|lang|De-Currywurst2.ogg}}<ref>Duden, [http://www.duden.de/rechtschreibung/Curry Curry]. Accessed 2013-06-30</ref>) is a [[fast food]] dish [[German cuisine|of German origin]] consisting of [[sausage]] (usually pork) with [[curry ketchup]]. It was invented in 1949 by [[Herta Heuwer]], who began selling it at a food stand in West Berlin. The [[Deutsches Currywurst Museum]] estimated that 800 million currywursts are eaten every year in Germany, with 70 million in Berlin alone.
+
+==History==
+
+The invention of currywurst is attributed to [[Herta Heuwer]] in [[Berlin]] in 1949, after she obtained ketchup, or possibly [[Worcestershire sauce]], and [[curry powder]] from [[British Forces Germany|British soldiers in Germany]].<ref>{{cite news|last=Slackman|first=Michael|date=26 January 2011|title=A Favorite Dish Laden With Fat and Contradiction|work=The New York Times|url=https://www.nytimes.com/2011/01/27/world/europe/27berlin.html|access-date=24 October 2020}}</ref> She mixed these ingredients with other spices and poured them over grilled pork sausage. Heuwer started selling them at a stand in [[Charlottenburg]], where it became popular with construction workers rebuilding the devastated city.<ref name="Ind"/>
+
+Heuwer patented her sauce under the name Chillup in 1951.<ref name="Ind">{{cite news|url=https://www.independent.co.uk/life-style/food-and-drink/news/spicy-sausage-that-is-worthy-of-a-shrine-in-berlin-1772530.html|title=Spicy sausage that is worthy of a shrine in Berlin|work=The Independent|date=2009-08-15 | location=London | first=Tony | last=Paterson | access-date=2010-04-30}}</ref> At its height the stand was selling 10,000 servings per week.<ref name="DW20090815">{{cite news|url=http://www.dw-world.de/dw/article/0,,4573436,00.html|title=Honoring the best of the Wurst of German Cuisine |publisher=Deutsche Welle|date=2009-08-15}}</ref> She later opened a small restaurant which operated until 1974.<ref name="WSJ">{{cite news|url=https://www.wsj.com/articles/SB10001424052970204884404574364600782551292?mod=googlenews_wsj|title=The Craze Over Currywurst|publisher=The Wall Street Journal|date=2009-08-27 | first=Roman | last=Kessler}}</ref> 
+
+[[File:Berlin Konnopke’s Imbiß.jpg|thumb|right|Konnopke's Imbiss (Fast Food Stand) in Berlin. It was the first Imbiss to sell currywurst in East-Berlin in 1960.]]
+
+Today, {{lang|de|currywurst}} is often sold as a [[Take-out|take-away food]], Schnellimbisse (snack stands), at [[diner]]s or "[[greasy spoon]]s," on children's menus in [[restaurant]]s, or as a [[street food]] and usually served with chips or [[bread roll]]s (Brötchen). It is popular all over Germany but especially in the metropolitan areas of Berlin, [[Hamburg]] and the [[Ruhr Area]]. Considerable variation, both in the type of sausage used and the ingredients of the sauce, occurs between these areas.<ref name="auto">{{Cite web|url=https://www.dw.com/en/berlin-24-7-whats-the-currywurst-cult-all-about/a-40294501|title=Berlin 24/7: What's the currywurst cult all about? &#124; DW &#124; 03.09.2017|website=DW.COM}}</ref>
+
+Common variations include the addition of [[paprika]] or chopped onions. [[Halal]] and [[kosher]] food stands often prepare currywurst with beef sausage.<ref name="auto"/> Often currywurst is sold in [[food booth]]s, sometimes using a special machine to slice it into pieces, and served on a paper plate with a little wooden or plastic fork, mostly a [[currywurst fork]].<ref>{{cite web|url=http://www.cntraveler.com/stories/2014-11-12/chef-pierre-gagnaire-food-lover-s-guide-to-berlin|title=A Food Lover's Guide to Berlin|date = 12 November 2014|access-date=9 January 2015|publisher=Condé Nast}}</ref> It is sold as a [[supermarket]]-shelf product to prepare at home.<ref>{{cite web |title=So funktioniert der Trick bei Currywurst aus der Mikrowelle |url=https://www.stern.de/genuss/essen/currywurst-aus-der-mikrowelle--das-sind-die-tricks-der-industrie-30886174.html |website=[[Stern (magazine)|Stern]] |access-date=2 November 2025}}</ref>
+
+The [[Deutsches Currywurst Museum]] estimated that 800 million currywursts are eaten every year in Germany, with 70 million in Berlin alone.<ref>{{cite news|last=Horenburg|first=Berit|title=Hau wech|newspaper=Motorrad|date=23 August 2002|url=http://www.motorradonline.de/archiv/was-biker-essen/169744|access-date=23 October 2013|archive-url=https://web.archive.org/web/20131030010429/http://www.motorradonline.de/archiv/was-biker-essen/169744|archive-date=30 October 2013|url-status=dead}}</ref><ref>{{cite press release|title=Data and Facts|publisher=Deutsches Currywurst Museum|date=September 2013|url=http://currywurstmuseum.com/en/wp-content/uploads/sites/2/2013/10/DataFacts-englisch.pdf|access-date=23 October 2013|url-status=dead|archive-url=https://web.archive.org/web/20131029220327/http://currywurstmuseum.com/en/wp-content/uploads/sites/2/2013/10/DataFacts-englisch.pdf|archive-date=29 October 2013}}</ref><ref name="Museum">{{cite web|url=http://www.jaunted.com/story/2014/12/17/14144/603/travel/10+Things+We+Learned+at+Berlin%27s+Museum+Dedicated+to+Currywurst|title=10 Things We Learned at Berlin's Museum Dedicated to Currywurst|date=17 December 2014|access-date=9 January 2015|publisher=Condé Nast|archive-date=10 January 2015|archive-url=https://web.archive.org/web/20150110035857/http://www.jaunted.com/story/2014/12/17/14144/603/travel/10%20Things%20We%20Learned%20at%20Berlin%27s%20Museum%20Dedicated%20to%20Currywurst|url-status=dead}}</ref> The [[Volkswagen]] plant at [[Wolfsburg]] runs its own butchery, producing about 7 million [[Volkswagen currywurst]]s per year, serving many directly to Volkswagen employees.<ref>{{cite news| url=https://www.sueddeutsche.de/wirtschaft/volkswagen-vw-verkauft-mehr-wuerste-als-autos-1.2870745|title=VW verkauft mehr Würste als Autos (VW sells more sausages than cars)|date=2016-02-19| first=Stephan| last=Radomsky}}</ref><ref>{{cite web|url=http://inside.volkswagen.de/Die-Currywurst.html|title=Die Currywurst – das Originalteil wird 45! - Volkswagen inside|access-date=3 September 2018|archive-url=https://web.archive.org/web/20180903151223/http://inside.volkswagen.de/Die-Currywurst.html|archive-date=3 September 2018|url-status=dead}}</ref>
+
+==In popular culture==
+Former Chancellor [[Gerhard Schröder]] is a noted fan of currywurst.<ref>{{cite news|url=https://www.bloomberg.com/apps/news?pid=20601088&sid=aPQQVvnljZIM|title=Sausage Museum Celebrates Berliners' Romance With Currywurst|publisher=Bloomberg|date=2009-08-13}}</ref> In a 2021 controversy over [[Volkswagen]]'s plans to take the dish off its canteens menus, he called it "power bar of the skilled factory worker".<ref>{{Cite news |last=Connolly |first=Kate |date=2025-03-11 |title=Volkswagen enjoys surprise bestseller amid financial woes: the VW currywurst |url=https://www.theguardian.com/world/2025/mar/11/volkswagen-enjoys-surprise-best-seller-amid-financial-woes-the-vw-currywurst |access-date=2025-03-11 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> By tradition, every candidate for the mayor of Berlin is photographed at a currywurst stand.<ref name="Times">{{cite news|url=http://www.timesonline.co.uk/tol/news/world/europe/article6797043.ece|title=Berlin dedicates museum to street-corner snack of wurst cuisine|publisher=Times Online|date=2009-08-15 | location=London | first=Roger | last=Boyes | access-date=2010-04-30}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+The song "Currywurst" on [[Herbert Grönemeyer]]'s 1982 album ''Total Egal'' is a tribute to the snack.<ref name="hg-currywurst">{{cite web |url= http://www.groenemeyer.de/song/currywurst/ |title= Currywurst |last= Grönemeyer |first= Herbert |publisher= groenemeyer.de |language= de |access-date= 26 November 2009 |url-status=dead |archive-url= https://web.archive.org/web/20130106150802/http://www.groenemeyer.de/song/currywurst/ |archive-date= 6 January 2013 }}</ref>
+
+The 1993 novel ''[[The Invention of Curried Sausage|Die Entdeckung der Currywurst]]'' (English title: "The Invention of Curried Sausage", {{ISBN|978-0811212977}}) by [[Uwe Timm]] was made into a 1998 play and a 2008 film both of the same name. The plot is based on an alternative but unproven theory that currywurst was invented in [[Hamburg]].
+
+The [[Deutsches Currywurst Museum]] opened in Berlin in August 2009, commemorating the 60th anniversary of its creation.<ref name="DW20090815">{{cite news|url=http://www.dw-world.de/dw/article/0,,4573436,00.html|title=Honoring the best of the Wurst of German Cuisine |publisher=Deutsche Welle|date=2009-08-15}}</ref><ref name="Museum"/> Curator Martin Loewer said "No other national German dish inspires so much history and has so many well-known fans".<ref name="Reuters">{{cite news|url=https://www.reuters.com/article/lifestyleMolt/idUSTRE57C46Q20090813|title=German cult sausage gets own museum|publisher=Reuters|date=2009-08-13}}</ref> The museum received approximately 350,000 visitors annually. It permanently closed in December 2018.<ref>{{Cite web |title=The Currywurst Museum of Berlin is closed. |url=https://currywurstmuseum.com/permanently-closed.html |access-date=2024-02-17 |website=currywurstmuseum.com}}</ref>
+
+In 2019 [[Staatliche Münze Berlin|Berlin State Mint]] issued a commemorative currywurst coin celebrating the 70 years since the savoury snack was first sold in Berlin by Herta Heuwer. The silver alloy coin features two currywursts pierced with a wooden chip fork and poured with the sauce (coloured by print), and [[Herta Heuwer]] in the background (caption: 70 Jahre Currywurst). The other side of the coin shows the [[Brandenburg Gate]] (caption: Münze Berlin, 2019).<ref>{{cite news |url= https://www.independent.ie/world-news/and-finally/a-german-mint-has-made-a-currywurst-coin-and-online-reaction-has-been-mixed-37709753.html |title= A German mint has made a currywurst coin and online reaction has been mixed |work= [[Irish Independent]] |date= 2019-01-15}}</ref><ref>{{cite web |url= https://www.muenze-berlin.de/Berlin_70_Jahre_Currywurst-97244-951023.html |title= 70 Jahre Currywurst - Staatliche Münze Berlin |publisher= [[Staatliche Münze Berlin]] |access-date= 2019-02-28 |language= de |archive-url= https://web.archive.org/web/20190114115508/https://www.muenze-berlin.de/Berlin_70_Jahre_Currywurst-97244-951023.html |archive-date= 14 January 2019 |url-status= dead }}</ref>
+
+<gallery>
+File:Currywurst med toast (4541065102).jpg|Served with bread
+File:Currywurst-1.jpg|Currywurst - served sliced
+File:Taxiteller.jpg|A "Taxi Teller" is a plate of fries served with currywurst, [[shashlik]] sauce, mayonnaise, [[Gyro (food)|gyros meat]], and [[tzatziki]].
+File:Curryking-4612.jpg|Currywurst as a supermarket-shelf product to prepare at home
+File:Gedenktafel Kantstr 101 Herta Heuwer.JPG|Plaque in Charlottenburg, Berlin, where [[Herta Heuwer]] is said to have invented the currywurst
+</gallery>
+
+==See also==
+{{portal|Germany|Food}}
+* [[German cuisine]]
+* [[List of sausage dishes]]
+* [[Salchipapa]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* {{cite web | last=Connelly | first=Michael Alan | title=20 Must-Try Street Foods Around the World | website=[[Fodor's]] | date=18 December 2014 | url=http://www.fodors.com/news/photos/20-must-try-street-foods-around-the-world#!15-currywurst | access-date=24 July 2016}}
+
+==External links==
+* [https://news.bbc.co.uk/2/hi/europe/8408716.stm Berlin's obsession with currywurst]—[[BBC News]] report
+* [https://facebook.com/rusticcuisine/ Trying to perfect the recipe at home for BAOR veterans]
+* [https://web.archive.org/web/20110113164600/http://thed4d.com/projects/perfunkt-ep6/ Currywurst Is the Secret Weapon]—AEG Perfunkt video about a West Berlin cult snack shop
+* [https://www.nytimes.com/2011/01/27/world/europe/27berlin.html?emc=eta1 NY Times Jan 26, 2011 - National Dish Comes Wrapped in Foreign Flavoring]
+
+{{Street food}}
+{{Authority control}}
+
+[[Category:Cuisine of Berlin]]
+[[Category:Fast food]]
+[[Category:German sausages]]
+[[Category:Sausage dishes]]
+[[Category:Street food]]
+[[Category:1949 establishments in Germany]]
+[[Category:Curry dishes]]
