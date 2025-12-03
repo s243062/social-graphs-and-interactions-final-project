@@ -1,0 +1,56 @@
+{{Italic title}}
+{{short description|Danish roast pork}}
+{{Infobox prepared food
+| name             = Flæskesteg
+| image            = Julemiddag.jpg
+| image_size       = 250px
+| caption          = ''Flæskesteg'' with red cabbage and caramelized potatoes served for Christmas dinner
+| alternate_name   = 
+| place_of_origin  = [[Denmark]]
+| course           = 
+| type             = 
+| served           = 
+| main_ingredient  = Roast pork, [[Cracklings|crackling]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''''Flæskesteg''''' ({{IPA|da|'flɛskə.stɐ̯j}}), the Danish version of roast pork, is considered to be one of [[Denmark]]'s principal national dishes.<ref>[http://www.doitineurope.com/recipes/national-dishes.htm "National Dishes of European Countries"], ''Do It In Europe''. Retrieved 14 December 2011.</ref> Always prepared with [[Cracklings|crackling]], it is traditionally on the menu for the Danish Christmas dinner served as the evening meal on [[Christmas Eve]].<ref name=chrisdish/>
+
+==History==
+
+[[Pork]] has been eaten by Danes for centuries, but it was after the [[Second Industrial Revolution|Industrial Revolution]] in the 1860s when wood-fired ovens were introduced for use in the home that, in addition to sausages and hams, roast pork became a common dish. From the beginning, joints were always cooked together with the rind in order to provide crackling. Ever since, this has remained a prerequisite for the dish.<ref name=amb>[http://www.ambluxembourg.um.dk/fr/menu/LeDanemark/LaCuisineDanoise/ "La cuisine danoise"] {{webarchive|url=https://web.archive.org/web/20100102043244/http://www.ambluxembourg.um.dk/fr/menu/LeDanemark/LaCuisineDanoise/ |date=2010-01-02 }}, ''Ambassade du Danemark Luxembourg''. {{in lang|fr}} Retrieved 15 December 2011.</ref>
+
+==Traditional recipe==
+
+The traditional method of preparation is to roast a joint of pork from the breast or neck without removing the rind. So as to obtain crispy crackling, a sharp knife should be used to cut the skin through to the meat in narrow strips. The skin is rubbed with salt, pepper is added, while bay leaves and optionally cloves are inserted into the cuts. The joint is then roasted in a hot oven. The dish is traditionally accompanied by both boiled potatoes and caramelized potatoes (''brunede kartofler''). The caramelized potatoes are prepared by melting sugar in a frying pan over strong heat, adding a clump of butter, and allowing a portion of small, round, peeled, preboiled potatoes (available in cans) to bathe in the mixture until they become richly browned or [[caramelization|caramelized]]. Red cabbage (''rødkål''), which can be bought in a jar or a can, is always included too. If the cabbage is prepared from scratch, sliced apples are often added.<ref name=chrisdin>[http://www.wonderful-denmark.com/danish-christmas-dinner.html "Danish Christmas dinner"] {{Webarchive|url=https://web.archive.org/web/20190917200310/http://www.wonderful-denmark.com/danish-christmas-dinner.html |date=2019-09-17 }}, ''Wonderful Denmark''. Retrieved 13 December 2011.</ref> Many Danes consider the traditional recipe to be the one described by Frk. Jensen in her 1901 cookbook.<ref name=chrisdish>[http://www.denmark.dk/en/menu/Lifestyle/Food+and+Drink/Danish-Food-Culture/Christmas-Dishes/ChristmasDishes.htm "Recipes for Christmas dinners"] {{webarchive|url=https://web.archive.org/web/20111128082216/http://www.denmark.dk/en/menu/Lifestyle/Food+and+Drink/Danish-Food-Culture/Christmas-Dishes/ChristmasDishes.htm |date=2011-11-28 }}, ''Denmark.dk''. Retrieved 13 December 2011.</ref>
+
+==Sandwiches==
+
+''Flæskesteg med rødkål'' (roast pork with red cabbage) is also served cold on dark Danish [[rye bread]] as an open sandwich, known in Denmark as ''[[smørrebrød]]''. The thin slice(s) of pork should, of course, be served with their crispy crackling.<ref>[http://www.danishsandwich.com/2011/03/roast-pork-and-red-cabbage-flskesteg.html "Roast Pork and Red Cabbage (Flæskesteg med Rødkål)"] {{Webarchive|url=https://web.archive.org/web/20201026190238/http://www.danishsandwich.com/2011/03/roast-pork-and-red-cabbage-flskesteg.html |date=2020-10-26 }}, ''Danish Open Sandwiches (Smørrebrød)''. Retrieved 14 December 2011.</ref> The sandwich may be decorated with red cabbage, prunes, a slice of orange and pickled cucumber.<ref>[http://www.copenhagenet.dk/cph-eating.htm "Danish Food and Cooking"] {{webarchive |url=https://web.archive.org/web/20111219043640/http://www.copenhagenet.dk/cph-eating.htm |date=December 19, 2011 }}, ''Copenhagenet.dk''. Retrieved 14 December 2011.</ref>
+Hot ''flæskestegssandwichs'' in a burger bun are available from many [[pølsevogn|Danish hot dog stands]] and other fast food providers.
+
+<gallery class="center" widths="150px" heights="125">
+File:Flaeskesteg med svaer.jpg|Joint with crackling
+File:Caramelized potatoes 1.JPG|Preparing caramelized potatoes
+File:Flæskesteg rødkål brunede kartofler.jpg|Served with two kinds of potatoes and red cabbage
+File:Flæskesteg.jpg|Crispy crackling
+</gallery>
+
+==See also==
+*[[Danish cuisine]]
+* [[List of pork dishes]]
+
+==References==
+{{Reflist}}
+
+==Literature==
+*Jensen, Kristine Marie (edited and updated by Lundsgaard, Bente Nissen and Bloch, Hanne): Frøken Jensens kogebog, Copenhagen, Gyldendal, 2003, 366 p. {{in lang|da}} {{ISBN|87-00-21271-7}}
+
+{{sandwhich}}
+
+{{DEFAULTSORT:Flaeskesteg}}
+[[Category:Danish cuisine]]
+[[Category:Sandwiches]]
+[[Category:Christmas food]]
+[[Category:Pork dishes]]

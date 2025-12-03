@@ -1,0 +1,59 @@
+{{Short description|Palestinian bread and chicken dish}}
+{{Distinguish|Muhammar|text=with the Bahraini dish [[Muhammar]]}}
+{{pp-semi-indef|small=yes}}
+{{Infobox food
+| name             = Musakhan
+| image            = Mushakhan Dish.jpg
+| image_size       = 250px
+| caption          =
+| alternate_name   = 
+| country          = [[Palestine]]
+| region           = [[Levant]]
+| creator          = 
+| course           = Meal
+| served           =
+| main_ingredient  = Chicken, sumac, onion, [[taboon bread]], olive oil 
+| variations       = 
+| calories         = 
+| other            = 
+| associated_cuisine = [[Palestinian cuisine|Palestinian]], [[Levantine cuisine|Levantine]]
+}}
+
+'''Musakhan''' ({{langx|ar|مسخّن|lit=something that is [re]heated}}),<ref>{{cite web|url=https://www.seriouseats.com/msakhan-recipe-5219618 |title=Msakhan (Palestinian Flatbreads with Onion, Sumac, and Roast Chicken) Recipe }}</ref> also known as '''muhammar''' ({{langx|ar|links=no|محمّر|lit=reddish}}), is a [[Palestinian cuisine|Palestinian]] dish composed of [[Roast chicken|roasted chicken]] baked with [[onion]]s, [[sumac]], [[allspice]], [[saffron]], and fried [[pine nut]]s served over [[taboon bread]]. Originating in the [[Tulkarm]] and [[Jenin]] area,<ref>{{Cite book|last=Albala|first=Ken|title=Food Cultures of the World Encyclopedia [4 volumes]: [Four Volumes]|pages=293}}</ref> musakhan is often considered the [[national dish]] of [[Palestinian National Authority|Palestine]]. The dish is particularly popular among [[Palestinians]] and [[Jordanians]].<ref name="Basan2007">{{cite book|author=Ghillie Basan|url=https://books.google.com/books?id=-7wnpIi3VRwC&pg=PA189|title=The Middle Eastern Kitchen|date=January 2007|publisher=Hippocrene Books|isbn=978-0-7818-1190-3|pages=189–}}</ref> It is also eaten by [[Israeli Druze|Druze]] in the [[Galilee]], especially around [[Iksal]] and [[Sandala, Israel|Sandala]], and in the [[Triangle (Israel)|Triangle]].<ref name="Mostyn1983">{{cite book|author=Trevor Mostyn|title=Jordan: A Meed Practical Guide|url=https://books.google.com/books?id=7S9uAAAAMAAJ|year=1983|publisher=Middle East Economic Digest Limited|isbn=978-0-9505211-8-3}}</ref><ref>{{cite news|url=https://www.haaretz.com/world-news/1.625577|title=After Death Threats, Palestinian Food-serving U.S. Restaurant Closes|last=Haaretz|date=10 November 2014|access-date=24 April 2018|newspaper=Haaretz|url-status=live|archive-url=https://web.archive.org/web/20171201042056/https://www.haaretz.com/world-news/1.625577|archive-date=1 December 2017}}</ref> The dish can be found in [[Syria]], [[Lebanon]] and [[Jordan]] as well.<ref name="Basan2007" /> The dish owes its name to the practice of Palestinian farmers reheating old taboon bread and make it taste better.<ref>{{Cite book |last=Kassis |first=Reem |title=We Are Palestinian: A Celebration of Culture and Tradition |date=2023 |publisher=[[Bonnier Books Ltd]] |isbn=9781800783287}}</ref> ''Musakhan'' is traditionally cooked during the olive harvest season.<ref name="tamimi" /><ref name="aljazeera">{{cite news |last1=خير |first1=منى |title=المسخّن أكلة تراثية فلسطينية تتصدر المائدة الرمضانية |url=https://www.aljazeera.net/women/2023/4/15/المسخّن-أكلة-تراثية-فلسطينية-تسجل |access-date=9 September 2025 |work=Al-Jazeera |date=15 Apr 2023 |language=ar |trans-title=Musakhan is a traditional Palestinian dish that is a staple on the Ramadan table. |archive-url=https://www.aljazeera.net/women/2023/4/15/%D8%A7%D9%84%D9%85%D8%B3%D8%AE%D9%91%D9%86-%D8%A3%D9%83%D9%84%D8%A9-%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AC%D9%84 |archive-date=15 Apr 2023}}</ref>
+
+==History==
+
+The exact origin of the dish is unclear, references to it are found in [[Music_of_Palestine#Pre-1948|Palestinian folk songs]] from the 19th-century.<ref name="kassis">{{cite web |last1=Kassis |first1=Reem |title=Msakhan (Palestinian Flatbreads With Onion, Sumac, and Roast Chicken) Recipe |url=https://www.seriouseats.com/msakhan-recipe-5219618 |website=Serious Eats |access-date=7 July 2025 |language=en |author1-link=Reem Kassis}}</ref>
+
+Some sources state that the dish was created by mistake, where in communal ovens that were dug into the ground, ingredients like chicken and bread were frequently placed next to one another to cook simultaneously, and eventually came to be placed on top of one another.<ref name="TASTE" />
+
+Different versions of the dish have existed for 150 years.<ref name="TASTE">{{cite web |last1=Yassky-Weiss |first1=Eyal |title=The Musakhan Queens of Ramallah |url=https://tastecooking.com/musakhan-queens-ramallah/ |website=TASTE |access-date=7 July 2025 |date=30 January 2018}}</ref>
+
+==Preparation==
+[[File:المسخن الفلسطيني على الطريقة الشمالية.jpg|thumb|''Musakhan rolls''|upright]]
+
+Musakhan is simple to make and the ingredients needed are easily obtainable, which may account for the dish's popularity. Many of the ingredients used—[[olive oil]], sumac and pine nuts—are staples of Palestinian cuisine. The dish is typically eaten with one's hands. It is usually presented with the chicken on top of the bread, and could be served with soup.<ref name="tamimi">{{cite web |last1=Tamimi |first1=Sami |last2=Wrigley |first2=Tara |author1-link=Sami Tamimi |title=Chicken Musakhan |url=https://www.anotherpantry.co.uk/recipes/chicken-musakhan/ |website=Another Pantry |access-date=7 July 2025 |language=en}}</ref><ref name="kassis" />
+
+Some contemporary versions will shape the dish into rolls rather than the traditional layered setup, with thin [[saj bread]] instead of the much thicker taboon bread,<ref>{{cite news |title='Every dish on our menu is a memory made real': Dubai-based food author crafts unique culinary experience |url=https://www.khaleejtimes.com/entertainment/every-dish-on-our-menu-is-a-memory-made-real-dubai-based-food-author-crafts-unique-culinary-exper |access-date=7 July 2025 |work=Khaleej Times |date=16 Jan 2024 |language=en}}</ref><ref name="kassis" /><ref name="aljazeera" /> other contemporary versions make it into a ''[[fatteh]]''.<ref name="WaPo">{{cite news |last1=Kassis |first1=Reem |author1-link=Reem Kassis |title=This Palestinian fatteh of bread, chicken and yogurt honors tradition |url=https://www.washingtonpost.com/food/2023/06/23/msakhan-fatteh-palestinian-peasant-food/ |access-date=9 September 2025 |work=The Washington Post |date=23 June 2023}}</ref><ref>{{cite news |last1=لاين |first1=الجمهورية أون |title=فتة المسخن من ألذ الاطباق على سفرة رمضان بالفيديو |url=https://www.gomhuriaonline.com/Gomhuria/616747.html |access-date=15 September 2025 |work=[[Al Gomhuria]] |date=3 May 2020 |language=Arabic |trans-title=Musakhan Fatteh is one of the most delicious dishes on the Ramadan table}}</ref>
+
+==World records==
+On April 20, 2010, the largest ever dish of musakhan was prepared in [[Ramallah]] and was entered into the ''[[Guinness Book of World Records]]''.<ref>{{cite web |url=http://www.jmcc.org/news.aspx?id=705 |title=Palestinian 'musakhan' to enter Guinness record book |author=Amjad Rafiq |date=2010-04-10 |access-date=2017-11-29 |url-status=live |archive-url=https://web.archive.org/web/20171012142821/http://www.jmcc.org/news.aspx?id=705 |archive-date=2017-10-12}}; {{cite web |url=http://www.alarabiya.net/articles/2010/04/20/106354.html |title=الفلسطينيون يدخلون "غينيس" بأكبر رغيف مسخن في العالم |date=20 April 2010 |trans-title=Palestinians enter Guinness World Records with the world's largest 'Musakhan' |archive-url=https://web.archive.org/web/20100423063324/http://www.alarabiya.net/articles/2010/04/20/106354.html |archive-date=2010-04-23}}</ref> Palestinian Prime Minister [[Salam Fayyad|Salam Fayad]] described it as a great achievement and honor for the Palestinian people: "This great achievement completely depended on Palestinian products, mainly olive oil. It also has a cultural dimension and a Palestinian message to the world that they want their legitimate rights."<ref>{{Cite web|title=Palestinian largest "Musakhan "enters the world Guinness book |website=Baheth Center |date=2010-04-20 |url=http://www.bahethcenter.net/english/essaydetails.php?eid=571&cid=95 |url-status=dead |archiveurl=https://web.archive.org/web/20110723022859/http://www.bahethcenter.net/english/essaydetails.php?eid=571&cid=95|archivedate=July 23, 2011}}</ref> The total diameter of the musakhan loaf was 4 meters, with a total weight of 1,350&nbsp;kg. Forty Palestinian cooks made use of 250&nbsp;kg of [[flour]], 170&nbsp;kg of olive oil, 500&nbsp;kg of onions and 70&nbsp;kg of [[almond]]s.<ref>{{cite news |title=Palestinian &#039;Musakhan&#039; enters Guinness records |url=https://english.alarabiya.net/articles/2010%2F04%2F20%2F106372 |access-date=4 September 2025 |work=Al Arabiya English |date=20 April 2010 |language=en}}</ref>
+
+==See also==
+* [[Palestinian cuisine]]
+* [[List of chicken dishes]]
+
+==References==
+{{commons category}}
+{{Reflist}}
+
+{{Levantine cuisine}}
+
+[[Category:Arab cuisine]]
+[[Category:Baked foods]]
+[[Category:Chicken dishes]]
+[[Category:Israeli cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Palestinian cuisine]]
+[[Category:National dishes]]
+[[Category:Palestinian inventions]]

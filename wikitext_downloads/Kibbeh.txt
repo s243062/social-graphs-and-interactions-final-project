@@ -1,0 +1,145 @@
+{{Short description|Arab and Levantine dish of ground meat and bulgur}}
+{{Redirect|Kibbe|the surname|Kibbe (surname)}}
+{{For|the type of butter|Niter kibbeh}}
+{{pp-semi-indef|small=yes}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox food
+| name = Kibbeh
+| image = Kibbeh3.jpg
+| image_size = 230px
+| caption = Fried ''kibbeh raas'' (''nabulsi kibbeh'')
+| country = Syria, Egypt, Iraq, Jordan, Armenia, Lebanon, Israel, Palestine, Turkey
+| region = [[Levant]], [[Mesopotamia]], [[Caucasus]], [[East Mediterranean]]
+| course = [[Meze]]
+| served = Hot (or raw as ''[[kibbeh nayyeh]]'')
+| main_ingredient = Finely ground meat, cracked wheat (bulgur), and [[Levantine cuisine|Levantine spices]]
+}}
+
+'''Kibbeh''' ({{IPAc-en|ˈ|k|ɪ|b|i}}, also '''kubba''' and other spellings; {{langx|ar|كبة|kibba}}; {{langx|arz|كبيبة|kobeba}}) is a popular dish in the Arab world and the [[Levant]] in particular, made of spiced lean ground meat and [[bulgur wheat]]. Kibbeh is considered to be a [[national dish]] of [[Lebanon]] and [[Syria]].<ref name="nationalgeographic.com">{{Cite web|date=2011-09-13|title=Top 10 National Dishes -- National Geographic|url=https://www.nationalgeographic.com/travel/top-10/national-food-dishes/|archive-url=https://web.archive.org/web/20161014060413/http://www.nationalgeographic.com/travel/top-10/national-food-dishes/|url-status=dead|archive-date=October 14, 2016|access-date=2020-08-08|website=Travel|language=en}}</ref><ref>George, Maria. ''Mediterranean Cuisine: Flavors for a Healthier You'', Christian Faith Publishing, Inc. 2019, Page 301</ref><ref name="Marks 2010:Kibbeh">{{cite book|first1=Gil|last1=Marks|title=Encyclopedia of Jewish Food|url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT954|publisher=HMH|date=17 November 2010|isbn=978-0-544-18631-6|via=Google Books}}</ref><ref name=Davidson-p444-445>{{Cite book |last=Perry |first=Charles |authorlink=Charles Perry (food writer) |editor-last=Davidson |editor-first=Alan |year=2014 |title=The Oxford Companion to Food |url=https://books.google.com/books?id=bIIeBQAAQBAJ&pg=PA444 |location=Oxford |publisher=Oxford University Press |isbn=978-0191040726 |pages=244, 444–445}}</ref><ref>{{cite book|first1=Sally|last1=Howell|title=Arab Detroit: From Margin to Mainstream|url=https://books.google.com/books?id=5cw3WKvVt4MC&pg=PA530|publisher=Wayne State University Press|year=2000 |isbn=9780814328125|via=Google Books}}</ref><ref name="helou2000">{{cite book|first1=Anissa|last1=Helou|title=Feast: Food of the Islamic World|url=https://books.google.com/books?id=z6dvDwAAQBAJ&pg=PT245|publisher=Bloomsbury Publishing|date=4 October 2018|isbn=9781526605566|via=Google Books}}</ref>
+
+In [[Levantine cuisine]], kibbeh is made by pounding bulgur wheat together with meat into a fine paste and forming it into ovoid shapes, with toasted pine nuts and spices. It may also be layered and cooked on a tray, [[Deep frying|deep-fried]], grilled, or [[Kibbeh nayyeh|served raw]].<ref>{{Citation|last=Perry|first=Charles PerryCharles|editor1-first=Tom|editor1-last=Jaine|title=kibbeh|date=2006|url=https://www.oxfordreference.com/view/10.1093/acref/9780192806819.001.0001/acref-9780192806819-e-1327|work=The Oxford Companion to Food|publisher=Oxford University Press|language=en|doi=10.1093/acref/9780192806819.001.0001|isbn=978-0-19-280681-9|access-date=2021-02-11|url-access=subscription}}</ref> The Syrian city of Aleppo can lay claim to at least 17 types of kibbeh.<ref>{{Cite web |last=Khalaf |first=Hala |date=2018-08-09 |title=A guide to kibbeh |url=https://www.thenationalnews.com/lifestyle/food/a-guide-to-kibbeh-1.758435 |access-date=2024-04-24 |website=The National |language=en}}</ref> In [[Mesopotamian cuisine]], versions with rice or [[farina (food)|farina]] are found.<ref name="Ciezadlo 2012">{{cite book |url=https://books.google.com/books?id=HlKBpvoVq-QC&pg=PA361 |isbn=978-1-4391-5753-4 |page=361 |author=Annia Ciezadlo |year=2012 |title=Day of Honey: A Memoir of Food, Love, and War|publisher=Simon and Schuster }}</ref>
+
+Outside of Lebanon and Syria,<ref name="nationalgeographic.com"/> versions are found in [[Cyprus]], [[Egypt]], [[Israel]], [[Palestine]], the [[Arab states of the Persian Gulf|Persian Gulf]], [[Armenia]], and [[Turkey]],<ref name=Davidson-p444-445/> and among [[Assyrian people]].<ref>{{cite book|title=Food, Cuisine, and Cultural Competency for Culinary, Hospitality, and Nutrition Professionals|first=Sari|last=Edelstein|year= 2010| isbn= 9781449618117| page =594|publisher=Jones & Bartlett Publishers|quote=}}</ref> It is also found throughout [[Latin America]]n countries that received substantial numbers of immigrants from the Levant during the late 19th and early 20th centuries,<ref>{{Cite book|url=https://books.google.com/books?id=_eP7DwAAQBAJ&q=kibbeh+latin+american&pg=PA11|title = Meatballs: The Ultimate Cookbook|isbn = 9781646430147|last1 = Brown|first1 = Ellen|date = 6 October 2020| publisher=Simon and Schuster }}</ref> as well as parts of North America.<ref name="npr.org">{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=18547399|title=Kibbe at the Crossroads: A Lebanese Kitchen Story|website=npr.org|access-date=13 November 2017}}</ref>
+
+==Etymology==
+{{Wiktionary|kibbeh|كبة}}
+
+The modern word ''kibbeh'' ({{lang|ar|كبة}}) is derived from the Arabic root k-b-b ({{lang|ar|ك-ب-ب}}).<ref>{{cite web |title=تعريف و شرح و معنى كبة بالعربي في معاجم اللغة العربية معجم المعاني الجامع1 |url=https://www.almaany.com/ar/dict/ar-ar/%D9%83%D8%A8%D8%A9/ |website=[[Almaany]] |access-date=16 November 2025 |language=en}}</ref><ref name="gallica">{{cite book |last1=Dozy |first1=Reinhart Pieter Anne |author1-link=Reinhart Dozy |title=Supplément aux dictionnaires arabes, par R. Dozy. T. 1, 2. 2e édition. Tome 2,Edition 2 |date=1927 |page=36 |url=https://gallica.bnf.fr/ark:/12148/bpt6k6250059p/f451.image |access-date=16 November 2025 |language=FR}}</ref><ref name="nasrallah2013" />
+
+The use of ''kubbeh'' to designate stuffed food may have also been derived from the [[Akkadian language]] ''kubbu''.<ref name="nasrallah2013" /> The word ''kubbeh'' itself appeared in ancient Biblical texts, meaning "tent" or "tarp". Later on the word took on a new meaning in [[Aramaic]] as ''kababa'', which means "a covering".<ref>{{Cite web |last=hersh |date=2023-09-19 |title=Kubbeh, Kibbeh and Kebabs: What's In A Name? |url=https://aish.com/kubbeh-kibbeh-and-kebabs-whats-in-a-name/ |access-date=2023-11-24 |website=Aish.com |language=en-US}}</ref>
+
+The 10th century cookbook by [[Ibn Sayyar al-Warraq]] referred to meatballs as ''kubab'' (singular ''kubba'').<ref name="nasrallah2013" />
+
+==History==
+
+As noted by food historian [[Nawal Nasrallah]], the earliest mention of modern kibbeh, made with a filled shell of ground meat and grains, is in the 18th century work ''[[Taj al-'Arus min Jawahir al-Qamus]]''. The text describes it as a disk of ground meat and rice flour made by the people of "al-Sham" (the Levant).<ref name="nasrallah2013">{{cite book |last1=Nasrallah |first1=Nawal |author1-link=Nawal Nasrallah |title=Delights from the Garden of Eden: A Cookbook and History of the Iraqi Cuisine |date=2013 |publisher=Equinox Pub. |isbn=978-1-84553-457-8 |url=https://www.google.com/books/edition/Delights_from_the_Garden_of_Eden/4RZAPgAACAAJ |access-date=15 November 2025 |language=en |chapter=Stuffed Foods}}</ref>
+
+==Variations==
+
+=== Levant ===
+
+[[File:Kibbeh_Nayyeh.jpg|thumb|''Kibbeh nayyeh'']]
+''[[Kibbeh nayyeh]]'' is a raw dish made from a mixture of bulgur, very finely minced lamb or beef similar to [[steak tartare]], and Levantine spices, served on a platter, frequently as part of a ''[[meze]]'' in [[Lebanon]] and [[Syria]], garnished with mint leaves and olive oil, and served with green onions or scallions, green hot peppers, and [[pita]]/pocket bread or ''[[markouk]]'' bread.<ref name="Marks 2010:Kibbeh"/> Because ''kibbeh nayyeh'' is raw, it requires high-quality meat to prepare and has been seen as a traditional way to honor guests.<ref name=Davidson-p444-445/>
+
+[[File:كبة لبنية.jpg|thumb|left|Levantine ''Kibbeh labaniyeh'']]
+
+Kibbeh labaniyeh ({{langx|ar|كبة لبنية}}) is a variant of kibbeh cooked in a yoghurt sauce and served over rice. It is popular in Lebanon and Syria.<ref>{{cite news |last1=Datian |first1=Christine Vartanian |title=Recipe Corner: Lebanese & Syrian Meat and Bulgur Balls in Yoghurt (Kibbeh Labaniyya) |url=https://mirrorspectator.com/2024/12/05/recipe-corner-lebanese-syrian-meat-and-bulgur-balls-in-yoghurt-kibbeh-labaniyya/ |access-date=14 August 2025 |work=The Armenian Mirror-Spectator |date=5 December 2024}}</ref><ref>{{cite news |title=Kibbeh labaniyeh: Lebanese meatballs to start a new year |url=https://www.bbc.com/travel/article/20231231-kibbeh-labaniyeh-lebanese-meatballs-to-start-a-new-year |access-date=14 August 2025 |work=BBC |date=1 January 2024}}</ref>
+
+''Kibbeh bil siniyeh'' ({{langx|apc|كبة بالصينية}}) is a variation of kibbeh in which the meat stuffing is sandwiched between two layers of kibbeh dough and then baked; it is popular in Lebanon and Syria.<ref name="roden2018" /><ref name="latimes2013">{{cite news |title=Aleppo's Kitchen: For rarely found Syrian specialties |url=https://www.latimes.com/food/dailydish/la-dd-scouting-report-aleppo-kitchen-story.html |access-date=28 October 2025 |work=Los Angeles Times |date=19 August 2013}}</ref><ref name="foodandwine">{{cite web |title=Kibbeh Bil Sanieh |url=https://www.foodandwine.com/recipes/kibbeh-bil-sanieh |website=[[Food & Wine]] |access-date=28 October 2025 |language=en |date=17 Dec 2020}}</ref>
+
+[[File:Kibbeh Bil Sanieh.jpg|thumb|''Kibbeh bil siniyeh'' (baked kibbeh in a tray)]]
+
+==== Lebanon ====
+
+In Lebanon, meatless versions of kibbeh exist, and are sometimes called "poor man's kibbe". The stuffing is made with onions, walnuts, and wheat.<ref>{{cite news |title=أطباق رمضان بما تيسّر... |url=https://www.sawtbeirut.com/press/%D8%A3%D8%B7%D8%A8%D8%A7%D9%82-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%A8%D9%85%D8%A7-%D8%AA%D9%8A%D8%B3%D9%91%D8%B1/ |access-date=6 October 2025 |work=Sawt Beirut |date=3 April 2023 |language=ar |trans-title=Ramadan dishes are not easily available...}}</ref><ref>{{cite news |title=تعرّف إلى كبّة "أبو آمنة" أو "كبّة الفقير" في عكار |url=https://www.annahar.com/arabic/article/278410-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A5%D9%84%D9%89-%D9%83%D8%A8%D8%A9-%D8%A3%D8%A8%D9%88-%D8%A2%D9%85%D9%86%D8%A9-%D8%A3%D9%88-%D9%83%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D9%82%D9%8A%D8%B1-%D9%81%D9%8A-%D8%B9%D9%83%D8%A7%D8%B1 |access-date=6 October 2025 |work=Annahar |date=10 Oct 2015 |trans-title=Get to know "Abu Amna" or "Poor Man's Kibbeh" in Akkar}}</ref><ref name="roden2018" /><ref name="foodandwine" /> ''Kibbet samak'', made using fish, is popular among Sunni Muslims in [[North Lebanon]].<ref name="helou2000" />
+
+Potato ''kibbeh'' is a variation of kibbeh where potato is mixed with the bulgur. It is often assembled in three layers: a potato layer, followed by the meat filling, then another potato layer on top. Author [[Claudia Roden]] describes it as an "oriental [[shepherd's pie]]."<ref>{{cite news |title=كبّة البطاطا... ابتكار لا يّقاوم |url=https://www.annahar.com/arabic/section/99-%D8%B7%D8%A8%D8%AE/14062022123420929 |access-date=28 October 2025 |work=[[An-Nahar]] |date=3 Jul 2022 |language=ar |trans-title=Potato Kibbeh... an irresistible innovation}}</ref><ref name="roden2018" /> It is especially popular in Lebanon.<ref>{{cite news |title=المطبخ اللبناني.. أكلات شهية "تغذي" ترتيبه عالميًا |url=https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%A3%D9%83%D9%84%D8%A7%D8%AA-%D8%B4%D9%87%D9%8A%D8%A9-%D8%AA%D8%BA%D8%B0%D9%8A-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%D9%87-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D9%8B%D8%A7-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1/1448044 |access-date=28 October 2025 |work=[[Anadolu Agency]] |date=10 Apr 2019 |language=ar |trans-title=Lebanese cuisine: Delicious dishes "feed" its global ranking (report)}}</ref>
+
+==== Syria ====
+
+The city of [[Aleppo]], Syria, is famous for its many varieties of ''kibbe''.<ref name="npr2010">{{cite web |date = 5 Jan 2010 | title = NPR web: Food Lovers Discover The Joys Of Aleppo|website = [[NPR]]| url = https://www.npr.org/templates/story/story.php?storyId=122058669}}</ref> These include ''kibbeh'' prepared with [[sumac]] (''kibbe sumāqiyye''),<ref>{{cite news |title=طريقة عمل السماقية الفلسطينية والحلبية بخطوات بسيطة |url=https://www.e7kky.com/article/32519/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%82%D9%8A%D8%A9 |access-date=5 October 2025 |work=E7kky |language=ar |trans-title=How to make Palestinian and Aleppo sumakiyya in simple steps}}</ref> [[yogurt]] (''kibbe labaniyye''), [[quince]] (''[[Kibbeh safarjaliyeh|kibbe safarjaliyye]]''),<ref>{{cite news |title="وجبات حلب العريقة" على موائد المحتاجين |url=https://www.alaraby.co.uk/society/%22%D9%88%D8%AC%D8%A8%D8%A7%D8%AA-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D9%82%D8%A9%22-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%D9%8A%D9%86 |access-date=6 October 2025 |work=The New Arab |date=5 May 2021 |language=ar-AR |trans-title="Ancient Aleppo Meals" on the Tables of the Needy}}</ref> lemon juice (''kibbe ḥāmḍa''),<ref name="roden2018">{{cite book |last1=Roden |first1=Claudia |author1-link=Claudia Roden |title=A New Book of Middle Eastern Food: The Essential Guide to Middle Eastern Cooking. As Heard on BBC Radio 4 |date=22 March 2018 |publisher=Penguin Books Limited |isbn=978-1-4059-3778-8 |url=https://www.google.com/books/edition/A_New_Book_of_Middle_Eastern_Food/FN5MDwAAQBAJ |access-date=6 October 2025 |language=en}}</ref> [[pomegranate]] sauce (''kibbeh [[rummaniyeh]]''),<ref name="aawsat">{{cite news |title=تعرف على أنواع الكبة الحلبية |url=https://aawsat.com/home/article/1476881/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D9%83%D8%A8%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A%D8%A9 |access-date=17 November 2025 |work=[[Asharq Al-Awsat]] |date=25 Nov 2018 |language=ar |trans-title=Learn about the different types of Aleppo kibbeh}}</ref> [[cherry]] sauce, and other varieties, such as "disk" ''kibbeh'' (''kibbe arāṣ''), "plate" ''kibbeh'' (''kibbe biṣfīḥa'' or ''kibbe bṣēniyye'') and raw ''kibbeh'' (''[[kibbeh nayyeh]]'').{{citation needed|date=March 2025}}<ref>{{cite web |title=زهرة الخليج - الشيف محمد أورفه لي يستذكر رمضان وأكلاته في حلب |url=https://www.zahratalkhaleej.ae/Article/333705/%D8%A7%D9%84%D8%B4%D9%8A%D9%81-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%88%D8%B1%D9%81%D9%87-%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B0%D9%83%D8%B1-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%88%D8%A3%D9%83%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8 |website=[[:ar:زهرة الخليج|Zahrat al Khaleej]] |access-date=21 September 2025 |language=ar |date=11 July 2014 |trans-title=Chef Mohammed Orfali recalls Ramadan and its dishes in Aleppo}}</ref> ''Kibbeh sajiyeh'' ({{langx|ar|كبة صاجية}}) is kibbeh shaped into a thin disk with a meat filling that is traditionally dipped in a yogurt sauce.<ref name="latimes2013"/><ref>{{cite news |title=كبة صاجية على الطريقة السورية |url=https://alwasat.ly/news/kitchen/78375 |work=Al-Wasat |date=27 Jul 2015 |language=ar |trans-title=Syrian-style kibbeh sajiah}}</ref>
+
+A Syrian soup known as ''kubbi [[kishk]]'' consists of ''kubbi'' ("torpedoes" or "footballs") in a yogurt (''kishk'') and butter broth with stewed cabbage leaves. Another soup, known as ''kibbeh hamda'', consists of chicken stock with vegetables (usually leeks, celery, turnips and courgettes), lemon juice and garlic, with small ''kibbeh'' made with ground rice as dumplings.<ref name="aawsat" /><ref>{{cite book |first=Claudia |last=Roden |date=March 1974 |title=A Book of Middle Eastern Food |publisher=[[Random House]] - Vintage Books |pages=232–233 |isbn=0-394-71948-4 |oclc=622578 |via=[[Internet Archive]] |url=https://archive.org/details/bookofmiddleeast00rode/page/232/mode/1up?q=%22kibbeh+hamda%22 }}</ref> In the [[Syrian Jews|Syrian Jewish]] diaspora this dish is popular both at [[Pesach]] and as the pre-fast meal on the day before [[Yom Kippur]].<ref>{{cite book|author=Poopa Dweck|title=Aromas of Aleppo|publisher=Harper Collins|year=2011|isbn=9780062042644|page=97}}</ref>
+
+===Iraq===
+
+[[File:Kibbeh Moselleyh.jpg|thumb|''Kibbeh Moselleyh'' from [[Mosul]]]]
+
+''Kubba Mosul'' from Iraq is flat and round like a disc, named after the city of [[Mosul]].<ref name=Davidson-p444-445/> ''Kubba Halab'' is an Iraqi version of kibbeh created with a rice and potato crust and named after the largest city in Syria, Aleppo.<ref>{{cite news |title=كبة او كبيبة الارز والبطاطس العراقية |url=https://www.gomhuriaonline.com/Gomhuria/521850.html |access-date=28 October 2025 |work=[[Al Gomhuria]] |date=27 November 2019 |language=Arabic |trans-title=Iraqi rice and potato kibbeh or kibbeh}}</ref><ref>{{cite news |title=كبة حلب العراقية.. هناك أسباب وراء تسميتها |url=https://ultrairaq.ultrasawt.com/%D9%83%D8%A8%D8%A9-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%88%D9%87%D9%86%D8%A7%D9%83-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D9%88%D8%B1%D8%A7%D8%A1-%D8%AA%D8%B3%D9%85%D9%8A%D8%AA%D9%87%D8%A7/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D8%B9%D8%B1%D8%A7%D9%82/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA |access-date=28 October 2025 |work=[[Ultrasawt]] |date=27 May 2024 |language=ar |trans-title=Iraqi Halabi Kibbeh...There are reasons behind its name.}}</ref> ''Kubbat shorba'' is an [[Iraqi cuisine|Iraqi]] and [[Kurdish cuisine|Kurdish]] version prepared as a stew, commonly made with turnips and chard in a tomato-based stew. It is often served with [[arak (liqueur)|''arak'']] and various salads.<ref>{{cite news |title=An Iraqi-Kurdish-Israeli Dumpling Soup Makes Its Way To America |website=NPR |url=https://www.npr.org/sections/thesalt/2017/08/10/541456723/an-iraqi-kurdish-israeli-dumpling-soup-makes-its-way-to-america}}</ref>
+
+Among [[Kurdish Jews]], there is a kubba soup flavored with aromatic thyme leaves during winter.<ref>[https://www.ynet.co.il/articles/0,7340,L-3507657,00.html אדוני רוצה עוד קובה? הצצה למטבח הכורדי]</ref>
+
+=== Egypt ===
+
+In Egypt, ''kibbeh'' is referred to as ''kobeba'' ({{langx|arz|كبيبة}}).<ref>{{cite news |title=Beef and cracked wheat slice (kobeba) |url=https://www.sbs.com.au/food/recipe/beef-and-cracked-wheat-slice-kobeba/s4pr4hmcu |access-date=6 October 2025 |work=[[SBS Food]] |date=14 June 2018 |language=en}}</ref> Seafood variations of kobeba exist, such as shrimp kobeba, popular in [[Port Said]].<ref>{{cite news |title="كبيبة الجمبري".. أسرار أشهر الأكلات البورسعيدية- صور |url=https://www.masrawy.com/news/news_regions/details/2022/12/16/2340654/-%D9%83%D8%A8%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A8%D8%B1%D9%8A-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A3%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D8%A3%D9%83%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%D8%A9-%D8%B5%D9%88%D8%B1 |access-date=6 October 2025 |work=[[Masrawy]] |language=ar |trans-title=Shrimp Kibbeh: The Secrets of the Most Famous Port Said Dishes}}</ref><ref>{{cite news |title=طريقة عمل كبيبة الجمبري.. أشهى الأكلات البورسعيدية |url=https://www.elwatannews.com/news/details/5571196 |access-date=6 October 2025 |work=El-Wattan News |date=9 July 2021 |language=ar |trans-title=How to make shrimp kibbeh...the most delicious Port Said dish}}</ref>
+
+=== Latin America ===
+
+==== Brazil ====
+[[File:Quibe_frito.JPG|thumb|right|Fried ''quibe'' (Brazil)]]Brazilian {{lang|pt|quibe}} is sometimes stuffed with [[Catupiry]] or another variety of ''[[requeijão]]'',  a sauce resembling ricotta and cream cheese. Most Brazilian {{lang|pt|quibe}} uses only ground beef, but other variations use tahini, {{lang|pt|carne de soja}} ([[Textured vegetable protein|texturized soy protein]]), {{lang|pt|seitan}} (Japanese [[Wheat gluten (food)|wheat gluten-based meat substitute]]) or [[tofu]] (soybean curd) as stuffing.<ref>{{Cite web |date=2022-07-19 |title=Lebanese Brazilian Food: Fried Kibbeh |url=https://texasdebrazil.com/food-beverage/lebanese-brazilian-food-fried-kibbeh/ |url-status=live |archive-url=https://web.archive.org/web/20220813163357/https://texasdebrazil.com/food-beverage/lebanese-brazilian-food-fried-kibbeh/ |archive-date=2022-08-13 |publisher=[[Texas de Brazil]]}}</ref>
+
+In the [[Brazilian state]] of [[Acre (state)|Acre]], a variation of {{lang|pt|quibe}} called {{lang|pt|quibe de arroz}} (rice kibbeh) is made with a rice flour breading. It was created by [[Arab Brazilians|Arab immigrants to Brazil]] who had no access to wheat in the remote Amazon region of Brazil.<ref>{{Cite news |last=Menezes |first=Gabrielli |date=2021-06-14 |title=Culinária do Acre esbanja identidade e orgulho em cada prato; conheça |trans-title=Acre's cuisine exudes identity and pride in every dish; get to know it |url=https://www.uol.com.br/nossa/noticias/redacao/2021/06/14/culinaria-do-acre-esbanja-identidade-e-orgulho-em-cada-prato-conheca.htm |url-status=live |archive-url=https://web.archive.org/web/20210614071737/https://www.uol.com.br/nossa/noticias/redacao/2021/06/14/culinaria-do-acre-esbanja-identidade-e-orgulho-em-cada-prato-conheca.htm |archive-date=2021-06-14 |access-date=2024-02-20 |work=[[Universo Online|UOL]] |language=pt-BR}}</ref>
+
+==== Colombia ====
+On Colombia's Caribbean coast, most local variations of the dish use ground beef instead of lamb, but the original recipe, or one with a mixture of beef and lamb, can be found served by the large Lebanese and Syrian population of the area.<ref>Hourani, Albert. ''The Lebanese and the World A Century of Emigration'', University of Virginia, 1992, Page 365</ref> The dish has acquired almost vernacular presence and is frequently served in social occasions at both Arab and non-Arab households. When served as an adopted local dish, it is offered often as a starter along with other regional delicacies, including [[empanada]]s, [[tequeño|deditos]] and [[carimañola]]s.<ref>{{Cite book|title=Musical imagiNation : U.S.-Colombian identity and the Latin music boom|author=Cepeda, María Elena|isbn=9780814772904|oclc=967261642}}</ref>
+
+==== Dominican Republic ====
+The Dominican version was brought to the Dominican Republic by Lebanese immigrants.<ref>{{cite book|url=https://books.google.com/books?id=lxjOEAAAQBAJ&dq=kibbeh+dominican+republic&pg=PA279|title=Food and Drink in American History: A "Full Course" Encyclopedia [3 Volumes]|isbn=978-1-61069-233-5 |last1=Smith |first1=Andrew F. |date=28 October 2013 |publisher=Bloomsbury Publishing USA }}</ref>
+
+==== Mexico ====
+Some regional [[Syrian cuisine]] and [[Lebanese cuisine]]s combine ''kibbeh'' with elements taken from Latin American cuisine, for example, it is typical of [[Syrian Mexicans]] to eat traditional kibbeh with [[salsa verde]].<ref>{{cite book|last1=Ayora-Diaz|first1=Steffan Igor|url=https://books.google.com/books?id=4Fl-DwAAQBAJ&pg=PA181|title=Taste, Politics, and Identities in Mexican Food|date=7 February 2019|publisher=Bloomsbury Publishing|isbn=978-1-350-06668-7|via=Google Books}}</ref>
+
+==Culture==
+
+Kibbeh is considered by many to be a difficult dish to prepare, and as such, the quality of kibbeh is considered to be a benchmark for the skill of a cook in Iraq and the Levant.<ref name="Marks 2010:Kibbeh" /><ref name="nasrallah2013" /><ref name="nytmag2023">{{cite news |author1=Yotam Ottolenghi |author1-link=Yotam Ottolenghi |title=This Soup Is Yotam Ottolenghi’s Comfort Food |url=https://www.nytimes.com/2023/01/18/magazine/lamb-meatball-soup-semolina-dumplings-recipe.html |access-date=15 November 2025 |work=The New York Times Magazine |date=20 Jan 2023}}</ref>
+
+==See also==
+{{Portal|Food}}
+
+* [[Falafel]]
+* [[List of Middle Eastern dishes]]
+* [[List of deep fried foods]]
+*[[List of stuffed dishes]]
+
+{{clear}}
+
+==References==
+{{Reflist}}
+
+{{Cuisine of Lebanon}}
+{{Cuisine of the Levant}}
+{{Armenian cuisine}}
+{{Cuisine of Turkey}}
+
+[[Category:Appetizers]]
+[[Category:Arab cuisine]]
+[[Category:Armenian cuisine]]
+[[Category:Assyrian cuisine]]
+[[Category:Cypriot cuisine]]
+[[Category:Egyptian cuisine]]
+[[Category:Iranian cuisine]]
+[[Category:Iraqi cuisine]]
+[[Category:Israeli cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Kurdish cuisine]]
+[[Category:Lebanese cuisine]]
+[[Category:Palestinian cuisine]]
+[[Category:Syrian cuisine]]
+[[Category:Stuffed dishes]]
+[[Category:National dishes]]
+[[Category:Street food]]
+[[Category:Deep fried foods]]
+[[Category:Semolina dishes]]
+[[Category:Meat dishes]]
+[[Category:Bulgur dishes]]
+[[Category:Colombian cuisine]]
+[[Category:Turkish cuisine]]
+[[Category:Brazilian cuisine]]
+[[Category:Mizrahi Jewish cuisine]]
+[[Category:Mexican cuisine]]
+[[Category:Wheat dishes]]
+[[Category:Fried foods]]
+[[Category:Middle Eastern cuisine]]
+[[Category:Dominican Republic cuisine]]
+
+[[ku:Kutilk]]

@@ -1,0 +1,98 @@
+{{Short description|Bolivian and Chilean bread roll}}
+{{Infobox food
+| name             = Marraqueta
+|image = File:Marraqueta bread.jpg
+| image_size       =
+| image_alt        =
+| caption          = Chilean marraqueta 
+| alternate_name   = {{plainlist|
+* marraqueta
+* ([[#Names|See below]])
+}}
+| type             = [[Bread roll]]
+| course           = 
+| country          = {{flatlist|
+[[Chile]]. Distribution:
+* [[South America]]
+** [[Bolivia]]
+** [[Chile]]
+}}
+| region           = 
+| national_cuisine = [[Chile]], [[Bolivia]]
+| creator          =
+| year             = 
+| mintime          = 
+| maxtime          = 
+| served           = 
+| main_ingredient  = [[Wheat flour]], salt, water, [[leavening agent]]
+| minor_ingredient = 
+| variations       = 
+| serving_size     = 100 g
+| calories         = 267
+| calories_ref     =
+| protein          = 
+| fat              = 
+| carbohydrate     = 
+| glycemic_index   = 
+| similar_dish     = 
+| cookbook         =
+| commons          =
+| other            = 
+| no_recipes       = false
+}}
+
+A '''marraqueta''' (also known by [[Marraqueta#Names|other names]]) is a [[bread roll]] made with [[wheat flour]], salt, water and [[leavening agent|yeast]]. 
+
+This type of roll has a crusty exterior.<ref name="Magazine del Pan">{{cite web |year=2005 |title=Panes del Mundo. Tradicional Marraqueta |url=http://www.magazinedelpan.com/detalle.asp?id=156 |url-status=live |archive-url=https://web.archive.org/web/20120210173515/http://www.magazinedelpan.com/detalle.asp?id=156 |archive-date=10 February 2012 |access-date=22 February 2008 |publisher=Magazine del Pan |location=Venezuela}}</ref> In [[Chile]], the bread dates to the 1800s, and it is considered a national food of Bolivia. It is served for breakfast, lunch, and dinner and is the most common bread found in Bolivian bakeries.<ref>{{Cite book |last=Umaña-Murray |first=Mirtha |title=Three generations of Bolovian cuisine |date=1996 |publisher=Lowell House |isbn=1-56565-467-6 |location=Los Angeles |oclc=35249500}}</ref><ref>{{Cite book |last=Sebess |first=Paulo |url=https://books.google.com/books?id=qyyiEAAAQBAJ |title=Professional Bread Baking Techniques |isbn=979-8487330185 |publication-date=2014-02-15}}</ref>
+
+In 2024, marraqueta was listed as the third best bread in the world by [[TasteAtlas|Taste Atlas]].<ref>{{Cite web |date=2024-05-13 |title=La marraqueta es catalogada como el tercer mejor pan del mundo por Taste Atlas |url=https://www.elmostrador.cl/tendencias/2024/05/13/la-marraqueta-es-catalogada-como-el-tercer-mejor-pan-del-mundo-por-taste-atlas/ |access-date=2024-05-15 |website=El Mostrador |language=es}}</ref><ref>{{Cite web |title=40 Best Bread Rolls in the World |url=https://www.tasteatlas.com/best-rated-bread-rolls-in-the-world |access-date=2024-05-15 |website=[[TasteAtlas]]}}</ref>
+
+== Regional varieties ==
+
+=== Bolivia ===
+The Bolivian marraqueta is consumed mostly in the metropolitan area of [[La Paz]]<ref name="Magazine del Pan" /> and [[El Alto]]. It is prepared in common ovens between midnight and dawn to be sold fresh and crunchy by vendors in the morning.
+
+The ''marraqueta'' of [[La Paz]], also known as ''marraqueta paceña'', was declared cultural patrimony in 2006.<ref>{{Cite web |last=La Fuente |first=Elizabeth |date=2023-07-13 |title=La marraqueta paceña tiene sus secretos, un experto dice cuáles son |url=https://eldeber.com.bo/la-paz/la-marraqueta-pacena-tiene-sus-secretos-un-experto-dice-cuales-son_332265 |access-date=2024-05-15 |website=El Deber |language=es}}</ref>
+
+=== Chile ===
+In Chile, marraqueta is a staple food eaten at every meal.<ref name=":0">{{Cite news |last=Smith |first=Eileen |date=2016-07-07 |title=In Chile, 'Marraqueta' Is The Daily Bread |language=en |work=NPR |url=https://www.npr.org/sections/thesalt/2016/07/07/484987260/in-chile-marraqueta-is-the-bread-of-life |url-status=live |access-date=2023-01-10 |archive-url=https://web.archive.org/web/20201026054742/https://www.npr.org/sections/thesalt/2016/07/07/484987260/in-chile-marraqueta-is-the-bread-of-life |archive-date=2020-10-26}}</ref> Marraqueta is the most widely consumed bread in Chile and is used as toast,<ref>[http://www.thisischile.cl/7479/2/once-a-guide-to-chiles-oddly-named-evening-snack/News.aspx Once: A guide to Chile’s oddly-named evening snack] {{Webarchive|url=https://web.archive.org/web/20140222212630/http://www.thisischile.cl/7479/2/once-a-guide-to-chiles-oddly-named-evening-snack/News.aspx|date=2014-02-22}} www.thisischile.cl Monday, February 06, 2012 retrieved October 08, 2013</ref> in sandwiches and as a binder for certain recipes such as ''pastel de carne'' ([[meatloaf]]). It is widely considered a [[National dish|national staple food]] and important to Chilean national identity.<ref name=":0" /><ref name="Magazine del Pan" /> The bread is often consumed for breakfast topped with mashed avocado.<ref name=":0" /> The crust is considered the essential element of the bread; when used for sandwiches, the inner dough (the ''[[Migas|miga]]'') is often scooped out and discarded, leaving the crust to be filled.<ref name=":0" /><ref>{{Cite web |title=Marraqueta {{!}} Traditional Bread From Chile |url=https://www.tasteatlas.com/marraqueta |access-date=2023-01-10 |website=www.tasteatlas.com}}</ref>
+
+It is also called ''pan batido'' (whipped bread) or ''pan francés'' (French bread) depending on the region.<ref>{{Cite book |last1=Munsey |first1=Lizzie |title=The Best Ever Bread Book |last2=Munsey |first2=Emily |publisher=Dorling Kindersley Limited |date=2021-10-07 |isbn=9780241556573 |pages=38}}</ref><ref>{{Cite book |last=Romey |first=Jared |title=Speaking chileno. A guide to chilean slang |publisher=RIL editores |year=2010 |isbn=978-9562847308 |location=Santiago |pages=132}}</ref> The Chilean marraqueta is created by butting two rolls up against one another and slicing through both almost deeply enough to form four rolls, then baking.<ref name=":0" /> 
+
+Chilean marraqueta bread can be divided into four pieces with the hands.<ref name=":1">{{Cite web |title=Learn How to Make Delicious Traditional Chilean Bread |url=https://www.thespruceeats.com/marraquetas-chilean-french-bread-rolls-3028944 |access-date=2023-01-10 |website=The Spruce Eats |language=en}}</ref> It does not contain fat and the [[Proofing (baking technique)|proofing]] process takes longer than other breads. The unusual form of the four buns allows it to be divided very easily.<ref name=":1" />
+
+Many historians agree that the ''marraqueta'' originated in [[Valparaíso]], Chile, in the late 19th and early 20th centuries, when major Chilean ports such as Valparaíso and [[Talcahuano]] received thousands of European immigrants.<ref name="Magazine del Pan" /> The story goes the bread was invented by two [[French people|French]] baker brothers in Valparaíso whose last name was Teran-Marraquett, and the bread went on to become very popular among Chileans in a very short time.<ref name="Magazine del Pan" /> This story would explain both the ''marraqueta'' and ''pan francés'' names. In Valparaíso itself, somewhat confusingly, marraqueta means the four small rolls while half of this is called ''pan batido'', the use of which is a [[shibboleth]] of the Port of Valparaíso (but is ignored by national supermarket chains).{{citation needed|date=September 2025}} There is no clear agreement on what is considered one unit of marraqueta and while some bakers claim is the four pieces of bread, some others claim that a unit is only half (so they say that the four pieces are two marraquetas).{{citation needed|date=September 2025}}
+
+An alternative theory of the bread's origin was proposed by French naturalist and botanist [[Claude Gay]], who suggested that ''marraqueta'' was first eaten in Chile in the 19th century.<ref>{{cite book |author=Gay, Claudio |url=https://books.google.com/books?id=1sT6AkGbQFAC&q=%22En+Chile+hay+varias+clases+cuyas+principales+son+el+pan+franc%C3%A9s%22&pg=PA57 |title=Historia física y política de Chile según documentos adquiridos en esta república durante doce años de residencia en ella y publicada bajo los auspicios del supremo gobierno |year=1865 |page=57 |quote=En Chile hay varias clases (de pan) cuyas principales son el pan francés que es el común de la Europa, el pan inglés de forma redonda y un poco menos cocido que el anterior, el chileno sazonado con grasa y generalmente usado en las provincias, la talera que se da a los peones y a los mineros y amasada con la harina en hoja, y enfin la tortilla preparada como al tiempo de Abraham y como la preparan todavía los Árabes y otros pueblos de la África, es decir sin levadura y cocido bajo las cenizas poco antes de la comida. |access-date=2023-01-10 |archive-url=https://web.archive.org/web/20230110155755/https://books.google.com/books?id=1sT6AkGbQFAC&q=%22En+Chile+hay+varias+clases+cuyas+principales+son+el+pan+franc%C3%A9s%22&pg=PA57 |archive-date=2023-01-10 |url-status=live}}</ref>
+
+=== Peru ===
+In [[Peru]], the bread called ''pan francés'' (sometimes ''pan francés peruano'') is different from the marraqueta.<ref>{{cite news |last1=Nolasco |first1=Por Edwin Montesinos |title=El pan que le ha quitado protagonismo al 'clásico' francés y cuáles son los nuevos productos con granos andinos |url=https://www.infobae.com/peru/2023/10/16/el-pan-que-le-ha-quitado-protagonismo-al-clasico-frances-y-cuales-son-los-nuevos-productos-con-granos-andinos-que-llegaran-a-tu-mesa/ |access-date=17 October 2023 |work=infobae |date=16 October 2023 |language=es-ES}}</ref>
+
+== Gallery ==
+<gallery>
+Marraqueta paceña.jpg|Marraqueta paceña ([[La Paz]]-style marraqueta)
+Panes chilenos.JPG|Chilean marraqueta
+Pan Marraqueta Tacna 28072010.jpg|Marraqueta tacneña ([[Tacna]]-style marraqueta)
+</gallery>
+
+== See also ==
+* [[French roll]]
+* [[Pão francês]]
+* [[List of breads]]
+* {{portal-inline|Food}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+
+* {{Cite book |last=Ferrán F. |first=Antonio |title=El pan en Chile : su historia, sus personajes, sus panaderías, su nobleza |date=2016 |others=Alberto Ferrán L., Pin Campaña |isbn=978-956-365-018-1 |location=[Santiago de Chile] |oclc=970696884}}
+{{Chilean bread}}
+{{Cuisine of Chile}}
+
+[[Category:Bolivian cuisine]]
+[[Category:Chilean breads]]
+[[Category:Peruvian cuisine]]
+[[Category:Wheat breads]]
+[[Category:Yeast breads]]
+[[Category:National dishes]]

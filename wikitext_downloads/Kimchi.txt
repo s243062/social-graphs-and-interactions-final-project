@@ -1,0 +1,528 @@
+{{Use American English|date=September 2022}}
+{{Short description|Korean side dish of fermented vegetables}}
+
+{{about|the Korean side dish|people with this surname|Kimhi|other uses|Kimchi (disambiguation)}}
+{{distinguish|Kim Chiu}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox food
+| name = Kimchi
+| image = Various kimchi.jpg
+| caption = Clockwise from top left: ''[[kkakdugi]]'', [[pa-kimchi|''pa''-kimchi]], [[yeolmu-kimchi|''yeolmu''-kimchi]], ''[[dongchimi]]'', [[nabak-kimchi|''nabak''-kimchi]], ''mul''-kimchi
+| country = [[Korea]]
+| national_cuisine = [[Korean cuisine]]
+| creator = 
+| year = 
+| mintime = 
+| maxtime = 
+| type = 
+| course = ''[[Banchan]]''
+| served = Cold or at room temperature
+| main_ingredient = Various vegetables including [[napa cabbage]] and [[Korean radish]]
+| minor_ingredient = Chili
+| variations = ''[[Baechu-kimchi]]'', ''[[baek-kimchi]]'', ''[[dongchimi]]'', ''[[kkakdugi]]'', ''[[nabak-kimchi]]'', ''[[pa-kimchi]]'', ''[[yeolmu-kimchi]]'', ''[[morkovcha]]''
+| module = {{Infobox Korean name/auto
+| hangul     = 김치
+| ipa  = {{IPA|ko|kim.tɕʰi||link=no}}
+|child=yes
+}}
+}}
+
+'''Kimchi'''<!-- Do not italicize "kimchi" per [[MOS:KO-ENGLISH]]--> ({{IPAc-en|ˈ|k|ɪ|m|tʃ|iː}}; {{Korean/auto|hangul=김치|rr=yes|ko_ipa=kim.tɕʰi}}) is a traditional Korean side dish (''[[banchan]]'') consisting of salted and [[Fermentation in food processing|fermented]] vegetables, most often [[napa cabbage]] or [[Korean radish]]. A wide selection of seasonings are used, including ''[[gochugaru]]'' (Korean chili powder), [[spring onion]]s, [[garlic]], [[ginger]], and ''[[jeotgal]]'' (salted seafood).<ref name="Britannica">{{Cite web|url=https://www.britannica.com/topic/kimchi|title=Kimchi|date=1 October 2008|website=[[Encyclopædia Britannica]]|access-date=23 March 2017|archive-date=13 July 2022|archive-url=https://web.archive.org/web/20220713010105/https://www.britannica.com/topic/kimchi|url-status=live}}</ref><ref name="Chin">{{Cite news|url=http://www.saveur.com/article/Kitchen/The-Art-of-Kimchi|title=The Art of Kimchi|last=Chin|first=Mei|author-link=Mei Chin|date=14 October 2009|work=[[Saveur]]|access-date=9 August 2010|archive-date=25 March 2022|archive-url=https://web.archive.org/web/20220325171112/https://www.saveur.com/article/Kitchen/The-Art-of-Kimchi/|url-status=live}}</ref> Kimchi is also used in a variety of soups and stews. Kimchi is a [[staple food]] in [[Korean cuisine]] and is eaten as a side dish with almost every Korean meal.<ref name=":5">{{Cite journal|last1=Hongu|first1=Nobuko|last2=Kim|first2=Angela S.|last3=Suzuki|first3=Asuka|last4=Wilson|first4=Hope|last5=Tsui|first5=Karen C.|last6=Park|first6=Sunmin|date=September 2017|title=Korean kimchi: promoting healthy meals through cultural tradition |journal=Journal of Ethnic Foods|volume=4|issue=3|pages=172–180|doi=10.1016/j.jef.2017.08.005|issn=2352-6181|doi-access=free}}</ref>
+
+There are hundreds of different types of kimchi made with different vegetables as the main ingredients.<ref name="Chin" /> Examples of variants include [[#Baechu (napa cabbage) kimchi|''baechu-kimchi'']], ''[[kkakdugi]]'', ''chonggak-kimchi'', and ''oi-sobagi''. Traditionally, winter kimchi, called ''[[gimjang]]'', was stored in large earthenware fermentation vessels, called ''[[onggi]]'', in the ground to prevent freezing during the winter months and to keep it cool enough to slow down the fermentation process during summer months.<ref name=":6">{{Cite journal|last1=Jang|first1=Dai-Ja|last2=Chung|first2=Kyung Rhan|last3=Yang|first3=Hye Jeong|last4=Kim|first4=Kang-sung|last5=Kwon|first5=Dae Young|date=September 2015|title=Discussion on the origin of kimchi, representative of Korean unique fermented vegetables |journal=Journal of Ethnic Foods|volume=2|issue=3|pages=126–136|doi=10.1016/j.jef.2015.08.005|issn=2352-6181|doi-access=free}}</ref>  The process of making kimchi was called gimjang and was a way for the whole village to participate. The vessels are also kept outdoors in special terraces called ''[[jangdokdae]]''. Recently, household [[kimchi refrigerator|kimchi refrigerators]] are more commonly used.<ref name="Chin" />
+
+== Etymology ==
+
+=== ''Ji'' ===
+The term ''ji'' ({{lang|ko|지}}), which has its origins in archaic Korean ''dihi'' ({{lang|ko|디히}}), has been used to refer to kimchi since ancient times.<ref name="Lee">{{Cite news|url=http://www.hani.co.kr/arti/opinion/column/125949.html|title=[고장말탐험] '김치'와 '지'|last=이|first=태영|date=23 May 2006|work=[[The Hankyoreh]]|access-date=27 March 2017|language=ko|archive-date=27 March 2017|archive-url=https://web.archive.org/web/20170327172447/http://www.hani.co.kr/arti/opinion/column/125949.html|url-status=live}}</ref> The [[sound change]] can be roughly described as:<ref name="Hong_G">{{cite journal |doi=10.19069/kordialect.2016.24.061 |title=Study on the Lexicon Related to Gimchi -Based on Survey of Ethnic Living Words in 2008- |journal=The Journal of Korean Dialectology |issue=24 |pages=61–99 |year=2016 |last1=Hong |first1=Giok }}</ref>
+* ''dihi'' ({{lang|ko|디히}}) > ''di'' ({{lang|ko|디}}) > ''ji'' ({{lang|ko|지}})
+The [[Middle Korean]] form ''dihi'' is found in several books from the [[Joseon]] period (1392–1897).<ref name="Uichim">{{Cite book|title=Bullyu Du Gongbu si Eonhae|year=1632|editor-last=Uichim|edition=reprint|volume=3|location=Joseon Korea|script-title=ko:분류두공부시언해(分類杜工部詩諺解)|trans-title=Poems by [[Du Fu]], Korean Translation|quote={{Script/Korean|長安앳 겨ᄋᆞᆳ 디히ᄂᆞᆫ 싀오 ᄯᅩ ᄑᆞᄅᆞ고}}|orig-date=1481|editor-last2=Jo|editor-first2=Wi|editor-last3=Yu|editor-first3=Yungyeom|editor-last4=Yu|editor-first4=Hyubok|display-editors=etal}}</ref><ref name="Sin">{{Cite book|title=Garye Eonhae|year=1632|volume=10|location=Joseon Korea|translator-last=Sin|translator-first=Sik|script-title=ko:가례언해(家禮諺解)|trans-title=Vernacular Edition of the Chia-li|quote={{Script/Korean|豆ᄂᆞᆫ 디히 젓 담ᄂᆞᆫ 목긔라}}}} (from the original ''Jiālǐ'' {{lang|zh-Hant|家禮}} by [[Zhu Xi]])</ref> In [[Korean language|Modern Korean]], the word remains as the suffix ''-ji'' in the [[South Korean standard language|standard language]] (as in ''[[jjanji]]'', ''seokbak-ji''),<ref name="SKLD_jjan">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=486741|archive-url=https://web.archive.org/web/20170327172047/http://stdweb2.korean.go.kr/search/View.jsp?idx=486741|archive-date=27 March 2017|title=jjanji|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:짠지|access-date=27 March 2017}}</ref><ref name="SKLD_seokbak">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=184895|archive-url=https://web.archive.org/web/20170327172241/http://stdweb2.korean.go.kr/search/View.jsp?idx=184895|archive-date=27 March 2017|title=seokbak-ji|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:섞박지|access-date=27 March 2017}}</ref> and as the suffix ''-ji'' as well as the noun ''ji'' in [[Gyeongsang dialect|Gyeongsang]] and [[Jeolla dialect]]s.<ref name="SKLD_ji">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=314429|title=ji|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:지|access-date=27 March 2017|archive-date=29 September 2018|archive-url=https://web.archive.org/web/20180929075140/http://stdweb2.korean.go.kr/search/View.jsp?idx=314429}}</ref> The [[Palatalization (phonetics)|unpalatalized]] form ''di'' is preserved in [[Pyongan dialect|P'yŏngan dialect]].<ref name="SKLD_di">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=180741|title=seobeok-di|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:서벅디|access-date=27 March 2017|archive-date=5 May 2018|archive-url=https://web.archive.org/web/20180505070707/http://stdweb2.korean.go.kr/search/View.jsp?idx=180741}}</ref>
+
+=== ''Kimchi'' ===
+''Kimchi'' ({{lang|ko|김치}}) is the accepted word in both [[North Korean standard language|North]] and [[South Korean standard language|South Korean]] standard languages. Earlier forms of the word include {{transliteration|ko|yaleko|thimchoy}} ({{script/Korean|{{lang|ko|팀ᄎᆡ}}}}), a [[Middle Korean]] transcription of the [[Sino-Korean vocabulary|Sino-Korean]] word {{lang|ko|[[wikt:沈|沈]][[wikt:菜|菜]]}} (literally "submerged vegetable"). {{transliteration|ko|yaleko|Thimchoy}} appears in ''Sohak Eonhae'',<ref name="Jeong_G">{{cite wikisource |title=소학언해|last1=Jeong|last2=unknown|first1=Gu|year=1586|plaintitle=Sohak Eonhae ''[[:s:ko:소학언해|소학언해(小學諺解)]]''|wslanguage=ko|trans-title=Vernacular Rendition of the Elementary Learning|location=Joseon Korea|language=okm|display-authors=1}}</ref> the 16th-century Korean rendition of the Chinese book, ''Xiaoxue''.<ref name="Zhu">{{cite wikisource |title=小學|last1=Zhū|last2=Liú|first1=Xǐ|first2=Qīngzhī|author-link1=Zhu Xi|plaintitle=Xiǎoxué ''[[:s:zh:小學|小學]]''|wslanguage=zh|trans-title=Elementary Learning|location=Song China|language=lzh}}</ref> Sound changes from Middle Korean to Modern Korean regarding the word can be described as:<ref name="SKLD">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=52827|title=Kimchi|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:김치|trans-title=kimchi|access-date=24 March 2017|archive-date=29 September 2018|archive-url=https://web.archive.org/web/20180929073148/http://stdweb2.korean.go.kr/search/View.jsp?idx=52827}}</ref>
+* {{transliteration|ko|yaleko|thimchoy}} ({{script/Korean|{{lang|ko|팀ᄎᆡ}}}}; {{lang|ko|沈菜}}) > {{transliteration|ko|yaleko|timchoy}} ({{script/Korean|{{lang|ko|딤ᄎᆡ}}}}) > {{transliteration|ko|yaleko|cimchoy}} ({{script/Korean|{{lang|ko|짐ᄎᆡ}}}}) > {{transliteration|ko|yaleko|cimchuy}} ({{lang|ko|짐츼}}) > {{transliteration|ko|yaleko|kimchi}} ({{lang|ko|김치}})
+
+The [[Aspirated consonant|aspirated]] first consonant of {{transliteration|ko|yaleko|thimchoy}} became unaspirated in {{transliteration|ko|yaleko|timchoy}}, then underwent [[Palatalization (sound change)|palatalization]] in {{transliteration|ko|yaleko|cimchoy}}. The word then became {{transliteration|ko|yaleko|cimchuy}} with the loss of the vowel {{transliteration|ko|yaleko|o}} ({{script/Korean|{{lang|ko|ㆍ}}}}) in Korean language, then ''kimchi'', with the depalatalized word-initial consonant. In Modern Korean, the [[hanja]] characters {{lang|ko|沈菜}} are pronounced ''chimchae'' ({{lang|ko|침채}}), and are not used to refer to kimchi, or anything else. The word ''kimchi'' is not considered as a [[Sino-Korean vocabulary|Sino-Korean word]].<ref name=SKLD /><!-- The headword in Standard Korean Language dictionary dose not contain hanja characters.--> Older forms of the word are retained in many regional dialects: ''jimchae'' (Jeolla, [[Hamgyŏng dialect]]s),<ref name="SKLD_jimchae">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=317715|title=jimchae|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:짐채|access-date=27 March 2017|archive-date=27 March 2017|archive-url=https://web.archive.org/web/20170327171443/http://stdweb2.korean.go.kr/search/View.jsp?idx=317715}}</ref> ''jimchi'' ([[Chungcheong dialect|Chungcheong]], [[Gangwon dialect|Gangwon]], [[Gyeonggi dialect|Gyeonggi]], Gyeongsang, Hamgyŏng, Jeolla dialects),<ref name="SKLD_jimchi">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=317716|title=jimchi|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:짐치|access-date=27 March 2017|archive-date=27 March 2017|archive-url=https://web.archive.org/web/20170327171812/http://stdweb2.korean.go.kr/search/View.jsp?idx=317716}}</ref> and ''dimchi'' (P'yŏngan dialect).<ref name="SKLD_dimchi">{{Cite web|url=http://stdweb2.korean.go.kr/search/View.jsp?idx=96720|title=dimchi|website=[[Standard Korean Language Dictionary]]|publisher=[[National Institute of Korean Language]]|language=ko|script-title=ko:딤치|access-date=27 March 2017|archive-date=28 March 2017|archive-url=https://web.archive.org/web/20170328015621/http://stdweb2.korean.go.kr/search/View.jsp?idx=96720}}</ref>
+
+The spelling "kimchi" originated from the [[McCune–Reischauer]] transcription ''kimch'i'' ({{lang|ko|김치}}).
+
+== History ==
+=== Early history ===
+''[[Samguk Sagi]]'', a historical record of the [[Three Kingdoms of Korea]], mentions the [[Onggi|pickle jar]] used to ferment vegetables, which indicates that fermented vegetables were commonly eaten during this time.<ref name="Hui">{{Cite book|url=https://books.google.com/books?id=dVpQVJ46C5gC&pg=PA190|title=Handbook of Vegetable Preservation and Processing|publisher=[[Marcel Dekker]]|year=2004|isbn=978-0-8247-4301-7|editor-last=Hui|editor-first=Y. H.|location=New York|pages=190–191|editor-last2=Ghazala|editor-first2=Sue|editor-last3=Graham|editor-first3=Dee M.|editor-last4=Murrell|editor-first4=K. D.|editor-last5=Nip|editor-first5=Wai-Kit|access-date=2 September 2017|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317211835/https://books.google.com/books?id=dVpQVJ46C5gC&pg=PA190#v=onepage&q&f=false|url-status=live}}</ref><ref name="Gim">{{cite wikisource |title=삼국사기|first=Kim|last=Pusik|author-link=Kim Pusik|year=1145|plaintitle=Samguk Sagi ''[[:s:ko:삼국사기|삼국사기(三國史記)]]''|wslanguage=ko|trans-title=History of the Three Kingdoms|location=Goryeo Korea|language=lzh}}</ref> Attributed to the earliest kimchi, the [[Goguryeo]] people were skilled at fermenting and widely consumed fermented food.<ref>{{cite book |last1=Park |first1=Kun-Young |last2=Cheigh |first2=Hong-Sik |title=Handbook of Vegetable Preservation and Processing |date=2003 |publisher=CRC Press |page=190 |chapter=Kimchi}}</ref> During the [[Silla dynasty]] (57 BCE – CE 935), kimchi became prevalent as [[Buddhism]] caught on throughout the nation and fostered a vegetarian lifestyle.<ref name="btpickle-201309">{{cite journal |last=Logarta |first=Margie T. |date=September 2013 |title=In A Pickle |journal=Business Traveller (Asia-Pacific Edition) |pages=70–73 |url=http://www.pressreader.com/australia/business-traveller-asia-pacific/20130901/281505043889849 |access-date=7 September 2018 |archive-date=7 September 2018 |archive-url=https://web.archive.org/web/20180907144526/http://www.pressreader.com/australia/business-traveller-asia-pacific/20130901/281505043889849 |url-status=live }}</ref> 
+
+The pickling of vegetables was an ideal method, prior to refrigerators, that helped to preserve the lifespan of foods. In Korea, kimchi was made during the winter by fermenting vegetables, and burying them in the ground in traditional brown ceramic pots called ''[[onggi]]''. This labor further allowed a bonding among women within the family.<ref name="btpickle-201309"/> A poem on [[Korean radish]] written by Yi Gyubo, a 13th-century literatus, shows that radish kimchi was common in [[Goryeo]] (918–1392).<ref name="Pettid">{{Cite book|last=Pettid|first=Michael J.|url=https://books.google.com/books?id=wzJ7_WcLJSwC&pg=PA47|title=Korean Cuisine: An Illustrated History|publisher=[[Reaktion Books]]|year=2008|isbn=978-1-86189-348-2|location=London|pages=47–51|access-date=2 September 2017|archive-date=24 July 2023|archive-url=https://web.archive.org/web/20230724212030/https://books.google.com/books?id=wzJ7_WcLJSwC&pg=PA47|url-status=live}}</ref><ref name="Yi_G">{{Cite book|title=[[DonggukIsanggukjip]]|last=Yi|first=Gyubo|year=1241|location=Goryeo Korea|language=lzh|script-title=ko:동국이상국집(東國李相國集)|trans-title=Collected works of Minister Yi of the Eastern Country|chapter=Gapoyugyeong|script-chapter=ko:가포육영(家圃六詠)|chapter-url=http://db.itkc.or.kr/itkcdb/text/nodeViewIframe.jsp?bizName=MM&seojiId=kc_mm_a004&gunchaId=bv004&muncheId=01&finId=036|via=[[DB of Korean classics]] by [[Institute for the Translation of Korean Classics|ITKC]]}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name="Breidt">{{Cite book|title=Food Microbiology: Fundamentals and Frontiers|last1=Breidt|first1=Fred|last2=McFeeters|first2=Roger F.|last3=Pérez-Díaz|first3=Ilenys|last4=Lee|first4=Cherl-Ho|publisher=[[American Society for Microbiology]]|year=2013|isbn=978-1-55581-626-1|editor-last=Doyle|editor-first=Michael P.|edition=4th|location=Washington, D.C.|page=841|chapter=Fermented Vegetables|doi=10.1128/9781555818463.ch33|editor-last2=Buchanan|editor-first2=Robert L.|chapter-url=https://fbns.ncsu.edu/USDAARS/Acrobatpubs/P376-400/p380.pdf|access-date=26 March 2017|archive-date=28 May 2015|archive-url=https://web.archive.org/web/20150528190455/http://fbns.ncsu.edu/USDAARS/Acrobatpubs/P376-400/p380.pdf|url-status=live}}</ref>
+
+{{Quote|text=Pickled radish slices make a good summer side dish,<br />Radish preserved in salt is a winter side dish from start to end.<br />The roots in the earth grow plumper every day,<br />Harvesting after the frost, a slice cut by a knife tastes like a pear.|sign=Yi Gyubo|source=''[[Donggukisanggukjip]]'' (translated by Michael J. Pettid, in ''Korean cuisine: An Illustrated History'')}}
+
+Kimchi has been a staple in Korean culture, but historical versions were not a spicy dish.<ref>Kimchi. (2016). Funk & Wagnalls New World Encyclopedia, 1p. 1.</ref> Early records of kimchi do not mention garlic or [[chili pepper]].<ref name="KCIS">{{Cite book|url=https://books.google.com/books?id=NoxoBgAAQBAJ&pg=PA133|title=Guide to Korean Culture: Korea's cultural heritage|publisher=[[Korean Culture and Information Service]], [[Ministry of Culture, Sports and Tourism (South Korea)|Ministry of Culture, Sports and Tourism]]|year=2015|isbn=978-89-7375-571-4|edition=2015|location=Seoul|pages=131–133|orig-date=1995}}</ref> Chili peppers, now a standard ingredient in kimchi, had been unknown in Korea until the early seventeenth century due to it being a [[New World]] crop.<ref>{{cite web |last=Lee |first=Dahyeon |date=8 January 2008 |title=고추, 마라, 핫소스...'매운맛 문화권'의 확장과 타락 (Red pepper, mara, hot sauce... Expansion and deterioration of the "spicy taste culture") |url=https://shindonga.donga.com/3/all/13/107000/1 |script-work=ko:신동아 |work=shindonga.donga.com |publisher=[[The Dong-a Ilbo]] |language=ko |access-date=18 April 2021 |archive-date=18 April 2021 |archive-url=https://web.archive.org/web/20210418153732/https://shindonga.donga.com/3/all/13/107000/1 |url-status=live }}</ref> Chili peppers, originally native to the Americas, were introduced to East Asia by Portuguese traders.<ref name="KCIS" /><ref name="Park">{{Cite news|url=https://cpi.nmsu.edu/wp-content/uploads/sites/60/2016/06/99-spring.pdf|title=Red Pepper and Kichi in Korea|last=Park|first=Jae Bok|date=Spring 1999|work=[[Chile Pepper Institute]] Newsletter|access-date=20 March 2017|issue=1|volume=8|page=3|archive-date=7 October 2018|archive-url=https://web.archive.org/web/20181007210343/https://cpi.nmsu.edu/wp-content/uploads/sites/60/2016/06/99-spring.pdf}}</ref><ref name="Marianski">{{Cite book|url=https://books.google.com/books?id=anbDBazwLmsC&pg=PA45|title=Sauerkraut, Kimchi, Pickles & Relishes|last1=Marianski|first1=Stanley|last2=Marianski|first2=Adam|publisher=Bookmagic|year=2012|isbn=978-0-9836973-2-9|location=Seminole, FL|page=45}}</ref> The first mention of chili pepper is found in ''[[Jibong yuseol]]'', an encyclopedia published in 1614.<ref name="Hui" /><ref name="Yi_S">{{cite wikisource |title=지봉유설|first=Sugwang|last=Yi|plaintitle=Jibong yuseol ''[[:s:ko:지봉유설|지봉유설(芝峯類說)]]''|wslanguage=ko|trans-title=Topical Discourses of Jibong|location=Joseon Korea|language=lzh}}</ref> ''[[Sallim gyeongje]]'', a 17‒18th century book on farm management, wrote on kimchi with chili peppers.<ref name="Hui" /><ref name="Hong_M">{{Cite book|url=http://db.itkc.or.kr/index.jsp?bizName=KO&url=/itkcdb/text/bookListIframe.jsp?bizName=KO&seojiId=kc_ko_g003&gunchaId=&NodeId=&setid=389232|archive-url=https://web.archive.org/web/20170328021323/http://db.itkc.or.kr/index.jsp?bizName=KO&url=%2Fitkcdb%2Ftext%2FbookListIframe.jsp%3FbizName%3DKO&seojiId=kc_ko_g003&gunchaId=&NodeId=&setid=389232|archive-date=28 March 2017|title=Sallim gyeongje|last=Hong|first=Manseon|location=Joseon Korea|language=lzh|script-title=zh:산림경제(山林經濟)|trans-title=Farm Management|via=[[DB of Korean classics]] by [[Institute for the Translation of Korean Classics|ITKC]]|access-date=17 February 2020}}</ref> However, it was not until the 19th century that the use of chili peppers in kimchi became widespread.<ref name="Cho">{{Cite journal|last=Cho|first=Hong Sik|year=2006|title=Food and Nationalism: Kimchi and Korean National Identity|journal=The Korean Journal of International Studies|volume=4|issue=1|pages=207–229|doi=10.14731/kjis.2006.12.46.5.207|doi-access=free}}</ref> Recipes from the early 19th century closely resemble today's kimchi.<ref name="Jeong_H">{{Cite book|title=Nongga wollyeongga|last=Jeong|first=Hakyu|script-title=ko:농가월령가(農家月令歌)|trans-title=The Songs of Monthly Events of Farm Families|chapter=Siwol|script-chapter=ko:시월(十月)|trans-chapter=Tenth month|chapter-url=http://www.culturecontent.com/content/contentView.do?search_div_id=CP_THE011&cp_code=cp0612&index_id=cp06120139&content_id=cp061201390001|access-date=27 March 2017|archive-date=28 March 2017|archive-url=https://web.archive.org/web/20170328195208/http://www.culturecontent.com/content/contentView.do?search_div_id=CP_THE011&cp_code=cp0612&index_id=cp06120139&content_id=cp061201390001|url-status=live}}</ref><ref name="Hong_S">{{Cite book|title=[[Dongguksesigi]]|last=Hong|first=Seokmo|location=Joseon Korea|script-title=ko:동국세시기(東國歲時記)|trans-title=A Record of the Seasonal Customs of the Eastern Kingdom}}</ref>
+
+A 1766 book, ''[[Jeungbo sallim gyeongje]]'', reports kimchi varieties made with myriad ingredients, including ''chonggak-kimchi'' (kimchi made with [[chonggak radish]]), ''oi-sobagi'' (with cucumber), ''seokbak-ji'' (with ''[[jogi-jeot]]''), and ''[[dongchimi]]''.<ref name="Hui" /><ref name="Yu">{{Cite book|title=Jeungbo sallim gyeongje|last1=Yu|first1=Jungrim|last2=Hong|first2=Manseon|year=1766|location=Joseon Korea|script-title=ko:증보산림경제(增補山林經濟)|trans-title=Revised and Augmented Farm Management}}</ref> However, [[napa cabbage]] was introduced to Korea only at the end of 19th century,<ref name="Cho" /> and whole-cabbage kimchi similar to its current form is described in ''[[Siuijeonseo]]'', a cookbook published around that time.<ref name="Sim">{{Cite book|title=Siuijeonseo|title-link=Siuijeonseo|last=Unknown|others=Manuscript by Sim Hwanjin|year=1919|location=Sangju, Korea|language=ko|orig-date=late 19th century}}
+*{{cite web |url=http://archive.hansik.org/contents_list/oldbook/item/contents_oldbook/42/23206 |archive-url=https://web.archive.org/web/20170312200136/http://archive.hansik.org/contents_list/oldbook/item/contents_oldbook/42/23206/ |archive-date=12 March 2017 |script-title=ko:시의전서 是議全書 |website=Hansik Archive |language=ko}}</ref>
+
+=== Modern history ===
+During South Korea's involvement in the [[Vietnam War]], the industrialization and commercialization of kimchi production became increasingly important because the Korean government wanted to provide [[Field ration|rations]] for its [[Republic of Korea Army|troops]]. The Korean government requested American help to ensure that South Korean troops, reportedly "desperate" for the food, could obtain it in the field.<ref name="Choe">{{Cite news|url=https://www.nytimes.com/2008/02/24/world/asia/24kimchi.html|title=Starship Kimchi: A Bold Taste Goes Where It Has Never Gone Before|first=Sang-hun|last=Choe|date=24 February 2008|work=[[The New York Times]]|access-date=27 August 2012|url-access=subscription|archive-date=17 March 2012|archive-url=https://web.archive.org/web/20120317130351/http://www.nytimes.com/2008/02/24/world/asia/24kimchi.html|url-status=live}}</ref><ref name=":8">{{Citation|last=King|first=Michelle|title=Introduction: Culinary Nationalism in Asia|date=2019|work=Culinary Nationalism in Asia|pages=1–20|publisher=Bloomsbury Publishing Plc|doi=10.5040/9781350078703.0008|isbn=978-1-350-07870-3|s2cid=201328713}}</ref>
+
+In 2008, South Korean scientists created a special low-calorie, vitamin-rich "space kimchi" for [[Yi So-yeon]], the first Korean astronaut, to take to space. It was bacteria-free, unlike normal kimchi in which bacteria are essential for fermentation. It was feared that cosmic rays might mutate the bacteria.<ref name="History of Kimchi, the Korean soul food. Kimchi fun facts we BAECHU didn't know.">{{cite web|title=History of Kimchi, the Korean soul food. Kimchi fun facts we BAECHU didn't know|url=https://hyphe-nated.com/history-of-kimchi-the-korean-soul-food-kimchi-and-koreans-go-waaaaaay-back-kimchi-fun-facts-we-baechu-didnt-know/|access-date=9 September 2021|publisher=Hyphe-Nated|url-status=usurped|archive-url=https://web.archive.org/web/20210909034338/https://hyphe-nated.com/history-of-kimchi-the-korean-soul-food-kimchi-and-koreans-go-waaaaaay-back-kimchi-fun-facts-we-baechu-didnt-know/|archive-date=9 September 2021}}</ref>
+
+South Korea developed programs for adult [[International adoption of South Korean children|Korean adoptees]] to return to South Korea and learn about what it means to be Korean. One of these programs was learning how to make kimchi.<ref>{{Cite AV media
+ |title        = Adoptees and the Politics of Belonging
+ |year         = 2013
+ |publisher    = The Korea Society
+ |via          = YouTube
+ |time         = 26:56–28:09
+ |last         = Kim
+ |first        = Eleana J.
+ |url          = https://www.youtube.com/watch?v=Irn1yXF_1H4
+ |language     = en
+ |access-date  = 2 January 2023
+ |quote        = Another aspect of the Korean adoptee experience that I explore in my book is their relationship to South Korea, and the South Korean state and one of the things that the South Korean government was, in a way, compelled, to do, in the late 1990s was to recognize adoptees, overseas adoptees, as Koreans, in some way. So by 1998, adult Korean adoptees who were living in Korea petitioned the South Korean state to recognize them as overseas Koreans, ''[[Korean diaspora|Hanguggye dongpo]]'', so that meant that they would be eligible for a special visa status that would allow them to return to South Korea for extended periods of time, and, in line with this, this is an image from the Overseas Korean Foundation summer cultural program for overseas adoptees, and so, they developed these programs to help adult adoptees return to Korea and learn something about what it means to be Korean. So these programs are typically focused on traditional Korean culture adoptees dressing up in [[hanbok]] and learning how to make kimchi, such as these images here.
+ |archive-date = 6 April 2017
+|archive-url  = https://web.archive.org/web/20170406224903/https://www.youtube.com/watch?v=Irn1yXF_1H4&t=26m56s
+ |url-status   = live
+}}</ref>
+
+==== 1996 kimchi standard dispute with Japan ====
+In 1996, Korea protested against Japanese commercial production of kimchi arguing that the Japanese-produced product (''[[wikt:kimuchi|kimuchi]]'', {{lang|ja|[[wikt:キムチ|キムチ]]}}) was different from kimchi. In particular, Japanese kimchi was not fermented and was more similar to [[asazuke]]. Korea lobbied for an international standard from the [[Codex Alimentarius]], an organization associated with the World Health Organization that defines voluntary standards for food preparation for international trade purposes.<ref name="LAT" /><ref name="NYT">{{Cite news|last=Sims|first=Calvin|date=5 February 2000|title=Cabbage Is Cabbage? Not to Kimchi Lovers; Koreans Take Issue With a Rendition Of Their National Dish Made in Japan|language=en-US|work=The New York Times|url=https://www.nytimes.com/2000/02/05/business/cabbage-cabbage-not-kimchi-lovers-koreans-take-issue-with-rendition-their.html|access-date=2 January 2023|url-access=subscription|archive-date=14 January 2021|archive-url=https://web.archive.org/web/20210114051915/https://www.nytimes.com/2000/02/05/business/cabbage-cabbage-not-kimchi-lovers-koreans-take-issue-with-rendition-their.html|url-status=live}}</ref> In 2001, the Codex Alimentarius published a voluntary standard defining kimchi as "a fermented food that uses salted napa cabbages as its main ingredient mixed with seasonings, and goes through a lactic acid production process at a low temperature", but which neither specified a minimum amount of fermentation nor forbade the use of any additives.<ref>{{cite web|title=Codex standard for kimchi|url=http://www.codexalimentarius.net/download/standards/365/CXS_223e.pdf|archive-url=https://web.archive.org/web/20051212095607/http://www.codexalimentarius.net/download/standards/365/CXS_223e.pdf|archive-date=12 December 2005|publisher=The Codex Alimentarius Commission}}</ref> Following the inclusion of the kimchi standard, kimchi exports in Korea did increase, but so did the production of kimchi in China and the import of Chinese kimchi into Korea.<ref name=":8" />
+
+==== 2010 kimchi ingredient price crisis ====
+Due to heavy rainfall shortening the harvesting time for cabbage and other main ingredients for kimchi in 2010, the price of kimchi ingredients and kimchi itself rose greatly. Korean and international newspapers described the rise in prices as a national crisis.<ref name="EconomistOct72010">{{Cite news|title=Of cabbages and Kims|newspaper=[[The Economist]]|url=https://www.economist.com/asia/2013/09/09/of-cabbages-and-kims|access-date=28 June 2016|date=7 October 2010|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317211737/https://www.economist.com/asia/2013/09/09/of-cabbages-and-kims|url-status=live}}</ref> Some restaurants stopped offering kimchi as a free side dish, which ''The New York Times'' compared to an American hamburger restaurant no longer offering free [[ketchup]].<ref name="nyt2010">{{cite news|author=McDonald, Mark|date=14 October 2010|title=Rising Cost of Kimchi Alarms Koreans|work=[[The New York Times]]|url=https://www.nytimes.com/2010/10/15/world/asia/15kimchi.html|url-access=subscription|access-date=16 October 2010|archive-date=26 October 2010|archive-url=https://web.archive.org/web/20101026083805/http://www.nytimes.com/2010/10/15/world/asia/15kimchi.html|url-status=live}}</ref> In response to the kimchi price crisis, the South Korean government announced the temporary reduction of tariffs on imported cabbage to coincide with the [[gimjang|kimjang]] season.<ref name="EconomistOct72010" />
+
+==== Intangible Cultural Heritage of Humanity ====
+Kimchi-related items have been inscribed on [[UNESCO]]'s [[Representative List of the Intangible Cultural Heritage of Humanity]] by both South and North Korea. This makes kimchi the second intangible heritage that was submitted by two countries, the other one being the folk song "[[Arirang]]" which was also submitted by both the Koreas.<ref name="worl_UNES">{{Cite web|date=3 December 2015|title=UNESCO Adds N. Korea's Kimchi-Making to Cultural Heritage List|url=http://world.kbs.co.kr/english/news/news_In_detail.htm?No=115259|access-date=3 December 2015|publisher=KBS|archive-date=14 April 2021|archive-url=https://web.archive.org/web/20210414141221/http://world.kbs.co.kr/english/news/news_In_detail.htm?No=115259}}</ref> "The culture of kimjang" was the subject of the Intangible Cultural Heritage: kimchi is not registered by itself.
+
+===== Submitted by South Korea (inscribed 2013) =====
+[[gimjang|Kimjang]], the tradition of making and sharing kimchi that usually takes place in late autumn, was added to the list as "Gimjang, making and sharing kimchi in the Republic of Korea". The practice of Gimjang reaffirms Korean identity and strengthens family cooperation. Gimjang is also an important reminder for many Koreans that human communities need to live in harmony with nature.<ref>{{cite web |title=Kimjang, making and sharing kimchi in the Republic of Korea |url=https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881 |work=UNESCO Intangible Heritage |date=2013 |access-date=20 November 2023 |archive-date=5 February 2021 |archive-url=https://web.archive.org/web/20210205025303/https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881 |url-status=live }}</ref>
+
+===== Submitted by North Korea (inscribed 2015) =====
+North Korean kimchi-making was inscribed on the list in December 2015<ref name="worl_UNES" /> as "Tradition of kimchi-making in the Democratic People's Republic of Korea".<ref name="unes_Trad">{{Cite web|title=Tradition of kimchi-making in the Democratic People's Republic of Korea|url=http://www.unesco.org/culture/ich/en/RL/tradition-of-kimchi-making-in-the-democratic-people-s-republic-of-korea-01063|access-date=3 December 2015|publisher=Culture Sector – UNESCO|archive-date=23 February 2017|archive-url=https://web.archive.org/web/20170223224515/http://www.unesco.org/culture/ich/en/RL/tradition-of-kimchi-making-in-the-democratic-people-s-republic-of-korea-01063/|url-status=live}}</ref> North Korean kimchi tends to be less spicy and less red than South Korean kimchi.<ref name="yout_Nort">{{Cite video|url=https://www.youtube.com/watch?v=7uPJB__JuF0|title=North Koreans Want UNESCO Recognition for Their Kimchi Variation|date=2 December 2015|publisher=[[Voice of America]]|time=1:10|access-date=3 December 2015|work=YouTube|archive-date=22 March 2016|archive-url=https://web.archive.org/web/20160322020421/https://www.youtube.com/watch?v=7uPJB__JuF0|url-status=live}}</ref> Seafood is used less often and less salt is added. Additional sugar is used to help with fermentation in the cold climate.<ref>{{cite web|last1=Jeong|first1=Sophie|title=North Korea's latest peace offering: Kimchi|url=https://edition.cnn.com/travel/article/north-korea-kimchi-festival/index.html|website=CNN|date=2 November 2018|language=en|access-date=26 April 2020|archive-date=2 November 2018|archive-url=https://web.archive.org/web/20181102184848/https://edition.cnn.com/travel/article/north-korea-kimchi-festival/index.html|url-status=live}}</ref>
+
+====Kimchi Day====
+[[File:Kimchi Day Proclamation Maryland (2022-11-21).jpg|thumb|Proclamation signed by [[Governor of Maryland]] [[Larry Hogan]] declaring 22 November as 'Kimchi Day' (2022)]]
+In the [[United States]], the states [[California]], [[Virginia]], [[Maryland]] and [[New York (state)|New York]], and the capital city [[Washington D.C.]] have issued proclamations declaring 22 November as 'Kimchi Day' to recognize the importance of the dish as part of Korean culture.<ref>{{cite web|url=https://www.cbsnews.com/baltimore/news/nov-22-marks-kimchi-day-maryland/|title=Spicy celebration: Nov. 22 marks Kimchi Day in Maryland|newspaper=CBS News|date=22 November 2022|access-date=23 November 2022|archive-date=22 November 2022|archive-url=https://web.archive.org/web/20221122131404/https://www.cbsnews.com/baltimore/news/nov-22-marks-kimchi-day-maryland/|url-status=live}}</ref><ref>{{cite web|url=http://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=173962|title=Maryland Governor Designates Nov. 22 as 'Kimchi Day'|newspaper=KBS World|date=22 November 2022|access-date=23 November 2022|archive-date=22 November 2022|archive-url=https://web.archive.org/web/20221122131404/http://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=173962|url-status=live}}</ref>
+
+==== 2012 effective ban by China of Korean kimchi imports ====
+Since 2012, the Chinese government has effectively banned the import of Korean kimchi through government regulations. Ignoring the standards of kimchi outlined by the ''Codex Alimentarius'', China defined kimchi as a derivative of one of its own cuisines, called ''[[pao cai]]''.<ref name="seoul.co.kr">{{cite web|script-title=ko:對중국 수출 '0'... 한국 김치가 운다|date=20 July 2013|url=http://www.seoul.co.kr/news/newsView.php?id=20130720011020|work=seoul.co.kr|language=ko|author1=Lee Gyeongju (이경주)|author2=Kim Yangjin (김양진)|access-date=27 December 2014|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924130616/http://www.seoul.co.kr/news/newsView.php?id=20130720011020|url-status=live}}</ref> However, due to significantly different preparation techniques from ''pao cai'', kimchi has significantly more lactic acid bacteria through its fermentation process, which exceeds China's regulations.<ref>{{cite web|date=15 January 2014|script-title=ko:수입만 하고 수출 못하는 韓·中 '김치무역' 바꿀 것|url=http://www.hankyung.com/news/app/newsview.php?aid=2014011481381|archive-url=https://web.archive.org/web/20150924115104/http://www.hankyung.com/news/app/newsview.php?aid=2014011481381|archive-date=24 September 2015|work=hankyung.com|language=ko | last= Choe | first= Mansu |author-mask= Choe Mansu (최만수)}}</ref> Since 2012, commercial exports of Korean kimchi to China has reached zero; the only minor amounts of exports accounting for Korean kimchi are exhibition events held in China.<ref name="seoul.co.kr" />
+
+==== 2017 boycott in China ====
+A 2017 article in ''[[The New York Times]]'' said that [[anti-Korean sentiment in China]] had risen after South Korea's acceptance of the deployment of [[Terminal High Altitude Area Defense#South Korea|THAAD]] in South Korea.<!--This information is in the paragraph that starts with "A wave of anti-South Korean". The phrase "South's embrace" in that paragraph is a link to another New York Times article. In the other New York Times article it said that South Korea was allowing the US to use land in South Korea to put THAAD in the paragraph of that linked-to article that starts with "Under its deal" and the paragraph after that one.--> Government-run Chinese news media encouraged the boycott of South Korean goods,<!--This is in the paragraph that starts with "The government-controlled". The phrase "government-run" is a rewording of the source text's phrase "government-controlled". The word "encouraged" is a rewording of the source text's word "urged". The phrase "South Korean goods" is a rewording of the source text's phrase "South Korean products".--> and some Chinese nationalists vowed not to eat kimchi<!--This information is in the paragraph that starts with "Frustrated nationalists".-->.<ref>{{Cite news |last1=Hernández |first1=Javier C. |last2=Guo |first2=Owen |last3=Mcmorrow |first3=Ryan |date=9 March 2017 |title=South Korean Stores Feel China's Wrath as U.S. Missile System Is Deployed |language=en-US |work=The New York Times |url=https://www.nytimes.com/2017/03/09/world/asia/china-lotte-thaad-south-korea.html |url-status=live |url-access=limited |access-date=2 January 2023 |archive-url=https://web.archive.org/web/20220527032634/https://www.nytimes.com/2017/03/09/world/asia/china-lotte-thaad-south-korea.html |archive-date=27 May 2022 |issn=0362-4331}}</ref> The move was criticized by other Chinese nationalists, who noted that China officially considered Koreans an integral ethnic group in the multinational state, and that kimchi is also indigenous to the [[Yanbian Korean Autonomous Prefecture]].<ref name="kimchi-yanbian">{{Cite web |last=Lankov |first=Andrei | author-link = Andrei Lankov|date=3 June 2013 |title=The 'third Korea' Yanbian in decline |url=http://www.theasian.asia/archives/75217 |access-date=3 October 2021 |website=The Asian |archive-date=1 February 2021 |archive-url=https://web.archive.org/web/20210201205920/http://www.theasian.asia/archives/75217 |url-status=live }}</ref>
+
+==== 2020 kimchi ISO standard dispute with China ====
+In November 2020, the [[International Organization for Standardization]] (ISO) posted ISO 24220:2020, new regulations for the making of ''[[pao cai]]''.<ref>{{Cite web|url=https://www.iso.org/standard/78112.html|title=ISO 24220:2020|website=International Organization for Standardization|date=2020|access-date=21 January 2021|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125105721/https://www.iso.org/standard/78112.html|url-status=live}}</ref> The same month, [[BBC News]] reported that Chinese news organization ''[[Global Times]]'' claimed the new ISO standard was "an international standard for the kimchi industry led by China" despite the standard clearly stating "this document does not apply to kimchi".<ref name="BBC2020-11-30">{{cite news|date=30 November 2020|title=Kimchi ferments cultural feud between South Korea and China|language=en|publisher=[[BBC News]]|url=https://www.bbc.co.uk/news/world-asia-55129805|access-date=20 January 2021|archive-date=18 January 2021|archive-url=https://web.archive.org/web/20210118171120/https://www.bbc.co.uk/news/world-asia-55129805|url-status=live}}</ref> This sparked strong anger from South Korean media and people,<ref>{{multiref2
+|{{cite news|date=30 November 2020|title=South Korea refutes China's claim on industrial standard for kimchi|language=en|website=[[The Korea Times]]|url=https://www.koreatimes.co.kr/www/culture/2020/11/135_300132.html|access-date=23 January 2021|agency=Yonhap|archive-date=29 January 2021|archive-url=https://web.archive.org/web/20210129103559/http://www.koreatimes.co.kr/www/culture/2020/11/135_300132.html|url-status=live}}
+|{{cite news|date=2 December 2020|title=Kimchi controversy: China's cultural provocation|language=en|website=[[The Korea Times]]|url=https://www.koreatimes.co.kr/www/culture/2020/12/135_300227.html|access-date=23 January 2021|author1=Park Ji-won|archive-date=30 January 2021|archive-url=https://web.archive.org/web/20210130003941/http://www.koreatimes.co.kr/www/culture/2020/12/135_300227.html|url-status=live}}
+|{{cite news|date=20 January 2021|title=Kimchi wars: South Korean academic takes spat with China to new level with tart ad in New York Times|language=en|website=[[South China Morning Post]]|url=https://www.scmp.com/week-asia/lifestyle-culture/article/3118544/kimchi-wars-south-korean-academic-takes-spat-china-new|access-date=20 January 2021|author1=Park Chan-kyong|archive-date=15 February 2021|archive-url=https://web.archive.org/web/20210215070113/https://www.scmp.com/week-asia/lifestyle-culture/article/3118544/kimchi-wars-south-korean-academic-takes-spat-china-new|url-status=live}}
+|{{cite news|date=20 January 2021|title=Academic activist puts kimchi ad in NYT|language=en|website=[[The Korea Times]]|url=https://www.koreatimes.co.kr/www/culture/2021/01/141_302729.html|access-date=21 January 2021|author1=Park Han-sol|archive-date=20 January 2021|archive-url=https://web.archive.org/web/20210120030429/http://www.koreatimes.co.kr/www/culture/2021/01/141_302729.html|url-status=live}}
+|{{cite news|date=20 January 2021|title=Koreans defend kimchi, ssam against China|language=en|website=[[The Korea Herald]]|url=https://technology.inquirer.net/107347/koreans-defend-kimchi-ssam-against-china|access-date=21 January 2021|archive-date=2 February 2021|archive-url=https://web.archive.org/web/20210202031901/https://technology.inquirer.net/107347/koreans-defend-kimchi-ssam-against-china|url-status=live}}
+|{{cite news|date=1 December 2020|title=Is China Laying Claim to Kimchi, Too? Some South Koreans Think So|language=en|website=[[The New York Times]]|url=https://www.nytimes.com/2020/12/01/world/asia/south-korea-china-kimchi-paocai.html|access-date=21 January 2021|url-access=subscription|author1=Youmi Kim|author2=Mike Ives|archive-date=17 February 2021|archive-url=https://web.archive.org/web/20210217124848/https://www.nytimes.com/2020/12/01/world/asia/south-korea-china-kimchi-paocai.html|url-status=live}}
+|{{cite news|date=3 December 2020|title=Kimchi: Koreans angry over attempted Chinese takeover|language=en|website=[[Deutsche Welle]]|url=https://www.dw.com/en/south-korea-china-row-over-kimchi/a-55808530|access-date=21 January 2021|archive-url=https://web.archive.org/web/20201203114505/https://www.dw.com/en/south-korea-china-row-over-kimchi/a-55808530|archive-date=3 December 2020|url-status=deviated|author=Julian Ryall}}
+}}</ref> as well as the responses from some Chinese people who argued China held the right to claim kimchi as their own.<ref>{{cite news|date=1 December 2020|title='Stealing our culture': South Koreans upset after China claims kimchi as its own|language=en|website=[[The Guardian]]|url=https://www.theguardian.com/world/2020/dec/01/stealing-our-culture-south-koreans-upset-after-china-claims-kimchi-as-its-own|access-date=20 January 2021|author1=Justin McCurry|archive-date=17 January 2021|archive-url=https://web.archive.org/web/20210117090425/https://www.theguardian.com/world/2020/dec/01/stealing-our-culture-south-koreans-upset-after-china-claims-kimchi-as-its-own|url-status=live}}</ref> 
+
+However clarifications from both countries, later revealed that the controversy was triggered over a misunderstanding of a translation of the Chinese word ''pao cai''.<ref>{{Cite web |date=8 December 2020 |title=Translation Matters! Cultural War Between China and South Korea Over 'Kimichi' and 'Pao Cai' Turns Out to Be Misunderstanding |url=https://www.latestly.com/lifestyle/food/translation-matters-cultural-war-between-china-and-south-korea-over-kimichi-and-pao-cai-turns-out-to-be-misunderstanding-2188096.html |access-date=8 July 2023 |website=LatestLY |language=en |archive-date=8 July 2023 |archive-url=https://web.archive.org/web/20230708070325/https://www.latestly.com/lifestyle/food/translation-matters-cultural-war-between-china-and-south-korea-over-kimichi-and-pao-cai-turns-out-to-be-misunderstanding-2188096.html |url-status=live }}</ref> After the controversy emerged, ''Global Times'' explained it was simply a "misunderstanding in translation", where they had meant to refer to Chinese ''pao cai'', and their Chinese language article had used the term ''pao cai'', but their English language version had "erroneously" translated it as "kimchi", and that the dispute arose from being innocently "lost in translation".<ref name=":7" /><ref>{{Cite web |date=30 May 2022 |title=How China could have avoided the 'kimchi war' with South Korea |url=https://www.scmp.com/magazines/post-magazine/short-reads/article/3179460/how-kimchi-war-between-china-and-south-korea |access-date=8 July 2023 |website=South China Morning Post |language=en |author1=Wee Kei Koon  |archive-date=8 July 2023 |archive-url=https://web.archive.org/web/20230708102304/https://www.scmp.com/magazines/post-magazine/short-reads/article/3179460/how-kimchi-war-between-china-and-south-korea |url-status=live }}</ref> They acknowledged that kimchi and ''pao cai'' are two different foods, where "Kimchi refers to a kind of fermented cabbage dish that plays an integral role in Korean cuisine, while ''pàocài'', or Sichuan ''pàocài'', refers to pickled vegetables that are popular originally in Southwest China's Sichuan Province, but now in most parts of northern China."<ref name=":7">{{cite news|date=10 December 2020|title=Kimchi and paocai are two different foods,' Chinese state media says|language=en|website=[[The Dong-a Ilbo]]|url=https://www.donga.com/en/article/all/20201210/2269204/1/Kimchi-and-paocai-are-two-different-foods-Chinese-state-media-says|access-date=8 October 2021|author1=Seol Lee|archive-date=8 October 2021|archive-url=https://web.archive.org/web/20211008210030/https://www.donga.com/en/article/all/20201210/2269204/1/Kimchi-and-paocai-are-two-different-foods-Chinese-state-media-says|url-status=live}}</ref> ''Global Times'' also reported that [[Baidu Baike]], a Chinese online encyclopedia, removed the controversial phrase "Korean kimchi originated from China" after the request.<ref name=":7" /> 
+
+According to Sojin Lim, co-director of the Institute of Korean Studies of the [[University of Central Lancashire]], Korean kimchi is often called ''pao cai'' in China, but China has its own [[Sichuan cuisine|Sichuanese]] fermented vegetable dish that it also calls ''pao cai''.<ref>{{Cite web |title=How kimchi rekindled a decades-long feud |url=https://www.bbc.com/travel/article/20201217-how-kimchi-rekindled-a-decades-long-feud |access-date=8 July 2023 |website=BBC Travel |date=17 December 2020 |archive-date=8 July 2023 |archive-url=https://web.archive.org/web/20230708133403/https://www.bbc.com/travel/article/20201217-how-kimchi-rekindled-a-decades-long-feud |url-status=live }}</ref> In 2021, the South Korean [[Ministry of Culture, Sports and Tourism (South Korea)|Ministry of Culture, Sports and Tourism]] subsequently presented the guidelines to set the term ''xīnqí'' {{nowrap|({{lang|zh|辛奇}})}} as the new proper Chinese translation of kimchi, while ''pàocài'' was no longer the acceptable translation.<ref>{{cite news|date=23 July 2021|title=Culture Ministry amends translation guidelines for kimchi|language=en|website=[[The Korea Herald]]|url=http://www.koreaherald.com/view.php?ud=20210723000677|access-date=8 October 2021|archive-date=7 October 2021|archive-url=https://web.archive.org/web/20211007184222/http://www.koreaherald.com/view.php?ud=20210723000677|url-status=live}}</ref> However, [[CNN]] reported that the new Chinese translation of kimchi was unpopular with both Chinese and Korean netizens, and that some Chinese people complained that they do recognize the difference between dishes, but don't like to be told how to translate Kimchi in Chinese. There were also complaints among Koreans that Korea is appropriating their own traditional culture for the Chinese, by trying to promote a Chinese term for Kimchi which doesn't have an authentic Korean sound.<ref>{{Cite web |last=Wong |first=Maggie Hiufu |date=20 August 2021 |title=Kimchi's new Chinese name has become the epicenter of a cultural war ... again |url=https://www.cnn.com/travel/article/xinqi-kimchi-new-chinese-name-cmd/index.html |access-date=8 July 2023 |website=CNN |language=en  |archive-date=8 July 2023 |archive-url=https://web.archive.org/web/20230708085623/https://www.cnn.com/travel/article/xinqi-kimchi-new-chinese-name-cmd/index.html |url-status=live }}</ref>
+
+== Ingredients ==
+
+[[File:Making kimchi.jpg|thumb|Basic ingredients for kimchi: napa cabbage, radish, carrot, salt, garlic, fish sauce, chili powder and scallions. A sticky, glutinous paste of rice flour is also needed to make the seasoning of the kimchi.]]
+[[File:Korean cuisine-Salted baechu-01.jpg|thumb|Salted napa cabbage before making kimchi. Cabbage is usually marinated twice to help maintain the salt in the dish.]]
+[[File:Korean.Folk.Village-Minsokchon-02.jpg|thumb|Drying chili peppers for kimchi. These peppers are then made into ''gochugaru'', or chili pepper powder. This powder is added to the rice flour paste to make a seasoning paste for spicy kimchi.]]
+Kimchi varieties are determined by the main vegetable ingredients and the mix of seasoning used to flavor the kimchi.
+
+=== Vegetables ===
+Cabbages ([[napa cabbage]]s, [[bomdong]], [[headed cabbage]]s) and radishes ([[Korean radish]]es, [[ponytail radish]]es, [[gegeol radish]]es, [[yeolmu radish]]es) are the most commonly used kimchi vegetables.<ref name="Britannica"/><ref name="Chin" /> Other kimchi vegetables include [[chamchwi|aster]], [[doraji|balloon flower root]]s, [[ueong|burdock]] roots, [[celery]], [[chamnamul]], [[cilantro]], [[garden cress|cress]], [[crown daisy greens]], [[cucumber]], [[eggplant]], [[garlic chives]], [[garlic]] scapes, [[ginger]], [[Korean angelica-tree]] shoots, [[Korean parsley]], [[Korean wild chive]], [[lotus root]]s, [[mustard greens]], onions, [[Kkaennip|perilla leaves]], [[bamboo shoot]], ''[[Momordica charantia]]'', [[Cucurbita moschata|pumpkin]]s, [[mucheong|radish greens]], [[rapeseed]] leaves, [[Allium × proliferum|scallion]]s, [[Edible seaweed|seaweed]], [[soybean sprout]]s, [[spinach]], [[sugar beet]]s, [[sweet potato]] vines, and [[tomato]]es.<ref name="KAC">{{Cite web|url=http://cooks.org.kp/cooking_house.php?tID=9&cID=1|title=Kimchi, sikhae|website=[[Korean Dishes|Ch'osŏn Ryori]]|publisher=[[Korean Association of Cooks]]|language=ko-KP|script-title=ko:김치, 식해|access-date=10 April 2017|archive-date=15 June 2020|archive-url=https://web.archive.org/web/20200615092530/http://cooks.org.kp/cooking_house.php?tID=9&cID=1}}</ref>
+
+=== Seasonings ===
+[[Brining salt]] (with a larger grain size compared to [[kitchen salt]]) is used mainly for initial salting of kimchi vegetables. Being minimally processed, it serves to help develop flavors in fermented foods.<ref>{{cite journal |last1=Lee |first1=Mi-Ai |last2=Choi |first2=Yun-Jeong |last3=Kim |first3=Ye-Sol |last4=Chon |first4=Seo-Yeong |last5=Chung |first5=Young Bae |last6=Park |first6=Sung-Hee |last7=Yun |first7=Ye-Rang |last8=Min |first8=Sung Gi |last9=Yang |first9=Ho-Chul |last10=Seo |first10=Hye-Young |title=Effects of salt type on the metabolites and microbial community in kimchi fermentation |journal=Heliyon |date=November 2022 |volume=8 |issue=11 |article-number=e11360 |doi=10.1016/j.heliyon.2022.e11360 |doi-access=free |pmid=36387467 |pmc=9663873 |bibcode=2022Heliy...811360L |display-authors=1}}</ref> Cabbage is usually salted twice when making spicy kimchi.
+
+Commonly used seasonings include ''[[gochugaru]]'' (chili powder), [[scallion]]s, [[garlic]], [[ginger]], and ''[[jeotgal]]'' (salted seafood)<ref name="Britannica" /><ref name="Chin" /> ''Jeotgal'' can be replaced with raw seafood in colder Northern parts of the [[Korean peninsula]].<ref name="Doo">{{Cite web|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000729133|title=kimchi|website=[[Doopedia]]|publisher=[[Doosan Corporation]]|script-title=ko:김치|access-date=10 April 2017|archive-date=7 October 2018|archive-url=https://web.archive.org/web/20181007202117/http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000729133|url-status=live}}</ref> If used, milder ''[[saeu-jeot]]'' (salted shrimp) or ''[[jogi-jeot]]'' (salted croaker) is preferred and the amount of ''jeotgal'' is also reduced in Northern and Central regions.<ref name="Doo" /> In Southern Korea, on the other hand, a generous amount of stronger ''[[myeolchi-jeot]]'' (salted anchovies) and ''[[galchi-jeot]]'' (salted [[Trichiurus lepturus|hairtail]]) is commonly used.<ref name="Doo" /> Raw seafood or ''[[daegu-agami-jeot]]'' (salted cod gills) are used in the East coast areas.<ref name="Doo" />
+
+Salt, scallions, garlic, fish sauce, and sugar are commonly added to flavor the kimchi.<ref>{{cite web |title=Understanding and Making Kimchi |url=https://foodsmartcolorado.colostate.edu/recipes/preservation/understanding-and-making-kimchi/ |website=Farm to Table |publisher=Colorado State University |access-date=22 February 2021 |archive-date=25 February 2021 |archive-url=https://web.archive.org/web/20210225084048/https://foodsmartcolorado.colostate.edu/recipes/preservation/understanding-and-making-kimchi/ |url-status=live }}</ref>
+
+==Production==
+To make kimchi, start by slicing cabbage or daikon into small, uniform pieces to increase surface area. The pieces are then coated with salt to draw out water, which helps preserve them by preventing the growth of harmful microorganisms. This salting process can use 5–7% salt for 12 hours or 15% salt for 3–7 hours.
+
+After salting, drain the excess water and mix in the seasoning ingredients. Adding sugar can also help by binding any remaining water. Finally, pack the brined vegetables into an airtight jar and let them ferment at room temperature for 24 to 48 hours. The ideal salt concentration during fermentation is about 3%.
+
+Since the fermentation process results in the production of carbon dioxide, the jar should be "burped" daily to release the gas.<ref name=":3">{{cite web |title=Understanding and Making Kimchi |url=https://foodsmartcolorado.colostate.edu/recipes/preservation/understanding-and-making-kimchi/ |url-status=live |archive-url=https://web.archive.org/web/20210225084048/https://foodsmartcolorado.colostate.edu/recipes/preservation/understanding-and-making-kimchi/ |archive-date=25 February 2021 |access-date=22 February 2021 |website=Colorado Farm to Table Food Safety}}</ref> The more fermentation that occurs, the more carbon dioxide will be incorporated, which results in a very carbonated-drink-like effect.
+
+=== Microorganisms in kimchi ===
+The [[microorganism]]s present in kimchi include ''[[Bacillus mycoides]]'', ''[[Bacillus pseudomycoides|B. pseudomycoides]]'', ''[[Bacillus subtilis|B. subtilis]]'', ''[[Lactobacillus brevis]]'', ''[[Lactobacillus curvatus|Lb. curvatus]]'', ''[[Lactobacillus kimchii|Lb. kimchii]]'', ''[[Lactobacillus parabrevis|Lb. parabrevis]]'', ''[[Lactobacillus pentosus|Lb. pentosus]]'', ''[[Lactobacillus plantarum|Lb. plantarum]]'', ''[[Lactobacillus sakei|Lb. sakei]]'', ''[[Lactobacillus spicheri|Lb. spicheri]]'', ''[[Lactococcus carnosum]]'', ''[[Lactobacillus gelidum|Lc. gelidum]]'', ''[[Lactococcus lactis|Lc. lactis]]'', ''[[Leuconostoc carnosum]]'', ''[[Leuconostoc citreum|Ln. citreum]]'', ''[[Leuconostoc gasicomitatum|Ln. gasicomitatum]]'', ''[[Leuconostoc gelidum|Ln. gelidum]]'', ''[[Leuconostoc holzapfelii|Ln. holzapfelii]]'', ''[[Leuconostoc inhae|Ln. inhae]]'', ''[[Leuconostoc kimchii|Ln. kimchii]]'', ''[[Leuconostoc lactis|Ln. lactis]]'', ''[[Leuconostoc mesenteroides|Ln. mesenteroides]]'', ''[[Serratia marcescens]]'', ''[[Weissella cibaria]]'', ''[[Weissella confusa|W. confusa]]'', ''[[Weissella kandleri|W. kandleri]]'', ''[[Weissella kimchii|W. kimchii]]''. ''[[Weissella koreensis|W. koreensis]]'', and ''[[Weissella soli|W. soli]]''.<ref>{{Cite book|url=https://books.google.com/books?id=ZtoNDgAAQBAJ&pg=PT17|title=Lactic Acid Fermentation of Fruits and Vegetables|last1=Paramithiotis|first1=Spiros|last2=Papoutsis|first2=George|last3=Drosinos|first3=Eleftherios H.|publisher=[[CRC Press]]|year=2017|isbn=978-1-4987-2690-0|editor-last=Paramithiotis|editor-first=Spiros|location=Boca Raton, FL|page=5}}</ref><ref name=pmid15992614>{{cite journal |doi=10.1016/j.ijfoodmicro.2004.12.010 |pmid=15992614 |title=Analysis of kimchi microflora using denaturing gradient gel electrophoresis |journal=International Journal of Food Microbiology |volume=102 |issue=2 |pages=143–150 |year=2005 |last1=Lee |first1=Jung-Sook |last2=Heo |first2=Gun-Young |last3=Lee |first3=Jun Won |last4=Oh |first4=Yun-Jung |last5=Park |first5=Jeong A. |last6=Park |first6=Yong-Ha |last7=Pyun |first7=Yu-Ryang |last8=Ahn |first8=Jong Seog }}</ref><ref name=pmid16553862>{{cite journal |doi=10.1111/j.1574-6968.2006.00186.x |pmid=16553862 |title=Microbial population dynamics of kimchi, a fermented cabbage product |journal=FEMS Microbiology Letters |volume=257 |issue=2 |pages=262–267 |year=2006 |last1=Cho |first1=Jinhee |last2=Lee |first2=Dongyun |last3=Yang |first3=Changnam |last4=Jeon |first4=Jongin |last5=Kim |first5=Jeongho |last6=Han |first6=Hongui |doi-access=free }}</ref><ref name=pmid18562030>{{cite journal |doi=10.1016/j.ijfoodmicro.2008.05.013 |pmid=18562030 |title=Analysis of yeast and archaeal population dynamics in kimchi using denaturing gradient gel electrophoresis |journal=International Journal of Food Microbiology |volume=126 |issue=1–2 |pages=159–166 |year=2008 |last1=Chang |first1=H. |last2=Kim |first2=K. |last3=Nam |first3=Y. |last4=Roh |first4=S. |last5=Kim |first5=M. |last6=Jeon |first6=C. |last7=Oh |first7=H. |last8=Bae |first8=J. }}</ref><ref name=pmid23558201>{{cite journal |doi=10.1016/j.ijfoodmicro.2013.02.022 |pmid=23558201 |title=Metatranscriptomic analysis of lactic acid bacterial gene expression during kimchi fermentation |journal=International Journal of Food Microbiology |volume=163 |issue=2–3 |pages=171–179 |year=2013 |last1=Jung |first1=Ji Young |last2=Lee |first2=Se Hee |last3=Jin |first3=Hyun Mi |last4=Hahn |first4=Yoonsoo |last5=Madsen |first5=Eugene L. |last6=Jeon |first6=Che Ok }}</ref><ref name=pmid23550842>{{cite journal |doi=10.1111/1750-3841.12095 |pmid=23550842 |title=Microbial Succession and Metabolite Changes during Long-Term Storage of Kimchi |journal=Journal of Food Science |volume=78 |issue=5 |pages=M763–M769 |year=2013 |last1=Jeong |first1=Sang Hyeon |last2=Lee |first2=Se Hee |last3=Jung |first3=Ji Young |last4=Choi |first4=Eun Jin |last5=Jeon |first5=Che Ok }}</ref><ref name=pmid23587713>{{cite journal |doi=10.1016/j.ijfoodmicro.2013.03.016 |pmid=23587713 |title=Microbial succession and metabolite changes during fermentation of dongchimi, traditional Korean watery kimchi |journal=International Journal of Food Microbiology |volume=164 |issue=1 |pages=46–53 |year=2013 |last1=Jeong |first1=Sang Hyeon |last2=Jung |first2=Ji Young |last3=Lee |first3=Se Hee |last4=Jin |first4=Hyun Mi |last5=Jeon |first5=Che Ok }}</ref><ref name=pmid23314371>{{cite journal |doi=10.4014/jmb.1210.10002 |pmid=23314371 |title=Comparison of Bacterial Community Changes in Fermenting Kimchi at Two Different Temperatures Using a Denaturing Gradient Gel Electrophoresis Analysis |journal=Journal of Microbiology and Biotechnology |volume=23 |issue=1 |pages=76–84 |year=2013 |last1=Hong |first1=Yeun |last2=Yang |first2=H. S. |last3=Chang |first3=H. C. |last4=Kim |first4=H. Y. |s2cid=13462137 |url=http://pdfs.semanticscholar.org/2146/19a579c602ceeb7d56975ae35e9fca36f23a.pdf |archive-url=https://web.archive.org/web/20190220083800/http://pdfs.semanticscholar.org/2146/19a579c602ceeb7d56975ae35e9fca36f23a.pdf |archive-date=20 February 2019 }}</ref> [[Archaea]] and [[yeast]]s, such as Saccharomyces, Candida, Pichia, and Kluyveromyces are also present in kimchi,<ref name=":9">{{Cite journal|last1=Jung|first1=Ji Young|last2=Lee|first2=Se Hee|last3=Jeon|first3=Che Ok|date=14 January 2014|title=Kimchi microflora: history, current status, and perspectives for industrial kimchi production|journal=Applied Microbiology and Biotechnology|volume=98|issue=6|pages=2385–2393|doi=10.1007/s00253-014-5513-1|pmid=24419800|s2cid=13085302|issn=0175-7598}}</ref><ref>{{cite journal |last1=Chang |first1=HW |last2=Kim |first2=KH |last3=Nam |first3=YD |last4=Roh |first4=SW |last5=Kim |first5=MS |last6=Jeon |first6=CO |last7=Oh |first7=HM |last8=Bae |first8=JW |title=Analysis of yeast and archaeal population dynamics in kimchi using denaturing gradient gel electrophoresis. |journal=International Journal of Food Microbiology |date=15 August 2008 |volume=126 |issue=1–2 |pages=159–66 |doi=10.1016/j.ijfoodmicro.2008.05.013 |pmid=18562030}}</ref> with the latter being responsible for undesirable white colonies that sometimes form in the product as well as food spoilages and off-flavors.<ref name=":9" /><ref>{{cite journal |last1=Kim |first1=JY |last2=Kim |first2=J |last3=Cha |first3=IT |last4=Jung |first4=MY |last5=Song |first5=HS |last6=Kim |first6=YB |last7=Lee |first7=C |last8=Kang |first8=SY |last9=Bae |first9=JW |last10=Choi |first10=YE |last11=Kim |first11=TW |last12=Roh |first12=SW |title=Community structures and genomic features of undesirable white colony-forming yeasts on fermented vegetables. |journal=Journal of Microbiology (Seoul, Korea) |date=January 2019 |volume=57 |issue=1 |pages=30–37 |doi=10.1007/s12275-019-8487-y |pmid=30392155|s2cid=53219410 }}</ref>
+
+In early fermentation stages, the ''[[Leuconostoc]]'' variety is found more dominantly in kimchi fermentation because of its lower acid tolerance and microaerophilic properties; the ''[[Leuconostoc]]'' variety also grows better at low salt concentrations.<ref name=":9" /> Throughout the fermentation process, as acidity rises, the ''[[Lactobacillus]]'' and ''[[Weissella]]'' variety become dominant because of their higher acid tolerance. ''Lactobacillus'' also grows better in conditions with a higher salt concentration.<ref name=":9" />
+
+These microorganisms are present due to the natural microflora provided by utilizing unsterilized food materials in the production of kimchi.<ref name=":0">{{Cite journal|last1=Lee|first1=Mo-Eun|last2=Jang|first2=Ja-Young|last3=Lee|first3=Jong-Hee|last4=Park|first4=Hae-Woong|last5=Choi|first5=Hak-Jong|last6=Kim|first6=Tae-Woon|date=28 May 2015|title=Starter Cultures for Kimchi Fermentation|journal=Journal of Microbiology and Biotechnology|language=en|volume=25|issue=5|pages=559–568|doi=10.4014/jmb.1501.01019|pmid=25674806|issn=1017-7825|doi-access=free}}</ref><ref name=":1">{{Cite book|url=https://www.ncbi.nlm.nih.gov/books/NBK234703/|title=Lactic Acid Fermentations|last=Foods|first=National Research Council (US) Panel on the Applications of Biotechnology to Traditional Fermented|date=1992|publisher=National Academies Press (US)|language=en|access-date=8 August 2019|archive-date=1 April 2015|archive-url=https://web.archive.org/web/20150401052540/https://www.ncbi.nlm.nih.gov/books/NBK234703/|url-status=live}}</ref> The step of salting the raw materials as well as the addition of red pepper powder inhibits the pathogenic and putrefactive bacteria present in the microflora, allowing the [[lactic acid bacteria]] (LAB) to flourish and become the dominant microorganism.<ref name=":0" /><ref>{{Cite journal|last1=Park|first1=Kun-Young|last2=Jeong|first2=Ji-Kang|last3=Lee|first3=Young-Eun|last4=Daily|first4=James W.|date=January 2014|title=Health Benefits of Kimchi (Korean Fermented Vegetables) as a Probiotic Food|journal=Journal of Medicinal Food|language=en|volume=17|issue=1|pages=6–20|doi=10.1089/jmf.2013.3083|pmid=24456350|issn=1096-620X}}</ref> These anaerobic microorganisms steadily increase in number during the middle stages of fermentation, and prefer to be kept at low temperatures of about 10°C, pH of 4.2-4, and remain in the presence of 1.5% – 4% NaCl.<ref name=":9" /><ref name=":0" /> A faster fermentation at a higher temperature may be chosen as well to accelerate the growth of bacterial cultures for a faster decrease in pH level.<ref name=":9" />
+
+Since the raw cruciferous vegetables themselves are the source of LAB required for fermentation, no starter culture is required for the production of kimchi; rather, spontaneous fermentation occurs.<ref name=":2">{{Cite journal|last1=Jung|first1=Ji Young|last2=Lee|first2=Se Hee|last3=Kim|first3=Jeong Myeong|last4=Park|first4=Moon Su|last5=Bae|first5=Jin-Woo|last6=Hahn|first6=Yoonsoo|last7=Madsen|first7=Eugene L.|last8=Jeon|first8=Che Ok|date=1 April 2011|title=Metagenomic Analysis of Kimchi, a Traditional Korean Fermented Food|journal=Applied and Environmental Microbiology|language=en|volume=77|issue=7|pages=2264–2274|doi=10.1128/AEM.02157-10|issn=0099-2240|pmc=3067442|pmid=21317261|bibcode=2011ApEnM..77.2264J}}</ref> The total population of microorganisms present at the beginning of processing determines the outcome of fermentation, causing the final product to be highly variable in terms of quality and flavor.<ref name=":0" /> Currently, there are no recommended approaches to control the microbial community during fermentation to predict the outcome.<ref name=":2" /> In the industrial production of kimchi, starter cultures made up of ''[[Leuconostoc mesenteroides|Leu. mesenteroides]]'', ''[[Leuconostoc citreum|Leu. citreum]]'', and ''[[Lactiplantibacillus plantarum|Lb. plantarum]]'' are used, which are often unsuccessful because they fail to outcompete the naturally occurring cultures on the raw materials.<ref name=":9" />
+
+=== By-products of microorganisms ===
+The [[lactic acid bacteria]] (LAB) produce [[lactic acid]], [[hydrogen peroxide]], and [[carbon dioxide]] as by-products during metabolism. Lactic acid quickly lowers the pH, creating an acidic environment that is uninhabitable for most other microorganisms that survived salting.<ref name=":1" /> This also modifies the flavor of sub-ingredients and can increase the nutritive value of the raw materials, as the microbial community in the fermentation process can synthesize B vitamins and hydrolyze cellulose in plant tissues to free nutrients that are normally indigestible by the human gastrointestinal tract.<ref name=":1" /> Hydrogen peroxide is formed by the oxidation of reduced [[nicotinamide adenine dinucleotide]] (NADH) and provides an antibiotic to inhibit some undesirable microorganisms.<ref name=":1" /> Carbon dioxide functions as a preservative, flushing out oxygen to create an anaerobic environment, as well as creating the desired carbonation in the final product.<ref name=":1" />
+
+=== Odor ===
+Kimchi is known for its strong, spicy, flavors and odors, although milder varieties exist. Variations in the fermentation process cause the final product to be highly variable in terms of quality and flavor.<ref name=":0" /> The strong odor is especially tied to the sulfur compounds from garlic and ginger of kimchi, which can be less appealing to non-Koreans. Thus, scientists are experimenting with the types of bacteria used in its production to minimize the odor to increase the appeal to international markets.<ref name="Fifield_6/22/2017">{{cite news | last=Fifield | first=Anna | title=To promote kimchi abroad, Korean scientists are trying to get rid of the smell | newspaper=[[The Washington Post]] | date=22 June 2017 | url=https://www.washingtonpost.com/world/asia_pacific/to-promote-kimchi-abroad-korean-scientists-are-trying-to-get-rid-of-the-smell/2017/06/21/a1cc7de2-4ab7-11e7-b69d-c158df3149e9_story.html | access-date=16 November 2021 | archive-date=29 March 2021 | archive-url=https://web.archive.org/web/20210329095725/https://www.washingtonpost.com/world/asia_pacific/to-promote-kimchi-abroad-korean-scientists-are-trying-to-get-rid-of-the-smell/2017/06/21/a1cc7de2-4ab7-11e7-b69d-c158df3149e9_story.html | url-status=live }}</ref> These efforts are not universally appreciated by lovers of kimchi, as the flavor is affected in the process, and some see that "South Korea's narrative about its own culinary staple" is being manipulated to suit the foreigners' tastes.<ref name="Herreria_Russo_6/29/2017">{{cite web | last=Herreria Russo | first=Carla | title=Korean Scientists Are Making Kimchi Less Smelly For Westerners, And People Are Pissed | website=[[HuffPost]] | date=29 June 2017 | url=https://www.huffpost.com/entry/south-korea-kimchi-less-smelly_n_5954422ae4b05c37bb7bdc02 | access-date=16 November 2021 | archive-date=16 November 2021 | archive-url=https://web.archive.org/web/20211116164657/https://www.huffpost.com/entry/south-korea-kimchi-less-smelly_n_5954422ae4b05c37bb7bdc02 | url-status=live }}</ref>
+
+==Varieties==
+[[File:Korean.cuisine-Banchan-02.jpg|thumb|right|''[[Tongkimchi]]'', ''gulgimchi'' (kimchi with additional oyster) and other [[banchan]]]]
+Kimchi is one of the most important staples of [[Korean cuisine]]. The Korean term "Kimchi" refers to fermented vegetables, and encompasses salt and seasoned vegetables.<ref name="Jang et al 2016">{{cite journal |doi=10.1016/j.jef.2016.06.002 |title=Does siwonhan-mat represent delicious in Korean foods? |journal=Journal of Ethnic Foods |volume=3 |issue=2 |pages=159–162 |year=2016 |last1=Jang |first1=Dai Ja |last2=Lee |first2=Ae Ja |last3=Kang |first3=Soon-A |last4=Lee |first4=Seung Min |last5=Kwon |first5=Dae Young |doi-access=free }}</ref> It is mainly served as a side dish with every meal, but also can be served as a main dish.<ref>Korean Tourism Organization. (2015). Kimchi.</ref> Kimchi is mainly recognized as a spicy fermented cabbage dish globally.<ref name="btpickle-201309" /> 
+
+New variations of kimchi continue to be created,<ref name="kimchi-types">{{cite book |title=Cured, Smoked, and Fermented: Proceedings of the Oxford Symposium on Food and Cookery 2010|editor-last=Saberi |editor-first=Helen|year=2011 |chapter=Kimchi: Ferment at the Heart of Korean Cuisine, from Local Identity to Global Consumption |last=di Schino |first=June |publisher=Prospect Books|isbn=978-1-903018-85-9|location=Devon, UK |page=82}}</ref> and the taste can vary depending on the region and season.<ref>Kimchi. (2016). Funk & Wagnall's New World Encyclopedia, 1p. 1.</ref> Conventionally, the secret of kimchi preparation was passed down by mothers to their daughters in a bid to make them suitable wives to their husbands.<ref name="Chung et al 2017" /> However, with the current technological advancement and increase in social media use, many individuals worldwide can now access recipes for kimchi preparation.<ref name="Chung et al 2017">{{cite journal |doi=10.1016/j.jef.2017.12.001 |title=Recovering the royal cuisine in Chosun Dynasty and its esthetics |journal=Journal of Ethnic Foods |volume=4 |issue=4 |pages=242–253 |year=2017 |last1=Chung |first1=Hae-Kyung |last2=Shin |first2=Dayeon |last3=Chung |first3=Kyung Rhan |last4=Choi |first4=Soe Yeon |last5=Woo |first5=Nariyah |doi-access=free }}</ref>
+
+Kimchi can be categorized by main ingredients, regions or seasons. Korea's northern and southern sections have a considerable temperature difference.<ref name="yahookorea">[http://kr.dictionary.search.yahoo.com/search/dictionaryp?&p=%EA%B9%80%EC%B9%98&subtype=enc&pk=11788300&field=id "Kimchi." Yahoo Korean Encyclopedia] {{webarchive|url=https://web.archive.org/web/20090124003032/http://kr.dictionary.search.yahoo.com/search/dictionaryp |date=24 January 2009 }}</ref> There are over 180 recognized varieties of kimchi.<ref name="Korea Tourism Organization">{{Cite web |url=http://english.visitkorea.or.kr/enu/SH/whatToBuy/whatToBuy.jsp?action=item&cid=995700 |website=english.visitkorea.or.kr |title=Kimchi |access-date=1 April 2015 |archive-date=18 January 2020 |archive-url=https://web.archive.org/web/20200118050048/http://english.visitkorea.or.kr/enu/SH/whatToBuy/whatToBuy.jsp?action=item&cid=995700 }}</ref> The most common kimchi variations are:
+* ''[[Baechu-kimchi]]'' ({{lang|ko|배추김치}}) spicy napa cabbage kimchi, made from whole cabbage leaves
+* ''Baechu-geotjeori'' ({{lang|ko|배추겉절이}}) unfermented napa cabbage kimchi
+* ''Bossam-kimchi'' ({{lang|ko|보쌈김치}}) wrapped kimchi
+* ''[[Baek-kimchi]]'' ({{lang|ko|백김치}}) white kimchi, made without chili pepper
+* ''[[Dongchimi]]'' ({{lang|ko|동치미}}) a non-spicy watery kimchi
+* ''[[Nabak-kimchi]]'' ({{lang|ko|나박김치}}) a mildly spicy watery kimchi
+* ''Chonggak-kimchi'' ({{lang|ko|총각김치}}) cubed [[chonggak radish|chonggak "ponytail" radish]], a popular spicy kimchi
+* ''[[Kkakdugi]]'' ({{lang|ko|깍두기}}) spicy cubed [[Korean radish]] strongly-scented kimchi containing fermented shrimp
+* ''Oi-sobagi'' ({{lang|ko|오이소박이}}) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons
+* ''[[Pa-kimchi]]'' ({{lang|ko|파김치}}) spicy green onion kimchi
+* ''[[Yeolmu-kimchi]]'' ({{lang|ko|열무김치}}) is also a popular choice during the spring and summer, and is made with [[yeolmu radish]]es, and does not necessarily have to be fermented.
+* ''[[Gat-kimchi]]'' ({{lang|ko|갓김치}}), made with [[Indian mustard]]
+* ''Yangbaechu-kimchi'' (양배추 김치) spicy cabbage kimchi, made from "headed" [[cabbage]] leaves (as opposed to napa cabbage)
+
+Kimchi from the northern parts of Korea tend to have less salt and red chili and usually do not include brined seafood for seasoning. Northern kimchi often has a watery consistency. Kimchi made in the southern parts of Korea, such as [[Jeolla Province]] and [[Gyeongsang Province]], uses salt, chili peppers and ''[[myeolchijeot]]'' ({{lang|ko|멸치젓}}, brined [[Anchovies as food|anchovy]] allowed to ferment) or ''[[saeujeot]]'' ({{lang|ko|새우젓}}, brined shrimp allowed to ferment), ''myeolchiaekjeot'' ({{lang|ko|멸치액젓}}), anchovy fish sauce, ''kkanariaekjeot'' ({{lang|ko|까나리액젓}}), liquid anchovy [[Jeotgal|jeot]], similar to [[fish sauce]] used in Southeast Asia, but thicker.
+
+''[[Saeujeot]]'' ({{lang|ko|새우젓}}) or ''myeolchijeot'' is not added to the kimchi spice-seasoning mixture, but is simmered first to reduce odors, eliminate tannic flavor and fats, and then is mixed with a thickener made of rice or wheat starch ({{lang|ko|풀}}). This technique has been falling into disuse in the past 40 years.
+
+=== Color ===
+[[White kimchi]] is neither red nor spicy. It includes white [[Baechu-kimchi|napa cabbage kimchi]] and other varieties such as white [[Korean radish|radish]] kimchi (''[[dongchimi]]''). Watery white kimchi varieties are sometimes used as an ingredient in a number of dishes such as cold noodles in ''dongchimi'' [[brine]] (''dongchimi-guksu'').
+
+=== Age ===
+* ''[[Geotjeori]]'' ({{lang|ko|겉절이}}): unfermented kimchi meant to be eaten fresh
+* ''Mugeun-ji'' ({{lang|ko|묵은지}}), also known as ''mugeun-kimchi'' ({{lang|ko|묵은김치}}): aged kimchi
+
+===Region===
+[[File:Kimchi jar.JPG|thumb|Empty traditional [[onggi|jar]]s (''onggi'', 옹기), used for storing kimchi, gochujang, [[doenjang]], soy sauce and other pickled banchan (side dishes)]]
+The following regional classification dates to the 1960s. Since then, kimchi-making practices and trends in Korea have diverged from it.<ref name="yahookorea"/>
+* [[Pyongan Province]] Non-traditional ingredients have been adopted in rural areas due to severe food shortages.
+* [[Hamgyong Province]]: Due to its proximity to the ocean, people in this particular region use fresh fish and oysters to season their kimchi.
+* [[Hwanghae Province]]: The taste of kimchi in Hwanghae Province is not bland but not extremely spicy. Most kimchi from this region have less color since red chili flakes are not used. The typical kimchi in Hwanghae Province is called hobakji (호박지). It is made with pumpkin (''bundi'').[[File:Korean.food-kimchi-02.jpg|thumb|right|''[[Kimchi-buchimgae]]'', a savory Korean pancake with kimchi]]
+* [[Gyeonggi Province]]
+* [[Chungcheong Province]]: Instead of using fermented fish, people in the region rely on salt and fermentation to make savory kimchi. Chungcheong Province has the most varieties of kimchi.
+* [[Gangwon Province, South Korea]]''/''[[Kangwon Province, North Korea]]: In Gangwon Province, kimchi is stored for longer periods. Unlike other coastal regions in Korea, kimchi in this area does not contain much salted fish.
+* [[Jeolla Province]]: Salted [[yellow corvina]] and salted [[Pacific rudderfish|butterfish]] are used in this region to create different seasonings for kimchi.
+* [[Gyeongsang Province]]: This region's cuisine is saltier and spicier. The most common seasoning components include [[myeolchijeot]] ({{lang|ko|멸치젓}}) which produces a briny and savory flavor. They also use oysters in their kimchi.
+* Foreign countries: In some places of the world people sometimes make kimchi with western [[cabbage]] and many other alternative ingredients such as [[broccoli]].<ref>{{cite web |title=North Texas Traditional Living |website=Making Kimchi |url=http://www.traditionaltx.us/Heidi%27s%20kimchi%20recipe.pdf |access-date=14 February 2011 |archive-date=24 March 2012 |archive-url=https://web.archive.org/web/20120324081954/http://www.traditionaltx.us/Heidi%27s%20kimchi%20recipe.pdf |url-status=live }}</ref><ref>{{cite web |title=TreeLight |website=Ultimate Kimchi |url=http://www.treelight.com/health/nutrition/UltimateKimchi.html |access-date=14 February 2011 |archive-url=https://web.archive.org/web/20101224125302/http://treelight.com/health/nutrition/UltimateKimchi.html |archive-date=24 December 2010 }}</ref>
+
+===Seasonal variations===
+Different types of kimchi were traditionally made at different times of the year, based on when various vegetables were in season and also to take advantage of hot and cold seasons before the era of refrigeration. Although the advent of modern refrigeration – including [[Kimchi refrigerator|kimchi refrigerators]] specifically designed with precise controls to keep different varieties of kimchi at optimal temperatures at various stages of fermentation – has made this seasonality unnecessary, Koreans continue to consume kimchi according to traditional seasonal preferences.<ref>{{Cite news|url=http://www.tdctrade.com/imn/02031402/food19.htm|title=High-tech kimchi refrigerators keep Korea's favorite food crisp|publisher=Hong Kong Trade Development Council|date=14 March 2002|access-date=14 February 2008|archive-date=29 January 2008|archive-url=https://web.archive.org/web/20080129195513/http://www.tdctrade.com/imn/02031402/food19.htm}}</ref>
+
+[[File:Korean-Dongchimi-01.jpg|thumb|''[[Dongchimi]] ({{lang|ko|동치미}})'' is largely served during winter. Dongchimi is also used to make buckwheat ''[[naengmyeon]]'', a popular dish during hot months.]]
+
+====Spring====
+After a long period of consuming ''[[gimjang]] kimchi'' ({{lang|ko|김장김치}}) during the winter, fresh [[potherb]]s and vegetables were used to make kimchi. These kinds of kimchi were not fermented or even stored for long periods of time but were consumed fresh.
+
+====Summer====
+[[File:Yeolmukimchi 3.jpg|thumb|[[Yeolmu-kimchi|''Yeolmu''-kimchi]], cold, watery kimchi that is usually eaten with oily foods, is consumed mostly in the summer.]]
+[[Yeolmu radish]]es and cucumbers are summer vegetables made into kimchi, ''[[yeolmu-kimchi]]'' ({{lang|ko|열무김치}}) which is eaten in several bites. Brined fish or shellfish can be added, and freshly ground dried chili peppers are often used.
+
+====Autumn====
+''[[Baechu]] kimchi'' is prepared by inserting blended stuffing materials, called ''sok'' (literally ''inside''), between layers of salted leaves of uncut, whole [[Napa cabbage]]. The ingredients of ''sok'' ({{lang|ko|속}}) can vary, depending on the regions and weather conditions. Generally, ''baechu kimchi'' used to have a strong salty flavor until the late 1960s, before which a large amount of ''[[myeolchijeot]]'' or ''[[saeujeot]]'' had been used.
+
+''Gogumasoon Kimchi'' is made from sweet potato stems.
+====Winter====
+Traditionally, the greatest varieties of kimchi were available during the winter. In preparation for the long winter months, many types of [[gimjang|kimjang]] kimchi ({{lang|ko|김장 김치}}) were prepared in early winter and stored in the ground in large kimchi pots. Today, many city residents use modern [[kimchi refrigerator]]s offering precise temperature controls to store kimjang kimchi. November and December are traditionally when people begin to make kimchi; women often gather together in each other's homes to help with winter kimchi preparations.{{r|nyt2010}} "Baechu kimchi" is made with salted [[baechu]] filled with thin strips of [[Korean radish|radish]], parsley, pine nuts, pears, chestnuts, shredded red pepper, [[Umbilicaria esculenta|manna lichen]] ({{Korean|석이 버섯||seogi beoseot}}), garlic, and ginger.
+
+===Korean preference===
+As of 2004, the preference of kimchi preparation in Korean households from the most prepared type of kimchi to less prepared types of kimchi was: ''baechu'' kimchi, being the most prepared type of kimchi, then ''[[kkakdugi]]'', then ''[[dongchimi]]'' and then ''chonggak'' kimchi. ''Baechu'' kimchi comprised more than seventy percent of marketed kimchi and radish kimchi comprised about twenty percent of marketed kimchi.<ref name="Hui2004">{{Cite book|editor1-last=Hui|editor1-first=Y. H.
+|url=https://books.google.com/books?id=dVpQVJ46C5gC&q=Samguozhi|title=Handbook of Vegetable Preservation and Processing
+|editor2-last=Ghazala|editor2-first=Sue
+|editor3-last=Graham|editor3-first=Dee M.
+|editor4-last=Murrell|editor4-first=K. D.
+|editor5-last=Nip|editor5-first=Wai-Kit
+|date=12 September 2003|publisher=CRC Press|isbn=978-0-203-91291-1|language=en
+|pages=190–191}}</ref>
+
+==Nutrition==
+[[File:Korean stew-Kimchi jjigae-05.jpg|thumb|''[[Kimchi jjigae]]'' (김치찌개), a stew made of kimchi, vegetables, broth, and other ingredients, is a popular dish during the cold months.]]
+Kimchi is made of various vegetables and contains a high concentration of [[dietary fiber]],<ref>{{cite web |url=http://www.vrg.org/journal/vj2004issue2/vj2004issue2kimchi.htm |title=Kimchi by Nancy Berkoff, RD, EdD, CCE |publisher= |access-date=13 September 2014 |archive-url=https://web.archive.org/web/20141019083945/http://www.vrg.org/journal/vj2004issue2/vj2004issue2kimchi.htm |archive-date=19 October 2014 }}</ref> while being low in [[food energy]]. The vegetables used in kimchi also contribute to intake of vitamin A, thiamine (B<sub>1</sub>), riboflavin (B<sub>2</sub>), calcium, and iron.<ref name="Asianinfo">{{Cite web |url=http://www.asianinfo.org/asianinfo/korea/food.htm#KIM%20CHI |website=Asianinfo.com |title=Food in Korea |access-date=30 January 2007 |archive-date=19 February 2012 |archive-url=https://web.archive.org/web/20120219003615/http://www.asianinfo.org/asianinfo/korea/food.htm#KIM%20CHI |url-status=live }}</ref><ref name="tour2korea">{{Cite web |url=http://english.visitkorea.or.kr/enu/OO/OO_EN_13_1_2.jsp?cid=347478 |website=Tour2korea.com |title=Kimchi |access-date=30 January 2007 |archive-date=30 September 2012 |archive-url=https://web.archive.org/web/20120930041245/http://english.visitkorea.or.kr/enu/OO/OO_EN_13_1_2.jsp?cid=347478 }}</ref>
+
+{|class="wikitable"
+|+Nutritional composition of typical kimchi<ref>Korea Food Research Institute</ref>{{nonspecific|date=June 2021}}
+!Nutrients
+!per 100 g
+!Nutrients
+!per 100 g
+|-
+|[[Food energy]]
+|32{{definition needed|date=June 2025}}
+|Moisture
+|88.4 g
+|-
+|Crude protein
+|2.0 g
+|Crude lipid
+|0.6 g
+|-
+|Total sugar
+|1.3 g
+|Crude fiber
+|1.2 g
+|-
+|Crude ash
+|0.5 g
+|Calcium
+|45&nbsp;mg
+|-
+|Phosphorus
+|28&nbsp;mg
+|Vitamin A
+|492 IU
+|-
+|Vitamin B<sub>1</sub>
+|0.03&nbsp;mg
+|Vitamin B<sub>2</sub>
+|0.06&nbsp;mg
+|-
+|Niacin
+|2.1&nbsp;mg
+|Vitamin C
+|21&nbsp;mg
+|}
+{| class="wikitable"
+|+ Vitamin contents of common kimchi and average vitamin contents of 4 kimchi during fermentation at 3–7°C
+|-
+!Fermentation<br />time (week)||[[Carotene]]<br />(μg%{{what|reason=percent of what|date=November 2020}})||[[Thiamine|Vitamin<br />B<sub>1</sub>]] (μg%)||[[Riboflavin|Vitamin<br /> B<sub>2</sub>]] (μg%)||[[Vitamin B12|Vitamin<br /> B<sub>12</sub>]] (μg%)||[[Niacin (substance)|Niacin]]<br />(μg%)||[[Vitamin C]]<br />(mg%)
+|-<!--There is a percent sign and a right, unclosed parenthesis sign under Vitamin B<sub>1</sub> in the data table in the source text. It is not included in this data table, because it appears to be a typo in the source text.-->
+!0
+|49.5<sup>a</sup>||41.7||66||0.17||740||28.9
+|-
+!1
+|44.0 (35.4)<sup>b</sup>||41.6 (40.1)||47 (54)||0.09 (0.09)||781 (747)||25.0 (25.3)
+|-
+!2
+|32.0 (30.4)||70.9 (61.9)||110 (99)||0.19 (0.20)||928 (861)||27.8 (28.5)
+|-
+!3
+|26.6 (26.9)||79.1 (87.5)||230 (157)||0.25 (0.33)||901 (792)||23.6 (22.3)
+|-
+!4
+|21.0 (25.3)||62.7 (70.8)||35 (95)||0.20 (0.26)||591 (525)||16.7 (16.0)
+|-
+!5
+|24.2 (20.1)||53.3 (49.1)||40 (37)||0.10 (0.16)||style="background-color: #f0f2f4;"| ||11.16 (11.0)
+|-
+|colspan="8" |<sup>a</sup>Naturally fermented baechu kimchi<br /><sup>b</sup>Average levels of four kimchis; common kimchi +3 different starter inoculated kimchis
+|- class="sortbottom"
+|style="background-color: lightgray;" colspan="8" |
+|- class="sortbottom"
+|colspan="8" style="text-align: center" |Source: Hui et al. (2005)<ref>{{Cite book
+ |last1         = Park
+ |first1        = Kim-Young
+ |last2         = Cheigh
+ |first2        = Hong-Sik
+ |pages         = 714–754
+ |chapter       = 35. Kimchi
+ |series        = Food Science and Technology
+ |volume        = 134
+ |editor1-last  = Hui
+ |editor1-first = Y. H.
+ |url           = https://books.google.com/books?id=PC_O7u1NPZEC&q=rebounded%2520to%2520optimally
+ |title         = Handbook of Food and Beverage Fermentation Technology
+ |editor2-last  = Meunier-Goddik
+ |editor2-first = Lisbeth
+ |editor3-last  = Josephsen
+ |editor3-first = Jytte
+ |editor4-last  = Nip
+ |editor4-first = Wai-Kit
+ |editor5-last  = Stanfield
+ |editor5-first = Peggy S.
+ |date          = 2004
+ |publisher     = CRC Press
+ |isbn          = 978-0-8247-5122-7
+ |access-date   = 2 January 2023
+|archive-date  = 2 January 2023
+|archive-url   = https://web.archive.org/web/20230102035819/https://books.google.com/books?id=PC_O7u1NPZEC&q=rebounded%2520to%2520optimally
+ |url-status    = live
+}}</ref>{{rp|740–741, 751}} who cited Lee et al. (1960)<!--Table 9 on page 741 says that the source of the data table is "Ref. 77" at the bottom of the data table. Reference 77 on page 751 is the Lee et al. (1960) source.-->
+|}
+{| class="wikitable"
+|+General components of kimchi (per 100g of edible portion)
+|-
+!Components||[[Baechu-kimchi]]||[[Kkakdugi|Kaktugi]]||[[Gat-kimchi]]||[[Pa-kimchi]]||[[Baek-kimchi]]||[[Yeolmu-kimchi]]||[[Dongchimi]]||[[Nabak-kimchi]]
+|-
+![[Calorie]] (kcal)
+|18||33||41||52||8||38||11||9
+|-
+![[Moisture]] (%)
+|90.8||88.4||83.2||80.7||95.7||84.5||94.2||95.1
+|-
+!Crude [[Protein (nutrient)|protein]] (g)
+|2||1.6||3.9||3.4||0.7||3.1||0.7||0.8
+|-
+!Crude [[lipid]] (g)
+|0.5||0.3||0.9||0.8||0.1||0.6||0.1||0.1
+|-
+!Crude [[Ash (analytical chemistry)|ash]] (g)
+|2.8||2.3||3.5||3.3||1.5||3.2||2||1.5
+|-
+![[Carbohydrate]] (g)
+|3.9||7.4||8.5||11.8||2||8.6||3||2.5
+|-
+![[Dietary fiber]] (g)
+|3||2.8||4||5.1||1.4||3.3||0.8||1.5
+|- class="sortbottom"
+|style="background-color: lightgray;" colspan="10" |
+|- class="sortbottom"
+|colspan="10" style="text-align: center" |Source: Tamang (2015)<ref name="Tamang" /> who cited Lee (2006)<!--This data table is at the bottom of page 350.-->
+|}
+{| class="wikitable"
+|+ Vitamin content of kimchi (per 100g of edible portion)
+|-
+!Vitamins||[[Baechu-kimchi]]||[[Kkakdugi|Kaktugi]]||[[Gat-kimchi]]||[[Pa-kimchi]]||[[Baek-kimchi]]||[[Yeolmu-kimchi]]||[[Dongchimi]]||[[Nabak-kimchi]]
+|-
+![[Vitamin A]] (RE)
+|48||38||390||352||9||595||15||77
+|-
+![[Vitamin A]]<br />([[beta-Carotene|β-carotene]]) (μg)
+|290||226||2342||2109||53||3573||88||460
+|-
+![[Thiamine|Vitamin B<sub>1</sub>]] (mg)
+|0.06||0.14||0.15||0.14||0.03||0.15||0.02||0.03
+|-
+![[Riboflavin|Vitamin B<sub>2</sub>]] (mg)
+|0.06||0.05||0.14||0.14||0.02||0.29||0.02||0.06
+|-
+![[Niacin (substance)|Niacin]] (mg)
+|0.8||0.5||1.3||0.9||0.3||0.6||0.2||0.5
+|-
+![[Vitamin C]] (mg)
+|14||19||48||19||10||28||9||10
+|-
+![[Vitamin B6|Vitamin B<sub>6</sub>]] (mg)
+|0.19||0.13|| || || || || ||
+|-
+![[Folic acid]] (μg)
+|43.3||58.9||74.8|| || || || ||
+|-
+![[Vitamin E]] (mg)
+|0.7||0.2||1.3|| || || || ||
+|- class="sortbottom"
+|colspan="10" |Not detected: [[vitamin A]] ([[retinol]]), [[pantothenic acid]], [[Vitamin B12|vitamin B<sub>12</sub>]], [[vitamin K]]<!--This information appears directly underneath the source information which is underneath the borders of the data table on page 351.-->
+|- class="sortbottom"
+|style="background-color: lightgray;" colspan="10" |
+|- class="sortbottom"
+|colspan="10" style="text-align: center" |Source: Tamang (2015)<ref name="Tamang" /> who cited Lee (2006)<!--This data table is at the bottom of page 351.-->
+|}
+
+A 2003 article said that South Koreans consume 18kg (40lbs) of kimchi per person annually.<ref name=LAT>{{Cite news | url=https://www.latimes.com/archives/la-xpm-2003-jun-17-et-magnier17-story.html | work=[[Los Angeles Times]] | title=In an Age of SARS, Koreans Tout Kimchi Cure | author=Magnier, Mark | date=17 June 2003 | access-date=7 May 2010 | archive-date=27 February 2010 | archive-url=https://web.archive.org/web/20100227102302/http://articles.latimes.com/2003/jun/17/entertainment/et-magnier17 | url-status=live }}</ref> Many credit the [[Korean Miracle]] in part to eating the dish.{{r|Choe}} Adult Koreans eat from {{convert|50|g|lb}} to {{convert|200|g|lb}} of kimchi a day.<!--This information is in the first sentence of the last paragraph of page 344. The 2015 book cites a 2011 source for that statement as indicated by the source text's inclusion of "Current of the Kimchi Industry, 2011" in parenthesis at the end of that sentence.--><ref name="Tamang">{{Cite book|last=Tamang|first=Jyoti Prakash|url=https://books.google.com/books?id=RJC9BwAAQBAJ&q=typical%2520adult%2520Korean|title=Health Benefits of Fermented Foods and Beverages|date=2015|publisher=CRC Press|isbn=978-1-4665-8810-3|pages=344, 350–351|access-date=2 January 2023|archive-date=2 January 2023|archive-url=https://web.archive.org/web/20230102035820/https://books.google.com/books?id=RJC9BwAAQBAJ&q=typical%2520adult%2520Korean|url-status=live}}</ref>
+
+==Trade==
+South Korea spent around $129 million in 2017 to purchase 275,000 metric tons of foreign kimchi, more than 11 times the amount it exported, according to data released by the Korea Customs Service in 2017.<ref name="auto">{{cite news|last1=Huang|first1=Echo|title=The kimchi you eat outside of Korea is probably made in China|url=https://qz.com/1183632/the-kimchi-you-eat-outside-of-korea-is-probably-made-in-china/|access-date=19 January 2018|work=[[Quartz (publication)|Quartz]]|date=19 January 2018|archive-date=19 January 2018|archive-url=https://web.archive.org/web/20180119125620/https://qz.com/1183632/the-kimchi-you-eat-outside-of-korea-is-probably-made-in-china/|url-status=live}}</ref> South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.<ref>{{Cite news|title=Half of kimchi served at South Korean restaurants from China: Institute|url=https://www.thejakartapost.com/life/2017/10/06/half-of-kimchi-served-at-south-korean-restaurants-from-china-institute.html|date=6 October 2017|publisher=The Jakarta Post|language=en|access-date=10 May 2020|archive-date=17 June 2020|archive-url=https://web.archive.org/web/20200617165923/https://www.thejakartapost.com/life/2017/10/06/half-of-kimchi-served-at-south-korean-restaurants-from-china-institute.html|url-status=live}}</ref> It imports a significant fraction of that, mostly from China, and runs a $47.3 million kimchi trade deficit.<ref name="auto"/>
+
+{|class="wikitable sortable" style="text-align:right;"
+|+Import and export of kimchi<ref>{{cite web |title=수출입통계 – 품목별 수출입실적 |trans-title=Import and export statistics – 품목별 수출입실적 (Import and export performance by item): Item code=20 05 99 1000 |publisher=Korea Customs Service |url=https://unipass.customs.go.kr/ets/index.do |access-date=15 February 2021 |archive-date=22 January 2021 |archive-url=https://web.archive.org/web/20210122161150/https://unipass.customs.go.kr/ets/index.do |url-status=live }}</ref>
+!rowspan=2|Year!!colspan=2|Volume (tons)!!colspan=3|Value (thousand USD)
+|-
+!Export!!Import!!Export!!Import!!Surplus
+|-
+|2022 || 41,121 || 263,435 || 140,823 || 169,400 ||style="color:red;"| -28,577
+|-
+|2021 || 42,540 || 240,606 || 159,915 || 140,742 || 19,173
+|-
+|2020 || 39,748 || 281,187 || 144,511 || 152,426 ||style="color:red;"| −7,915
+|-
+|2019 || 29,628 || 306,050 || 104,992 || 130,911 || style="color:red;"|−25,919
+|-
+|2018 || 28,197 || 290,742 || 97,456 || 138,215 ||style="color:red;"| −40,759
+|-
+|2017 || 24,311 || 275,631 || 81,393 || 128,679 ||style="color:red;"| −47,286
+|-
+|2016 || 23,490 || 253,432 || 78,900 || 121,485 ||style="color:red;"| −42,585
+|-
+|2015 || 23,111 || 224,124 || 73,543 || 113,237 ||style="color:red;"| −39,694
+|-
+|2014 || 24,742 || 212,938 || 84,033 || 104,396 ||style="color:red;"| −20,363
+|-
+|2013 || 25,631 || 220,218 || 89277 || 117,431 ||style="color:red;"| −28,154
+|-
+|2012 || 27,664 || 218,845 || 106,608 || 110,842 ||style="color:red;"| −4,234
+|-
+|2011 || 27,429 || 230,078 || 104,577 || 120,874 ||style="color:red;"| −16,297
+|-
+|2010 || 29,672 || 192,936 || 98,360 || 102,019 ||style="color:red;"| −3,659
+|}
+
+== Consumption ==
+In 2021, Koreans collectively consumed 1,965,000 tons of Kimchi, with average Korean consuming 88.3 grams of Kimchi daily. This average has been steadily declining from 109.9 grams per day in 2010, marking a 19.6% decrease. Males tend to consume more Kimchi than females, with an average of 106.6 grams compared to 70.0 grams.<ref>{{Cite web |title=Document Viewer |url=https://www.wikim.re.kr/viewer/doc.html?fn=202302281031502431.pdf&rs=/upload/synap_convert/202310/ |access-date=2 October 2023 |website=www.wikim.re.kr |archive-date=4 October 2023 |archive-url=https://web.archive.org/web/20231004050402/https://www.wikim.re.kr/viewer/doc.html?fn=202302281031502431.pdf&rs=/upload/synap_convert/202310/ |url-status=live }}</ref>
+{| class="wikitable"
+|+Average Kimchi Consumption (grams per day)
+!Year
+!Total
+!Male
+!Female
+|-
+|2010
+|109.9
+|129.0
+|90.8
+|-
+|2015
+|96.3
+|115.1
+|77.6
+|-
+|2020
+|88.3
+|106.6
+|70.0
+|-
+|[[Compound annual growth rate|CAGR]]
+| −2.16%
+| −1.89%
+| −2.57%
+|}
+
+== Food regulations ==
+The [[Canadian Food Inspection Agency]] has regulations for the commercial production of kimchi. The final product should have a pH ranging from 4.2 to 4.5.<ref name=":4">{{cite book|chapter-url=http://www.inspection.gc.ca/food/archived-food-guidance/processed-products/manuals/establishment-inspection-manual/eng/1346352547319/1346424966018?chap=9#task5504|title=Processed Products Establishment Inspection Manual|last=|first=|publisher=Canadian Food Inspection Agency|isbn=|location=|pages=|chapter=Chapter 5 - Process Products|date=30 August 2012|access-date=8 August 2019|archive-date=30 January 2019|archive-url=https://web.archive.org/web/20190130210521/http://www.inspection.gc.ca/food/archived-food-guidance/processed-products/manuals/establishment-inspection-manual/eng/1346352547319/1346424966018?chap=9#task5504}}</ref> Any low-acidity ingredients with a pH above 4.6, including white daikon and napa cabbage, should not be left under conditions that enable the growth of undesirable microorganisms and require a written illustration of the procedure designed to ensure this is available if requested.<ref name=":4" /> This procedural design should include steps that maintain sterility of the equipment and products used, and the details of all sterilization processes.<ref name=":4" /> The cutoff pH of 4.6 is a value common to many food safety regulations, initially defined because [[botulism toxin]] is not produced below this level.<ref>{{cite web|first=J. Peter|last=Clark|url=https://www.ift.org/news-and-publications/food-technology-magazine/issues/2014/july/columns/processing|title=The Basics About Acid Levels in Food|work=Food Technology Magazine|publisher=Institute of Food Technology|date=2014|access-date=22 November 2022|archive-date=22 November 2022|archive-url=https://web.archive.org/web/20221122171337/https://www.ift.org/news-and-publications/food-technology-magazine/issues/2014/july/columns/processing|url-status=live}}</ref>
+
+==Gallery==
+<gallery mode="packed">
+File:Korean cuisine-Gimjang-Preparation for making kimchi-01.jpg|Preparation for making kimchi
+File:Korean cuisine-Seongnyu kimchi-Pomegranate kimchi-01.jpg|''Seokryu kimchi'' named after its pomegranate-like shape
+File:Koren cuisine-Jang kimchi-Pickled with soy sauce-01.jpg|''Jang kimchi'', pickled with soy sauce
+File:Korean food-Packed kimchi-01.jpg|Displayed manufactured kimchi
+File:Oi-sobagi.jpg|''Oi-sobagi'' (cucumber kimchi)
+File:Bok choy green kimchi.jpg|Homemade green kimchi, made with [[bok choy]] with a green onion and garlic scape-based chili paste
+</gallery>
+
+==See also==
+* {{annotated link|World Institute of Kimchi}}
+* {{annotated link|Foods containing tyramine}}
+* {{annotated link|Jangajji}}
+* {{annotated link|Jeotgal}}
+* {{annotated link|Kimchi burger}}
+* {{annotated link|Korean radish}}
+* {{annotated link|Korean brining salt}}
+* {{annotated link|Morkovcha}} – a variety of kimchi made of carrots by [[Koryo-saram]]
+* {{annotated link|List of cabbage dishes}}
+* {{annotated link|List of English words of Korean origin}}
+* {{annotated link|List of pickled foods}}
+* {{annotated link|Pao cai}}.
+* {{annotated link|Sauerkraut}}
+* {{annotated link|Torshi|aka=Tursu}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{Cite book |url=https://books.google.com/books?id=dVpQVJ46C5gC&q=kimchi&pg=PA192 |title=Handbook of Vegetable Preservation and Processing |publisher=[[CRC Press]] |access-date=18 May 2008 |isbn=978-0-8247-4301-7 |pages=189–222 |author1=Park, Kun-Young |author2=Cheigh, Hong-Sik |year=2003}}
+*{{Cite book |url=https://archive.org/details/understandingglo0003gann |url-access=registration |quote=kimchi. |title=Understanding Global Cultures |publisher=[[SAGE Publications]] |access-date=18 May 2008 |isbn=978-0-7619-2980-2 |pages=[https://archive.org/details/understandingglo0003gann/page/123 123]–130 |author=Gannon, Martin J. |year=2004}}
+*{{Cite journal |last1=Park |first1=Sung Hoon |last2=Lee |first2=Chang Hyeon |date=2023 |title=Evaluation of Accuracy and Adequacy of Kimchi Information in Major Foreign Online Encyclopedias |url=http://koreascience.or.kr/article/JAKO202328943242969.page |journal=Journal of the Korean Society of Food Culture |volume=38 |issue=4 |pages=203–216 |doi=10.7318/KJFC/2023.38.4.203 |issn=1225-7060 |language=ko}}
+
+{{cookbook}}
+{{Commons}}
+{{Kimchi}}
+{{Korean food and drink}}
+{{National symbols of North Korea}}
+{{Authority control}}
+{{Portal bar|Korea|Food}}
+
+[[Category:Kimchi| ]]
+[[Category:Banchan]]
+[[Category:Brassica dishes]]
+[[Category:Cabbage dishes]]
+[[Category:Korean cuisine]]
+[[Category:National dishes]]
+[[Category:Fermented foods]]

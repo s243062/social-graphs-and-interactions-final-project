@@ -1,0 +1,52 @@
+{{Short description|Baked cheese pasta dish}}{{Infobox prepared food
+| name               = Käsespätzle
+| image              = Berggasthof Haldenhof - Käsknöpfle (1).jpg
+| image_size         = 250px
+| caption            = 
+| alternate_name     = ''Käsknöpfle'' <br> ''Kasspatzl''
+| country            = [[Germany]]
+| region             = [[Swabia]]
+| creator            = 
+| course             = 
+| type               = [[Noodles]]
+| served             = 
+| main_ingredient    = [[Spätzle]], [[cheese]], [[onion]]s
+| variations         = 
+| calories           = 
+| other              = 
+}}
+
+'''Käsespätzle''' (German for "spätzle with cheese", also called ''Käsknöpfle'' in [[Vorarlberg]] and [[Liechtenstein]] or ''Kasspatzl'' in [[Tyrol]], [[Austria]] and [[Bavaria]]) is a traditional dish of the [[Germany|German]] regions of [[Swabian cuisine|Swabia]], [[Baden cuisine|Baden]] and [[Allgäu]], and also in the Austrian regions Vorarlberg and Tyrol, as well as [[Liechtenstein]] and [[Switzerland]].
+
+== Preparation ==
+Hot [[spätzle]] and grated cheese such as [[Emmentaler]] or [[granular cheese]] are layered alternately and finally topped with [[fried onions]]. After adding each layer, the {{lang|de|käsespätzle}} is baked until all the cheese is melted.{{cn|date=August 2025}}
+
+Accompanying side dishes are green [[salad]]s or [[potato salad]]. In some parts of [[Vorarlberg]] and also [[Liechtenstein]] {{lang|de|käsespätzle}} is usually served with [[apple sauce]]. Leftovers of käsespätzle can be pan-fried with butter.{{cn|date=August 2025}}
+
+== Regional specialities ==
+[[File:2015 0718 Käsespätzle Sölden.jpg|thumb|250px|left|Käsespätzle in a pan with roasted onions and chives as topping]]
+In Tyrol, käsespätzle are prepared with [[Bergkäse]] or [[Emmental cheese]], optionally with both. In [[Vorarlberg]] two different cheese varieties are dominating, so in [[Montafon]] the cooks use Montafon sour cheese and in [[Bregenz Forest]] they use Bergkäse and Räßkäse, a local hard cheese.<ref>''Haubenküche zum Beisl-Preis. 5-Euro-Rezepte von Österreichs besten Köchen.'' page 130: Vorarlberger Käsespätzle; Krenn, Wien 2005, {{ISBN|3-902351-67-5}}.</ref>
+
+Side dishes in Vorarlberg are butter and yellowly tarnished onion rings.<ref>Franz Maier-Bruck: Das große Sacher-Kochbuch, Schuler Verlags GesmbH, Herrsching, licensed edition 1975, page 397 {{ISBN|3-88199-388-6}} </ref>
+
+Different variations are found with [[Limburger]], [[Weisslacker]] or Vorarlberger Bergkäse.
+
+== Variations ==
+A variation of {{lang|de|käsespätzle}} is {{lang|de|Kasnocken}} or {{lang|de|Kasnockn}} from [[Salzburg (federal state)|Salzburg]]<ref>{{cite web| author= Ulli Hammerl| title = Rezept Pinzgauer Kasnockn| work = SalzburgerLand Magazin| date = 17 January 2012| url = https://www.salzburgerland.com/de/magazin/rezepttipp-pinzgauer-kasnockn/| accessdate = 2016-12-09}}</ref> and [[Obersteiermark]], both parts of Austria and are pan-fried instead. Grated cheese and [[spätzle]], freshly scraped from a board, are mixed together and are heated in a pan.
+
+==See also==
+* [[List of cheese dishes]]
+
+==References==
+{{reflist}}
+[[Category:Cheese dishes]]
+[[Category:Austrian cuisine]]
+[[Category:German cuisine]]
+[[Category:Liechtenstein cuisine]]
+[[Category:Swiss cuisine]]
+[[Category:Swabian cuisine]]
+[[Category:Noodle dishes]]
+[[Category:National dishes]]
+{{Austria-cuisine-stub}}
+{{Germany-cuisine-stub}}
+{{Switzerland-cuisine-stub}}

@@ -1,0 +1,75 @@
+{{Short description|Georgian cheese-filled bread}}
+{{Use dmy dates|date=September 2023}}{{Infobox food
+| name               = Khachapuri
+| image              = Old Tbilisi, Georgian khachapuri, Georgia.jpg
+| image_size         = 250px
+| caption            = [[Mingrelia]]n khachapuri, one of many regional varieties of the dish
+| country            = [[Georgia (country)|Georgia]]
+| region             = [[South Caucasus]]
+| creator            = 
+| course             = [[Pastry]] / filled pastry
+| type               = [[Pie]]
+| served             = hot
+| main_ingredient    = [[Cheese]], [[Egg (food)|eggs]], [[flour]]
+| variations         = open, closed
+| calories           = 
+| other              = 
+}}
+
+'''Khachapuri''' ({{lang-ka|ხაჭაპური|tr}} {{IPA|ka|ˈχatʃʼapʼuɾi||Khachapuri.ogg}} from {{Lang|ka|ხაჭო}} {{transliteration|ka|khachʼo}} {{IPA|ka|ˈχat͡ʃʼo|}} 'curd' + {{lang|ka|პური}} {{transliteration|ka|pʼuri}} {{IPA|ka|ˈpʼuri|}} 'bread') is a traditional [[Georgian cuisine|Georgian dish]] of cheese-filled bread. The bread is [[Bread#Leavening|leavened]] and allowed to rise, molded into various shapes, and then filled in the center with a mixture of cheese (fresh or aged, most commonly, specialized khachapuri cheese), and sometimes eggs or other ingredients.<ref>{{cite book|last=Goldstein|first=Darra|title=The Georgian feast: the vibrant culture and savory food of the Republic of Georgia|publisher=University of California Press|pages=136–139|isbn=0-520-21929-5|url=https://books.google.com/books?id=3PM_FnWgPBAC|year=1999}}</ref>
+
+It is popular in Georgia, both in restaurants and as street food. As a Georgian staple food, the price of making khachapuri is used as a measure of inflation in different Georgian cities by the "khachapuri index", developed by the International School of Economics at [[Tbilisi State University]].<ref>{{cite news|url=http://www.investor.ge/issues/2010_2/02.htm |title=Tracking monetary policy one big mac – and one khachapuri – at a time |last=Svensson |first=Therese |date=April–May 2010 |work=Investor.ge |publisher=American Chamber of Commerce |access-date=29 April 2010 |url-status=dead |archive-url=https://web.archive.org/web/20111007010149/http://www.investor.ge/issues/2010_2/02.htm |archive-date= 7 October 2011 }}</ref><ref>{{cite web|url=http://www.iset-pi.ge/index.php?article_id=715 |title=Khachapuri Index Project|publisher=International School of Economics at Tbilisi State University|access-date=29 April 2010}}</ref> It is Georgia's [[national dish]], included in the list of the [[intangible cultural heritage of Georgia]].<ref>Jones, A. [http://georgiatoday.ge/news/14205/Khachapuri-Granted-Cultural-Heritage-Status Khachapuri Granted Cultural Heritage Status] {{Webarchive|url=https://web.archive.org/web/20190703205551/http://georgiatoday.ge/news/14205/Khachapuri-Granted-Cultural-Heritage-Status |date=2019-07-03 }} Georgia Today, 2019</ref><ref>{{Cite web |last=Jones |first=Amy |date=2019-01-24 |title=Khachapuri Granted Cultural Heritage Status |url=http://georgiatoday.ge/news/14205/Khachapuri-Granted-Cultural-Heritage-Status |url-status=dead |archive-url=https://web.archive.org/web/20190703205551/http://georgiatoday.ge/news/14205/Khachapuri-Granted-Cultural-Heritage-Status |archive-date=2019-07-03 |website=Georgia Today}}</ref> On the behalf and initiative of the Gastronomic Association of Georgia, the 27th of February was announced as National Khachapuri Day, to celebrate Georgia's signature pastry as well as to promote its recognition internationally.
+The khachapuri is served hot from the oven, otherwise it loses the taste of its unique cheese mixture and becomes bitter.
+
+== Etymology ==
+ხაჭო is borrowed from Abkhazian ''а-хаҷа'',<ref>https://en.wiktionary.org/w/index.php?title=ხაჭოჲ&oldid=84861071#Etymology</ref> and პური is of Ancient Greek origin.<ref>https://en.wiktionary.org/w/index.php?title=პური&oldid=85067902#Etymology</ref>
+
+== History ==
+Specialists are divided regarding the chronology of khachapuri. According to Darra Goldstein, who wrote the book ''The Georgian Feast'' about the dish, khachapuri probably dates back to the 12th century when Georgia experienced a [[Georgian Golden Age|period of renaissance]], but its specific root remains unclear.<ref>{{cite web |date=2018-04-27 |title=Georgian cheese boat Adjaruli Khachapuri - New York Essential Dish |url=https://georgianjournal.ge/georgian-cuisine/34443-georgian-cheese-boat-adjaruli-khachapuri-new-york-essential-dish.html |url-status=live |archive-url=https://web.archive.org/web/20221128024206/https://georgianjournal.ge/georgian-cuisine/34443-georgian-cheese-boat-adjaruli-khachapuri-new-york-essential-dish.html |archive-date=2022-11-28 |access-date=2023-09-03 |website=Georgian Journal}}</ref> Dali Tsatava, former professor at the Georgian Culinary Academy, suggested that khachapuri could be a "cousin of the [[pizza]]" as the concept of the dish might have been brought by Roman soldiers who crossed Europe, well before the addition of tomatoes in the 16th century.<ref>{{Cite web |last=Eva |date=2019-04-05 |title=Khachapuri, Georgian cheese bread |url=https://bake-street.com/en/khachapuri-georgian-cheese-bread/ |url-status=live |archive-url=https://web.archive.org/web/20230324002404/https://bake-street.com/en/khachapuri-georgian-cheese-bread/ |archive-date=2023-03-24 |access-date=2023-02-22 |website=Bake-Street}}</ref>
+
+== Types ==
+[[File:Good tasty delicious dish Adjara 2021.jpg|thumb|Adjarian khachapuri]]
+There are several distinctive types of khachapuri from different regions of Georgia:<ref>{{Cite web | url=https://www.georgia-tours.eu/complete-guide-to-khachapuri/ |title = Complete guide to Khachapuri 11 varieties you didn’t know |date = 2025-10-06}}</ref>
+* [[Imereti]]an (Imeruli) khachapuri is the most popular form, made with a yeast dough filled with white Imeretian salted cheese.<ref>{{Cite web | url=https://georgiaabout.com/2012/07/27/about-food-imeruli-imeretian-khachapuri/ |title = About Food – Imeruli (Imeretian Khachapuri)|date = 2012-07-27}}</ref>
+* [[Adjara|Adjarian]] (Acharuli/Adjaruli), named for Adjara, a region of Georgia on the Black Sea, is a boat-shaped khachapuri, with cheese, butter, and an egg yolk in the middle. Traditionally, tangy imeruli and [[sulguni]] cheeses are used.
+* [[Mingrelia|Megrelian]] khachapuri (Megruli) is similar to Imeretian, but has more cheese added on top.
+* Achma, from [[Abkhazia]], has multiple layers and resembles a sauceless [[lasagna]].
+* [[Guria]]n (Guruli) khachapuri has chopped boiled eggs inside and looks like a crescent-shaped [[calzone]]. Gurians make them for Christmas and call them simply "Christmas pie." In the rest of Georgia, it is called "Gurian pie."
+* [[Ossetia]]n (Osuri) khachapuri has potato and cheese as its filling. It is commonly called khabizgini.
+* [[Svaneti|Svanuri]] lemzira
+* [[Racha|Rachuli]] khachapuri
+* [[Samtskhe–Javakheti]]an penovani khachapuri is made with cheese-filled puff pastry dough, resulting in a flaky variety of the pie.
+
+== Outside Georgia ==
+Khachapuri is popular in the [[post-Soviet states]], including [[Russia]].<ref>{{cite news|last=Mosolova|first=Tanya|title=What Is It? : Georgian Cheese Pies Come in Many Varieties|url=http://www.themoscowtimes.com/sitemap/free/1998/4/article/what-is-it--georgian-cheese-pies-come-in-many-varieties/292282.html|work=[[The Moscow Times]]|date=15 April 1998|quote=One of the indispensable dishes of a celebratory meal in Georgia, khachapuri, has become very popular in Russia as well.|access-date=16 November 2014|archive-date=13 July 2015|archive-url=https://web.archive.org/web/20150713032452/http://www.themoscowtimes.com/sitemap/free/1998/4/article/what-is-it--georgian-cheese-pies-come-in-many-varieties/292282.html|url-status=dead}}</ref><ref>{{cite web|last1=Bryant|first1=Jordan|title=Хачапури: The Big Cheese!|url=http://www.sras.org/khachapuri|website=sras.org|publisher=School of Russian and Asian Studies|archive-url=https://web.archive.org/web/20141118203551/http://www.sras.org/khachapuri|archive-date=18 November 2014|location=Woodside, CA|date=2 March 2013}}</ref> It was reported that 175,000 khachapuris were consumed during the [[2014 Winter Olympics]] in Sochi.<ref>{{cite news|script-title=ru:В Сочи гости Олимпиады съели 175 тысяч хачапури и 34 тонны шашлыка|url=http://www.kuban.aif.ru/society/1112160|work=[[Argumenty i Fakty]]|date=24 February 2014|language=ru|trans-title=In Sochi, Olympic guests ate 175 thousand khachapuris and 34 tons of shashlik.}}</ref> Khachapuri is a popular [[street food]] in [[Armenia]], where it is widely served in restaurants and school cafeterias.<ref>{{cite news |last=Grigoryan |first=Hasmik |newspaper=«Ազատ Եվրոպա/Ազատություն» Ռադիոկայան |date=7 August 2011 |script-title=hy:Ի՞նչ է մատուցվում այսօր դպրոցների բուֆետներում|trans-title=What is being served today in school cafeterias? |language=hy |agency=[[Radio Free Europe/Radio Liberty]] Armenian Service |url=http://www.azatutyun.mobi/a/24352461.html |script-quote=hy:"...վաճառվում են հիմնականում բուլկեղեն, խաչապուրի, կարկանդակ, հոթ դոգ ու նույնիսկ մաստակ ու չիպսեր:"|trans-quote=...mainly buns, khachapuri, pirozhki, hot dogs and even chewing gum and chips are sold.}}</ref> It has become increasingly popular as a [[brunch]] food in [[Israel]], where it was brought over by [[History of the Jews in Georgia|Georgian Jews]]<ref>{{cite news |last1=Norris |first1=Anna |date=3 July 2014 |title=10 mouthwatering dishes of Israel you should really try |url=http://www.fromthegrapevine.com/food/10-israeli-dishes-try |archive-url=https://web.archive.org/web/20140729140333/http://www.fromthegrapevine.com/food/10-israeli-dishes-try |archive-date=29 July 2014 |publisher=From The Grapevine |access-date=18 November 2014 |url-status=live }}</ref> and is spreading to other parts of the world, like the [[United States]].<ref>[https://sfstandard.com/2023/01/19/sfs-only-georgian-restaurant-is-a-love-letter-written-on-cheesy-bread/ SF’s Only Georgian Restaurant Is a Love Letter Written on Cheesy Bread], [[San Francisco Standard]], Jan. 19, 2023</ref>
+
+== See also ==
+* [[Banitsa]]
+* [[Burek]]
+* [[Chepalgash]]
+* [[Cornish pasty]]
+* [[Vatrushka]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wiktionary}}
+* [https://www.georgianjournal.ge/georgian-cuisine/34580-khachapuri-revolution-53-varieties-of-cheese-bread-discovered-in-georgia.html Revolution of khachapuri]
+* [http://www.recipesource.com/baked-goods/breads/02/rec0276.html Recipe at RecipeSource]
+* [https://cooking.nytimes.com/recipes/4666-khachapuri-georgian-cheese-bread Recipe at New York Times]
+* {{cite web|url=http://www.bbc.com/travel/story/20171120-georgias-addictive-cousin-to-pizza|title=Georgia's addictive cousin to pizza?|date=21 November 2017|work=bbc.com|publisher=[[BBC]]|access-date=23 November 2017}}
+* {{cite web|url=https://www.saveur.com/khachapuri-style-guide/|title=A Field Guide to Khachapuri, the Indomitable Cheese Bread of Georgia|date=14 March 2017|work=saveur.com|publisher=[[Saveur]]|access-date=14 March 2017}}
+
+{{Cheese dishes}}
+{{Flatbreads}}
+{{Street food}}
+
+[[Category:Cheese dishes]]
+[[Category:Georgian cuisine]]
+[[Category:Cuisine of New York City]]
+[[Category:Flatbread dishes]]
+[[Category:Georgian products with protected designation of origin]]
+[[Category:National dishes]]
+[[Category:Savoury pies]]
+[[Category:Street food]]

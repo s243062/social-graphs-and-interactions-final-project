@@ -1,0 +1,107 @@
+{{short description|Japanese soup flavored with miso}}
+{{Infobox food
+| name             = Miso soup
+| image            = Miso Soup 001.jpg
+| image_size       = 300px
+| caption          = Miso soup with [[tofu]] and ''[[wakame]]''
+| alternate_name   = 
+| country          = [[Japan]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Soup]]
+| served           = Hot
+| main_ingredient  = ''[[Dashi]]'' [[Stock (food)|stock]], [[miso]] paste
+| variations       = 
+| calories         = 
+| similar_dish     = ''[[Doenjang-guk]]'', ''[[doenjang-jjigae]]''
+| other            = 
+}}
+
+{{nihongo|'''Miso soup'''|味噌汁 or お味噌汁|miso-shiru or omiso-shiru|お-/o- being [[Japanese honorifics|honorific]]}} is a traditional [[Japan|Japanese]] [[soup]] consisting of [[miso]] in a ''[[dashi]]'' [[Stock (food)|stock]]. It is commonly served as part of an {{Nihongo||一汁三菜|[[ichijū-sansai]]}} meal 'one soup, three dishes' consisting of rice, soup, and side dishes.<ref>{{Cite book |last=Tsuji |first=Shizuo |title=Japanese Cooking: A Simple Art |date=17 February 2012 |publisher=Vertical |isbn=978-1-56836-388-2}}</ref> Optional ingredients based on region and season may be added, such as ''[[wakame]]'', [[tofu]], ''[[Allium fistulosum|negi]]'', ''[[abura-age]]'', and [[mushrooms]]. Along with ''[[suimono]]'' (clear soups), miso soup is one of the two basic soup types of [[Japanese cuisine]].<ref>{{cite book |last1=Sakai |first1=Sonoko |title=Japanese Home Cooking: Simple Meals, Authentic Flavors |date=19 November 2019 |publisher=Roost Books |page=118 |isbn=9780834842489 |url=https://books.google.com/books?id=xWusDwAAQBAJ&q=Miso+suimono+soup+basic&pg=PA118}}</ref> It is a representative of soup dishes served with rice.
+
+Miso soup is also called {{Nihongo|'''''omiotsuke'''''|御御御付}} in some parts of Japan, especially around [[Tokyo]].
+
+== Miso ==
+{{Main|Miso}}
+[[File:Miso 001.jpg|thumb|left|[[Miso]] is added to water or broth to make miso soup.]]
+The type of miso chosen for the soup defines a great deal of its character and flavor. Miso is a Japanese seasoning produced by fermenting soybeans with salt and the fungus ''[[Aspergillus oryzae]]'', known in Japanese as ''[[:ja:麹|kōjikin]]'' (麹菌), and sometimes rice, barley, or other ingredients. It can be categorized as red (''akamiso''), white (''shiromiso''), or mixed (''awase'').<ref>{{Cite web|url=https://www.huffpost.com/entry/miso-paste_n_571e54ede4b0d0042da9e115|title=What Is Miso Paste, Anyway, And How Do I Use It? Help!|date=2016-04-26|website=HuffPost|language=en|access-date=2018-12-14|archive-date=2018-12-14|archive-url=https://web.archive.org/web/20181214164406/https://www.huffpost.com/entry/miso-paste_n_571e54ede4b0d0042da9e115|url-status=live}}</ref> There are many variations, including regional variations such as [[Shinano Province|Shinshū]] miso or [[:ja:仙台味噌|Sendai miso]].
+
+The fermentation time affects the flavor: short fermentation, as for white miso, provides a lighter, sweeter flavor, while longer fermentation, as for red miso, gives the miso soup a stronger, deeper flavor.<ref>{{Cite web|url=https://www.bonappetit.com/story/how-to-use-miso|title=5 Ways to Use Miso That Don't Involve Soup|last=Delany|first=Alex|website=Bon Appetit|date=27 March 2018 |language=en|access-date=2018-12-14|archive-date=2018-12-14|archive-url=https://web.archive.org/web/20181214165725/https://www.bonappetit.com/story/how-to-use-miso|url-status=live}}</ref>
+
+More than 80% of Japan's annual production of miso is used in miso soup, and 75% of all Japanese people consume miso soup at least once a day.<ref>{{cite book |last1=Shurtleff |first1=William|author-link=William Shurtleff|last2=Aoyagi |first2=Akiko|author-link2=Akiko Aoyagi  |date=2001 |title=The Book of Tofu & Miso |publisher=Ten Speed Press |isbn=1-58008-358-7 }}</ref>
+
+== Stock ==
+{{Main|Dashi}}
+[[File:Villorita cyprinoides 004 Black clam miso soup in a Japanese restaurant in Tokyo.JPG|thumb|Miso soup with ''[[Shijimi (clam)|shijimi]]'' clams]]
+The most common ''dashi'' stocks for miso soup are made of ''[[niboshi]]'' (dried baby [[Sardines as food|sardines]]), [[kombu]] (dried [[kelp]]), ''[[katsuobushi]]'' (thin shavings of fermented, dried, and smoked [[bonito]]), or ''hoshi-shiitake'' (dried [[shiitake]]). The kombu can also be used with ''katsuobushi'' or ''hoshi-shiitake''. Kelp or shiitake ''dashi'' give a vegetarian soup stock.<ref>{{Cite web|url=https://www.thekitchn.com/how-to-make-miso-soup-cooking-lessons-from-the-kitchn-13786|title=How To Make Miso Soup|website=Kitchn|language=en|access-date=2018-12-14|archive-date=2018-12-14|archive-url=https://web.archive.org/web/20181214213936/https://www.thekitchn.com/how-to-make-miso-soup-cooking-lessons-from-the-kitchn-13786|url-status=live}}</ref>
+
+When the soup includes clams such as ''[[Venerupis philippinarum|asari]], ''[[Corbicula japonica|shijimi]], or ''[[Meretrix lusoria|hamaguri]]'', prepared dashi is often not used.
+
+Outside Japan, American or European style miso soup is sometimes made by dissolving miso in a Western vegetable stock. It can also be made with chicken broth. The stock might include ingredients such as ''[[Allium fistulosum|negi]]'', [[carrot]], [[potato]] and ''[[daikon]]'' radish. In some versions of the dish, chicken stock, Western-style fish stock, and other non-''dashi'' bases can even be used, but there is some debate over whether or not miso soups made using these non-traditional bases count as true miso soup.{{Citation needed|date=July 2025}}
+
+== Other ingredients ==
+{{unsourcedsection|date=February 2025}}
+[[File:NGO Nishi Machikado-ya Chichibudori Tonjiru 20220927-05.jpg|thumb|250px|''[[Tonjiru]]'' style miso soup with ''[[Allium fistulosum|negi]]'']]
+According to [[Japan]]ese custom, ingredients are chosen to reflect the seasons and to provide contrasts of color, texture, and flavor. Thus [[Allium fistulosum|negi]] and [[tofu]], a strongly flavored ingredient mixed with a mildly flavored ingredient, are often combined. Ingredients that float, such as [[wakame]] seaweed, and ingredients that sink, such as potatoes, are also combined. Ingredients may include mushrooms ([[Pholiota microspora|nameko]] or [[shiitake]]), potato, [[taro]], seaweed, [[green laver]], onion, [[Allium tuberosum|nira]], [[Phaseolus vulgaris|common bean]], [[Cryptotaenia japonica|mitsuba]], [[Shrimp and prawn as food|shrimp]], [[Fish as food|fish]], clams, and sliced [[daikon]]. Almost any Japanese ingredient may be added to some type of miso soup. However typical miso soup recipes contain a small number of additional ingredients beyond ''dashi'' stock and miso.
+
+If [[pork]] is added to miso soup it is called ''[[tonjiru]]'', meaning 'pork soup'. Tonjiru is a soup served for dinner and lunch and not usually eaten for breakfast.
+
+Hearty and robust cold-weather variations may include [[daikon]], deep-fried tofu (''[[abura-age]]''), potatoes, onions and dark miso. Lighter variations are better suited for spring and summer and made with ingredients such as [[cabbage]], [[Oenanthe javanica|seri]] [[myoga]] and/or [[eggplant]].
+
+== Preparation and serving ==
+[[File:Aka-Dashi 001.jpg|thumb|Red miso soup with [[tofu]] and [[nameko]] mushrooms]]
+[[File:Mixed beef croquette lunch of Yoshinoya.jpg|thumb|Miso soup is usually part of a Japanese ''teishoku'' (meal set), shown here with rice, fried ''[[Japanese jack mackerel|aji]]'', ''[[korokke]]'' and ''[[karaage]].]]
+Miso soup can be prepared in several ways, depending on the chef and the style of soup. Japanese recipes usually call for most vegetables to be cooked in the simmering ''dashi'', particularly mushrooms, daikon, carrots, potatoes, tofu, and fish. There is a common myth that when miso paste is heated, the microorganisms are killed and the health benefits are reduced, but this is incorrect. In fact, the health benefits are due to nutrients produced by enzymes produced during the miso making process, not the bacteria in the miso.<ref>{{cite news |last1=murai |first1=Yuichiro |title=The idea that "enzymes die when miso soup is heated" is a double misunderstanding... The real reason why fermented foods are good for your health |url=https://president.jp/articles/-/80612?page=5}}</ref>
+
+Miso soup and white [[rice]] are the central dishes of the traditional Japanese breakfast. The soup has been a favorite of commoners and royalty alike for many centuries, but there are also many other dishes involving breakfast.{{Clarify|reason=I don't understand the connection. Are other things eaten *in addition to* miso soup, *in* miso soup, or *instead of* miso soup?|date=July 2025}} They are all quite small, some include egg, fish, and [[nattō]] which is a fermented soybean. The soup is usually served in [[lacquer]] [[bowl]]s with lids and drunk directly from the bowl, though the solid ingredients are eaten with [[chopsticks]]. The bowl sometimes has a lid to keep heat and aroma in as well as to improve the presentation.<ref>{{cite news |last1=Matsune |first1=Kaz |title=Why Is Miso Soup Sometimes Served With a Lid? |url=https://slate.com/human-interest/2016/10/why-is-miso-soup-sometimes-served-with-a-lid.html |work=Slate |date=21 October 2016 }}</ref>
+
+=== Instant miso soup ===
+[[File:Asage(Instant miso soup).jpg|thumb|Instant miso soup]]
+Instant miso soup is available in single-serving packets. It is usually sold in dehydrated powder and paste forms, and sometimes [[Freeze-drying|freeze dried]]. It generally contains dried toppings such as wakame and tofu with soybeans that reconstitute rapidly on the addition of hot water.<ref>{{Cite web|url=https://matcha-jp.com/en/849|title=A Great Souvenir! Learn How To Make Instant Miso Soup|website=MATCHA - JAPAN TRAVEL WEB MAGAZINE|language=en|access-date=2018-12-14|archive-date=2018-12-14|archive-url=https://web.archive.org/web/20181214164619/https://matcha-jp.com/en/849|url-status=live}}</ref> These are popular in the Japanese workplace, where miso soup can be made with lunch as easily as tea. Instant miso soup is available in many grocery stores outside Japan and has a shelf life of 3 to 12 months.
+
+===''Wappani''===
+{{nihongo||わっぱ煮|''Wappani''}}, a miso-soup-based dish, is unique to [[Awashimaura, Niigata|Awashima island]] off the coast of [[Niigata Prefecture|Niigata]], [[Japan]]. A cedar flask (''{{ill|wappa|ja|わっぱ)|quote=y}}'') is filled with miso soup, fish and vegetables. It is then heated by dropping in hot rocks, which quickly brings it to a simmer. Hot rocks retain their heat for hours after being taken from the fire, so a hot meal can be prepared without the use of fire.<ref>{{Cite web|url=http://kyoudo-ryouri.com/en/food/601.html|title=Wappani - 【郷土料理ものがたり】|website=kyoudo-ryouri.com|access-date=2018-12-14|archive-date=2018-12-14|archive-url=https://web.archive.org/web/20181214164159/http://kyoudo-ryouri.com/en/food/601.html|url-status=live}}</ref>
+
+== Health benefits ==
+{{Expand section|date=April 2009}}
+In 2003, researchers at Japan's National Cancer Centre suggested that eating three or more bowls of miso soup every day could lower the risk of [[breast cancer]] in women.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/health/2999852.stm|title=Miso soup 'cuts breast cancer risk'|date=2003-06-18|access-date=2018-12-14|language=en-GB|archive-date=2017-07-29|archive-url=https://web.archive.org/web/20170729211134/http://news.bbc.co.uk/1/hi/health/2999852.stm|url-status=live}}</ref>
+
+Studies in 2020 showed that habitual consumption of miso soup has the effect of lowering [[blood pressure]] and [[heart rate]],<ref>{{Harvnb|Ito|2020}}</ref> causing proliferation of good [[Gut microbiota|bacteria in the intestines]] and helping to prevent [[constipation]].<ref>{{Harvnb|Ichikawa|2020}}</ref>
+
+A 2003 epidemiology study in Japan discovered that persons who consume miso soup daily have a lower risk of [[stomach cancer]] and [[heart disease]]. In 2019 research concluded that fermented soy foods, such as miso, have antidiabetic, [[antioxidant]] (anti-aging), anti-obesity, [[anti-inflammatory]],  anticancer and [[antihypertensive]] (lowering blood pressure) properties.<ref>{{cite journal |last1=Saeed |first1=Farhan |last2=Afzaal |first2=Muhammad |last3=Shah |first3=Yasir Abbas |last4=Khan |first4=Mujahid Hassan |last5=Hussain |first5=Muzzamal |last6=Ikram |first6=Ali |last7=Ateeq |first7=Huda |last8=Noman |first8=Muhammad |last9=Saewan |first9=Shamaail A. |last10=Khashroum |first10=Ashraf O. |title=Miso: A traditional nutritious & health-endorsing fermented product |journal=Food Science & Nutrition |date=December 2022 |volume=10 |issue=12 |pages=4103–4111 |doi=10.1002/fsn3.3029 |pmid=36514754 |pmc=9731531 }}</ref>
+
+== Gallery ==
+<gallery mode="packed" widths="130px" heights="130px">
+Miso soup with egg (3196519924).jpg|With egg
+Miso soup of Japanese littleneck clam(asari) 2014.jpg|With ''[[Ruditapes philippinarum|asari]]'' clams
+Shrimp Head Miso Soup.jpg|With shrimp head
+Charybdis japonica misosoup.jpg|With ''[[Charybdis japonica|ishigani]]'' crab
+Miso soup - Massachusetts.jpg|Red miso soup
+</gallery>
+
+== See also ==
+{{Portal|Food}}
+* [[List of Japanese soups and stews]]
+* [[List of soups]]
+* [[Dashi]]
+
+== References ==
+{{reflist}}
+
+=== Works cited ===
+*{{cite journal |last=Ito |first=Koji |date=2020-08-31 |title=Review of the health benefits of habitual consumption of miso soup: focus on the effects on sympathetic nerve activity, blood pressure, and heart rate   |url= |journal= Environmental Health and Preventive Medicine |volume=25 |issue=1 |article-number=45 |doi=10.1186/s12199-020-00883-4 |pmid=32867671 |pmc=7461326 |doi-access=free |bibcode=2020EHPM...25...45I }}
+*{{cite journal |last=Ichikawa |first=Tomomi |date=2020-03-25 |title=若年女性における排便状況と食事からの発酵食品摂取の関係 |trans-title=A Study of the Relationship between Constipation Assessment and the Intake of Fermented Foods in the Diet of Young Women |url=http://harp.lib.hiroshima-u.ac.jp/hju/metadata/12320 |language=ja |journal=Journal of the Faculty of Human Life Studies |volume=7 |pages=17–21 |access-date=2020-10-03 |archive-date=2021-08-05 |archive-url=https://web.archive.org/web/20210805185337/http://harp.lib.hiroshima-u.ac.jp/hju/metadata/12320 |url-status=dead }}
+
+== Further reading ==
+* ''The Miso Book: The Art of Cooking with Miso'', by John Belleme & Jan Belleme, Square One Publishers
+
+== External links ==
+{{sisterlinks|d=Q471866|c=Category:Miso soup|b=Cookbook:Miso Soup|q=no|n=no|v=no|voy=no|m=no|mw=no|species=no|s=no|wikt=miso}}
+
+{{Japanese food and drink}}
+{{Soy|state=collapsed}}
+
+[[Category:Japanese soups and stews]]
+[[Category:Soy-based foods]]
+[[Category:Vegetarian dishes of Japan]]

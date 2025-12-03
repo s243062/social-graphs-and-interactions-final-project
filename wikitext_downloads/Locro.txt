@@ -1,0 +1,90 @@
+{{Short description|Type of squash or potato stew}}
+{{Multiple issues|
+{{Rough translation|Spanish|Español|date=December 2023}}
+{{Refimprove|date=December 2023}}
+{{Globalize|article|Argentina|date=December 2023}}
+}}
+{{Infobox food
+| image = Locro argentino.jpg
+| image_size = 250px
+| caption = Typical Argentine locro
+| alternate_name = 
+| place_of_origin = [[Andean civilization]]
+| region = [[South America]]
+| associated_cuisine = [[Peruvian cuisine|Peruvian]], [[Bolivian cuisine|Bolivian]], [[Ecuadorian cuisine|Ecuadorian]], [[Argentinian cuisine|Argentinian]], [[Paraguayan cuisine|Paraguayan]], [[Chilean cuisine|Chilean]], [[Colombian cuisine|Colombian]]
+| creator = 
+| course = 
+| type = [[Stew]]
+| served = Hot
+| main_ingredient = [[Zapllo|Squash]], [[Maize|corn]], {{lang|es|papa chola}} [[potato]]es, sometimes [[meat]] (usually [[beef]], sometimes [[beef jerky]] or [[chorizo]]), [[vegetable]]s, [[hot sauce]] ([[cayenne pepper]], [[paprika]])
+| variations = 
+| calories = 
+| other = 
+}}
+
+'''Locro''' or '''lojro'''<ref>{{Cite web |last=ASALE |date=2024-12-27 |title=lojro {{!}} Diccionario de americanismos |url=https://www.asale.org/damer/lojro |access-date=2025-01-06 |website=«Diccionario de americanismos» |language=es}}</ref> (from the [[Quechua languages|Quechua]] {{Lang|qu|ruqru}})<ref>{{cite web|access-date=4 July 2013 |archive-date=21 June 2013 |archive-url=https://web.archive.org/web/20130621024833/http://www.argentina.ar/temas/pais/18555-locro-una-tradicion-argentina |title=Locro, una tradición argentina |url=http://www.argentina.ar/temas/pais/18555-locro-una-tradicion-argentina}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref> is a hearty thick [[Squash (plant)|squash]] or potato [[stew]], associated with Native [[Andean civilization]]s, and popular along the [[Andes]] mountain range. It is one of the [[national dishes]] of [[Peru]], [[Bolivia]],<ref>{{cite book|access-date=29 October 2018 |last=Fetzer |date=2 April 2004 |first=Erika |language=es |page=54 |publisher=Viena |title=Sabores del Perú: la cocina peruana desde los incas hasta nuestros días |isbn=978-84-8330-249-1 |url=https://books.google.com/books?id=-yU-AQAAIAAJ}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref> [[Ecuador]], [[Chile]], [[Paraguay]], Northwest [[Argentina]] and Southwestern [[Colombia]].
+
+== Composition ==
+The dish is a classic squash, [[hominy]], [[Phaseolus vulgaris|beans]], and [[potato]] or [[pumpkin]] soup well known along the South American Andes. In some regions, locro is made using a specific kind of potato called {{Lang|es|papa chola}}, which has a unique taste and is difficult to find outside of its home region.
+
+The defining ingredients are squash, corn, some form of meat (usually beef, but sometimes [[beef jerky]] or [[chorizo]]), and vegetables. Other ingredients vary widely and typically include [[Onion|onions]], beans, squash, or pumpkin. It is mainly eaten in winter.
+
+In Ecuador, a variant known as [[yahuarlocro]] is popular. It incorporates lamb entrails and lamb blood into the recipe.
+
+In Peru, locro is a rather thick stew with macre pumpkin as the main ingredient. It includes potatoes, corn, chili, onions, cheese and green peas. It is usually served with white rice and occasionally with some kind of meat, but is traditionally a vegetarian dish.
+
+In Argentina its consumption has spread from the Northwest and Cuyo to the rest of the country. In the Argentine province of Neuquén, in addition to locro made with corn, a kind of locro is prepared with peas, and in the Northeast of Argentina locro is also prepared on the basis of cassava.
+
+Although the Argentine locro has Indo-American origins, its preparation in Argentina for at least three centuries synthesizes the European gastronomic contributions: for example, pork, chorizos, tripe and numerous seasonings have been contributed by the Europeans (especially by the Spanish).
+
+There are several classic types of locro: corn, beans, [[cassava]] and wheat, although an expert cook can make an excellent synthesis of two or more of these types of locro to include all the ingredients.
+
+Thus, the Argentine locro is prepared according to a multitude of recipes, the only invariable thing being its vegetable base and the cooking procedure, over low heat for several hours. According to the region, it is prepared with fresh or dried beef jerky ({{Lang|es|charqui}}), [[offal]] (such as intestines, tripe, ribs, trotters, tail, ears and hide), sausages, pork ribs and bacon; the meats are cooked separately and then added to the preparation of vegetables, among which pumpkin usually stands out (especially the round, gray kind known as {{Lang|es|zapallo plomo}}), which usually gives its yellow color to the locro, and white corn grains, beans and even wheat grains. In Argentina locro with white corn is preferred. Locro based on crushed corn grains is called {{Lang|es|frangollo}}, vegetables which due to starch make the preparation reach the density of a cream. It is a hearty and nutritious dish typical of winter. It is seasoned accordingly, with a spicy sauce prepared with oil (or fat), ground chili, paprika, green onion and salt, called {{Lang|es|quiquirimichi}}''.''
+
+The succulent locro (dense and with varied and abundant ingredients) usually receives the name of {{Lang|es|locro pulsudo}}; on the other hand, it is called {{Lang|es|huaschalocro}}, 'poor locro' without meat or {{Lang|es|huascha locro}} (from Quechua {{Lang|qu|wakcha luqru}}), to the "light" locro prepared with the minimum of ingredients and with a thick sticky consistency. A gastronomic variety close to {{Lang|es|huaschalocro}} is {{Lang|es|mote}}.
+
+It is also called {{Lang|es|pulsudo}} in Argentina to the locro that besides being substantial and full of calories is very spicy, like the locro with {{Lang|es|cumbarí}} bell pepper as it happens in certain zones of the Argentine Northwest and especially in certain zones of the Argentine province of [[La Rioja Province, Argentina|La Rioja]].<ref>{{Cite web |last=Zacco |first=María |date=2013-04-27 |title=Una aventura por los mitos y sabores de la cocina argentina |url=http://www.clarin.com/viajes/aventura-mitos-sabores-cocina-argentina_0_909509055.html |url-status=dead |archive-url=https://web.archive.org/web/20140329095039/http://www.clarin.com/viajes/aventura-mitos-sabores-cocina-argentina_0_909509055.html |archive-date=2014-03-29 |website=Clarín.com |language=es}}</ref>
+
+Locro casserole is food with many calories and nutrients and is very suitable for consumption during winters or in cold areas. It is traditionally consumed on a massive scale on May 1 and May 25, the day that commemorates the [[May Revolution]] and the formation of the first Argentine patriotic government, which was established on May 25, 1810. For this reason, it has gone from being a regional and traditional dish to being one of Argentina's national dishes to celebrate patriotic dates: on the two Argentine patriotic dates – May 25, date of the de facto or concrete independence of Argentina since 1810, and July 9, the date on which, in 1816 in San Miguel de Tucumán, Argentina's independence was explicitly proclaimed. The breakfast of chocolate infusions with milk and pastries given in schools on May 25 and July 9 is usually traditional, as opposed to the also traditional [[mate cocido]], which is usually given during most of each year in public schools, military barracks and regiments, etc., accompanied by {{Lang|es|pastelitos criollos}}. Eventually, there is the custom of inviting guests with small casseroles of locro at wedding celebrations.
+
+On cold days, adults have as an excellent companion to a hot locro a good red wine such as Argentine [[malbec]], and if the locro is consumed on warm days, a fresh and fruity honeyed Argentine [[torrontés]] white wine is preferable.
+
+According to authors such as Victor Ego Ducrot, the Argentine locro became one of the Argentine national dishes during the Argentine War of Independence, and especially in the Gaucho War, when the gauchos who had fought in the ranks of the Army of the North then spread the typical stew of the Argentine Northwest in Argentina pampeana, litoral, cuyana, etcetera; on the anniversary of the Revolution of May, that is to say on May 25, 1910, practically (although no legislation is known in this respect) locro was made official as national food in the two main patriotic dates.
+
+== Gallery ==
+<gallery class="center" caption="" widths="175px" heights="175px">
+File:Locro de Santiago del Estero (Argentina).jpg|Locro at the table, with [[quiquirimichi]] and bread.
+Image:Locro argentino (hecho en Simoca, Provincia de Tucumán).jpg|Locro being served at [[Simoca]] market, Argentina
+Image:Olla de locro argentino.jpg|Big pots of locro cooked on coal
+File:Quiquirimichi argentino.jpg|Argentine Quiquirimichi
+</gallery>
+
+==See also==
+
+* [[List of Ecuadorian dishes and foods]]
+* [[List of stews]]
+
+== References ==
+{{Commons category|Locro}}
+{{reflist}}
+
+{{National emblems of Argentina}}
+
+[[Category:Argentine cuisine]]
+[[Category:Bolivian cuisine]]
+[[Category:Chilean cuisine]]
+[[Category:Ecuadorian cuisine]]
+[[Category:Paraguayan cuisine]]
+[[Category:Peruvian cuisine]]
+[[Category:Stews]]
+[[Category:Offal]]
+[[Category:National symbols of Argentina]]
+[[Category:National dishes]]
+
+
+{{Argentina-cuisine-stub}}
+{{Bolivia-cuisine-stub}}
+{{Chile-cuisine-stub}}
+{{Ecuador-cuisine-stub}}
+{{Peru-cuisine-stub}}
+{{Paraguay-cuisine-stub}}

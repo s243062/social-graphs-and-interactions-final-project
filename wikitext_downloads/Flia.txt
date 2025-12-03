@@ -1,0 +1,54 @@
+{{Short description|Albanian Dish}}
+{{Infobox food
+| name               = Flia
+| image              = Flija.png
+| image_size         = 
+| image_alt          = 
+| caption            = 
+| alternate_name     = 
+| type               = 
+| course             = [[Main course]]
+| country            = [[Kosovo]]
+| region             = [[Balkans]]
+| national_cuisine   = [[Albanian cuisine]]
+| creator            = <!-- or | creators = -->
+| year               = 
+| mintime            = 
+| maxtime            = 
+| served             = Hot
+| main_ingredient    = [[Flour]], [[water]], [[salt]]
+| minor_ingredient   = [[Butter]], [[yogurt]], [[oil]], [[eggs as food|eggs]], [[nut (fruit)|nut]]s
+| variations         = 
+| serving_size       = 100 g
+| calories           = 
+| calories_ref       = 
+| protein            = 
+| fat                = 
+| carbohydrate       = 
+| glycemic_index     = 
+| similar_dish       = 
+| cookbook           = 
+| commons            = 
+| other              = 
+| no_recipes         = false
+}}
+'''Flia''', '''fli''', '''fliya''' or '''flija''' ([[Albanian language|Albanian]] [[Definiteness|indefinite form]]: '''fli''') is an [[Albanian cuisine|Albanian]] [[Dish (food)|dish]] typical of northern Albania and of the [[cuisine of Kosovo]].<ref>{{Cite web|url=http://www.facebook.com/Flija|title=Facebook |website=[[Facebook]] }}</ref><ref>{{Cite web |url=http://www.kosovoguide.com/?cid=2,227,878 |title=Kosovo Guide |access-date=2013-03-11 |archive-url=https://web.archive.org/web/20160321053519/http://kosovoguide.com/?cid=2,227,878 |archive-date=2016-03-21 |url-status=dead }}</ref><ref>{{cite web|url=http://www.podravka.com/company/markets/kosovo/tab-cuisine-of-kosovo|title=Kosovo Pastry dishes|access-date=2013-06-06|archive-date=2013-05-28|archive-url=https://web.archive.org/web/20130528131108/http://www.podravka.com/company/markets/kosovo/tab-cuisine-of-kosovo|url-status=dead}}</ref> It consists of multiple [[crêpe]]-like layers brushed with cream and served with [[sour cream]] and [[butter]].  The name translates to "sacrifice" (see ''[[:wikt:fli#Albanian|fli]]''). Flia is prepared in the shape of the Sun (Albanian [[Dielli (Albanian paganism)|Dielli]]) also featuring  sunbeams.<ref name=KultPlus>{{cite web|title=Flija, mbretëresha e kuzhinës shqiptare që simbolizon diellin në Ditën e Verës|trans-title=Flija, the Queen of Albanian Cuisine that Symbolizes the Sun on Summer's Day|website=KultPlus|language=sq|access-date=6 December 2024|url=https://www.kultplus.com/lajme/flija-mbreteresha-e-kuzhines-shqiptare-qe-simbolizon-diellin-ne-diten-e-veres/}}</ref>
+
+==Tradition==
+March 17, which falls within the [[Albanian paganism|traditional Albanian festivities]] of [[Verëza]] ([[march equinox|spring equinox]]), is recognized as "Flia Day" in which families invite their relatives for preparing and eating flia.<ref>{{Cite web|title=Albanian Flija {{!}} Albanian Pancake|url=https://www.myalbanianfood.com/recipe/albanian-flija-pancake/|access-date=2020-09-17|website=My Albanian Food|date=26 February 2017 |language=en-GB}}</ref> It is assumed that flia began to be prepared by Albanians for Verëza as a sacrifice to the [[Dielli (Albanian paganism)|Sun-god]].<ref name=KultPlus/>
+
+==Preparation==
+Flia requires very simple ingredients, although it takes a rather long time to prepare. The ingredients are [[flour]], water, [[butter]], [[yogurt]], [[eggs as food|eggs]], oil and salt. Some variations use [[kaymak]] as the filling instead.<ref>{{Cite web |title=Albanian Flija {{!}} Albanian Pancake |url=https://www.myalbanianfood.com/recipe/albanian-flija-pancake/ |access-date=2022-09-23 |website=My Albanian Food |date=26 February 2017 |language=en-GB}}</ref> The main ingredients (flour, water and salt) are mixed together until they become like pancake batter. Flija is not a sweet dish, and is instead a savory main course dish eaten usually during lunch or dinner. Layers of batter are baked using a ''[[Sač|saq]]'', a spherical metal lid used for baking.<ref>{{Cite web|url=https://www.tasteatlas.com/flija|title=Flija &#124; Traditional Pancake From Albania &#124; TasteAtlas|website=www.tasteatlas.com}}</ref>
+
+== References ==
+{{reflist}}{{Commons category|Flia}}
+
+{{Cuisine of Albania}}
+{{pastries}}
+
+[[Category:Kosovan cuisine]]
+[[Category:Albanian cuisine]]
+[[Category:Pastries]]
+
+{{Cuisine-stub}}
+{{albania-stub}}

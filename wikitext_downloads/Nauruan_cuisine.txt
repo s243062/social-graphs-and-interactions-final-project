@@ -1,0 +1,51 @@
+{{Short description|Culinary traditions of Nauru}}
+{{Use dmy dates|date=April 2023}}
+{{Use Australian English|date=April 2023}}
+{{Infobox cuisine
+| image = Coconuts - single and cracked open.jpg
+| caption = [[Coconut]]s, a [[staple food]] in Nauru.
+| country = [[Nauru]]
+| regional =
+| national_dish = [[Coconut fish]]
+| national_drink = [[Iced coffee]]
+| see_also =
+}}
+{{Culture of Nauru}}
+
+The '''cuisine of [[Nauru]]''' is the traditional cuisine of the [[island state]] on the [[Pacific Ocean]]. 
+
+Nauru has the [[Obesity in Nauru|world's highest rate of obesity]].<ref name="Forbes Fattest Countries">{{cite web|last=Streib|first=Lauren|title=World's Fattest Countries|url=https://www.forbes.com/2007/02/07/worlds-fattest-countries-forbeslife-cx_ls_0208worldfat.html|work=[[Forbes.com]]|date=2 August 2007|access-date=29 May 2017}}</ref>
+
+==Basic foods==
+[[Image:Cononut milk.JPG|thumb|A bowl of coconut milk (canned)]]
+Like its other island neighbours, [[Nauruans]] consume a large amount of [[seafood]], as well as foods made from [[coconut]]s and [[pandanus]] fruits. [[Coconut milk]] is also used extensively in Nauru. [['Ota 'ika|Coconut fish]] ([[raw fish]], often [[tuna]], served in coconut milk with seasonings) is a traditional dish. 
+
+The native [[Nauruan language|Nauruan]] names of traditional crops are:<ref>{{cite book |last= Wilson |first= Marisa |date= 2016  |title= Postcolonialism, Indigeneity and Struggles for Food Sovereignty: Alternative food networks in subaltern spaces |location= [[Milton Park]] |publisher= [[Taylor & Francis]] |page= 130 |isbn= 978-1317416128 |quote= Two fruit trees in particular were also important: ''epo'', the pandanus tree (''Pandanus tectorius'' and ''Pandanus pulposus''); and ''ini'', the coconut palm (''Cocos nucifera'').}}</ref><ref>{{cite book |last= Elevitch |first= Craig R. |date= 2006  |title= Traditional Trees of Pacific Islands: The Culture, Environment And Use |url=https://books.google.com/books?id=2Grw4g0-h54C |location= Honolulu |publisher= Permanent Agriculture Resources |page= 789 |isbn= 978-0970254450}}</ref>
+
+*{{lang|na|epo}}/{{lang|na|épo}}: ''[[Pandanus tectorius]]''
+*{{lang|na|ini}}: ''[[Cocos nucifera]]''
+
+==Influences==
+Nauruan cuisine is greatly influenced by [[Chinese cuisine]]. The Chinese are the major foreign community of the country, and there are a number of Chinese restaurants on the island, most notably in [[Yaren District|Yaren]].
+
+Nauruan cuisine also commonly shows strong [[Western cuisine|Western]] influence, especially from [[Australian cuisine|Australia]].<ref>{{cite web|title=Nauru Travel Profile|url=http://itap-world.com/news/australia/nauru/id/1646|access-date=29 May 2017}}</ref>
+
+==Traditions==
+The majority of Nauruans are Christians, and members of the [[Nauru Congregational Church]]. They often celebrate [[Christmas]] with [[Christmas cake]]s made from [[banana]] and coconut.
+
+Some desserts, such as coconut [[mousse]], are consumed on special occasions.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* [https://locallyforeign.wordpress.com/2021/04/19/nauru-elmina-quadinas-even-better-nauruan-coconut-fish/ "NAURU: Elmina Quadina’s even better Nauruan coconut fish"], ''Locally Foreign''
+
+{{Portal|food}}
+
+{{Oceanian topic|| cuisine}}
+{{cuisines}}
+
+[[Category:Nauruan cuisine]]
+
+{{Nauru-stub}}

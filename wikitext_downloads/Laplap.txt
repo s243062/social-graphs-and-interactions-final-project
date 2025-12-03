@@ -1,0 +1,50 @@
+{{Short description|Vanuatu National Dish}}
+{{distinguish|Lap-lap}}
+{{Infobox food
+| name             = Laplap
+| image            = File:Laplap 02.jpg
+| caption          = Laplap
+| alternate_name   = 
+| country          = [[Vanuatu]]
+| region           = 
+| national_cuisine = 
+| creator          = 
+| year             = 
+| time1            = 
+| time2            = 
+| course           = 
+| type             = 
+| served           = 
+| main_ingredient  =  [[Artocarpus altilis|breadfruit]], [[taro]], [[Yam (vegetable)|yam]], [[coconut cream]], [[pork]], [[beef]], [[chicken]] or [[Pteropus|flying fox]]
+| minor_ingredient = 
+| variations       = 
+| serving_size     = 
+| calories         = 
+| protein          = 
+| fat              = 
+| carbohydrate     = 
+| glycemic_index   = 
+| similar_dish     = 
+| other            = 
+}}
+'''Laplap''' (sometimes [[#Etymology|incorrectly spelled]] ''lap lap'') is the national dish of [[Vanuatu]].<ref>{{cite web |url=http://www.abc.net.au/correspondents/content/2008/s2528790.htm |title=The secrets of Vanuatu's national dish, the Lap Lap |date=2009-03-29 |publisher=Australian Broadcasting Corporation |archive-url=https://web.archive.org/web/20221226143443/http://www.abc.net.au/correspondents/content/2008/s2528790.htm |archive-date=2022-12-26}}</ref> Laplap is prepared by grating [[Artocarpus altilis|breadfruit]], [[banana]]s, [[taro]] or [[Yam (vegetable)|yam]] roots into a vegetable paste.<ref>{{Cite news|url=http://www.vanuatutraveller.com/lap-lap/|title=Anyone for some Lap-Lap ? {{!}} Vanuatuan Cuisine.|date=2016-04-13|work=Vanuatu Traveller {{!}} vanuatutraveller.com|access-date=2018-03-07|language=en-AU}}</ref> The paste is then wrapped in [[Banana leaf|banana leaves]] and cooked in an [[earth oven|underground stone oven]], with fresh [[coconut cream]]. Meats like [[pork]], [[beef]], [[chicken]] or [[Pteropus|flying fox]] can be added.<ref>[http://www.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=10490498 Vanuatu: Laplap up some tropical flavour] (+photos)</ref>
+
+[[Image:Laplap_sosor.jpg|thumb|center|upright=1.5|''Laplap sosor'', a variant of the national dish from [[Malakula]] island, before cooking]]
+
+==Etymology==
+The word ''laplap'' (spelled in one word) comes from [[Bislama]], the national language of [[Vanuatu]].<ref>See [https://books.google.fr/books?id=cZoVLi0NJ0QC&newbks=1&newbks_redir=0&lpg=PA147&vq=laplap&dq=bislama%20dictionary&pg=PA147#v=onepage&q=laplap&f=false entry ''laplap''], p.147 of: [[Terry Crowley (linguist)|Crowley, Terry]]. 2003. ''A new Bislama dictionary,'' 2d ed. Suva: Institute of Pacific Studies, University of the South Pacific.</ref> It finds its origin in some of the [[Languages of Vanuatu|Oceanic languages of the country]]: e.g. [[Dorig language|Dorig]] ''lablab'' {{IPA|wwo|laᵐblaᵐb|}}, [[Nume language|Nume]] ''labalam'' {{IPA|tgs|laᵐbalam|}}, both reflecting a [[Proto-Torres–Banks language|Proto-Torres-Banks]] form ''*laᵐbalaᵐba''.
+
+The majority of indigenous languages of Vanuatu, however, name the dish using other roots. For example, [[Mota language|Mota]] ''loko'' {{IPA|mtt|loko|}} and [[Raga language|Raga]] ''loḡo'' {{IPA|lml|loᵑɡo|}} reflect a Proto-North-Central Vanuatu [[Etymology#Etymology|etymon]] ''*loᵑgo'';<ref name="Clark-Vanuatu">{{cite book |last=Clark |first=Ross |title=Leo Tuai: A comparative lexical study of North and Central Vanuatu languages |date=2009 |publisher=Pacific Linguistics |location=Canberra |issn=1448-8310 |doi=10.15144/PL-603 |doi-broken-date=12 July 2025 |hdl=1885/146751 |isbn=978-0-85883-600-6 |url=http://hdl.handle.net/1885/146751}}</ref> [[Hiw language|Hiw]] ''tegōv'' {{IPA|hiw|təɣoβ|}}, [[Lemerig language|Lemerig]] ''’ëgëv'' {{IPA|lrz|ʔœɣœβ|}} and [[Mwotlap language|Mwotlap]] ''na-tgop'' {{IPA|mlv|natɣɔp|}} reflect Proto-Torres-Banks ''*taɣoβe'';<ref>See [https://marama.huma-num.fr/Lex/Mwotlap/t.htm#%E2%93%94t%5Bo%5Dgop entry ''t‹o›gop''] in [[Alexandre François|A. François’]] [https://marama.huma-num.fr/AF-dict-Mwotlap_e.htm ''Mwotlap online dictionary''].</ref> [[Araki language|Araki]] has ''ureeje'' {{IPA|akr|uɾeet͡ʃe|}},<ref>See [https://marama.huma-num.fr/Lex/Araki/u.htm#%E2%93%94ureeje entry ''ureeje''] in A. François’ [https://alex.francois.online.fr/AF-Araki-dict.htm ''Araki online dictionary''].</ref> [[Tamambo language|Tamambo]] has ''wewe'', etc.
+
+==Main recipes==
+{{Expand section|date=January 2025}}
+
+== References ==
+{{reflist}}
+
+[[Category:Vanuatuan cuisine]]
+[[Category:National dishes]]
+[[Category:Bislama words and phrases]]
+
+{{Vanuatu-stub}}
+{{cuisine-stub}}

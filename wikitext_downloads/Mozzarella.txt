@@ -1,0 +1,131 @@
+{{Short description|Type of semi-soft Italian cheese}}
+{{Redirect|fior-di-latte|other uses|fior di latte (disambiguation)}}
+{{Use British English|date=August 2025}}
+{{Use dmy dates|date=August 2025}}
+{{Infobox cheese
+| name          = Mozzarella
+| image         = Mozzarella di bufala3.jpg
+| image_size    = 250px
+| caption       = [[Buffalo mozzarella]]
+| othernames    = {{lang|nap|Muzzarella}}
+| country       = [[Italy]]
+| source        = [[Italian Mediterranean buffalo]]; [[Cattle|cows]] in all 20 Italian regions; in some areas also [[sheep]] and [[goat]]
+| pasteurised   = Depends on variety
+| texture       = [[Types of cheese#Semi-soft cheese|Semi-soft]]
+| fat           = 
+| certification = [[Traditional speciality guaranteed|TSG]]: 1998
+}}
+
+'''Mozzarella'''{{efn|English: {{IPAc-en|ˌ|m|ɒ|t|s|ə|ˈ|r|ɛ|l|ə}} {{respell|MOT|sə|REL|ə}}, {{IPA|it|mottsaˈrɛlla|lang|small=no}}; {{langx|nap|muzzarella}}, {{IPA|nap|muttsaˈrɛllə|pron|small=no}}.}} is a [[Types of cheese#Semi-soft cheese|semi-soft]] non-aged [[cheese]] prepared using the {{lang|it|[[pasta filata]]}} ('stretched-curd') method. It originated in [[southern Italy]].
+
+Varieties of mozzarella are distinguished by the milk used: {{lang|it|mozzarella fior di latte}} when prepared with cow's milk and [[buffalo mozzarella]] ({{lang|it|mozzarella di bufala}} in Italian) when the milk of the [[Italian Mediterranean buffalo|Italian buffalo]] is used. Genetic research suggest buffalo came to Italy by migration of river buffalo from India in the 7th century CE.<ref>{{cite journal |last1=Zhang |first1=Y. |last2=Colli |first2=L. |last3=Barker |first3=J. S. F. |title=Asian water buffalo: domestication, history and genetics |url=https://onlinelibrary.wiley.com/doi/epdf/10.1111/age.12911 |journal=Animal Genetics |date=March 2020 |volume=51 |issue=2 |pages=177-191 |doi=10.1111/age.12911|url-access=subscription }}</ref>{{rp|179-180}}
+
+Fresh mozzarella is generally white but may be light yellow depending on the animal's diet.<ref>{{cite web |url= http://www.sallys-place.com/food/single-articles/mozzarella.htm |title= Mozzarella Cheese |work= Sally's Place |publisher= Media Holdings |access-date= 1 April 2008 |last= Lambert |first= Paula |archive-date= 14 September 2008 |archive-url= https://web.archive.org/web/20080914150026/http://www.sallys-place.com/food/single-articles/mozzarella.htm |url-status= dead }}</ref> Fresh mozzarella makes a distinct squeaky sound when chewed or rubbed.<ref>{{Cite journal |vauthors=Nurkkala E, Hannula M, Carlson CS, Hyttinen J, Hopia A, Postema M |date=2023 |title=Micro-computed tomography shows silent bubbles in squeaky mozzarella |journal=Current Directions in Biomedical Engineering |volume=9 |issue=1 |pages=5–8 |doi=10.1515/cdbme-2023-1002 |s2cid=262087123 |doi-access=free}}</ref> Due to its high moisture content, it is traditionally served the day after it is made<ref name=":1">{{cite web|url=http://www.thewinenews.com/octnov06/cuisine.asp |title=Burrata mozzarella's creamy cousin makes a fresh impression |work=The Wine News Magazine |access-date=1 April 2008 |last=Kotkin |first=Carole |date=October–November 2006 |url-status=dead |archive-url=https://web.archive.org/web/20071124090108/http://www.thewinenews.com/octnov06/cuisine.asp |archive-date=24 November 2007 }}</ref> but can be kept in [[brine]] for up to a week or longer when sold in [[Vacuum packing|vacuum-sealed packages]]. Low-moisture mozzarella can be kept refrigerated for up to a month,<ref name=":2">{{cite book |first=John |last=Correll |chapter-url=http://www.correllconcepts.com/Encyclopizza/09_Cheese/09_cheese.htm |chapter=Chapter 8 – Cheese |title=The Original Encyclopizza: Pizza Ingredient Purchasing and Preparation |publisher=Fulfillment Press |isbn=978-0-9820920-7-1 |access-date=1 April 2008 |date=30 November 2011 |archive-date=25 July 2011 |archive-url=https://web.archive.org/web/20110725071959/http://www.correllconcepts.com/Encyclopizza/09_Cheese/09_cheese.htm |url-status=live}}</ref> although some shredded low-moisture mozzarella is sold with a shelf life of up to six months.<ref name=":3">{{cite web |author= Staff |url= http://www.organicvalley.coop/products/cheese/shreds/mozzarella-low-moisture-part-skim-shredded-6-oz/ |publisher= Organic Valley |title= Shreds: Mozzarella, Low Moisture, Part Skim, Shredded, 6 oz. |access-date= 1 April 2008 |archive-date= 23 May 2008 |archive-url= https://web.archive.org/web/20080523114109/http://www.organicvalley.coop/products/cheese/shreds/mozzarella-low-moisture-part-skim-shredded-6-oz/ |url-status= dead }}</ref>
+
+Mozzarella is used for most types of [[pizza]] and several pasta dishes or served with sliced [[tomato]]es and [[basil]] in [[Caprese salad]].
+
+==Etymology==
+{{lang|it|Mozzarella}}, derived from the southern Italian dialects spoken in [[Apulia]], [[Calabria]], [[Campania]], [[Abruzzo]], [[Molise]], [[Basilicata]], [[Lazio]], and [[Marche]], is the diminutive form of {{lang|it|mozza}}, 'cut', or {{lang|it|mozzare}}, 'to cut off', derived from the method of working.<ref>{{cite web |url= http://www.merriam-webster.com/dictionary/mozzarella |author= Staff |title= Mozzarella |work= Merriam-Webster Dictionary Online |access-date= 1 April 2012 |archive-date= 6 October 2011 |archive-url= https://web.archive.org/web/20111006191703/http://www.merriam-webster.com/dictionary/mozzarella |url-status= live }}</ref> The term is first mentioned in 1570, cited in a cookbook by [[Bartolomeo Scappi]], reading "milk cream, fresh butter, ricotta cheese, fresh mozzarella and milk".<ref>{{cite news |first= David |last= Charter |url= http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/article3643079.ece |title= Buffalo mozzarella in crisis after pollution fears at Italian farms |work= [[The Times]] |location= London |date= 29 March 2008 |access-date= 1 April 2008 |archive-date= 29 August 2008 |archive-url= https://web.archive.org/web/20080829150322/http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/article3643079.ece |url-status= dead }}{{subscription required}}</ref> An earlier reference of [[Monsignor]] Alicandri is also often cited as describing mozzarella, which states that in the 12th century the Monastery of San Lorenzo, in [[Capua]], Campania, Alicandri offered pilgrims a piece of bread with {{lang|it|mozza}}.<ref>{{Cite book|author=Alicandri L.|title=Il Mazzone nell'antichità e nei tempi presenti|year=1915|page=88|language=Italian}}</ref>
+
+==Types==
+Fresh mozzarella has been recognised as a [[traditional speciality guaranteed]] (TSG) since 1996 in the [[European Union]].<ref>Regolamento (CE) N. 2527/98 della commissione del 25 novembre 1998 registrando una denominazione - Mozzarella - nell'albo delle attestazioni di specificità. Gazzetta ufficiale delle Comunità europee L 317/14 del 26/11/1998.</ref><ref>{{Cite web |title=Mozzarella Tradizionale TSG :: Qualigeo |url=https://www.qualigeo.eu/en/product/mozzarella-tsg// |access-date=2024-10-09 |website=Qualigeo :: Banca dati europea dei prodotti DOP IGP STG |language=en-US}}</ref> It is usually sold rolled into a ball that weighs around {{Convert|90|g|oz}} and measures about {{convert|6|cm|in|abbr=on}} in diameter, although they may be as large as {{convert|1|kg|lb|abbr=on}} and have a diameter around {{convert|12|cm|in|abbr=on}}. It is soaked in [[Saline water|salt water]] ([[brine]]) or [[whey]].
+
+In Italy, the cheese is produced nationwide using Italian buffalo's milk under the government's official name {{lang|it|mozzarella di latte di bufala}}, because [[Italian Mediterranean buffalo|Italian buffalo]] are present in all regions. Only selected {{lang|it|[[Buffalo mozzarella|mozzarella di bufala campana]]}} [[Protected designation of origin|PDO]] is a style made from the milk of Italian buffalo raised in designated areas of [[Campania]], [[Lazio]], [[Apulia]], and [[Molise]]. Unlike other mozzarellas—50% of whose production derives from non-Italian and often semi-coagulated milk<ref>{{cite web |last=Fiore |first=Roberto |date=4 June 2009 |title=Fermiamo il formaggio Frankenstein |url=http://www.lastampa.it/redazione/cmsSezioni/societa/200906articoli/44305girata.asp |url-status=dead |archive-url=https://web.archive.org/web/20140104205358/http://www1.lastampa.it/redazione/cmsSezioni/societa/200906articoli/44305girata.asp |archive-date=4 January 2014 |access-date=1 April 2012 |work=[[La Stampa]] |language=it}}</ref>—it holds the status of a protected designation of origin (PDO: 1996) under [[European Union]] law<ref name="ojec2008">{{cite journal |date=5 February 2008 |title=Commission Regulation (EC) No 103/2008 |url=http://ec.europa.eu/agriculture/quality/door/registeredName.html?denominationId=474 |url-status=live |journal=Official Journal of the European Communities |publisher=European Commission |volume=51 |page=L 31/31 |archive-url=https://web.archive.org/web/20140809231713/http://ec.europa.eu/agriculture/quality/door/registeredName.html?denominationId=474 |archive-date=9 August 2014 |access-date=28 July 2014}}</ref> and UK law.<ref>{{cite web |title=Mozzarella di Bufala Campana |url=https://www.gov.uk/protected-food-drink-names/mozzarella-di-bufala-campana |url-status=live |archive-url=https://web.archive.org/web/20211023211809/https://www.gov.uk/protected-food-drink-names/mozzarella-di-bufala-campana |archive-date=23 October 2021 |access-date=23 October 2021 |work=UK Government}}</ref>
+
+A more dense mozzarella is made by adding [[citric acid]] and partly drying (desiccated). This is often used to prepare baked dishes, such as [[lasagna]] and [[pizza]].<ref>{{cite web |url=https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:040:0017:0025:EN:PDF |title=Official Journal of the European Union |publisher=lex.europa.eu |date=2008 |access-date=2021-04-14 |archive-date=9 October 2012 |archive-url=https://web.archive.org/web/20121009030930/https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:040:0017:0025:EN:PDF |url-status=live }}</ref>
+
+===Sizes and shapes===
+[[File:Bocconcini_gobeirne.jpg|thumb|Bocconcini with a sprig of basil]]
+Fresh mozzarella balls are made in multiple sizes for various uses; often the name refers to the size.
+
+{{lang|it|Ovolini}} are about the size of a hen's egg, and may be served whole as part of a composed salad or sliced for topping a small sandwich such as a [[Slider (sandwich)|slider]].<ref name=":0">{{Cite web |last=Kapadia |first=Jess |date=2015-10-01 |title=12 Types Of Mozzarella To Know, Love and Melt |url=https://www.foodrepublic.com/2015/10/01/12-types-mozzarella-know-love-melt/ |access-date=2023-10-05 |website=[[Food Republic]] |archive-date=7 October 2023 |archive-url=https://web.archive.org/web/20231007124954/https://www.foodrepublic.com/2015/10/01/12-types-mozzarella-know-love-melt/ |url-status=live }}</ref> {{lang|it|Ciliegine}} ('small cherries') are cherry-sized.<ref>{{Cite web |title=Ciliegine mozzarella {{!}} Local Cheese From Italy |url=https://www.tasteatlas.com/ciliegine-mozzarella |access-date=2023-10-05 |website=[[TasteAtlas]] |archive-date=30 December 2021 |archive-url=https://web.archive.org/web/20211230144843/https://www.tasteatlas.com/ciliegine-mozzarella |url-status=live }}</ref> {{lang|it|Perlene}} are the smallest commercially produced and are often added to salads or hot soups and pasta dishes just before serving.<ref name=":0" /> These balls are packaged in [[whey]] or water, have a spongy [[Mouthfeel|texture]], and absorb flavours.
+
+Bocconcini ('small mouthful'), sometimes called {{lang|it|uova di bufala}} ('buffalo eggs'), are approximately bite-sized; a common use is alternating them with cherry tomatoes on a skewer for an appetiser.<ref name=":0" /><ref name="TEFC">[https://books.google.com/books?id=duCrM0xEkv4C&pg=PA40 The Essential Fingerfood Cookbook], p. 40.</ref> Bocconcini of water buffalo's milk are still produced in the provinces of [[Province of Naples|Naples]], [[Province of Caserta|Caserta]], and [[Province of Salerno|Salerno]], as {{lang|it|bocconcini alla panna di bufala}}, in a process that involves mixing freshly produced {{lang|it|[[Buffalo mozzarella|mozzarella di bufala campana]]}} [[Protected designation of origin|PDO]] with fresh cream. A {{lang|it|bocconcino di bufala campana}} PDO is also made, which is simply {{lang|it|mozzarella di bufala campana}} PDO, produced in the egg-sized format.
+
+When twisted to form a plait, mozzarella is called {{lang|it|treccia}}.<ref>{{cite book | last1=Bonetto | first1=C. | last2=Clark | first2=G. | last3=McNaughtan | first3=H. | title=Lonely Planet Southern Italy | publisher=Lonely Planet Global Limited | series=Travel Guide | year=2018 | isbn=978-1-78701-947-8 | url=https://books.google.com/books?id=M71TDwAAQBAJ&pg=PT471 | access-date=27 October 2024 | page=PT471}}</ref>
+
+===Low-moisture===
+Several variants have been specifically formulated and prepared for use on pizza, such as low-moisture mozzarella cheese.<ref>{{cite web |author=Aikenhead, Charles |date=1 June 2003 |title=Permanently pizza: continuous production of pizza cheese is now a realistic proposition |url=http://business.highbeam.com/137612/article-1G1-105477922/permanently-pizza-continuo |url-status=dead |archive-url=https://archive.today/20130125035645/http://business.highbeam.com/137612/article-1G1-105477922/permanently-pizza-continuo |archive-date=25 January 2013 |access-date=30 September 2012 |publisher=Dairy Industries International}} {{Subscription required}}</ref><ref>{{cite book |author=Fox, Patrick F. |url=https://books.google.com/books?id=c7cacFl04bgC&q=pizza+cheese&pg=PA338 |title=Cheese: Chemistry, Physics and Microbiology (Major Cheese Groups) |date=1999 |publisher=Aspen Publishers, Inc. |isbn=9780834213395 |volume=2 |access-date=27 September 2012}} {{ISBN|0412535106}}</ref> The ''International Dictionary of Food and Cooking'' defines this cheese as "a soft spun-curd cheese similar to mozzarella made from cow's milk" that is "[u]sed particularly for pizzas and [that] contains somewhat less water than real mozzarella".<ref>{{cite book |last=Sinclair |first=Charles G. |url=https://books.google.com/books?id=fnveo8cyxKkC&q=%22pizza+cheese%22&pg=PA417 |title=International Dictionary of Food and Cooking |publisher=Fitzroy Dearborn Publishers |year=1998 |isbn=1579580572 |page=417}}</ref>
+
+Low-moisture part-skim mozzarella, widely used in the food service industry, has a low [[galactose]] content, per some consumers' preference for cheese on pizza to have low or moderate [[Food browning|browning]].<ref>{{cite journal |author1=Baskaran, D. |author2=Sivakumar, S. |date=November 2003 |title=Galactose concentration in pizza cheese prepared by three different culture techniques |journal=International Journal of Dairy Technology |volume=56 |issue=4 |pages=229–232 |doi=10.1046/j.1471-0307.2003.00109.x |doi-access=free}}</ref>{{efn|Galactose is a type of [[sugar]] found in dairy products and other foods that is less sweet than glucose. Sugar in foods can lead to [[caramelization]] when they are cooked, which increases their browning.}} Some [[pizza cheese]]s derived from skim mozzarella variants were designed not to require aging or the use of starter.<ref name="McMahon">{{cite web |author=McMahon |display-authors=etal |date=5 September 2000 |title=Manufacture of Lower-fat and Fat-free Pizza Cheese |url=http://www.google.com/patents?id=hs4DAAAAEBAJ&printsec=abstract&dq=pizza+cheese |url-status=dead |archive-url=https://web.archive.org/web/20200110123935/https://patents.google.com/patent/US6113953?oq=pizza+cheese |archive-date=10 January 2020 |access-date=28 September 2012 |publisher=United States Patent and Trademark Office}}</ref> Others can be made through the direct acidification of milk.<ref name="McMahon" />
+
+===Other===
+Mozzarella of [[Sheep's milk|sheep milk]], sometimes called {{lang|it|mozzarella pecorella}}, is typical of [[Sardinia]], [[Lazio]], and [[Abruzzo]], where it is also called {{lang|it|mozzapecora}}. It is worked with the addition of the [[rennet]] of lamb.<ref>{{Cite web |title=Sardinian quality |url=http://www.cibitipici.it/prezzo/mozzarella-di-pecora |url-status=dead |archive-url=https://web.archive.org/web/20130818231649/http://cibitipici.it/prezzo/mozzarella-di-pecora |archive-date=18 August 2013 |access-date=15 April 2013}}</ref><ref>{{Cite web |title=Latium quality |url=http://www.formaggiroma.it/pagina.php?ID=29&categoria= |url-status=live |archive-url=https://web.archive.org/web/20200209121145/http://www.formaggiroma.it/pagina.php?ID=29&categoria= |archive-date=9 February 2020 |access-date=22 June 2017}}</ref><ref>[http://www.houseificioiltratturo.it/mozzarella.htm Abruzzo quality]{{Dead link|date=April 2020|bot=InternetArchiveBot|fix-attempted=yes}}</ref> [[Goat milk]] mozzarella was invented recently, and is produced in small quantities.<ref>{{Cite web |title=article in "L'Espresso" |url=http://espresso.repubblica.it/food/dettaglio/ecco-il-fior-di-latte-di-capra/2221355.html?refresh_ce |url-status=dead |archive-url=https://web.archive.org/web/20180614095442/http://espresso.repubblica.it/food/dettaglio/ecco-il-fior-di-latte-di-capra/2221355.html?refresh_ce |archive-date=14 June 2018 |access-date=22 June 2017}}</ref> Mozzarella is also sold smoked ({{lang|it|affumicata}}).<ref>{{Cite web |last=swabespAfra3 |date=2018-01-31 |title=Scamorza Affumicata: Italian Smoked Scamorza |url=https://www.murgella.com/scamorza/smoked-scamorza-affumicata/ |url-status=live |archive-url=https://web.archive.org/web/20240206012152/https://www.murgella.com/scamorza/smoked-scamorza-affumicata/ |archive-date=6 February 2024 |access-date=2024-02-06 |website=Murgella}}</ref>
+
+''Çaycuma'' and ''Kandıra'' mozzarella cheeses are [[Turkish cuisine#Cheeses|Turkish cheeses]] made of buffalo's milk.<ref>{{Cite web |title=MANDA MOZZARELLA PEYNİRİ 270GR - PERİHAN ABLA |url=https://www.caycumamandayogurdu.net/urun/manda-mozzarella-peyniri-270gr/127 |url-status=live |archive-url=https://web.archive.org/web/20210425141255/https://www.caycumamandayogurdu.net/urun/manda-mozzarella-peyniri-270gr/127 |archive-date=25 April 2021 |access-date=2021-04-25 |website=www.caycumamandayogurdu.net |language=tr}}</ref><ref>{{Cite web |title=Kandıra'da ürettikleri İtalyan peynirleriyle ithalatın önüne geçtiler |url=https://www.aa.com.tr/tr/turkiye/kandirada-urettikleri-italyan-peynirleriyle-ithalatin-onune-gectiler/2134765 |url-status=live |archive-url=https://web.archive.org/web/20210205105426/https://www.aa.com.tr/tr/turkiye/kandirada-urettikleri-italyan-peynirleriyle-ithalatin-onune-gectiler/2134765 |archive-date=5 February 2021 |access-date=2021-04-26 |website=www.aa.com.tr |language=tr}}</ref>
+
+==Production==
+{{Infobox nutritional value
+| name = Cheese, mozzarella, whole milk
+| water = 50 g
+| kcal = 300
+| protein = 22.2 g
+| fat = 22.4 g
+| satfat = 13.2 g
+| monofat = 6.6 g
+| carbs = 2.2 g
+| sugars = 1 g
+| calcium_mg = 505
+| phosphorus_mg = 354
+| sodium_mg = 627
+| source_usda = 1
+}}
+
+After the curd heals, it is further cut into {{Convert|1|-|1.5|cm|in|1|abbr=on}} pieces. The curds are stirred and heated to separate the curds from the whey. The whey is then drained from the curds and the curds are placed in a hoop to form a solid mass. The curd mass is left until the pH is at around 5.2–5.5, which is the point when the cheese can be stretched and kneaded to produce a delicate consistency—this process is generally known as {{lang|it|[[pasta filata]]}}. According to the {{lang|it|mozzarella di bufala campana}} trade association, "The cheese-maker kneads it with his hands... until he obtains a smooth, shiny paste, a strand of which he pulls out and lops off, forming individual mozzarella."<ref>{{cite web |author= Staff |url= http://www.mozzarelladibufala.org/allestimento.htm |title= Campana Buffalo's Mozzarella Cheese |publisher= Mozzarella di Bufala Campana Trade Organization |access-date= 8 May 2007 |archive-url= https://web.archive.org/web/20081017165243/http://www.mozzarelladibufala.org/allestimento.htm |archive-date= 17 October 2008 |url-status= dead }}</ref>
+
+Large quantities of mozzarella are exported internationally.<ref name=":4">{{Cite book |last=Schwartz |first=Arthur |title=Naples at Table: Cooking in Campania |publisher=[[HarperCollins]] |year=1998 |isbn=0-06-018261-X |location=New York |pages=[https://archive.org/details/naplesattablecoo0000schw/page/210/ 210]}}</ref>
+
+==Storage==
+Due to its high moisture content, it is traditionally served the day it is made,<ref name=":1" /> and food writer Arthur Schwartz describes that a Neapolitan will not eat day-old mozzarella without further processing—frying or baking into a casserole or pasta. Despite this, manufacturers market the cheese as having a week-long [[shelf life]]. As mozzarella is kept, it develops a sour flavour and softens, a process which is slower for larger cheeses.<ref name=":4" />
+
+Within the city of Naples, there is a belief among part of the populace that the best mozzarella has "relaxed"; softened in the hours after being made. Schwartz reports that this does not seem to be believed by Campanians who live in the country, closer to dairy farms where the cheese is produced, where the cheese can be easily purchased while still firm.<ref name=":4" />
+
+Low-moisture mozzarella can be kept refrigerated for up to a month,<ref name=":2" /> although some shredded low-moisture mozzarella is sold with a shelf life of up to six months.<ref name=":3" />
+
+==Recognitions and regulations==
+Mozzarella received a [[Traditional speciality guaranteed|traditional specialities guaranteed]] (TSG) certification from the [[European Union]] in 1998, and in 2022 the product specification was updated for the name {{lang|it|mozzarella tradizionale}}.<ref>{{Cite web |title=Mozzarella Tradizionale |url=https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014040 |access-date=2024-10-10 |website=ec.europa.eu}}</ref><ref>{{Citation |title=Commission Implementing Regulation (EU) 2022/1291 of 22 July 2022 approving a non-minor amendment to the product specification for a name entered in the register of traditional specialities guaranteed 'Mozzarella' (TSG) |date=2022-07-22 |url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2022.196.01.0115.01.ENG&toc=OJ:L:2022:196:TOC |access-date=2024-10-10 |language=en}}</ref> This protection scheme requires that {{lang|it|mozzarella tradizionale}} sold in the European Union is produced according to a traditional recipe. The TSG certification does not specify the source of the milk, so any type of milk can be used, but it is speculated that it is normally made from [[Milk|whole milk]].<ref name=ojec1998 />
+
+Different variants of this dairy product are included in the list of {{lang|it|[[prodotti agroalimentari tradizionali]]}} (PAT) of the [[Ministry of Agriculture, Food Sovereignty and Forests (Italy)|Ministry of Agricultural, Food and Forestry Policies]] (MIPAAF), with the following denominations:<ref>{{cite web|title=D.M. n° 54556 del 14/07/2017 "Diciassettesimo aggiornamento dell'elenco nazionale dei prodotti agroalimentari tradizionali ai sensi dell'articolo 12, comma 1, della legge 12 dicembre 2016, n. 238"|publisher=Gazzetta ufficiale della Repubblica Italiana nº 176 del 29/07/2017, Supplemento Ordinario nº 41|url=https://www.politicheagricole.it/flex/cm/pages/ServeAttachment.php/L/IT/D/7%252Ff%252Fc%252FD.752a52535cc29bcadf34/P/BLOB%3AID%3D11568/E/pdf|access-date=21 January 2019|archive-date=2 September 2017|archive-url=https://web.archive.org/web/20170902010002/https://www.politicheagricole.it/flex/cm/pages/ServeAttachment.php/L/IT/D/7%252Ff%252Fc%252FD.752a52535cc29bcadf34/P/BLOB%3AID%3D11568/E/pdf|url-status=live}}</ref>
+* Mozzarella ([[Basilicata]])
+* Mozzarella silana ([[Calabria]])
+* Mozzarella della mortella ([[Campania]])
+* Mozzarella di [[Brugnato]] ([[Liguria]])
+* Cow's mozzarella ([[Molise]])
+* Mozzarella or fior di latte ([[Apulia]])
+* Mozzarella ([[Sicily]])
+
+==See also==
+{{Portal|Italy|Food}}
+* [[List of Italian cheeses]]
+* [[List of stretch-curd cheeses]]
+* [[List of water buffalo cheeses]]
+* [[List of smoked foods]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+<references>
+
+<ref name=ojec1998>{{cite journal |title=Commission Regulation (EC) No 2527/98 |url=http://ec.europa.eu/agriculture/quality/door/registeredName.html?denominationId=473 |journal=Official Journal of the European Communities |volume=41 |pages=L 317/14–18 |publisher=European Commission |date=26 November 1998 |access-date=28 July 2014 |archive-date=9 August 2014 |archive-url=https://web.archive.org/web/20140809234238/http://ec.europa.eu/agriculture/quality/door/registeredName.html?denominationId=473 |url-status=live }}</ref>
+
+</references>
+
+==External links==
+{{Commons category}}
+* [http://lacasa.com.au/q-and-a/ Bocconcini Information; Ingredients & Nutritional Info, Recipes, FAQ & More]. {{Webarchive|url=https://web.archive.org/web/20180327213012/http://lacasa.com.au/q-and-a/ |date=27 March 2018 }}.
+* [https://web.archive.org/web/20120426010623/http://www.mozzarella-cheese.co.uk/making_mozzarella.html Step-by-step photo guide to making Mozzarella]
+* [https://web.archive.org/web/20081017165243/http://www.mozzarelladibufala.org/allestimento.htm Mozzarella di Bufala Campana trade organization]
+* [http://www.mozzarelladop.it/ The official DOP Consortium site]. {{Webarchive|url=https://web.archive.org/web/20070302132127/http://www.mozzarelladop.it/ |date=2 March 2007 }} (requires Flash).
+* [https://web.archive.org/web/20120426010623/http://www.nonsolomozzarella.com/ Sito di approndimento scientifico sulla mozzarella, e l'allevamento di bufala campana]
+
+{{Italian cheeses}}
+{{Authority control}}
+
+[[Category:Cow's-milk cheeses]]
+[[Category:Italian cheeses]]
+[[Category:Smoked cheeses]]
+[[Category:Stretched-curd cheeses]]
+[[Category:Traditional Speciality Guaranteed products from Italy]]
+[[Category:Water buffalo's-milk cheeses]]
+[[Category:Brined cheeses]]

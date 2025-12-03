@@ -1,0 +1,78 @@
+{{Short description|Traditional dish from Central America}}
+{{Infobox food
+| name               = Gallo pinto
+| image              = Gallo Pinto.jpg
+| caption            = Gallo pinto served with cheese
+| country            = [[Costa Rica]] and [[Nicaragua]]<!-- Deletion of either country here will be reverted.  Wikipedia doesn't take sides in this dispute, it reflects the dispute as recorded in the sources --><ref name="Parker-2017" />
+| region             = 
+| associated_cuisine = [[Central American cuisine]]
+| course             = [[Main dish]], [[side dish]]
+| served             = Hot
+| main_ingredient    = [[Rice]], [[beans]]
+| minor_ingredient   = Onions, peppers, other seasonings
+| variations         = Regional variations
+| calories           = 200
+| calories_ref       = 
+| protein            = 7
+| fat                = 0.5
+| carbohydrate       = 40
+| glycemic_index     = 
+| other              = 
+}}
+
+'''{{lang|es|Gallo pinto}}''' or '''{{lang|es|gallopinto}}''' is a traditional [[Rice and beans#International dishes and variations|rice and bean]] dish from [[Central America]].  Consisting of [[rice and beans]] as a base, gallo pinto is important to both [[Nicaragua]] and [[Costa Rica]], both of which consider it a national dish. 
+
+The beans in gallo pinto are cooked with [[garlic]], [[oregano]] and [[onion]]. When the bean juice is in equal parts with the red beans, they are then combined with leftover or previously prepared rice. The rice in the Nicaraguan version is prepared with salt and onions.  <ref>{{Cite web |last=Cuisine |first=Darlene at International |date=2017-08-17 |title=Nicaraguan Gallo Pinto ( Rice and Beans) |url=https://www.internationalcuisine.com/nicaraguan-gallo-pinto/ |access-date=2025-09-30 |website=International Cuisine |language=en-US}}</ref>
+
+==Etymology==
+Gallo pinto means 'spotted rooster' in [[Spanish language|Spanish]]. The name is said to originate in the multi-colored or speckled appearance that results from cooking the rice with black or red beans.<ref name="Ray-2023">{{Cite web |last=Ray |first=Ranita |date=30 January 2023 |title=Gallo Pinto, A Famed Vegetarian Dish! But Why The Rooster Link? |url=https://www.slurrp.com/article/gallo-pinto-costa-rican-iconic-vegetarian-dish-but-whats-the-rooster-connection-1675101677527 |access-date=2025-03-27 |website=[[Slurrp]] |language=en}}</ref> The term may also be shortened to "pinto" depending on the region.
+
+== History ==
+
+It is uncertain and disputed which country is the precise origin of the dish.<ref name="AmericanFolklore">{{Cite journal |last=Preston-Werner |first=Theresa |date=2020-07-10 |title=Gallo Pinto: Tradition, Memory, and Identity in Costa Rican Foodways |url=https://muse.jhu.edu/article/256967 |journal=[[Journal of American Folklore]] |volume=122}}</ref> Both [[Nicaragua]] and [[Costa Rica]] claim it as their own, and its origin is a controversial subject between the two countries.<ref name="Parker-2017" /><ref name="Ray-2023" /> There is general agreement that the dish's origins are [[Afro-Caribbean people|Afro-Caribbean]].<ref name="Parker-2017">{{Cite web |last=Parker |first=Jenn |date=2017-11-07 |title=Costa Rica Vs Nicaragua: Who Really Invented Gallo Pinto? |url=https://theculturetrip.com/north-america/costa-rica/articles/costa-rica-vs-nicaragua-who-really-invented-gallo-pinto |access-date=2025-03-27 |website=[[Culture Trip]] |language=en}}</ref> The dish is mentioned in [[Carlos Luis Fallas]]' ''[[Mamita Yunai]]'', which describes Costa Ricans and Nicaraguans working together on banana plantations encountering the dish and eventually taking it back home.<ref name="Parker-2017" /> According to anthropologist Teresa Preston-Werner, Fallas' "inclusion of pinto in the cultural landscape of the Caribbean coast demonstrates the meal’s ubiquity in daily life as early as the first part of the twentieth century".<ref name="AmericanFolklore" />
+
+In Costa Rica, the dish has an origin story involving a farmer in San Jose's San Sebastian neighborhood who told his friends and neighbors he was going to slaughter a speckled hen or gallo pinto for a feast day celebration for Saint Sebastian; when the people he had told interpreted this as an invitation to dinner, the hen wasn't enough to feed everyone, and he served rice and beans. It turned into a local joke, with people asking one another whether they'd gotten any of the farmer's gallo pinto, and the name for the dish spread throughout the country.<ref name="AmericanFolklore" /> Preston-Werner writes that the truth of the origin story is less important than the fact that it "provides a crucial cultural explanation for the origin of this ubiquitous food. In the case of pinto, a culturally adored foodway becomes grounded in time (the start of the twentieth century on the day of Saint Sebastián) and space (the town of San Sebastián by the Tiribi River)".<ref name="AmericanFolklore" />
+==Regional variations==
+=== Costa Rica ===
+[[File:CRI 07 2018 0120 (cropped).jpg|thumb|Costa Rican breakfast of gallo pinto, fried eggs, plantain, bacon, avocado, corn tortillas served with [[natilla]] and coffee]]
+In Costa Rica it is eaten with [[Lizano sauce]].<ref name="Ray-2023" /> Traditionally in home preparation the dish is made from leftover rice and beans from the previous day's meals.<ref>{{Cite web |last=Fernandez |first=Ileana |date=2023-08-31 |title=Gallo Pinto: A Secret Behind Costa Rica's Nicoya Blue Zone |url=https://ticotimes.net/2023/08/31/gallo-pinto-a-secret-behind-costa-ricas-nicoya-blue-zone |access-date=2025-03-27 |website=[[The Tico Times]] |language=en-US}}</ref><ref name="Bustos-2023">{{Cite web |last=Bustos |first=Laura Williams |date=2023-08-18 |title=16 Tips For Dining In Costa Rica Like A Local |url=https://www.tastingtable.com/1365478/tips-how-to-dine-costa-rica-like-local/ |access-date=2025-03-27 |website=[[Tasting Table]] |language=en-US}}</ref><ref>{{Cite web |last=Lopez |first=Jaime |date=2015-08-31 |title=The Afro Costa Rican Heritage of Gallo Pinto |url=https://news.co.cr/the-afro-costa-rican-heritage-of-gallo-pinto/41243/ |access-date=2025-03-27 |website=[[Costa Rica Star News]] |language=en-US}}</ref> There are several regional variations: the [[Costa Rican Central Valley|Valle Central]] version, which is usually prepared with black beans, peppers, onions, and cilantro, and often includes Lizano sauce in the recipe; and the [[Guanacaste Province|Guanacaste]] version, which is usually prepared with red beans and is fattier.<ref name="Ray-2023" /> A third version includes coconut milk.<ref name="AmericanFolklore" />
+
+The dish is often eaten for breakfast, and every breakfast typically includes it, but it is also eaten for other meals or for a snack.<ref name="Ray-2023" /><ref name="Deutsche Welle-2023" /><ref name="AmericanFolklore" /> As a breakfast dish it is often served with some combination of eggs, fried plantains, corn tortillas, fried cheese, meat and fruit, and is often accompanied by natilla.<ref name="Bustos-2023" /><ref name="González-2020">{{Cite web |last=González |first=Sofía |date=2020-11-11 |title=What to Eat at Costa Rica's Dazzling Mercado Central |url=https://www.eater.com/21527699/mercado-central-costa-rica-best-food-restaurants |access-date=2025-03-27 |website=[[Eater (website)|Eater]] |language=en}}</ref><ref>{{Cite web |last=Baur |first=Joe |date=2023-04-15 |title=Gallo pinto: Costa Rica rice and beans |url=https://www.bbc.com/travel/article/20230414-gallo-pinto-costa-rica-rice-and-beans |access-date=2025-03-27 |website=[[BBC]] |language=en-GB}}</ref> It is often served as a [[side dish]] at lunch.<ref name="Hines-2020">{{Cite web |last=Hines |first=Nickolaus |date=6 November 2020 |title=12 Classic Costa Rican Dishes That Exemplify Pura Vida |url=https://matadornetwork.com/read/classic-costa-rican-dishes/ |access-date=2025-03-27 |website=[[Matador Network]] |language=en-US}}</ref>
+
+===Nicaragua===
+In Nicaragua, where it is also called gallo pinto, it is traditionally prepared with [[Small red beans|red silk beans]] and onions, usually cooked in vegetable oil, although animal fats such as lard are occasionally used.<ref name=":0">[[Royal Spanish Academy]] y [[Association of Academies of the Spanish Language]] (2014). [http://dle.rae.es/Gallo+pinto «gallopinto»]. ''Diccionario de la lengua española'' (23.ª edición). Madrid: Spain. {{ISBN|978-84-670-4189-7}}. Consulted October 19, 2018.</ref><ref name="del Mar Cuadra-2023">{{Cite web |last=del Mar Cuadra |first=María |date=9 February 2023 |title=Gallopinto (Nicaraguan Rice and Beans) Recipe |url=https://www.seriouseats.com/gallopinto-nicaraguan-rice-and-beans-recipe |access-date=2025-03-27 |website=[[Serious Eats]] |language=en}}</ref> Recipes typically call for fewer ingredients than Costa Rican recipes.<ref>{{Cite web |last=Hvidsten |first=Nicole |date=2024-10-09 |title=Meet Minnesota's champion of Latin American culture and cuisine |url=https://www.startribune.com/meet-minnesotas-champion-of-latin-american-culture-and-cuisine/601159477 |access-date=2025-03-28 |website=[[Minneapolis Star Tribune]] |language=en}}</ref> In some recipes aromatics are left in large chunks and removed before serving.<ref name="del Mar Cuadra-2023" /> When prepared at home it is traditionally uses day-old rice to allow the rice to dry out slightly so that grains are separated.<ref name="del Mar Cuadra-2023" /> 
+
+The dish is eaten at any time of the day. It is commonly sold in [[fritanga|fritangas]], where it is served as a companion to various dishes.<ref name="Maddicks-2017">{{Cite web |last=Maddicks |first=Russell |date=2017-10-02 |title=A Brief History Of Fritangas: Nicaragua's Popular Street Barbecues |url=https://theculturetrip.com/north-america/nicaragua/articles/a-brief-history-of-fritangas-nicaraguas-popular-street-barbecues |access-date=2025-03-27 |website=[[Culture Trip]] |language=en}}</ref> The dish is eaten at any meal.<ref name="Ray-2023" /> In some homes it is served at every meal.<ref name="del Mar Cuadra-2023" />  It is often served garnished with sour cream and chilero (a slaw-like side dish consisting of fermented onions, carrots, and chili peppers).<ref>https://theculturetrip.com/central-america/nicaragua/articles/a-brief-history-of-fritangas-nicaraguas-popular-street-barbecues</ref> It is also typically accompanied by tortilla, eggs, and cheese.<ref>{{Cite web |title=Gallo Pinto - Recipes |url=https://www.goya.com/es/recipes/gallo-pinto/ |access-date=2025-09-30 |website=Goya Foods |language=es-ES}}</ref>
+
+=== Other cuisines ===
+The dish is also known in [[Panamanian cuisine]]<ref>{{Cite web |last=Russell |first=Benjamin |date=10 October 2018 |title=AQ Top 5 Urban Visionaries: Raisa Banfield |url=https://www.americasquarterly.org/fulltextarticle/aq-top-5-urban-visionaries-raisa-banfield/ |access-date=2025-03-28 |website=[[Americas Quarterly]] |language=en-US}}</ref><ref>{{Cite web |last=Nath |first=Shivya |date=2015-02-18 |title=Your 7-minute guide to Central America |url=https://www.cntraveller.in/story/your-7-minute-guide-central-america/ |access-date=2025-03-28 |website=[[Condé Nast Traveller]] |language=en-IN}}</ref> and in [[Guatemalan cuisine]].
+
+== Contention ==
+According to Costa Rica the dish dates to 1930s [[San José, Costa Rica|San Jose]]. According to Nicaragua it is based on a dish that was brought to the country by enslaved Africans much earlier.<ref name="Ray-2023" />
+
+In 2003, the government of Costa Rica held an event at which nearly 1000 pounds of gallo pinto was cooked and served; the event was recorded in the Guinness Book of World Records. Nicaragua responded by preparing and serving 1200 pounds.<ref name="The Tico Times-2005">{{Cite web |last= |first= |date=2005-01-14 |title=Costa Rica Strikes Back in Gallo Pinto War |url=https://ticotimes.net/2005/01/14/costa-rica-strikes-back-in-gallo-pinto-war |access-date=2025-03-27 |website=[[The Tico Times]] |language=en-US}}</ref> The competitions became an annual Gallo Pinto Day.<ref name="Ray-2023" /> The competition between the two countries over ownership of the dish is sometimes referred to as the "Gallo Pinto War".<ref name="The Tico Times-2005" />
+
+== Cultural importance ==
+The dish is culturally important in both Costa Rica and Nicaragua.<ref name="Ray-2023" /> 
+
+The dish is a national dish of Costa Rica and is the country's best known dish.<ref name="González-2020" /><ref name="Bustos-2023" /><ref name="Deutsche Welle-2023">{{Cite web |date=10 April 2023 |title=Gallo Pinto: The breakfast snack from Costa Rica |url=https://www.dw.com/en/gallo-pinto-the-breakfast-snack-from-costa-rica/video-65192151 |website=[[Deutsche Welle]]}}</ref><ref>{{Cite news |last=Miller |first=Bryan |date=2020-01-28 |title=Savoring Costa Rica, Sip By Sip |url=https://www.nytimes.com/2020/01/28/travel/costa-rica-coffee-tours.html |access-date=2025-03-27 |work=[[The New York Times]] |language=en-US |issn=0362-4331}}</ref> The phrase ''más tico que el gallo pinto'' (more Costa Rican than spotted rooster) is a common saying in Costa Rica.<ref name="Ray-2023" /> It is on the menu of most Costa Rican restaurants.<ref name="Bustos-2023" /> According to Costa Rican chef and food writer [[Isabel Campabadal]], "If any one dish defines Costa Rican cuisine, it is gallo pinto".<ref name="Hines-2020" /> According to anthropologist Theresa Preston-Werner, the dish is "ubiquitous" in any Costa Rican breakfast.<ref name="AmericanFolklore" />
+
+The dish is a staple in Nicaragua and considered one of its national dishes.<ref name="Maddicks-2017" /><ref name="Parker-2017" /> In 2019 [[Daniel Ortega]] proposed that Nicaragua needed to develop a "gallo pinto" economy, which ''[[Confidencial]]'' described as one that "appeal[ed] to the creativity and resistance of Nicaraguans to endure the hardships of an economic debacle caused by himself".<ref>{{Cite web |last=Salazar |first=Maynor |date=2019-01-03 |title=Ortega Offers Nicaragua "Reconciliation" & a Rice and Beans Economy |url=https://confidencial.digital/english/ortega-offers-nicaragua-reconciliation-a-rice-and-beans-economy/ |access-date=2025-03-27 |website=[[Confidencial]]}}</ref>
+
+==See also==
+* [[List of legume dishes]]
+* [[List of rice dishes]]
+* {{portal-inline|Food}}
+
+==References==
+{{reflist}}
+
+{{Rice dishes}}
+{{Legume dishes}}
+
+[[Category:Rice dishes]]
+[[Category:Nicaraguan cuisine]]
+[[Category:Costa Rican cuisine]]
+[[Category:Panamanian cuisine]]
+[[Category:Guatemalan cuisine]]
+[[Category:National dishes]]

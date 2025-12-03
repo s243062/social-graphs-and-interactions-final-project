@@ -1,0 +1,83 @@
+{{Short description|Irish meat and vegetable stew}}
+{{about}}
+{{Infobox food
+| name             = Irish stew
+| image            = Irish Beef Stew (34046928633).jpg
+| image_size       = 250px
+| caption          = A plate of Irish stew
+| alternate_name   = 
+| country          = [[Ireland]]
+| region           = 
+| creator          = 
+| course           = [[Main course|Main]]
+| type             = [[Stew]]
+| served           = Hot
+| main_ingredient  = [[Lamb and mutton|Lamb]] or [[beef]], [[potato]]es, [[carrot]]s, [[onion]]s, [[parsley]], [[cooking wine]] (sometimes), [[beer]] (sometimes)
+| variations       = 
+| calories         = 
+| other            =  
+| cookbook         = Irish Stew<!-- Included to force the link, which was not previously present without this parameter. -->
+}}
+
+'''Irish stew''' ({{langx|ga|stobhach Gaelach}})<ref name=tearma>{{cite web | url = http://www.tearma.ie/Search.aspx?term=Irish+stew | title = Irish stew | work = téarma.ie – Dictionary of Irish Terms | publisher = [[Foras na Gaeilge]] and [[Dublin City University]] | access-date = 18 Nov 2016}}</ref> or '''stobhach''' is a [[stew]] from [[Ireland]] that is traditionally made with root vegetables and lamb or mutton, but in modern times also it is commonly made with beef. As in all traditional folk dishes, the exact recipe is not consistent from time to time or place to place. Basic ingredients include [[lamb and mutton|lamb]] or [[mutton]] (mutton is used as it comes from less tender sheep over a year old, is fattier, and has a stronger flavour; mutton was cheaper and more common in less-affluent times), as well as [[potato]]es, [[onion]]s, and [[parsley]].<ref>{{cite web |url=http://homecooking.about.com/library/weekly/aa031300a.htm |title=Home Cooking: Traditional Irish Stew |publisher=Homecooking.about.com |date=2012-04-10 |access-date=2012-04-27 |archive-date=2008-05-17 |archive-url=https://web.archive.org/web/20080517130709/http://homecooking.about.com/library/weekly/aa031300a.htm |url-status=dead }}</ref> It may sometimes also include carrots. Irish stew is also made with [[goat meat|kid]]. Irish stew is considered a [[national dish]] of Ireland.<ref>{{Cite web|date=2011-09-13|title=Top 10 National Dishes -- National Geographic|url=https://www.nationalgeographic.com/travel/top-10/national-food-dishes/|archive-url=https://web.archive.org/web/20161014060413/http://www.nationalgeographic.com/travel/top-10/national-food-dishes/|url-status=dead|archive-date=October 14, 2016|access-date=2020-08-08|website=Travel|language=en}}</ref>
+
+{{blockquote|Irish stew is a celebrated Irish dish, yet its composition is a matter of dispute. Purists maintain that the only acceptable and traditional ingredients are neck mutton chops or kid, potatoes, onions, and water. Others would add such items as [[carrot]]s, [[turnip]]s, and [[pearl barley]]; but the purists maintain that they spoil the true flavour of the dish. The ingredients are boiled and simmered slowly for up to two hours. Salt can be added before or after the cooking. Mutton was the dominant ingredient because the economic importance of sheep lay in their wool and milk produce, and this ensured that only old or economically non-viable animals ended up in the cooking pot, where they needed hours of slow cooking. Irish stew is the product of a culinary tradition that relied almost exclusively on cooking over an open fire. It seems that Irish stew was recognised as early as about 1800.<ref>Davidson, Alan. (2006). ''Oxford Companion to Food''.  Oxford: Oxford University Press. (p.&nbsp;409).</ref>}}
+
+==History==
+[[File:IrishStew Guinness.JPG|thumb|upright|Close-up view of an Irish stew, with a [[Guinness]] stout]]
+
+Stewing is an ancient method of cooking meats that is common throughout the world. After the idea of the [[cauldron]] was imported from continental Europe and Britain, the cauldron (along with the already established [[spit (cooking aide)|spit]]) became the dominant cooking tool in ancient Ireland, with [[oven]]s being practically unknown to the ancient [[Gaels]].<ref>{{cite web|url=http://www.ravensgard.org/prdunham/irishfood.html |title=A History of Irish Cuisine |publisher=Ravensgard.org |access-date=2012-04-27}}</ref> The cauldron, along with [[flesh-hook]]s for suspending the meat, eventually became preferred over the spit for feasting purposes, as evidenced by archaeological findings that indicate a predominance of flesh hooks over roasting spits in Ireland and Britain.<ref>{{Cite book |last=Cunliffe |first=Barry |year=2013 |title=Britain Begins |url=https://books.google.com/books?id=lOIVDAAAQBAJ&pg=PA274 |location=Oxford |publisher=Oxford University Press |pages=273–276 |isbn=9780199679454 |oclc=802685975}}</ref>  Many food historians believe that goat was originally the meat of choice, eventually being supplanted by beef and mutton.<ref>{{cite web|url=http://articles.chicagotribune.com/2012-03-14/features/sc-food-0309-irish-stew-20120314_1_irish-stew-guinness-storehouse-barley|archive-url=https://web.archive.org/web/20120315165449/http://articles.chicagotribune.com/2012-03-14/features/sc-food-0309-irish-stew-20120314_1_irish-stew-guinness-storehouse-barley|url-status=dead|archive-date=March 15, 2012|title=How to cook an Irish stew|work=Chicago Tribune |access-date=3 July 2015}}</ref>
+
+The root vegetables and meat (originally goat) for the stew were then all in place, save for the potato, which was introduced to Ireland around the 16th century during the [[Columbian exchange]].
+
+Old Irish recipes are scarce, due to poor documentation, but the first such recipe for Irish stew dates to the 1600s, from southern Ireland, by the O'Brien family. First compiled by the Countess of [[Thomond]], 1684–1734. It says, "To make an Irish stew of mutton
+Season the bones of a neck of mutton with pepper and salt, put it down
+with a layer of onions, put them in covered stewpan, to keep in the
+steam & as much water as will cover it. The chops must be very tender, but as they are all put down together, the potatoes must be taken out
+first, as they burst". {{citation needed|date=November 2025}}
+
+A 19th-century American recipe was recorded by [[Helen Stuart Campbell]], a professor of domestic science at Kansas State Agricultural College. According to Campbell the stew was made with boneless beef or mutton, trimmed of fat and cut into small cubes, less than one inch square. To its broth were added onions and potatoes, and carrots (if beef was used), with a simple seasoning of salt and pepper. This stew was gently simmered for several hours and thickened with flour before serving.<ref>{{cite book |last=Scharnhorst |first=Gary |title=Literary Eats |publisher=McFarland |page=30}}</ref>
+
+== Laws and regulations ==
+===Canada===
+According to Canadian regulations, for commercially produced Irish stew to be labeled as such, it must contain at least 20% mutton, lamb and/or beef, and 30% vegetables. It may also include gravy, salt, various seasonings, and spices.<ref>{{Cite web |url=http://laws-lois.justice.gc.ca/eng/regulations/c.r.c.,_c._870/page-70.html#h-101 |title=Food and Drug Regulations |access-date=2017-07-14 |archive-url=https://web.archive.org/web/20170712214802/http://laws-lois.justice.gc.ca/eng/regulations/c.r.c.,_c._870/page-70.html#h-101 |archive-date=2017-07-12 |url-status=dead |publisher=Justice Laws Website, Government of Canada}}</ref>
+
+==See also==
+{{Portal|Food|Republic of Ireland}}
+{{div col|colwidth=15em}}
+* [[Bosnian pot]]
+* [[Cawl]]
+* [[Fårikål]]
+* [[Galbi-tang]]
+* [[Goat water]]
+* [[List of meat and potato dishes]]
+* [[List of Ireland-related topics]]
+* [[List of Irish dishes]]
+* [[List of stews]]
+* [[Pichelsteiner]]
+* [[Scotch broth]]
+* [[Stone soup]]
+{{div col end}}
+
+== Citations ==
+{{Reflist}}
+
+== General and cited references ==
+* {{cite book |last1=Davidson |first1=Alan |year=2006 |chapter=Irish stew |chapter-url=https://books.google.com/books?id=pZ-1AQAAQBAJ&pg=PT1240 |editor-last=Jaine |editor-first=Tom |title=Oxford Companion to Food |url=https://books.google.com/books?id=pZ-1AQAAQBAJ |edition=2nd |location=Oxford |publisher=Oxford University Press |isbn=9780192806819 |oclc=803887690}}
+
+{{Irish cuisine}}
+
+{{Ireland topics}}
+
+{{DEFAULTSORT:Irish Stew}}
+[[Category:Irish stews]]
+[[Category:American stews]]
+[[Category:Beef dishes]]
+[[Category:Canadian cuisine]]
+[[Category:Northern Irish cuisine]]
+[[Category:Irish cuisine]]
+[[Category:Irish meat dishes]]
+[[Category:Lamb dishes]]
+[[Category:Meat stews]]
+[[Category:National dishes]]
+[[Category:Meat and potatoes dishes]]

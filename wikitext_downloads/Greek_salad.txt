@@ -1,0 +1,84 @@
+{{Short description|Salad of tomatoes, cucumbers, and feta}}
+{{about||the French television series|Greek Salad (TV series)}}
+{{Infobox food
+| name            = Greek salad
+| image           = Greece Food Horiatiki.JPG
+| image_size      = 250px
+| caption         = Horiatiki salad with [[feta|feta cheese]] as served on [[Hydra (island)|Hydra Island]], where cucumber is peeled. In other regions, cucumbers are left unpeeled.
+| alternate_name  = 
+| country         = {{GRC}}
+| region          = {{GRC}}<br/> {{CYP}}
+| creator         = [[Greeks]]
+| course          = 
+| served          = 
+| main_ingredient = [[Tomato]]es, [[cucumber]]s, [[onion]]s, [[feta]] cheese, [[olive]]s (usually [[Kalamata olive]]s), [[Edible salt|salt]], [[oregano]], [[olive oil]]
+| variations      = 
+| calories        = 
+| other           = 
+}}
+'''Greek salad''', '''choriatiki'''{{Efn|[[Romanization of Greek|Romanized]] {{Transliteration|el|chōriátiki saláta}}, {{IPA|el|xorˈʝatici saˈlata|pron|small=no}}, {{Literal translation|village salad' or 'rustic salad}}.|name=|group=lower-alpha}} or '''horiatiki'''{{efn|Pronounced {{IPAc-en|ˌ|h|ɔːr|i|ə|ˈ|t|iː|k|i}} {{respell|HOR|ee|ə|TEE|kee}} in British English,<ref>{{cite Collins Dictionary|horiatiki|access-date=16 July 2024}}</ref> {{IPAc-en|ˌ|h|ɔːr|i|ˈ|ɑː|t|ɪ|k|i}} {{respell|HOR|ee|AH|tik|ee}} in American English.<ref>{{cite American Heritage Dictionary|horiatiki|access-date=16 July 2024}}</ref>}} ({{langx|el|χωριάτικη σαλάτα}}{{Efn|[[Romanization of Greek|Romanized]] {{Transliteration|el|chōriátiki saláta}}, {{IPA|el|xorˈʝatici saˈlata|pron|small=no}}, {{Literal translation|village salad' or 'rustic salad}}.|name=|group=lower-alpha}} or {{Lang|el|θερινή σαλάτα}}{{Efn|Romanized {{Transliteration|el|theriní saláta}}, {{IPA|el|θeriˈni saˈlata|pron|small=no}}, {{Literal translation|summer salad}}.|name=|group=lower-alpha}}) is a [[salad]] in [[Greek cuisine]] generally made with pieces of [[tomato]]es, [[cucumber]]s, [[onion]], [[feta]] cheese, and [[olive]]s (typically [[Kalamata olive]]s) and dressed with [[Edible salt|salt]], Greek [[oregano]], lemon juice and [[olive oil]]. Common additions include green [[bell pepper]] or [[caper|caper berries]] (especially on the [[Cyclades|Cyclades islands]]). Greek salad is often imagined as a farmer's breakfast or lunch, as its ingredients resemble those that a Greek farmer might have on hand.<ref>{{cite web|last1=Zhang|first1=Jenny|title=A Modern Tradition: Greek Salad|url=http://organicallyblissful.com/modern-tradition-greek-salad/|website=Organically Blissful|access-date=15 December 2016}}</ref>
+
+== Outside Greece ==
+[[File:GreekSalad2.JPG|thumb|right|An [[American cuisine|American]]-style Greek salad with lettuce]]
+Outside Greece, "Greek salad" may be a lettuce salad with Greek-inspired ingredients, even though the original dish is distinguished by the absence of lettuce. Meanwhile, the variant without lettuce may be called {{Lang|el-Latn|horiatiki}}, 'peasant salad', or 'village salad'.
+
+However in most European countries, including the UK, the dish broadly resembles the original, albeit often with non-Greek substitutions such as another cheese since feta cheese enjoys [[protected designation of origin]] status.
+
+In an American-style Greek salad, [[lettuce]], tomatoes, feta (often served in multiple cube-shaped cuttings mixed with the vegetables), and olives are the most standard elements, but cucumbers, [[peperoncini]] (pickled hot peppers), bell peppers, onions, [[radish]]es, [[Dolma|''dolmades'']], and anchovies/[[Sardines as food|sardines]] are common. Regional variants may include unusual components, e.g. in [[Detroit]], [[beet]]s, and in the [[Tampa Bay area]], [[potato salad]]. Dressings containing various herbs and seasonings are frequently used in the U.S. These styles of Greek salad are rarely encountered in Greece.
+
+Various other salads have also been called "Greek" in the English language in the last century, including some with no apparent connection to [[Greek cuisine]]. A 1925 Australian newspaper described a Greek salad of boiled [[squash (plant)|squash]] dressed with [[soured milk|sour milk]];<ref>{{cite web|url=https://news.google.com/newspapers?id=PnkRAAAAIBAJ&pg=1961,1019455&dq=greek-salad|title=The Age – Google News Archive Search|work=google.com|date=January 13, 1925|page=7}}{{Dead link|date=June 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> a 1934 American newspaper described a [[mayonnaise]]-dressed lettuce salad with shredded [[cabbage]] and [[carrot]]s.<ref>[https://news.google.com/newspapers?id=op8iAAAAIBAJ&sjid=Xq8FAAAAIBAJ&pg=3864,6039104&dq=greek-salad ''The Daily Times'' (Rochester and Beaver, Pennsylvania), March 13, 1934]</ref>
+
+== Other salads in Greece and Cyprus ==
+{{more citations needed section|date=December 2016}}
+[[File:Salade crétoise, archétype du régime méditerranéen.jpg|thumb|right|Cretan salad]]
+
+There are many other salads in Greek cuisine. These include:
+
+* {{Lang|el-Latn|marouli}} ({{Lang|el|μαρούλι}}; a salad with lettuce, onion and dill)<ref>{{Cite web |last=Killebrew |first=Kimberly |date=2025-04-02 |title=Maroulosalata (Greek Lettuce Salad) |url=https://www.daringgourmet.com/maroulosalata/ |access-date=2025-11-19 |website=The Daring Gourmet |language=en-US}}</ref>
+* {{Lang|el-Latn|[[lahanosalata]]}} ({{Lang|el|λαχανοσαλάτα}}; a shredded fresh cabbage salad  dressed with olive oil, lemon juice, and garlic)<ref>{{Cite web |last=Kochilas |first=Diane |date=2011-11-08 |title=Constantinople Style Spicy Cabbage Salad / Politiki Lahanosalata |url=https://www.dianekochilas.com/constantinople-style-spicy-cabbage-salad-politiki-lahanosalata/ |access-date=2025-11-19 |website=Mediterranean Diet, Healthy Greek & Blue Zone Ikaria Longevity Recipes by Diane Kochilas |language=en-US}}</ref>
+* {{Lang|el-Latn|pantzarosalata}} ({{Lang|el|παντζαροσαλάτα}}; boiled and sliced [[beetroot]]s, sometimes with beet greens as well, dressed with olive oil and red wine vinegar)<ref>{{Cite web |title=Beetroot salad {{!}} Cyprus Food Museum |url=https://www.cyprusfoodmuseum.com/en/sylloges/paradosiakes-syntages/beetroot-salad |access-date=2025-11-19 |website=www.cyprusfoodmuseum.com |language=en}}</ref>
+* {{Lang|el-Latn|salata roka}} ({{Lang|el|σαλάτα ρόκα}}; [[Eruca sativa|rocket (arugula)]] dressed with olive oil and red wine vinegar or lemon juice, possibly including anchovies)<ref>{{Cite web |title=Rocket and lettuce salad {{!}} Cyprus Food Museum |url=https://www.cyprusfoodmuseum.com/en/sylloges/paradosiakes-syntages/rocket-and-lettuce-salad |access-date=2025-11-19 |website=www.cyprusfoodmuseum.com |language=en}}</ref>
+* {{Lang|el-Latn|patatosalata}} ({{Lang|el|πατατοσαλάτα}}; a potato salad with olive oil, finely sliced onions, lemon juice or vinegar)<ref>{{Cite web |last=mygreekitchen |date=2025-01-09 |title=Patatosalata |url=https://mygreekitchen.gr/patatosalata/ |access-date=2025-11-19 |website=Mygreekitchen |language=en-US}}</ref>
+* {{Lang|el-Latn|[[revithosalata]]}} ({{Lang|el|ρεβιθοσαλάτα}}; a [[chickpea]] salad)<ref>{{Cite web |date=2020-01-26 |title=Greek Chickpea Salad {{!}} Revithosalata {{!}} Ρεβυθοσαλάτα - Dining and Cooking |url=https://www.diningandcooking.com/956001/greek-chickpea-salad-revithosalata-%cf%81%ce%b5%ce%b2%cf%85%ce%b8%ce%bf%cf%83%ce%b1%ce%bb%ce%ac%cf%84%ce%b1/ |access-date=2025-11-19 |language=en-US}}</ref>
+* {{Lang|el-Latn|maintanouri}} ({{Lang|el|μαϊντανούρι}}; a parsley salad usually used as a condiment)
+* ''[[Cypriot salad]],<ref>{{cite web|url=http://cypriotnews.blogspot.nl/2015/09/recipe-cypriot-salad.html|title=Cypriot Salad}}</ref>'' native to the island of [[Cyprus]], consists of finely chopped tomatoes, capers, cucumbers, onions, flat-leaf parsley, feta cheese, dressed with olive oil and lemon or red wine vinegar, and closely resembles the "Greek salad" of Greece.
+
+Some spreads and dips found in the [[meze]] of [[Greek cuisine]] are also called "salads" in Greek, such as ''[[melitzanosalata]]'', ''[[taramasalata]]'' and [[tzatziki]].
+
+==Gallery==
+<gallery mode="packed" heights="160">
+Griechischer Salat, Arki (Dodekanes).JPG|Horiatiki salad as served in the [[Dodecanese islands]]
+File:Greek Salad from Thessaloniki.jpg|Greek salad in [[Thessaloniki]]
+Moussaka and Greek Salad at a taverna in Greece.jpg|Horiatiki salad served with [[moussaka]] in [[Laconia]], [[Peloponnesus]]
+Flickr - cyclonebill - Græsk salat.jpg|Greek salad as served in other countries. The main differences are the serving of the [[feta]] cheese in multiple cube-shaped cuttings instead of a single rectangular-piece and the more liberal supply of onion.
+Græsk salat (8552414648).jpg|Greek-inspired salad as served in [[Copenhagen, Denmark]]
+</gallery>
+
+== See also ==
+{{Portal|Greece|Cyprus|Food}}
+* [[Afghan salad]], a similar salad from Afghanistan
+* [[Arab salad]], a similar salad from the Arab world
+* [[Çoban salatası]], a similar salad from Turkey
+* [[Israeli salad]], a similar salad from Israel
+* [[Kachumbari]], a similar salad from East Africa
+* [[Kachumber]], a similar salad from India
+* [[Pico de gallo]], a similar salsa from Mexico
+* [[Serbian salad]], a similar salad from Serbia
+* [[Shirazi salad]], a similar salad from Iran
+* [[Shopska salad]], a similar salad from the Balkans
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{Cuisine of Greece}}
+{{Salads}}
+
+[[Category:Cypriot cuisine]]
+[[Category:Greek cuisine]]
+[[Category:Salads]]
+[[Category:Vegetable dishes]]
+[[Category:Cheese and salad]]
+[[Category:Greek-American cuisine]]

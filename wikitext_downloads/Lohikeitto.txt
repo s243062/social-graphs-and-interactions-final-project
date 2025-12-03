@@ -1,0 +1,40 @@
+{{Short description|Nordic salmon and potato dish with carrots and leeks}}
+{{Infobox food
+| name             = Salmon soup (Lohikeitto) 
+| image            = Salmon soup at Löyly, Helsinki (52890138067).jpg
+| image_size       = 250px
+| caption          = 
+| alternate_name   = Creamy salmon soup, laxsoppa
+| country          = [[Finland]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Soup]]
+| served           = 
+| main_ingredient  = [[Salmon as food|Salmon]] fillets, [[potato]]es, [[leek]]s
+| variations       = 
+| calories         = 
+| other            = 
+| no_recipes       = true
+}}
+
+'''Salmon chowder''' ({{Langx|fi|lohikeitto}} {{IPA|fi|ˈlohiˌkei̯tːo|}}, {{Langx|sv|laxsoppa}}) is a common dish in [[Finland]] and other [[Nordic countries]]. It consists of [[Salmon as food|salmon]] fillets, boiled [[potato]]es, carrots and [[leek]]s.<ref>{{Cite book |last=Ojakangas |first=Beatrice A. |title=Scandinavian Feasts: Celebrating Traditions Throughout the Year |date=1992 |publisher=[[University of Minnesota Press]] |pages=220 |author-link=Beatrice Ojakangas}}</ref><ref name="David" /> The dish is served hot, and typically seasoned with fresh [[dill]], [[allspice]], salt and black pepper. The soup is made with cream or whole milk, making it a [[chowder]] with a creamy flavour and texture.<ref name="David">{{Cite book |last=Davidson |first=Alan |title=North Atlantic Seafood: A Comprehensive Guide with Recipes |date=1979 |publisher=[[Ten Speed Press]] |pages=360 |author-link=Alan Davidson (food writer)}}</ref><ref>{{Cite web |last=Moran |first=Sue |date=April 16, 2022 |title=Finnish Salmon Soup (Lohikeitto) • authentic recipe! |url=https://theviewfromgreatisland.com/finnish-salmon-soup-lohikeitto-recipe/ |access-date=June 18, 2023 |website=The View from Great Island}}</ref>
+
+==See also==
+* [[Finnish cuisine]]
+* [[List of fish dishes]]
+* [[List of soups]]
+* {{Portal-inline|Food}}
+
+==References==
+{{Reflist}}
+
+{{salmon|state=expanded}}
+{{seafood}}
+
+[[Category:Finnish cuisine]]
+[[Category:Fish and seafood soups]]
+
+
+{{Finland-cuisine-stub}}
+{{Soup-stub}}

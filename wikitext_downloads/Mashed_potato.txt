@@ -1,0 +1,104 @@
+{{Short description|Potato dish}}
+{{About|the culinary dish||Mashed potato (disambiguation)}}
+{{See also|Instant mashed potatoes}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox food
+| name             = Mashed potato
+| image            = Sous vide mashed potatoes.jpg
+| image_size       = 300px
+| caption          = 
+| alternate_name   =
+| country          = [[United Kingdom]]<ref>''[[The Art of Cookery]]'', 1747, p. 148 [https://archive.org/details/TheArtOfCookery/page/n177/mode/2up full text]</ref>
+| region           = 
+| creator          =
+| course           = [[Side dish]], [[condiment]]
+| type             =
+| served           =
+| main_ingredient  = [[Potato]]es, [[butter]], [[milk]] or [[cream]], [[Edible salt|salt]], [[black pepper]]
+| variations       = [[Duchess potatoes]]
+| calories         = <!-- too variable! -->
+| other            =
+}}
+'''Mashed potato''' or '''mashed potatoes''' ([[American English|American]], [[Canadian English|Canadian]], and [[Australian English]]), colloquially known as '''mash''' ([[British English]]),<ref>{{Cite web|url=https://www.lexico.com/definition/mash|archive-url=https://web.archive.org/web/20191209172846/https://www.lexico.com/definition/mash|url-status=dead|archive-date=9 December 2019|title=Mash: Meaning of Mash |website=Lexico Dictionaries &#124; English}}</ref> is a dish made by mashing boiled or steamed [[potato]]es, usually with added milk, butter, salt, and pepper. It is generally served as a [[side dish]] to meat or vegetables. Roughly mashed potatoes are sometimes called '''smashed potatoes'''. [[Dehydrated food|Dehydrated]] [[instant mashed potatoes]]<ref>{{cite book | title=Package Quantities of Instant Mashed Potatoes | publisher=U.S. Department of Commerce, National Bureau of Standards | series=Voluntary product standard | year=1971 | url=https://books.google.com/books?id=8oTQrCY7R9oC&pg=PA1 | access-date=28 August 2023 | page=1}}</ref> and [[Frozen food|frozen]] mashed potatoes<ref>{{cite book | last=Sun | first=D.W. | title=Handbook of Frozen Food Processing and Packaging | publisher=CRC Press | series=Contemporary Food Engineering | year=2016 | isbn=978-1-4398-3605-7 | url=https://books.google.com/books?id=sxzOBQAAQBAJ&pg=PA490 | access-date=28 August 2023 | page=490}}</ref> are available. Mashed potatoes are an ingredient in other dishes, such as [[dumpling]]s and [[gnocchi]].<ref>{{cite book | last=Marks | first=G. | title=The: World of Jewish Cooking | publisher=Simon & Schuster | series=Over 613 Traditional Recipes from Alsace to Yemen | year=1999 | isbn=978-0-684-83559-4 | url=https://books.google.com/books?id=Ux2lGKCKVPYC&pg=PA249 | access-date=28 August 2023 | page=249}}</ref><ref>{{cite book | title=Food Preparation and Cooking: Cookery units. Student guide | publisher=Stanley Thornes | series=Catering and hospitality, NVQ/SVQ2 | year=1996 | isbn=978-0-7487-2566-3 | url=https://books.google.com/books?id=vRcidxIUWYMC&pg=PA280 | access-date=28 August 2023 | page=280}}</ref>
+
+==History==
+An early recipe is found in [[Hannah Glasse]]'s ''[[The Art of Cookery]]'', published in 1747.<ref>{{cite book | title=Potato: A Global History  | publisher=Reaktion Books |  year=2011| isbn=9781861897992 | url=https://press.uchicago.edu/ucp/books/book/distributed/P/bo11434595.html| access-date=10 December 2024 }}</ref> Her recipe mashed them in a saucepan with milk, salt, and butter.<ref>[[Hannah Glasse]], ''[[The Art of Cookery]]'', 1747, p. 148 [https://archive.org/details/TheArtOfCookery/page/n177/mode/2up full text]</ref>
+
+==Ingredients==
+Most authors recommend the use of "floury" potatoes with a high ratio of [[amylose]] in their starch to achieve a fluffy, creamy consistency and appearance.<ref name=guardian>{{cite news |last=Cloake |first=Felicity |title=What's the best mashed potato method? |url=https://www.theguardian.com/lifeandstyle/wordofmouth/2010/mar/15/best-mashed-potato-method |work=The Guardian |location=London |date=15 March 2010 |access-date=12 December 2016 |archive-date=21 December 2016 |archive-url=https://web.archive.org/web/20161221075452/https://www.theguardian.com/lifeandstyle/wordofmouth/2010/mar/15/best-mashed-potato-method |url-status=live }}</ref> The best-known floury varieties are [[King Edward potato|King Edward]], Golden Wonder, and Red Rascal in Britain and the [[Russet potato|Russet]] in North America.<ref>{{Cite journal|last=Randal|first=Oulton|date=7 October 2004|title=Floury Potatoes|url=http://www.cooksinfo.com/floury-potatoes|website=CooksInfo.com|language=en-US|access-date=27 November 2017|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201033254/http://www.cooksinfo.com/floury-potatoes|url-status=live}}</ref> However, some recipes use "waxy" potatoes containing more [[amylopectin]] in their starch for a different texture or look;<ref name="guardian" /> for instance, one pounded mashed potato dish from [[Yunnan cuisine]] (in southwestern China), uses waxy potatoes to achieve a chewy, sticky texture.<ref name="CCD chewy">{{cite AV media |people= Chinese Cooking Demystified |date= 19 December 2019|title= Yunnan Pounded Mashed Potato (云南哈尼舂洋芋)|language= en |url=https://www.youtube.com/watch?v=C5_6V6aN7AQ |access-date= 12 October 2022 |publisher=[[YouTube]] }}</ref>
+
+Butter, milk or cream, [[Edible salt|salt]], and [[Black pepper|pepper]] are usually added. Many other seasonings may also be used, including herbs (notably [[parsley]] and [[chives]]), [[spices]] (notably [[nutmeg]]), [[garlic]], [[cheese]], [[bacon]], [[sour cream]], crisp [[onion]] or [[spring onion]], [[caramelisation|caramelized]] onion, and mustard.<ref>{{cite web |url=http://www.potatogoodness.com/mashed-potatoes/ |title=Best Mashed Potato Recipes and Toppings – US Potato Board |publisher=Potatogoodness.com |access-date=16 April 2018 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612163226/https://www.potatogoodness.com/mashed-potatoes/ |url-status=live }}</ref>
+
+One French variation adds [[egg yolk]] for ''pommes duchesse'', or [[Duchess potatoes]], piped through a carrot tube into wavy ribbons and rosettes, brushed with butter, and lightly browned.<ref>{{cite book | last=Child | first=J. | title=Mastering the Art of French Cooking, Volume 2: A Cookbook | publisher=Knopf Doubleday Publishing Group | year=1970 | isbn=978-0-394-40152-2 | url=https://books.google.com/books?id=EfEFEAAAQBAJ&pg=PA399 | access-date=29 August 2023 | page=399}}</ref><ref>{{cite book | last=Institute | first=F.C. | title=The Fundamental Techniques of Classic Cuisine | publisher=ABRAMS | year=2022 | isbn=978-1-61312-255-6 | url=https://books.google.com/books?id=0j9cEAAAQBAJ&pg=PT380 | access-date=29 August 2023 | page=380}}</ref> Some French recipes for ''pomme purée'' (potato [[Purée|puree]]) use up to one part butter for every two parts potato.<ref name="guardian" /><ref>{{cite web |last=Eppich |first=Kristen |url=http://www.chatelaine.com/recipes/mashed-potato-recipe/ |title=Best mashed potato recipe in the world |publisher=Chatelaine.com |date=18 April 2013 |access-date=16 April 2018 |archive-date=10 April 2018 |archive-url=https://web.archive.org/web/20180410072040/http://www.chatelaine.com/recipes/mashed-potato-recipe/ |url-status=live }}</ref> In low-calorie or non-dairy variations, milk, cream, and butter may be replaced by [[soup stock]] or [[broth]].
+
+''Aloo bharta'', an Indian sub-continent variation, uses chopped [[onion]]s, mustard (oil, [[Mustard (condiment)|paste]], or [[Mustard seed|seeds]]), [[chili pepper]], [[coriander]] leaves, and other [[spice]]s. ''Alu pitika'' ({{Langx|as|আলু পিটিকা}}) is a popular variation of ''aloo bharta'' in [[Assam]],<ref>{{Cite book|last1=Gokhale|first1=Jyoti S.|last2=Lele|first2=S. S.|last3=Ananthanarayan|first3=Laxmi|title=Nutrition, Food and Diet in Ageing and Longevity|chapter=Indian Traditional Foods and Diets: Combining Traditional Wisdom with Modern Science of Nutraceuticals and Functional Foods|date=2021|chapter-url=https://link.springer.com/chapter/10.1007/978-3-030-83017-5_18|series=Healthy Ageing and Longevity|volume=14|pages=357–392|doi=10.1007/978-3-030-83017-5_18|isbn=978-3-030-83016-8|s2cid=244308051|access-date=23 November 2021|archive-date=9 December 2022|archive-url=https://web.archive.org/web/20221209060558/https://link.springer.com/chapter/10.1007/978-3-030-83017-5_18|url-status=live}}</ref><ref>{{Cite book|last1=Ananthanarayanan|first1=Laxmi|last2=Dubey|first2=Kriti Kumari|last3=Muley|first3=Abhijeet B.|last4=Singhal|first4=Rekha S.|title=Traditional Foods|chapter=Indian Traditional Foods: Preparation, Processing and Nutrition|date=2019|chapter-url=https://link.springer.com/chapter/10.1007/978-3-030-24620-4_6|series=Food Engineering Series|pages=127–199|doi=10.1007/978-3-030-24620-4_6|isbn=978-3-030-24619-8|s2cid=210312613|via=[[Springer Publishing|Springer]]|access-date=23 November 2021|archive-date=11 July 2022|archive-url=https://web.archive.org/web/20220711135256/https://link.springer.com/chapter/10.1007/978-3-030-24620-4_6|url-status=live}}</ref> that may occasionally omit mustard and other spices. ''Alu pitika'', made with roasted and smoked potatoes, is especially consumed in the winter.
+
+<gallery class="center" widths="200" heights="150">
+File:Mashed Potatoes in Steam-jacketed Combi Kettle.jpg|Industrial cooking of mashed potatoes in a steam-jacketed combi kettle
+File:Sausage Trio, Mash and Cabbage with Onion Gravy.jpg|A plate of sausage and mashed potatoes, with cabbage and onion gravy, commonly known as "[[bangers and mash]]"
+File:Mash Potatoes.jpg|Close-up view of mashed potatoes with butter and chives
+File:2021-11-25 21 30 25 Mashed potatoes with gravy from Wegmans in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg|Mashed potatoes and gravy from an American supermarket
+</gallery>
+
+==Culinary uses==
+[[File:Frankfurter-rippchen-mit-kraut-kpl.001-1.jpg|thumb|Mashed potato served with ''[[Frankfurter Rippchen]]'', ''[[sauerkraut]]'' and mustard]]
+
+Mashed potato can be served as a [[side dish]]. In the British Isles, sausages served with mashed potatoes are known as [[bangers and mash]]. Mashed potato can be an ingredient of various other dishes, including [[cottage pie|shepherd's and cottage pie]], Orkney [[clapshot]], [[pierogi]], [[colcannon]], [[champ (food)|champ]], [[dumpling]]s, [[potato pancakes]], potato [[croquette]]s, and [[gnocchi]]. Particularly runny mashed potatoes are called ''mousseline'' potatoes.<ref name="Dupree">{{Cite book| publisher = Gibbs Smith| isbn = 978-1-4236-2316-8| last = Dupree| first = Nathalie| title = Mastering the Art of Southern Cooking| date = 1 November 2012}}</ref>
+
+In the United Kingdom, cold mashed potato can be mixed with fresh eggs and then fried until crisp to produce a [[potato cake]]. This dish is thought to have originated in [[Cornwall]] and is a popular breakfast item. When the potato is combined with cooked cabbage or similar vegetables, the fried dish is known as [[bubble and squeak]]; some recipes add meat or other ingredients.
+
+Mashed potatoes may be eaten with [[gravy]],<ref>{{cite book | last=Smith | first=A.F. | title=The Oxford Companion to American Food and Drink | publisher=Oxford University Press, USA | series=Oxford Companions | year=2007 | isbn=978-0-19-530796-2 | url=https://books.google.com/books?id=AoWlCmNDA3QC&pg=PT321 | access-date=28 August 2023 | page=321}}</ref> typically meat gravy, though vegetable gravy is becoming more common as vegetarian and vegan diets increase in popularity.{{citation needed|date=August 2020}}
+
+A [[potato masher]] can be used to mash the potatoes.<ref>{{cite book | title=Commercial America | publisher=The Philadelphia Commercial Museum. | issue=v. 7 | year=1910 |url=https://books.google.com/books?id=4OnmAAAAMAAJ&pg=RA4-PA27 | access-date=9 January 2017 | page=27}}</ref> A [[potato ricer]] produces a uniform, lump-free, mash.<ref>{{cite book | last1=Simmons | first1=M. | last2=Table | first2=Sur La | title=Things Cooks Love: Implements, Ingredients, Recipes | publisher=Andrews McMeel Publishing | year=2008 | isbn=978-0-7407-6976-4 |url=https://archive.org/details/isbn_9780740769764 | url-access=registration | access-date=9 January 2017 | page=[https://archive.org/details/isbn_9780740769764/page/133 133]}}</ref>
+
+In [[India]], mashed potatoes made with spices, fried or not, are called chaukha. Chaukha is used in [[samosa]]s in India and with [[Litti (dish)|litti]], especially in [[Bihar]].<ref name="Dupree"/>
+
+In [[Kenya]], mashed potatoes are eaten in the form of a dish called [[mukimo]], native to the Kikuyu tribe. The dish mainly incorporates corn and peas along with other ingredients into the potatoes. It is often served with grilled meat, known as ''nyama choma'', which could be either goat or beef.<ref>{{cite web|url=https://www.africanbites.com/irio/|title=Kenyan Mashed Potatoes: Irio}}</ref>
+
+In [[Turkey]], mashed potatoes made with milk, salt, black pepper, and butter are called ''patates puresi''.{{citation needed|date=August 2023}}
+
+==See also==
+{{Portal|Food}}
+{{div col|colwidth=30em}}
+* [[Aligot]]
+* [[Champ (food)|Champ]]
+* [[Fufu]]
+* [[Hachis Parmentier]]
+* [[Hutspot]]
+* [[List of Irish dishes]]
+* [[List of potato dishes]]
+* [[Mince and tatties]]
+* [[Perkedel]]
+ 
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline}}
+*{{Wiktionary inline|mashed potato}}
+* [https://en.wikibooks.org/w/index.php?search=Mashed+potato Mashed potato] at Wikibooks
+
+{{Potato dishes}}
+{{Thanksgiving}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mashed Potato}}
+[[Category:Potato dishes]]
+[[Category:British cuisine]]
+[[Category:Irish cuisine]]
+[[Category:Dutch cuisine]]
+[[Category:Cuisine of Luxembourg]]
+[[Category:German cuisine]]
+[[Category:Swedish cuisine]]
+[[Category:Sámi cuisine]]
+[[Category:Danish cuisine]]
+[[Category:Norwegian cuisine]]
+[[Category:Finnish cuisine]]
+[[Category:Lithuanian cuisine]]
+[[Category:Indian cuisine]]
+[[Category:Australian cuisine]]
+[[Category:New Zealand cuisine]]
+[[Category:Thanksgiving food]]
+[[Category:Creamy dishes]]

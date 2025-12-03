@@ -1,0 +1,82 @@
+{{Short description|North African hot chili pepper paste}}
+{{About|the chili pepper paste|the Armenian porridge|Harissa (dish)|the semolina-based dessert|Basbousa}}
+{{Other uses|Harissa (disambiguation)}}
+{{protection padlock|small=yes}} 
+{{Infobox food
+| name = Harissa
+| image = File:هريسة دياري.JPG
+| caption = 
+| alternate_name = هريسة 
+| region = [[Maghreb]]
+| creator =  <!-- or | creators = -->
+| type = Paste
+| main_ingredient = Red peppers
+| minor_ingredient = [[Baklouti pepper]]
+| variations = 
+| serving_size = 100 g
+| calories = 
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index =
+| similar_dish = 
+| other = 
+}}
+
+'''Harissa''' ({{langx|ar|هريسة|harīsa}}, from [[Maghrebi Arabic]]) is a hot [[chili pepper paste]], native to the [[Maghreb]]. The main ingredients are [[roasting#Vegetables|roasted]] [[chili pepper|red peppers]], [[Baklouti pepper]]s ({{lang|ar|بقلوطي}}), [[spices]] and [[herbs]] such as [[garlic]] paste, [[caraway]] seeds, [[coriander]] seeds, [[cumin]] and [[Olive oil|olive]] oil to carry the oil-soluble flavors.<ref>{{Cite web|last=@NatGeoUK|date=2019-08-16|title=Breaking bread: coastal cuisine and family feasts in Tunisia|url=https://www.nationalgeographic.co.uk/travel/2019/08/breaking-bread-coastal-cuisine-tunisia|access-date=2021-01-05|website=National Geographic|language=en-gb}}</ref>
+
+[[Tunisia]] is the biggest exporter of prepared harissa and [[UNESCO]] lists it as part of Tunisia's [[UNESCO Intangible Cultural Heritage Lists|Intangible Cultural Heritage]].<ref name=":0">{{cite web |last1=unesco |title=New inscriptions to the UNESCO Intangible cultural heritage |url=https://www.unesco.org/en/articles/new-inscriptions-unesco-intangible-cultural-heritage |access-date=1 December 2022}}</ref><ref name=":1">{{Cite web |title=UNESCO - Harissa, knowledge, skills and culinary and social practices |url=https://ich.unesco.org/en/RL/harissa-knowledge-skills-and-culinary-and-social-practices-01710 |access-date=2022-12-01 |website=ich.unesco.org |language=en}}</ref> The origin of harissa goes back to the importation of chili peppers into [[North African cuisine|Maghrebian cuisine]] by the [[Columbian exchange]],<ref name="Morse">{{cite book |last=Morse |first=Kitty |url=https://books.google.com/books?id=0j5c0GMrOdcC&pg=PA66 |title=Artichoke to Za'atar: Modern Middle Eastern Food |author2=Lucy Malouf |publisher=U of California P |year=1998 |isbn=978-0-8118-1503-1 |page=66}}</ref> presumably during the [[Conquest of Tunis (1535)|Spanish occupation]] of [[Ottoman Tunisia]] between [[Conquest of Tunis (1535)|1535]] and [[Conquest of Tunis (1574)|1574]].<ref name="Marks2008">{{cite book |author=Gil Marks |url=https://books.google.com/books?id=Lb3MVYVp_9sC&pg=PT797 |title=Olive Trees and Honey: A Treasury of Vegetarian Recipes from Jewish Communities Around the World |publisher=Wiley |year=2008 |isbn=978-0-544-18750-4 |location=Northwest African Chili Paste (Harissa) |author-link=Gil Marks}}</ref>
+
+== Etymology ==
+The word derives from the Arabic root {{Transliteration|ar|harasa}} ({{Langx|ar|هرس}}) 'to pound, to break into pieces', referring to pounding chilis,<ref>{{Cite web|last=Jose|date=2016-07-22|title=The Story of Harissa|url=https://www1.belazu.com/story/harissa/|access-date=2021-02-08|website=Belazu Ingredient Company|language=en-US|archive-date=2021-02-09|archive-url=https://web.archive.org/web/20210209005402/https://www1.belazu.com/story/harissa/|url-status=dead}}</ref> a tool traditionally used to make the paste in the Maghreb is called {{ill|Mehraz|fr|Mehraz}},<ref>{{Cite web |date=2023-09-17 |title=Le Mehres, un outil de grand-mère qui n'a jamais perdu son charme |url=https://tunisie.co/article/9419/gastronomie/cuisine/mehras-504800 |access-date=2023-09-17 |website=tunisie.co |language=en-US}}</ref> and similar names are used for other pastes in the Maghrebi cuisine, such as "Hrous" which uses the same harissa recipe with a slight difference in the peppers, which are green.
+
+== Consumption and culinary traditions ==
+
+===Algeria===
+In Algeria, harissa is commonly added to soups, stews, and couscous.<ref name="Edelstein2010">{{cite book|author=Sari Edelstein|url=https://books.google.com/books?id=Tl9Pcq25s8AC&pg=PA345|title=Food, Cuisine, and Cultural Competency for Culinary, Hospitality, and Nutrition Professionals|publisher=Jones & Bartlett Publishers|year=2010|isbn=978-1-4496-5968-4|page=345}}</ref> Harissa paste can also be used as a rub for meat<ref>{{cite web|last=Fayed|first=Saad|title=Flank Steak with Harissa|url=http://mideastfood.about.com/od/beef/r/harissaflank.htm|url-status=dead|archive-url=https://web.archive.org/web/20090608075412/http://mideastfood.about.com/od/beef/r/harissaflank.htm|archive-date=2009-06-08|access-date=2009-08-02|publisher=About.com}}]</ref> or [[eggplant]]s.<ref>{{cite web|title=Baby Eggplant with Harissa and Mint|url=http://www.aubergines.org/recipes.php?eggplant=2672|access-date=2009-08-02|publisher=Ashbury's Aubergines}}</ref> Another significant producer is Algeria's [[Annaba Province]],<ref name="Group2008">{{cite book|author=Oxford Business Group|url=https://books.google.com/books?id=zPz9FHXJVLUC&pg=PA230|title=The Report: Algeria 2008|publisher=Oxford Business Group|year=2008|isbn=978-1-902339-09-2|page=230}}</ref> which is also a significant consumer.<ref name="Albala2011">{{cite book|author=Ken Albala|url=https://books.google.com/books?id=NTo6c_PJWRgC&pg=PA7|title=Food Cultures of the World Encyclopedia|publisher=ABC-CLIO|year=2011|isbn=978-0-313-37626-9|page=7}}</ref> According to cookbook author [[Martha Rose Shulman]], premade harissa tastes rather different from that which is  served in Tunisian and [[expatriate]] restaurants.
+[[File:Home made Harissa Sauce N75.JPG|thumb|Homemade harissa ]]
+
+===Israel and Libya===
+In [[Israel]], harissa is a common topping for ''[[sabich]]''<ref name="Hughes2013">{{cite book|author=Jane Hughes|title=The Adventurous Vegetarian: Around the World in 30 Meals|url=https://books.google.com/books?id=E8r0AgAAQBAJ&pg=PA182|year=2013|publisher=New Internationalist Publications, Limited |isbn=978-1-78026-124-9 |page=182}}</ref> and ''[[shawarma]]''.
+
+Filfel chuma ({{langx|he|פלפלצ'ומה}}{{ltr}}), also spelled pilpelshuma, literally "pepper garlic", is the typical [[chili sauce]] of [[Israeli cuisine#Sauces and condiments|Libyan Jewish cuisine]] which is very similar to harissa.<ref name="gur">Gur, Jana; (et al.) (2007). [https://books.google.com/books?id=zkbGpxM6QYgC&q=The+book+of+New+Israeli+food+%3A+a+culinary+journey ''The Book of New Israeli Food: A Culinary Journey'']. Schocken Books. pg. 295. {{ISBN|9780805212242}}</ref> It comes from [[Libyan cuisine]],{{citation needed|date=May 2017}} where it is known as {{Transliteration|ar|maseer}} ({{langx|ar|المصير}} or {{lang|ar|مسّير حار}} {{Transliteration|ar|mseyer}}).<ref name="ynet">[http://alwasat.ly/ar/news/kojina/121805/ ''How to make Libyan maseer'']</ref><ref name="alwasat">[http://www.ynet.co.il/articles/0,7340,L-3792276,00.html ''North African hot recipes'']</ref> It is also known by other names such as {{Transliteration|ar|filfil mukhalal}} ({{lang|ar|فلفل مخلل}}) and {{Transliteration|ar|filfil makbos}} ({{lang|ar|فلفل مكبوس}}).<ref name="fatakat">[http://fatakat.com/thread/169826 ''How to prepare mseyer in the Libyan cuisine'']</ref> It is made from powdered sweet and hot [[capsicum|peppers]] and crushed [[garlic]]. Other ingredients, such as ground [[Caraway|caraway seeds]], [[cumin]], [[Lemon|lemon juice]], and salt are sometimes added.<ref name="gur" /> It serves as a [[condiment]] and as an ingredient in dishes such as salads, meat, fish, legumes and rice, and egg dishes such as ''[[shakshouka]]''.
+
+===Morocco===
+[[Moroccan cuisine]] has also adopted harissa, and some Moroccans use it as a side condiment for [[tagine]]s, or sometimes mixed into dishes. Moroccans tend to have a preference for less seasoned harissa as it allows them to incorporate it into dishes of different flavor profiles.<ref>{{Cite web |last=Benkabbou |first=Nargisse |date=2016-07-12 |title=Harissa |url=https://www.mymoroccanfood.com/home/harissa |access-date=2024-03-11 |website=My Moroccan Food |language=en-GB}}</ref>
+
+=== Tunisia ===
+Recipes for harissa vary according to the household and region.  Variations can include the addition of [[fermentation|fermented]] onions or lemon juice. Prepared harissa is sold in jars, cans, bottles and tubes. Harissa is sometimes described as "Tunisia's main condiment",<ref name="Civitello2011">{{cite book|author=Linda Civitello|title=Cuisine and Culture: A History of Food and People|url=https://books.google.com/books?id=KwtE4v_qS4EC&pg=PT244|year=2011|publisher=John Wiley & Sons|isbn=978-1-118-09875-2|page=244}}</ref> even "the national condiment of Tunisia",<ref name="Harris1998">{{cite book|author=Jessica B. Harris|title=The Africa Cookbook: Tastes of a Continent|url=https://books.google.com/books?id=7rmIDVcoHNoC&pg=PA137 |year=1998 |publisher=[[Simon & Schuster]]|isbn=978-0-684-80275-6|page=137}}</ref> or at least as "the hallmark of Tunisia's fish and meat dishes".<ref name="Cavendish2006">{{cite book|author=Marshall Cavendish|title=World and Its Peoples |url=https://books.google.com/books?id=j894miuOqc4C&pg=PA1282|year=2006|publisher=[[Marshall Cavendish]]|isbn=978-0-7614-7571-2|page=1282}}</ref> In Tunisia, harissa is used as an ingredient in a meat ([[poultry]], [[beef]], [[goat meat|goat]], or [[lamb meat|lamb]]) or [[fish stew]] with vegetables, and as a flavoring for [[couscous]]. It is also used for ''[[lablabi]]'', a [[chickpea]] soup, and [[fricasse]].
+
+Tunisia is the biggest exporter of prepared harissa.<ref>[http://www.cepex.nat.tn/site/secteur.asp?NodeID=1141&IDAction=186&IDArticle=2834&nom_instance=ContentManagement& Tunisian Harissa Export] cepex.nat.tn  {{webarchive |url=https://web.archive.org/web/20090906020747/http://www.cepex.nat.tn/site/secteur.asp?NodeID=1141&IDAction=186&IDArticle=2834&nom_instance=ContentManagement& |date=September 6, 2009 }}</ref> In 2006, the Tunisian production of harissa was 22,000 tonnes, incorporating about 40,000 tonnes of peppers.<ref>{{cite book|author=Oxford Business Group|title=The Report: Tunisia 2008|url=https://books.google.com/books?id=fRa1SlekJHUC&pg=PA195|publisher=Oxford Business Group|isbn=978-1-902339-93-1|page=195}}</ref> Tunisian harissa is often made with [[Baklouti pepper]]s<ref>{{Cite book |last=Cosmo |first=Serena |url=https://books.google.com/books?id=AcOZDwAAQBAJ&dq=baklouti+peppers&pg=PA359 |title=The Ultimate Pasta and Noodle Cookbook |date=2017-10-24 |publisher=[[Simon & Schuster]] |isbn=978-1-60433-733-4 |language=en}}</ref> and chilis grown around [[Nabeul]] and [[Gabès]], which are relatively mild, scoring 4,000–5,000 on the [[Scoville scale]].<ref name="WheelerClammer2010">{{cite book|author1=Donna Wheeler|author2=Paul Clammer |author3=Emilie Filou|title=Tunisia|url=https://books.google.com/books?id=7RO1b2LvcisC&pg=PA53 |year=2010 |publisher=Lonely Planet|isbn=978-1-74179-001-6|page=53}}</ref> On December 1, 2022, [[UNESCO]] added "Harissa, knowledge, skills and culinary and social practices" as part of Tunisia's [[UNESCO Intangible Cultural Heritage Lists|Intangible Cultural Heritage]].<ref name=":0" /><ref name=":1" />
+
+==See also==
+{{wiktionary}}
+{{Portal|Africa|Libya|Food}}
+* [[Zhug]]
+* [[Muhammara]]
+* [[Ajika]]
+* [[Chermoula]]
+* [[Tabil]]
+* [[Awaze]]
+* [[Gochujang]]
+* [[Eros Pista|Erős Pista]]
+* [[Biber salçası]]
+* [[List of sauces]]
+* [[Seasoning]]
+
+==References==
+{{Reflist}}
+
+{{Hot sauces}}
+{{Cuisine of Tunisia}}
+
+[[Category:African cuisine]]
+[[Category:Tunisian cuisine]]
+[[Category:Herb and spice mixtures]]
+[[Category:Algerian cuisine]]
+[[Category:Arab cuisine]]
+[[Category:Chili paste]]
+[[Category:Libyan cuisine]]
+[[Category:Mediterranean cuisine]]
+[[Category:Mizrahi Jewish cuisine]]
+[[Category:Sephardi Jewish cuisine]]

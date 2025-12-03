@@ -1,0 +1,96 @@
+{{Short description|Korean Chinese noodle dish}}
+{{italic title}}
+{{Infobox food
+| name = ''Jajangmyeon''
+| image = Jajangmyeon.jpg
+| caption = 
+| alternate_name = ''Jjajangmyeon''
+| country = [[China]] (original)<br/>[[Korea]] (introduced)<ref name="SHN">{{Cite web|date=2017-03-10|title=Korea's 'Black Day' noodle dish and its Chinese roots|url=https://www.scmp.com/magazines/post-magazine/food-drink/article/2077137/koreas-black-day-noodle-dish-and-its-chinese|access-date=2021-08-10|website=South China Morning Post|language=en}}</ref>
+| region = [[East Asia]]
+| national_cuisine = 
+| creator = 
+| year = 
+| mintime = 
+| maxtime = 
+| type = [[Korean Chinese cuisine]], [[Korean noodles|Myeon]]
+| course = 
+| served = 
+| main_ingredient = [[cumian]], [[sweet bean sauce#Korean chunjang|chunjang]], [[meat]], [[vegetable]]s, sometimes [[seafood]]
+| minor_ingredient = 
+| variations = 
+| serving_size = 
+| calories = 
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| other = 
+| module = {{Infobox Korean name/auto
+| child = yes
+| hangul = 자장면
+| hanja = 자장麵
+| ipa = {{IPA|ko|tɕa.dʑaŋ.mjʌn|}}
+| hangul1 = 짜장면
+| hanja1 = 짜장麵
+| ipa1 = {{IPA|ko|t͈ɕa.dʑaŋ.mjʌn|}}
+}}
+}}
+
+'''''Jajangmyeon''''' ({{Korean|hangul=자장면}}) or '''''jjajangmyeon''''' ({{Korean|hangul=짜장면|labels=no}}<ref>짜장면 is more commonly used in Korea</ref>) is a [[Korean Chinese cuisine|Korean Chinese]] noodle dish topped with a thick sauce made of ''[[Sweet bean sauce#Korean chunjang|chunjang]]'', diced [[pork]], and [[vegetable]]s.<ref>{{Cite web |title=Restaurant Prices of 8 Popular Meals All Surged in 2022 |url=http://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=174939 |access-date=2023-01-13 |website=world.kbs.co.kr |language=en}}</ref> It is a variation of the Chinese dish ''[[zhajiangmian]]''; it developed in the late 19th century, during the [[Joseon]] period, when [[Chinese people in Korea|Chinese migrant workers]] from [[Shandong]] arrived in [[Incheon]]. The Korean variant of the dish uses a darker and sweeter sauce than the Chinese version. Variants of the dish use [[seafood]], or other meats.<ref>{{Cite web |title=Korean jajangmyeong popular in China|url=https://www.koreatimes.co.kr/www/nation/2024/05/113_43382.html |access-date=2023-01-23 |website=[[The Korea Times]]|quote=In 1905, these Chinese immigrants introduced a black-bean noodle to Koreans, and the salty food (zhajiangmian in Chinese) soon metamorphosed into a sweet one called 'jajangmyeon,' with the addition of caramel into it, putting Chinese cuisine on a new course in Korea.}}</ref><ref>{{Cite web |title= Jajangmyeon|url=https://www.gastrotourseoul.com/korean-jajangmyeon-noodles/ |access-date=2023-01-23 |website=www.gastrotoyrseoul.com|quote=Most people describe the taste of Jajangmyeon as sweet and savory at the same time. The onions and black soybean paste have a slightly sweet flavor, but the soy sauce and stock make the dish deliciously savory at the same time. The noodles are thicker than usual and very soft and silky.}}</ref>
+
+== Name ==
+''Jajang'' or ''jjajang'' is borrowed from the Chinese word ''zhájiàng'' ({{Lang|zh|炸醬}}), which means "fried sauce", while ''myeon'' ({{Lang|ko|면}}; 麵) means "noodles", itself a Sino-Korean loanword in place of the native ''guksu'' ({{Korean|hangul=국수|labels=no}}). The [[hanja|Chinese characters]] are pronounced ''jakjang'' ({{lang|ko|작장}}) in Korean, but the noodle dish is called ''jajangmyeon'', not ''*jakjangmyeon'', because its origin is not the [[Sino-Korean vocabulary|Sino-Korean word]], but a transliteration of the Chinese pronunciation. As the Chinese pronunciation of ''zhá'' sounded like ''jja'' (rather than ''ja'') to Korean ears, the dish is known in South Korea as ''jjajangmyeon'', and the vast majority of [[Korean Chinese cuisine|Korean Chinese]] restaurants use this spelling.
+
+For many years, until 22 August 2011, the [[National Institute of Korean Language]] did not recognize the word ''jjajangmyeon'' as an accepted idiomatic transliteration. ''Jjajangmyeon'' did not become the standard spelling because the transliteration rules for foreign words announced in 1986 by the [[Ministry of Education]] stated that the foreign [[obstruent]]s should not be transliterated using doubled consonants except for some established usages.<ref name="ME">{{cite wikisource|script-title=ko:대한민국 외래어 표기법(제85-11호)|last1=Ministry of Education|author-link=Ministry of Education|year=1986|wslanguage=ko}}</ref> The lack of acknowledgment faced tough criticism from the supporters of the spelling ''jjajangmyeon'', such as [[Ahn Do-hyun|Ahn Do-hyeon]], a [[Sowol Poetry Prize]] winning poet.<ref name="Ahn">{{Cite news |last=안 |first=도현 |date=5 October 2005 |script-title=ko:그래도 짜장면 이다 |url=http://www.hani.co.kr/arti/culture/culture_general/69167.html |access-date=5 July 2017 |work=[[The Hankyoreh]] |language=ko}}</ref><ref name="Yi">{{Cite news |last=이 |first=준영 |date=12 October 2016 |script-title=ko:[밀물썰물] 짜장면 시위 |url=http://news20.busan.com/controller/newsController.jsp?newsId=20161010000280 |access-date=5 July 2017 |work=[[Busan Ilbo]] |language=ko}}</ref> Later, ''jjajangmyeon'' was accepted as an alternative standard spelling alongside ''jajangmyeon'' in the National Language Deliberation Council and, on 31 August 2011, included as a standard spelling in the [[Standard Korean Language Dictionary]].<ref name="Gim">{{Cite news |last=김 |first=태식 |date=31 August 2011 |script-title=ko:'짜장면', 표준어 됐다 |url=http://www.yonhapnews.co.kr/society/2011/08/31/0703000000AKR20110831080900005.HTML |access-date=9 March 2017 |work=[[Yonhap]] |language=ko}}</ref>
+
+== History ==
+''Jajangmyeon'' was brought to [[Incheon]], Korea during the late nineteenth century by migrant workers from [[Shandong|Shandong province]], [[China]].<ref name="Mark Antonation">{{cite web|url=https://www.westword.com/restaurants/chinese-korean-and-japanese-versions-of-one-noodle-bowl-and-where-to-find-them-7794846|title=Chinese, Korean and Japanese Versions of One Noodle Bowl and Where to Find Them|language=|date=April 12, 2016|author=Mark Antonation|work=Westword}}</ref> At a time when both Qing and Japanese businesses were competing against each other, ''jajangmyeon'' was offered at the Chinese restaurant [[Gonghwachun]] in [[Incheon Chinatown]], which was founded in 1905 and run by an immigrant from the [[Shandong]] region. The restaurant is now the [[Jajangmyeon Museum]].<ref>{{Cite web  |date=2022-03-24 |title=[Visual History of Korea] Jjajangmyeon, Korean Chinese dish invented in Incheon by Chinese migrant workers |url=https://www.koreaherald.com/view.php?ud=20220324000633 |access-date=2023-01-22 |website=[[The Korea Herald]] |language=en}}</ref>
+
+Both the name and dish originate from the Chinese dish ''[[Zhajiangmian|zhájiàngmiàn]]'' ({{Lang|zh|炸醬麵}}). The common copied features of both are pork, long wheat noodles, and a sauce made from fermented [[soybean]] paste.<ref name="Mark Antonation"/> Originally the sauce that was introduced from China to make the noodle dish was saltier, richer, and of a deep brown color. Chefs at Incheon, Korea later added in caramel to sweeten the sauce, and added grains that darkened the sauce to copy the jet-black-brown color over time.<ref>{{Cite web |date=2019-03-31 |title=[ICONIC FOOD] Jajangmyeon, a dish full of emotions: The famous black noodles have gone from copied special luxury to a cheap comfort |url=https://koreajoongangdaily.joins.com/2019/03/31/etc/ICONIC-FOOD-Jajangmyeon-a-dish-full-of-emotions-The-famous-black-noodles-have-gone-from-special-luxury-to-a-cheap-comfort/3061234.html |access-date=2023-01-22 |website=[[Korea JoongAng Daily]] |language=en}}</ref>
+
+In the mid-1950s in South Korea, immediately after the [[Korean War]], ''jajangmyeon'' was sold at low prices so that anyone could eat it without economic burden.<ref name=":0">{{Cite web|url=http://korean.visitkorea.or.kr/kor/bz15/food/w_taste_list.jsp?cid=872702&gotoPage=&areaCode=&listType=|script-title=ko:장면|website=korean.visitkorea.or.kr|language=ko|access-date=2018-04-21}}</ref> The new Korean-style ''jajangmyeon'' became popular among merchants visiting the port of [[Incheon]], the center of trade, and the many dock workers working in the fish market, and quickly spread throughout the country, being recognized as its "own dish" rather than a copied version of the traditional Chinese one.<ref name=":0" />
+
+== Preparation and serving ==
+[[File:Jajangmyeon by KFoodaddict.jpg|thumb|''Jajangmyeon'' topped with a hard-boiled egg, julienned cucumber, and toasted sesame seeds]]
+''Jajangmyeon'' uses thick, hand-made or machine-pulled noodles made from [[wheat flour]], salt, [[Sodium bicarbonate|baking soda]], and water.<ref name="Doo">{{Cite web|url=https://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000860546|title=Jjajangmyeon|website=[[Doopedia]]|publisher=[[Doosan Corporation]]|language=ko|script-title=ko:짜장면|access-date=22 July 2017}}</ref> The sauce, jajang, is made with fried ''[[Sweet bean sauce#Korean chunjang|chunjang]]'' with other ingredients, such as [[soy sauce]] (or [[oyster sauce]]), [[meat]] (usually [[pork]], but sometimes [[beef]]), [[seafood]] (usually [[Squid as food|squid]] or [[Shrimp and prawn as food|shrimp]]), aromatics ([[Allium fistulosum|scallions]], [[ginger]], and [[garlic]]), [[vegetable]]s (usually [[onion]]s, [[zucchini]] or [[Korean zucchini]], or [[cabbage]]), [[Stock (food)|stock]], and [[starch]] [[slurry]].<ref name="Doo"/>
+
+When served, ''jajangmyeon'' may be topped with [[Julienning|julienned]] cucumber, [[scallion]]s, [[egg garnish]], [[Boiled egg|boiled]] or [[fried egg]], blanched [[Shrimp and prawn as food|shrimp]] or stir-fried [[bamboo shoot]] slices.<ref name="Doo" /> The dish is usually served with ''[[danmuji]]'' (yellow pickled radish), sliced raw [[onions]], and ''[[Sweet bean paste#Korean chunjang|chunjang]]'' sauce for dipping the onions.<ref name="Doo" />
+
+== Variations ==
+Variations of the jajangmyeon dish include ''gan-jjajang'', ''jaengban-jjajang'', ''yuni-jjajang'', and ''samseon-jjajang''.<ref name="Won">{{Cite news|url=http://www.sportsq.co.kr/news/articleView.html?idxno=73166|script-title=ko:집밥 백선생' 백종원이 알려주는 짜장면의 종류, 간짜장·유니짜장·쟁반짜장의 차이는?|last=원|first=호성|date=19 August 2015|work=Sports Q|access-date=22 July 2017|language=ko}}</ref>
+* ''Gan-jjajang'' ({{lang|ko|간짜장}}) – ''Jajangmyeon'' with a dry sauce, made without adding water (stock) and starch slurry. The letter ''gan'' comes from the Chinese pronunciation of the character 乾 ({{Korean/auto|hangul=건|rr=yes}}; Chinese [[pinyin]]: ''gān'') meaning "dry".<ref name="Won" /> However, it is now changing to mean that the ''[[Tianmian sauce|chunjang]]'' itself is thick as it is lightly stir-fried in oil without any moisture from the vegetables so that no water comes out. The sauce and noodles are usually served separately.
+* ''Jaengban-jjajang''({{lang|ko|쟁반짜장}}) – ''Jajangmyeon'' made by stir-frying the parboiled noodles with the sauce in a wok, and served on a plate instead of in a bowl. ''Jaengban'' means "plate" in Korean.<ref name="Won" />
+* ''Yuni-jjajang'' ({{lang|ko|유니짜장}}) – ''Jajangmyeon'' made with [[ground meat]]. The word ''yuni'' derived from the Korean reading of the Chinese word ''ròuní'' ({{lang|zh|肉泥}}; [[Hanja|Korean]] [[Revised Romanization of Korean|reading]]: {{lang|ko|육니}}, ''yungni'') meaning "ground meat".<ref name="Won" /> Although ''yungni'' is not a word in Korean, the loanword ''yuni'', used only in the dish name ''yuni-jjajang'', is likely to have been derived from Chinese immigrants' pronunciation of the Korean reading of the word, with the dropping of the [[Coda (linguistics)|coda]] ''k'' (or ''ng'', due to the Korean [[phonotactics]]) which is difficult for native Mandarin speakers to pronounce.<ref name="Kim">{{Cite journal|last1=Kim|first1=Tae-kyung|last2=Park|first2=Cho-rong|date=2014|title=Pronunciation Errors in Korean Syllable Coda by Native Chinese Speakers|url=http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06097677|journal=Journal of Korean Language and Culture|volume=55|pages=5–34|via=[[DBpia]]}}</ref>
+* ''Samseon-jjajang'' ({{lang|ko|삼선짜장}}) – ''Jajangmyeon'' which incorporates seafood such as [[Squid as food|squid]] and [[Mussel#As food|mussel]]. The word ''samseon'' derives from the Korean reading of the Chinese word ''sānxiān'' ({{lang|zh|三鮮}}) meaning "three fresh ingredients".<ref name="Won" />
+There can be combinations. For example. ''samseon-gan-jjajang'' may refer to seafood jajangmyeon made without adding water.
+
+Dishes such as ''jajang-[[Bap (food)|bap]]'' and ''jajang-[[tteok-bokki]]'' also exist. ''Jajang-bap'' is essentially the same dish as ''jajangmyeon'', but served with rice instead of noodles. ''Jajang-tteok-bokki'' is ''[[tteok-bokki]]'' served with ''jajang'' sauce instead of the usual spicy sauce. ''Bul jajangmyeon'' is a spicy variation of ''jajangmyeon''.
+
+Instant ''jajangmyeon'' products, such as [[Chapagetti]], [[Chacharoni]], and [[Zha Wang]], are [[instant noodle]] versions of ''jajangmyeon'' consisting of dried noodles that are boiled in the same manner as ''[[ramyeon]]'', using dried vegetable pieces that are drained and mixed with ''jajang'' powder or liquid ''jajang'' sauce, as well as a small amount of water and oil.
+<gallery>
+File:Korean.cuisine-Jajangmyeon-01.jpg|''Gan-jjajang''
+File:Jaengbanjajang.jpg|''Jaengban-jjajang''
+File:Jajang.jpg|''Yuni-jjajang''
+File:Haemul-jajangmyeon.jpg|''Samseon-gan-jjajang''
+File:농심 짜파게티 매콤한 사천 6.jpg|[[Chapagetti]]
+</gallery>
+
+== See also ==
+{{Portal|Food}}
+* [[Black Day (South Korea)|Black Day]]
+* [[Zhajiangmian]]
+* [[Morioka jajamen]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Jajangmyeon}}
+
+{{Korean food and drink}}
+{{Noodle}}
+
+[[Category:Korean Chinese cuisine]]
+[[Category:Chinese noodle dishes]]
+[[Category:Korean noodle dishes]]
+[[Category:Mixed noodles]]

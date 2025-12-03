@@ -1,0 +1,71 @@
+{{Short description|Serbian dish of filo, cheese and eggs}}
+{{Use dmy dates|date=August 2020}}
+{{pp-sock|small=yes}}
+{{good article}}
+{{Infobox food
+| name             = Gibanica
+| image            = Gibanica_single_slice_with_full_pie_in_background.jpg
+| caption          = A piece of gibanica
+| alternate_name   = ''Gužvara''<ref>(Crumpled pie) {{cite book|author=David Tornquist|title=Look East, Look West: The Socialist Adventure in Yugoslavia|url=https://books.google.com/books?id=SrO6AAAAIAAJ|year=1966|publisher=MacMillan|page=229}}</ref>
+| country          = [[former Yugoslavia]]
+| creator          = 
+| course           = 
+| type             = Pastry
+| served           = Hot or cold
+| main_ingredient  = [[Phyllo]] dough, white cheese ([[feta]], [[sirene]]), [[Egg (food)|eggs]]
+| variations       = 
+| calories         = 
+| other            = Other ingredients include milk, [[kaymak]] and [[lard]] or [[sunflower oil]] and different types of fruit and nuts
+}}
+'''Gibanica''' ({{lang-sr-cyr|гибаница}}, {{IPA|sr|ˈɡibanit͡sa|pron}}) is a traditional pastry dish popular all over the [[Balkans]]. It is usually made with cottage cheese and eggs. Recipes can range from sweet to savoury, and from simple to festive and elaborate [[multi-layered cake]]s.
+
+The pastry was mentioned in [[Vuk Stefanović Karadžić]]'s ''[[Srpski rječnik|Serbian Dictionary]]'' in 1818 and by a Slovenian priest Jožef Kosič in 1828, where it was described as a special Slovenian cake which is "a must at wedding festivities and is also served to workers after finishing a big project".<ref>{{cite news | url=https://www.visitljubljana.com/en/visitors/stories/what-is-prekmurska-gibanica-cake-and-what-makes-it-so-special/| title=Prekmurska gibanica|language=en|publisher=visitljubljana.com| access-date=21 March 2018}}</ref> It is a type of layered [[strudel]], a combination of Turkish and Austrian influences in different cuisines of the former [[Yugoslavia]]. Today the versions of this cake can be found in [[Croatia]], [[Serbia]], [[Bosnia]], [[North Macedonia]] and other regions of the former Yugoslavia. Variants of this rich layered strudel are found in [[Hungary]], [[Bulgaria]], [[Greece]], [[Turkey]], [[Romania]], and [[Syria]].<ref>{{cite news |title=Gibanica |url=http://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/1032/id/20/ |url-status=dead |archive-url=https://web.archive.org/web/20221127112013/https://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/1032/id/20/ |archive-date=27 November 2022 |access-date=25 March 2018 |publisher=cliffordawright.com |language=en}}</ref>{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=August 2025}}
+
+Gibanica may sometimes also refer to a [[nut roll|walnut roll]], which is a sweet bread with a spiral of walnut paste rolled up inside.
+
+==Etymology==
+In the vocabulary of the Yugoslav Academy, as well as in the etymological dictionary of [[Slavic languages]], the word ''gibanica'' is a derivative of the [[Serbo-Croatian]] verb [[wikt:gibati#Serbo-Croatian|gíbati/гибати]], which means "to fold; sway, swing, rock". There are also derivatives like the word {{lang|sh|gibaničar}}/гибаничар – one who makes gibanica, one who loves to eat gibanica, and one who always imposes as a guest and at someone else's expense.{{sfn|Republika 2003}}
+
+The Yugoslav ethnologist Milenko Filipović theorized that ''gibanica'' instead came from the Egyptian Arabic word ''gebna'' (جبنة), referring to a soft, white, salty variety of [[Egyptian cheese]] that is similar to the cheese used for gibanica.<ref>{{cite news | url=http://www.republika.co.rs/306-307/26.html| title=Gibanica|language=sr|publisher=republika.co.rs| access-date=25 March 2018}}</ref>
+
+==Preparation==
+The original recipe for gibanica included traditionally homemade [[phyllo]] dough and cow's milk cheese. Homemade cheese can be [[feta]] or [[sirene]]. The pie is usually made as ''gužvara'' (crumpled pie), so the phyllo dough in the middle is crumpled and filled. Besides cheese, the filling contains eggs, milk, [[kaymak]], [[lard]], salt and water. Also, stuffing may include [[spinach]], meat, [[Urtica dioica|nettle]], potato and onion. To speed up preparation, purchased phyllo dough can be used and [[sunflower oil]] or [[olive oil]] can be used instead of lard.{{sfn|Serbia.com 2012}}
+
+==Variants==
+[[File:PrekmurskaGibanica1.JPG|thumb|[[Prekmurska gibanica]], a Slovenian variant]]
+[[File:Međimurska gibanica - servirana (Croatia).jpg|thumb|[[Međimurska gibanica]], a Croatian variant]]
+Many varieties of gibanica and related dishes can be found throughout the Balkans; different gibanica are known as part of the national cuisines of [[Bosnia and Herzegovina]], [[Croatia]], [[Serbia]], [[North Macedonia]], [[Slovenia]], and [[Friuli-Venezia Giulia]] (Italy, where it is called ''ghibanizza''<ref>{{cite book|first1=Marzia|last1=Bonetti|first2=Claudio|last2=Fabbro|first3=Walter|last3=Filiputti|title=Enovagando: Friuli-Venezia Giulia : economia, turismo e cultura|publisher=Digi Press|year=2000|location=Gorizia|page=89|url=https://books.google.com/books?id=t-tJAAAAYAAJ&q=ghibanizza}}</ref>), [[Greece]], and [[Bulgaria]], where it is usually called ''[[Banitsa (pastry)|banitsa]]''.{{sfn|Republika 2003}} Recipes can range from sweet to savoury, and from simple to festive and elaborate [[layer cake|multi-layered cakes]].{{sfn|Serbia.com 2012}} The so-called "chetnik gibanica" is the fatter, greasier version; it received the name after World War II.<ref>{{cite web|title=Recept za najbolju gibanicu|website=bastabalkana.com|date=18 February 2017 |url=https://www.bastabalkana.com/2017/02/recept-za-najbolju-gibanicu-kako-se-pravi-srpska-gibanica/}}</ref>
+
+From the basic recipe, many local specialties have evolved. [[Prekmurska gibanica]], for example, is a "fancy" multi-layered cake from [[Prekmurje]] in Slovenia, served as a dessert course on festive occasions.<ref>{{cite news | url=http://www.slovenia.info/en/Dishes-and-Recipes/Prekmurska-gibanica.htm?recepti=8822&lng=2| title=Prekmurska gibanica|publisher=slovenia.info | access-date=21 March 2013}}</ref> [[Međimurska gibanica]], from the neighbouring [[Međimurje]] region of Croatia, is a closely related but simpler and less "formal" dish consisting of four layers of fillings (prepared fresh cheese ([[Quark (cheese)|quark]]), poppyseed, apple and walnut).<ref>{{cite news |url=http://www.medjimurski-dvori.hr/med_gibanica.htm |archive-url=https://web.archive.org/web/20120424093154/http://www.medjimurski-dvori.hr/med_gibanica.htm |url-status=dead |archive-date=24 April 2012 |title=Međimurska gibanica |language=hr |publisher=medjimurski-dvori.hr |access-date=21 March 2013 }}</ref> Another gibanica variety, called [[Prleška gibanica]], is known from [[Prlekija]] to the west of the [[Mur River]].<ref>{{cite news | url=http://www.slovenia.info/en/recepti/Prleška-gibanica.htm?recepti=9835&lng=2| title=Prleška gibanica|publisher=slovenia.info | access-date=21 March 2013}}</ref>
+
+The basic concept of gibanica, a cake or pie involving a combination of pastry with cheese in differentiated layers often combined with layers of various other fillings, is common in the cuisines of the Balkans, [[Anatolia]], and the [[Eastern Mediterranean]]. For example, a similar dish known as shabiyat (sh'abiyat, shaabiyat) is part of the cuisine of [[Syria]] and [[Lebanon]].<ref>{{cite news | url=http://www.justapinch.com/recipes/dessert/pudding/shaabiyat.html| title=Shaabiyat|publisher=justapinch.com | access-date=21 March 2013}}</ref> Gibanica can also be considered to resemble a type of cheese [[strudel]], with which it likely shares a common ancestry in the pastry dishes of the region, and the cuisines of the [[Byzantine Empire|Byzantine]] and [[Ottoman Empire|Ottoman]] empires.{{Cn|date=March 2025}}
+
+==In culture==
+<!---{{Quote box|width=38%|align=right|quote="If I had the cheese and the butter, my mother would know how to make Gibanica."|source=Old [[Serbs|Serbian]] proverb{{sfn|Republika 2003}}}} This needs context.--->
+Gibanica is one of the most popular and recognizable pastry dishes from the Balkans, whether served on festive occasions, or as a comforting family snack. In Serbia, the dish is eaten as breakfast, dinner, appetizer and snack,{{sfn|Telegraf 2016}} and is often consumed at traditional events such as [[Orthodox Christmas|Christmas]], [[Orthodox Easter|Easter]] and [[Slava (tradition)|Slava]].{{sfn|Serbia.com 2012}} The largest Gibanica ever made was in the town of [[Mionica]] in 2007. It weighed over 1,000 kg, and was applied for inclusion in the [[Guinness Book of Records]]. Around 330&nbsp;kg of phyllo dough, 330&nbsp;kg of cheese, 3,300 eggs, 30 L of oil, 110 L of [[mineral water]], 50&nbsp;kg of lard and 500 packets of [[baking powder]] went into its creation.<ref>{{cite news | url=http://www.ekapija.com/website/sr/page/108890/Gibanica-teška-tonu-Mioničani-konkurišu-za-ulazak-u-Ginisovu-knjigu-rekorda| title=Gibanica teška tonu – Mioničani konkurišu za ulazak u Ginisovu knjigu rekorda | language=sr|publisher=ekapija.com | access-date=22 March 2013}}</ref><ref>{{cite news | url=http://www.politika.rs/rubrike/Drustvo/t30447.lt.html| title=Mionička gibanica za Ginisa| language=sr|work=Politika| access-date=22 March 2013}}</ref> In Slovenia, Croatia and Serbia there are festivals dedicated to gibanica. One of them, called the Gibanica festival or Days of Banitsa, is held each year in [[Bela Palanka]]. It first took place in 2005.<ref>{{cite news | url=http://www.manifestacije.com/manifestacije_detaljnije.php?iStranica=1&iPoStranici=20&&iIDHTMLElementPodGrupa=-1&ID=9529&PHPSESSID=9f55f6a7ed52530281d1496b8f79c66d&&PHPSESSID=9f55f6a7ed52530281d1496b8f79c66d| title=Takmičenje u pripremanju pita DANI BANICE| language=sr|publisher=manifestacije.com| access-date=23 March 2013}}</ref> The Slovenian festival of Prekmurska gibanica and ham is held in the Slovenian region of Prekmurje,<ref>{{cite news| url=http://www.murska-sobota.si/koledar/festival-prekmurske-gibanice-%C5%A1unke| title=Festival prekmurske gibanice in šunke| language=sl| publisher=murska-sobota.si| access-date=25 March 2018| archive-date=28 March 2018| archive-url=https://web.archive.org/web/20180328170121/http://www.murska-sobota.si/koledar/festival-prekmurske-gibanice-%C5%A1unke| url-status=dead}}</ref> and the Croatian festival of gibanica is held in Igrišće in [[Hrvatsko Zagorje]].<ref>{{cite news| url=http://mreza.tv/festival-gibanica/| title=Festival gibanice| language=hr| publisher=mreza.tv| access-date=26 March 2018| archive-date=28 March 2018| archive-url=https://web.archive.org/web/20180328165621/http://mreza.tv/festival-gibanica/| url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==Sources==
+*{{cite news|last=Zirojević|first=Olga|title=Gibanica|journal=Republika|volume=XV|issue=306–307|date=30 April 2003|language=sr|access-date=21 March 2013|url=http://www.republika.co.rs/306-307/26.html|ref={{harvid|Republika 2003}} }}
+*{{cite news|title=Gibanica, a pie like no other|publisher=Serbia.com|date=4 December 2012|access-date=21 March 2013|url=http://www.serbia.com/english/discover-serbia/the-serbian-way/traditional-cuisine/gibanica|ref={{harvid|Serbia.com 2012}} }}
+
+==External links==
+{{Wikibooks|Cookbook:Gibanica}}
+{{Commons category|Gibanica}}
+*{{cite web|author=Dragas, Konstantin|title=How To Make a Delicious Gibanica|publisher=Global Storybook|url=https://globalstorybook.org/make-delicious-gibanica/|access-date=10 February 2018|archive-date=18 January 2021|archive-url=https://web.archive.org/web/20210118235649/https://globalstorybook.org/make-delicious-gibanica/|url-status=dead}}
+*{{cite web|author=Folek, Barbara|title=Salty Serbian Gibanica Recipe #2|date=29 May 2017|publisher=the spruce|url=https://www.thespruce.com/salty-serbian-gibanica-1135905|access-date=10 February 2018|archive-date=11 February 2018|archive-url=https://web.archive.org/web/20180211072154/https://www.thespruce.com/salty-serbian-gibanica-1135905|url-status=dead}}
+*{{cite news|title=Gibanica više nikada neće biti ista! A svi su mislili da ovaj trenutak nikad neće doći|publisher=Telegraf|date=22 November 2016|url=http://www.telegraf.rs/vesti/2472357-gibanica-vise-nikada-nece-biti-ista-a-svi-su-mislili-da-ovaj-trenutak-nikad-nece-doci-foto|ref={{harvid|Telegraf 2016}} }}
+
+{{Pastries}}
+{{Serbian cuisine}}
+
+[[Category:Balkan cuisine]]
+[[Category:Mediterranean cuisine]]
+[[Category:Bread dishes]]
+[[Category:Pastries]]
+[[Category:Savoury pies]]
+[[Category:Cheese dishes]]
+[[Category:Egg dishes]]
+[[Category:National dishes]]

@@ -1,0 +1,129 @@
+{{short description|Burmese pickled tea}}
+{{distinguish|text = [[Larb|larb pet]], a duck meat salad}}
+{{Infobox food
+| name = Lahpet
+| image = File:Green tea and peanut nibbles (10808703485).jpg
+| caption = ''Lahpet thoke'', Burmese tea leaf salad or pickled tea salad is a favourite national dish.
+| alternate_name = 
+| country = [[Burma]]
+| region = ''possibly'' [[Namhsan]], [[Shan State]]
+| national_cuisine = [[Burmese cuisine]]
+| creator =           <!-- or | creators = -->
+| year = 
+| type = 
+| course = 
+| served = 
+| main_ingredient = {{plainlist|
+*fermented [[tea leaves]]
+*[[oil]]
+*[[salt]]
+*[[Nut (fruit)|nuts]]
+}}
+| minor_ingredient = 
+| variations = 
+| serving_size = 
+| calories = 
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| similar_dish = 
+| other = 
+}}
+{{Contains special characters|Burmese}}'''Lahpet''', also spelled '''laphet''', '''laphat''', '''lephet''', '''leppet''', or '''letpet''' in English ({{MYname|MY=လက်ဖက်|MLCTS=lak hpak}}, {{IPA|my|ləpʰɛʔ|pron}}), is [[Burmese language|Burmese]] for [[Fermentation|fermented]] or [[Pickling|pickled]] [[tea]]. [[Myanmar]] is one of the few countries where tea is consumed both as a drink and as an eaten delicacy, in the form of pickled tea, which is unique to this region. Lahpet is regarded as a national delicacy that plays a significant role in [[Demographics of Myanmar|Burmese]] society, and remains a traditional Burmese gesture of hospitality and is served to guests visiting a home.<ref name="Haber">{{cite web|url=http://www.innwa.com/dev/kitchen/news/get-news.asp?id=142|title=Lephet - Green Tea Salad|last=Haber|first=Daniel|date=March 31, 2002|publisher=Swe Sone magazine|access-date=2007-04-10|url-status=dead|archive-url=https://web.archive.org/web/20070708232214/http://www.innwa.com/dev/kitchen/news/get-news.asp?id=142|archive-date=July 8, 2007}}</ref><ref name=":0" />
+
+Its place in the [[cuisine of Myanmar]] is reflected by the following popular expression: "Of all the [[List of culinary fruits|fruit]], the [[mango]]'s the best; of all the [[meat]], [[pork]]'s the best; and of all the [[greens (food)|leaves]], lahpet's the best". In English-speaking areas, laphet is most commonly encountered in "tea leaf salad" ({{lang|my|လက်ဖက်သုပ်}}).<ref>{{citation|author=Foodspotting|title=The Foodspotting Field Guide|date=18 March 2014|publisher=Chronicle Books LLC|isbn=978-1-4521-3008-8|page=71}}</ref><ref>{{citation |url=https://www.nytimes.com/2012/08/01/dining/reviews/foragers-city-table-in-chelsea-restaurant-review.html |title=Burmese Tea Leaves That Feel Like Family |work=[[The New York Times]] |date=July 26, 2012 }}</ref>
+
+Fermented or pickled tea is featured in the cuisines of many ethnicities who live near the [[History of tea|geographical origin of tea]], such as the cuisines of the [[Bulang people|Bulang]],<ref>[https://www.gokunming.com/en/blog/item/1936/eating-tea-with-the-bulang-people Eating tea with the Bulang people]</ref> and in [[Tai peoples|Tai]] cuisine (where it is known as ''miang'' in dishes such as [[miang kham]]).
+
+==Forms==
+Burmese tea is processed in three major forms:
+*'''''Lahpet chauk''''' ({{lang|my|လက်ဖက်ခြောက်}}), or dried tea leaves, also called ''a-gyan gyauk'' ({{lang|my|အကြမ်းခြောက်}}), is used to make [[green tea]], which is called ''yei-nway gyan'' ({{lang|my|ရေနွေးကြမ်း}}, plain/crude hot water) or ''lahpet-yei gyan'' ({{lang|my|လက်ဖက်ရည်ကြမ်း}}, plain/crude tea). Green tea is the national drink in the predominantly [[Buddhist]] Myanmar, a country with no national drink other than [[palm wine]].
+*'''''Acho gyauk''''' ({{lang|my|အချိုခြောက်}}, {{Lit|sweet and dry}}), or [[black tea]], is used to make sweet [[Burmese milk tea]] ({{lang|my|လက်ဖက်ရည်ချို}}, ''lahpetyei gyo'') with milk and sugar.
+*'''''Lahpet so''''' ({{lang|my|လက်ဖက်စို}}, {{Lit|wet tea}}) specifically refers to a pickled tea, despite ''lahpet'' being generally synonymous with pickled tea.
+
+=== Quality grades ===
+Burmese tea is distinguished into seven quality grades:<ref name=":5">{{Cite book|last=Driem|first=George L. van|url=|title=The Tale of Tea: A Comprehensive History of Tea from Prehistoric Times to the Present Day|date=2019-01-14|publisher=BRILL|isbn=978-90-04-39360-8|location=|pages=|language=en}}</ref>
+
+# 'Golden bracelet' ({{lang|my|ရွှေလက်ကောက်}})
+# 'Extraordinary weft' ({{lang|my|အထူးရှယ်}})
+# 'Weft' ({{lang|my|ရှယ်}})
+# 'Top grade' ({{lang|my|ထိပ်စ}})
+# 'Medium top grade' ({{lang|my|အလတ်ထိပ်စ}})
+# 'Medium grade' ({{lang|my|အလတ်စ}})
+# 'Low grade' ({{lang|my|အောက်စ}})
+
+<gallery widths=180>
+File:Lahpet Tasters.JPG|Tasters at a lahpet stall in Mandalay
+File:Lahpet for sale.jpg|Lahpet dressed with garlic and chilli
+File:Fried garnish.JPG|Fried garnish with lahpet
+File:Laphet thoke.JPG| Lahpet dish
+File:Lahpet in bulk.JPG|Lahpet for sale at a market in Mandalay
+File:Pickled Tea & Ginger Salad.JPG|[[Lahpet thoke]] and [[gyin thoke]] (ginger salad)
+</gallery>
+
+== History ==
+[[File:Palaung depiction, 1900s.jpg|thumb|A Burmese illustration depicting the [[Palaung people]], who traditionally cultivated and fermented Burmese tea.]]
+The practice of eating tea in modern-day Myanmar dates back to prehistoric antiquity, reflecting a legacy of indigenous tribes who pickled and fermented tea leaves inside bamboo tubes, bamboo baskets, plantain leaves and pots.<ref name=":5" /> This longstanding history is reflected in the [[Burmese language]], which is among the few world languages whose word for "tea" is not descended from the Chinese word for "tea" (see [[etymology of tea]]).<ref name=":5" /> European observers noted with peculiarity, the Burmese fondness for pickled tea leaf, and the practice of burying boiled tea leaves in holes lined with plantain leaves, for the purpose of fermentation.<ref name=":5" />
+
+According to Burmese folklore, tea was introduced to the country by King [[Alaungsithu]] in the 1100s, during the [[Pagan dynasty]].<ref>{{Cite book|last1=Marks|first1=Copeland|url=|title=The Burmese Kitchen: Recipes from the Golden Land|last2=Thein|first2=Aung|date=1994-09-08|publisher=Rowman & Littlefield|isbn=978-1-59077-260-7|location=|pages=|language=en}}</ref><ref name=":5" /><ref>{{Cite book|last=Abbott|first=Gerry|url=|title=The Folk-Tales of Burma: An Introduction|date=2000|publisher=BRILL|isbn=978-90-04-11812-6|location=|pages=|language=en}}</ref> Records of tea drinking date back to his reign, with evidence of royal teacups and tea servers employed in the Burmese royal court.<ref name=":2">{{Cite journal|last=Lei Shwe Sin Myint|date=2020|title=Analysis of Tea Culture in Myanmar Society: Practices of Tea Consumption in Upper Myanmar|url=https://meral.edu.mm/record/5824/files/Analysis%20of%20Tea%20Culture%20in%20Myanmar%20Society%20Practices%20of%20Tea%20Consumption%20in%20Upper%20Myanmar%20%20%20%20%20.pdf|journal=University of Mandalay Research Journal|volume=11|pages=|via=}}</ref> As Burmese kingdoms adopted more austere forms of [[Theravada]] Buddhism, pickled tea began to replace alcohol for ceremonial use among observant Buddhists.<ref name=":3">{{Cite book|last=Lieberman|first=Victor|url=|title=Strange Parallels: Volume 1, Integration on the Mainland: Southeast Asia in Global Context, c.800–1830|date=2003-05-26|publisher=Cambridge University Press|isbn=978-1-139-43762-2|location=|pages=|language=en}}</ref> To meet growing demand, tea cultivation spread throughout the northern Shan States after 1500.<ref name=":3" /> Between the late 1500s to early 1600s, a Buddhist reform movement led by Buddhist monks and laymen succeeded in suppressing the consumption of alcohol in public ceremonies in favor of eating pickled tea.<ref name=":3" /> By the late 1700s, alongside cotton, tea had become a significant export for Burma, largely cultivated in the Palaung principality of [[Tawngpeng State|Tawngpeng]].<ref>{{Cite book|last=Myint-U|first=Thant|url=|title=The Making of Modern Burma|date=2001-03-26|publisher=Cambridge University Press|isbn=978-0-521-79914-0|location=|pages=|language=en}}</ref> [[Mandalay Palace]], built during the late [[Konbaung dynasty|Konbaung era]], had a Tea Pavilion (လက်ဖက်ရည်ဆောင်) wherein young pages carried messages and prepared tea.<ref>{{Cite book|last1=Myo Aung|url=https://books.google.com/books?id=Zt2T_QO6OtAC&q=myanmar+palace+tea+house+mandalay&pg=PT7|title=Upper Myanmar|last2=Kraft|first2=H.|publisher=Books on Asia|year=|isbn=9799749290858|location=|pages=|language=en}}</ref> The Burmese poet [[U Ponnya]] composed verses in the ''Laphet Myittaza'' (လက်ဖက်မေတ္တာစာ) and poems that identified ''shwephi'' tea leaves ({{lang|my|ရွှေဖီ}}, {{lit|golden thrust}}) as a favorite tea grade of the royal court, and laphet as an integral part of the royal cuisine, both as drink and as a delicacy.<ref name=":2" /> ''Shwephi'' leaves are considered the highest quality, because they come from the earliest harvests of the year.<ref name=":4">{{Cite web |last= |date=2023-06-13 |title=Bitter harvest: Shan State tea growers grapple with labour shortage |url=https://www.frontiermyanmar.net/en/bitter-harvest-shan-state-tea-growers-grapple-with-labour-shortage/ |access-date=2023-07-03 |website=Frontier Myanmar |language=en-US}}</ref>
+
+Throughout the pre-colonial era, lahpet was considered a symbolic peace offering between warring kingdoms in ancient [[history of Myanmar|Myanmar]]. It was traditionally exchanged and consumed after settling a dispute.<ref>{{Cite book|last=Watkins|first=Justin|url=|title=Proceedings of the SOAS/TUFS Postgraduate Symposium, London 20-21 February 2006|date=2006|publisher=Tokyo University of Foreign Studies|isbn=978-4-925243-25-4|location=|pages=|language=en}}</ref> In both pre-colonial and colonial times, lahpet was served after a civil court judge made a verdict; eating the lahpet symbolized a formal acceptance of the verdict.<ref>{{cite book|last=Nisbet|first=John|title=Burma under British rule and before|author2=A. Constable|volume=1|pages=1901}}</ref><ref>{{cite book|last=Judson|first=Adinoram|title=Judson's Burmese-English dictionary|publisher=Government of Burma|year=1893|editor=Robert Charles Stevenson|pages=285–286}}</ref>
+
+During the colonial era, [[Teahouse|tea shops]] became a common fixture in urban centres like Rangoon (now Yangon).<ref name=":6">{{Cite journal |last=Win |first=Nyunt Nyunt |last2=Naing |first2=Aung |date=2023 |title=Tolerant Tea Shops: The Social Construction of Forbearance in Child Labor |url=https://muse.jhu.edu/article/902622 |journal=Journal of Burma Studies |language=en |volume=27 |issue=2 |pages=261–289 |doi=10.1353/jbs.2023.a902622 |issn=2010-314X|url-access=subscription }}</ref> These shops opened early in the day, and served breakfast, snacks and tea.<ref name=":6" /> In the 1970s, tea shops spread to other parts of the country.<ref name=":6" /> These establishments have served as [[Third place|third places]] and important meeting points for locals.<ref name=":6" /> Until recent decades, tea shops were primarily frequented by men.<ref name=":6" />
+
+Since the late 2010s, armed conflict in tea-growing areas between [[List of ethnic armed organisations in Myanmar|ethnic armed organisations]], including the [[Ta'ang National Liberation Army|Ta’ang National Liberation Army]] and the [[Restoration Council of Shan State]], has disrupted the domestic tea supply chain.<ref name=":4" /> This has been compounded by the [[COVID-19 pandemic]], which created a labour shortage and drastically reduced the average selling price of Burmese tea leaves.<ref name=":4" /> [[Bamar people|Bamar migrants]] from the Anyar region, who traditionally augmented the local workforce during the tea-growing season, have sought higher-paying jobs in Thailand or [[China–Myanmar border|Burmese-Chinese border]] towns like [[Laukkai]] and [[Pangkham|Panghsang]].<ref name=":4" />
+
+==Cultivation==
+[[Image:Lahpet stall.JPG|thumb|Market stall in Mandalay selling ''lahpet'' from Namhsan]]
+Tea is native to Myanmar. ''[[Camellia sinensis]]'' and ''[[Camellia assamica]],'' two popular species of tea, are grown in the northern [[Shan State]] around [[Namshan|Namhsan]] in the [[Palaung people|Palaung]] substate of [[Tawngpeng]]. Tea is also grown around [[Mogok]] in the [[Mandalay Region]] and [[Kengtung]] in the eastern Shan State. ''Zayan'' leaves, which make up about 80% of the harvest, are picked in April and May before the onset of the seasonal [[monsoons]], but can be picked up until October.<ref name="MT">{{cite web|author=Zin Min|title=Pickled tea leaves still a Myanmar favourite|url=http://www.myanmar.gov.mm/myanmartimes/no221/MyanmarTimes12-221/c14.htm|url-status=dead|archive-url=https://web.archive.org/web/20070927184217/http://www.myanmar.gov.mm/myanmartimes/no221/MyanmarTimes12-221/c14.htm|archive-date=2007-09-27|access-date=2007-04-09|publisher=[[Myanmar Times]] vol.12 no.221}}</ref><ref name="MTI">{{cite web|title=Pickled tea leaves or laphet|url=http://myanmartravelinformation.com/mti-myanmar-food/laphet.htm|url-status=dead|archive-url=https://web.archive.org/web/20061212155705/http://myanmartravelinformation.com/mti-myanmar-food/laphet.htm|archive-date=2006-12-12|access-date=2007-04-09|publisher=Myanmar Travel Information 2007}}</ref><ref>{{Cite web|date=2013-08-26|title=လက်ဖက် ယဉ်ကျေးမှုနှင့် ပလောင်တို့၏ ဘဝ|url=https://burma.irrawaddy.com/article/2013/08/26/46975.html|access-date=2020-04-27|website=ဧရာဝတီ|language=en-US}}</ref>
+
+Over {{convert|700|km2|mi2}} of land in Myanmar is under tea cultivation, with an annual yield of 60,000-70,000 tons of fresh product. Of the tea consumed by the country every year, 52% is green tea, 31% is black tea and 17% is pickled tea.<ref>{{cite web|title=Myanmar Tea|url=http://www.myanmartea.com/production.htm|access-date=2007-04-10|archive-date=2009-11-25|archive-url=https://web.archive.org/web/20091125104609/http://myanmartea.com/production.htm|url-status=dead}}</ref>
+
+==Processing==
+[[File:Tea leaves drying.jpg|thumb|Sun-dried tea leaves near Kalaw.]]
+The traditional laphet fermentation process is a three-step process, encompassing pre-fermentation, fermentation, and modification of the fermented tea leaves.<ref name=":0" /> Tender juvenile tea leaves and leaf buds are selected for fermenting, while the rest are relegated for drying.<ref name=":0">{{Cite journal|last1=Han|first1=Thazin|last2=Aye|first2=Kyaw Nyein|date=2015-12-01|title=The legend of laphet: A Myanmar fermented tea leaf|journal=Journal of Ethnic Foods|language=en|volume=2|issue=4|pages=173–178|doi=10.1016/j.jef.2015.11.003|issn=2352-6181|doi-access=free}}</ref> After picking, the tea leaves are steamed for about five minutes before either drying or fermenting.<ref name=":0" /> Young leaves are then packed into bamboo vats or clay pots, set in pits and pressed by heavy weights to extract water. The fermentation process is checked at intervals and the pulp may occasionally require re-steaming.<ref name="MTI" /> The anaerobic fermentation is driven by naturally forming [[lactic acid bacteria]], and is completed in 3–4 months.<ref>{{Cite web|url=http://nordicfoodlab.org/blog/2017/3/28/making-tea-edible-laphet-from-local-plants-in-three-ways|title=Making Tea Edible: Laphet from local plants in three ways|website=Nordic Food Lab|archive-url=https://web.archive.org/web/20200118145028/http://nordicfoodlab.org/blog/2017/3/28/making-tea-edible-laphet-from-local-plants-in-three-ways|language=en-US|access-date=2020-04-27|archive-date=2020-01-18}}</ref> Stages of fermentation are indicated by the pulp's changes in color (from green to golden-green), texture (softened leaves), and acidity, which decreases with time.<ref name=":0" /> The near-final pulp is then washed, massaged, and drained. The final form of laphet is then flavored with minced [[garlic]], ground [[Chili pepper|chili]], [[salt]], [[lemon juice]], and [[peanut oil]].<ref name=":0" />
+
+==Preparation styles==
+
+[[File:Pickled tea (lahpet).JPG|thumb|Pickled tea in the center compartment is served in a ''lahpet ohk'' with accompanying condiments]]
+
+Burmese lahpet ({{lang|my|လက်ဖက်သုပ်}}) is served in two main forms. The first is mainly ceremonial and is called ''A-hlu lahpet'' ({{lang|my|အလှူလက်ဖက်, လက်ဖက်သုပ်လူကြီးသုပ် or အဖွားကြီးအိုသုပ်}}) or [[Mandalay]] lahpet. The second form is mostly served with meals and is more popular.
+
+[[Mandalay]] lahpet is traditionally served in a shallow [[lacquerware]] dish with a lid and several compartments called a ''lahpet ohk''. Pickled tea flavored with [[sesame]] oil is put in the central compartment. Other compartments may include ingredients such as crisp fried [[garlic]], [[chickpea]]s, [[lablab]], butterfly peas, Australian peas, toasted sesame and peanuts, crushed [[dried shrimp]], preserved shredded [[ginger]] and fried shredded [[coconut]].
+
+Lahpet is served in this form for ''hsun kyway'' (offering a meal to monks) at Buddhist [[Novitiate|novitiation]] ceremonies called ''[[shinbyu]]'' and at weddings.{{Citation needed|date=February 2013}} No special occasion or ceremony in Myanmar is considered complete without Mandalay lahpet. In [[nat (spirit)]] worship, lahpet is offered to the guardian spirits of forests, mountains, rivers, and fields.<ref name="MT2">{{cite web|url=http://www.myanmar.gov.mm/myanmartimes/no184/MyanmarTimes10-184/049.htm |title=Pickled tea - a traditional favourite |last=Balun |first=George |publisher=[[Myanmar Times]] vol.10 no.184 |access-date=2007-04-10 |url-status=dead |archive-url=https://web.archive.org/web/20070927184009/http://www.myanmar.gov.mm/myanmartimes/no184/MyanmarTimes10-184/049.htm |archive-date=2007-09-27 }}</ref> Invitations to a ''shinbyu'' are traditionally done by calling from door to door with a ''lahpet ohk'', and acceptance is indicated by partaking in it.<ref>{{cite book|last=Fytche|first=Albert|title=Burma past and present |publisher=C. K. Paul & co.|year=1878|volume=2}}</ref>
+
+Lahpet may be served as a snack or after a meal for family and visitors. It is usually placed in the center of the table with the green tea. It has a bittersweet and pungent taste and leafy texture. Many believe in its medicinal properties for the digestive system and for controlling bile and mucus.<ref name="MT"/> Its stimulant effect (from the [[caffeine]] in tea) is especially popular with students preparing for exams, ''pwè'' goers at all-night theatrical performances, and funeral aides who keep watch on caskets overnight.<ref name="Haber"/>
+
+''Lahpet thohk'' ({{lang|my|လက်ဖက်သုပ်}}) or [[Yangon]] lahpet is a pickled tea salad that is very popular across Myanmar, especially with women.{{Citation needed|date=August 2007}} It is prepared by mixing the ingredients of Mandalay lahpet (except for the coconut) and adding fresh [[tomato]]es, garlic, [[green chili]]s, and shredded cabbage, and is dressed with [[fish sauce]], [[Sesame oil|sesame]] or peanut oil, and [[Lime (fruit)|lime juice]].<ref name="Haber"/> Lahpet with plain white rice is another student favorite, traditionally served at the end of every meal.<ref>{{cite book|last=Hart|first=Alice Marion Rowlands|title=Picturesque Burma|url=https://archive.org/details/in.ernet.dli.2015.173155|publisher=J. M. Dent|year=1897|pages=[https://archive.org/details/in.ernet.dli.2015.173155/page/n165 113]}}</ref>
+
+Some of the most popular commercial lahpet brands include ''Ayee Taung lahpet'' from [[Mandalay]], ''Shwe Toak'' from [[Mogok]], and ''[[Yuzana Company|Yuzana]]'' and ''Pinpyo Ywetnu'' from [[Yangon]]. Mixed ingredients of fried garlic, peas, peanuts and sesame have become available ''Hna-pyan gyaw'' (twice-fried) for convenience, although they are traditionally sold separately.<ref name="MT"/><ref name="MT2"/> Ayee Taung has been around for over 100 years. Its new recipes, such as ''Shu-shè'' (extra hot) and ''Kyetcheini'' (Red Cross), are quite popular.
+
+''Zayan lahpet'' is lahpet mixed with [[carambola]] (star fruit) and pickled young leaves cut together with coarse leaves. Many prefer [[Mogok]] lahpet as it uses only young tea leaves.<ref name="MT" />
+
+In the [[Northern Thailand|Northern Thai]] provinces of Chiang Mai, Chiang Rai and Mae Hong Son, ''lahpet thohk'' can be found at restaurants where Shan ethnic food is served. In Thai, it is called ''yam miang'' (ยำเหมียง), from [[Shan language|Shan]] ''neng yam'' ({{lang|my|ၼဵင်ႈယမ်း}}).<ref>{{cite book|last=Sao Tern Moeng|title=Shan-English Dictionary|year=1995|isbn=0-931745-92-6|url=http://sealang.net/shan/}}</ref><ref>{{cite book|last=Scott|first=George |title=Burma |url=https://archive.org/details/burmahandbookofp00scot|publisher=Alexander Moring|year=1906|pages=[https://archive.org/details/burmahandbookofp00scot/page/n378 265]}}</ref>
+
+The town of [[Pyay]] (formerly Prome) is known for a local delicacy known as ''taw laphet'' ({{lang|my|တောလက်ဖက်}}; {{lit|rural ''laphet''}}) or ''{{IAST|Nibbinda}} laphet'' ({{lang|my|နိဗ္ဗိန္ဒလက်ဖက်}}).<ref>{{Cite web|last=|first=|date=|title=ပြည်လက်ဆောင်|url=https://ksetrapyay.com/%e1%80%95%e1%80%bc%e1%80%8a%e1%80%ba%e1%80%9c%e1%80%80%e1%80%ba%e1%80%86%e1%80%b1%e1%80%ac%e1%80%84%e1%80%ba/|url-status=dead|archive-url=https://web.archive.org/web/20210113094127/https://ksetrapyay.com/%E1%80%95%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%9C%E1%80%80%E1%80%BA%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA/|archive-date=2021-01-13|access-date=2021-01-12|website=Ksetra Pyay|language=my}}</ref> Originating from [[Kyaung|Burmese nunneries]] in the area, the ''laphet'' is fermented from the leaves of the ''[[Flacourtia|naywe]]'' (နရွဲ) tree, or ''kyettet'' (ကြက်တက်), the ''Combretum pilosum'' plant.<ref name=":1">{{Cite web|last=|first=|date=2014-07-24|title=ပြည်မြို့က တောလက်ဖက်|url=http://blog.irrawaddy.org/2014/07/blog-post_21.html|archive-url=|archive-date=|access-date=2021-01-12|website=လွမ်းမပြေ သုတရပ်ဝန်|language=my}}{{Dead link|date=July 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite web|last=|first=|date=|title=ပြည်မြို့ကတောလက်ဖက်ကို နှီးနဲ့ဘာဖြစ်လို့တင်းနေအောင်ချည်ထားကြတာလဲ|url=https://www.youtube.com/watch?v=PzgDMP5YMc4&ab_channel=MRTVTravelogue|archive-url=|archive-date=|access-date=2021-01-12|website=MRTV Travelogue (Travel Diary -5.1)|language=my}}</ref> The pulp is then tightly wrapped into dried ''[[Careya arborea|banbwe]]'' (ဘန့်ပွေး) leaves and left soaking in regularly changed water for up to 2 years, before it is consumed.<ref name=":1" /> ''Taw laphet'' is otherwise consumed in an identical fashion to traditional laphet.<ref name=":1" />
+
+==2009 scandal==
+On 12 March 2009, the [[Ministry of Health (Myanmar)|Ministry of Health of Myanmar]] announced that 43 brands of lahpet, including some popular brands, contained a chemical dye called [[auramine O]] that is not permitted for use in food. This issue was believed have arisen from [[wholesale]] dealers using cheaper chemical dyes instead of traditional [[food dye]]s.<ref>{{cite news|url=http://www.irrawaddy.org/article.php?art_id=15329|author=Min Lwin|title=Tea Leaves Found to Contain Banned Chemical|publisher=[[The Irrawaddy]], April 1, 2009|access-date=2009-03-19|url-status=dead|archive-url=https://web.archive.org/web/20090323042011/http://www.irrawaddy.org/article.php?art_id=15329|archive-date=March 23, 2009}}</ref> Consequently, the Malaysian government banned the sale of those brands of lahpet, while [[Singapore]] also ordered a ban on 20 brands of lahpet from Myanmar, including eight varieties marketed by [[Yuzana Company|Yuzana]] which had not been declared unsafe by the Burmese authorities. However, [[Thailand]], which has [[Burmese in Thailand|a sizable Burmese population]], did not announce any ban on lahpet brands. Tea businesses were hit by a dramatic drop in lahpet sales.<ref>{{cite news|url=http://www.irrawaddy.org/highlight.php?art_id=15426|author=Min Lwin|title=Singapore Bans Imports of Laphet|publisher=[[The Irrawaddy]], March 19, 2009|access-date=2009-04-01|url-status=dead|archive-url=https://web.archive.org/web/20110605231650/http://www.irrawaddy.org/highlight.php?art_id=15426|archive-date=June 5, 2011}}</ref><ref>{{cite news|url=http://www.irrawaddy.org/article.php?art_id=15430|author=Min Lwin|title=Singapore, Malaysia Ban Burmese Pickled Tea|publisher=[[The Irrawaddy]], April 2, 2009|access-date=2009-04-02|url-status=dead|archive-url=https://web.archive.org/web/20090406020101/http://www.irrawaddy.org/article.php?art_id=15430|archive-date=April 6, 2009}}</ref><ref>[http://www.amazing-green-tea.com/eating-green-tea-is-it-healthy.html] Amazing Green Tea, Eating green tea - Is It Healthy?</ref>
+
+==See also==
+*{{annotated link|Tea culture}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://www.youtube.com/watch?v=DS9B65hYLyw Tea in Burma] YouTube
+*[https://web.archive.org/web/20120706192500/http://www.kepu.net.cn/english/banna/folk/fol107.html Eating Tea in Xishuangbanna] [[Xishuangbanna]] Tropical Botanical Garden
+*[http://www.geonames.org/1290340/twin-taung.html Twindaung satellite map] ''[[GeoNames]]''
+*[http://www.shanvalley.com/blogs/tea-matters/12503065-pickled-green-tea-in-myanmar-lahpet-thoke Myanmar Lahpet Thoke] Pickled Green Tea in Myanmar: Lahpet Thoke
+
+{{Teas}}
+{{Burmese cuisine}}
+
+[[Category:Burmese cuisine]]
+[[Category:Tea varieties]]
+[[Category:Tea dishes]]

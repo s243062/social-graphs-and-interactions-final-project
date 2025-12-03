@@ -1,0 +1,164 @@
+{{Short description|Fermented flatbread from Ethiopia and Eritrea}}
+{{For|the Kenyan rugby player|Collins Injera}}
+{{Use dmy dates|date=April 2021}}{{Infobox food
+| name = Injera
+| image = Injera with eight kinds of stew.jpg
+| image_size = 
+| image_alt = 
+| caption = [[Beyaynetu]]: Meal consisting of ''injera'' and several kinds of ''[[Wat (food)|wat]]'' or ''tsebhi'' (stew), typical of [[Ethiopian cuisine|Ethiopian]] cuisine
+| type = [[Flatbread]] or [[pancake]]
+| country = {{plainlist|
+*[[Ethiopia]]
+*[[Eritrea]]<ref name="Clarkson2013">{{cite book |last=Clarkson |first=Janet |title=Food History Almanac: Over 1,300 Years of World Culinary History, Culture, and Social Influence |url=https://books.google.com/books?id=KOzYAgAAQBAJ&pg=PA1293|year=2013|publisher=Rowman & Littlefield Publishers |isbn=978-1-4422-2715-6 |page=1293}}</ref><ref name="Cauvain">{{cite book
+ | first1=Stanley P.
+ | last1=Cauvain
+ | first2=Linda S.
+ | last2=Young
+ | title=The ICC Handbook of Cereals, Flour, Dough & Product Testing: Methods and Applications
+ | year=2009
+ | publisher=DEStech Publications, Inc.
+ | isbn=9781932078992
+ | page=216
+ | quote=Injera is the fermented pancake-like flatbread, which originated in Ethiopia.
+ | url=https://books.google.com/books?id=F5Yu_eT7-4MC&pg=PA216}}</ref><!-- Per [[Template:Infobox prepared food]], this parameter is reserved for "country of origin of the dish". -->}}
+| region = [[Horn of Africa]]
+| national_cuisine = 
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 
+| maxtime = 
+| served = 
+| main_ingredient = [[Teff]] flour (or sometimes [[wheat]], [[barley]], [[millet]], [[sorghum]], [[Maize|corn]], or [[rice]] flour)
+| minor_ingredient = 
+| serving_size = 100 [[Gram|g]]
+| calories = 131
+| calories_ref = <ref>{{Cite web|url=https://mobile.fatsecret.com/calories-nutrition/generic/injera-(american-style-ethiopian-bread)?portionid=52386&portionamount=100.000|title = Calories in 100 g of Injera (American-Style Ethiopian Bread) and Nutrition Facts}}</ref>
+| protein = 4.95
+| fat = 1.26
+| carbohydrate = 25
+| glycemic_index = 
+| similar_dish = 
+}}
+ 
+'''Injera''' ({{Langx|am|እንጀራ|translit=ənǧära}}, {{IPA|am|ɨndʒəra|}};  {{Langx|ti|ጣይታ|translit=ṭayta}}; {{Langx|om|buddeena}}) is a [[sourdough|sour]] [[Fermentation|fermented]] pancake-like [[flatbread]] with a slightly spongy texture, traditionally made of [[teff]] [[flour]]. In [[Ethiopia]] and  [[Eritrea]],<ref name="Clarkson2013" /><ref name="Cauvain" /> injera is a [[Staple food|staple]]. Injera is central to the dining process in Amhara society, like bread or rice elsewhere, and is usually stored in the [[mesob]].<ref>{{cite book |last1=Shinn |first1=David |title=Historical Dictionary of Ethiopia |date=29 March 2004 |publisher=Scarecrow Press |page=198 |isbn=978-0-8108-6566-2 |url=https://books.google.com/books?id=ep7__RWqq4IC&dq=mesob+harari&pg=PA198}}</ref><ref name=":0">{{Cite journal| last1 = Lyons| first1 = Diane| last2 = D' Andrea| first2 = A. Catherine| date = September 2003| title = Griddles, Ovens, and Agricultural Origins: An Ethnoarchaeological Study of Bread Baking in Highland Ethiopia| journal = American Anthropologist
+| volume = 105| issue =  3| pages = 515–530| doi = 10.1525/aa.2003.105.3.515| jstor = 3566902
+}}</ref><ref>{{cite book|last=Mekonnen|first=Yohannes|title=Ethiopia: the Land, Its People, History and Culture|url=https://books.google.com/books?id=kSgmwugWCGMC&pg=PA362|date=29 January 2013|publisher=Yohannes Mekonnen|isbn=978-1-4823-1117-4|page=362}}</ref>
+
+== Ingredients ==
+{{further|Eragrostis tef}}
+Traditionally, injera is made with just two ingredients: teff flour and water. Teff flour is ground from the grains of ''[[Eragrostis tef]]'', also known as teff, a cereal crop from the [[Ethiopian Highlands]].<ref>{{cite journal| last = Jones| first = Wilbert| date = 2010| title = A Taste of Ethiopian Cuisine| journal = Computers & Applied Sciences Complete| pages = 55–56}}</ref> Teff production is limited to certain middle elevations with adequate rainfall and is a low-yield crop,<ref name=":3">{{Cite book|url=https://books.google.com/books?id=-4tlDwAAQBAJ&pg=PA341|title=The economics of teff: Exploring Ethiopia's biggest cash crop|last1=Bart|first1=Minten|last2=Seyoum|first2=Taffesse, Alemayehu|last3=Petra|first3=Brown|date=19 July 2018|publisher=Intl Food Policy Res Inst|isbn=9780896292833|language=en}}</ref> so it is relatively expensive for the average farming household. Many [[Agriculture in Ethiopia|farmers in the Ethiopian highlands]] grow their own subsistence grains, so [[wheat]], [[barley]], [[Maize|corn]], or [[rice]] flour are sometimes used to replace the teff content. Teff seeds are graded according to color, used to make different kinds of injera: ''nech'' (white), ''key'' or ''quey'' (red), and ''sergegna'' (mixed).<ref name=":3" /> When teff is not available, injera is made by fermenting a variety of different grains, including [[barley]], [[millet]], and [[sorghum]].<ref name=":1">{{Cite book
+| title = Mesob Across America: Ethiopian Food in the U.S.A.| last = Kloman| first = Harry| publisher = IUniverse| year = 2010
+| location = New York}}</ref> Teff, however, is the preferred grain for making injera, primarily because of its sensory attributes (color, smell, taste).<ref name=":3" /> Teff flour is gluten-free.{{Cn|date=March 2025}}
+
+==Preparation==
+[[File:How to make injera in d.markos,Ethiopia.jpg|thumb|Batter is poured rapidly in a spiral from the outside inwards. Debre Markos, Ethiopia.]]
+To make injera, teff flour is mixed with water. The fermentation process is started by adding ersho, a clear, yellow liquid that accumulates on the surface of fermenting teff flour batter and is collected from previous fermentations. The aerobic microbial flora of ersho contains spores of ''[[Bacillus]]'' species (unable to grow at the low pH of 3.5) and several yeasts (in order of abundance): ''[[Candida milleri]]'', ''[[Rhodotorula mucilaginosa]]'', ''[[Kluyveromyces marxianus]]'', ''[[Pichia naganishii]]'' and ''[[Debaromyces hansenii]]''.<ref name="World Journal of Microbiology and Biotechnology, 1994, Volume 10, Issue 1, pp 69–73">{{cite journal |last1=Ashenafi |first1=M. |title=Microbial flora and some chemical properties of ersho, a starter for teff (Eragrostis tef) fermentation |journal=World Journal of Microbiology & Biotechnology |volume=10 |pages=69–73 |doi=10.1007/BF00357567 |pmid=24420890 |year=1994 |issue=1 |s2cid=25062764 }}</ref><ref name=":3" /> The mixture is then allowed to [[Fermentation (food)|ferment]] for an average of two to three days, giving it a mildly sour taste.{{Cn|date=March 2025}}
+
+==Making==
+===Baking method===
+The baking method for injera has changed little since its origin. Traditionally, the flour is mixed with water and fermented. It is baked by pouring the mixture onto a large circular griddle, known as a ''[[Injera stove|mitad]].'' {{Cn|date=March 2025}}
+[[File:Injera stove .. and fresh Injera being cooked.JPG|thumb|Injera being cooked on a griddle]]
+
+The injera is [[Baking|baked]] into large, flat and round pieces. The dough's viscosity allows it to be poured onto the baking surface, rather than rolled out.{{Cn|date=March 2025}}
+
+In terms of shape, injera compares to the French ''[[crêpe]]'' and the Indian ''[[Dosa (food)|dosa]]'' as a [[flatbread]] cooked in a circle and used as a base for other foods. In taste and texture, it is more similar to the South Indian ''[[appam]]''. The bottom surface of the injera, which touches the heating surface, has a relatively smooth texture, while the top is porous. This porous texture makes injera good for scooping up sauces and dishes.{{Cn|date=March 2025}}
+
+===Baking surface===
+Baking is done on a circular griddle—either a large black clay plate over a fire or a specialized electric stove. The griddle is known as a {{transliteration|am|mitad}} ({{lang|am|ምጣድ}}) (in [[Amharic language|Amharic]]) or {{transliteration|ti|mogogo}} ({{lang|ti|ሞጎጎ}}) (in [[Tigrinya language|Tigrinya]]). ''Mitads'' have been found at archaeological sites dating back as far as 600&nbsp;AD.<ref name=":1" /> Nowadays, ''mitads'' are no longer always made out of clay, and can also be electric.
+
+Traditional clay stoves can be inefficient in that they consume large amounts of firewood and produce a lot of smoke, creating household pollution and making them dangerous to use around children.<ref>{{Cite book|last1=Diehl|first1=Jan Carel|last2=Jones|first2=Robin|last3=Verwaal|first3=Martin|date=4 May 2017|chapter=The Development of an Energy Efficient Electric Mitad for Baking Injeras in Ethiopia|chapter-url=https://www.researchgate.net/publication/315787267|doi=10.23919/DUE.2017.7931827|title=2017 International Conference on the Domestic Use of Energy (DUE)|pages=75–82|isbn=978-0-9946759-2-7|s2cid=42098925|url=http://resolver.tudelft.nl/uuid:0b7d8d39-7742-4877-8a39-5e598daa1fed}}</ref> In 2003, an Eritrean research group designed a stove for cooking injera and other foods that uses more easily available fuel, such as twigs instead of large branches, crop residues and dung, locally called ''kubet''.<ref name=":2">{{cite web
+| url=https://www.ashden.org/winners/rec-formerly-ertc
+| title=Ashden awards: REC (formerly ERTC), Eritrea – Local construction of efficient stoves
+| publisher=[[Ashden]]
+| date=2003
+| access-date=17 October 2017}}</ref> Several parts of this new stove are made in the central cities of Ethiopia and Eritrea, while other parts are moulded from clay by women in local areas.<ref name=":2" />
+
+[[File:Ethiopia Gheralta WomanCookingInjera.JPG|thumb|Woman checking the baking of an injera in her house. Gheralta, Ethiopia.]]
+Many women in urban areas—especially those living outside Ethiopia and Eritrea—now use electric injera stoves, which are topped with a large metal plate, or simply non-stick frying pans.{{Cn|date=March 2025}}
+
+==Consumption and contemporary use==
+[[File:Injera Texture.jpg|thumb|right|Injera showing typical spongy texture]]
+In Ethiopia and Eritrea, a variety of [[stew]]s, [[salad]]s (during [[Ethiopian Orthodox Tewahedo Church|Ethiopian Orthodox]] [[fasting]], for which believers abstain from most animal products), and more injera (called ''[[Fit-fit|injera firfir]]'') are placed on the injera for serving. Using one's hand (traditionally only the right one),<ref>{{cite news |url=https://www.thestar.com/life/food_wine/2017/03/15/ethiopian-food-how-to-eat.html |work=Toronto Star |first=Aparita |last=Bhandari |date=15 March 2017 |title=How to Eat: Ethiopian cuisine is hands-on |access-date=29 March 2017}}</ref><ref>{{cite book| title=Right Hand, Left Hand: The Origins of Asymmetry in Brains, Bodies, Atoms and Cultures| first=Chris| last=McManus| publisher=[[Harvard University Press]]| year=2004| page=24| url=https://books.google.com/books?id=20oza63ZuG4C&pg=PA24| quote=Other Bantu languages mostly talked about the 'eating hand' and, [...]
+| isbn=9780674016132}}</ref> small pieces of injera are torn and used to grasp the stews and salads for eating. The injera under these stews soaks up the juices and flavors of the foods, and after the stews and salads are gone, this bread is also consumed. Injera is thus simultaneously a food, [[eating utensil]], and [[Plate (dishware)|plate]]. When the entire "tablecloth" of injera is gone, the meal is over.{{Cn|date=March 2025}}
+
+In Ethiopia and Eritrea, injera is eaten daily in virtually every household. Outside of [[Ethiopia]] and [[Eritrea]], injera may be found in grocery stores and restaurants specializing in [[Ethiopian cuisine|Ethiopian]] and [[Eritrean cuisine|Eritrean]] cooking.{{Cn|date=March 2025}}
+
+{{multiple image
+| align = center
+| direction = horizontal
+| width = 
+| footer_align = center
+| footer = Left: An [[injera stove]]. Right: Freshly-baked injera.
+| image1 = Injera, Ethiopian bread made from teff a cereal native to Ethiopia.JPG
+| width1 = 170
+| alt1 = 
+| caption1 = 
+| image2 = Fresh Injera.JPG
+| width2 = 190
+| alt2 = 
+| caption2 = 
+}}
+
+{{clear}}
+
+Injera is the most important component of food in Ethiopia and Eritrea. It is often both the serving platter and utensil for a meal. Hearty stews such as [[Wat (food)|''wat'']] are placed on top of the bread and then the meal is eaten by tearing pieces of injera off and scooping up the stews.<ref name=":1" /><ref>{{cite journal | last1 = Sokolov | first1 = Raymond | year = 1993 | title = The Teff Also Rises | journal = Natural History | volume = 102 | issue = 3| page = 96 }}</ref> While injera's literal use as the base and staple of any Ethiopian and Eritrean meal has not changed since its creation, its symbolic value has changed. Different varieties of injera can be found in the highlands vis-à-vis the lowlands of Ethiopia. In the lowlands, injera is often made with [[sorghum]] and in the highlands it is more commonly made with barley.<ref name=":0" /> Either way, because it is made with something other than teff, its symbolic value has already decreased compared to the symbolic value of injera made with teff. There are symbolic value differences with types of teff as well. White-grained teff is more expensive to buy and thus symbolizes a higher status than its cheaper counterpart, red-grained teff.<ref name=":0" />
+
+==Outside Ethiopia and Eritrea==
+There are similar variants to injera in other [[Africa]]n countries, namely [[Sudanese cuisine|Sudan]], [[Chadian cuisine|Chad]] and [[Kenyan cuisine|Kenya]]. The variant eaten in [[South Sudan]], Sudan and Chad is known as ''[[kisra]]''.<ref name="Burdett">{{cite book| last=Burdett| first=Avani| title=Delicatessen Cookbook – Burdett's Delicatessen Recipes: How to make and sell Continental & World Cuisine foods| year=2012| publisher=Springwood emedia| url=https://books.google.com/books?id=p5nhpRfaDpIC| isbn=9781476144627}}</ref> In [[Kenya]], a variant of injera is eaten by the [[Borana Oromo people|Borana]], [[Gabra people|Gabra]] living in the northern parts of the country. It is increasingly popular in [[Israeli cuisine|Israel]] due to immigration of [[Ethiopian Jewish cuisine|Ethiopian Jews]].{{Cn|date=March 2025}}
+
+===United States===
+[[File:Bob's Red Mill Whole Grain Teff Flour.jpg|thumb|right|A bag of retail teff flour]]
+Injera became more common in the United States during a spike in Ethiopian immigration in the 1980s and 1990s, largely because of the [[Refugee Act of 1980|Refugee Act]] passed in 1980.<ref>{{Cite journal
+| last = Chacko
+| first = Elizabeth
+| date = 2003
+| title = Identity and Assimilation among Young Ethiopian Immigrants in Metropolitan Washington
+| journal = Geographical Review
+| publisher = American Geographical Society
+| volume = 93| issue =  4
+| pages = 491–506
+| doi = 10.1111/j.1931-0846.2003.tb00044.x
+| jstor = 30033939
+| bibcode = 2003GeoRv..93..491C
+| s2cid = 145226876
+}}</ref> 
+
+Mass production of injera and its introduction into the US market was pioneered by an Ethiopian-American immigrant, Tedla Desta, who opened the first injera bakery in Alexandria, Virginia.  He introduced the seed to a United States farmer (Johnston Seed Co.) in Enid, Oklahoma who became his initial supplier.<ref>https://www.washingtonpost.com/archive/politics/1987/12/16/new-firms-backed-by-family-friends/313ee97e-5e19-4b52-8e83-e1a0d8f28dd1/ {{Bare URL inline|date=July 2025}}</ref>
+
+Today teff flour is being produced in the United States by several companies, making teff more accessible to expatriate Ethiopians.<ref>{{cite news |last=Weil |first=Josh |url=https://www.nytimes.com/2007/08/01/dining/01inje.html |title=To Ethiopians in America, Bread is a Taste of Home |work=The New York Times |date=1 August 2007 |access-date=8 May 2018}}</ref> In America, it is often cooked on an aluminum [[lefse]] grill.{{Cn|date=March 2025}}
+
+==See also==
+{{columns-list|colwidth=30em}}
+* [[Baghrir]]
+* [[Beyaynetu]]
+* [[Lahoh]]
+* [[List of African dishes]]
+* [[List of Ethiopian and Eritrean dishes and foods]]
+
+==References==
+{{Clear}}
+{{reflist}}
+
+==Further reading==
+* [https://ethiopianfood.wordpress.com/2011/05/06/the-deep-dish-on-chicago-ethiopian/ The Deep Dish on Chicago Ethiopian] Companion website to Kloman's book ''Mesob Across America'' 
+* [https://cheflolaskitchen.com/injera/ Traditional Ethiopian Injera Recipe] 
+* [http://www.houstonpress.com/restaurants/here-eat-this-a-beginners-guide-to-ethiopian-cuisine-6426799 Here, Eat This: A Beginner's Guide to Ethiopian Food] A ''Houston Press'' article that outlines all the basics for Ethiopian cuisine   
+* {{cite journal |last1=Crang |first1=Philip |last2=Cook |first2=Ian |title=The World on a Plate: Culinary Culture, Displacement and Geographical Knowledges |journal=Journal of Material Culture |year=1996 |volume=1 |issue=2 |pages=131–156 |doi=10.1177/135918359600100201|s2cid=144183630 |ref=no}}
+* de Solier, Isabelle. ''Food and the Self: Consumption, Production, and Material Culture''. Bloomsbury Academic. 2013
+
+==External links==
+*{{Commons-inline}}
+
+{{Pancakes}}
+{{Flatbreads}}
+{{African cuisine}}
+
+[[Category:Eritrean cuisine]]
+[[Category:Ethiopian cuisine]]
+[[Category:Fermented foods]]
+[[Category:Flatbreads]]
+[[Category:Pancakes]]
+[[Category:Somali cuisine]]
+[[Category:Sourdough breads]]
+[[Category:National dishes]]
+[[Category:Ethiopian-American history]]

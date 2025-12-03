@@ -1,0 +1,63 @@
+{{Short description|Meat stew originating in the Indian subcontinent}}
+{{More citations needed|date=August 2017}}
+{{Use dmy dates|date=December 2023}}
+{{EngvarB|date=December 2023}}
+{{Infobox food
+| name = Nihari
+| image = Mutton Nihari.jpg
+| caption = [[Mutton]] Nihari
+| country = Indian subcontinent
+| region = [[Lucknow]], [[Oudh State|Awadh]], [[Mughal Empire]]
+| year = 18th century
+| national_cuisine = [[Indian cuisine|Indian]], [[Pakistani cuisine|Pakistani]], [[Bangladeshi cuisine|Bangladeshi]]<ref>{{cite book |last1=Sen |first1=Colleen Taylor |last2=Bhattacharyya |first2=Sourish |last3=Saberi |first3=Helen |title=The Bloomsbury Handbook of Indian Cuisine |date=23 February 2023 |publisher=Bloomsbury Publishing |isbn=978-1-350-12864-4 |url=https://books.google.com/books?id=3jusEAAAQBAJ |page=258}}</ref>
+| creator = [[Mughals]]
+| course = Breakfast, lunch, dinner
+| served = Hot
+| main_ingredient = [[Shank (meat)|Shank cut]] of [[beef]], [[lamb and mutton]], [[goat meat]], or [[Camel#Islam|camel meat]], as well as [[Chicken as food|chicken]] and [[Bone marrow (food)|bone marrow]]
+| variations = 
+| calories = 
+| other = Served with [[naan]] or [[rice]] or [[Roti]]
+| creators = 
+}}
+
+'''Nihari''' ({{Langx|hi|निहारी}}; {{langx|bn|নিহারী}}; {{Langx|ur|{{Script|Nastaliq|نہاری}}}}) is a [[stew]] originating in [[Lucknow]], the capital of 18th-century [[Oudh State|Awadh]] under the [[Mughal Empire]] in the [[Indian subcontinent]]. It consists of slow-cooked meat, mainly a [[Shank (meat)|shank cut]] of [[lamb and mutton]], or [[goat meat]], as well as [[Chicken as food|chicken]] and [[Bone marrow (food)|bone marrow]]. It is flavoured with [[Long pepper#Usage|long pepper]] ({{Transliteration|hi|pippali}}), a relative of [[black pepper]]. In [[Pakistan]] and [[Bangladesh]], nihari is often served and consumed with [[naan]].
+
+== Etymology ==
+The name {{Transliteration|hi|nihari}} originates from [[Arabic]] ''{{Transliteration|ar|nahâr}}'' ({{Langx|ar|نهار|label=none}}), meaning "morning";<ref name="NDTV"/><ref name="TOI"/><ref name="Hom">{{cite web|url=https://homtainment.com/beef-nihari-a-historical-recipe/|title=Nihari- historical recipe|date=23 December 2020|website=Homtainment|access-date=23 December 2020}}</ref> it was originally eaten by [[nawab]]s in the [[Mughal Empire]] as a breakfast course following [[Fajr prayer]].<ref name="NDTV">{{Cite news|last=Sengupta|first=Sushmita|date=3 January 2018|title=Nihari: History Of The Meaty and Buttery Breakfast Staple of The Mughals|url=https://food.ndtv.com/food-drinks/nihari-history-of-the-meaty-and-buttery-breakfast-staple-of-the-mughals-1795358|access-date=3 January 2018 |work=NDTV Food}}</ref><ref name="Hom"/>
+
+==History==
+According to many sources, nihari originated in the royal kitchens of [[Lucknow]], [[Oudh State|Awadh]] (modern-day [[Uttar Pradesh]], [[India]]), in the late 18th century, during the last throes of the [[Mughal Empire]].<ref name="TOI">{{cite news|first=Deblina |last=Chakravorty |date=12 April 2012|url=http://timesofindia.indiatimes.com/life-style/food/food-reviews/Nihari-a-gift-from-Nawabs/articleshow/11577016.cms|title=Nihari, a gift from Nawabs|work=The Times of India|access-date=5 March 2016}}</ref> It was originally meant to be consumed as a heavy, high-energy breakfast dish on an empty stomach by working-class citizens, particularly in colder climates and seasons. However, the dish later gained widespread popularity and eventually became a staple of the royal cuisine of Mughal-era [[nawab]]s.<ref>{{cite news |title=In celebration of winter's perfect dish, the mutton nihari! |url=https://www.hindustantimes.com/brunch/in-celebration-of-winter-s-perfect-dish-the-mutton-nihari/story-aWAvsL8kFp5CKmk535PYDK.html |access-date=30 January 2021 |work=Hindustan Times |date=4 November 2017 |language=en}}</ref><ref>{{cite web |title=Do you know what is Nalli Nihari? History of Nihari and recipe of Nalli Nihari |url=https://infusecooking.com/what-is-nalli-nihari/ |website=infusecooking.com |date=29 June 2021 |access-date=28 June 2022}}</ref>
+
+==Popularity==
+Nihari is a traditional dish among the [[Islam in India|Indian Muslim]] communities of [[Lucknow]], [[Delhi]], and [[Bhopal]]. Following the [[partition of India]] in 1947, many [[Mahajir (Pakistan)|Urdu-speaking Muslims]] from [[North India|northern India]] migrated to [[Karachi]] in [[West Pakistan]] and [[Dhaka]] in [[East Pakistan]], and established a number of restaurants serving the dish. In Karachi, nihari became a large-scale success<ref name="th">{{cite web|url=http://www.thehindubusinessline.in/life/2007/05/25/stories/2007052500230300.htm|title=Nihari a la Mexican style|work=The Hindu Business Line|access-date=5 March 2016|url-status=live|archive-url=https://web.archive.org/web/20130523114642/http://www.thehindubusinessline.in/life/2007/05/25/stories/2007052500230300.htm|archive-date=23 May 2013|first1=Asif|last1=Noorani}}</ref> and soon spread in prominence and availability across [[Pakistan]].
+[[File:Beef_Nihari,_made_by_Saleha_Atif,_Pakistan.jpg|thumb|[[Karachi]]-style beef nihari in [[Ras Tanura]], [[Saudi Arabia]] – garnished with [[ginger]], [[Coriander|coriander leaves]], and [[Chili pepper|green chillies]]]]
+In some restaurants, a few kilograms from each day's leftover nihari is added to the next day's pot; this reused portion of the dish is known as {{Transliteration|hi|taar}} and is believed to provide a unique flavour. Some nihari outlets in [[Old Delhi]] claim to have kept an unbroken cycle of ''{{Transliteration|hi|taar}}'' going for more than a century.<ref>{{cite web |last=Sengupta |first=Sushmita |date=20 January 2022 |url=https://www.slurrp.com/article/nihari%E2%80%99s-%E2%80%98taar%E2%80%99-to-dahi%E2%80%99s-%E2%80%98jamun%E2%80%99-the-desi-art-of-using-remains-of-previous-batch-to-flavour-next-1637066963216 |title=Nihari's 'Taar' to Dahi's 'Jamun': The Desi Art Of Using Remains Of Previous Batch To Flavour Next |work=Slurrp.com |access-date=22 December 2023 }}</ref>
+
+==Medicinal remedies==
+Nihari is also used as a [[Traditional medicine#Home remedies|home remedy]] for [[fever]], [[rhinorrhea]], and the [[common cold]].<ref>{{cite web|url=http://www.indiacurry.com/faqterms/whatnihari.htm|title=What is Nihari?|access-date=28 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20141219082004/http://www.indiacurry.com/faqterms/whatnihari.htm|archive-date=19 December 2014}}</ref>
+
+==See also==
+{{Portal|India|Food}}
+*[[Cuisine of the Indian subcontinent]]
+*[[List of stews]]
+
+==References==
+{{reflist}}
+
+{{India topics}}
+{{Indian Dishes}}
+
+[[Category:South Asian curries]]
+[[Category:National dishes]]
+[[Category:Muhajir cuisine]]
+[[Category:Indian cuisine]]
+[[Category:Indian meat dishes]]
+[[Category:Indian soups and stews]]
+[[Category:Telangana cuisine]]
+[[Category:Hyderabadi cuisine]]
+[[Category:Mughlai cuisine]]
+[[Category:Bangladeshi meat dishes]]
+[[Category:Bangladeshi soups and stews]]
+[[Category:Pakistani soups and stews]]
+[[Category:Pakistani meat dishes]]
+[[Category:Lahori cuisine]]

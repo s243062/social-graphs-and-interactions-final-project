@@ -1,0 +1,177 @@
+{{Short description|Traditional Malay breakfast dish}}
+{{EngvarB|date=October 2014}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox food
+| name             = Nasi lemak<br />{{lang|ms|{{Script|Arab|ناسي لمق}}}}
+| image            = Nasi Lemak dengan Chili Nasi Lemak dan Sotong Pedas, di Penang Summer Restaurant.jpg
+| image_size       = 250
+| caption          = Nasi lemak with ''sotong pedas'' (spicy squid), ''[[sambal]]'' chili paste, boiled egg, slices of cucumber, ''[[ikan bilis]]'', and peanuts served at a restaurant in Penang
+| alternate_name   =
+| place_of_origin  = Malaysia<ref>{{cite news |author=Rachel Au |date=18 August 2021 |title=Nasi Lemak: An Origin Story |url=https://www.buro247.my/lifestyle/food-and-drink/nasi-lemak-an-origin-story.html |work=Buro 24/7}}
+</ref><ref name="Trip">{{Cite web|url=http://www.thestar.com.my/story/?file=/2009/9/17/nation/4734354|title=Laksa and nasi lemak among our pride, says Yen Yen|last=Teh|first=Eng Hock|date=17 September 2009|website=www.thestar.com.my|access-date=16 November 2018|archive-url=https://web.archive.org/web/20181116221535/https://www.thestar.com.my/story/?file=%2F2009%2F9%2F17%2Fnation%2F4734354|archive-date=16 November 2018|url-status=dead}}</ref><ref>{{Cite web|url=http://www.thestar.com.my/lifestyle/food/news/2014/11/19/nasi-lemak-once-a-farmers-meal-now-malaysias-favourite/|title=Nasi lemak – once a farmer's meal, now Malaysia's favourite|last=Ahmad|first=Aida|date=19 November 2014|website=thestar.com.my|access-date=16 November 2018}}</ref><ref>{{Cite news|url=http://says.com/my/lifestyle/ipoh-born-ping-coombes-wins-masterchef-2014-by-cooking-nasi-lemak-and-wanton-soup|title=Ipoh-Born Ping Coombes Wins MasterChef 2014 by Cooking Nasi Lemak and Wonton Soup|last=Ram|first=Sadho|date=18 May 2014|work=SAYS.com|access-date=16 November 2018}}</ref>
+| region           = {{hlist|[[Peninsular Malaysia]], certain parts of [[Sumatra]] ([[Medan]], [[Riau]], [[Riau Islands]], and [[Palembang]]), [[Singapore]], [[Brunei]], [[southern Philippines]], [[Southern Thailand]], [[Cocos (Keeling) Islands]], and [[Christmas Island]]}}
+| course           = Main course, usually for breakfast
+| served           = Hot or room-temperature
+| main_ingredient  = Rice cooked in [[coconut milk]] with [[Pandanus amaryllifolius|pandan leaves]]
+| minor_ingredient = Served with sambal, anchovies, cucumber, and various side dishes
+| variations       =
+| calories         =
+| other            =
+}}
+{{Infobox intangible heritage
+| ICH         = Breakfast culture in Malaysia: dining experience in a multi-ethnic society
+| State Party = Malaysia
+| ID          = 02113
+| Region      = APA
+| Year        = 2024
+| Session     = 19th
+| List        = Representative
+}}
+
+'''Nasi lemak''' ([[Jawi script|Jawi]]: {{Script/Arabic|ناسي لمق}}; {{IPA|ms|ˌnasi ləˈmaʔ}}) is a dish originating in [[Malay cuisine]] that consists of [[Coconut rice|rice]] cooked in [[coconut milk]] and [[Pandanus amaryllifolius|pandan leaf]]. It is commonly found in Malaysia, where it is considered the [[national dish]].<ref>{{cite web | url=http://www.thestar.com.my/Travel/Malaysia/2011/04/07/Nasi-lemak-our-national-dish.aspx | title=Nasi lemak, our 'national dish' | work=The Star | date=7 April 2011 | access-date=6 November 2013 | author=Dwayne A. Rules | archive-url=https://web.archive.org/web/20140702211527/http://www.thestar.com.my/Travel/Malaysia/2011/04/07/Nasi-lemak-our-national-dish.aspx/ | archive-date=2 July 2014 | url-status=dead }}</ref><ref>{{cite news |author=Naomi Lindt|date=22 November 2012 |title=A Food Bloggers' Tour of Kuala Lumpur |url=https://www.nytimes.com/2012/11/25/travel/a-food-bloggers-tour-of-kuala-lumpur.html |work=The New York Times|access-date=19 February 2022}}</ref><ref>{{Cite news|url=https://edition.cnn.com/travel/article/my-national-dish-cnnfood/index.html|title=#CNNFoodchallnge: What's your national dish?|date=18 September 2015|work=CNN Travel|access-date=16 November 2018}}</ref> It is also a native dish in neighbouring areas with significant [[ethnic Malay]] populations, such as [[Singapore]]<ref name="SCMP-1">{{Cite web|first=Vicki|last=Williams|date=15 July 2019 |title=Is nasi lemak from Malaysia or Singapore? |url=https://www.scmp.com/magazines/style/travel-food/article/3018591/nasi-lemak-malaysia-or-singapore-and-how-did-it-get-its |access-date=12 September 2023 |website=South China Morning Post}}</ref><ref>{{cite web|url=http://www.visitsingapore.com/dining-drinks-singapore/local-dishes/nasi-lemak/ |title=Nasi lemak |publisher=VisitSingapore.com |access-date=5 May 2012}}</ref> and [[Southern Thailand]]. In Indonesia, it can be found in parts of [[Sumatra]], especially the [[Malay Indonesian|Malay]] regions of [[Riau]], [[Riau Islands]], and [[Medan]].<ref name="Kompas Nasi Lemak Medan">{{cite news | title = Mencicipi Harum dan Lembutnya Nasi Lemak Medan di Jakarta | author = Muhammad Irzal Adiakurnia | work = Kompas.com | date = 11 August 2017| url = http://travel.kompas.com/read/2017/08/11/210400227/mencicipi-harum-dan-lembutnya-nasi-lemak-medan-di-jakarta | language = id}}</ref> It is considered an essential dish for a typical Malay-style breakfast.<ref>{{Cite journal |last=Tibère |first=Laurance |date=May 2019 |title=Staging a National Dish: The social relevance of Nasi Lemak in Malaysia |url=https://fslmjournals.taylors.edu.my/wp-content/uploads/APJIHT/APJIHT-2019-8-1/APJIHT-2019-P4-8-1.pdf |journal=Asia-Pacific Journal of Innovation in Hospitality & Tourism |volume=8 |pages=51–66 |via=EBSCO}}</ref>
+
+Nasi lemak can also be found in the [[Bangsamoro]] region of [[Mindanao]], prepared by Filipino [[Moro people|Moro]]s, as well as in Australia's external territories of [[Christmas Island]] and the [[Cocos (Keeling) Islands]].{{citation needed|date=September 2023}}
+
+==History and background==
+Nasi lemak was mentioned as early as 1875 in a French–Malay dictionary compiled by Pierre-Étienne-Lazare Favre,<ref>Favre, P. É. L. (1875). [https://www.google.com.my/books/edition/Dictionnaire_malais_fran%C3%A7ais/3Ec0AQAAMAAJ?hl=en&gbpv=1&bsq=n%C4%81si%20lemak&printsec=frontcover Dictionnaire malais-français]. Austria: Imprimerie impériale et royale – via Google Books</ref> a Roman Catholic missionary based on the Malay peninsula, and in a book titled ''The Circumstances of Malay Life'', written by [[Richard Olaf Winstedt]] in 1909.<ref>{{cite book |last=Winstedt |first=Richard Olaf |author-link=Richard Olaf Winstedt |url=https://archive.org/details/bub_gb_2cQcAAAAMAAJ |title=The Circumstances of Malay Life |publisher=Ams Press Inc |year=1909 |access-date=23 February 2014}}</ref><ref>{{Cite book|url=https://archive.org/details/bub_gb_2cQcAAAAMAAJ|title=The circumstances of Malay life Free Ebook|year=1981|isbn=9780404168827 |last1=Winstedt |first1=Richard |publisher=AMS Press }}</ref> With roots in Malay culture and [[Malay cuisine|cuisine]], the name of the dish in [[Malay language|Malay]] literally means "fat rice"<ref name="foodspotting">{{cite book |url=https://books.google.com/books?id=PswWAgAAQBAJ&pg=PT52 |title=The Foodspotting Field Guide|editor= April V. Walters =|publisher=Chronicle Books |year= 2014 |isbn= 978-1452119878 |page=52 }}</ref><ref>{{cite web |url=http://delectable.asia/recipe-items/nasi-lemak/ |archive-url=https://web.archive.org/web/20150530081429/http://delectable.asia/recipe-items/nasi-lemak/ |url-status=dead |archive-date=30 May 2015 |title=Nasi Lemak |work=Delectable Asia }}</ref> but is taken in this context to mean "rich", or "creamy".<ref>{{cite book |url=https://books.google.com/books?id=NdisDpWxtnYC&pg=PA103 |title= Heavenly Fragrance: Cooking with Aromatic Asian Herbs, Fruits, Spices and Seasonings |author=Carol Selva Rajah |publisher=Periplus Editions (HK) ltd. |date=4 February 2014 |page=103 |isbn= 978-0794607371 }}</ref> This is derived from the cooking process, which involves soaking the rice in [[coconut cream]] and steaming the mixture. The addition of [[Pandanus amaryllifolius|pandan]] leaves give the rice its distinct flavour.<ref name="foodspotting"/>
+
+[[File:Nasi lemak 01a.jpg|thumb|left|Nasi lemak is traditionally wrapped in [[banana leaves]].]]
+
+Traditionally, nasi lemak is wrapped and served in [[banana leaves]], together with a hot spicy sauce (''[[sambal]]'') and various garnishes, including fresh cucumber slices, fried [[Anchovy (food)|anchovies]] (''ikan bilis''), roasted peanuts, and hard-boiled or fried eggs.<ref name="foodspotting"/><ref name="malaymail">{{cite web |url=http://www.themalaymailonline.com/eat-drink/article/nasi-lemak-the-one-dish-that-unites-us-all |title=Nasi lemak: The one dish that unites us all |author= Lee Khang Yi|work=Malay Mail Online |date=31 August 2014 }}</ref>
+
+As a more substantial meal, nasi lemak may also be served with an additional protein dish such as ''[[ayam goreng]]'' (fried chicken), ''sambal sotong'' ([[cuttlefish]] in chili), small fried fish, [[Cockle (bivalve)|cockles]], and ''[[rendang]] daging'' (beef stewed in coconut milk and spices).<ref name="malaymail"/><ref>{{cite web |url=http://www.hungrygowhere.my/dining-guide/food-trends/nasi-lemak-wars-*aid-6b523101/ |title=Nasi Lemak Wars |author=Karen-Michaela Tan |date=14 October 2014 |work=Hungry Go Where |access-date=1 April 2015 |archive-date=28 September 2017 |archive-url=https://web.archive.org/web/20170928151538/http://www.hungrygowhere.my/dining-guide/food-trends/nasi-lemak-wars-*aid-6b523101/ |url-status=dead }}</ref> Other accompaniments include stir-fried [[Ipomoea aquatica|water convolvulus]] (''kangkong'')<ref>{{cite book |url=https://books.google.com/books?id=dVyJAAAAQBAJ&pg=PA126 |title=Malay Heritage Cooking |author= Rita Zahara|page=126 |publisher=Marshall Cavendish International (Asia) Pte Ltd |date=1 January 2012 |isbn=  978-9814328661 }}</ref> and spicy pickled vegetable salad (''[[acar]]'').
+
+Nasi lemak is widely eaten in [[Malaysia]] and [[Singapore]]. Commonly eaten as breakfast in both countries, it is sold in [[hawker centre]]s and roadside stalls.<ref name="SCMP-1"/>
+
+In Indonesia, nasi lemak is also common breakfast fare, especially in Sumatra ([[Riau Islands]], [[Riau]], and [[Medan]]).<ref name="Kepri">{{cite web|work=Wonderful Kepulauan Riau|title=Local Favorite Food|url=http://kepri.travel/local-favorite-food/|url-status=usurped|archive-url=https://web.archive.org/web/20151208105541/http://kepri.travel/local-favorite-food/|archive-date=8 December 2015}}</ref> In the [[Palembang]] and [[Jambi]] provinces, it is called ''[[nasi gemuk]]'', since in [[Musi language|Palembang Malay]], ''gemuk'' is a synonym of ''lemak''.<ref>{{Cite web |title=Nasi Gemuk, Sajian Khas Jambi yang Bikin Kangen Rumah |url=https://www.sasa.co.id/articles/tips-trick/nasi-gemuk-sajian-khas-jambi-yang-bikin-kangen-rumah |access-date=20 June 2025 |publisher=Sasa |language=id |trans-title=Nasi Gemuk, a Typical Jambi Dish That Makes You Miss Home}}</ref>
+
+On 31 January 2019, [[Google]] released a [[Google Doodle]] celebrating nasi lemak.<ref>{{cite web |last1=Michallon |first1=Clémence |title=Nasi lemak: What is the Malaysian dish and why is it being celebrated? |url=https://www.independent.co.uk/life-style/food-and-drink/news/nasi-lemak-google-doodle-recipe-malaysian-food-dish-breakfast-rice-coconut-milk-a8754481.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/life-style/food-and-drink/news/nasi-lemak-google-doodle-recipe-malaysian-food-dish-breakfast-rice-coconut-milk-a8754481.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |website=The Independent |date=31 January 2019 |access-date=31 January 2019}}</ref>
+
+==Variations==
+{{More citations needed section|date=June 2024}}
+[[File:Nasi lemak basic.jpg|thumb|Traditional Malaysian nasi lemak in its basic form: [[sambal]], fried anchovies, sliced cucumbers, and boiled egg.]]
+
+In Malaysia and Singapore, nasi lemak comes in many variations, as it is prepared by different chefs from different cultures.
+
+In northwestern [[Peninsular Malaysia]], nasi lemak dishes typically incorporate [[curry]] into their recipe. The sambal served with the dish varies in spiciness, ranging from mild to very spicy.
+
+Hawker centres usually wrap the dish in [[Banana leaf|banana leaves]] to enhance its flavour. Roadside stalls sell it ready-packed, known as ''nasi lemak bungkus'', with prices as lows as RM2.00.<ref>{{Cite web |title=MCO takeaway: Start the day right with RM2 'nasi lemak bungkus' from this PJ Ara Damansara food truck |url=https://malaysia.news.yahoo.com/mco-takeaway-start-day-rm2-025138983.html |date=16 June 2021 |access-date=28 October 2025 |website=Malay Mail via Yahoo News}}</ref>
+
+===Malaysia===
+====Traditional Malaysian version====
+[[File:Stacked packs of nasi lemak, Seremban.jpg|thumb|upright|Stacked packs of nasi lemak in a ''[[Warung#Terminology|kedai makan]]'' in [[Seremban]]]]
+
+A traditional Malaysian nasi lemak calls for rice and a serving of sambal, anchovies, peanuts, and boiled egg.
+
+While the dish is typically made using white rice, [[brown rice]] can also be used.<ref>{{cite web |url= https://recipeland.com/recipe/v/healthier-nasi-lemak-56110 |title= Healthier Nasi Lemak |access-date=20 November 2021}}</ref> Cooked with fresh coconut milk, with [[Pandanus amaryllifolius|pandanus leaves]] thrown in, the dish is served on banana leaves.
+
+====Alor Setar variant====
+{{See also|Nasi kandar}}
+[[File:Nasi Lemak Utara.jpg|thumb|upright|An [[Alor Setar]]-style nasi lemak served with curry and an omelette]]
+
+Also known as ''nasi lemak kuning'' ("yellow nasi lemak"), or ''nasi lemak royale'', this version is prevalent around parts of northern [[Kedah]], especially in [[Alor Setar]], as well as in the state of [[Perlis]]. The rice is yellow in colour and commonly eaten with curries.
+
+As both variations of nasi lemak are widely available in northern Kedah and Perlis, locals commonly refer to the traditional dish as ''nasi lemak daun pisang'' ("banana leaf nasi lemak").
+
+====Terengganu variant====
+In the east-coast state of [[Terengganu]], ''ikan aye/aya/tongkol'' ("[[mackerel tuna]]") is often added to the dish.
+
+====Malacca variant====
+[[File:Nasi Lemak biasa with kangkung.jpg|thumb|Malaccan ''nasi lemak kangkung'']]
+
+In [[Malacca]], ''[[kangkung]]'' is usually served together with nasi lemak, a contrast from the [[cucumber]] that is commonly used in the standard version of the dish.
+
+====Malaysian Chinese variant====
+Although it is not common to see [[Malaysian Chinese|Chinese]] stalls and restaurants selling nasi lemak, there is a non-[[halal]] version that contains pork, sold in towns and cities such as Malacca, [[Penang]], [[Perak]], and certain parts of [[Kuala Lumpur]].
+
+====Malaysian Indian variant====
+The [[Malaysian Indian]] variation is similar to the original one. As many Malaysian Indians are [[Hinduism|Hindus]], however, and thus do not eat beef, their variant of nasi lemak is often served with chicken curry, fish curry, or lamb curry, as well as with dishes like chicken [[Spice mix#Masala|masala]] or chicken [[Poriyal#Etymology|varuval]].
+
+====Vegetarian variant====
+[[File:Vegetarian Nasi Lemak.jpg|thumb|right|Vegetarian nasi lemak]]
+
+In certain parts of Malaysia and Singapore, hawkers and restaurants may offer [[vegetarian]] nasi lemak. In this version, the dried anchovies and the [[shrimp paste]] for sambal are replaced with vegetarian substitutes. Vegetarian nasi lemak can also be served with stir-fried vegetables and plant-based imitation fish or [[Meat alternative|meat]].
+
+====Strawberry variant====
+This variant is usually regarded as a unique [[Cameron Highlands]] specialty, where [[strawberries]] are commercially grown. The fruit is added to the sambal, and the rice is coloured dark pink.
+
+===Indonesia===
+Across the [[Malacca Strait]], the [[Malay Indonesian]]s of the Sumatran east coast share a common heritage and [[Malay cuisine|cuisine]] with their Malaysian counterparts. As a result, nasi lemak is also native to the provinces of [[Riau Islands]] and [[Riau]].<ref name="Batamnews">{{Cite web |first=Ruzi |last=Wiranata |title=Nasi Lemak, Menu Sarapan Pagi Favorit di Kepri |url=https://www.batamnews.co.id/berita-97450-nasi-lemak-menu-sarapan-pagi-favorit-di-kepri.html |date=21 March 2023|access-date=11 September 2023 |website=batamnews.co.id |language=id}}</ref>
+
+====Riau Islands variant====
+[[File:Nasi Lemak Sambal Cumi in Indonesia 5.jpg|thumb|right|Nasi lemak in the [[Riau Islands]], usually served with seafood, such as spicy chili squid, anchovy [[sambal]], peanuts, boiled egg, sprinkled with ''[[bawang goreng]]'', and slices of cucumber]]
+
+In the [[Riau Archipelago]], nasi lemak is considered a native Malay dish as well as a favourite breakfast food.<ref name="Batamnews"/> Being an archipelagic region,<ref name="Melayupedia">{{Cite web |title=Nasi Lemak Khas Karimun, Enaknya Sesuai Namanya |url=https://www.melayupedia.com/berita/106/nasi-lemak-khas-karimun-enaknya-sesuai-namanya |access-date=11 September 2023 |website=melayupedia.com |language=id}}</ref> [[seafood]] is usually added to nasi lemak, including ''ikan tamban'' (''[[Sardinella longiceps]]''), ''ikan selar kuning'' (''[[Selaroides leptolepis]]''), ''sotong'', ''cumi-cumi'' ([[Squid as food|squid]]), or [[Shrimp and prawn as food|shrimp]].<ref name="Kepri"/><ref>{{cite news|title=Kedai Kopi Jalan Bintan Hadir dengan Konsep Berbeda| author=Aminuddin | date=28 May 2015 |newspaper=Tribunnews| url=http://batam.tribunnews.com/2015/05/28/kedai-kopi-jalan-bintan-hadir-dengan-konsep-berbeda | language=id | access-date=8 June 2015}}</ref>
+
+====Riau variant====
+[[File:Stamp of Indonesia - 2008 - Colnect 385171 - Nasi Lemak.jpeg|thumb|left|An Indonesian stamp depicting nasi lemak as a local dish of [[Riau]] province]]
+
+In [[Pekanbaru]] city, Riau province, locally caught freshwater river fishes are commonly used to accompany nasi lemak. These include ''ikan selais'' (''[[Kryptopterus cryptopterus]]''), ''ikan patin'' (''[[Pangasius]]''), and ''ikan lomek'' (''[[Harpadon nehereus]]''). The fish are usually cooked in [[Padang food|Minang]]-style ''lado ijo'' (green chili pepper), minced and fried as ''perkedel ikan'', or just plain fried.<ref>{{cite web|title=Nasi Lemak Pekanbaru|publisher=Melayu Online|url=http://melayuonline.com/ind/culture/dig/1147/nasi-lemak-pekanbaru|access-date=8 June 2015|archive-url=https://web.archive.org/web/20150328233239/http://melayuonline.com/ind/culture/dig/1147/nasi-lemak-pekanbaru|archive-date=28 March 2015|url-status=dead}}</ref>
+
+Other than fried fish, Pekanbaru's nasi lemak might also be served with fried [[tempeh]], beef prepared as ''[[gulai]]'' or ''[[rendang]]'', and also stir-fried [[long beans]], often cooked in spicy coconut milk.<ref>{{Cite web |date=27 March 2023 |title=Makanan Khas Riau Mulai dari Makanan Berat hingga Makanan Ringan |url=https://gramedia.com/best-seller/makanan-khas-riau-mulai/ |access-date=7 September 2023 |website=Gramedia |language=id-ID}}</ref>
+
+====Medan variant====
+[[File:Nasi Lemak Medan Rendang 3.jpg|thumb|right|Nasi lemak Medan with ''emping'' and potato crisps, sweet fried [[tempeh]], beef [[rendang]], egg ''balado'', ''perkedel'', and cucumber, topped with egg bits and fried shallot]]
+
+The [[Medan]] [[Sultanate of Deli|Melayu Deli]] version of nasi lemak is usually served with a choice of side dishes, either ''rendang'' (beef or chicken) or ''[[Balado (food)|balado]]'' (egg or shrimp in chili sauce). It may additionally include a sprinkle of crispy fried [[shallot]], slices of omelette, ''[[kripik]] kentang balado'' (spicy potato chips), ''tempe orek'' (seasoned fried tempeh), ''[[perkedel]]'' (fried potato patties), sambal chili paste, and slightly bitter ''[[emping]]'' crackers.<ref name="Kompas Nasi Lemak Medan"/>
+
+Next to ''rendang'' and ''balado'', the vegetable dish ''sayur masak lemak'' (vegetables including long beans, cabbage, and long green chilies in coconut milk) is also offered. It is a popular [[street food]] in Medan, sold in small ''[[warung]]'', usually together with [[Lontong|''lontong'' Medan]].<ref>{{cite web | date = 21 May 2007 | title = Medan on a Plate | work = Eating Asia | url = http://eatingasia.typepad.com/eatingasia/2007/05/the_best_nasi_l.html}}</ref>
+
+===Singapore===
+[[File:Nasi Lemak by Banej, Singapore Nov 2017.jpg|thumb|right|Nasi lemak in Singapore, served with [[chicken cutlet]], sambal ikan bilis (anchovy sambal), peanuts, salted anchovies, egg, and [[otah]]]]
+
+====Singaporean Chinese variant====
+Retaining the familiar aroma of pandan leaves, the Singaporean Chinese variation of nasi lemak comes with a variety of sides that include deep-fried [[chicken drumstick]]s, chicken [[Sausage|franks]], [[fish cake]], curried vegetables, and [[Bighead carp|tongsan]] [[lunch meat|luncheon meat]].<ref>{{Cite web|date=15 July 2019|title=Is nasi lemak from Malaysia or Singapore?|url=https://www.scmp.com/magazines/style/travel-food/article/3018591/nasi-lemak-malaysia-or-singapore-and-how-did-it-get-its|access-date=3 November 2020|website=South China Morning Post}}</ref>
+
+==Similar dishes==
+{{main|Coconut rice}}
+
+Nasi lemak's closest analogue is probably the Sumatran ''[[nasi gemuk]]'' (lit. "fatty rice"), commonly found in the Indonesian cities of [[Jambi (city)|Jambi]] and [[Palembang]]. The two dishes are essentially the same, and they differ mainly in name, where ''lemak'' is synonymous with ''gemuk'' in [[Jambi Malay|Jambi]] and [[Palembang language|Palembang Malay]].<ref name="Amalia-Detik">{{Cite web |last=Amalia |first=Lita |title=Gurihnya Nasi Gemuk Khas Jambi, Yuk Bikin! |url=https://www.detik.com/sumut/kuliner/d-6606753/gurihnya-nasi-gemuk-khas-jambi-yuk-bikin |access-date=7 September 2023 |website=detiksumut |language=id-ID}}</ref>
+
+Other, similar regional dishes that use rice cooked in coconut milk include ''[[nasi uduk]]'' from Jakarta, ''[[nasi gurih]]'' from [[Aceh]], and the [[Javanese cuisine|Javanese]] ''[[nasi liwet]]''.<ref name="Nasi Uduk Kompas.id">{{Cite web |date=7 September 2023 |title=Semerbak Aroma Rempah Nasi Uduk Betawi |url=https://interaktif.kompas.id/baca/semerbak-aroma-rempah-nasi-uduk-betawi/ |access-date=18 September 2023 |website=Tutur Visual – Kompas.id |language=id}}</ref>
+
+[[File:Nasi Lemak Lemuni.jpg|thumb|right|Preparation of ''[[nasi lemuni]]'']]
+
+''[[Nasi lemuni]]'' is a similar savoury rice dish traditionally found in northern Peninsular Malaysia. Its preparation is similar to that of nasi lemak, though the inclusion of ''lemuni'' leaf (''[[Vitex trifolia]]'') makes it distinctive.
+
+''[[Nasi katok]]'' is another similar dish, this one from Brunei Darussalam, which uses plain white rice rather than coconut rice.
+
+==Health==
+In March 2016, nasi lemak was mentioned as one of the healthy international breakfast foods by ''[[Time (magazine)|Time]]'' magazine.<ref>{{Cite magazine|url=https://time.com/4254125/healthy-international-breakfast/|title=10 Healthy International Breakfasts|last1=This|first1=Mike Dunphy / Eat|last2=That!|first2=Not|magazine=[[Time (magazine)|Time]]|date=21 March 2016 |access-date=6 April 2016}}</ref> However, a single, full-size serving of nasi lemak, with the addition of fried chicken, meat, or fish, can be between 800 and well over 1,000 calories. The coconut milk-infused rice also contains [[saturated fat]], an ingredient connected to health issues such as [[diabetes]].<ref>{{cite news | work = Star2.com | title = Is nasi lemak really a healthy dish? | date = 31 March 2016 | author = Chris Chan | url = http://www.star2.com/living/viewpoints/2016/03/31/is-nasi-lemak-really-a-healthy-dish/ | access-date = 21 October 2016 | archive-url = https://web.archive.org/web/20161021175334/http://www.star2.com/living/viewpoints/2016/03/31/is-nasi-lemak-really-a-healthy-dish/ | archive-date = 21 October 2016 | url-status = dead }}</ref>
+
+==See also==
+{{Portal|Food|Malaysia|Indonesia|Singapore}}
+{{div col|colwidth=30em}}
+* [[Cuisine of Malaysia]]
+* [[Cuisine of Singapore]]
+* [[Cuisine of Indonesia]]
+* [[Mamak stall]]
+* [[Nasi dagang]]
+* [[Nasi kuning]]
+* [[Nasi ulam]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat-inline}}
+
+{{Rice dishes}}
+{{Malaysian cuisine|state=collapsed}}
+{{Indonesian cuisine|state=collapsed}}
+{{Singaporean cuisine|state=collapsed}}
+
+[[Category:Malay cuisine]]
+[[Category:Malaysian rice dishes]]
+[[Category:Indonesian rice dishes]]
+[[Category:Singaporean rice dishes]]
+[[Category:Philippine rice dishes]]
+[[Category:Bruneian cuisine]]
+[[Category:Thai rice dishes]]
+[[Category:National dishes]]
+[[Category:Malay words and phrases]]
+[[Category:Foods containing coconut]]
+[[Category:Steamed foods]]
+[[Category:Christmas Island cuisine]]
+[[Category:Cocossian cuisine]]

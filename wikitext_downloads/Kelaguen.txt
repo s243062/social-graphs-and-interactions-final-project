@@ -1,0 +1,43 @@
+{{Short description|Chamorro dish of meat and green onions in an acidic marinade}}{{Italic title}}
+{{Infobox prepared food
+| name             = Kelaguen
+| image            = Kelaguen 1534 (14529937155).jpg
+| image_size       = 230px
+| caption          = Kelaguen with titiyas
+| alternate_name   = 
+| country          =  [[Mariana Islands]]
+| region           = 
+| creator          = 
+| course           = 
+| served           = 
+| main_ingredient  = Pickling marinade of [[lemon juice]], fresh [[coconut]], [[scallion|green onions]], salt and spicy [[hot pepper]]s 
+| variations       = 
+| calories         = 
+|similar_dish      =[[Kilawin]], [[kinilaw]], [['ota 'ika]], [[hinava]], [[Poke (Hawaiian dish)|poke]], [[ceviche]]
+| other            = 
+}}
+'''''Kelaguen''''' is a [[Chamorros|Chamorro]] dish from the [[Mariana Islands]] eaten as a side dish or as a main course.  Similar to [[ceviche]], a pickling marinade of [[lemon juice]], fresh [[coconut]], [[scallion|green onions]], salt and spicy [[hot pepper]]s or ''donni' '' is used to marinate cooked [[Chicken (food)|chicken]], raw [[Shrimp (food)|shrimp]], [[Fish (food)|fish]] or [[beef meat]]/[[Liver (food)|liver]].  With the exception of the cooked chicken, the acids in the marinade "cook" the raw shrimp, fish or beef instead of heat.  It is served cold or at room temperature and eaten as is, over [[rice]], or wrapped in a warm corn or flour tortilla (or the Chamorro version, ''titiyas'').<ref name="annie">{{cite web|url=http://www.annieschamorrokitchen.com/chicken-kelaguen-flour-titiyas/|title=Chicken Kelaguen & Flour Titiyas|date=29 July 2013|publisher=Annie's Chamorro Kitchen|accessdate=16 January 2017|archive-date=26 December 2016|archive-url=https://web.archive.org/web/20161226222120/http://www.annieschamorrokitchen.com/chicken-kelaguen-flour-titiyas/|url-status=live}}</ref><ref name="jw">{{cite web|url=http://justwandering.org/2011/destination/guam/exploring-chamorro-cuisine/|title=Exploring Chamorro Cuisine|date=20 June 2011|publisher=Just Wandering|accessdate=16 January 2017|archive-date=8 June 2016|archive-url=https://web.archive.org/web/20160608190616/http://justwandering.org/2011/destination/guam/exploring-chamorro-cuisine/|url-status=live}}</ref>
+
+''Kelaguen'' is derived from the [[Philippines|Filipino]] ''[[kilawin]]''. It was introduced by Filipino settlers when the Marianas and the Philippines were both part of the [[Spanish East Indies]]. ''Kelaguen'', however, has diverged in that it also incorporates influences from [[Latin America]], like the use of tortillas.<ref name="annie"/><ref name="jw"/>
+
+==See also==
+*[[Kilawin]], the Filipino ancestor of the Chamorro kelaguen
+* [[List of meat dishes]]
+*[[List of raw fish dishes]]
+*[[Cuisine of the Mariana Islands]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://scentofgreenbananas.blogspot.com/2004/07/imbb-6-kelaguen-mannok.html Kelaguen Mannok (Chicken Kelaguen) recipe]
+
+[[Category:Chamorro cuisine]]
+[[Category:Cuisine of the Mariana Islands]]
+[[Category:Chicken dishes]]
+[[Category:Uncooked meat dishes]]
+
+{{Guam}}
+
+{{Guam-stub}}
+{{cuisine-stub}}

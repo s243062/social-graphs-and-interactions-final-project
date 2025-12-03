@@ -1,0 +1,63 @@
+{{Italic title}}
+{{short description|Minced pork rice dish of China and Taiwan}}
+{{For|Taiwanese rice dish with a large piece of braised pork|Khong bah png}}
+{{more citations needed|date=October 2022}}
+{{Infobox food
+| name               = Ló͘-bah-pn̄g <br><small>(Minced pork rice)</small>
+| image              = Lurou fan(Taiwanese cuisine).jpg
+| image_size         = 300
+| image_alt          = Minced pork rice with other common Taiwanese dishes
+| caption            = Minced pork rice with other common Taiwanese dishes
+| alternate_name     = 
+| country            = [[Taiwan]]<ref name=newslens>{{cite web |last1=佳音 |first1=翁 |last2=銘宗 |first2=曹 |title=《吃的台灣史》：北部「滷肉飯」與南部「肉燥飯」差別不只在名稱，外觀不同，內容也不一樣 |url=https://www.thenewslens.com/article/158137 |website=The News Lens |date=3 November 2021 |publisher=TNL Mediagene |access-date=22 August 2023 |archive-date=21 March 2023 |archive-url=https://web.archive.org/web/20230321005117/https://www.thenewslens.com/article/158137 |url-status=live }}</ref><ref>{{cite web |last1=銘宗 |first1=曹 |title=到底是「滷」肉飯還是「魯」肉飯？連米其林指南都寫錯，竟被誤認「山東菜」 |url=https://supertaste.tvbs.com.tw/food/339233 |website=時尚玩家 |date=31 October 2022 |access-date=22 August 2023 |archive-date=22 August 2023 |archive-url=https://web.archive.org/web/20230822140410/https://supertaste.tvbs.com.tw/food/339233 |url-status=live }}</ref>
+| region             = Taiwan
+| main_ingredient    = ground pork, rice
+}}
+{{Taiwanese
+| t = {{linktext|滷肉飯}}
+| l = braised meat rice
+| p = lǔròufàn
+| w = lu<sup>3</sup>-jou<sup>4</sup>-fan<sup>4</sup>
+| poj = ló͘-bah-pn̄g
+| tl = lóo-bah-pn̄g
+}}
+'''''Ló͘-bah-pn̄g''''' ([[Taiwanese Hokkien|Taiwanese]]: ló͘-bah-pn̄g), also called '''''bah-sò-pn̄g''''' in southern Taiwan, or translated to '''minced pork rice''' in English, is a rice dish that is commonly seen throughout [[Taiwan]] and [[Minnan region|Southern Fujian, China]].<ref>Phillips, Carolyn. All Under Heaven: Recipes from the 35 Cuisines of China. Page 208. Ten Speed Press. Kindle Edition.</ref> The flavor may vary from one region to another, but the basic ingredients remain the same: ground pork marinated and boiled in soy sauce served on top of steamed rice. It is a type of [[gaifan]] dish.
+
+== Etymology ==
+[[File:Fragpork Rice from Formosa Chang Taipei Neihu Store.jpg|thumb|Minced pork rice served with pickles]]
+滷肉飯 has the direct meaning of "rice with braised meat." However, for several decades, many Taiwanese people have used the [[homophone]] "魯" instead of "滷". Although people still use the original character in China, "魯肉飯" has become the most common name seen in Taiwanese restaurants and street vendors. 魯 is the ancient name for the Chinese province of [[Shandong]], which led the Taiwan edition of the [[Michelin Guide#Green Guides|Michelin Green Guide]] to write in April 2011 that minced pork rice originated in Shandong. In response, the [[Taipei City Government]] held a press conference requesting a revision to the Michelin guidebook to specify that it was a Taiwanese dish.<ref>{{cite news |url=http://taipeitimes.com/News/taiwan/archives/2011/08/30/2003512028 |title=Taipei serves up free 'luroufan' to set record straight |page=2 |work=Taipei Times |agency=with CNA |date=Aug 30, 2011 |access-date=3 December 2015 |archive-date=8 December 2015 |archive-url=https://web.archive.org/web/20151208063801/http://taipeitimes.com/News/taiwan/archives/2011/08/30/2003512028 |url-status=live }}</ref>
+
+== Preparation ==
+As the origin of the flavor, the sauce is the key to making minced pork rice. The most popular way of preparation seen in Taiwan is stir-frying the [[ground meat]] with sliced [[shallot]] in oil, and then boiling it in soy sauce. In the frying process, one may customize the flavor by adding seasonings such as [[sugar]], [[rice wine]], [[Black pepper|pepper]] and other spices. {{cn|date=October 2022}}
+When finished, the dark-brown meat sauce is called "bah-sò (肉燥)", and is also served with noodles, soup, vegetables and many homemade Taiwanese dishes. <ref>[https://web.archive.org/web/20141129072915/http://www.justafoodblog.com/taiwanese-braised-pork-rice/ The dish is commonly served with stir-fried vegetables and a marinated hard boiled egg on the side].</ref>
+
+== Regional varieties ==
+While minced pork rice is an important icon in typical Taiwanese [[folk cuisine]], the variety of methods to customize flavors is so wide that it creates considerable differences between regions. In southern Taiwan, where people name it by the sauce "bah-sò-pn̄g (肉燥飯)" instead of the meat, minced pork rice is preferably served with pork with less fat. People in the north of Taiwan favor a greasier version of meat sauce with rice, sometimes even with [[glutinous rice]] mixed in.{{cn|date=October 2022}}
+
+In southern Taiwan, while "bah-sò-pn̄g" is seen on the menu indicating minced pork rice, "ló͘-bah-pn̄g (滷肉飯)" remains on the very same menu, referring to another dish where [[Braised pork rice|braised pork belly covers the rice]]. The same rice with braised pork belly is known as "khòng-bah-pn̄g (焢肉飯)" in northern Taiwan.<ref name=newslens/>
+
+== Gallery ==
+<gallery widths="150px" heights="150px" mode="packed">
+File:Food (40528740614).jpg
+File:Minced pork rice with Chinese sauerkraut bought from Wufeng.jpg
+File:Ló͘-bah-pn̄g of the Wang's Broth at Huaxi Street in Wanhua, Taipei 2023-04-28.jpg
+File:Lurou fan by udono in Tamsui, Taipei.jpg
+</gallery>
+
+==See also==
+{{portal|Food}}
+* [[Taiwanese cuisine]]
+* [[List of pork dishes]]
+
+==References==
+{{reflist}}
+
+{{Taiwanese cuisine}}
+
+[[Category:Chinese rice dishes]]
+[[Category:Taiwanese rice dishes]]
+[[Category:Ground meat]]
+[[Category:National dishes]]
+[[Category:Chinese pork dishes]]
+[[Category:Taiwanese pork dishes]]
+[[Category:Meat and rice dishes]]

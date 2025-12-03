@@ -1,0 +1,65 @@
+{{short description|Street food dish in Sri Lanka}}
+{{use dmy dates|date=November 2022}}
+{{EngvarB|date=November 2022}}
+{{Infobox food
+|name = Kottu roti
+|image = Chicken Kottu.jpg
+|image_size = 
+|image_alt = 
+|caption = Chicken kottu roti
+|alternate_name = Kothu roti, kothu parotta, kottu
+|type = 
+|course = Main course
+|country = Sri Lanka
+|region = [[Batticaloa]], Sri Lanka<ref>{{cite book|last1=Pathirage|first1=Jagath Bandara|title=Home Across Borders: An Ethnography of Sri Lankan Immigrants in Australia|date=8 October 2024|publisher=Taylor & Francis|isbn=978-1-040-15583-7|page=152|url=https://books.google.com/books?id=YHMhEQAAQBAJ|access-date=1 November 2024|language=en}}</ref>
+|national_cuisine = 
+|creator = <!-- or|creators = -->
+|year = 
+|mintime = 
+|maxtime = 
+|served = Hot
+|main_ingredient = [[Roti]], [[egg]], [[beef]], [[chicken]], [[onion]], [[chilli pepper]]
+|minor_ingredient = 
+|variations = 
+|serving_size = 100 g
+|calories = 
+|calories_ref = 
+|protein = 
+|fat = 
+|carbohydrate = 
+|glycemic_index = 
+|similar_dish = 
+|cookbook = 
+|commons = 
+|other = 
+|no_recipes = false
+}}
+
+'''Kottu roti''' ({{langx|ta|கொத்து ரொட்டி}}; {{langx|si|කොත්තු රොටි}}),<ref>{{cite book|title=Sinhala-English Code-mixing in Sri Lanka: A Sociolinguistic Study|volume=217|publisher=Landelijke Onderzoekschool Taalwetenschap|place=[[Utrecht]]|author=Senaratne, Chamindi Dilkushi|year=2009|page=299|isbn=9789078328926}}</ref><ref>{{cite book|title=India, Sri Lanka and the SAARC Region: History, Popular Culture and Heritage|author=Lopamudra Maitra Bajpai|publisher=Taylor & Francis|date=2020|page=254|isbn=9781000205817}}</ref><ref name=Kraig>{{cite book|title=Street Food around the World: An Encyclopedia of Food and Culture|author1=Kraig, Bruce Kraig|author2=Taylor, Colleen|publisher=ABC-CLIO|date=2013|page=328|isbn=9781598849554}}</ref><ref>{{cite book|title=Multicultural Handbook of Food, Nutrition and Dietetics|editor1=Thaker, Aruna|editor2=Barton, Arlene|publisher=John Wiley & Sons|page=88|date=2012|isbn=9781118350461}}</ref> alternatively spelled '''kothu roti''', is a [[Sri Lankan cuisine|Sri Lankan dish]] consisting of chopped [[roti]], a meat curry dish of choice (such as [[beef]], [[goat meat|mutton]], [[seafood]], [[poultry|chicken]]) along with scrambled egg, onions, and chillies.<ref>{{cite book|title=The Encyclopedia of the Sri Lankan Diaspora|editor=Reeves, Peter|publisher=Editions Didier Millet|date=2013|isbn=9789814260831|page=174}}</ref><ref name=Kraig/><ref>{{cite news|url=http://cooking.nytimes.com/recipes/1017015-chicken-kottu-roti|title=Chicken Kottu Roti Recipe|newspaper=[[New York Times]]|access-date=12 September 2015}}</ref><ref>{{cite news|url=https://www.telegraph.co.uk/sponsored/foodanddrink/indian-curry-recipe/10668412/pataks-beef-kottu-rotti-recipe.html|title=Patak's Beef Kottu Rotti Recipe|date=8 February 2014|publisher=[[Daily Telegraph]]|access-date=12 September 2015}}</ref> A variation of the dish is found in the south Indian states of [[Tamil Nadu]] and [[Kerala]], known as '''kothu parotta''' ({{langx|ta|கொத்து பரோட்டா}}; {{langx|ml|കൊത്തു പൊറോട്ട}}), which is made using [[parotta]] instead of roti. Kottu roti can also be found internationally in restaurants in regions containing Sri Lankan diaspora populations.<ref>{{cite web|url=http://torontoist.com/2013/11/spice-city-toronto-sri-lanka-comes-to-queen-street/|title=Spice City Toronto: Sri Lanka comes to Queen Street|date=8 November 2013|publisher=torontoist.com|access-date=12 September 2015}}</ref><ref>{{cite news|url=https://www.goodfood.com.au/eat-out/suburb-guides/where-to-eat-in-sydneys-little-sri-lanka-20170531-gwgvh5|title=Where to eat in Sydney's Little Sri Lanka|first=Rachel|last=Bartholomeusz|publisher=Good Food Guide - Australia|date=2 June 2017|access-date=3 November 2022}}</ref><ref>{{cite book|title=America's Changing Neighborhoods: An Exploration of Diversity through Places|editor=Ueda, Reed|publisher=ABC-CLIO|date=2017|isbn=9781440828652|page=1064}}</ref><ref>{{cite news|url=https://www.dailynews.lk/2022/10/10/local/288847/sl-embassy-us-woos-tourists-during-winter-season|title=SL Embassy in US woos tourists during winter season|newspaper=[[Daily News (Sri Lanka)|Daily News]]|date=10 October 2022|access-date=3 November 2022}}</ref><ref>{{cite magazine|url=https://www.newyorker.com/magazine/2022/08/01/an-astonishing-array-of-sri-lankan-specialties-at-queens-lanka|title=An Astonishing Array of Sri Lankan Specialties, at Queens Lanka|magazine=[[The New Yorker]]|first=Hannah|last=Goldfield|date=22 July 2022|access-date=3 November 2022}}</ref>
+
+== History ==
+[[File:Kottu.jpg|thumb|A dish of Kottu roti]]
+The word ''koththu'' means "to chop", referring to its method of preparation,<ref>{{cite web|url=https://www.nytimes.com/2014/11/30/magazine/sri-lankan-kottu-roti-by-way-of-staten-island.html|title=Sri Lankan Kottu Roti, by Way of Staten Island|last=Lam|first=Francis|date=26 November 2014|website=[[The New York Times]]|access-date=25 April 2020}}</ref> as the ingredients are commonly chopped together using special [[cleaver]]s, whilst they [[Sautéing|sauté]] on a hot [[griddle]]. This has been simplified in Tamil and Sinhalese to Kothu or Kottu respectively. 
+
+It is generally thought to have originated as [[street food]] in the eastern province of Sri Lanka in the 1960s/1970s, as an inexpensive meal for the lower socio-economic classes. The basic roti is made of [[Roti#Sri_Lanka Gothamba flour|Gothamba flour]], a wheat flour made out of a variety of grains-referring to the white flour,<ref>{{cite news|url=https://www.sundaytimes.lk/110821/Magazine/sundaytimesmirror_05.html|title=Roti hunt|first=Yashasvi|last=Kannangara|newspaper=[[Sunday Times (Sri Lanka)|Sunday Times]]|date=21 August 2011|access-date=3 November 2022}}</ref><ref>{{cite news|url=https://www.sbs.com.au/food/article/2020/11/03/ultimate-guide-making-roti-home|title=Ultimate Guide to making Roti at home|publisher=SBS Television|date=2 November 2021|access-date=3 November 2022}}</ref> also known as wheat roti or gothamba/godamba roti in Sinhala and "veechu parotta", "veechu roti" in Tamil. 
+
+Traditionally, kottu is made from recycling day-old godamba rotis, which are chopped up into small strips and mixed with an assortment of spices, fried vegetables, possibly egg or meat, and topped with chillies and onions. The old roti chunks were castoffs the bakers couldn’t sell, and an enterprising lower class took advantage of the inexpensive food source.<ref>https://southeastasiabackpacker.com/koththu-roti-sri-lanka/{{unreliable source|date=January 2024}}</ref>
+
+==Preparation==
+Kottu,<ref name="Taylor 2017 p. 214">{{cite book|last=Taylor|first=G.|title=MasterChef: Street Food of the World|publisher=Bloomsbury Publishing|year=2017|isbn=978-1-4729-4620-1|url=https://books.google.com/books?id=000gDgAAQBAJ&pg=PA214|access-date=9 February 2018|page=214}}</ref> is made up of [[paratha]] or wheat flour (Godamba [[roti]]), which is cut into small pieces or ribbons.<ref name="Taylor 2017 p. 214"/> Then on a heated iron sheet or griddle, vegetables and onions are fried. Eggs, cooked meat, or fish are added to fried vegetables and heated for a few minutes. Finally, the pieces of cut ''paratha'' are added. These are chopped and mixed by repeated pounding using heavy iron blades/spatula, the sound of which is very distinctive and can usually be heard from a long distance. Depending upon what ingredients are used, the variations are vegetable, egg, beef, chicken, mutton, and fish ''kottu roti''.<ref name="Briggs 2018 p. 54">{{cite book|last=Briggs|first=P.|title=Sri Lanka|publisher=Bradt Travel Guides|series=Bradt Travel Guide. Sri Lanka|year=2018|isbn=978-1-78477-057-0|url=https://books.google.com/books?id=VrZDDwAAQBAJ&pg=PA54|access-date=9 February 2018|page=54}}</ref> It is often prepared and served as a fast food dish.<ref name="Briggs 2018 p. 54"/>
+
+== See also ==
+
+* [[Cuisine of Sri Lanka]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category inline|Kottu}}
+
+{{Sri Lankan cuisine}}
+
+[[Category:Flatbread dishes]]
+[[Category:Sri Lankan cuisine]]
+[[Category:Tamil cuisine]]

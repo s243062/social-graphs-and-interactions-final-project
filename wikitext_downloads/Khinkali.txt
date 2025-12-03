@@ -1,0 +1,62 @@
+{{Short description|Georgian dumpling}}
+{{Infobox food
+| name             = Khinkali
+| image            = Khinkali_551.jpg
+| image_size       =
+| caption          = 
+| alternate_name   = Khincali, Hinkali, Xinkali
+| country          = [[Georgia (country)|Georgia]]
+| region           = [[Mtskheta-Mtianeti]]
+| creator          = 
+| course           = 
+| type             = [[Dumpling]]
+| served           = Hot
+| main_ingredient  = Filling: Spiced meat ([[beef]], [[pork]], or [[Lamb and mutton|lamb]]), [[herb]]s, [[carum]], [[cumin]], [[satureja]], [[chili pepper]], [[onion]]s, and [[garlic]]. [[Cheese]], [[potato]], or [[Edible mushroom|mushroom]] fillings are alternatives to meat.
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Khinkali''' ({{Lang-ka|ხინკალი|tr}}) is a [[dumpling]] in [[Georgian cuisine]]. It is made of twisted knobs of dough, stuffed with meat, fish or vegetables and spices.<ref>{{Cite book|url=https://books.google.com/books?id=LohMBqO3nBYC&dq=dumplings+%28khinkali%29&pg=RA1-PA123|title=The World Cookbook for Students|first1=Jeanne|last1=Jacob|first2=Michael|last2=Ashkenazi|date=March 19, 2007|publisher=Greenwood Press|isbn=9781573567640|via=Google Books}}</ref><ref name="Goldstein">{{Cite book|url=https://books.google.com/books?id=3PM_FnWgPBAC&dq=khinkali+georgian&pg=PA144|title=The Georgian Feast: The Vibrant Culture and Savory Food of the Republic of Georgia|first=Darra|last=Goldstein|date=March 19, 1999|publisher=University of California Press|isbn=9780520219298|via=Google Books}}</ref> Khinkali originate in the mountainous regions of eastern Georgia. The invention of the dish is credited to the [[Khevi|Mokhevians]], as well as the [[Pshavi|Pshavians]], 
+[[Mtiuleti|Mtiuletians]], and [[Khevsurians]].<ref>[http://books.google.co.uk/books?id=0aiBhcfgSVcC&pg=PA240&dq=%22originating+in+khevsureti%22&hl=en&sa=X&ei=x61KT7ThKJGu8QPPi-WwCw&ved=0CDEQ6AEwAA#v=onepage&q=%22originating%20in%20khevsureti%22&f=false Georgia: in the Mountains of Poetry by Peter Nasmyth, 2006]</ref> Traditionally, khinkali are made with coarsely chopped meat. In the mountain areas, this method of preparation is still used.
+
+==Ingredients==
+Khinkali fillings vary from area to area. The original recipe, the so-called ''khevsuruli'', consisted of only [[Ground meat|minced meat]] (lamb, beef or pork mixed), onions, [[chili pepper]], [[salt]], and [[cumin]].<ref>{{Cite web |date=2012-08-19 |title=About Food – Khinkali |url=https://georgiaabout.com/2012/08/19/khinkali/ |access-date=2023-03-23 |website=Georgia About |language=en}}</ref> However, the modern recipe used mostly especially in Georgian urban areas, the so-called ''kalakuri'', uses herbs like [[parsley]] and [[coriander]]. Mushrooms, potatoes, or cheese may be used in place of meat. Beef or lamb is usual in [[halal]] and [[kosher]], which never include pork for religious reasons.
+
+==Etiquette==
+[[File:Khinkali georgian.jpg|thumb|[[Black pepper]] is usually used for seasoning.]]
+Khinkali is eaten plain or with ground [[black pepper]]. The meat filling is uncooked when khinkali is assembled, so when it is cooked, the juices of the meat are trapped inside the dumpling. To make khinkali juicier, usually warm water or [[broth]] is added to the minced meat. Khinkali is typically consumed first by sucking the juices while taking the first bite, similar to [[xiaolongbao]], in order to prevent the dumpling from bursting. The top, where the pleats meet, is tough, and is not supposed to be eaten, but discarded to the plate so that those eating can count how many they have consumed. In Georgia, this top is called the ''k'udi'' ([[Georgian language|Georgian]]: კუდი, "tail") or ''k'uch'i'' ([[Georgian language|Georgian]]: კუჭი, "stomach").<ref>{{Cite web|url=http://www.burcho.ru/|title=У Бурчо|author=Микаел Сагиян|website=www.burcho.ru|accessdate=2020-07-25|archive-date=2020-07-25|archive-url=https://web.archive.org/web/20200725195953/http://www.burcho.ru/|url-status=live}}</ref><ref>{{Cite web|url=https://www.timeout.ru/msk/feature/474277|title=10 ошибок, которые мы делаем в грузинских ресторанах в Москве|publisher=Time Out|lang=ru|accessdate=2020-03-13|archive-date=2019-12-01|archive-url=https://web.archive.org/web/20191201090027/http://www.timeout.ru/msk/feature/474277|url-status=live}}</ref>
+
+There is a widespread etiquette in Georgia to use only one's bare hands while consuming these dumplings. The using of utensils, like a fork, is considered incorrect or childish. This is because juice is an important part of khinkali; using a fork will rupture the khinkali and the juice will be spilled.
+
+==Origins==
+[[File:Khinkali, Restaurant Aragvi.jpg|thumb|Khinkali.]]Khinkali originated in the mountainous regions of Georgia, where they were traditionally prepared by shepherds and farmers. The dish was created as a hearty and portable meal, ideal for sustaining individuals during long hours of labor in the rugged landscape.<ref>{{Cite book |last=Marco |first=Pasquale De |url=https://books.google.com/books?id=TqVWEQAAQBAJ&pg=PA78 |title=Whisperings from Georgia: Tastes of Life Across the Caucasus |date=2025-04-16 |publisher=Pasquale De Marco |language=en}}</ref>
+
+However, there are some legends involving the origins of ''khinkali'', one of them being that it originated in [[Mongolia]] and made its way to Georgia around the 13th century, as Georgia was situated along the [[Silk Road]].<ref>{{Cite web |last=Today |first=Georgia |date=2022-05-26 |title=Khinkali: A Primer for the Uninitiated and the Curious |url=https://georgiatoday.ge/khinkali-a-primer-for-the-uninitiated-and-the-curious/ |access-date=2023-03-15 |website=Georgia Today |language=en-US}}</ref> Mongolian conquerors would put their meat in dough in order to better conserve it while riding their horses.<ref>{{Cite web |date=2016-10-13 |title=Georgians have the Mongols to thank for their favourite dumpling |url=https://www.scmp.com/magazines/post-magazine/article/2027750/georgians-have-mongols-thank-their-favourite-dumpling |access-date=2023-03-06 |website=South China Morning Post |language=en}}</ref><ref>{{Cite web |last=Today |first=Georgia |date=2022-05-26 |title=Khinkali: A Primer for the Uninitiated and the Curious |url=https://georgiatoday.ge/khinkali-a-primer-for-the-uninitiated-and-the-curious/ |access-date=2023-03-06 |website=Georgia Today |language=en-US}}</ref>
+
+However, according to other sources, the traditional dish originated in the mountainous regions of northern Georgia, particularly in the historic provinces of [[Pshavi]] and [[Khevsureti]], located north of [[Tbilisi]]. It used to be a dish eaten mostly by [[shepherd]]s during cold and snowy winters.<ref>Ethnographic Dictionary of the Georgian Material Culture. Tbilisi: Meridiani, Georgian National Museum, 2011, p. 610.</ref>
+
+Initially, ''khinkalis'' were stuffed with lamb as it was the most common meat eaten in the mountains. Then, variations were created as it became more popular and reached urban areas.<ref>{{Cite web |last=Ponsford |first=Matthew |title=Georgia's giant dumpling born from conquest |url=https://www.bbc.com/travel/article/20191216-georgias-giant-dumpling-born-from-conquest |access-date=2023-03-06 |website=www.bbc.com |date=17 December 2019 |language=en}}</ref> Thus, pork or beef began to be used as a stuffing, and then vegetarian versions were developed. These include mushroom or potato fillings and are commonly eaten in Georgia on [[Georgian Orthodox Church|Orthodox]] fasting days.<ref>{{Cite web |url=https://www.gemrielia.ge/recipe/7381-samarxvo-xinkali-ispanaxisa-da-sokos-SigTavsiT/ |title=სამარხვო ხინკალი ისპანახისა და სოკოს შიგთავსით|agency=MCM|date=20 October 2025|language=ka}}</ref>
+
+==Regions==
+Khinkali from [[Pasanauri]] is regarded as superior to that from other towns in Georgia.<ref name="Goldstein" />
+
+==See also==
+* [[Hingel]]
+* [[Manti (food)|Manti]]
+* [[Momo (food)]]
+* [[Xiaolongbao]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://intermedia.ge/%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98%E1%83%90/88288-%E1%83%AE%E1%83%98%E1%83%9C%E1%83%99%E1%83%9A%E1%83%98%E1%83%A1-%E1%83%A3%E1%83%92%E1%83%94%E1%83%9B%E1%83%A0%E1%83%98%E1%83%94%E1%83%9A%E1%83%94%E1%83%A1%E1%83%98-%E1%83%A0%E1%83%94%E1%83%AA%E1%83%94%E1%83%9E%E1%83%A2%E1%83%98/151/ ხინკლის უგემრიელესი რეცეპტი] {{in lang|ka}}
+*[https://www.venturists.net/khinkali-georgian-beef-pork-soup-dumplings Khinkali recipe]
+
+{{Dumplings}}
+
+[[Category:Georgian cuisine]]
+[[Category:Dumplings]]
+[[Category:Georgian products with protected designation of origin]]
+[[Category:National dishes]]
+[[Category:Soviet cuisine]]

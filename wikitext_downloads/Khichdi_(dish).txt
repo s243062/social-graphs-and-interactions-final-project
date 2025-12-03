@@ -1,0 +1,90 @@
+{{short description|South Asian rice and lentil dish}}
+{{about|a rice dish||Khichdi (disambiguation)}}
+{{distinguish|Kichadi|Khichra|Kachori}}
+{{protection padlock|small=yes}}
+{{EngvarB|date=October 2021}}
+{{Use dmy dates|date=October 2021}}
+{{Infobox food
+| name = Khichdi
+| image = Dall Khichdi.jpg
+| caption = A bowl of dal khichri served with [[South Asian pickle|achar]]
+| alternate_name = ''Khichdi, khichadi, khichdee, khichadi, khichuri ''([[Bengali language|Bengali]])'', khisiri ''([[Assamese language|Assamese]])'', khechidi/khechudi'' ([[Odia language|Odia]]), ''kisuri'' ([[Sylheti language|Sylheti]]), ''khichari, kitcheree, kitchree''
+| region = [[Indian subcontinent]]
+| national_cuisine = [[Indian cuisine|India]], [[Bangladeshi cuisine|Bangladesh]], [[Pakistani cuisine|Pakistan]], [[Nepali cuisine|Nepal]], [[Trinidad and Tobago cuisine|Trinidad and Tobago]], [[Guyanese cuisine|Guyana]], [[Surinamese cuisine|Suriname]], [[Fijian cuisine|Fiji]], [[Mauritian cuisine|Mauritius]]
+| course = 
+| served = 
+| main_ingredient = Rice, [[lentil]]s and [[List of Indian spices|spices]]
+| variations = [[Mung dal]] khichri, [[Pearl millet|bajra]]-ri-khichri (Rajasthani millet khichri), sadi khichri (lentil and rice khichri)
+| calories = 
+| minor_ingredient = [[Cauliflower]], [[potato]]es, [[peas|green peas]] and other [[vegetable]]s
+| type = [[Rice]]
+| place_of_origin = [[India]]
+}}
+[[File:Khichadi (49683829713).jpg|thumb|right|Homemade khichadi]]
+[[File:Khichdi Prasadam in Donna (Iskcon Bangalore).jpg|thumb|right|220px|''Khichri [[prasāda]]'' served in [[areca]]-leaf traditional bowl, [[Bengaluru]]]]
+
+'''''Khichdi''''' or '''''khichri''''' ({{langx|ur|کھچڑی|translit=khicṛī|engvar=gb}}, {{langx|hi|खिचड़ी|translit=khicṛī|engvar=gb}}, {{IPA|hi|ˈkʰɪtʃɽiː|pron}}, {{langx|bn|খিচুড়ি|translit=Khicuṛi|engvar=gb}}, [[Odia language|Odia]]: ଖେଚୁଡି) is a dish in [[South Asian cuisine]] made of rice and [[lentil]]s (''[[dal]]'') with numerous variations. Variations include [[Pearl millet|''bajra'']] and [[Mung bean|mung ''dal'']] ''khichri''. In [[Culture of India|Indian culture]], in several regions, especially in the northern areas, it is considered one of the first solid foods that babies eat.<ref name=":0">{{cite web |last=IANS |date=2016-02-15 |title=Gujarati khichdi rocks Masterchef, thanks to Indian American chef |url=https://www.thehansindia.com/posts/index/Food/2016-02-15/Gujarati-khichdi-rocks-Masterchef-thanks-to-Indian-American-chef/207309 |access-date=2022-10-09 |website=The Hans India}} See [[MasterChef (American season 6)|''MasterChef'' (American season 6)]]</ref><ref name="khichdi recipe">{{citation |title=Khichdi Indian Recipe |date=23 June 2022 |url=https://www.indianhealthyrecipes.com/dal-khichdi-recipe/ |website=indianhealthyrecipes.com Swasthi Recipes}}</ref><ref name="Khichdicomfortfood"/>
+
+==Etymology and spelling==
+[[File:Yummy Sabudana Khichdi.jpg|thumb|220px|''[[Sabudana khichri]]'' is a popular food during [[Shivratri]] or [[Navratri]] fasts.]]
+The word ''Khichdī'' is derived from [[Sanskrit]] {{lang|sa|खिच्चा}} ''{{transliteration|hi|ISO|khiccā}}'',<ref name="Oxford University Press">{{cite book |title=The Oxford Hindi-English Dictionary |publisher=[[Oxford University Press]] |year=1997 |isbn=978-0-19-864339-5 |editor=McGregor |editor-first=R.S. |editor-link=R. S. McGregor |page=237}}</ref><ref>{{cite news |date=2021-07-17 |title=Tale of the humble 'Khichdi' |work=[[The Times of India]] |url=https://timesofindia.indiatimes.com/life-style/food-news/the-tale-of-humble-khichdi/articleshow/75610905.cms |access-date=2023-08-15 |issn=0971-8257}}</ref> a dish of rice and legumes.<ref>{{cite book |title=A Sanskrit-English Dictionary |last=Monier-Williams |first=Monier |author-link=Monier Monier-Williams |year=1995 |publisher=Motilal Banarsidass |location=Delhi |isbn=81-208-0065-6 |page=339 |url=http://www.sanskrit-lexicon.uni-koeln.de/monier/index.html |access-date=2010-06-29}}</ref>
+
+Some divergence of transliteration may be noted in the third consonant in the word ''khicṛī''. The sound is the [[retroflex flap]] {{IPAblink|ɽ}}, which is written in [[Standard Hindi|Hindi]] with the [[Devanagari]] letter ⟨{{lang|hi|ड़}}⟩, and in [[Urdu alphabet|Urdu script]] with the [[Perso-Arabic script|Perso-Arabic]] letter ⟨{{lang|ur|{{nq|[[Ṛe|ڑ]]}}}}⟩. In [[Hindustani phonology]], the etymological origin of the retroflex flap was {{IPAslink|ɖ}} when it occurred between vowels.<ref>{{cite book |title=The Indo-Aryan Languages |last=Masica |first=Colin P. |author-link=Colin Masica |year=1991 |publisher=[[Cambridge University Press]] |isbn=0-521-23420-4 |pages=97–98 |url=https://books.google.com/books?id=Itp2twGR6tsC&pg=PP1 |access-date=2010-06-29}}</ref> Hence in Devanagari the letter ⟨{{lang|hi|ड}}⟩, representing {{IPA|/ɖ/}}, was adapted to write {{IPA|/ɽ/}} by adding a diacritic under it. In Urdu script, the phonological quality of the flap was represented by adapting the letter ⟨{{lang|ur|{{nq|[[Resh|ر]]}}}}⟩, representing {{IPA|/r/}}, with a diacritic added above it to indicate the retroflex quality. The occurrence of this consonant in the word {{Transliteration|hi|ISO|khicṛī}} has given rise to two alternative spellings in English: ''khichri'', which reflects its phonology, and ''khichdi'', which reflects its etymology.
+
+==History==
+The [[Seleucid Empire|Greek]] king [[Seleucus I Nicator|Seleucus]] during his campaign in India (305-303 BC), mentioned that rice with pulses is very popular among people of the Indian subcontinent.<ref name="Khichdicomfortfood">{{cite web |last=Gandhi |first=Malar |date=15 April 2012 |title=Khichdi–A Comfort Food – India Currents |url=http://www.indiacurrents.com/articles/2012/04/15/khichdi-comfort-food |url-status=dead |archive-url=https://archive.today/20130216062547/http://www.indiacurrents.com/articles/2012/04/15/khichdi-comfort-food |archive-date=16 February 2013 |access-date=1 January 2015}}</ref> [[Strabo]] also notes that Indian food mainly consisted of rice porridge and a beverage made of rice, presently called [[Arrack|arak]].<ref>{{cite conference |last=Reddy |first=Anjana |title=Archaeology of Indo-Gulf Relations in the Early Historic Period: The Ceramic Evidence |url=https://www.academia.edu/20135170 |year=2016 |editor=Himanshu Prabha Ray |book-title=Bridging the Gulf: Maritime Cultural Heritage of the Western Indian Ocean |location=New Delhi |publisher=Manohar Publishers |page=68 |isbn=978-93-5098-143-6}}</ref> The [[Marinid Sultanate|Moroccan]] traveler [[Ibn Battuta]] mentions ''khichdi'' as a dish in India composed of rice and [[mung bean]]s, during his stay around 1350.<ref>{{cite web |last=Husain |first=Mabdi |date=1976 |orig-date=1953 |title=Rehla of Ibn Battuta |url=https://archive.org/stream/TheRehlaOfIbnBattuta/231448482-The-Rehla-of-Ibn-Battuta_djvu.txt |access-date=21 March 2015 |website=Internet Archive}}</ref> ''khichdi'' is described in the writings of [[Afanasiy Nikitin]], a Russian adventurer who travelled to the Indian subcontinent in the 15th century. It was very popular with the [[Mughal Empire|Mughals]], especially [[Jahangir]]. ''[[Ain-i-Akbari]]'', a 16th-century document written by [[Mughal Emperor]] [[Akbar]]'s vizier, [[Abu'l-Fazl ibn Mubarak|Abu'l Fadl]], mentions the recipe for ''khichdi'', which gives seven variations.<ref>[http://persian.packhum.org/persian/main?url=pf%3Ffile%3D00702015%26ct%3D50%26rqs%3D666 Recipes for Dishes] {{webarchive |url=https://web.archive.org/web/20110727161648/http://persian.packhum.org/persian/main?url=pf%3Ffile=00702015&ct=50&rqs=666 |date=2011-07-27}} ''[[Ain-i-Akbari]]'', by [[Abu'l-Fazl ibn Mubarak]]. English tr. by [[Heinrich Blochmann]] and Colonel Henry Sullivan Jarrett, 1873–1907. [[Asiatic Society of Bengal|The Asiatic Society of Bengal]], [[Calcutta]], Volume I, Chapter 24, page 59. "3. K'hichri. Rice, split dal, and ghee 5 s. of each; ⅓ s. salt: this gives seven dishes."</ref> There is an anecdotal story about khichdi featuring Akbar and his court advisor, [[Birbal]].<ref name="Cooking the Khichidi">{{cite web |title=Cooking The Khichdi is one of Birbal Stories. |url=http://www.english-for-students.com/Cooking-The-Khichdi.html |access-date=1 January 2015 |website=English for Students}}</ref>
+
+The [[Anglo-Indian cuisine|Anglo-Indian dish]] [[kedgeree]] is thought to derive from khichri.<ref name="Spotted Dog 1997, p. 12">Anne Chotzinoff Grossman and Lisa Grossman Thomas (1997) ''Lobscouse and Spotted Dog; Which It's a Gastronomic Companion to the Aubrey/Maturin Novels'', Norton, p. 12. {{ISBN|978-0-393-32094-7}}</ref><ref>{{cite web |url=http://www.deliaonline.com/recipes/buttery-kedgeree,1284,RC.html |title=Buttery Kedgeree |access-date=2008-03-10 |last=Smith |first=Delia |work=Delia Smith's Complete Cookery Course}}</ref>
+
+==Regional variations==
+Khichdi is a very popular dish across the [[Indian subcontinent]] which consists of, [[Bangladesh]], [[Pakistan]], [[Nepal]] and [[Sri Lanka]]. The dish is also widely prepared in many [[Indian states]], such as [[Punjab]], [[Haryana]], [[Rajasthan]], [[Karnataka]], [[Telangana]], [[Madhya Pradesh]], [[Gujarat]], [[Tamilnadu|Tamil Nadu]], [[Andhra Pradesh]], [[West Bengal]], [[Assam]], [[Bihar]], [[Jharkhand]], [[Uttar Pradesh]], [[Odisha]], and [[Maharashtra]].<ref name="Chatterjee 2017">{{cite web |last=Chatterjee |first=Priyadarshini |title=From Kashmir to Karnataka, khichdi is the one true underestimated food of India |website=Scroll.in |date=2017-02-10 |url=https://scroll.in/magazine/823997/from-kashmir-to-karnataka-khichdi-is-the-one-true-underestimated-food-of-india |access-date=2017-02-10}}</ref> Vegetables such as [[cauliflower]], potato, and green [[pea]]s are commonly added.{{Citation needed|date=October 2024}}
+
+[[Hinduism|Hindus]], mainly from north/northwest, who avoid eating grains during fasting, eat [[Sabudana khichri]] made from [[sago]].<ref name="HarKhichdi8">Sean Williams, 2015, [https://books.google.com/books?isbn=1135040087 "The Ethnomusicologists' Cookbook, Volume II: Complete Meals from around the world"], [[Taylor & Francis|Routledge Taylor & Francis group]], page 37.</ref><ref name="HarKhichdi9">Uma Aggarwal, 2009, [https://books.google.com/books?isbn=8184244746 "The Exquisite World of Indian Cuisine"], Allied Publications, page 106.</ref> In the southern part of India, however, the word ''khichri'' is not that popular. While people of Tamil Nadu and Andhra regions cook ''Pongal'', and Kannadigas prepare ''{{transliteration|hi|ISO|Huggi}}'' which is [[mung dal]] khichdi and ''{{transliteration|hi|ISO|Bisi bele bhath}}'', a pigeon pea variation with vegetables, Keralites have no similar dish.{{Citation needed|date=October 2024}}
+
+Khichdi was the inspiration for [[Anglo-Indian cuisine|Anglo-Indian]] [[kedgeree]]<ref name="Spotted Dog 1997, p. 12" /><ref>{{cite news |last=Chatterjee |first=Rhitu |date=2017-07-20 |title='Khichuri': An Ancient Indian Comfort Dish With A Global Influence |publisher=[[NPR]] |url=https://www.npr.org/sections/thesalt/2017/07/20/527945413/khichuri-an-ancient-indian-comfort-dish-with-a-global-influence |access-date=2022-10-09}}</ref> ''Khichdi'' is a popular traditional staple in Haryana, specially in the rural areas. ''Haryanvi khichdi'' is made from pearl millet and mung ''dal'' (split mung bean) pounded in mortar (''unkhal''), and often eaten by mixing with warm ''ghee'' or ''[[lassi]]'', or even yogurt.<ref name="HarKhichdi1">1990, [https://books.google.com/books?id=3SYLAQAAIAAJ "Haryana District Gazetteers: Sonipat"], [[Government of Haryana]] publication, Page 83.
+</ref><ref name="HarKhichdi2">1912, [https://books.google.com/books?id=8jluAAAAMAAJ "Haryana District Gazetteers: Delhi district gazetteer"], [[Government of India]] Gazetteers Organisation, Page 90.</ref><ref name="HarKhichdi3">1987, [https://books.google.com/books?id=BCYLAQAAIAAJ "Haryana District Gazetteers: Hisar"], [[Government of Haryana]] publication, Page 65.</ref><ref name="HarKhichdi4">Charmaine O' Brien, 2013, [https://books.google.com/books?id=BGhBAgAAQBAJ&dq=haryana+bajra+khichri&pg=PT48 "The Penguin Food Guide to India"], [[Penguin Books]] Penguin Books.</ref> Sometimes, [[Sorghum|''jowar'']] is also mixed with ''bajra'' and ''mung dal''.<ref name="HarKhichdi4" />
+
+The [[Hyderabadi Muslims|Hyderabadi Muslim]] community, of the erstwhile [[Hyderabad State]], in present-day [[Telangana]], [[Marathwada]], and [[Kalyana-Karnataka]] regions, make ''khichdi'' as a common breakfast dish, and is an important part of [[Hyderabadi cuisine]].<ref name="KhichdiKhattaKheema">{{cite web |url=https://talkistania.wordpress.com/2013/02/15/hyderabadi-brunch-khichdi-khatta-kheema/ |title=Hyderabadi Brunch: Khichdi Khatta Kheema |date=2013-02-15 |website=talkistania |access-date=2016-08-22}}</ref> The dish is called ''khichri'', ''kheema'', ''khatta'', or other switch-around versions of the previous, named after the three parts of the meal, ''Khichri'', ground beef, and a sour sauce, made of tamarind and sesame.<ref>{{cite web |url=http://mykitchenaroma.blogspot.ca/2013/04/khichdi-keema-khatta.html |title=My Kitchen's Aroma: Khichdi Keema Khatta |website=mykitchenaroma.blogspot.ca |date=28 April 2013 |access-date=2016-08-22}}</ref>
+
+''[[Khichra]]'' is similar to ''[[haleem]]'', a meat dish, while ''khichra'' is a vegetarian dish with rice and pulses or lentils, with no spices.<ref name="JKit">{{citation|url=http://www.journeykitchen.com/2014/02/haleemkhichda-wheat-berries-meat-and.html?m=1|title=Haleem/Khichda - Wheat berries, Meat and Lentils Porridge|website=journeykitchen|access-date=27 January 2023}}</ref>
+
+==National dish controversy==
+In 2017, Indian media unofficially designated it as the "national dish", as it is being globally promoted by the [[government of India]] as "queen of all foods". The report that the government may designate ''khichri'' as India's "national dish" brought significant ridicule from the opposition politicians.<ref>{{cite web |date=2017-11-02 |title=Nothing cooking: Khichdi not national dish, says minister after Twitter storm |url=https://www.hindustantimes.com/india-news/nothing-cooking-khichdi-not-national-dish-says-minister-after-twitter-storm/story-m88Y723Vh2kJM5n7bwNUvN.html |access-date=2022-10-09 |website=Hindustan Times}}</ref>
+
+However, India's [[Ministry of Food Processing Industries|Minister of Food Processing Industries]] [[Harsimrat Kaur Badal]] clarified that while ''khichdi'' is considered nutritious and healthy food in India, the government did not have any plans to designate a national food.<ref>{{cite news |last=IANS |date=2017-11-01 |title=Government to designate 'khichdi' as national dish |work=[[Business Standard]] India |url=https://www.business-standard.com/article/news-ians/government-to-designate-khichdi-as-national-dish-117110101260_1.html |access-date=2022-10-09}}</ref><ref>{{cite web |date=2 November 2017 |agency=PTI |title='Fictitious' Khichdi Cooked Up, Says Minister On National Dish Buzz |url=https://www.ndtv.com/food/fictitious-says-union-minister-harsimrat-kaur-badal-khichdi-wont-be-the-national-dish-1769941 |access-date=2022-10-09 |website=NDTV}}</ref><ref>{{cite news |url=http://www.thehindu.com/news/national/khichdi-not-national-food-clarifies-harsimrat-kaur-badal/article19966572.ece |title=Khichdi not national food, clarifies Harsimrat Kaur Badal |date=2 November 2017 |newspaper=The Hindu |access-date=22 February 2020}}</ref>
+
+==In popular culture==
+''Khichdi'' has lent its name to media synonymous with ensembles or potpourri as depicted in the popular culture through movies such as ''[[Khichdi: The Movie]]'', and TV sitcoms such as ''[[Khichdi (2002 TV series)|Khichdi]]'' and ''[[Instant Khichdi]]''.
+
+The dish has been cooked at both MasterChef Australia<ref>{{cite web |last=Keshri |first=Shweta |date=May 27, 2021 |title=MasterChef Australia judges bowled over by Bengali Khichuri and Begun Bharta. Viral video |url=https://www.indiatoday.in/television/international-shows/story/masterchef-australia-judges-bowled-over-by-bengali-khichuri-and-begun-bharta-viral-video-1807737-2021-05-27 |access-date=2022-10-09 |website=India Today}}</ref> and America.<ref name=":0" />
+
+==Gallery==
+<gallery widths="180px" heights="200px"> class="center" caption="">
+File:Khichuri, a bangali dish.jpg|''Khichuri'', Bangladeshi-style
+File:Korai Khichuri.jpg|Kadhai khichri
+File:Coconut Khichdi.jpg|Coconut ''khichdi''
+</gallery>
+
+==See also==
+{{Commons category|Khichri}}
+* [[Kedgeree]]
+
+==References==
+{{reflist}}
+
+{{Bangladeshi dishes}}
+{{Indian Dishes}}
+{{Pakistani dishes}}
+{{Lentil dishes}}
+{{Rice dishes}}
+
+[[Category:Indian rice dishes]]
+[[Category:Lentil dishes]]
+[[Category:Pakistani rice dishes]]
+[[Category:Bangladeshi cuisine]]
+[[Category:Nepalese cuisine]]
+[[Category:Vegetarian dishes of India]]
+[[Category:South Asian cuisine]]
+[[Category:Indo-Caribbean cuisine]]
+[[Category:Mauritian cuisine]]
+[[Category:Fijian cuisine]]

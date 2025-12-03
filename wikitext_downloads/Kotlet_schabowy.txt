@@ -1,0 +1,35 @@
+{{Short description|Polish variety of breaded pork cutlet}}
+{{More footnotes|date=April 2017}}
+{{Infobox prepared food
+| name               = Kotlet schabowy
+| image              = Kotlet Schabowy.jpg
+| image_size         = 270px
+| caption            = ''Kotlet schabowy'' with mashed potatoes and a side of salads.
+| alternate_name     = Schabowy, Schaboszczak
+| place_of_origin    = {{flag|Poland}}
+| region             = 
+| creator            = 
+| course             = Main
+| served             = Hot
+| main_ingredient    = [[Pork]] or [[chicken (food)|chicken]] or [[turkey meat|turkey]], [[Egg (food)|eggs]], [[lard]] or [[oil]], [[spice]]s, [[breadcrumbs]], [[flour]]
+| variations         = 
+| calories           = 
+| other              = 
+}}
+
+'''Kotlet schabowy''' ({{IPA|pl|ˈkɔtlɛt sxaˈbɔvɨ|audio=LL-Q809 (pol)-Olaf-kotlet schabowy.wav}}) is a [[Polish cuisine|Polish]] variety of a [[breaded cutlet]] of [[pork]] coated with [[breadcrumbs]]. It is similar to Viennese [[schnitzel]] or Italian [[cotoletta]],<ref name="Radetzky">Mieczysław Czuma, Leszek Mazan. ''Austriackie gadanie czyli encyklopedia galicyjska.'' 1998, page 465. Quote: "...jedna z najpopularniejszych potraw w całej byłej monarchii austro-węgierskiej, w wersji wieprzowej, jako kotlet schabowy - w całej Polsce. Pierwotna nazwa ''costelette alla milanese'', gdyż potrawa (smażona na maśle) pochodzi z Włoch. Zwrócił na nią uwagę w czasie kampanii włoskich dowódca wojsk austriackich w Lombardii i Wenecji sędziwy [[Joseph Radetzky|marszałek Radetzky]]."</ref> French ''côtelette de veau frite'' (or ''côtelette Menon''),<ref>{{Cite book |url=https://books.google.com/books?id=8DldAAAAcAAJ&q=menon+science+maitre+hotel |title=La Science du maître d'hôtel cuisinier, avec des observations sur la connoissance & les propriétés des alimens. Nouvelle édition, revue & corrigée. [By - Menon.] (Dissertation préliminaire sur la cuisine moderne. [By E. Lauréault de Foncemagne.]). |date=1768 |language=fr}}</ref> North and South American [[milanesa]], Spanish [[Cachopo (dish)|cachopo]] and Japanese [[tonkatsu]].
+
+The history of ''schabowy'' dates back to the 19th century. Different recipes for cutlets such as ''schabowy'' are featured in an 1860 [[cookbook]] by [[Lucyna Ćwierczakiewiczowa]], ''365 obiadów za pięć złotych'' (''365 Dinners for Five [[Polish złoty|Złoty]]''), but are missing from the 1786 cookbook by Wojciech Wielądek called ''Kucharz doskonały'' (''The Perfect Chef''),  suggesting that the dish was not known (or at least not popular) before the 19th century. Typical ingredients include [[Egg (food)|eggs]], [[lard]] or [[oil]], [[spices]], pork loin with or without the bone, breadcrumbs and [[flour]].
+
+Pork tenderloin is cut into one-inch slices and pounded with a mallet until it becomes thinner and soft. The meat is dipped in flour, then in egg, and then covered in breadcrumbs. Oil or lard is heated in a frying pan until it starts to sizzle and the meat is placed onto it, then turned over a couple of times. ''Kotlet schabowy'' can be served with cooked potatoes, mashed potatoes, fried mushrooms, cooked vegetables (seared cabbage),<ref>[https://spizarniaszczecinska.pl/ Pork cutlets with cabbage (recipes)] </ref> salads or [[coleslaw]].
+
+==References==
+{{Reflist}}
+<!-- Has been hacked *[http://www.polish-recipes.com/recipes.php/39/Polish-Kotlet-schabowy-(Pork-chop)/Dinner/  Polish Kotlet schabowy (Pork chop) recipe] at Polish-recipes.com -->
+* Ewa Czerniakowska, Lucyna Ćwierczakiewiczowa. [http://gnu.univ.gda.pl/~emcz/lucynac.html ''Przyczynek do historii czasopiśmiennictwa polskiego.''] {{Webarchive|url=https://web.archive.org/web/20180226104706/http://gnu.univ.gda.pl/~emcz/lucynac.html |date=2018-02-26 }} Gdańsk University. {{in lang|pl}} 
+* {{in lang|pl}} "Kotlet schabowy z jedną różnicą." [http://www.wielkiezarcie.com/recipe27871.html Recipe 1] [http://zajadamy.blox.pl/2008/06/Sznycel-Wiedenski.html 2] {{Webarchive|url=https://web.archive.org/web/20100610111331/http://zajadamy.blox.pl/2008/06/Sznycel-Wiedenski.html |date=2010-06-10 }} [http://zpierwszegotloczenia.pl/przepisy/sznycel-wiedenski-1/ 3.]
+
+[[Category:Breaded cutlets]]
+[[Category:Polish cuisine]]
+[[Category:Pork dishes]]
+[[Category:National dishes]]

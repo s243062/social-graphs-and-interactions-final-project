@@ -1,0 +1,100 @@
+{{short description|National dish of Iceland consisting of fermented shark}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox food
+| name               = Kæstur hákarl
+| name_lang          = is
+| name_italics       = yes
+| image              = Hakarl near Bjarnahöfn in Iceland.JPG
+| image_upright      =
+| image_alt          =
+| caption            = Fermented shark hanging to dry in the [[Stykkishólmur]] region
+| alternate_name     = Hákarl
+| type               = [[Fermented fish]]
+| place_of_origin    = [[Iceland]]
+| region             = 
+| main_ingredient    = [[Greenland shark]]
+| course             = [[Þorramatur]] at [[þorrablót]]
+| variations         = ''Glerhákarl'' and ''skyrhákarl''
+| associated_cuisine = [[Brennivín]]
+| similar_dish       = [[Kiviak]]
+| cookbook           =
+| commons            =
+| other              = 
+| no_recipes         = true
+}}
+
+'''{{lang|is|Hákarl|i=no}}''' (short for {{lang|is|kæstur hákarl}} {{IPA|is|ˈkʰaistʏr ˈhauːˌkʰa(r)tl̥|}}), referred to as '''fermented shark''' in English, is a national dish of [[Iceland]] consisting of [[Greenland shark]] or other [[sleeper shark]] that has been cured with a particular [[Fermentation (food)|fermentation]] process and hung to dry for four to five months.<ref>{{Cite web|title=Hákarl: Iceland's Rancid Fermented Shark Delicacy
+|url=https://travelfoodatlas.com/hakarl-iceland-smelly-fermented-shark-delicacy/|website=Travel Food Atlas|date=9 June 2020 |access-date=29 December 2020}}</ref> It has a strong [[ammonia]]-rich smell and fishy taste, making {{lang|is|hákarl|i=no}} an [[acquired taste]].<ref name="herz">{{Cite news |url=https://www.wsj.com/articles/SB10001424052970204661604577186843056231170 |title=You eat that? |last=Herz |first=Rachel |date=28 January 2012 |work=Wall Street Journal |access-date=30 January 2012 |archive-url=https://web.archive.org/web/20150317012217/https://www.wsj.com/articles/SB10001424052970204661604577186843056231170 |archive-date=17 March 2015 |url-status=dead}}</ref>
+
+Fermented shark is readily available in Icelandic stores and may be eaten year-round, but is most often served as part of a {{lang|is|[[Þorramatur]]}}, a selection of [[Traditional food|traditional]] [[Cuisine of Iceland|Icelandic food]] served at the midwinter festival {{lang|is|[[þorrablót]]|i=no}}. The consumption, hunting, and [[bycatch]] of Greenlandic sharks has been criticized for its unsustainability, as the species takes 150 years to reach [[sexual maturity]], with some individuals living up to 400 years.<ref name="sharkconservation">[https://www.researchgate.net/profile/Nigel-Hussey/publication/258306180_The_Conservation_of_the_Greenland_Shark_Somniosus_microcephalus_Setting_Scientific_Law_and_Policy_Coordinates_for_Avoiding_a_Species_at_Risk/links/553bbaf90cf245bdd7667123/The-Conservation-of-the-Greenland-Shark-Somniosus-microcephalus-Setting-Scientific-Law-and-Policy-Coordinates-for-Avoiding-a-Species-at-Risk.pdf The Conservation of the Greenland Shark (Somniosus microcephalus): Setting Scientific, Law, and Policy Coordinates for Avoiding a Species at Risk, ''Journal of International Wildlife Law and Policy'', By: Brendal Davis, David L VanderZwaag, Aurelie Cosandey-Godin, Nigel E. Hussey, Steven T. Kessel, and Boris Worm]</ref>
+
+==Consumption==
+[[File:Hákarl.JPG|thumb|Fermented shark in a store]]
+
+Fermented shark contains a large amount of [[ammonia]] and has a strong smell, similar to that of many cleaning products. It is often served in tiny cubes on toothpicks. Those new to it may gag involuntarily at the first attempt to eat it because of the high ammonia content.<ref name="herz" /> First-timers are sometimes advised to pinch their nose while taking the first bite, as the odor is much stronger than the taste. It is often eaten with a shot of the local [[Alcoholic beverage|spirit]], a type of [[akvavit]] called [[brennivín]].<ref name="yuen">{{cite web|last=Yuen|first=David|title=The Mystery of Hakarl: Rotten Shark Meat Delicacy From Iceland|url=http://voices.yahoo.com/the-mystery-hakarl-rotten-shark-meat-delicacy-from-617158.html?cat=16|url-status=dead|archive-url=https://web.archive.org/web/20131029212303/http://voices.yahoo.com/the-mystery-hakarl-rotten-shark-meat-delicacy-from-617158.html?cat=16|archive-date=29 October 2013}}</ref>
+
+Hákarl comes in two varieties: chewy and reddish ''glerhákarl'' ({{IPA|is|ˈklɛːrˌhauːˌkʰa(r)tl̥|}}, lit. "glassy shark") from the belly, and white and soft ''skyrhákarl'' ({{IPA|is|ˈskɪːr-|}}, lit. "[[skyr]] shark") from the body.
+
+==Preparation==
+The meat of the [[Greenland shark]] is poisonous when fresh because of its high [[urea]] and [[trimethylamine oxide]] content. However, when properly processed, it may be consumed safely.<ref name="yuen" /><ref>{{cite web|url=http://www.flmnh.ufl.edu/fish/Gallery/Descript/Greenlandshark/Greenlandshark.html|title=Somniosus microcephalus :: Florida Museum of Natural History|date=9 May 2017|access-date=25 July 2014|archive-url=https://web.archive.org/web/20130321092816/http://www.flmnh.ufl.edu/fish/gallery/descript/greenlandshark/greenlandshark.html|archive-date=21 March 2013|url-status=dead}}</ref>
+
+The traditional method begins with gutting and [[beheading]] a shark and placing it in a shallow hole dug in gravelly sand, with the cleaned cavity resting on a small mound of sand. The shark is then covered with sand and [[gravel]], and stones are placed on top of the sand in order to press the fluids out of the body. The shark [[ferment]]s in this fashion for six to twelve weeks, depending on the season. Following this [[Curing (food preservation)|curing]] period, the shark is cut into strips and hung to dry for several months. During this drying period, a brown crust will develop, which is removed prior to cutting the shark into small pieces and serving. The traditional preparation process may be observed at Bjarnarhöfn Shark Museum on [[Snæfellsnes]].<ref>[http://www.bjarnarhofn.is Bjarnarhöfn Shark Museum] {{Webarchive|url=https://web.archive.org/web/20130927065014/http://www.bjarnarhofn.is/ |date=27 September 2013 }}.</ref>
+
+The modern method is simply to press the shark's meat in a large plastic container, into which drain holes have been cut.<ref name="suite101">{{cite news|last=Wheatley|first=Gale|title=Iceland's Wild Culinary Traditions: Hákarl and Brennivín|url=http://gourmetwonderland.com/hakarl-brennivin|archive-url=https://web.archive.org/web/20140306161147/http://gourmetwonderland.com/hakarl-brennivin|url-status=dead|archive-date=6 March 2014|date=20 September 2010}}</ref>
+
+==Reactions==
+{{More citations needed section|date=January 2020}}
+
+Chef [[Anthony Bourdain]] described fermented shark as "the single worst, most disgusting and terrible tasting thing" he had ever eaten.<ref name="herz" />
+
+Chef [[Gordon Ramsay]] challenged [[James May]] to sample three "delicacies" ([[Laos|Laotian]] [[Snake wine|snake whiskey]], [[Pizzle|bull penis]], and fermented shark) on ''[[The F Word (British TV series)|The F Word]]''. After eating fermented shark, Ramsay spat it out, but May was able to keep his down. May even offered to eat it again.<ref>{{citation | title = Gordon Ramsay vs. James May | work = The F-Word | date = 4 March 2011 | url = https://www.youtube.com/watch?v=-xhfJRdwHnU | access-date = 25 November 2016 | archive-url = https://web.archive.org/web/20170106002805/https://www.youtube.com/watch?v=-xhfJRdwHnU | archive-date = 6 January 2017 | url-status = live }}</ref>
+
+On an Iceland-themed season-2 episode of Travel Channel's ''[[Bizarre Foods with Andrew Zimmern]]'', [[Andrew Zimmern]] described the smell as reminding him of "some of the most horrific things I've ever breathed in my life", but said that the dish tasted much better than it smelled. He described the taste as "sweet, nutty and only faintly fishy". Nonetheless, he did note of fermented shark: "That's hardcore. That's serious food. You don't want to mess with that. That's not for beginners".<ref>{{cite episode|url=https://www.youtube.com/watch?v=t9DzE1ZGa8g|title=Iceland|series=Bizarre Foods with Andrew Zimmern|date=11 March 2008|station=Travel Channel|season=2|number=2}}</ref>
+
+On a 2015 episode of ''[[Travel Man]]'', [[Jessica Hynes]] and [[Richard Ayoade]] visited a [[Reykjavík]] restaurant and described the taste of hákarl as "awful", "like a jellied cube of ammonia", albeit "technically edible".<ref>{{Cite web |date=16 November 2019 |title="The Fermented Shark of Iceland") |url=https://yourfriendinreykjavik.com/fermented-shark-iceland/}}</ref>
+
+On a season-5 final episode of [[Animal Planet]]'s ''[[River Monsters]]'', biologist and angler [[Jeremy Wade]] mentioned that the flesh "smells of urine" that has "a really strong aftertaste, it really kicks in. It really kicks in at the back of the throat after you take the first bite". He further stated that the meat was unlike anything that he had tried before and that it was similar to a very strong cheese but with a definite fish element.{{citation needed|date=July 2022}}
+
+Archaeologist [[Neil Oliver]] tasted hákarl in the BBC documentary ''[[Vikings (2012 TV series)|Vikings]]'' as part of his examination of the [[Vikings|Viking]] diet. He described it as reminiscent of "[[blue cheese]] but a hundred times stronger".{{citation needed|date=July 2022}}
+
+In his series ''Ainsley Eats the Streets'', chef [[Ainsley Harriott]] was unable to tolerate the heavy ammonia taste and described it as "like chewing a urine-infested mattress".{{citation needed|date=July 2022}}
+
+==Effects==
+The Greenland shark takes 150 years to reach [[sexual maturity]], with some sharks living up to 400 years.<ref>{{cite journal|last1=Nielsen|first1=Julius|last2=Hedeholm|first2=Rasmus B.|last3=Heinemeier|first3=Jan|last4=Bushnell|first4=Peter G.|last5=Christiansen|first5=Jørgen S.|last6=Olsen|first6=Jesper|last7=Ramsey|first7=Christopher Bronk|last8=Brill|first8=Richard W.|last9=Simon|first9=Malene|year=2016|title=Eye lens radiocarbon reveals centuries of longevity in the Greenland shark (''Somniosus microcephalus'')|url=https://ora.ox.ac.uk/objects/pubs:633506|journal=Science|volume=353|issue=6300|pages=702–4|bibcode=2016Sci...353..702N|doi=10.1126/science.aaf1703|pmid=27516602 |last10=Steffensen|first10=Kirstine F.|last11=Steffensen|first11=John F.|s2cid=206647043|hdl=2022/26597|hdl-access=free}}
+* {{cite magazine |author=Enrico de Lazaro |date=12 August 2016 |title=Greenland Sharks are Longest-Lived Vertebrates on Earth, Marine Biologists Say |magazine=Science News |url=http://www.sci-news.com/biology/greenland-sharks-longest-lived-vertebrates-04099.html}}</ref><ref name="PE2016">{{cite journal |last1=Pennisi |first1=Elizabeth |author-link=Elizabeth Pennisi |title=Greenland shark may live 400 years, smashing longevity record |journal=Science |date=11 August 2016 |doi=10.1126/science.aag0748 }}</ref><ref>[https://www.newyorker.com/tech/elements/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth The Strange and Gruesome Story of the Greenland Shark, the Longest-Living Vertebrate on Earth], ''The New Yorker'', M. R. O'Connor, 25 November 2017. Retrieved 27 November 2017.</ref> Due to this, hunting of the Greenland shark is unsustainable and is slowly leading to the potential extinction of the species. As the Greenland shark is the longest-living [[vertebrate]] in the world, it takes an enormous amount of time for native populations to recover, currently being listed as [[Vulnerable species|vulnerable]] by the [[IUCN]], primarily due to the effects of [[bycatch]].<ref>{{Cite web|url=https://timesofindia.indiatimes.com/videos/international/iu-expert-on-the-vulnerable-greenland-shark/videoshow/87547281.cms|title=IU Expert on the Vulnerable Greenland Shark &#124; International - Times of India Videos|website=The Times of India}}</ref><ref name="sharkconservation"/> Associations, such as the Northwest Atlantic Fisheries Organization, an intergovernmental fishing science and management body, are calling for a ban of the hunting and killing of Greenland shark.<ref>{{Cite web|url=https://www.livescience.com/greenland-shark|title=Greenland sharks: The longest-living vertebrates|first=Patrick|last=Pester|date=8 October 2021|website=livescience.com}}</ref><ref>{{Cite journal|title=Greenland Shark (Somniosus microcephalus) Stomach Contents and Stable Isotope Values Reveal an Ontogenetic Dietary Shift|first1=Julius|last1=Nielsen|first2=Jørgen Schou|last2=Christiansen|first3=Peter|last3=Grønkjær|first4=Peter|last4=Bushnell|first5=John Fleng|last5=Steffensen|first6=Helene Overgaard|last6=Kiilerich|first7=Kim|last7=Præbel|first8=Rasmus|last8=Hedeholm|date=28 November 2019|journal=Frontiers in Marine Science|volume=6|pages=125|doi=10.3389/fmars.2019.00125|doi-access=free|hdl=10037/15917|hdl-access=free}}</ref>
+
+==See also==
+{{portal|Iceland}}
+{{div col|colwidth=30em}}
+* {{annotated link|Fesikh}}
+* {{annotated link|Garum}}
+* {{annotated link|Gravlax}}
+* {{annotated link|Hongeo-hoe}}
+* {{annotated link|Igunaq}}
+* {{annotated link|Kiviak}}
+* {{annotated link|Kusaya}}
+* {{annotated link|Lutefisk}}
+* {{annotated link|Pla ra}}
+* {{annotated link|Bagoong}}
+* {{annotated link|Rakfisk}}
+* {{annotated link|Surströmming}}
+* {{annotated link|Worcestershire sauce}}
+{{div col end}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{cite book |first1=Sidra |last1=Durst |chapter=Hákarl |chapter-url={{Google books|H6pIinfPtnQC|page=91|plainurl=yes}} |pages=91–2 |editor1-first=Jonathan |editor1-last=Deutsch |editor2-first=Natalya |editor2-last=Murakhver |year=2012 |title=They Eat That? A Cultural Encyclopedia of Weird and Exotic Food from around the World: A Cultural Encyclopedia of Weird and Exotic Food from Around the World |publisher=Bloomsbury Publishing USA |isbn=978-0-313-38059-4 }}
+* [https://www.youtube.com/watch?v=mbYqznD0R5M Fermented shark prepared by an Icelandic cook] on [[National Geographic (TV network)|National Geographic]]
+* Jo's Icelandic Recipes: How to prepare "Rotten" Shark: [https://web.archive.org/web/20150627031841/http://www.isholf.is/gullis/jo/shark.htm ''How to Prepare Rotten Shark'']
+* [http://satwcomic.com/nordics-like-fish "Nordics Like Fish" cartoon]
+
+{{fishing industry topics}}
+
+{{DEFAULTSORT:Hakarl}}
+[[Category:Fermented fish]]
+[[Category:Icelandic cuisine]]
+[[Category:Dried fish]]
+[[Category:National dishes]]
+[[Category:Shark dishes]]

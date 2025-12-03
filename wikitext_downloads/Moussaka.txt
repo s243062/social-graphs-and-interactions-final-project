@@ -1,0 +1,84 @@
+{{Short description|Dish of layered vegetables, sauce and meat}}
+{{protection padlock|small=yes}}
+{{Infobox food
+| name             = Moussaka
+| image            = MussakasMeMelitsanesKePatates01.JPG
+| image_size       = 260px
+| caption          = A dish of Greek moussaka
+| country          = [[Egypt]], [[Greece]], [[Middle East]] (cooked salad form), [[Levant]]
+| region           = The [[Balkans]] and [[Eastern Mediterranean]]
+| course           = Main course
+| served           = Hot or cold
+| main_ingredient  = [[aubergine]] (eggplant) or [[potato]]es, [[Ground meat|minced meat]]
+| variations       = Multiple
+}}
+
+'''Moussaka''' ({{IPAc-en|m|uː|ˈ|s|ɑː|k|ə}}, {{IPAc-en|UKalso|ˌ|m|uː|s|ə|ˈ|k|ɑː}}, {{IPAc-en|USalso|ˌ|m|uː|s|ɑː|ˈ|k|ɑː}}; {{small|see [[#Names and etymology|below]]}}) is an [[aubergine]] (eggplant)- or potato-based dish, often including [[ground meat]], which is common in the [[Balkan cuisine|Balkans]] and the [[Middle Eastern cuisine|Middle East]], with many local and regional variations.
+
+The modern [[Greek cuisine|Greek]] variant was created in the 1920s by [[Nikolaos Tselementes]]. Many versions have a top layer made of milk-based sauce thickened with egg ([[custard]]) or flour ([[béchamel sauce]]). In [[Greece]], the dish is layered and typically served hot. [[Nikolaos Tselementes|Tselementes]] also proposed a vegan variant for [[Fasting#Religious views|orthodox fast days]]. Romania also has a vegan version that replaces meat with mushrooms or a mix of sautéed onions and rice.
+
+The versions in [[Egyptian cuisine|Egypt]], [[Turkish cuisine|Turkey]] and the rest of the [[Middle East]] are quite different. In Egypt, ''[[mesaqa‘ah]]'' can be made [[vegan]]  or [[vegetarian]] as well as with meat; in all cases, the main ingredient is the fried aubergine. In Turkey, ''mussaka'' consists of thinly sliced and fried aubergine served in a tomato-based meat sauce, warm or at room temperature. In [[Saudi Arabia]], {{Transliteration|ar|muṣagga‘a}} is eaten hot, but in other [[Arab cuisine|Arab countries]], it is often eaten cold, but occasionally hot as well.
+
+== Names and etymology ==
+The English name for moussaka was borrowed from [[Modern Greek|Greek]] {{Transliteration|el|mousakás}} ({{lang|el|μουσακάς}}) and from other [[Balkan languages]], all borrowed from [[Ottoman Turkish language|Ottoman Turkish]], which in turn borrοwed it from [[Arabic language|Arabic]]  {{Transliteration|ar|muṣaqqa‘a}} ({{lang|ar|مصقعة}}, {{literally|pounded|cold}}). The word is first attested in English in 1862, written ''mùzàkkà''.<ref name="oed">''[[Oxford English Dictionary]]'' 3rd ed., March 2003 [http://www.oed.com/view/Entry/122981 ''s.v.''] (subscription)</ref>
+
+== Preparation ==
+=== Greece ===
+[[File:Moussaka and Greek Salad at a taverna in Greece.jpg|thumb|left|Moussaka and Greek salad at a [[taverna]] in Greece]]
+Most versions are based primarily on [[Sautéing|sautéed]] [[aubergine]] (eggplant) and [[tomato]], usually with minced meat, mostly lamb. The [[Greek cuisine|Greek]] version includes layers of meat and aubergine topped with a [[Béchamel sauce|béchamel ("white") sauce]] and baked.
+
+The modern Greek version was created by the French-trained Greek chef [[Nikolaos Tselementes]] in the 1920s.<ref name="Kremezi 1995">Aglaia Kremezi, "Nikolas Tselementes", ''Cooks and Other People'', Proceedings of the Oxford Symposium on Food and Cookery, [https://play.google.com/books/reader?id=lpOqTUucwhUC&printsec=frontcover&pg=GBS.PA167 p. 167]: "before Tselementes there was no ''moussaka'', as we know it today"</ref><ref name="Kremezi 2010">{{Cite web |url=https://www.theatlantic.com/food/archive/2010/07/classic-greek-cuisine-not-so-classic/59600 |title='Classic' Greek Cuisine: Not So Classic |last=Kremezi |first=Aglaia |author-link=Aglaia Kremezi |date=13 July 2010 |website=[[The Atlantic]] |archive-url=https://web.archive.org/web/20120216231142/http://www.theatlantic.com/health/archive/2010/07/classic-greek-cuisine-not-so-classic/59600 |archive-date=16 February 2012 |url-status=live |access-date=10 March 2017 }}</ref> His recipe has three layers that are separately cooked before being combined for the final baking: a bottom layer of sliced aubergine sautéed in olive oil; a middle layer of ground lamb lightly cooked with chopped or puréed tomatoes, onion, [[garlic]], and [[spice]]s ([[cinnamon]], [[allspice]] and [[black pepper]]); and a top layer of [[béchamel sauce]] or savoury [[custard]].<ref name="ts">Νικόλαος Τσελεμεντές, Οδηγός μαγειρικής και ζαχαροπλαστικής, 1930</ref>
+
+There are variations on this basic recipe, sometimes with no top sauce, sometimes with other vegetables.  Such variants may include, in addition to the aubergine slices, sautéed [[zucchini]] (courgette) slices, part-fried potato slices, or sautéed [[Edible mushroom|mushrooms]]. There is a [[Fasting#Religious views|fast-day]] ([[vegan]]) version in Tselementes' cookbook, which includes neither meat nor dairy products, just vegetables (ground aubergine is used instead of ground meat), tomato sauce, and bread crumbs.<ref name="ts"/>
+
+{{Anchor|papoutsakia}}Another variant is {{lang|el-Latn|(melitzánes) papoutsákia}} {{lang|el|(μελιτζάνες) παπουτσάκια}}  ({{literally|aubergine, little shoe style}}) which consists of whole small aubergines stuffed with ground meat and topped with béchamel and baked.{{Citation needed|date=February 2025}}
+
+=== Other countries of Southeast Europe ===
+[[File:Мусака од компири (cropped).jpg|thumb|Potato moussaka prepared in North Macedonia]]
+In [[Albanian cuisine|Albania]],<ref name="Zanger2001">{{cite book|author=Mark Zanger|title=The American Ethnic Cookbook for Students|url=https://books.google.com/books?id=JTBSpuCkl9AC&pg=PA9|date=January 2001|publisher=ABC-CLIO|isbn=978-1-57356-345-1|page=9}}</ref> [[Bulgarian cuisine|Bulgaria]],<ref name="StrnadelErdley2012">{{cite book|author1=Leslie Strnadel|author2=Patrick Erdley|title=Bulgaria (Other Places Travel Guide)|url=https://books.google.com/books?id=fQ8vWih-rqwC&pg=PA55|date=January 2012|publisher=Other Places Publishing|isbn=978-0-9822619-9-6|page=55}}</ref> the [[former Yugoslavia]],<ref>{{cite book|title=The Balkan Cookbook| date=1987 |url=https://books.google.com/books?id=iCU6lhHPjpoC|publisher=Pelican Publishing Company|isbn=978-1-4556-0057-1|page=121}}</ref><ref name="PavicicPirker-Mosher2007">{{cite book|author1=Liliana Pavicic|author2=Gordana Pirker-Mosher|title=Best of Croatian Cooking|url=https://books.google.com/books?id=-W2XYRYORFcC&pg=PA132|date=1 January 2007|publisher=Hippocrene Books|isbn=978-0-7818-1203-0|page=132}}</ref><ref name="Burdett">{{cite book|author=Avani Burdett|title=Delicatessen Cookbook – Burdett's Delicatessen Recipes: How to make and sell Continental & World Cuisine foods|url=https://books.google.com/books?id=p5nhpRfaDpIC&pg=PT113|publisher=Springwood emedia|isbn=978-1-4761-4462-7|page=113}}</ref> and [[Romanian cuisine|Romania]], potatoes are used instead of aubergine, pork or beef mince, and the top layer is usually milk or yogurt mixed with raw eggs, sometimes with a small amount of flour added. There is also a three-layer version: the bottom layer consists of ground pork and beef, the middle layer of potato slices, and the top layer is typically a [[custard]]. Each layer is cooked on its own and layered in a pan and baked until the top is browned.
+
+Typically, the Romanian version is made with potatoes or aubergine or cabbage. The layers start with the vegetable, then the layer of meat (usually pork), then vegetables, until the pot is full. Sometimes bread crumbs are used as a topping, sometimes slices of tomatoes and crushed cheese. The pot is then filled with tomato sauce. There is also a pasta variant, with pasta being used instead of vegetables. The "fasting" variant, which is vegan, replaces meat with mushrooms or a mix of sautéed onions and rice.
+
+In the rest of the [[Balkans]], the top layer is often a custard; this is the version introduced to the UK by [[Elizabeth David]]'s ''Mediterranean Cookery'' and where it remains the usual presentation. Grated cheese or bread crumbs are often sprinkled on top.{{Citation needed|date=September 2022}} The potato version is also the most commonly used version in [[Norway]], despite the most common of those potato versions ([[Toro (Norwegian company)|Toro]]) being incorrectly marketed as "Greek moussaka".<ref>{{Cite web|url=https://meny.no/varer/middag/middag-kit/moussaka-kit/gresk-moussaka-7037610050531/|title=Gresk Moussaka - Kit 136g Toro|publisher=[[Meny]]|access-date=13 October 2025}}</ref>
+
+=== Levant ===
+[[File:Moussaka_in_Jerusalem,_Israel.png|thumb|[[Kashrut|Non-dairy]] moussaka served in a [[Sephardic Jewish cuisine|Sephardic]]/[[Mizrahi Jewish cuisine|Mizrahi]] restaurant in Jerusalem]]
+In the [[Levant]], moussaka is a cooked dish made up primarily of tomatoes and aubergine, similar to [[Sicilian cuisine|Sicilian]] [[caponata]], and may also include [[chickpea]]s. It may be served cold as a [[mezze]] dish, or hot.{{Citation needed|date=February 2025}}
+
+=== Egypt ===
+The [[Egyptian cuisine|Egyptian]] version of moussaka, [[mesaqa‘ah]], is made from layers of fried aubergine immersed in tomato sauce and then baked. A layer of seasoned cooked ground beef is usually added between the aubergine before baking.<ref>{{cite news |title=كيف تصنع "المسقعة" المصرية بوصفة صحية؟ |url=https://www.noonpost.com/37003/ |access-date=15 September 2025 |work=NoonPost |date=13 May 2020 |language=ar}}</ref><ref>{{cite web |last1=Karadsheh |first1=Suzy |title=Egyptian Moussaka |url=https://www.themediterraneandish.com/egyptian-moussaka/ |website=The Mediterranean Dish |access-date=15 September 2025 |date=19 April 2024}}</ref><ref>{{cite news |title=تاريخ الطعام (16): بالرغم من شعبيتها.. المسقعة ليست مصرية! - بوابة الشروق |url=https://www.shorouknews.com/news/view.aspx?cdate=21052019&id=a67f5b32-057e-48bb-a595-2913e4d61927 |access-date=15 September 2025 |work=[[Al-Shorouk]] |language=ar-eg |trans-title=Food History (16): Despite its popularity, moussaka is not Egyptian!}}</ref> The dish can be served hot but is usually chilled for a day or so to improve the taste.{{Citation needed|date=February 2025}}<ref>{{cite web |title=Feels like home: The Egyptian eggplant dish worth eating thousands of times |url=https://www.sbs.com.au/food/article/feels-like-home-the-egyptian-eggplant-dish-worth-eating-thousands-of-times/zjrjlutsf |website=[[SBS Food]] |access-date=15 September 2025 |language=en |date=10 April 2022}}</ref>
+
+=== Turkey ===
+[[File:Musakka and pilav.jpg|thumb|Musakka and [[pilav]] in Turkey]]
+[[Turkish cuisine|Turkish]] ''{{lang|tr|musakka}}'' is not layered.<ref name="Albala2011">{{cite book|author=Ken Albala|title=Food Cultures of the World Encyclopedia|url=https://books.google.com/books?id=NTo6c_PJWRgC&pg=PA307|year=2011|publisher=ABC-CLIO|isbn=978-0-313-37626-9|pages=307–}}</ref> Instead, thinly sliced aubergine is [[frying|fried]] and served in tomato-based meat sauce seasoned with [[bell pepper|green peppers]], garlic and [[onion]]s.<ref>{{Cite web| title = Patlıcan musakka tarifi (Musakka nasıl yapılır?)| work = MİLLİYET HABER – TÜRKİYE'NİN HABER SİTESİ| access-date = 2018-04-24| url = http://www.milliyet.com.tr/patlican-musakka-tarifi-musakka-pembenar-detay-zeytinyaglilarsebzeler-2460233/}}</ref> It is generally eaten with ''{{lang|tr|[[pilav]]}}'' and {{lang|tr|[[cacık]]}}. There are also variants with [[zucchini]] (courgettes, ''{{lang|tr|kabak musakka}}''), carrots (''{{lang|tr|havuç musakka}}'') and potatoes (''{{lang|tr|patates musakka}}'').{{Citation needed|date=February 2025}}
+
+== See also ==
+* [[List of casserole dishes]]
+* [[Karnıyarık]] – dish comparable to moussaka, popular in Turkey
+* [[Parmigiana]] - sliced aubergine layered with cheese and tomato sauce and then baked, popular in Italy
+* [[Tepsi baytinijan]] – dish comparable to moussaka, popular in Iraq
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Commons category-inline|Musaka}}
+
+{{Navboxes|list1=
+{{Cuisine of Lebanon}}
+{{Cuisine of Greece}}
+{{Cuisine of Turkey}}
+{{Cuisine of Egypt}}
+{{Serbian cuisine}}
+{{Eggplant dishes}}
+}}
+
+[[Category:Arab cuisine]]
+[[Category:Balkan cuisine]]
+[[Category:Ottoman cuisine]]
+[[Category:Egyptian cuisine]]
+[[Category:Greek cuisine]]
+[[Category:Casserole dishes]]
+[[Category:Eggplant dishes]]
+[[Category:Turkish cuisine]]
+[[Category:Ground meat]]

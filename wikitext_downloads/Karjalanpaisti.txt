@@ -1,0 +1,56 @@
+{{Short description|Karelian meat stew}}
+{{Refimprove|date=January 2016}}
+{{Infobox prepared food
+| name = Karelian hot pot
+| image = Karelskastek1.jpg
+| caption = 
+| alternate_name = Karelian stew, {{lang|krl|päččiliha}}, {{lang|fi|karjalanpaisti}}
+| country = [[Karelia]]
+| region = [[Karelia]]<br />[[Finland]]
+| national_cuisine = 
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 
+| maxtime = 
+| type = [[Stew]]
+| course = 
+| served = 
+| main_ingredient = [[Meat]] ([[pork]], [[beef]], or [[lamb and mutton|lamb]]), [[black pepper]]corns
+| minor_ingredient = 
+| variations = 
+| serving_size = 
+| calories = 
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| similar_dish = 
+| other = 
+}}
+[[File:19-07-09-Karjalanpaisti-IMG 20190709 160707.jpg|thumb|Ingredients for Karelian stew]]
+The '''Karelian hot pot''' (British)<ref>{{Cite web |last= |first= |title=The American Heritage Dictionary entry: hot pot |url=https://ahdictionary.com/word/search.html?q=hot+pot |access-date=2024-01-01 |website=[[The American Heritage Dictionary]]}}</ref> or '''Karelian stew''' (US)<ref>{{cite web|author=Fred Ferretti |url=https://query.nytimes.com/gst/fullpage.html?res=9A0DE3D71531F930A3575BC0A960948260&sec=travel&spon=&pagewanted=all |title=Fare Of The Country - Finnish Stew Of Meaty Riches - Nytimes.Com |location=Finland |newspaper=[[The New York Times]] |date=1986-08-03 |access-date=2016-01-02}}</ref> ({{langx|krl|päččiliha}}<ref>{{Cite book |last=Lappalainen |first=Hannu |title=Gastronominem sanasto Suomi-Livvinkarjala |publisher=Karjala Sivistysseura ry |date=2023 |isbn=978-952-7193-82-2 |page=4 |language=fi |translator-last=Giloeva |translator-first=Natalia |trans-title=Gastronomic terms Finnish-Livvi Karelian}}</ref> {{IPA|krl|ˈpæt.t͜ɕiˌlʲiɦɑ̝}}; {{langx|fi|karjalanpaisti}}) is a traditional Finnish meat [[stew]] originating in the region of [[Karelia]]. It is commonly prepared using a combination of [[pork]] and [[beef]], but [[moose|elk]] or [[lamb and mutton|lamb]] can also be used. Along with the [[Karelian pasty|Karelian pasties]] ({{Lang|krl|šipainiekat}}, {{Lang|fi|karjalanpiirakat}}), it is the most widely recognized Karelian food in Finland. In 2007, it was selected as the national dish of Finland by the readers of the Finnish tabloid {{Lang|fi|Iltalehti}}.<ref>{{cite web |last1=Haapio |first1=Markku |date=6 December 2007 |title=Se on karjalanpaisti! |trans-title=It is karjalanpaisti! |url=https://www.iltalehti.fi/uutiset/a/200712066931619 |access-date=28 December 2016 |website=[[Iltalehti]] |language=fi}}</ref> In a similar poll organized by the ELO Foundation for the Promotion of Finnish Food Culture in cooperation with the Central Union of Agricultural Producers and Forest Owners (MTK) and the Finnish Ministry of Agriculture and Forestry in autumn 2016, Karelian hot pot took second place, losing to [[rye bread]].<ref>{{cite web|title=The people have spoken - rye bread is the national food|url=http://yle.fi/uutiset/osasto/news/the_people_have_spoken_-_rye_bread_is_the_national_food/9413195|website=yle.fi|publisher=Yle|access-date=8 February 2017|date=19 January 2017}}</ref>
+
+The hot pot is typically seasoned with [[black pepper]]corns, [[Edible salt|salt]],  [[bay leaf|bay leaves]] and [[allspice]]. Common vegetables such as [[carrot]]s, [[onion]]s, and [[root vegetable]]s are acceptable additions to the stew.
+
+Like most other Karelian foods, the Karelian hot pot is traditionally braised (cooked in a pot ({{Lang|fi|uuniruukku}} or {{Lang|fi|pata}} in Finnish) placed inside an oven). In Finnish-speaking Karelia, it is usually referred to as merely 'stew' ({{Lang|fi|paisti}}) or 'oven stew' ({{Lang|fi|uunipaisti}}). The term ''Karelian hot pot'' can be used to refer to nearly any food that contains meat and that is prepared in this traditional Karelian fashion.
+
+Due to the scarcity of meat in the past, the hot pot was traditionally prepared only for festive occasions. As meat became more readily available during the 20th century, the dish became a common, everyday food throughout Finland.
+
+==See also==
+* [[List of stews]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Finland|Russia|Food}}
+
+[[Category:Finnish stews]]
+[[Category:National dishes]]
+
+
+{{finland-cuisine-stub}}
+[[Category:Karelian cuisine]]
+[[Category:Meat dishes]]
+[[Category:Pork dishes]]
+[[Category:Beef dishes]]

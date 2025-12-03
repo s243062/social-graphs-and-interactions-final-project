@@ -1,0 +1,52 @@
+{{Short description|Ecuadorian tripe stew}}
+{{Infobox food
+| name             = Guatita
+| image            = Guatita (gastronomía Ecuatoriana).jpg
+| caption          = 
+| alternate_name   = Guatita criolla
+| country          = 
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Stew]]
+| served           = 
+| main_ingredient  = [[Tripe]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Guatita''' (''[little] gut'' or ''[little] belly'', from {{langx|es|Guata}}; "Gut/Belly"), or '''guatita criolla''', is a popular dish in [[Ecuador]], where it is considered a national dish, and in [[Chile]]. It is essentially a [[stew]] whose main ingredient is pieces of [[tripe]] (cow stomach), known locally as "guatitas". The tripe is cleaned several times in a lemon-juice brine, after which it is cooked for a long time until the meat is tender. Then it is allowed to cool and finely chopped. There are various vegetarian versions of the dish in which [[Wheat gluten (food)|wheat gluten]] is substituted for tripe. Other variations use strong-tasting fish such as [[tuna]]. The traditional Ecuadorian recipe is served hot and accompanied by potatoes and a peanut sauce.
+
+The dish is often considered an acquired taste. Because of its strong taste, it is sometimes served in small quantities.
+
+In Ecuador, it is believed that guatita helps relieve hangover symptoms.<ref name="google">{{cite book|title=Longos |author=Chiluisa, J.J.|date=1998|publisher=Fundación de Investigaciones Andino Amazónicas|isbn=9789978404119|url=https://books.google.com/books?id=lUmUpoepTa8C|page=90|accessdate=2014-10-24}}</ref><ref>http://www.ultimasnoticias.ec/noticiaUN.asp?id_noticia=23306&id_seccion=5 {{Dead link|date=February 2022}}</ref> For this reason, it is often served by restaurants early on Saturday and Sunday mornings.
+
+==Related dishes==
+
+* Mexico: [[Pancita]], [[mondongo]]
+* Colombia: [[Mondongo antioqueño]]
+* Peru: [[Cau Cau a la limeña]]
+* Panama: [[Mondongo a la culona]]
+* Chile: [[Chupe de guatitas]], [[guatitas a la jardinera]]
+* Argentina: [[Mondongo rioplatense]]
+* Paraguay: [[Seco de mondongo]]
+* Ecuador: [[Caldo de mondongo]]
+* Spain: [[Callos]]
+* Dominican Republic: [[Mondongo]]
+
+==See also==
+
+* [[List of Ecuadorian dishes and foods]]
+* [[List of stews]]
+
+==References==
+{{reflist}}
+
+{{Cuisine of Chile}}
+
+[[Category:Ecuadorian cuisine]]
+[[Category:Chilean cuisine]]
+[[Category:Stews]]
+[[Category:Offal]]
+[[Category:Beef dishes]]
+[[Category:National dishes]]

@@ -1,0 +1,53 @@
+{{short description|Iraqi national dish}}
+{{Infobox prepared food
+| name             = Masgouf
+| image            = Masgouf.jpg
+| image_size       = 300px
+| caption          = A prepared masgouf
+| country          = {{IRQ}} ([[Mesopotamia]])
+| region           = [[Baghdad]], [[Basra]] and [[Tigris River]]
+| national_cuisine = {{IRQ}}
+| creator          = [[Iraqis]]
+| course           = Main course
+| served           = Hot
+| main_ingredient  = Large freshwater [[carp]]s and [[Shabout|barb]]s  from the [[Tigris-Euphrates river system|Tigris-Euphrates Basin]]
+| variations       = Northern Iraqi variation, in a [[tandoor|clay oven]]
+}}
+'''Masgouf''' ([[Arabic]]: المسكوف), is a [[Iraqi cuisine|Mesopotamian]] dish consisting of seasoned, grilled [[carp]]; it is often considered the [[national dish]] of [[Iraq]].<ref name="TO"/>
+
+==Geographical distribution==
+ 
+Outside of Iraq, masgouf is found in [[Damascus]] due to a high number of Iraqis who lived there after the [[2003 invasion of Iraq]].<ref name="Dp">[http://www.dp-news.com/pages/detail.aspx?l=1&articleId=6207 "أسعار العقارات في جرمانا تتحدى الإنحدار .. والجمود لم " ("Real estate prices in Jaramana challenge Downgrade ..")] ''De Press - Buildex Online'' 19 March 2009, in Arabic, last accessed 18 September 2010</ref>
+
+==See also==
+*[[Iraqi cuisine]]
+*[[Middle Eastern cuisine]]
+
+==Notes==
+
+Masguf arguably being the most famous dish of [[Iraq]], it is also the one that is always the foremost served to foreign delegations visiting the country by the Iraqi statesmen.
+Two notable admirers of this dish are said to be the former President of France, [[Jacques Chirac]] and [[Vladimir Zhirinovsky]], the former chairman of the Russian [[Duma]].<ref>{{cite web|url=http://www.middle-east-online.com/english/?id=8882|title=Fish chef nostalgic about Iraq's glory past|access-date=2011-01-03|archive-url=https://web.archive.org/web/20171022032514/http://www.middle-east-online.com/english/?id=8882|archive-date=2017-10-22|url-status=dead}}</ref> Chirac apparently fell for masgûf during a visit to Iraq in a formal dinner given to his honor by [[Saddam Hussein]].
+
+==Gallery==
+<gallery>
+File:Masgouf, an Iraqi tradition - Flickr - Al Jazeera English.jpg|A carp on a stick
+File:Grilling masgouf - Flickr - Al Jazeera English.jpg|Carps grilled into masgouf
+File:The famed masgouf - Flickr - Al Jazeera English.jpg|Multiple carps being grilled
+</gallery>
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{commons category|Masgouf}}
+*{{cite news|newspaper=Los Angeles Times|title=It's the national dish that brought down a dictator. And it's delicious
+|author=Nabih Bulos | date= March 3, 2020|url=https://www.latimes.com/world-nation/story/2020-03-03/its-the-national-dish-that-brought-down-a-dictator-and-its-delicious}}
+
+[[Category:Arab cuisine]]
+[[Category:Assyrian cuisine]]
+[[Category:Fish dishes]]
+[[Category:Iraqi cuisine]]
+[[Category:Levantine cuisine]]
+[[Category:Saudi Arabian cuisine]]
+[[Category:National dishes]]
+{{food-stub}}

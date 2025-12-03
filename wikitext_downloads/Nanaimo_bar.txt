@@ -1,0 +1,69 @@
+{{Short description|Canadian no-bake dessert}}
+{{Infobox food
+| name             = Nanaimo bar
+| image            = nanaimo bar.JPG
+| caption          = 
+| alternate_name   = Mabel's Squares
+| place_of_origin  = Canada
+| region           = [[Nanaimo]], [[British Columbia]], [[Canada]]
+| creator          = 
+| course           = [[Dessert]]
+| served           = 
+| main_ingredient  = Crumb, [[Icing (food)|icing]], [[chocolate]]
+| variations       = Many types of crumb and icing
+| calories         = 
+| other            = 
+}}
+{{Canadian cuisine}}
+The '''Nanaimo bar''' ({{IPAc-en|n|ə|ˈ|n|aɪ|m|oʊ}} {{respell|nə|NY|moh}}) is a [[bar dessert]] that requires no [[baking]] and is named after the Canadian city of [[Nanaimo]] in [[British Columbia]].<ref name="LLN">{{cite journal |last= Newman| first= Lenore Lauri|title=Notes from the Nanaimo bar trail|journal=Canadian Food Studies| date= 2014| volume= 1| issue= 1| pages= 10–19| doi= 10.15353/cfs-rcea.v1i1.11|url=http://pdfs.semanticscholar.org/7d2a/7e1a4e55f6738a3be1519bf2bd1fd41ac1d7.pdf|access-date=26 May 2014| doi-access= free}}</ref> It consists of three layers: a [[wafer]], nut (walnuts, almonds, or pecans), and [[coconut]] crumb base; [[custard]] icing in the middle; and a layer of [[chocolate]] [[ganache]] on top. Many varieties exist, consisting of various types of crumb, various flavours of icing (such as [[peanut butter]] or coconut, [[Caffè mocha|mocha]]), and various types of chocolate.
+
+== Origins ==
+The earliest confirmed printed copy of the recipe using the name "Nanaimo bars" appears in the Edith Adams' prize cookbook (14th edition) from 1953.{{efn|A copy of the book is on view at the [[Nanaimo Museum]].}} Following research into the origins of Nanaimo bars, [[Lenore Newman]] writes that the same recipe was published in the ''[[Vancouver Sun]]'' earlier that same year under the name "London Fog Bar".<ref name="LLN" /> The recipe later also appears in the publication ''His/Her Favourite Recipes'', Compiled by the Women's Association of the Brechin United Church (1957), with the recipe submitted by Joy Wilgress, a Baltimore, Maryland, native.<ref>''His/Her Favourite Recipes, Compiled by the Women's Association of the Brechin United Church'', p.&nbsp;52</ref> (Brechin United Church is in Nanaimo.)
+
+In 1954, the recipe "Mabel's Squares" was published in ''The Country Woman's Favourite''<ref>{{cite web|url=http://primo.tug-libraries.on.ca/primo_library/libweb/action/dlDisplay.do?docId=vtug2329305&vid=GUELPH&query=any,contains&indx=1&bulkSize=2&dym=true&highlight=true&lang=eng|archive-url=https://archive.today/20130115150538/http://primo.tug-libraries.on.ca/primo_library/libweb/action/dlDisplay.do?docId=vtug2329305&vid=GUELPH&query=any,contains&indx=1&bulkSize=2&dym=true&highlight=true&lang=eng|url-status=dead|archive-date=January 15, 2013|title=The Country Woman's Favorite|publisher=University of Guelph, McLaughlin Library. (Call number: TX715.6 C687)}}</ref><ref>{{cite web|url = http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&url_tim=2012-12-01T20%3A49%3A06Z&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft_dat=25355636&rfr_id=info%3Asid%2Fcollectionscanada.gc.ca%3Aamicus&lang=eng|archive-url = https://archive.today/20130115091928/http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&url_tim=2012-12-01T20:49:06Z&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_dat=25355636&rfr_id=info:sid/collectionscanada.gc.ca:amicus&lang=eng|url-status = dead|archive-date = January 15, 2013|title = The Country Woman's Favorite|publisher = Library and Archives Canada/Bibliothèque et Archives Canada. (Call number: TX715.6 C6959 1954)}}</ref> by the Upper Gloucester Women's Institute ([[New Brunswick]]).  The recipe was submitted by Mrs. Harold Payne, the daughter of Mabel (Knowles) Scott (1883–1957).{{efn|The ingredients list, quantities, and fabrication closely match the recipe found on the City of Nanaimo's website.}}
+
+The first{{dubious|date=December 2023}} printing of recipes featuring Nanaimo bar ingredients is found in the 1952 ''Women's Auxiliary to the Nanaimo Hospital Cookbook'', which features three nearly identical recipes that differ only slightly from the modern Nanaimo bar.<ref name="LLN" /> They are referred to as the "chocolate square" or the "chocolate slice".
+
+Other unconfirmed references date the bar back to the 1930s, when it was said to be known locally as "chocolate fridge cake".<ref>{{cite web| url = http://www.nanaimohotel.com/nanaimo_hotel_newsletter.htm|title = Nanaimo Bars|publisher = Nanaimo Hotel|access-date = 2007-10-03| date = January 2005|url-status = dead|archive-url = https://web.archive.org/web/20071012093325/http://nanaimohotel.com/nanaimo_hotel_newsletter.htm|archive-date = 2007-10-12}}</ref> One modern reference mentions the bars' existence in 19th century Nanaimo.<ref>{{cite web|url = http://www.theage.com.au/news/epicure/tried-trio/2005/08/08/1123353245725.html|title = Tried Trio| first= Matt| last= Preston| date = August 9, 2005| work = The Age |access-date = 2007-10-03}}</ref>
+
+== Popularity ==
+[[File:Nanaimo bar detail.jpg|thumb|Close-up]]
+The popularity of the bar in Nanaimo led local residents to mobilise to have it voted "Canada's Favourite Confection" in a ''[[National Post]]'' reader survey.<ref>{{cite news |url = http://www.canada.com/nationalpost/news/story.html?id=c84dc36d-ade6-4595-931b-62faf0773bb0 |title = Democracy never tasted so delicious| work= National Post |date = June 30, 2006| access-date = 2007-10-03| url-status = dead |archive-url = https://web.archive.org/web/20120213175506/http://www.canada.com/nationalpost/news/story.html?id=c84dc36d-ade6-4595-931b-62faf0773bb0|archive-date = February 13, 2012}}</ref> In 1985, Mayor Graeme Roberts initiated a contest to find the ultimate Nanaimo bar recipe. The recipe submitted by Joyce Hardcastle, a resident of Nanaimo, was unanimously selected by a panel of judges.<ref>{{cite web|url = http://www.buccaneerinn.com/nanaimo_bars.htm|title = Nanaimo Bars|publisher = The Buccaneer Inn|access-date = 2007-10-03|url-status = dead|archive-url = https://web.archive.org/web/20071017230724/http://buccaneerinn.com/nanaimo_bars.htm|archive-date = 2007-10-17}}</ref> The Nanaimo bar was popularized nationwide after being highlighted as a classic Canadian dessert at [[Expo 86]].<ref>{{cite book |last=Newman |first=Lenore |date=2017 |title=Speaking in Cod Tongues: A Canadian Culinary Journey |location=Regina |publisher=University of Regina Press |isbn= 978-0889774599}}</ref>
+
+[[File:NanaimoS1370001.jpg|thumb|right|A tray of Nanaimo bars from [[M&M Food Market]] with a few bars detached]]
+Recipes for similar desserts are found in various places, under various names, in North America and Europe. The designation "Nanaimo bar" is Canadian, and appears in the ''[[Canadian Oxford Dictionary]]'',<ref name="barber">{{cite book |title=The Canadian Oxford Dictionary |date=2004 |publisher=[[Oxford University Press]] |isbn=0-19-541816-6 |editor-last=Barber |editor-first=Katherine |edition=2 |location=Don Mills, Ontario |language=en}} {{page needed|date=November 2023}}</ref> but not in other language or dialect versions.{{cn|date=November 2023}}
+
+An episode from the first season of the competition television show ''[[MasterChef Canada]]'' features an elimination challenge where competitors made desserts inspired by Nanaimo bars, chosen among three Canadian desserts.<ref>{{cite web| url= http://www.cookingchanneltv.com/shows/masterchef-canada/100/great-canadian-bake-sale.html | title= Great Canadian Bake Sale| website= CookingChannelTV.com}}</ref>
+
+A 2016 US state dinner in honour of Canadian Prime Minister [[Justin Trudeau]] featured Nanaimo bars as the main dessert. The elaborate dinner, hosted by then-US President [[Barack Obama]] and his wife [[Michelle Obama]], consisted of a blend of American and Canadian dishes. The Nanaimo bars were presented on a plate inspired by the [[Rocky Mountains]].<ref>{{Cite news |url= https://www.cbc.ca/news/world/trudeau-obama-state-dinner-1.3481896| title= Here's what's on the menu at the White House state dinner| publisher= CBC News |first= Meagan| last= Fitzpatrick |date= March 10, 2016 |website=CBC.ca |language=en| access-date= 2019-03-26}}</ref>
+
+In April 2019, [[Canada Post]] announced the release of a booklet of [[postage stamp]]s dedicated to Canadian desserts and sweets.<ref name= "CPstamp">{{cite news |last1=Larsen |first1=Karin |title=Sweet! Nanaimo bar goes postal with announcement of new stamp |url= https://www.cbc.ca/news/canada/british-columbia/sweet-nanaimo-bar-goes-postal-with-announcement-of-new-stamp-1.5094596 |access-date=14 April 2019 |work=CBC News |publisher=CBC/Radio-Canada |date=11 April 2019}}</ref> The booklet of 10 stamps features images of the Nanaimo bar, the [[butter tart]], ''tarte au sucre'' ([[sugar pie]]), blueberry [[cobbler (food)|grunt]], and [[Saskatoon berry pie]].<ref name= "CPstamp" /> Canada Post described the stamps as "fun-shaped", and the booklet of stamps resembled a recipe card.<ref name= "CPstamp" /> The image of the Nanaimo bar on the stamp received some criticism for its ratio of the three layers.<ref>{{cite news |last1= Mooney |first1=Harrison |title=Nanaimo bar gets Canada Post stamp, but critics question base-to-filling ratio |url= https://vancouversun.com/life/food/sweet-iconic-nanaimo-bar-gets-its-own-stamp |access-date=14 April 2019 |work= Vancouver Sun |publisher= Postmedia |date=12 April 2019}}</ref>
+
+== See also ==
+{{portal|Food}}
+* [[List of desserts]]
+* [[List of Canadian inventions and discoveries]]
+* [[Canadian cuisine]]
+* [[Cremino]]
+* [[London fog (beverage)]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Commons category|Nanaimo bars}}
+{{reflist|30em}}
+
+*[https://www.nanaimo.ca/about-nanaimo/nanaimo-bars City of Nanaimo]
+
+{{Chocolate desserts}}
+
+[[Category:Canadian desserts]]
+[[Category:Cookies]]
+[[Category:Custard desserts]]
+[[Category:Chocolate desserts]]
+[[Category:Cuisine of British Columbia]]
+[[Category:Nanaimo]]
+[[Category:Pacific Northwest cuisine]]
+[[Category:National dishes]]
+[[Category:No bake cakes]]

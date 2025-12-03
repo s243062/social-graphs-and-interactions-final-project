@@ -1,0 +1,65 @@
+{{Short description|Traditional Karelian food}}
+{{Infobox food
+| name             = Karelian pasty
+| image            = Karjalanpiirakka-20060227.jpg
+| image_size       = 250px
+| caption          = A store-bought Karelian pasty
+| alternate_name   = 
+| country          = [[Karelia]]
+| region           = [[Karelia]]<br />[[Finland]]
+| creator          = 
+| course           = 
+| type             = [[Pasty]], [[pirog]]
+| served           = 
+| main_ingredient  = [[rye|rye flour]] or [[wheat flour]], [[rice]] or [[potatoes]], [[butter]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+[[Image:Karjalanpiirakat.jpg|thumb|250px|Karelian pasties made in Vaivio, [[Liperi]]]]
+
+'''Karelian pasties''',<!--it's pasties, not pastries--> '''Karelian pies''' or '''Karelian pirogs''' ({{langx|krl|kalitat}}, singular {{Lang|krl|kalitta}} {{IPA|krl|ˈkɑlʲitːɑ}}; [[Livvi-Karelian language|Livvi-Karelian]]: {{Lang|olo|šipainiekat}}, singular {{Lang|olo|šipainiekku}} {{IPA|olo|ˈʃipɑi̯ˌnʲie̯kːu}}; {{langx|fi|karjalanpiirakat}}, singular {{Lang|fi|karjalanpiirakka}} {{IPA|fi|ˈkɑrjɑlɑnˌpiːrɑkːɑ|}}<ref>{{cite book |last1=Sallinen-Gimpl |first1=Pirkko |date=2000 |title=Karjalainen keittokirja |publisher=Tammi |location=Helsinki |isbn=951-31-1540-2 |pages=59}}</ref>) are traditional [[Karelia|Karelian]] [[Pasty|pasties]] or [[pirog]]s. They are eaten throughout [[Finland]] as well as in adjacent areas such as [[Estonia]] and [[Republic of Karelia|Russian Karelia]].
+
+The oldest traditional pasties usually had a [[rye]] crust, but the [[North Karelia]]n and [[Ladoga Karelia]]n variants also contained [[wheat]] to improve the quality of the crust. The usual fillings were [[barley]] and {{Lang|fi|[[talkkuna]]}}. In the 19th century, first [[potato]], and then [[buckwheat]] were introduced as fillings, and later, boiled [[rice]] and [[millet]].
+
+Today, the most popular version has a thin rye crust with a filling of rice. Mashed potato and rice-and-carrot fillings are also commonly available. Butter, often mixed with chopped-up boiled egg ([[egg butter]] or {{Lang|fi|munavoi}}), is spread over the hot pasties before eating.
+
+Karelian pasties have had [[traditional speciality guaranteed]] (TSG) status in Europe since 2003.<ref name="DOORTSG">[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2019.434.01.0025.01.ENG&toc=OJ:C:2019:434:TOC EU Profile-Karjalanpiirakka] (accessed 06/01/2021)</ref> This means that any producer not following the traditional recipe cannot call them {{Lang|fi|karjalanpiirakka}} and instead, will have to call them {{Lang|fi|riisipiirakka}} 'rice pasties', {{Lang|fi|perunapiirakka}} 'potato pasties', etc., depending on the filling.<ref>[http://www.evira.fi/portal/fi/elintarvikkeet/valmistus+ja+myynti/pakkausmerkinnat/eu+n+nimisuojajarjestelma Food Safety Authority Evira] {{Webarchive|url=https://web.archive.org/web/20160126105812/http://www.evira.fi/portal/fi/elintarvikkeet/valmistus+ja+myynti/pakkausmerkinnat/eu+n+nimisuojajarjestelma |date=2016-01-26 }} (accessed 1/19/2016)</ref>
+
+==See also==
+{{Portal|Food}}
+{{div col}}
+* [[Finnish cuisine]]
+* [[Karelian hot pot]]
+* [[Kalakukko]]
+* [[Cornish pasty]]
+* [[List of butter dishes]]
+* [[List of pastries]]
+* [[Ruisreikäleipä]]
+* [[Bread cheese]]
+* [[Lihapiirakka]]
+* [[Mämmi]]
+
+{{div end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[[b:Cookbook:Karjalanpiirakat|Karelian pasties recipe]] at [[Wikibooks]] [[b:Cookbook|Cookbook]]
+
+{{pastries}}
+
+[[Category:Finnish cuisine]]
+[[Category:Estonian cuisine]]
+[[Category:Russian cuisine]]
+[[Category:Karelian cuisine]]
+[[Category:Traditional Speciality Guaranteed products from Finland]]
+[[Category:Rye-based dishes]]
+[[Category:Savoury pies]]
+
+
+{{pie-stub}}
+{{finland-cuisine-stub}}
+{{russia-cuisine-stub}}

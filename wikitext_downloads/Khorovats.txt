@@ -1,0 +1,54 @@
+{{Short description|Meat dish traditional in Armenia}}
+{{Infobox food
+| image = Barbecue Armenian.jpg
+| name = Khorovats
+| caption = Armenian khorovats (barbecue)
+| country = {{ARM}}
+| region = {{ARM}} and [[Armenian diaspora]]
+| national_cuisine = [[Armenian cuisine]]
+| course = [[Main course]]
+| main_ingredient = [[Meat]]
+| served = Hot
+| image_size = 280
+}}
+
+'''Khorovats''' ({{langx|hy|[[wikt:խորոված|խորոված]]}}, {{IPA|hy|χɔɾɔˈvɑt͡s|}}) is an [[Armenian cuisine|Armenian]] barbecue.{{Sfn|Albala|2011|p=4}} The meat may be marinated before grilling, but it does not have to be.{{Sfn|Albala|2011|p=4}} It can be made with lamb, pork, beef, chicken, fish, or even veal. This is generally a dish reserved for "festive occasions".<ref name="holding">{{Cite book| publisher = Bradt Travel Guides| isbn = 978-1-84162-345-0| last1 = Holding| first1 = Nicholas| last2 = Holding| first2 = Deirdre| title = Armenia: With Nagorno Karabagh| date = 2011|url=https://books.google.com/books?id=Epec69LGa0IC&pg=PA84}}</ref>
+
+==Etymology==
+The word "[[wikt:խորոված|խորոված]]" ''khorovats'' means "grilled" in Armenian and comes from the verb "խորովել" ''khorovel'' (to grill).
+
+==Description==
+Khorovats can be made with lamb, pork, beef, chicken, or less commonly veal. Some type of vegetable is usually served with the meat. A common preparation for green vegetables like [[asparagus]] or green [[bean]]s is to fry them and combine with whipped [[egg as food|eggs]], a dish which resembles scrambled eggs with vegetables. It is usually cooked in a tonir.<ref>{{cite book |last1=Holding |first1=Nicholas |title=Armenia: With Nagorno Karabagh |year=2011 |publisher=Bradt Travel Guides |isbn=9781841623450 |url=https://books.google.com/books?id=Epec69LGa0IC&pg=PA84}}</ref>
+
+A typical khorovats is made of chunks of meat grilled on a shampoor (շամփուր) or skewer, although [[steak]]s or [[meat chop|chops]] grilled without skewers may be also used.
+
+2006 book ''Armenian Food: Fact, Fiction & Folklore'' gives three tips for making good khorovats:<ref name="Armenian Food">{{cite book|last1=Petrosian|first1=Irina|last2=Underwood|first2=David|title=Armenian Food: Fact, Fiction & Folklore|year=2006|publisher=Yerkir Publishing|location=Bloomington, Indiana|isbn=978-1-4116-9865-9|page=[https://books.google.com/books?id=0oXYX9Qzx9oC&dq=Khorovats&pg=PA74 76]}}</ref>
+#The distance between the fire and the skewers should be approximately 12 to 15 centimeters (about 6 inches)
+#The largest pieces of meat should always go in the middle, where there is more heat for the fire
+#Shampoors (skewers) should be placed close together to concentrate the heat from the cooking fire
+
+In Armenia itself, khorovats is often made with the bone still in the meat (as [[lamb chop (meat)|lamb]] or [[pork chops]]).<ref name="holding"/> 
+
+Proshian Street in [[Yerevan]] is dubbed "Barbecue Street" by foreigners, because many khorovats restaurants are located on the street.<ref name="Armenian Food"/>
+
+==In popular culture==
+In his ''The Travels of Sir John Chardin in Persia and the Orient'', 17th-century French traveler [[Jean Chardin]] wrote:<ref name="Armenian Food"/>
+{{cquote|The Armenians have a way of roasting the mutton and lamb in their own skin upon the coals, as they do chestnuts. When the mutton is dressed, they put the skin again upon it and sew it up well, and then they put it on the coals and cover it: the mutton is all night adoing, and it is not over and above good when it is done.}}
+
+In a scene from the 1976 Soviet film ''[[When September Comes]]'', prominent Armenian actor [[Armen Dzhigarkhanyan]] (Levon) makes khorovats with his grandson in the balcony of his daughter's Moscow apartment. His neighbors see smoke coming out of the balcony and call the firemen, but when a fireman arrives, everything settles down and all the neighbors gather at Levon's house to enjoy the dish.<ref>{{cite web|title="Когда наступает Сентябрь" (Шашлык на балконе)|website = [[YouTube]]|url=https://www.youtube.com/watch?v=w7x8ZLKL-CY |archive-url=https://web.archive.org/web/20230307101039/https://www.youtube.com/watch?v=w7x8ZLKL-CY |url-status=dead |archive-date=March 7, 2023 |access-date=6 October 2012}}</ref>
+
+Since 2009, an annual festival of khorovats has been held in [[Akhtala]] in northern Armenia.<ref>{{cite news|title=4th Armenian Barbecue Festival to be held in Akhtala on September 8|url=http://www.panorama.am/en/society/2012/08/29/festival/|access-date=6 October 2012|date=29 August 2012|agency=Panorama.am}}{{Dead link|date=June 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In 2012, [[John A. Heffern]], the US ambassador to Armenia, was among 15,000 guests of the festival.<ref>{{cite news|last=Arzumanyan|first=Edward|title=Barbeque contest-fest held in Armenia's Lori - PHOTO and VIDEO|url=http://news.am/eng/news/120254.html|access-date=6 October 2012|date=8 September 2012|agency=News.am}}</ref>
+
+==References==
+{{reflist}}
+
+==Sources==
+* {{Cite book|last=Albala|first=Ken|url=https://books.google.com/books?id=NTo6c_PJWRgC&q=Khorovats|title=Food Cultures of the World Encyclopedia|publisher=[[ABC-CLIO]]|year=2011|isbn=9780313376269|volume=2|location=Santa Barbara, California|language=en}}
+
+{{Barbecue}}
+{{Armenian cuisine}}
+
+[[Category:Armenian cuisine]]
+[[Category:National dishes]]
+[[Category:Culture of Armenia]]
+[[Category:Meat dishes]]

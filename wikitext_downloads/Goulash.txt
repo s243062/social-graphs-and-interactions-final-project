@@ -1,0 +1,164 @@
+{{Short description|Hungarian meat and vegetable stew}}
+{{Other uses}}
+{{Use dmy dates|date=March 2024}}
+{{Infobox food
+| name            = Goulash
+| image           = Gulyas080.jpg
+| image_size      = 
+| caption         = Goulash cooking in a ''[[bogrács]]'' (traditional Hungarian cauldron)
+| alternate_name  = Gulash / Gulyás / Gulaš
+| country         = [[Hungary]]
+| region          = [[Central Europe]]<br />[[Balkans]]
+| creator         = 
+| course          = 
+| type            = Soup 
+| served          = Hot
+}}
+
+'''Goulash''' ({{langx|hu|gulyás}}) is a meal made of meat and vegetables seasoned with paprika<ref>{{cite web |title=Goulash |url=https://www.bbcgoodfood.com/search/recipes?q=goulash |website=BBC Good Food |access-date=26 December 2020}}</ref> and other spices.<ref>{{cite book |first=Karoly |last=Gundel |title=Gundel's Hungarian cookbook |publisher=Corvina |location=Budapest |year=1992 |isbn=963-13-3600-X |oclc=32227400 |page=20}}</ref> Originating in [[Hungary]], goulash is a common meal predominantly eaten in [[Central Europe]] but also in other parts of Europe. It is one of the national dishes of Hungary and a symbol of the country.<ref>Gil Marks, [https://books.google.com/books?id=ojc4Uker_V0C&pg=PA234 Encyclopedia of Jewish Food], John Wiley & Sons, 2010, p. 234</ref><ref name="away.com">{{cite web|url=http://away.com/feature/excerpt/national-geographic/top-ten-great-national-dishes-1.html?page=1|title=Orbitz Travel: Vacations, Cheap Flights, Airline Tickets & Airfares|website=away.com|access-date=14 October 2011|archive-url=https://archive.today/20130117110045/http://away.com/feature/excerpt/national-geographic/top-ten-great-national-dishes-1.html?page=1|archive-date=17 January 2013|url-status=dead}}</ref><ref>{{Cite web|date=2011-09-13|title=Top 10 National Dishes -- National Geographic|url=https://www.nationalgeographic.com/travel/top-10/national-food-dishes/|archive-url=https://web.archive.org/web/20161014060413/http://www.nationalgeographic.com/travel/top-10/national-food-dishes/|url-status=dead|archive-date=14 October 2016|access-date=2020-08-08|website=Travel|language=en}}</ref>
+
+Its origins may be traced back as far as the 10th century to stews eaten by Hungarian shepherds.<ref name="Britannica"/> At that time, the cooked and flavoured meat was sun-dried and packed into bags produced from sheep's stomachs, needing only water to make it into a meal.<ref name="Britannica">[https://books.google.com/books?id=Pf6cAAAAQBAJ&pg=PA356 Bulgaria, Hungary, Poland, Romania, the Czech Republic, and Slovakia], Britannica Educational Publishing, 2013, p. 94</ref> Earlier versions of goulash did not include [[paprika]], as it was not introduced to Europe until the 16th century.
+
+==Etymology==
+The name originates from the [[Hungarian language|Hungarian]] {{lang|hu|gulyás}} {{IPA|hu|ˈɡujaːʃ||hu-gulyás.ogg}}. The word {{lang|hu|gulya}} means 'herd of cattle' in Hungarian, and {{lang|hu|[[gulyás (herdsman)|gulyás]]}} means 'cattle herder' or 'cowboy'.<ref>William White, [https://books.google.com/books?id=7GcEAAAAYAAJ&q=Gulya Notes and queries, Volume 126], Oxford University Press, 1912</ref><ref>Judith Petres Balogh, [https://books.google.com/books?id=ne4-6gFVrmsC&pg=PA244 This Old House by the Lake], Trafford Publishing, 2006, p. 244</ref> Over time the dish became {{lang|hu|gulyáshús}} ('goulash meat') – a meat dish which was prepared by herdsmen. In medieval times, the Hungarian herdsman of [[Central Europe]] made use of every possible part of the animal, as was common practice. As meat was scarce, nearly all of the animal was often used to make the soup.
+
+Today, {{lang|hu|gulyás}} refers both to the herdsmen, and to the soup or stew. From the Middle Ages until well into the 19th century, the [[Puszta]] was the home of enormous herds of cattle. They were driven, in their tens of thousands, to Europe's biggest cattle markets in [[Moravia]], [[Vienna]], [[Nuremberg]] and Venice. The herdsmen made sure that there were always some cattle that had to be slaughtered along the way, the flesh of which provided them with {{lang|hu|gulyáshús}}.<ref>{{cite web |url=https://www.smithsonianmag.com/travel/goulash-origins-food-history-atlas-of-eating-soup-smithsonian-journeys-travel-quarterly-danube-180958690/ |title=The Humble Beginnings of Goulash |first1=Rachel|last1=Laudan|website=Smithsonian Magazine|date=April 2016 }}</ref><ref>{{cite book |author=Anikó Gergely |title=Culinaria Hungary |url=https://books.google.com/books?id=V8tPNQAACAAJ |publisher=American Map Corporation |date=15 October 2008 |page=318 |isbn=978-0-8416-0385-1 }}</ref>
+
+==In Hungarian culture ==
+
+==={{lang|hu|Gulyás}}===
+{{Main|Gulyásleves}}
+[[File:2009-09-gulasch-pörkölt-paprikas-2.jpg|thumb|Pörkölt]]
+
+In Hungarian cuisine, traditional {{lang|hu|gulyás}},<ref name="ReferenceA">Gundel's Hungarian Cookbook, Karoly Gundel.</ref> {{lang|hu|[[pörkölt]]}}, and {{lang|hu|[[paprikás]]}} are dishes which evolved from the food of the cattle herders of the Hungarian plains.
+
+In present-day [[Hungary]], gulyás is known as a soup. It is also called gulyásleves, which translates to gulyás soup, although gulyás is understood commonly as a soup without specifying. While it may have more solid parts than broth and some versions may be called by English speakers a stew, the Hungarian language makes a strict distinction between stews and gulyás. The dish called gulyás is quite conservative with very little variations through the country. The basic ingredients include beef, onions, paprika, [[Caraway|caraway seeds]], potatoes, carrots and fresh noodles added directly to the soup (csipetke). Altered versions got their own name, like babgulyás which has beans or hamisgulyás which is meatless. Bográcsgulyás means a gulyás prepared traditionally in a kettle or cauldron, called bogrács, outdoors, over open fire. It can be prepared anywhere because it needs only the [[bogrács]], an iron tripod, a chain and a campfire. Every type of gulyás is a strictly one-pot dish and considered a main course, even if it is a more soupy version. 
+ 
+Except for {{lang|hu|paprikás}}, Hungarian stews do not rely on flour or roux for thickening. Original Hungarian recipes rarely use tomatoes and only in small quantities, the deep red colors come all from the authentic Hungarian paprika spice.
+
+Modern gulyás is made from beef, while the original herdsmen had more access to mutton. Typical cuts include the [[shank (meat)|shank]], [[shin (meat)|shin]], or [[shoulder (meat)|shoulder]]; in Hungary beef from older cattle is more common, which makes tastier broth but takes a longer time to cook.  Meat is cut into chunks, seasoned with salt, and then browned with sliced onion in a pot with oil or lard. [[Paprika]] is added, along with water. After that the gulyás is left to simmer. After cooking a while, whole or ground [[caraway seed]], and soup vegetables like potato, carrot, [[parsley root]] are added. However, paprika and potatoes are post-16th century additions, while gulyás traces its origin back to the Hungarians nomadic past. At the end small egg noodles called [[csipetke]] can be added. The name {{lang|hu|csipetke}} comes from pinching small, fingernail-sized bits out of fresh dough ({{lang|hu|csipet}} being Hungarian for 'pinch') before adding them to the boiling soup. Stew-like versions of gulyás are made the same way with letting the broth simmer down. 
+
+Restaurants use altered recipes, where the extreme long cooking time is replaced with broth, and the csipetke noodles is substituted by [[nokedli]].
+
+International goulash is a dish closer to the Hungarian dish [[pörkölt]], a stew which evolved from the original gulyás. After the former herdsmen's dish became popular throughout the whole of Hungarian society, variations arose which did not strictly adhere to the techniques used for outdoor cooking. Nokedli, a Hungarian version of the traditional German noodle [[Spaetzle]], became a side dish for stews. Nokedli is made by grating liquid dough into boiling water.
+
+===Hungarian varieties===
+[[File:Goulash in a cauldron.jpg|alt=Bográcsgulyás - Goulash in a cauldron|thumb|Bográcsgulyás (Cauldron Goulash)]]
+Hungarian goulash variations include:<ref>{{Cite book |last=Gundel |first=Karoly |year=1992 |title=Gundel's Hungarian cookbook |location=Budapest |publisher=Corvina |page=21 |isbn=963-13-3600-X |oclc=32227400}}</ref>                                                                                                                                  
+* Bográcsgulyás.<ref>{{Cite web |last=Pető |first=Gyula |title=Ételkészítési ismeretek A vendéglátóipari szakközép- és szakmunkásképző iskolák számára Negyedik kiadás |url=https://maltaikeri.maltai.hu/?module=tavoktatas&subaction=download&document=260&fbclid=IwZXh0bgNhZW0CMTAAAR22Avlwk0YqO9XNKS1eNIf5vtb6xijWKQLpnXnC_LGjH8v_JqGYdgqIsyI_aem_AdNnCc7bF8QEAFNNgnU2THTtQSAeHayr2n6xfrMVkMv-NBQGbVr8VRJvcgdOlXkJTccnatYI3htI-WOMPxnuYnoB |website=Ételkészítési ismeretek A vendéglátóipari szakközép- és szakmunkásképző iskolák számára Negyedik kiadás}}</ref> {{lang|hu|Gulyásleves}} prepared in a kettle or cauldron, called bogrács.
+* ''[[Székely Gulyás]]''. Omit the potatoes and add [[sauerkraut]] and sour cream.
+* ''Gulyás Hungarian Plain Style''. Omit the homemade soup pasta (''csipetke'') and add vegetables 
+* ''Mock Gulyás''. Substitute beef bones for the meat and add vegetables. Also called ''Hamisgulyás'' (fake goulash)
+* ''Bean Gulyás''. Omit the potatoes and the caraway seeds. Use kidney beans instead.
+* ''Csángó Gulyás''. Add sauerkraut instead of pasta and potatoes.
+* ''Betyár Gulyás''. Use smoked beef or smoked pork for meat.
+* ''Likócsi Pork Gulyás''. Use pork and thin [[vermicelli]] in the goulash instead of potato and soup pasta. Flavour with lemon juice.
+* ''Mutton Gulyás'' or ''Birkagulyás''. Made with mutton. Add red wine for flavour.
+A thicker and richer goulash, similar to a stew, originally made with three kinds of meat, is called ''Székely gulyás'', named after the Hungarian writer, journalist and archivist [[József Székely]] (1825–1895).<ref name="ReferenceA" />
+
+===''Paprikás krumpli''===
+"Paprikás krumpli" is a traditional paprika-based potato stew with diced potatoes, onion, ground paprika, and some bacon or sliced spicy sausage, like the smoked [[Debrecener]], in lieu of beef.
+
+In German-speaking countries, this inexpensive peasant stew is made with sausage and known as ''Kartoffelgulasch'' ("potato goulash"). Bell pepper is sometimes added.
+
+==Outside Hungary==
+Thick stews similar to ''[[pörkölt]]'' and the original cattlemen stew are popular throughout almost all the former [[Austrian-Hungarian Empire]], from [[Northeast Italy]] to the [[Carpathians]]. Like ''pörkölt,'' these stews are generally served with boiled or mashed potato, [[polenta]], dumplings (e.g. ''[[Spätzle|nokedli]]'', or ''[[Halušky|galuska]]''), [[spätzle]] or, alternatively, as a stand-alone dish with bread. [[Romani people]] have their own version of goulash.<ref>{{cite web|url= https://www.finedininglovers.com/article/inside-culinary-traditions-roma-people|title= Inside the Culinary Traditions of the Roma people}}</ref>
+
+[[File:Fiakergulasch.jpg|thumb|''Fiakergulasch'' as served in Vienna, Austria]]
+
+===Albania===
+Goulash (Albanian: gullash) is considered a traditional dish among some Northern Albanians.<ref>[http://www.zemrashqiptare.net/news/49421/gjeke-gjonaj-ushqimet-tradicionale-te-trieshit.html Gjekë Gjonaj: Ushqimet tradicionale të Trieshit]</ref>
+
+===Austria===
+<!-- Courtesy note per [[MOS:LINK2SECT]]: [[Rupp's]] links here. -->
+In Vienna, the former center of the [[Austria-Hungary|Austro-Hungarian Empire]], a special kind of goulash has developed. The ''Wiener Saftgulasch'' or the ''Fiakergulasch'' ([[Fiacre (carriage)|Fiacre]] being a horse-drawn cab) on the menu in traditional restaurants is a rich ''pörkölt''-like stew; more onions but no tomatoes or other vegetables are used, and it usually comes just with dark bread. A variation of the ''Wiener Saftgulasch'' is the ''Fiakergulasch'', which is served with fried egg, fried sausage, pickles, and dumplings named ''[[Knödel|Semmelknödel]]''.
+
+===Bosnia and Herzegovina===
+In Bosnia and Herzegovina, goulash ({{langx|bs|gulaš}}) is a very popular and traditional dish. Introduced during the [[Austro-Hungarian Empire]], it has become a staple with the Bosnian variant consisting of a thicker consistency, with emphasis on slow-cooked onions and meat. It is typically served with bread, mashed potatoes, or [[polenta]], and regional variations may include veal, carrots, or beans.
+
+===Croatia===
+Goulash ({{langx|hr|gulaš}}) is also very popular in most parts of [[Croatia]], especially north ([[Hrvatsko Zagorje]]) and [[Lika]]. In [[Gorski Kotar]] and [[Lika]], venison or wild boar frequently replace beef (''lovački gulaš''). There is also a kind of goulash with [[Boletus edulis|porcini]] mushrooms (''gulaš od vrganja''). Bacon is an important ingredient.
+
+Gulaš is often served with [[fuži]], [[gnocchi|njoki]], [[polenta]] or pasta. It is augmented with vegetables. Green and red bell peppers and carrots are most commonly used. Sometimes one or more other kinds of meat are added, e.g., pork loin, bacon, or mutton.
+
+===Czech Republic and Slovakia===
+[[File:Szeged goulash from pork.jpg|thumb|Szeged goulash served in a Prague pub with Czech ''knedliky'']]
+[[File:Goulash i brød i Prag.jpg|thumb|Goulash [[bread bowl|served in bread]] in a restaurant in Prague]]
+In the Czech Republic and Slovakia, goulash ([[Czech language|Czech]] and [[Slovak language|Slovak]]: ''guláš'') is usually made with beef, although pork varieties exist, and served with boiled or steamed [[Knödel|bread dumplings]] (goulash with beef in Czech ''hovězí guláš s knedlíkem'', in Slovak ''hovädzí guláš s knedľou''), in Slovakia more typically with bread. In pubs it is often garnished with slices of fresh onion, and is typically accompanied by beer. Beer can be also added to the stew in the process of cooking. Seasonal varieties of goulash include venison or wild boar goulashes. Another popular variant of ''guláš'' is ''segedínský guláš'' (''Székelygulyás''), with [[sauerkraut]].
+
+In Czech and Slovak slang, the word ''guláš'' means "mishmash", typically used as ''mít v tom guláš'': to be disoriented or to lack understanding of something.
+
+===Germany===
+<!-- Courtesy note per [[MOS:LINK2SECT]]: Redirects [[Gulasch]] and [[Rindergulasch]] link here. -->
+[[File:Venison goulash with Bavarian flour dumpling.jpg|thumb|right|Venison goulash with [[Bavarian cuisine|Bavarian bread dumpling]]]]
+
+German ''Gulasch'' is either a beef (''Rindergulasch''), pork (''Schweinegulasch''), venison (''Hirschgulasch''), or wild boar (''Wildschweingulasch'')<ref>{{cite web|url=http://www.chefkoch.de/rs/s0o8/gulasch/Rezepte.html|title=Gulasch Rezepte - Chefkoch.de}}</ref> stew that may include red wine and is usually served with potatoes (in the north), white rice or spirelli noodles (mostly in canteens), and dumplings (in the south). ''Gulaschsuppe'' (goulash soup) is the same concept served as a soup, usually with pieces of white bread.[[File:Deer goulash, dumpling, leeks, 2008.jpg|thumb|Venison goulash with dumplings, leeks, and [[lingonberry]] sauce served in Berlin]]
+[[File:Berlin goulash.png|thumb|[[Tomato]]-based goulash with root vegetables, paprika, and beef. Served with beer and brown bread at an outdoor café in [[Berlin]]]]
+
+===Italy===
+Goulash in Italy is eaten in the autonomous regions of [[Friuli-Venezia Giulia]] and [[Trentino-Alto Adige/Südtirol]], that once had been part of the [[Austria-Hungary|Austro-Hungarian Empire]]. It is eaten as a regular Sunday dish. It can also, although less typically so, be found in the nearby [[Veneto]]. An interesting regional recipe comes from the [[Puster Valley|Pustertal]] (Val Pusteria, Puster Valley) in [[South Tyrol]]. It is made of beef and red wine, and seasoned with rosemary, red paprika, bay leaf, marjoram and lemon zest, served with crusty white bread or polenta. Goulash is also quite popular in the city of [[Ancona]], which is culturally quite near to eastern Europe.
+
+===Netherlands===
+In the Netherlands, goulash is usually prepared with beef. It is typically consumed as a stew, and is thus closer to [[pörkölt]].
+
+===Poland===
+[[File:Placki ziemniaczane polish potato pancake and goulash dish 2010.jpg|thumb|Polish potato pancake and spicy goulash with sheep milk cheese and sour cream]]
+In [[Poland]], goulash ({{langx|pl|gulasz}}) is eaten in most parts of the country. A variant dish exists that is similar to Hungarian [[pörkölt]]. It came to being around the 9th century. It is usually served with mashed potatoes or various forms of noodles and dumplings, such as [[Pyzy (dish)|pyzy]].
+
+===Serbia===
+In [[Serbia]], goulash ({{langx|sr|гулаш}}) is eaten in most parts of the country, especially in Vojvodina, where it was probably introduced by the [[Hungarians in Vojvodina|province's Hungarian population]]. {{Citation needed|date=August 2019}} It is a pörkölt-like stew, usually made with beef, veal or pork, but also with game meat like venison and boar. Compulsory ingredients are meat and onions, usually in 50-50% ratio, paprika, and lard or oil, other ingredients being optional: garlic, parsley, chili pepper, black pepper, cinnamon, bell peppers, carrots, tomatoes, red wine, mushrooms, bacon. Sometimes, goulash is sweetened by adding tomato paste, sugar or dark chocolate at the very end. In Serbia, goulash is most often served with macaroni or potato mash.
+
+===Slovenia===
+In [[Slovene language|Slovene]] ''partizanski golaž'', "partisan goulash", favoured by [[Slovenia]]n [[partisans (Yugoslavia)|partisans]] during the [[Second World War]], is still regularly served at mass public events. "Partisan ''golaž''" uses onion in equal proportion to meat; two or more types of meat are usually used in preparing this dish. The most widespread form of golaž in home cooking is a thick beef stew that is most commonly served with mashed potatoes. As elsewhere in the wider region, Szeged goulash, usually referred to as ''segedin'', is also a popular dish for home preparation.
+
+===United States and Canada===
+{{Main|American goulash}}
+
+North American goulash, mentioned in cookbooks since at least 1914, exists in a number of variant recipes.<ref name=Metcalf>{{cite book|last=Metcalf|first=Allan|title=The World in so Many Words|year=1999|publisher=[[Houghton Mifflin Company]]|location=Boston, MA, USA|isbn=0-395-95920-9|pages=[https://archive.org/details/worldinsomanywor00metc/page/47 47]–48|url=https://archive.org/details/worldinsomanywor00metc |url-access=registration}}</ref><ref name=Toledo>{{cite book|title=Cookbook of the Woman's Educational Club|year=1914|publisher=Woman's Educational Club of Toledo, Ohio|location=Toledo, OH, USA|url=https://books.google.com/books?id=4iwwAAAAYAAJ&pg=PA49 |page=49}}</ref> Originally a dish of seasoned beef,<ref name=Toledo/> core ingredients of American goulash now usually include elbow macaroni, cubed steak or ground beef, and tomatoes in some form, whether canned whole, as tomato sauce, tomato soup, and/or tomato paste. As a descendant, of sorts, of Hungarian goulash, it probably originated as a variation of the Hungarian {{lang|hu|bográcsgulyás}} which mixes all the ingredients together in the end. This mixture of ingredients has probably led to many variations where any mixture of meat and paprika is often called goulash.<ref name="Metcalf"/> In English, the word “goulash” has an alternative meaning of "a mixture of heterogeneous elements or hodgepodge or jumble".<ref>{{Cite web |date=2024-04-23 |title=Goulash |url=https://www.merriam-webster.com/dictionary/goulash |access-date=2024-04-23 |website=Merriam Webster Dictionary}}</ref> The dish is popular among [[American Jews]].<ref>{{cite book|last1=Marks |first1=Gil |url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT746|title=Encyclopedia of Jewish Food |date=17 November 2010 |isbn=978-0-544-18631-6 }}</ref>
+
+==See also==
+{{Portal|Hungary|Food}}
+{{Div col}}
+* [[List of Hungarian dishes]]
+* [[Goulash Communism]]
+{{Div col end}}
+
+==References==
+{{Reflist}} 
+
+===Bibliography===
+* ''Gundel's Hungarian Cookbook'', Karoly Gundel, Budapest, CORVINA. {{ISBN|963-13-3733-2}}.
+* {{Cite book |last=Pető |first=Gyula |title=Ételkészítési ismeretek A vendéglátóipari szakközép és szakmunkásképző- iskolák számára |publisher=A Munkaügyi Minisztérium megbízásából kiadja a Közgazdasági és Jogi Könyvkiadó Rt., Budapest |year=1994 |url=https://maltaikeri.maltai.hu/?module=tavoktatas&subaction=download&document=260 |edition=4th |quote=Prepared by the Ministry of Commerce under the direction of the Department of Personnel and Education © Gyula Pető, Budapest, 1988 |pages=396–397 |language=Hungarian |trans-title=Cooking skills Vocational secondary and vocational training in the restaurant industry for schools}}
+
+==External links==
+{{Commons category}}
+{{Wiktionary|goulash}}
+
+{{Authority control}}
+
+[[Category:Hungarian cuisine]]
+[[Category:Hungarian soups]]
+[[Category:Hungarian stews]]
+[[Category:Hungarian words and phrases]]
+[[Category:Austrian cuisine]]
+[[Category:Beef dishes]]
+[[Category:Bosnia and Herzegovina cuisine]]
+[[Category:Croatian stews]]
+[[Category:Czech cuisine]]
+[[Category:Dutch cuisine]]
+[[Category:German beef dishes]]
+[[Category:Italian stews]]
+[[Category:Montenegrin cuisine]]
+[[Category:National dishes]]
+[[Category:Polish stews]]
+[[Category:Pork dishes]]
+[[Category:Macedonian cuisine]]
+[[Category:Romanian cuisine]]
+[[Category:Serbian cuisine]]
+[[Category:Slovenian cuisine]]
+[[Category:Slovak soups]]
+[[Category:Ukrainian cuisine]]
+[[Category:Albanian cuisine]]
+[[Category:Wild game dishes]]
+[[Category:Romani cuisine]]
+[[Category:American stews]]

@@ -1,0 +1,277 @@
+{{short description|Type of Chinese dish}}
+{{About|Chinese varieties of stew}}
+{{Use American English|date=March 2024}}
+{{Use mdy dates|date=February 2024}}
+{{More citations needed|date=December 2012}}
+{{Infobox food
+| name               = Hotpot
+| image              = Hot Pot.jpg
+| caption            = Presentation of uncooked hot pot ingredients
+| country            = [[China]]
+| region             = [[East Asia]]
+| course             = Main dishes
+| served             = 
+| main_ingredient    = [[Meat]], [[vegetable]]s, [[Edible mushroom|mushrooms]], [[dumpling]]s, [[seafood]], [[broth]]
+| variations         = 
+| calories           = 
+| other              = 
+}}
+
+{{Infobox Chinese
+| t = 火鍋
+| s = 火锅
+| l = "fire pot"
+| p = huǒguō
+| tp = huǒ-guo
+| w = {{tone superscript|huo3-kuo1}}
+| mi = {{IPAc-cmn|h|uo|3|.|g|uo|1}}
+| bpmf = ㄏㄨㄛˇ ㄍㄨㄛ
+| poj = Hué-ko
+| lmz = Huhku ({{tone superscript|hu33ku44}})
+| altname = Cantonese name
+| t2 = 打邊爐 or 打甂爐
+| s2 = 打边炉 or 打甂炉
+| y2 = Dá-bīn-lòuh
+| j2 = daa2 bin1 lou4
+| ci2 = {{IPAc-yue|d|aa|2|-|b|in|1|-|l|ou|4}}
+}}
+
+'''Hot pot''' ({{lang-zh|c=|s=[[wikt:火锅|火锅]]|t=[[wikt:火鍋|火鍋]]|p=huǒguō|l=fire pot|first=t}}) or '''hotpot''',<ref name="Menghua2012"/><!-- this citation only demonstrates a usage example of the word "hotpot", so should be placed inside the comma --> also known as '''steamboat''',<ref>Usage example of the word "steamboat": {{Cite web |url=https://www.sfa.gov.sg/docs/default-source/our-services/guidelines-for-safer-steamboat-meals_070319.pdf |title=Guidelines for Safer Steamboat Meals |date=2019-05-31 |access-date=2024-05-14 |website=Safe Food Practices & Guidelines |archive-url=https://web.archive.org/web/20220728114124/https://www.sfa.gov.sg/docs/default-source/our-services/guidelines-for-safer-steamboat-meals_070319.pdf |archive-date=2022-07-28 |url-status=live |publisher=[[Singapore Food Agency]]}}</ref> is a [[dish (food)|dish]] of [[soup]]/[[stock (food)|stock]] kept [[simmering]] in a [[cooking pot|pot]] by a heat source on the table, accompanied by an array of raw [[meat]]s, [[vegetable]]s and [[list of soy-based foods|soy-based foods]] which diners quickly cook by dipping in broth.<ref>{{Cite journal |last1=Song |first1=Cen |last2=Zheng |first2=Li |last3=Shan |first3=Xiaojun (Gene) |date=2022-11-03 |title=An analysis of public opinions regarding Internet-famous food: a 2016–2019 case study on Dianping |url=https://www.emerald.com/insight/content/doi/10.1108/BFJ-05-2021-0510/full/html |journal=British Food Journal |language=en |volume=124 |issue=12 |pages=4462–4476 |doi=10.1108/BFJ-05-2021-0510 |s2cid=246552798 |issn=0007-070X|url-access=subscription }}</ref>
+
+==Description==
+[[File:Huo guo soup.jpg|thumb|Hot pot with two flavors]]
+[[File:Huoguo cooking in pot.jpg|thumb|Hot pot from [[Yunnan]], China]]
+
+Hot pot is a flavorful broth traditionally served inside a large metal pot. There are many types of hot pot, like Chongqing hot pot, Beijing hot pot, Yunnan hot pot, and so on.<ref>{{Cite web |last=Koetse |first=Manya |date=2018-11-25 |title=THE 8 HOTPOT STYLES TO KNOW |url=https://hotpotambassador.com/hotpotambassador/the-8-hot-pot-styles-to-know/ |access-date=2024-12-07 |website=Hotpot Ambassador |language=en-US}}</ref> The broth is brought to a boil and left simmering for the duration of the meal. Raw ingredients, such as meat and vegetables, are placed into the simmering broth and thus cooked. The cooked pieces are dipped into [[dipping sauce]]s for additional flavor. Hot pot is considered a [[main course]] and is usually served without rice or noodles on the side. Hot pots can be prepared and eaten at home or in a restaurant.
+
+Typical hot pot ingredients include thinly sliced [[meat]], [[leaf vegetable]]s, [[Edible mushroom|mushrooms]], [[vermicelli]], sliced [[potato]]es, bean products, egg [[dumpling]]s, [[tofu]], and [[seafood]]. Raw ingredients are sliced into thin sections that will cook quickly and consistently in the simmering broth, which is kept at a gentle boiling temperature. Most raw foods can be cooked in a hot pot, although they may have different cooking times, and must be immersed in the soup and then removed accordingly.
+
+== History ==
+
+The [[Ding (vessel)|tripods]] of [[Zhou dynasty]] may be the earliest prototypes of the hot pot. Diners among the nobility each had a personal pot made of bronze, called ''ran lu'' 燃爐. The main part of ''ran lu'' was a small stove with a small pot above burning charcoal. Later, a hot pot made with copper was created during the [[Three Kingdoms|Three Kingdoms period]] (200–280&nbsp;AD), which is generally acknowledged as the origin of the hot pot. During the [[Qing dynasty]], hot pot became popular among the emperors. In particular, the [[Qianlong Emperor]] was very fond of hot pot and would eat it for almost every meal. Later, the [[Jiaqing Emperor]] had a banquet with 1,550 hot pots at his coronation.<ref>{{Cite journal |last1=Zhang |first1=Zhihe |last2=Tan |first2=Yiran |last3=Wen |first3=Zi |date=2023 |title=吃火锅，古人是认真的 |trans-title=Eating hot pot, the ancients were serious. |url=https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2024&filename=QBWG202312012&uniplatform=OVERSEA&v=RDrWlXFt6TuV-RHvFBm_bqMO-bgYMz_msVIOLPJX-_5gQjj4dJi8WpvBVmxBK1oS |journal=奇妙博物馆 |via=CNKI}}</ref> [[Empress Dowager Cixi]] was also known to have enjoyed hot pot, especially during the winter season.{{cn|date=July 2025}}
+
+Since the 1990s, as the number of Chinese expatriates entering the United States has grown significantly, the popularity of [[American Chinese cuisine|Chinese food has also risen in the U.S.]] and hot pot has become globally recognized.<ref>{{Cite journal |last=McDougall |first=James I. |date=2021-01-02 |title=Globalization of Sichuan hot pot in the 'new era'|url=https://www.tandfonline.com/doi/full/10.1080/1683478X.2020.1779970 |journal=Asian Anthropology |language=en |volume=20 |issue=1 |pages=77–92 |doi=10.1080/1683478X.2020.1779970 |s2cid=225684185 |issn=1683-478X|url-access=subscription }}</ref>
+
+==Common ingredients==
+{{Columns-list|colwidth=20em|
+* Basic stock is often made using:
+** [[Water]]
+** [[Edible salt|Salt]]
+** [[Spices]]
+* Meats and protein vary, and can include:
+** Thinly sliced [[Lamb and mutton|lamb]], [[Goat meat|goat]], [[beef]], sometimes [[pork]], [[Chicken as food|chicken]], or other poultry
+** Whole or sliced [[Fish as food|fish]]
+** [[Shrimp and prawn as food|Shrimp]]
+** [[Clam]]s and other [[bivalve]]s
+** [[Beef ball]]s
+** [[Fish ball]]s
+** Shrimp balls and paste
+** [[Offal]], especially beef tripe
+** [[Blood sausage#Manchuria and China|Blood sausage]]
+** [[Crab meat|Crab]]
+** [[Lobster meat|Lobster]]
+** [[Crayfish as food|Crayfish]]
+** [[Squid as food|Squid]] and other [[inkfish]]
+** [[Sea cucumber as food|Sea cucumber]]
+** [[Tofu]], [[tofu skin]], [[fu zhu]], Japanese-style fish tofu, frozen tofu or fried tofu
+** Egg dumplings (蛋餃)
+** [[Fish cakes]]
+** [[Mantis shrimp]]
+** [[Quail eggs]]
+** [[Chicken feet]]
+** [[Ribs]]
+*Starches include:
+** [[Glass noodles]]
+** [[Chinese noodles]]
+** [[Udon]]
+** [[Niangao]]
+* Vegetables such as:
+** [[Chinese cabbage|Bok choy]]
+** [[Napa cabbage]]
+** [[Crown daisy]]
+** [[Spinach]]
+** [[Lettuce]]
+** [[Carrots]]
+** [[Winter melon]]
+** [[Bean sprout]]s
+** [[Daikon]]
+** [[Potatoes]] and [[sweet potato]]es
+** Varieties of [[Edible mushroom|mushrooms]], such as [[Volvariella volvacea|straw mushrooms]], [[enoki]] (金針菇), [[shiitake]] (香菇), and oyster mushrooms
+** [[Taro]]
+** [[Pumpkin]]
+** [[Watercress]]
+** [[Saccharina japonica|Haidai (seaweed)]]
+** [[Cilantro]]
+* Condiments:
+** [[Tahini|Sesame butter]]
+** [[Hoisin sauce]]
+** [[Soy sauce]]
+** [[Vinegar]] (white or black)
+** [[Cilantro]]
+** Minced [[garlic]]
+** [[Scallion]]
+** [[Sesame oil]]
+** [[Shacha sauce]]
+** [[Chili oil]]
+** Chive flower paste (韭菜花醬)
+** [[Fermented bean curd]] (腐乳)
+** [[White pepper]]
+** [[XO sauce]]
+** [[Douchi]]
+** Minced [[ginger]]
+** Chopped [[peanut]]
+}}
+
+==Regional variations==
+===East Asia===
+==== China ====
+[[File:Chengdu double hotpot.jpg|thumb|A Sichuan-style double hot pot with sour ''[[suan cai]]'' and spicy [[Mala (seasoning)|''mala'']] broths]]
+[[File:Instant-boiled mutton hot pot at Yangfang Shengli (20200111153612).jpg|thumb|[[Instant-boiled mutton]] in Beijing]]
+
+Chinese hot pots are often divided into "Southern style" and "Northern style", paralleling the [[Northern and Southern China|northern and southern Chinese cultural divide]]. Although there are wide regional variations, in general, Southern styles tend to have spicy broths and complex dipping sauces, and are heavier on [[seafood]], vegetables and [[Edible mushrooms|mushrooms]], while Northern styles are simpler and focus more on meat, particularly [[mutton]].<ref>{{Cite web |date=2018-09-15 |title=How hotpot's history boiled over into a national controversy |url=https://www.scmp.com/news/china/society/article/2164254/what-chinese-hotpot-and-where-does-it-come-questions-boiled-over |access-date=2024-03-24 |website=South China Morning Post |language=en}}</ref>
+
+According to research, 67 different spices and condiments are commonly used in traditional Chinese hotpot, involving 82 plant species of 50 genera in 26 families.<ref name="Menghua2012">{{Cite journal |last1=Wu |first1=Menghua |last2=Guo |first2=Ping |last3=Tsui |first3=Sze Wai |last4=Chen |first4=Hubiao |last5=Zhao |first5=Zhongzhen |date=2012 |title=An ethnobotanical survey of medicinal spices used in Chinese hotpot |url=https://linkinghub.elsevier.com/retrieve/pii/S0963996912001111 |journal=Food Research International |language=en |volume=48 |issue=1 |pages=226–232 |doi=10.1016/j.foodres.2012.03.010|url-access=subscription }}</ref>
+
+Modern eateries offer a partitioned pot with differently flavored broths in each section. More traditional or older establishments often serve a fragrant, mild broth in a large brass vessel heated by burning coals in a central chimney. The broth is simmered in a deep, donut-shaped bowl surrounding the chimney.{{cn|date=July 2025}}
+
+===== Northern styles =====
+[[Instant-boiled mutton]] ({{zh|t=涮羊肉|p=Shuàn Yángròu}}) could be viewed as representative of "northern style hot pot", which focus on the main ingredients rather than the soup base. Water is used as the main ingredient of the hotpot instead of the flavored broth.
+
+The [[Manchu cuisine|Manchu]] hot pot ({{zh|t=東北酸菜火鍋}}) uses plenty of ''[[suan cai]]'' (Chinese cabbage pickle) ({{zh|t=酸菜|p=suān cài}}) to make the broth sour.
+
+In [[Hubei cuisine]], hot pot is normally prepared with hot spices and [[Sichuan pepper]]. Items supplied to be cooked in this broth include mushrooms, thinly shaved beef or lamb, lettuce, and various other green vegetables.
+
+===== Southern styles =====
+One of the most famous Southern variations is the [[Chongqing hot pot]] (Chinese:重慶火鍋), which uses [[Mala (seasoning)|''mala'' seasoning]] flavored with [[Chili pepper|chili]] and [[Sichuan pepper]] for a spicy and numbing flavor. Chongqing hotpots often feature a wide variety of different meats and ingredients, and offer many [[sauce]]s and [[condiment]]s to flavor the meat. The typical dipping sauce contains [[sesame oil]] and is mixed with crushed fresh garlic and chopped spring onions.<ref>{{Cite web |url=http://en.cnki.com.cn/Article_en/CJFDTotal-YSLL201303018.htm |title=Significant Visual Symbols Design, Logo Design Study of Chong Qing Hot Pot Brand |access-date=2019-11-24 |archive-date=2023-02-24 |archive-url=https://web.archive.org/web/20230224021502/http://en.cnki.com.cn/Article_en/CJFDTotal-YSLL201303018.htm |url-status=dead }}</ref>{{Full citation needed|date=March 2024}}
+
+[[Sichuan]] also has a number of "dry" hot pots such as [[Mala xiangguo|mala xiangguo (Chinese: 麻辣香鍋)]], which are similar to ''mala'' hot pot in ingredients and seasoning, but [[Stir-frying|stir-fried]] instead of being cooked in broth.<ref>{{Cite web |title=The farm boy who became owner of one of Singapore's largest mala xiang guo chains |url=https://www.channelnewsasia.com/cnainsider/farm-boy-yang-jian-singapore-mala-xiang-guo-hotpot-you-ma-you-la-879656 |access-date=2024-03-24 |website=CNA |language=en}}</ref>
+
+In [[Yunnan]], there is another predominant type of hot pot made with various mushrooms, wild or farmed. It is called the wild mushroom hot pot ({{zh|t=野生菌火鍋}}). Due to the vast forests and abundant natural resources in [[Yunnan]], people can find a wide variety of edible mushrooms. The easily accessible and fresh mushroom resources lead to the high popularity of the wild mushroom hot pot. The big difference between the mushroom hot pot and the spicy hot pot is that the former omits strong spice and chili, and the latter preserves the original flavor of the mushrooms. The mushroom hot pot is also seasonal, depending on the availability of local mushrooms.
+
+A [[Cantonese cuisine|Cantonese]] variation includes mixing a raw egg with the condiments to reduce the amount of "heat" absorbed by the food, thereby reducing the likelihood of a sore throat after the steamboat meal, according to [[Chinese herbology|Chinese herbalist theories]].
+
+In [[Hainan cuisine]], hot pot is generally served in small [[wok]]s with a prepared broth containing pieces of meat. At the time of serving, the meat is not fully cooked, and approximately fifteen minutes are required before it is ready to eat. Items supplied to be cooked in this type of hot pot include mushrooms, thinly shaved beef or [[goat meat]], lettuce, and other green vegetables. This dish varies somewhat in different parts of the province. [[Coconut milk]] and juice is commonly added into the hot pot.
+
+In [[Jiangsu cuisine|Jiangsu]] and [[Zhejiang cuisine]], [[chrysanthemum]] flowers are cooked in the broth to give it a floral essence.
+
+====Japan====
+{{main|Nabemono}}
+
+In Japan, hot pots are known as [[nabemono]]. There are many variations, including [[sukiyaki]], [[yosenabe]], [[shabu-shabu]], [[oden]], and [[chankonabe]].
+
+The Chinese-style hot pot is transliterated as {{Nihongo|hinabe|火鍋|hinabe}}.<ref>{{cite web|url=https://www.japantimes.co.jp/life/2014/10/21/food/self-cooked-hot-pot-veggies-fall-dream/ |title=Self-cooked hot pot is a veggie's fall dream |website=The Japan Times |date=21 October 2014 |first=Ananda |last=Jacobs }}</ref>
+
+==== Korea ====
+In Korea, [[jeongol]] and [[jjigae]] can be compared to hot pot. There are many variations, including [[budae-jjigae]] and [[kimchi-jjigae]].
+
+The Chinese-style hot pot is transliterated as hwogwo (火鍋, 훠궈).
+
+==== Taiwan ====
+In [[Taiwanese cuisine]], it is very common to eat hotpot food with a dipping sauce consisting of [[shacha sauce]] and raw egg yolk with stir-fried beef(沙茶牛肉爐). One of the most authentic hotpot restaurants that locals widely praise is a hotpot restaurant called "Xiao Haozhou's sha-cha beef hot pot." This restaurant was founded in 1949 by a man named Musheng Chen. The popularity of this hot pot restaurant and its unique secret recipe of sha-cha sauce has become one of the iconic sha-cha sauce brands in Taiwanese cuisine nowadays.<ref>{{Cite journal |last=Tseng |first=Lin-Yi |date=2018-09-03 |title=An accidental journey: sha-cha sauce and beef consumption in Tainan since 1949 |url=https://www.emerald.com/insight/content/doi/10.1108/STICS-04-2018-0008/full/html |journal=Social Transformations in Chinese Societies |language=en |volume=14 |issue=2 |pages=107–116 |doi=10.1108/STICS-04-2018-0008 |s2cid=81910262 |issn=1871-2673|url-access=subscription }}</ref> Initially, this hotpot is only assorted with a light broth and dip with sha-cha sauce. Influenced by Japanese cuisine, shacha sauce is now commonly served with raw egg yolk.<ref name=":0">{{Cite conference |last1=Chen |first1=Yu-Chen |last2=Fong |first2=Ya-San |last3=Li |first3=Yi-He |last4=Ma |first4=Min-Yuan |date=2010 |title=Research of Taiwanese chili hot pot culture – Attractiveness and consumers |url=https://www.keer.org/keer2010/Papers/1790.pdf |page=2 |conference=International conference on ''kansei'' engineering and emotion research 2010 |conference-url=https://www.keer.org/keer2010/index3f6e.html#4G |id=272 |archive-url=https://web.archive.org/web/20230103051714/https://www.keer.org/keer2010/Papers/1790.pdf |archive-date=2023-01-03 | url-status=live}}</ref>
+
+The Taiwanese also developed their own homegrown culinary sensibilities with a style of chili hotpot originated from the Szechuan chili hotpot style. In the Taiwanese style of chili hotpot, people who barely tolerate spicy favor are included. Rather than using animal offal as the main ingredient, the Taiwanese style of chili hotpot uses seafood and beef as their main ingredient due to Taiwan's location near the sea.<ref name=":0" />
+
+In Taiwan, people usually have a hotpot meal during the Lunar New Year's Eve. Different from the usual days of cooking hotpots with whatever ingredients they like, the Taiwanese follow the principles of the [[Wuhsing|five elements]] when cooking the Lunar year Taiwan hotpot. They believe that by following the current principle of these five elements, then the food they eat can gain a "mutual generation sequence" (xiangsheng 相生) that is beneficial to the ones that eat them. In Taiwanese hotpot, these five elements are represented with the food in five colors: white, black, yellow, red, and green. Therefore, the five indispensable foods are
+
+* [[Turnip cake|stew turnip]], which represents white;
+* mushroom, which represents black;
+* burdock or pumpkin, which represents yellow;
+* carrot or tomato, which represents red and reddish leaves, which represent green.
+
+Moreover, locals believe that the more colors of ingredients in a hotpot, the more different nutrients they will gain from eating it. The reason why it is so crucial for Taiwanese people to consume hot pot during the [[Lunar calendar|lunar year]] is that hot pot not only represents rich nutrition and blessings for family health, but it also represents family reunion and harmony.<ref>{{Citation |title=Cantonese Cuisine (Yue-cai) in Taiwan and Taiwanese Cuisine (Tai-cai) in Hong Kong |date=2012-11-12 |url=http://dx.doi.org/10.4324/9780203060346-16 |work=Globalization of Chinese Food |pages=106–119 |publisher=Routledge |doi=10.4324/9780203060346-16 |doi-broken-date=July 12, 2025 |isbn=9780203060346 |access-date=2022-10-25|url-access=subscription }}</ref>
+
+===Southeast Asia===
+====Cambodia====
+In [[Cambodian cuisine]], hot pot is called ''yao hon'' ({{lang|km|យ៉ាវហន}}) or ''chhnang pleurng'' ({{lang|km|ឆ្នាំងភ្លើង}}, {{literal translation|pot fire}}). It is usually eaten during celebrations or family gatherings. Just like the Chinese version, Cambodian hot pot consists of similar ingredients although the dish differs in that [[coconut milk]] is used as the base of the soup. Another variation of the dish is called "buttered yao hon" or "buttered chhnang pleurng"; the same ingredients are used but are instead cooked on a flat grill pan where butter is used as the base (this is similar to [[Korean barbecue]]). An herb sauce is usually added to "buttered yao hon", since the ingredients are not flavored by immersion in a broth.<ref>{{cite web|last1=Srey|first1=Kim|title=Mami-Eggroll: "Yow Hon" for Two|url=http://www.mami-eggroll.com/2013/01/yow-hon-for-two.html|website=mami-eggroll.com}}</ref>
+
+====Laos====
+In [[Lao cuisine]], hot pot is called ''sin jum'' (ຊີ້ນຈຸ່ມ), which means dipped meat, although seafood is also a popular option. ''Sin jum'' is generally a leisurely meal enjoyed among family members at home, or among colleagues and friends in restaurants in cities across Laos. Usually, Lao style hot pots use the brown clay pots that are immediately evident in restaurants or stalls that serve the dish along the side of the streets. The broth is prepared from beef ribs, pork bones, or chicken combined with galangal, lemongrass, white onions, and cilantro roots, and sometimes with coconut water. Ingredients include a variety of fresh vegetables, such as water spinach, watercress, bokchoi, napa cabbage, mushrooms, glass vermicelli noodles. Thinly sliced marinated pork, beef, or chicken meat, seafood or eggs are protein source options. The condiments for a Lao hot pot normally include crushed chili and minced raw garlic, lime wedges, cilantro leaves and fish sauce. In the capital [[Vientiane]], there are also numerous restaurants serving Japanese shabu-shabu and Korean and regional Chinese hot pots.<ref>{{cite web|publication-date=22 August 2013 |title=Street-Side Hot Pot Dining in Laos
+ |url=https://gobackpacking.com/street-side-hot-pot-laos |website=Go Backpacking|access-date=15 September 2023}}</ref><ref>{{cite web|publication-date=26 February 2023 |title=Got Hot Pot? Vientiane's Local Dining Spots that won't Cost a Lot|url=https://laotiantimes.com/2023/02/26/got-hot-pot-vientianes-local-dining-spots-that-wont-cost-a-lot/|website=The Laotian Times|access-date=15 September 2023}}</ref>
+
+====Philippines====
+In [[Philippine cuisine]], hotpot is commonly served by Chinese specialty restaurants, and in some all-you-can-eat [[buffet]]s. The terms ''shabu-shabu'' and "hotpot" are also used interchangeably for this style of food preparation.<ref>{{Cite web | url=https://lifestyle.inquirer.net/207578/make-you-own-sauces-for-your-hot-pot-indulgence/ |title = Make your own sauces for your hot pot indulgence|date = 2015-09-23}}</ref> In [[Cebu City]], a specialty restaurant offers a "hot pot" that is literally a huge ceramic pot filled with cooked rice, choice of [[beef]], [[pork]], or [[Chicken as food|chicken]] slices, special sauce, and choice vegetables such as [[broccoli]], [[carrot]], [[shallot]], [[ginger]], [[pechay]], [[Kangkong|kangkong leaves]], spices, and some slices of [[hard-boiled eggs]] on top; it is more similar to ''[[kamameshi]]'' than the namesake.{{citation needed|date=April 2020}}
+
+====Thailand====
+[[File:Thai suki, Thai hot pot preparation, Dining in Bangkok, Thailand.jpg|thumb|Thai suki, Thai hot pot preparation]]
+In [[Thai cuisine]], hotpot is called ''[[Thai suki]]'', although it is quite different from the Japanese ''shabu-shabu'' variation called ''[[sukiyaki]]''. Originally a Chinese-style hot pot, the number of ingredients to choose from was greatly increased and a Thai-style dipping sauce with [[Hot sauce|chili sauce]], chili, [[Lime (fruit)|lime]], and [[cilantro]] leaves was added. Another variation is ''[[mu kratha]]'', the Thai hot pot which originated from Korean barbecue combined with ''Thai suki''. In the Northeast region, a similar style of cooking called [[chim chum]] where thinly sliced meat is cooked in clay pots on charcoal stove is also popular. [[Tom yum]] is a common soup base for Thai hot pot.
+
+====Vietnam====
+[[File:Vietnam, Noodle soup set, Chinese style.jpg|thumb|Soup set in Vietnam, hot pot style]]
+In [[Vietnamese cuisine]], a hot pot is called ''lẩu''. There are many styles of lẩu ranging from seafood ''lẩu hải sản'', [[canh chua]] soup-base (''lẩu canh chua'') or salted fish hot pot (''lẩu mắm'').
+
+===Europe===
+====Switzerland====
+{{see also|List of fondues}}
+In [[Swiss cuisine]], a variation of the traditional Chinese hot pot locally called ''fondue chinoise'' (lit. "Chinese fondue") is a popular Christmas meal. Various types of meat, fish and vegetables are boiled in a shared pot of broth. Various sauces and pickled condiments are provided on the side. After all the diners have finished cooking, they eat the now-well-flavored broth often combined with thin noodles.<ref>{{Cite web|url=https://www.blick.ch/news/fleischfondue-richtig-geniessen-so-isst-man-richtig-das-fleischfondue-id7763914.html|title=Fleischfondue richtig genießen : so isst man richtig das Fleischfondue|website=[[Blick]]|date=22 December 2017}}</ref>
+
+==== Portable stoves ====
+In many regions outside of Asia, hot pot is commonly enjoyed at home or in restaurants using small portable stoves placed at the dining table. These can include butane gas stoves, induction hobs, or electric hot plates, which provide a stable simmer throughout the meal and are convenient for both indoor and outdoor dining.<ref>{{cite web |date=15 November 2021 |title=What to Know About Portable Induction Cooktops |url=https://www.consumerreports.org/appliances/cooktops/best-portable-induction-cooktops-a3092408367/ |access-date=12 September 2025 |publisher=Consumer Reports}}</ref> Portable induction cookers in particular have gained popularity for hot pot, as they are energy-efficient, easy to clean, and safer to use in enclosed spaces compared to open-flame stoves.
+
+== Similar dishes ==
+[[File:Bawang Hot Pot.jpg|thumb|A hot pot restaurant in [[Johor]], [[Malaysia]]]]
+* [[Instant-boiled mutton]]
+* ''[[Jeongol]]'' - Korea
+** ''[[Sinseollo]]''
+* ''[[Nabemono]]'' - Japan
+** ''[[Shabu-shabu]]''
+** ''[[Sukiyaki]]''
+** ''[[Oden]]''
+** ''[[Chankonabe]]''
+*''Yao hon'' (យ៉ាវហន) or ''chhnang pleurng'' (ឆ្នាំងភ្លើង) - Cambodia
+**Buttered ''chhnang pleurng''
+* ''[[Thai suki]]''
+* ''[[Mu kratha]]'' – also called "Thai hot pot" or ''mookata''
+* [[Clay pot cooking]] – referred to as "hot pot" or "hotpot" on Chinese restaurant menus in English-speaking regions
+* [[Lancashire hotpot]] – a dish referred to as "hot pot" (or "hotpot") in [[UK|Britain]]
+* [[Stew]] – may include similar ingredients but is not necessarily cooked the same way
+* ''[[Yong tau foo]]''
+* [[Fondue#Other fondues|''Fondue bourguignonne'' and ''fondue chinoise'']]
+
+==See also==
+{{Portal|Food|China}}
+* [[Buffet]]
+* [[Fondue]]
+* [[List of Chinese dishes]]
+* [[List of stews]]
+* [[Perpetual stew]]
+* [[Slow cooker]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |last1=Klein |first1=E.F. |last2=Graves |first2=S.A. |title='Hot Pot' Tracheitis |journal=Chest |date=February 1974 |volume=65 |issue=2 |pages=225–226 |doi=10.1378/chest.65.2.225 |pmid=4521026 }}
+*{{cite journal |last1=Guo |first1=Qiaozhen |last2=Zhang |first2=Jing |last3=Zhao |first3=Shan |last4=Shao |first4=Bing |title=Determination of Five Alkaloids of Pericarpium Papaveris in Hot Pot Broth Using Ultra-Performance Liquid Chromatography Coupled to Triple Quadruple Mass Spectrometry |journal=Food Analytical Methods |date=26 July 2012 |volume=6 |issue=2 |pages=698–704 |doi=10.1007/s12161-012-9479-2 |s2cid=98483241 }}
+*{{cite journal |last1=Newman |first1=Jacqueline M. |title=China's Dongbei Cuisine |journal=Gastronomica |date=May 2009 |volume=9 |issue=2 |pages=82–86 |doi=10.1525/gfc.2009.9.2.82 }}
+*{{cite journal |last1=Oum |first1=Young Rae |title=Authenticity and representation: cuisines and identities in Korean-American diaspora |journal=Postcolonial Studies |date=23 January 2007 |volume=8 |issue=1 |pages=109–125 |doi=10.1080/13688790500134380 |s2cid=145365993 }}
+*{{cite book |last1=Slack |first1=Susan Fuller |chapter=Chinese Hot Pots |pages=71–88 |chapter-url={{Google books|nTCRVRHQjSoC|page=71|plainurl=yes}} |title=Fondues and Hot Pots |date=2001 |publisher=Penguin |isbn=978-1-55788-369-8 }}
+*{{cite book |last1=Kimoto-Kahn |first1=Amy |chapter=Anatomy of a Hot Pot |pages=19–23 |chapter-url={{Google books|XTSCDwAAQBAJ|page=19|plainurl=yes}} |title=Simply Hot Pots: A Complete Course in Japanese Nabemono and Other Asian One-Pot Meals |date=2019 |publisher=Race Point Publishing |isbn=978-1-63106-567-5 }}
+*{{cite book |last1=Pickowicz |first1=Natasha |title=Everyone Hot Pot: Creating the Ultimate Meal for Gathering and Feasting |date=2026 |publisher=Artisan Books |isbn= 978-1-64829-380-1 }}
+
+==External links==
+{{Commons category-inline}}
+*A blog related to Chinese [https://www.gadventures.com/blog/chinese-hot-pot-history-and-how-/ Hot pot] at G Adventures
+*An article related to [[wikihow:Make-a-Chinese-Hot-Pot|Hot pot]] at [[WikiHow]]
+
+{{Beijing cuisine}}
+{{Cantonese cuisine}}
+{{Inner Mongolia topics}}
+{{Yunnan cuisine}}
+{{Taiwanese cuisine}}
+
+[[Category:Hot pot| ]]
+[[Category:Beijing cuisine]]
+[[Category:Cantonese cuisine]]
+[[Category:Chinese inventions]]
+[[Category:Chinese soups and stews]]
+[[Category:Chongqing cuisine]]
+[[Category:Communal eating]]
+[[Category:Hong Kong cuisine]]
+[[Category:Japanese soups and stews]]
+[[Category:Jin dynasty (1115–1234)]]
+[[Category:Korean soups and stews]]
+[[Category:Manchu cuisine]]
+[[Category:Sichuan cuisine]]
+[[Category:Table-cooked dishes]]
+[[Category:Taiwanese soups and stews]]
+[[Category:Yunnan cuisine]]

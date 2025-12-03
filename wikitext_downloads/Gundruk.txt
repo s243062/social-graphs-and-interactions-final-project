@@ -1,0 +1,52 @@
+{{Short description|Nepali fermented vegetable dish}}
+{{More citations needed|date=February 2025}}
+{{Use dmy dates|date=February 2025}}
+{{Infobox prepared food
+| name            = Gundruk
+| image           = Gundruk NP.jpg
+| caption         = Gundruk left out in the sun to dry
+| alternate_name  =
+| country         = {{flag|Nepal}}
+| region          = {{hlist|[[Nepal]]|[[Sikkim]]|[[Darjeeling]]|[[Kalimpong]]}}
+| creator         =
+| course          =
+| served          =
+| main_ingredient = Leafy parts of radish, cauliflower; root of radish
+| variations      =
+| calories        =
+| other           =
+}}
+[[File:Gundruk Achar 02.jpg|thumb|Gundruk achar]]
+
+'''''Gundruk''''' ({{langx|ne|[[wikt:गुन्द्रुक|गुन्द्रुक]]}} {{IPA|ne|ɡund̪ruk|pron|Gundruk.ogg}}) is a dish made of [[Fermentation (food)|fermented]] leafy green vegetables (''saag''; {{langx|ne|[[wikt:साग|साग]]}}), originating in [[Nepal]]. It is also popular in [[Sikkim]] and other regions of India, as well as in [[Bhutan]] and [[Myanmar]].<ref>{{cite web|url=http://www.bicnehu.ac.in/Fermented_Food_Final/Gundruk.htm |title=Gundruk |publisher=Bicnehu.ac.in |access-date=12 September 2010 |archive-url=https://web.archive.org/web/20120309034506/http://www.bicnehu.ac.in/Fermented_Food_Final/Gundruk.htm |archive-date=9 March 2012 |url-status=dead}}</ref> Annual production of gundruk in Nepal is estimated at 2,000 tons, most of it at the household level.<ref name="Battcock">{{Cite book  | last1 = Battcock | first1 = Mike | last2 = Azam-Ali | first2 = Sue | title = Fermented fruits and vegetables: A global perspective | year = 1998 | publisher = Food and Agriculture Organization of the United Nations | location = Rome | isbn = 92-5-104226-8 | page = 66 }}</ref>
+
+Gundruk is served as a side dish or as an appetizer. It is an important source of [[Dietary mineral|minerals]], particularly during the off-season, when local diets mostly consist of [[starch]]y [[tuber]]s and [[maize]], which tend to be low in minerals.<ref name="Battcock" />
+
+==Preparation==
+{{More citations needed|section|date=February 2025}}
+
+In the months of October and November, during the [[harvest]] of the first broad [[Mustard plant|mustard]], [[radish]], and [[cauliflower]] leaves, large quantities of leaves accumulate—much more than can be consumed fresh.<ref name="Battcock" /> These leaves are allowed to wilt for one or two days before being shredded with a knife or [[sickle]].<ref name="Battcock" />
+
+In addition to the leaves, the roots of radishes can also be added. The shredded leaves are tightly packed in an [[earthenware]] container, and warm water (at about 30&nbsp;°C) is added, entirely submerging the contents.<ref name="Battcock" /> The pot is then kept in a warm place.<ref name="Battcock" /> After a week, a mild [[Sourness|acidic taste]] indicates the end of fermentation, and the contents are removed and dried in the sun.<ref name="Battcock" /> This process is similar to the production of [[sauerkraut]] or [[kimchi]], except that no salt is added to the shredded leaves before the start of fermentation.<ref name="Battcock" />
+
+The ambient temperature at the time of fermentation is about 18&nbsp;°C. ''[[Pediococcus]]'' and ''[[Lactobacillus]]'' species are the predominant [[microorganism]]s active during gundruk fermentation.<ref name="Battcock" /><ref>{{Cite web |last=Nepal |first=The Wonder |date=5 October 2024 |title=Gundruk and Sinki: The Art of Fermenting Vegetables in Nepal |url=https://thewondernepal.com/articles/gundruk-and-sinki-the-art-of-fermenting-vegetables-in-nepal/ |website=The Wonder Nepal}}</ref> During this process, the [[pH]] drops slowly to a final value of 4.0, and the amount of acid (such as [[lactic acid]]) increases to about 1% on the sixth day.<ref name="Battcock" />
+
+It has been found that a disadvantage of the traditional process of gundruk fermentation is the loss of 90% of [[carotenoid]]s, probably during sun-drying. Improved methods of drying might reduce this vitamin loss.<ref name="Battcock" />
+
+==See also==
+* [[Sinki (food)|Sinki]]
+* [[Masaura]]
+* [[Kinema]]
+* [[Pickled mustard greens]]
+* [[Meigan cai]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://practicalaction.org/docs/technical_information_service/gundruk.pdf Description of gundruk] at ''Practical Action''{{Webarchive|url=https://web.archive.org/web/20120729131313/http://practicalaction.org/docs/technical_information_service/gundruk.pdf |date=29 July 2012 }}
+* [https://thewondernepal.com/articles/gundruk-and-sinki-the-art-of-fermenting-vegetables-in-nepal/ "Gundruk & Sinki: The Art of Fermenting Vegetables in Nepal"]
+
+[[Category:Nepalese curries]]
+[[Category:Fermented foods]]
+[[Category:National dishes]]

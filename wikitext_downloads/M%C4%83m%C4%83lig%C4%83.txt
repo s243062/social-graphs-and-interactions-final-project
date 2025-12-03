@@ -1,0 +1,239 @@
+{{Short description|Traditional dish from yellow maize flour}}
+{{for|the Ukrainian village called ''Mămăliga'' in Romanian|Mamalyha}}
+{{Infobox food
+| name = Mămăligă
+| image = Mamaliga.jpg
+| caption = 
+| alternate_name = 
+| country = [[Romania]]
+| region = Romania, [[Moldova]]
+| national_cuisine = 
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 
+| maxtime = 
+| type = 
+| course = Main course
+| served = 
+| main_ingredient = {{flatlist|
+* [[boiling water]]
+* [[Edible salt|salt]]
+*[[cornmeal]]
+}}
+| minor_ingredient = 
+| variations = 
+| serving_size = 100 g<ref>{{cite web|url=http://www.csid.ro/diet-sport/dieta-si-nutritie/mamaliga-o-alternativa-sanatoasa-cu-mai-putine-calorii-decat-painea-13693357|title=Mămăliga, o alternativă sănătoasă cu mai puţine calorii decât pâinea!|work=Ce se întâmplă Doctore?|date=3 December 2014|language=ro}}</ref>
+| calories = 70
+| protein = 2
+| fat = 0
+| carbohydrate = 15<ref>{{cite web|url=http://calorii.oneden.com/Calorii-Mamaliga.html|title=Calorii mamaliga|website=Calorii.oneden.com|access-date=11 April 2018}}</ref>
+| glycemic_index = 
+| similar_dish = {{flatlist|
+* [[polenta]]
+* puliszka
+* [[žganci]]
+* kulesha
+* kačamak
+}}
+| other = 
+}}
+
+'''Mămăligă''' ({{IPA|ro|məməˈliɡə|-|Ro-mămăligă.ogg}};) is a [[polenta]]-like dish made out of yellow [[maize]] flour, traditional in [[Romania]], [[Moldova]], south-western [[Ukraine]] and among [[Poles in Ukraine]] (''mamałyga''), [[Hungary]] (''puliszka''), Bulgaria (''[[kačamak]]''), the Black Sea regions of [[Georgia (country)|Georgia]] and [[Turkey]], and [[Thessaly]] and [[Phthiotis]] in Greece.<ref>{{cite web |title=Μαγειρέψτε μαμαλίγκα από τη Λαμία |url=https://www.alfavita.gr/koinonia/260587_mageirepste-mamaligka-apo-ti-lamia |website=Alfavita |access-date=15 July 2022 |language=el}}</ref>
+
+Similar dishes are also eaten in [[Italy]], [[Switzerland]], [[Southern France]], [[Slovenia]], [[Croatia]] and [[Brazil]], often with the name ''polenta''.
+
+== History ==
+
+Historically a [[peasant food]], it was often used as a substitute for bread or even as a [[staple food]] in the poor rural areas. However, in the last decades it has emerged as an upscale dish available in the finest restaurants.{{CN|date=May 2025}}{{where?|date=May 2025}}
+
+Maize was consumed by [[Romani people|Romani]] slaves in Wallachia and [[Moldavia]], as well as [[Muslims|Muslim]] slaves, who were [[Prisoner of war|prisoners of war]].<ref>{{cite book|title=The Making of Mămăligă: Transimperial Recipes for a Romanian National Dish|author=Alex Drace-Francis|date=9 August 2022 |publisher=Central European University Press |isbn=9789633865842 |url=https://books.google.com/books?id=mKx-EAAAQBAJ&pg=PA10}}</ref>
+
+=== Roman influence ===
+
+Historically, [[porridge]] is the oldest form of consumption of grains in the whole of humanity, long before the appearance of bread. Originally, the seeds used to prepare slurries were very diverse as [[millet]] or [[einkorn]].{{Cn|date=February 2025}}
+
+Before the introduction of maize in [[Europe]] in the 16th century [[Anno Domini|A.D.]], mămăligă had been made with millet flour, known to the Romans as ''pulmentum''.<ref>{{cite book|url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT1215|title=Encyclopedia of Jewish Food}}</ref>
+
+=== Corn's introduction in the Romanian lands ===
+
+[[Maize]] was introduced into Spain by [[Hernán Cortés]] from [[Mexico]] in 1530 and spread in Europe in the 16th century. Maize (called ''corn'' in the United States) requires a good amount of heat and humidity. The [[Danube]] Valley is one of Europe's regions ideal for growing maize.
+
+A Hungarian scholar documented the arrival of corn in [[Timișoara]], [[Banat]] region, 1692.<ref>{{cite journal|url=http://www.persee.fr/web/revues/home/prescript/article/ahess_0395-2649_1962_num_17_1_420793?_Prescripts_Search_tabs1=standard&|title=Le maïs arrive dans les Balkans
+|date=1962
+|publisher=Georges C. Haupt|doi=10.3406/ahess.1962.420793
+|language=fr
+|last1=Stoianovich
+|first1=Troian
+|last2=Haupt
+|first2=Georges C.
+|journal=Annales. Histoire, Sciences Sociales
+|volume=17
+|pages=84–93
+|s2cid=162149724
+}}</ref> In [[Transylvania]], maize is also called 'cucuruz',<ref>{{cite web|url=http://www.hotnews.ro/stiri-esential-2404258-maghiarii-din-ardeal-indiferenti-kosovo-sadim-cucuruz-vin-mistretii-mananca-no-asta-problema-noastra.htm|title=Maghiarii din Ardeal, indiferenti la Kosovo: Sadim cucuruz si vin mistretii de-l mananca. No, asta e problema noastra!|website=Hotnews.ro|date=9 May 2008 |access-date=11 April 2018}}</ref> which could imply a connection between Transylvanian and Serbian merchants, kukuruz being a [[Slavs|Slavic]] word.<ref>{{cite web|url=http://www.archeus.ro/lingvistica/CautareDex?query=CUCURUZ|title=CUCURUZ - Definiția din dicționar - Resurse lingvistice|website=Archeus.ro|access-date=11 April 2018}}</ref> Some assume it was either [[Șerban Cantacuzino]]<ref>[http://www.ongo.com/v/1346764/-1/6AF4EB7DB81AB64D/romanian-prince-actor-serban-cantacuzino-70] {{dead link|date=February 2018}}</ref><ref>{{Cite web |url=http://ro.wikisource.org/wiki/Din_trecutul_nostru%3A%C8%9A%C4%83rile_rom%C3%A2ne_%C3%AEn_veacul_al_XVII-lea |title=Din trecutul nostru/Țările române în veacul al XVII-lea - Wikisource |access-date=2018-02-10 |archive-url=https://web.archive.org/web/20170511112540/https://ro.wikisource.org/wiki/Din_trecutul_nostru:%C8%9A%C4%83rile_rom%C3%A2ne_%C3%AEn_veacul_al_XVII-lea |archive-date=2017-05-11 |url-status=dead }}</ref> or [[Constantin Mavrocordat]]<ref name="auto">{{cite web|url=http://www.free-referate.ro/referat-Introducerea-porumbului-in-agricultura-3199.html|title=Free-referate.ro|website=Free-referate.ro|access-date=11 April 2018|archive-url=https://web.archive.org/web/20140202000018/http://www.free-referate.ro/referat-Introducerea-porumbului-in-agricultura-3199.html|archive-date=2014-02-02|url-status=dead}}</ref> who introduced corn in [[Wallachia]], [[Maria Theresa]] in Transylvania<ref>[https://www.scribd.com/doc/50632250/66/Sistematică-Origine-Hibrizi-cultivaţi-in-Romania] {{dead link|date=February 2018}}</ref> and [[Constantine Ducas (Moldavian ruler)|Constantine Ducas]] in [[Moldavia]]<ref name="auto"/> where it is called păpușoi.<ref>{{cite web|url=http://dexonline.ro/definitie/p%C4%83pu%C8%99oi/28932|title=dexonline|website=Dexonline.ro|access-date=11 April 2018}}</ref>
+Mămăligă of millet would have been replaced gradually by mămăligă made of corn. Corn then became an important food, especially in the fight against famine, which prevailed in the 17th and 18th centuries.<ref name="auto1">{{cite web|url=http://www.ethno-terroirs.cnrs.fr/IMG/pdf/Polenta_Cassoulet_Piperade.pdf|title=L'introduction des plantes du Nouveau Monde dans les cuisines régionales|publisher=Philippe Marchenay, Jacques Barrau, Laurence Bérard}}</ref>
+
+Historian [[Nicolae Iorga]] noted that farmers of the Romanian Principalities had grown corn since the early-to-mid-17th century.<ref name="auto1"/>
+
+Etienne Ignace Raicevich, a [[Republic of Ragusa|Ragusan]] consul of Napoleonic France to Bucharest in the fourth quarter of the 18th century, wrote that corn was introduced only ''da poco tempo'' (recently).
+
+Before the arrival of [[maize]] in Eastern Europe, ''mămăligă'' was made of [[millet]] flour. Long lost, millet ''mămăligă'' is now again fashionable in western Europe.<ref>{{cite web | url=https://www.marmiton.org/recettes/recette_la-millenta-polenta-au-millet_331096.aspx | title=La Millenta (polenta au millet) | work=Marmiton | date=January 1, 2022 | access-date=19 August 2022}}</ref>
+
+== Preparation ==
+
+[[File:MamaligaBranza.JPG|thumb|right|Mămăligă with sour cream and cheese]]
+[[File:Túrós és lekváros puliszka.jpg|alt=Hungarian puliszka|thumb|252x252px|In Hungary puliszka is typically eaten with [[Salo (food)|salo]] and [[tvorog]] (szalonna és túró) or with jam.]]
+Traditionally, ''mămăligă'' is cooked by boiling water, salt and cornmeal in a special-shaped [[cast iron]] pot called ''ceaun'' or ''tuci''. When cooked peasant-style and used as a bread substitute, ''mămăligă'' is supposed to be much thicker than the regular Italian polenta to the point that it can be cut in slices, like bread. When cooked for other purposes, ''mămăligă'' can be much softer, sometimes almost to the consistency of [[porridge]]. Because ''mămăligă'' sticks to metal surfaces, a piece of sewing thread is used to cut it into slices instead of a knife; it can then be eaten by holding it with the hand, just like bread.
+
+''Mămăligă'' is a versatile food: various recipes of ''mămăligă''-based dishes may include milk, [[butter]], various types of cheese, eggs, sausages (usually fried, grilled or oven-roasted), bacon, mushrooms, ham, fish etc. ''Mămăligă'' is a fat-free, cholesterol-free, high-fiber food. It can be used as a healthy alternative to more refined carbohydrates such as white bread, pasta, or hulled rice.{{Cn|date=February 2025}}
+
+=== Serving mămăligă ===
+
+''Mămăligă'' is often served with sour cream and cheese on the side (''mămăligă cu brânză și smântână'') or crushed in a bowl of hot milk (''mămăligă cu lapte''). Sometimes slices of ''mămăligă'' are pan-fried in oil or in lard, the result being a sort of [[corn pone]].{{Cn|date=February 2025}}
+
+The traditional Moldavian meal is often served with meat, usually pork or fried fish, and [[mujdei]], a garlic-and-oil sauce. Harder boiled mamaliga is traditionally cut with a string, so it would not stick on a knife.{{Cn|date=February 2025}}
+
+=== Similar dishes ===
+
+Since ''mămăligă'' can be used as an alternative for bread in many [[Romanian cuisine|Romanian]] and [[Moldovan cuisine|Moldovan dishes]], there are quite a few which are either based on ''mămăligă'', or include it as an ingredient or side dish. Arguably, the most popular of them is [[sarma (food)|sarmale]] (a type of [[cabbage roll]]/grapevine roll) with ''mămăligă''.
+
+Another very popular Romanian dish based on ''mămăligă'' is called [[bulz (food)|bulz]], and consists of ''mămăligă'' with cheese and butter and roasted in the oven.
+
+[[File:Mamaliga bucatarie moldoveneasca.jpg|thumb|Mămăligă]]
+
+Balmoș (sometimes spelled balmuș) is another ''mămăligă''-like traditional Romanian dish, but is more elaborate. Unlike ''mămăligă'' (where the cornmeal is boiled in water) when making ''balmoș'' the cornmeal must be boiled in [[sheep]] milk. Other ingredients, such as butter, sour cream, ''[[telemea]]'' (a type of [[feta cheese]]), ''[[caș]]'' (a type of fresh [[curd]]led ewe cheese without [[whey]], which is sometimes called "[[green cheese]]" in English), ''[[urda cheese|urdă]]'' (similar to [[ricotta]]), etc., are added to the mixture at certain times during the cooking process. It is a specialty dish of old Romanian shepherds, and nowadays very few people still know how to make a proper ''balmoș''.{{Cn|date=February 2025}}
+
+== In literature ==
+
+In Chapter One of ''[[Dracula]]'' by [[Bram Stoker]], the character [[Jonathan Harker]] writes, "I had for breakfast more paprika, and a sort of porridge of maize flour which they said was 'mamaliga', and egg-plant stuffed with forcemeat, a very excellent dish, which they call 'impletata'".
+
+As a traditional Szekler food, it also appears in Hungarian folktales multiple times, for example in ''Szép Palkó''.{{Cn|date=February 2025}}
+
+== Similar dishes ==
+{{More citations needed section|date=February 2025}} 
+[[Mush (cornmeal)|Cornmeal mush]] is its analogue common in some regions of the United States and [[grits]] in the southern regions.
+
+Its analogue in [[Serbia]] and [[Bulgaria]] is called [[kačamak]] ({{langx|sr|качамак/kačamak}}, {{langx|bg|качамак}}) and is served mainly with white [[Brined cheese|brine cheese]] or [[pork rind]] (fried pieces of pork fat with parts of the skin).
+
+In [[Bosnia and Herzegovina]], [[Croatia]] (also ''polenta'' or ''palenta''), Serbia (also ''kačamak'') and in [[Montenegro]], there is dish called ''pura''. In [[North Macedonia]], there is a similar dish called ''bakrdan'' ({{langx|mk|бакрдан}}).
+
+[[Hungarians|Hungarian]]s have ''puliszka'', which is traditionally eaten in both salty and sweet forms. It is also called ''kukoricamálé'', ''kukoricagánica'' or ''ganca''.
+
+The [[Transylvanian Saxons]] eat a food called 'palukes' in [[Transylvanian Saxon cuisine|their traditional cuisine]].
+
+In [[Turkey]], it is also called mamaliga, or kaçamak. Another similar dish, called ''kuymak'' or ''muhlama'', is among the typical dishes of the [[Black Sea Region]], although now popular in all the greater cities where there are many regional restaurants.
+
+Similar dishes exist under different names in various local languages ({{langx|ab|абысҭа|abysta}}, {{langx|ady|мамрыс|mamrys}}, {{lang-ka|ღომი|ghomi}}, {{langx|inh|журан-худар|zhuran-khudar}}, {{langx|ce|ah'ar-hudar, zhuran-hudar}}, {{langx|nog|мамырза|mamırza}}, {{langx|os|сир, сорсерæ|sir, sorsera}}), as well as in [[Caucasian cuisine]]s.
+
+There is also a distinct similarity to ''[[cou-cou]]'' (as it is known in the [[Barbados]]), or ''fungi'' (as it is known in [[Antigua and Barbuda]] and other [[Leeward Islands]] in the Caribbean Sea).
+
+A similar dish is eaten widely across Africa, often with white maize flour instead of yellow, where it has different local names:
+
+{{columns-list|colwidth=20em|
+* ''Akamu'' – [[Igbo people|Igbo]], [[Nigeria]]
+* ''Arega'' – [[Kenya]], [[Luo people (Kenya)|Luo]]
+* ''Bando'' – [[Soga people|Soga]], Uganda
+* ''Bidia'' – [[Democratic Republic of the Congo|DR Congo]]<ref name=McCann>{{Cite book|url=https://books.google.com/books?id=CAhgpbXzq0oC&q=seasons+and&pg=PR4|title=Stirring the Pot: A History of African Cuisine|last=McCann|first=James C.|publisher=Ohio University Press|year=2009|isbn=9780896802728|location=Athens, Ohio|pages=137}}</ref>
+* ''Bogobe/Phaletšhe'' – [[Botswana]], [[South Africa]]
+* ''Bugali'' – [[Burundi]], DR Congo, [[Sudan]], [[South Sudan]] [[Rwanda]]
+* ''Buhobe'' – [[Lozi people|Lozi]]<ref name=":0">{{Cite web|url=http://www.hungerforculture.com/?page_id=591|title=Nshima and Ndiwo: Zambian Staple Food|last=Tembo|first=Mwizenge S.|website=Hunger For Culture|language=en-US|archive-url=https://web.archive.org/web/20170224091611/http://www.hungerforculture.com/?page_id=591|archive-date=24 February 2017|access-date=2018-02-18}}</ref>
+* ''Buru'' – [[Kenya]], [[Luo people (Kenya)|Luo]]
+* ''Busima''-[[Bagisu]], [[Uganda]]
+* ''Chenge'' –  Kenya, Luo
+* ''Chima'' – [[Mozambique]]
+* ''Couscous de Cameroon'' – [[Cameroon]]
+* ''Dona''
+* ''Fitah'' - Sudan, South Sudan, Congo
+* ''Fufu'' - Sierra Leone
+* ''Isitshwala'' – Botswana, [[Northern Ndebele people|Ndebele]]
+* ''Kawunga'' - [[Ganda people|Ganda]], Uganda
+* ''Kimnyet'' – [[Kalenjin people|Kalenjin]], Kenya
+* ''Kuon'' –  Kenya, Luo
+* ''Kwen wunga'' - [[Alur language|Alur]], [[Uganda]]
+* ''Lipalishi'' – Eswatini
+* ''Mielie pap'' – [[Lesotho]],<ref name=McCann/>'' [[South Africa]]''<ref name=McCann/><ref>"Mealiepap, n." Dictionary of South African English. Dictionary Unit for South African English, 2018.[https://www.dsae.co.za/entry/mealiepap/e04658] 25 February 2019</ref>
+* ''Mogo'' –  Kenya, Luo
+* ''Moteke'' – DR Congo<ref name=McCann/>
+* ''Mutuku'' – South Africa<ref name=McCann/>
+* ''Nfundi'' – [[Republic of the Congo|Congo]]<ref name=McCann/>
+* ''Ngima'' – [[Kamba people|Kamba]], Kenya, [[Kikuyu people|Kikuyu]]
+* ''Nkima'' – Kenya, [[Meru people|Meru]]
+* ''Nshima''- DR Congo Kasai region
+* ''Nsima'' – Malawi,<ref name=McCann/> Zambia<ref name=McCann/>
+* ''Obusuma'' – Kenya, [[Nyole tribe (Luhya)|Nyole]]<ref>{{cite web|url=http://www.kenya-information-guide.com/|title=Kenya Information Guide Home page|access-date=24 June 2013}}</ref>
+* ''Ogi'' – Nigeria, Yoruba
+* ''Oshifima'' – [[Namibia]]
+* ''Pap'' – Namibia, South Africa<ref>"Pap, n." Dictionary of South African English. Dictionary Unit for South African English, 2018. [https://www.dsae.co.za/entry/pap/e05513] 25 February 2019.</ref>
+* ''Papa'' – Lesotho,<ref name=McCann/> South Africa<ref name=McCann/>
+* ''Phaletšhe'' – Botswana
+* ''Phuthu'' – South Africa<ref>"Putu, n." Dictionary of South African English. Dictionary Unit for South African English, 2018.[https://www.dsae.co.za/entry/putu/e05805] 25 February 2019.</ref>
+* ''Posho'' – [[Uganda]]<ref>{{Cite web|url=https://www.wattpad.com/115799426-ugandan-food-recipes-posho-ugali|title=Ugandan food recipes - POSHO (UGALI) - Wattpad|website=www.wattpad.com|access-date=2018-08-23}}</ref>
+* ''Poshto'' – Uganda
+* ''Saab'' – [[Ghana]], [[Kusasi people|Kusasi]]
+* ''Sadza'' – [[Shona people|Shona]] and [[kalanga people|Kalanga]], [[Zimbabwe]] and [[Botswana]]<ref name=McCann/><ref>"Sadza, n." Dictionary of South African English. Dictionary Unit for South African English, 2018. [https://www.dsae.co.za/entry/sadza/e06177] 25 February 2019</ref>
+* ''Sakora'' – Nigeria
+* ''Sakoro'' – Ghana
+* ''Sembe'' - Tanzania, slang
+* ''Sembe'' –  Kenya, slang
+* ''Shadza'' – [[kalanga people|Kalanga]], [[Botswana]]
+* ''Shima''
+* ''Shishima'' - Zambia
+* ''Sima'' – Chewa,<ref name=":022">{{cite web|url=http://www.peoplesoftheworld.org/hosted/chewa/|title=The Chewa|last=Gough|first=Amy|date=2004|publisher=The Peoples of The World Foundation|access-date=18 February 2018}}</ref> [[Tumbuka people|Tumbuka]], and [[Ngoni people|Ngoni]]<ref name=":0" />
+* ''Soor'' – [[Somalia]],<ref name=McCann/> [[Zambia]]<ref name=McCann/>
+* ''Tuozafi'' (or ''T.Z.'') – Ghana
+* ''Ubugali'' – Rwanda
+* ''Ubwali'' – [[Bemba people|Bemba]]<ref name=":0" />
+* ''Ugali'' – Kenya,<ref name=McCann/> Malawi, Mozambique, [[Tanzania]],<ref name=McCann/> Uganda,<ref name=McCann/> [[Yao people (East Africa)|Yao]], Swahili
+* ''Um'ratha'' –  Ndebele
+* ''Upswa'' – Mozambique<ref name=McCann/>
+* ''Vbogobe'' – [[Sotho people|Sotho]], [[Tswana people|Tswana]]
+* ''Vhuswa'' – [[Venda people|Venda]]
+* ''Xima'' – Mozambique<ref name=McCann/>
+}}
+
+== Gallery ==
+
+<gallery mode="packed">
+File:Bulz și pastramă la grătar 02.jpg|Grilled [[Bulz (food)|bulz]] and [[pastrami]]
+File:Kulesha&brunza.jpg|Mămăligă with pork rind, [[bryndza]] and sour cream
+File:Mamałyga-e.jpg|Mămăligă with a spoonful of [[sour cream]] and [[sarmale]]
+File:Păstrăv la staniol.jpg|Mămăligă and [[trout]] wrapped in [[tinfoil]]
+File:Tochitura-moldoveneasca.jpg|Moldavian [[tochitură]] with mămăligă, cheese and [[Eggs as food|egg]]
+File:Bulz cu ou.jpg|Bulz with egg
+Mămăligă2020-02-12.jpg|Mămăligă served with salad, cheese, and meat in Moldova 
+</gallery>
+
+== See also ==
+
+{{portal|Food}}
+
+* [[Bulz (food)|Bulz]]
+* [[Banosh]]
+* [[Cocoloși]]
+* [[Cornbread]]
+* [[List of maize dishes]]
+* [[List of porridges]]
+* [[Tocană]] - a Romanian stew traditionally served with mămăligă
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+
+*{{commons-inline}}
+
+{{Corn}}
+{{Cuisine of Romania}}
+
+{{DEFAULTSORT:Mamaliga}}
+[[Category:Moldovan dishes]]
+[[Category:Porridges]]
+[[Category:Romanian dishes]]
+[[Category:Staple foods]]
+[[Category:Maize dishes]]
+[[Category:National dishes]]
+[[Category:Peasant food]]
+[[Category:Ashkenazi Jewish cuisine]]
+[[Category:Romani cuisine]]
+[[Category:Aromanian cuisine]]

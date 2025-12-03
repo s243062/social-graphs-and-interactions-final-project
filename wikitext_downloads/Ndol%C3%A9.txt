@@ -1,0 +1,46 @@
+{{Short description|National dish of Cameroon}}
+
+{{Infobox food
+| name               = Ndolé
+| image              = Ndolè à la viande, morue et crevettes.jpg
+| image_size         = 250px
+| caption            = Ndolè containing meat, [[cod]] and shrimp and accompanied by miondo and [[Plantain (cooking)|plantains]]
+| alternate_name     = 
+| country            = [[Cameroon]]
+| region             = 
+| creator            = 
+| course             = 
+| type               = [[Stew]]
+| served             = Hot
+| main_ingredient    = [[Peanuts]], [[ndoleh]], [[crayfish]], [[onions]], [[fish as food|fish]] or [[ground beef]]
+| variations         = 
+| calories           = 
+}}
+
+'''Ndolé'''<ref name="nyt">{{cite news |first=Emily|last=Brady|title=The Years of Living Nervously  |url=https://www.nytimes.com/2008/12/07/nyregion/thecity/07asyl.html?pagewanted=1&ref=thecity|work=[[New York Times]]|date=2008-11-05 |access-date=2008-12-07}}</ref> is a Cameroonian dish consisting of stewed peanuts, [[crayfish]], [[garlic]], onions, and [[ndoleh]] leaves (indigenous to [[West Africa|West]] and [[Central Africa]]), with fish or beef.<ref name="nyt" /> The dish originated in [[Douala]], in the [[Littoral zone|littoral]] region of [[Cameroon]]. Ndolé is widely regarded as the [[national dish]] of Cameroon.<ref>{{Cite web |title=Ndole - “Africa’s Dish In Miniature” |url=https://www.kengskitchen.com/cameroon-recipes/ndole |access-date=2025-07-22 |website=kengskitchen |language=en-US}}</ref><ref>{{Cite web |last=John |date=2025-03-27 |title=Hearty Cameroonian Ndolé: Bitter greens and peanut stew unlocks centuries of flavor |url=https://www.journee-mondiale.com/en/hearty-cameroonian-ndole-bitter-greens-and-peanut-stew-unlocks-centuries-of-flavor/ |access-date=2025-07-22 |website=World Day |language=en-US}}</ref> 
+
+The dish may also contain [[Shrimp and prawn as food|shrimp]]. Ndolé is traditionally accompanied by fried or boiled [[Cooking banana|plantains]], as well as [[bobolo]] or [[miondo]], which are Cameroonian delicacies made of fermented ground [[cassava|manioc]] steamed in [[Marantaceae]] leaves and commonly served in spirals.<ref>{{Cite web |last=Keliher |first=Irene |date=2023-09-18 |title=Cameroonian Ndole: Meet the Famous West African Stew |url=https://blog.remitly.com/lifestyle-culture/nationaldishes-ndole-cameroon-facts/ |access-date=2025-07-22 |website=Beyond Borders |language=en-US}}</ref>
+
+==Gallery==
+<gallery>
+File:Ndolé camerounais.JPG|Ndolé with various accompaniments
+File:Le ndolè, plat mythique camerounais..jpg|Ndolè with miondo and boiled plantains
+File:Ndolè à la morue.jpg|Ndolè with cod
+File:Le Ndolé.JPG|Ndolé prepared in a cooking pot
+File:Le ndole a la facon Camerounaise.jpg|Ndolé served with [[manioc]] (cassava) on the side
+</gallery>
+
+==See also==
+* [[Cameroonian cuisine]]
+* [[Cassava-based dishes]]
+* [[List of African dishes]]
+* [[African cuisine]]
+* [[List of stews]]
+
+==References==
+{{reflist}}
+
+{{African cuisine}}{{Cameroon-cuisine-stub}}{{DEFAULTSORT:Ndole}}
+[[Category:Cameroonian cuisine]]
+[[Category:National dishes]]
+[[Category:Stews]]

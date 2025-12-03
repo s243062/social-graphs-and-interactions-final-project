@@ -1,0 +1,58 @@
+{{Short description|Savoury chicken dish; national dish of several African countries}}
+{{Infobox food
+| name = 
+| image = Poulet à la moambe.JPG
+| image_size =
+| image_alt =
+| caption = ''Poulet à la moambe'' served with rice (left) and ''saka saka'' (right)
+| alternate_name = 
+| type = [[Stew]]
+| course = 
+| country = 
+| region = [[Central Africa]]
+| national_cuisine = 
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 
+| maxtime = 
+| served = 
+| main_ingredient = Chicken
+| minor_ingredient = Tomatoes, garlic, chili powder/peppers, lemon, red palm oil, squash or pumpkin, stock, okra 
+| variations = 
+| serving_size = 100 g
+| calories = 
+| calories_ref =
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| similar_dish = 
+| cookbook =
+| commons =
+| other = 
+| no_recipes= false
+}}
+'''Moambe chicken''' ({{langx|fr|poulet à la moambe}} or simply {{lang|fr|poulet moambe}}, {{langx|pt|moamba de galinha}}) is a [[umami|savory]] [[Chicken (food)|chicken]] dish popular in [[Central Africa]] and considered the [[national dish]] of [[Angola]], [[Republic of the Congo|the Republic of the Congo]], and [[Democratic Republic of the Congo|the Democratic Republic of the Congo]]. The dish itself is made by combining chicken, spices and palm butter to create a [[stew]]-like consistency. A number of local or regional variations exist across the Congo and Central Africa; the dish is also known outside the continent.
+
+==Preparation==
+''Poulet moambe'' (French for "chicken in palm butter sauce")<ref name="JacobAshkenazi2014">{{cite book|author1=Jeanne Jacob|author2=Michael Ashkenazi|title=The World Cookbook: The Greatest Recipes from Around the Globe, 2nd Edition &#91;4 Volumes&#93;: The Greatest Recipes from Around the Globe|url=https://books.google.com/books?id=GmqEAwAAQBAJ&pg=PA473|date=15 January 2014|publisher=ABC-CLIO|isbn=978-1-61069-469-8|page=473}}</ref> is prepared by cooking chicken in [[moambe]] (palm butter) and spinach,<ref name="SwainSnyder1991">{{cite book|author1=Bob Swain|author2=Paula Snyder|title=Through Africa: The Overlanders' Guide|url=https://books.google.com/books?id=YpIEAQAAIAAJ|year=1991|publisher=Bradt Publications|isbn=978-0-946983-65-0|page=73}}</ref> then seasoning it with spices like ''[[peri-peri]]'' or red pepper. It is typically served with [[sweet potato]]es, brown onions, hard-boiled eggs and a sauce made from crushed palm nuts.<ref>{{cite book|title=The Belgian Congo Today|url=https://books.google.com/books?id=F5s5AQAAIAAJ|year=1952|page=522}}</ref><ref name="Albala2011">{{cite book|author=Ken Albala|title=Food Cultures of the World Encyclopedia|url=https://books.google.com/books?id=NTo6c_PJWRgC&pg=PA37|year=2011|publisher=ABC-CLIO|isbn=978-0-313-37626-9|page=37}}</ref> Moambe chicken can also be accompanied by rice or manioc ([[cassava]]) paste.<ref name=cnn>{{cite news|newspaper=CNN Travel|url=https://edition.cnn.com/travel/article/africa-food-dishes/index.html|title=15 of Africa's favorite dishes|date=12 July 2017|first=Jane-Anne|last=Hobbs}}</ref><ref name="LeMaire2014">{{cite book|author=William LeMaire|title=Crosscultural Doctoring: On and Off the Beaten Path|url=https://books.google.com/books?id=U5scAgAAQBAJ&pg=PT27|date=8 January 2014|publisher=BookCountry|isbn=978-1-4630-0341-8|page=27}}</ref> The chicken can be substituted with duck or fish.<ref name="Albala2011"/><ref name="DoubledayCooley1979">{{cite book|author1=Nelson Doubleday|author2=C. Earl Cooley|title=Encyclopedia of World Travel|url=https://books.google.com/books?id=nClofsjZegQC|year=1979|publisher=Doubleday|isbn=978-0-385-14669-2|page=359}}</ref>
+
+==Popularity==
+Moambe chicken is regarded as the [[national dish]] of the [[Democratic Republic of the Congo]].<ref name="Long2015">{{cite book|author=Lucy M. Long|title=Ethnic American Food Today: A Cultural Encyclopedia|url=https://books.google.com/books?id=DBzYCQAAQBAJ&pg=PA157|date=17 July 2015|publisher=Rowman & Littlefield Publishers|isbn=978-1-4422-2731-6|page=157}}</ref> In the [[Republic of the Congo]], the version that uses [[peanut butter]] is known as '''''muamba nsusu'''''. ''Nsusu'' means ''chicken'' in [[Kikongo]]. It is also considered the national dish of [[Gabon]] where it is known as '''''poulet nyembwe''''', and in [[Angola]] where it is known as '''''{{lang|pt|moamba de galinha}}''''',<ref name=cnn/> although the Angolan dish was claimed by Brazilians around 2002, it has always been a popular dish in Angola, which makes sense as Angola and Congo are neighbours whilst although many Angolans live in Brazil, it was obviously introduced to Brazil by those with Angolan roots. This may also be why Moqueca is also very popular in Brazil but is actually an Angolan dish too. This is also why Brazil has its own version of pirão.<ref>{{cite book|author=Alan Davidson|title=The Penguin Companion to Food|url=https://books.google.com/books?id=J5DgAAAAMAAJ|year=2002|publisher=Penguin Books|isbn=978-0-14-200163-9|page=24}}</ref> It is a common household dish in [[Belgium]].<ref name="Natermann2018">{{cite book|author=Diana Miryong Natermann|title=Pursuing Whiteness in the Colonies: Private Memories from the Congo Freestate and German East Africa (1884-1914)|url=https://books.google.com/books?id=znZSDwAAQBAJ&pg=PA185|year=2018|publisher=Waxmann Verlag|isbn=978-3-8309-8690-4|page=185}}</ref> Angolan moamba chicken can be found in [[Portugal]].<ref name="Porter1970">{{cite book|author=Darwin Porter|title=Frommer's Portugal|url=https://books.google.com/books?id=QEosAQAAMAAJ|year=1970|publisher=Macmillan USA|isbn=978-0-471-77124-1|page=100}}</ref><ref>{{cite web|url=https://culinarybackstreets.com/cities-category/lisbon/2017/angola-lisbon-taste/|title=Angola in Lisbon: Taste|publisher=Culinary Backstreets|date=11 May 2017|access-date=12 Mar 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.rtbf.be/tv/emission/detail_un-gars-un-chef/recettes/article_la-moambe?id=8225360&emissionId=5931 La moambe] at [[RTBF]]
+* [https://www.cuisineaz.com/recettes/poulet-a-la-moambe-9227.aspx Poulet à la moambe] at Cuisineaz
+
+{{Chicken dishes|state=collapsed}}
+
+{{DEFAULTSORT:Poulet a la Moambe}}
+[[Category:Chicken dishes]]
+[[Category:National dishes]]
+[[Category:Democratic Republic of the Congo cuisine]]
+[[Category:Angolan cuisine]]
+[[Category:Gabonese cuisine]]
+[[Category:Spicy foods]]

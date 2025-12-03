@@ -1,0 +1,142 @@
+{{Short description|Swiss melted cheese dish}}
+{{Distinguish|fondant icing}}
+{{Infobox food
+| name = Fondue
+| name_lang = fr
+| name_italics = true
+| image = Fondue dish.jpg
+| image_size = 250px
+| caption = Cheese fondue and bread cubes
+| alternate_name = 
+| country = [[Switzerland]]<ref>[http://www.collinsdictionary.com/dictionary/english/fondue fondue], collinsdictionary.com, retrieved 12 November 2016</ref><ref>[https://theculturetrip.com/europe/switzerland/articles/a-brief-history-of-cheese-fondue A Brief History of Cheese Fondue], theculturetrip.com, retrieved 31 October 2018</ref>
+| region = 
+| creator = 
+| course = [[Main course]]
+| type = 
+| served = 
+| main_ingredient = [[Cheese]]s, [[white wine]], [[garlic]], often [[kirsch]]
+| variations = 
+| calories = 
+| other = 
+}}
+
+'''Fondue''' ({{IPAc-en|UK|ˈ|f|ɒ|n|dj|uː}} {{respell|FON|dew}}, {{IPAc-en|US|f|ɒ|n|ˈ|dj|uː}} {{respell|fon|DEW}},<ref>{{Cite dictionary |url=http://www.lexico.com/definition/fondue |archive-url=https://web.archive.org/web/20200322182551/https://www.lexico.com/definition/fondue |archive-date=22 March 2020 |title=fondue |dictionary=[[Lexico]] UK English Dictionary |publisher=[[Oxford University Press]]}}</ref><ref>{{cite American Heritage Dictionary|fondue|access-date=10 April 2017}}</ref> {{IPA|fr|fɔ̃dy|lang}}, {{IPA|de-CH|fɔ̃ːˈdyː|lang|de-Fondue.ogg}}; {{langx|it|fonduta}}) is a [[Swiss cuisine|Swiss]]<ref>[https://global.britannica.com/topic/fondue Fondue], ''[[Encyclopædia Britannica]]'', global.britannica.com, retrieved 12 November 2016</ref> dish of melted [[cheese]] and [[wine]] served in a communal pot ({{lang|fr|[[caquelon]]}} or fondue pot) over a [[portable stove]] ({{lang|fr|réchaud}}) heated with a candle or [[chafing fuel|spirit lamp]], and eaten by dipping [[bread]] and sometimes [[vegetables]] or other foods into the cheese using long-stemmed forks. It was promoted as a Swiss [[national dish]] by the [[Swiss Cheese Union]] ({{lang|de|Schweizerische Käseunion}}) in the 1930s.
+
+Since the 1950s, the term "fondue" has been [[List of fondues|generalized to other dishes]] in which a food is dipped into a communal pot of liquid kept hot in a fondue pot: chocolate fondue, {{lang|fr|fondue au chocolat}}, in which pieces of fruit or pastry{{cn|date=October 2024}} are dipped into a melted chocolate mixture, {{lang|fr|fondue bourguignonne}}, in which pieces of meat are cooked in hot oil, and {{lang|fr|fondue chinoise}} ([[hot pot]]).
+
+==Etymology==
+The word {{lang|fr|fondue}} is the feminine [[participle|passive past participle]], used as a noun, of the French verb {{lang|fr|fondre}} 'to melt', and thus means 'melted'.<ref>''[[Trésor de la langue française]]'', ''s.v.'' [http://www.cnrtl.fr/definition/fondue/substantif ''fondue''] and [http://www.cnrtl.fr/definition/fondue/verbe ''fondre'', etymology section B.3.a]</ref> It is first attested in French in 1735, in [[Vincent La Chapelle]]'s {{lang|fr|Cuisinier moderne}},<ref name='la chapelle'>Vincent la Chapelle, ''Le cuisinier moderne'' [https://books.google.com/books?id=ZYYEAAAAYAAJ&pg=PA220 p. 220]</ref> and in English in 1878.<ref name='oed'>[[Oxford English Dictionary]], Second edition, 1989; online version November 2010. [http://www.oed.com/Entry/72616 ''s.v.'']</ref>
+
+==History==
+[[File:Fonduerezept 1699.png|thumb|Recipe "Käß mit wein zu kochen" of the Koch-Buch by [[Anna Margaretha Gessner-Kitt|Anna Margaretha Gessner]] born Kitt from 1699]]
+The earliest known recipe for the modern form of cheese fondue comes from a 1699 book published in [[Zürich]], under the name "Käss<!--This is not the modern spelling, but the spelling used in the cited publication of 1699--> mit Wein zu kochen" 'to cook cheese with wine'.<ref>''Kochbuch der Anna Margaretha Gessner'', 1699, cited by Albert Hauser, ''Vom Essen und Trinken im alten Zürich'', cited by Isabelle Raboud-Schüle, "Comment la fondue vint aux Suisses", ''Annales fribourgeoises'' 72:101–112 (2010)</ref> It calls for grated or cut-up cheese to be melted with wine, and for bread to be dipped in it.
+
+However, the ''name'' "cheese fondue", until the late 19th century, referred to a dish composed of eggs and cheese, as in la Chapelle's 1735 ''Fonduë de Fromage, aux Truffes Fraiches''<!--spelling and punctuation as in the original-->;<ref name='la chapelle'/> it was something between [[scrambled eggs]] with cheese and a cheese [[soufflé]].<ref>Prosper Montagne, ''Larousse Gastronomique'', 1938, p. 483, quoted in the [http://www.foodtimeline.org/foodfaq1.html#fondue Food Timeline FAQ]</ref> [[Brillat-Savarin]] wrote in 1834 that it is "nothing other than scrambled eggs with cheese".<ref name='brillat-savarin'>"Ce n'est autre chose que des œufs brouillés au fromage", Jean Anthelme Brillat-Savarin, ''Physiologie du goût'', 1834, [https://books.google.com/books?id=hpFLAAAAIAAJ&pg=RA1-PA336 p.336-9]</ref> Variations included cream ("à la genevoise") and truffles ("à la piémontaise") in addition to eggs, as well as what is now called "[[raclette]]" ("fondue valaisanne").<ref>[[Joseph Favre]], ''Dictionnaire universel de Cuisine'', Paris 1894, cited by Raboud-Schüle, 2007</ref>
+
+The first known recipe for the modern cheese fondue under that name, with cheese and wine but no eggs, was published in 1875, and was already presented as a Swiss [[national dish]].<ref>Louis Favre, ''L'habitation—le vêtement—les aliments. Manuel d'économie domestique à l'usage des écoles secondaires et primaires supérieures'', Neuchâtel 1875, cited by Raboud-Schüle, 2007</ref> Despite its modern associations with rustic mountain life, it was a town-dweller's dish from the lowlands of western, [[Romandy#French|French-speaking]], Switzerland: rich cheese like Gruyère was a valuable [[cash crop|export item]] which peasants could not afford to eat.<ref name='muhieddine'>Fabian Muhieddine, "La fondue: un coup marketing de 1930!", ''Le Matin.ch'', reporting on a lecture by Isabelle Raboud-Schüle [http://www.lematin.ch/actu/suisse/fondue-coup-marketing-1930-43840 full text] {{Webarchive|url=https://web.archive.org/web/20160313061514/http://www.lematin.ch/actu/suisse/fondue-coup-marketing-1930-43840/ |date=2016-03-13 }}</ref><ref>Raboud-Schüle, p. 4-5</ref>
+
+With the introduction of [[corn starch]] to Switzerland in 1905, it became easier to make a smooth and stable [[emulsion]] of the wine and cheese, and this probably helped contribute to the success of fondue.<ref>Raboud-Schüle, p. 5</ref>
+
+Fondue was popularized as a Swiss national dish by the [[Swiss Cheese Union]] (Schweizerische Käseunion) in the 1930s as a way of increasing cheese consumption. The Swiss Cheese Union also created pseudo-regional recipes as part of the "spiritual defence of Switzerland".<ref name='raboud'>Isabelle Raboud-Schüle, director of the [[Musée gruérien]], interview "History of Cheese Fondue" {{cite web |url=http://blog.swisster.com/food_corner/page/2/ |title=A Matter of Taste - Part 2 |access-date=23 December 2010 |archive-url=https://web.archive.org/web/20100720131727/http://blog.swisster.com/food_corner/page/2/ |archive-date=20 July 2010 }}</ref><ref>National Public Radio, "The Fondue Conspiracy", ''Planet Money'' '''575''' (10 October 2014) [https://www.npr.org/blogs/money/2014/10/10/355177578/episode-575-the-fondue-conspiracy]</ref> After [[World War II]] rationing ended, the Swiss Cheese Union continued its marketing campaign, sending fondue sets to military regiments and event organizers across Switzerland. Fondue is now a symbol of Swiss unity.<ref name='raboud'/> Fondue is also often associated with mountains and winter sports.<ref>{{cite book | url=https://books.google.com/books?id=tuor2vcVtiQC | title=Milk: Beyond the Dairy: Proceedings of the Oxford Symposium on Food and Cookery 1999 | publisher=Oxford Symposium | author=Walker, Harlan | year=2000 | page=74 | isbn=978-1-903018-06-4 | quote=Fondue has with some justification been described as the national dish of Switzerland and has become an essential feature of winter-sport holidays even beyond this country's borders.}}</ref>
+
+In the meantime, fondue continued to be promoted aggressively in Switzerland, with slogans like "La fondue crée la bonne humeur" 'fondue creates a good mood' and (1981, in [[Swiss German]]) "Fondue isch guet und git e gueti Luune" 'fondue is good and creates a good mood' – abbreviated as "figugegl".<ref>Raboud-Schüle, p. 7</ref>
+
+Fondue was promoted to Americans at the Swiss Pavilion's Alpine restaurant at the [[1964 New York World's Fair]].<ref>Lawrence R. Samuel, ''End of the Innocence: The 1964-1965 New York World's Fair'', p. 153</ref>
+
+{{quote box|align=right|A fondue party can be great fun|"[[Betty Crocker]]", 1970<ref name="sitwell"/>}}
+Fondue was popular in the United States in the 1960s and 1970s, along with other foods made in [[chafing dish]]es.<ref name="sitwell">William Sitwell, ''A History of Food in 100 Recipes'', 2013, {{isbn|0316229970}}, p. 273</ref>
+
+The extension of the name "fondue" to other dishes served in a communal hot pot dates to 1950s New York. Konrad Egli, a Swiss restaurateur, introduced ''fondue bourguignonne'' at his Chalet Suisse restaurant in 1956. In the mid-1960s, he invented chocolate fondue as part of a [[promotion (marketing)|promotion]] for [[Toblerone]] chocolate.<ref name='lovegren'>Sylvia Lovegren, ''Fashionable Food: Seven Decades of Food Fads'', pp. 240-2</ref>
+
+==Preparation==
+{{stack|[[Image:Full cheese fondue set - in Switzerland.JPG|thumb|Fondue with common accompaniments in a Swiss restaurant: bread for dipping; [[kirsch]]; raw [[garlic]]; pickled [[gherkins]]; [[onions]]; and [[olives]].]]}}
+Cheese fondue consists of some variation of a blend of grated cheeses that are melted, usually wine (but sometimes beer as an alternative), a thickening agent such as cornstarch or flour, and seasonings. The proportion of cheeses to wine is typically in a 2-to-1 ratio by weight (e.g., 800 g of cheese to 400 ml or 400 g of wine).<ref name="bierfondue">{{ cite web |lang=de-DE |url=https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/SM2019_DIVE_06/bierfondue/ |title=Bierfondue |work=swissmilk }}</ref><ref name="michelin">{{ cite web |url=https://guide.michelin.com/us/en/article/dining-in/recipe-cheese-fondue-daniel-humm |title=Recipe: Cheese Fondue |work=Michelin Guide |date=2018-12-18 |first1=Abbe |last1=Baker |first2=Gary |last2=He |first3=Daniel |last3=Humm |lang=en-US }}</ref>
+
+Traditionally, the ''[[caquelon]]'' is rubbed with a cut [[garlic]] clove, [[white wine]] is added and heated with cornstarch, and then grated cheese is added and gently stirred until melted, although in practice all the ingredients can be combined and heated together at once. Some [[kirsch]] is often added. Fondue is very easy to prepare, even in large quantities.<ref>A Swiss Army recipe for 100: {{cite web |url=https://www.protection-civile.ch/documents/telechargement/armee-suisse-293-0041-livre-de-recettes-de-cuisine.pdf |title=Fondue fribourgeoise (moitié-moitié) |page=196 |work=Recettes de cuisine |author=Swiss Army |date=2005 |lang=fr-CH }}</ref>
+
+The [[cornstarch]] or other starch stabilizes and thickens the mixture. Additional wine may be added if the fondue is too thick; its [[acid]] and [[ethanol]] decrease the fondue's [[viscosity]].  A fondue can curdle if the protein separates from the fat, which is usually the result of not enough liquid in the mixture and an insufficiently acid mixture, so lemon juice is sometimes added.<ref name="Bertsch2019">{{cite journal |last1=Bertsch |first1=Pascal |last2=Savorani |first2=Laura |last3=Fischer |first3=Peter |title=Rheology of Swiss Cheese Fondue |journal=ACS Omega |date=2019-01-14 |volume=4 |issue=1 |pages=1103–1109 |doi=10.1021/acsomega.8b02424 |pmid=31459386 |pmc=6648832 }}</ref>
+
+===Temperature and ''la religieuse''===
+A cheese fondue mixture should be kept warm enough to keep the fondue smooth and liquid but not so hot that it burns. A typical target temperature is in the neighborhood of 65 C (150 F) as measured with a cooking thermometer. If maintained until the fondue is finished, a thin crust of toasted (not burnt) cheese will naturally develop at the bottom of the ''caquelon''. This is called ''la religieuse'' (French for ''the nun''). It has the texture of a cracker and is almost always lifted out and eaten.{{fact|date=September 2025}}
+
+==Variants==
+===Swiss===
+[[File:Swiss Cheese.jpg|thumb|[[Vacherin Fribourgeois]] and [[Gruyère cheese|Gruyère]] are commonly used for fondue.]]
+[[File:Convenience fondue.jpg|thumb|Ready fondues sold in a Japanese supermarket]]
+
+The regional names used for some of these variants are [[Invented tradition|factitious]], and do not reflect genuine regional traditions.<ref name='raboud'/>
+* [[Vaud]]oise: [[Gruyère (cheese)|Gruyère]].
+* Fribourgeoise, from [[Canton of Fribourg|Fribourg]]: [[Vacherin Fribourgeois]] à fondue,<ref>Alan Davidson, ed., ''The Oxford Companion to Food'', 2014 {{ISBN|978-0-1996-7733-7}}: "''Vacherin fribourgeois'' exists in two forms, ''vacherin à fondue'', used for making fondue and ''vacherin à main'', a dessert cheese."</ref> wherein potatoes are often dipped instead of bread. This is the only cheese fondue that does not use wine. The cheese is melted in a few tablespoons of water over low heat.<ref name=alb>Heidi and Gerhold Albonico (1972) ''Schweizer Tafelfreuden'' Vol. 1, Silva-Verlag, Zürich (German) {{oclc|32640608}}</ref>
+* Moitié-moitié (or half and half), also called Fondue Suisse: [[Gruyère (cheese)|Gruyère]] and [[Vacherin Fribourgeois]].
+* [[Neuchâtel]]oise: [[Gruyère (cheese)|Gruyère]] and [[Emmental (cheese)|Emmental]] (sometimes referred to as the original or traditional fondue).<ref>{{cite book | url=https://books.google.com/books?id=1Iu7TcHJPDQC | title=The Complete Idiot's Guide to Good Food from the Good Book | publisher=[[Penguin Books]] | author=Bilderback, Leslie | year=2008 | page=75 | isbn=978-1-4362-1283-0 | quote=Traditionally, fondue is made with Emmentaler, a very mild Swiss cheese, and Gruyère, a very pungent Swiss cheese.}}</ref>
+* Innerschweiz: [[Gruyère (cheese)|Gruyère]], Emmental, and [[Sbrinz]].
+* [[Geneva|Genevoise]]: [[Gruyère (cheese)|Gruyère]] (preferably of several stages of maturity) with a little Emmentaler and Valais cheese. Sometimes chopped sautéed [[morel]]s are added.<ref name=alb/>
+* Interlaken: [[Gruyère (cheese)|Gruyère]], Appenzeller, Emmental.
+* Appenzeller: [[Appenzeller (cheese)|Appenzeller]] cheese with cream added.
+* Tomato: [[Gruyère (cheese)|Gruyère]], Emmental, crushed [[tomato]]es, and wine.
+* Spicy: [[Gruyère (cheese)|Gruyère]], red and green peppers, with [[Chili pepper|chili]].
+* Mushroom: [[Gruyère (cheese)|Gruyère]], [[Vacherin Fribourgeois]], and mushrooms.
+
+===French===
+* Savoyarde: two or three different cheeses including [[Beaufort (cheese)|Beaufort]], [[Abondance cheese|Abondance]] or French equivalent of [[Gruyère cheese|Gruyère]] or [[Emmental (cheese)|Emmental]].
+* Jurassienne: Mature or mild Comté.
+* Auvergnate: [[Saint-Nectaire]], [[Cantal cheese|Cantal]] and [[Fourme d'Ambert]]<ref>French, http://cuisine.aufeminin.com/forum/recette-de-la-fondue-auvergnate-fd3920035</ref>
+
+===Italian===
+* Valdôtaine ({{langx|fr|fondue à la valdôtaine|links=no}};<ref>See [http://travelwithfranco.blogspot.it/2012/12/gressoney-la-trinite-val-daosta-italy.html 1] and [http://www.theflintstones.it/public/phpbb3/upload_doc/saveur_en_musique.pdf 2].</ref> {{langx|it|fonduta alla valdostana|links=no}}) in [[Aosta Valley]]: [[Fontina cheese|Fontina]], milk, and eggs.<ref>{{Cite web|title=La ricetta tradizionale della celebre fonduta valdostana|url=https://aosta.italiani.it/scopricitta/fonduta-valdostana/|access-date=23 July 2020|website=itAosta|date=19 November 2018 |language=it-IT}}</ref>
+* {{lang|it|Fonduta piemontese}} in [[Piedmont]].
+
+=== Prepared convenience food ===
+Refrigerated fondue blends are sold in most Swiss supermarkets as [[convenience food]] and need little more than melting in the caquelon. Individual portions heatable in a [[microwave oven]] are also sold.
+
+==Consumption and etiquette==
+[[File:Vive la Fondue.jpg|thumb|Close-up view of bread being dipped in melted cheese]]
+Fondue is eaten by spearing a piece of bread on a fork, swirling it in the pot, and putting it into the mouth.<ref>Fred Kemer, ''Fabulous Fondues: Appetizers, Main Courses, and Desserts'', 2000, {{isbn|0806954892}}, p. 14</ref> Some writers recommend that the dipping fork be used only to transport the food from the pot to one's plate, not to eat from.<ref>Ellen Brown, ''The Complete Idiot's Guide to Fondues and Hot Dips'', p. 10</ref>
+
+Losing a piece of bread in the caquelon is said to be penalized by buying a round of drinks, singing a song, or running around in the snow naked.<ref name='lovegren'/> This is parodied in ''[[Asterix in Switzerland]]'', where a character is sentenced to be drowned in [[Lake Geneva]] after losing his third piece of bread.<ref>{{cite book |last1=Goscinny |first1=René |last2=Uderzo |first2=Albert |title=Asterix in Switzerland |date=1970 |publisher=Orion Children's Books |isbn=0-7528-6635-4}}</ref> Other fondue etiquette rules include 'always stirring in a figure of 8', 'not scratching the bottom of the caquelon with a fork that has no side on it' and 'adding an egg and [[kirsch]] schnapps to the caquelon when the cheese is almost finished'.{{cn|date=October 2024}}
+
+There are various recommendations on the choice of accompanying beverage: some say white wine, others specify black tea. Some drink spirits during or after the meal, which supposedly helps digestion. Indeed, alcohol may provide short-term relief, but overall, it delays gastric emptying and prolongs perceived fullness.<ref>{{cite journal|author1=Henriette Heinrich |author2=Oliver Goetze |author3=Dieter Menne |author4=Peter X Iten |author5=Heiko Fruehauf |author6=Stephan R Vavricka |author7=Werner Schwizer |author8=Michael Fried |author9=Mark Fox |title=Effect on gastric function and symptoms of drinking wine, black tea, or schnapps with a Swiss cheese fondue: randomised controlled crossover trial|journal=BMJ|date=December 2010|volume=341|article-number=c6731 |doi=10.1136/bmj.c6731|pmid=21156747 |pmc=3272707 }}</ref> The delayed, strong feeling of fullness after eating fondue may be caused by phase separation in the stomach, the cheese fat initially floating in the stomach not being released into the [[duodenum]], delaying fat sensing and satiation.<ref name=Bertsch2019/>
+
+==See also==
+{{Portal|Switzerland|Food}}
+* [[List of fondues]] – other dishes inspired from fondue
+* [[Bagna càuda]] – a similar [[olive oil]]–based Northern Italian dish
+* [[Dip (food)#List of common dips|List of dips]]
+* [[Hot pot]]
+* [[List of bread dishes]]
+* [[List of cheese dishes]]
+* [[List of cheese soups]]
+* [[Raclette]] – another popular Swiss melted cheese dish
+* [[Chocolate fountain]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* [http://www.lebendigetraditionen.ch/traditionen/00112/index.html?lang=en Fondue as a social event] ({{Webarchive|url=https://web.archive.org/web/20150203194728/http://www.lebendigetraditionen.ch/traditionen/00112/index.html?lang=en |date=2015-02-03 }})
+* Isabelle Raboud-Schüle, "Comment la fondue vint aux Suisses", ''Annales fribourgeoises'' 72:101–112 (2010)
+* [https://www.helvetiq.com/swiss-fondue-en Swiss Fondue - The fine art of fondue in 52 tasty recipes]{{Dead link|date=January 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+==External links==
+{{Wiktionary|fondue}}
+{{Commons category|Fondue}}
+{{Spoken Wikipedia|date=2024-02-25|En-Fondue-article.ogg}}
+* [http://www.dw.com/en/bon-appetit-europe-part-1/av-18972724 "Bon Appetit Europe, Part 1"], Section 19:25 to 26:00 of the episode, Series: ''[[Bon Appetit Europe]]'', Part 1, [[DW-TV]] 12 January 2016, [https://www.youtube.com/watch?v=fYlTmGGgZDM also on YouTube (cut section only)]
+* [https://www.valais.ch/en/information/landingpage/recipes/fondue-with-dried-meat-crumble Fondue with dried meat crumble, Haute Fondue, Helvetiq, Valais/Wallis Promotion], [https://www.youtube.com/watch?v=HsshVPn-TyU also on YouTube]
+
+{{Cheese dishes}}
+{{Cuisine of Switzerland}}
+{{Authority control}}
+
+[[Category:Bread dishes]]
+[[Category:Cheese dishes]]
+[[Category:Communal eating]]
+[[Category:Cooking techniques]]
+[[Category:Creamy dishes]]
+[[Category:Creamy sauces]]
+[[Category:French cuisine]]
+[[Category:Italian cuisine]]
+[[Category:National dishes]]
+[[Category:Swiss cuisine]]
+[[Category:Table-cooked dishes]]
+[[Category:Wine dishes]]

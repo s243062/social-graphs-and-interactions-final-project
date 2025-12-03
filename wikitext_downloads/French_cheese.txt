@@ -1,0 +1,553 @@
+{{Short description|none}}
+[[Image:Principales AOC France.jpg|thumb|270px|Map of major [[Appellation d'origine contrôlée|AOC]] cheeses – the size of the symbol equates to the size of production]]
+This is a '''list of French cheeses''' documenting the varieties of [[cheese]]s, a milk-based food that is produced in wide-ranging flavors, textures, and forms, which are found in [[France]]. In 1962, French President [[Charles de Gaulle]] once asked, "How can you govern a country which has two hundred and forty-six varieties of cheese?"<ref>''Les Mots du Général'', Ernest Mignon (1962))</ref> There is immense diversity within each variety of cheese, leading some to estimate between 1,000 and 1,600 distinct types of French cheese.<ref name="institut-fromages-et-sante1"/> French cheeses are broadly grouped into eight categories, 'les huit familles de fromage'.<ref name="institut-fromages-et-sante1">{{cite web |url=http://www.institut-fromages-et-sante.com/fr/fromages-et-nutrition/tout-savoir-sur-le-fromage/fromages-et-nutrition/quelles-sont-les-grandes-familles-de-fromages/ |title=Quelles sont les grandes familles de fromages? – Module fromage – Sommaire – Tout savoir sur le fromage – Fromages et Nutrition – Institut Fromages & Santé |publisher=Institut-fromages-et-sante.com |date=2009-02-25 |access-date=2014-03-12 |archive-url=https://archive.today/20130126160244/http://www.institut-fromages-et-sante.com/fr/fromages-et-nutrition/tout-savoir-sur-le-fromage/fromages-et-nutrition/quelles-sont-les-grandes-familles-de-fromages/ |archive-date=2013-01-26 |url-status=dead }}</ref>
+
+==Protected designation of origin==
+Under the [[Common Agricultural Policy]] of the [[European Union]], certain established cheeses, including many French varieties, are covered by a [[protected designation of origin]] (PDO), and other, less stringent, designations of geographical origin for traditional specialities, such as the EU [[Protected Geographical Indication]] (PGI). The systems has largely replaced national systems, such as the French [[appellation d'origine contrôlée]] (AOC) system, as any cheese registered as a PDO or PGI can not use the designation AOC anymore in order to avoid confusion.<ref>{{cite web|language=French|work=INAO|url=https://www.inao.gouv.fr/eng/content/download/893/8162/version/3/file/2016INAO%20-%20fiche%20signe%20-%20AOP%20AOC%20-%20BD.pdf|title=L'Appellation d'origine protégée; L'Appellation d'origine contrôlée}}</ref>
+
+French cheese production is classified under four categories, and PDO/PGI/(AOC) rules dictate which category or categories each protected cheese may be assigned to:<ref name="DK-FrenchCheese">{{cite book |last= Masui |first= T. |author2=Tomoko, Y. |author3=Hodgson, R. |author4=Robuchon, J.  |title= French Cheeses |publisher= [[Dorling Kindersley|DK]] |year= 2004 |isbn= 1-4053-0666-1}}</ref>
+
+* '''Fermier''': farmhouse cheese, which is produced on the farm where the milk is produced.
+* '''Artisanal''': producer producing cheese in relatively small quantities using milk from their own farm, but may also purchase milk from local farms.
+* '''Coopérative''': dairy with local milk producers in an area that have joined to produce cheese. In larger ''coopératives'' quantities of cheese produced may be relatively large, akin to some ''industriel'' producers (many may be classed as factory-made<ref name="CheesesWorld">{{cite book |last= Barthélemy |first= Roland |author2=Sperat-Czar, Arnaud  |title= Cheeses of the world |publisher= [[Hachette Livre|Hachette Illustrated]] (London) |year= 2004 |isbn= 1-84430-115-X}}</ref>).
+*'''Industriel''': factory-made cheese from milk sourced locally or regionally, perhaps all over France (depending on the AOC/PDO regulations for specific cheeses).
+
+Some cheeses are classified, protected, and regulated under French law. The majority are classified as ''Appellation d'origine contrôlée'' (AOC), the highest level of protection. Some are also protected under the less stringent but still legally regulated designation Label Régional (LR). A few French cheeses are protected under the European Union's Protected Geographic Indication designation (PGI). Many familiar generic types, like [[Boursin cheese|Boursin]], are not covered, while others originally from other countries, such as [[Emmental cheese]], may have certain varieties protected as a French cheese. This list differs from those of Chundi status.
+
+{| class="sortable wikitable" style="width:100%; text-align:left"
+|-
+!Cheese
+!Year designated appellation
+!Producing region
+!Type of milk
+!Designation
+|-
+|[[Abondance cheese|Abondance]]
+|1990
+|[[Haute-Savoie]]
+|[[Cow]]
+|PDO
+|-
+|[[Banon cheese|Banon]]
+|2003
+|[[Provence-Alpes-Côte d'Azur]]
+|[[Goat]]
+|PDO
+|-
+|[[Beaufort cheese|Beaufort]]
+|1968
+|[[Savoie]]
+|Cow
+|PDO
+|-
+|[[Bleu d'Auvergne]]
+|1975
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[Bleu des Causses]]
+|1979
+|[[Midi-Pyrénées]]
+|Cow
+|PDO
+|-
+|[[Bleu de Gex]] Haut-Jura / Bleu de Septmoncel
+|1977
+|[[Franche-Comté]]
+|Cow
+|PDO
+|-
+|[[Bleu du Vercors-Sassenage]]
+|1998
+|[[Rhône-Alpes]]
+|Cow
+|PDO
+|-
+|[[Bucheron]]
+|
+|[[Loire Valley]]
+|Goat
+|PDO
+|-
+|[[Brie de Meaux]]
+|1980
+|[[Île-de-France]]
+|Cow
+|PDO
+|-
+|[[Brie de Melun]]
+|1980
+|[[Île-de-France]]
+|Cow
+|PDO
+|-
+|[[Brillat-Savarin cheese|Brillat-Savarin]]
+|2015
+|[[Burgundy]]
+|Cow
+|PGI
+|-
+|[[Brocciu]] Corse or Brocciu
+|1983
+|[[Corsica]]
+|[[Sheep]]
+|PDO
+|-
+|[[Brousse du Rove]]
+|2018
+|[[Le Rove]]
+|Goat
+|PDO
+|-
+|[[Cabécou]]
+|1988
+|[[Midi-Pyrénées]]
+|Goat
+|AOC
+|-
+|[[Cancoillotte]]
+|n/a
+|[[Franche-Comté]]
+|Cow
+|LR
+|-
+|[[Cantal cheese|Cantal]], Fourme de Cantal
+|1956
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[Camembert de Normandie]]
+|1983
+|[[Normandy]]
+|Cow
+|AOC
+|-
+|[[Cazelle de Saint Affrique]]
+|n/a
+|[[Midi-Pyrénées]], [[Aveyron]] Department
+|Sheep
+|PDO
+|-
+|[[Chabichou du Poitou]]
+|1990
+|[[Poitou-Charentes]]
+|Goat
+|PDO
+|-
+|[[Chaource cheese|Chaource]]
+|1970
+|[[Champagne-Ardenne]]
+|Cow
+|PDO
+|-
+|{{ill|Charolais (cheese)|lt=Charolais|fr|Charolais (fromage)}}
+|2010
+|[[Charolais, France]]
+|Goat
+|PDO
+|-
+|[[Chevrotin]]
+|2003
+|[[Savoy]]
+|Goat
+|PDO
+|-
+|[[Comté cheese|Comté]]
+|1952
+|[[Franche-Comté]]
+|Cow
+|PDO
+|-
+|[[Crottin de Chavignol]]/Chavignol
+|1976
+|[[Centre-Val de Loire]]
+|Goat
+|PDO
+|-
+|[[Emmental de Savoie]]
+|n/a
+|[[Savoie]]
+|Cow
+|PGI
+|-
+|[[Emmental français est-central]]
+|n/a
+|[[Franche-Comté]]
+|Cow
+|PGI
+|-
+|[[Époisses]]
+|1991
+|[[Burgundy]]
+|Cow
+|PDO
+|-
+|[[Fourme d'Ambert]]
+|1972
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[Fourme de Montbrison]]
+|1972
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[French Gruyère|Gruyère]]
+|2018<ref>{{cite web|url=https://www.tmdn.org/giview/gi/EUGI00000014024|title=Gruyère|work=European Union|access-date=26 September 2021}}</ref>
+|central eastern regions
+|Cow
+|PGI
+|-
+|[[Laguiole cheese|Laguiole]]
+|1961
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[Langres cheese|Langres]]
+|1991
+|[[Champagne-Ardenne]]
+|Cow
+|PDO
+|-
+|[[Livarot cheese|Livarot]]
+|1972
+|[[Normandy]]
+|Cow
+|PDO
+|-
+|[[Mâconnais cheese|Mâconnais]]
+|2006
+|[[Burgundy]]
+|Goat
+|PDO
+|-
+|[[Maroilles cheese|Maroilles]] or Marolles
+|1976
+|[[Nord-Pas-de-Calais]]
+|Cow
+|PDO
+|-
+|[[Mimolette]]
+|n/a
+|[[Nord-Pas-de-Calais]]
+|Cow
+|LR
+|-
+|Mont d'or, or [[Vacherin Mont d'Or]] du Haut-Doubs
+|2006
+|[[Franche-Comté]]
+|Cow
+|PDO
+|-
+|[[Morbier cheese|Morbier]]
+|2000
+|[[Franche-Comté]]
+|Cow
+|PDO
+|-
+|[[Munster cheese|Munster]] or Munster-Géromé
+|1969
+|[[Alsace]] and [[Vosges (department)|Vosges]] départements in [[Lorraine]]
+|Cow
+|PDO
+|-
+|[[Neufchâtel cheese|Neufchâtel]]
+|1969
+|[[Normandy]]
+|Cow
+|PDO
+|-
+|[[Ossau-lraty]]
+|1980
+|[[Aquitaine]]
+|Sheep
+|PDO
+|-
+|[[Pélardon]]
+|2000
+|[[Languedoc-Roussillon]]
+|Goat
+|PDO
+|-
+|[[Picodon]]
+|1983
+|[[Rhône-Alpes]]
+|Goat
+|PDO
+|-
+|[[Pont-l'Évêque cheese|Pont-l'Évêque]]
+|1976
+|[[Normandy]]
+|Cow
+|PDO
+|-
+|[[Pouligny-Saint-Pierre cheese|Pouligny-Saint-Pierre]]
+|1972
+|[[Centre-Val de Loire]]
+|Goat
+|PDO
+|-
+|{{ill|Raclette de Savoie|lt=Raclette de Savoie|fr|Raclette (fromage)}}
+|2015
+|[[Franche-Comté]]
+|Cow
+|PGI
+|-
+|[[Reblochon]] or Reblochon de Savoie
+|1958
+|[[Savoie]] and [[Haute-Savoie]]
+|Cow
+|PDO
+|-
+|[[Rigotte de Condrieu]]
+|2008
+|[[Lyon]]
+|Goat
+|PDO
+|-
+|[[Rocamadour cheese|Rocamadour]]
+|1996
+|[[Midi-Pyrénées]]
+|Goat
+|PDO
+|-
+|[[Roquefort]]
+|1925
+|[[Midi-Pyrénées]]
+|Sheep
+|PDO
+|-
+|[[Sainte-Maure de Touraine]]
+|1990
+|[[Centre-Val de Loire]]
+|Goat
+|PDO
+|-
+|[[Saint-Marcellin]]
+|2010
+|[[Rhône-Alpes]]
+|Cow
+|PGI
+|-
+|[[Saint-Nectaire]]
+|1955
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[Saint-Félicien cheese|Saint-Félicien]]
+|n/a
+|[[Rhône-Alpes]]
+|Cow
+|LR
+|-
+|[[Salers cheese|Salers]]
+|1979
+|[[Auvergne]]
+|Cow
+|PDO
+|-
+|[[Selles-sur-Cher cheese|Selles-sur-Cher]]
+|1975
+|[[Centre-Val de Loire]]
+|Goat
+|PDO
+|-
+|[[Soumaintrain (cheese)|Soumaintrain]] <small><sup>([[:fr:Soumaintrain_(fromage)|fr]])</sup></small>
+|2014
+|[[Soumaintrain]]
+|Cow<ref>{{Cite web |title=Official Journal C 47/2016 |url=https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:C:2016:047:FULL |access-date=2024-04-17 |website=eur-lex.europa.eu}}</ref>
+|PGI
+|-
+|[[Tome des Bauges]]
+|2002
+|[[Savoie]]
+|Cow
+|PDO
+|-
+|[[Tome fraîche]] 
+|n/a
+|[[Auvergne]] and [[Aubrac]]
+|Cow
+|AOC
+|-
+|[[Tomme de Savoie]]
+|n/a
+|[[Savoie]]
+|Cow
+|PGI
+|-
+|[[Tomme des Pyrénées]]
+|n/a
+|[[Midi-Pyrénées]]
+|Cow
+|PGI
+|-
+|[[Trou du Cru]]
+|n/a
+|[[Burgundy]], [[Côte-d'Or]] Department
+|Cow
+|AOC
+|-
+|[[Valençay cheese|Valençay]]
+|1998
+|[[Centre-Val de Loire]]
+|Goat
+|PDO
+|}
+
+[[Image:Sheeps cheese, Villefranche de Rouergue.jpg|thumb|Cheese seller in France]]
+
+==Other  cheeses==
+{{div col|colwidth=18em}}
+* [[Abbaye de Belloc]]
+* [[Abbaye de Tamié]]
+* [[Abbaye de Timadeuc Cheese]]
+* [[Affidélice]]
+* [[Autun cheese|Autun]]
+* [[Avalin cheese|Avalin]]
+* [[Babybel]]
+* [[Baguette laonnaise]]
+* [[Bilou cheese|Bilou]]
+* [[Blanc à fromage]] - Vosges
+* [[Bleu de Bresse]]
+* [[Bleu de Termignon]]
+* [[Bon Grivois]]
+* [[Boulette d'Avesnes]]
+* [[Boursin cheese]]
+* [[Brie]]
+* [[Brie]] Noir (Black Brie)
+* [[Brillat-Savarin cheese|Brillat-Savarin]]
+* [[Broccio Passu]]
+* [[Bucheron]]
+* [[Cabécou]]
+* [[Cabrinu]]
+* [[Cabriou]]
+* [[Cachaille]]
+* [[Cacouyard]]
+* [[Callebasse]]
+* [[Camembert du Calvados]] - Normandie
+* [[Cancoillotte]]
+* [[Cantal Entre-Deux]]
+* [[Cervelle de canut|Canut]]
+* [[Caprice des Dieux]]
+* [[Carré de l'Est]] - Lorraine
+* [[Cathare]]
+* [[Chamois d'or]]
+* [[Chaource cheese|Chaource]]
+* [[Chatou cheese|Chatou]]
+* [[Chaubier]]
+* [[Chaumes]]
+* [[Chevillon (cheese)|Chevillon]] - Haute-Marne
+* [[Citeaux]] - Burgundy
+* [[Coulommiers cheese|Coulommiers]]
+* [[Le Coutances|Coutances]]
+* [[Délice de Bourgogne]]
+* [[Délice du Calvados]]
+* [[Doux de Montagne]]
+* [[Ecorce de sapin]]
+* [[Édel de Cléron]]
+* [[Epenouse cheese|Epenouse]]
+* [[Explorateur]]
+* [[Faisselle]]
+* [[Fédou]]
+* [[Feuille de Dreux]]
+* [[Feuille du Limousin]]
+* [[Ficello]]
+* [[Figou]]
+* [[Fromage blanc]]
+* [[Fromage frais]] 
+* [[Fromager d'Affinois]]
+* [[Fougerus]]
+* [[Foudjou]]
+* [[Fourme d’Asco]]
+* [[Fourme de Cantal]]
+* [[Gaperon]]
+* [[Gros Lorrain]] - Vosges
+* [[The Laughing Cow|La Vache qui Rit]]
+* [[Lavort]]
+* [[Mamirollais]]
+* [[Mamirolle cheese|Mamirolle]]
+* [[Metton]]
+* [[Mont des Cats cheese|Mont des Cats]]
+* [[Mottin charentais]]
+* [[Mousseron]]
+* [[Niolo]]
+* [[Olivet cendré]]
+* [[Ortolan cheese|Ortolan]]
+* [[P'tit Basque]] - Pyrenees
+* [[P'tit Louis]]
+* [[Paletou]]
+* [[Pavé d'Auge]] - Normandy
+* [[Pavé d'Isigny]] - Normandy
+* [[Pavin cheese|Pavin]]
+* [[Perail]]
+* [[Pérassu cheese|Pérassu]]
+* [[Port Salut]]
+* [[Raclette]]
+* [[Rocamadour cheese|Rocamadour]]
+* [[Rochebarron]]
+* [[Roucoulons]]
+* [[Roue de Brielove]]
+* [[Saint Agur]]
+* [[Saint Albray]]
+* [[Saint-André cheese|Saint-André]]
+* [[Saint-Paulin cheese|Saint-Paulin]]
+* [[Saint-Rémy cheese|Saint-Rémy]]
+* [[Spinosien]]
+* [[Tarentais]]
+* [[Tome d'Arles]]
+* [[Tome de la Brigue]]
+* [[Tome de la Vésubie]]
+* [[Tome des Bauges]] - Savoie, Haute-Savoie
+* [[Tomme au Fenouil]]
+* [[Tomme Boudane]]
+* [[Tomme Butone]]
+* [[Tomme de Lévéjac]]
+* [[Tomme du Jura]]
+* [[Tomme du Revard]]
+* [[Toucy cheese|Toucy]]
+* [[Tourrée de l'aubier]]
+* [[Tracle cheese|Tracle]]
+* [[Trappista cheese|Trappista]]
+* [[Trèfle cheese|Trèfle]]
+* [[Tricorne de Marans]]
+* [[Trinqueux cheese|Trinqueux]]
+* [[U Muntagnolu]]
+* [[Vallé d'Ossau]]
+* [[Velay cheese|Velay]]
+* [[Venaco cheese|Venaco]]
+* [[Vesontio cheese|Vesontio]]
+* [[Vieux-Boulogne]]
+* [[Vieux Samer]]
+* [[Void cheese|Void]]
+* [[Xaintray cheese|Xaintray]]
+{{div col end}}
+
+==See also==
+{{portal|Food|France}}
+* [[List of cheeses]]
+* [[List of cheesemakers]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+{{commonscat|Cheese from France}}
+* [http://tout1fromage.canalblog.com/albums/les_fromages/index.html Pictures Gallery of French Cheese (and some others)]
+* [http://www.gourmet-food.com/gourmet-cheese/french-cheese-901-30006.aspx Pictures and detailed information on French Cheese] {{Webarchive|url=https://web.archive.org/web/20100819143456/http://www.gourmet-food.com/gourmet-cheese/french-cheese-901-30006.aspx |date=2010-08-19 }}
+
+{{Cheese}}
+{{French cheeses}}
+{{Geographical indications}}
+{{French cuisine}}
+
+[[Category:French cheeses| ]]
+[[Category:Lists of cheeses|French]]
+[[Category:French cuisine-related lists|Cheese]]
+[[Category:Cheeses with designation of origin protected in the European Union|+FranceList_of_French_cheeses]]

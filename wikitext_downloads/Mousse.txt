@@ -1,0 +1,58 @@
+{{Short description|Soft creamy prepared food using air bubbles for texture}}
+{{Other uses}}
+{{Distinguish|Moose}}
+{{Use American English|date=February 2024}}
+{{Use mdy dates|date=February 2024}}
+{{Refimprove|date=December 2011}}
+{{Infobox food
+| name            = Mousse
+| image           = Chocolate coffee mousse.jpg
+| image_size      = 
+| caption         = Chocolate mousse garnished with ground cinnamon
+| alternate_name  = 
+| country         = France
+| region          = 
+| creator         = 
+| course          = [[Dessert]]
+| type            = 
+| served          = 
+| main_ingredient = [[Egg white#Egg white foam|Whipped egg white]]s or [[whipped cream]], [[chocolate]] or puréed fruit
+| variations      = [[Chocolate]], [[vanilla]], [[strawberry]], choco vanilla, etc.
+}}
+
+A '''mousse''' ({{IPAc-en|ˈ|m|uː|s}}, {{IPA|fr|mus|lang}}; {{literally|foam}}) is a soft, prepared food that incorporates air bubbles to give it a light and airy texture. Depending on preparation techniques, it can range from light and fluffy to creamy and thick. A mousse may be sweet or savory.<ref name=foodterms>[http://www.foodterms.com/encyclopedia/mousse/index.html "Mousse"] {{Webarchive|url=https://web.archive.org/web/20161229014433/http://www.foodterms.com/encyclopedia/mousse/index.html |date=2016-12-29 }}. ''[[Food Network]] Food Encyclopedia''. Retrieved February 21, 2017.</ref>
+
+==History==
+{{Main|Whipped cream#History|l1=Whipped cream: history}}
+Various desserts consisting of whipped cream in pyramidal shapes with coffee, liqueurs, chocolate, fruits, and so on either in the mixture or poured on top were called {{lang|fr|crème en mousse}} ('cream in a foam'), {{lang|fr|crème mousseuse}} ('foamy cream'), {{lang|fr|mousse}} ('foam'), and so on,<ref name="emy">M. Emy (officier), ''L'Art de bien faire les glaces d'office; ou, Les vrais principes pour congeler tous les rafraichissemens, etc'', Paris, 1768 [https://books.google.com/books?id=qDZdAAAAcAAJ&pg=PA222 p. 222]</ref><ref> Courchamps, comte de ''[[Néo-physiologie du goût par ordre alphabétique]] ou Dictionnaire générale de la cuisine française'', 1839, [https://books.google.com/books?id=ts9QAQAAIAAJ&pg=PA184 p. 184]</ref> as early as 1768.<ref name="chev">Jim Chevallier, ''A History of the Food of Paris: From Roast Mammoth to Steak Frites'', 2018, {{isbn|1442272821}}, p. 195</ref><ref>"Tante Marie", ''La Véritable cuisine de famille, comprenant 1.000 recettes et 500 menus'', 18??, [https://books.google.com/books?id=5A80_xF0vHUC&pg=PA296 p. 296] "Crème fouettée (ou Fromage à la Chantilly)"</ref><ref>Mrs. Beeton, ''The book of household management'', 1888, [https://books.google.com/books?id=otoAAAAAYAAJ&pg=PA927 p. 927]</ref> Modern mousses are a continuation of this tradition.
+
+==Types==
+===Sweet===
+Sweet mousses are typically made with [[Egg white#Egg white foam|whipped egg white]]s, [[whipped cream]],<ref>Prosper Montagné, ''[[Larousse Gastronomique]]'', 1961 (English translation of 1938 French edition), p. 630</ref> or both, and flavored with one or more of chocolate, coffee, caramel,<ref>{{Cite web|title = Caramel & White Chocolate Mousse Recipe|url = http://videoculinary.com/recipes/desserts/222-white-chocolate-caramel-mousse|website = VideoCulinary.com|access-date = 2016-01-04|language = en-GB|archive-date = 2015-11-01|archive-url = https://web.archive.org/web/20151101182910/http://videoculinary.com/recipes/desserts/222-white-chocolate-caramel-mousse|url-status = live}}</ref> puréed fruits, or various herbs and spices, such as mint or vanilla.<ref>{{Cite web|title = How to prepare Mousse|url = https://www.nestledessertsarabia.com/recipe-details/frozen-chocolate-mousse/332|language = en-GB}}{{Dead link|date=October 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In the case of some chocolate mousses, egg yolks are often stirred into melted chocolate to give the final product a richer mouthfeel. Mousses are also typically chilled before being served, which gives them a denser texture. Additionally, mousses are often frozen into silicone molds and unmolded to give the mousse a defined shape. Sweetened mousse is served as a dessert or used as an airy cake filling.<ref>{{Cite web|date=2019-11-29|title=Silky mousses with a stable structure: a few tips and tricks -|url=https://quescrem.es/en/silky-mousses-with-a-stable-structure-a-few-tips-and-tricks/|access-date=2021-06-25|website=Quescrem|language=en-US|archive-date=2021-06-25|archive-url=https://web.archive.org/web/20210625153009/https://quescrem.es/en/silky-mousses-with-a-stable-structure-a-few-tips-and-tricks/|url-status=dead}}</ref> It is sometimes stabilized with gelatin.<ref name="Hyman">{{cite book|last1=Hyman|first1=Gaston|editor1-last=Hyman|editor1-first=Phillip|editor2-last=Hyman|editor2-first=Mary|title=Lenôtre's Desserts and Pastries|date=1977|publisher=Barrons Educational Series Inc|location=Woodbury, New York|isbn=978-0812051377|page=[https://archive.org/details/lenotresdesserts00leno/page/78 78]|edition=1st|language=en|url-access=registration|url=https://archive.org/details/lenotresdesserts00leno/page/78}}</ref><ref>{{Cite news|url=https://www.npr.org/2014/02/13/276044516/paris-confidential-the-mystery-mousse-behind-the-chocolate-bar|title=Paris Confidential: The Mystery Mousse Behind The Chocolate Bar|work=NPR.org|access-date=2017-10-05|language=en|archive-date=2017-10-06|archive-url=https://web.archive.org/web/20171006012620/http://www.npr.org/2014/02/13/276044516/paris-confidential-the-mystery-mousse-behind-the-chocolate-bar|url-status=live}}</ref> When making a new flavor of mousse, an important rule is the body is formed of whipping cream and either separated egg yolks or whites (almost never both in the same dish), and frequently, gelatin.
+
+===Savory===
+Savory mousses can be made from meat, fish, [[shellfish]], [[foie gras]], cheese, or vegetables. Hot mousses often receive their light texture from the addition of beaten egg whites.<ref name=foodterms/>
+
+Molded and shaped fish mousse with bread and butter remains a popular meal of American cuisine, if not a party dip, although it is not as common as it was in the 1950s.<ref>''Good Housekeeping, July 1907''</ref><ref>{{cite web |title=Bring Back Salmon Mousse |website=Taste Magazine |publisher=Penguin Random House |url=https://www.tastecooking.com/bring-back-salmon-mousse/ |access-date=2020-09-09 |archive-date=2021-05-18 |archive-url=https://web.archive.org/web/20210518103355/https://www.tastecooking.com/bring-back-salmon-mousse/ |url-status=live }}</ref>
+
+==Gallery==
+<gallery>
+File:Lemon mousse with peach compote (4455679740).jpg|Lemon mousse with peach compote
+File:Smoked salmon and dill mousse in cucumber cups.jpg|Savory salmon mousse
+File:Mousse cake 7.jpg|Mousse cake
+File:Debesmanna.JPG|Redcurrant semolina mousse
+</gallery>
+
+==See also==
+* [[Custard]]
+* [[List of desserts]]
+* [[Pudding]]
+{{Commons category-inline}}
+{{Cookbook-inline|Chocolate Mousse}}
+{{Portal|France|Food}}
+
+==References==
+{{Reflist}}
+
+[[Category:French desserts]]
+[[Category:Creamy dishes]]

@@ -1,0 +1,40 @@
+{{Short description|Greek lamb offal soup associated with Easter}}
+{{More citations needed|date=April 2022}}
+{{Infobox prepared food
+| name             = Magiritsa
+| image            = Mageiritsa soup.jpg
+| image_size       = 250px
+| caption          = 
+| alternate_name   = Easter soup, Easter Sunday soup, Easter lamb soup
+| country          = [[Greece]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Soup]]
+| served           = 
+| main_ingredient  = [[Lamb and mutton|Lamb]] offal
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Magiritsa''' ({{Langx|el|μαγειρίτσα}} {{IPA|el|maɣiˈrit͡sa}}) is a [[Greek cuisine|Greek]] [[soup]] made from [[Lamb and mutton|lamb]] offal, associated  with the [[Easter]] (Pascha) tradition of the [[Eastern Orthodox Church|Greek Orthodox Church]].<ref name="D Murakhver 2012">{{cite book | last=D | first=J.D.P. | last2=Murakhver | first2=N. | title=They Eat That?: A Cultural Encyclopedia of Weird and Exotic Food from Around the World | publisher=ABC-CLIO | year=2012 | isbn=978-0-313-38058-7 | url=https://books.google.com/books?id=kcikMWmnQm4C&pg=PA125 | access-date=April 14, 2022 | page=125}}</ref><ref>{{cite book | last=Hayden | first=G. | title=Taverna: From the Sunday Times Bestselling Author | publisher=Random House | series=Exclud Can | year=2019 | isbn=978-1-4735-2413-2 | url=https://books.google.com/books?id=nWdkDwAAQBAJ&pg=PT14 | access-date=April 14, 2022 | page=pt14}}</ref> Accordingly, Greek-Americans and Greek-Canadians sometimes call it "Easter soup", "Easter Sunday soup", or "Easter lamb soup".<ref name="D Murakhver 2012"/> In some parts of Greece, most notably [[Thessaly]], it is not served as soup but rather as a [[fricassee]], where it contains only offal and large variety of vegetables, but no onions or rice, as in the soup.
+
+==Traditional use==
+Magiritsa is eaten to break the [[fasting|fast]] of the [[Eastern Orthodox Church|Greek Orthodox]] [[Great Lent]], the 40 days before Easter.<ref name="D Murakhver 2012"/> Its role and ingredients result from its association with the roasted lamb traditionally served at the Paschal meal; in its traditional form, magiritsa consists of the offal removed from the lamb before roasting, flavored with seasonings and sauces. Prepared on [[Holy Saturday]] along with the next day's lamb, magiritsa is consumed immediately after the midnight Divine Liturgy.
+
+When eaten on Easter morning after church, magiritsa is sometimes accompanied by [[salad]] and [[cheese]], [[tsoureki]] sweet bread, and hard-boiled [[egg (food)|eggs]] dyed red.{{cn|date=August 2023}}
+
+==See also==
+* [[List of soups]]
+
+==References==
+{{reflist}}
+
+{{Greek soups}}
+{{Cuisine of Greece}}
+
+[[Category:Greek soups]]
+[[Category:Easter food]]
+[[Category:National dishes]]
+[[Category:Easter traditions in Greece]]

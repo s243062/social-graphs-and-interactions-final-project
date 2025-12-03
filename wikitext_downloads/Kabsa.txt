@@ -1,0 +1,77 @@
+{{short description|Arab rice dish}}
+{{pp-vandalism|small=yes}}
+{{Infobox food
+| name               = Kabsa
+| image              = Machboos (cropped).JPG
+| caption            = 
+| alternate_name     = {{langx|ar|كبسة}}
+| region             = [[Arabian Peninsula]]<ref name="Anissa Helou"/>
+| course             = Meal
+| served             = 
+| main_ingredient    = [[Rice]] (usually long-grain, almost always [[basmati]]), [[Chicken as food|chicken]], [[vegetable]]s, and a mixture of [[spice]]s ([[cardamom]], [[saffron]], [[cinnamon]], [[black lime]], [[Bay leaf|bay leaves]] and [[nutmeg]])
+| variations         = Machboos ({{langx|ar|مكبوس/مچبوس|makbūs/machbūs}})
+| other              = 
+| name_lang          = ar
+| place_of_origin    = 
+}}
+{{Arab cuisine}}
+'''Kabsa''' ({{langx|ar|كبسة|kabsah}}), also known as '''Makboos''' ({{langx|afb|مكبوس}}) or '''Machboos''' ({{langx|afb|المجبوس|link=no}} {{IPA|[mɑtʃˈbuːs]}}), is an Arab [[mixed rice dish]] that originates from [[Saudi Arabia]]<ref name=":1">{{Cite web |date=2022-05-27 |title=Al Kabsa - Ancient Arabian Chicken and Fragrant Rice Recipe - Food.com |url=https://www.food.com/recipe/al-kabsa-ancient-arabian-chicken-and-fragrant-rice-290003 |access-date=2024-07-28 |website=Food.com |quote=This classic Arabian dish is Saudi Arabian in origin |archive-date=2022-05-27 |archive-url=https://web.archive.org/web/20220527060617/https://www.food.com/recipe/al-kabsa-ancient-arabian-chicken-and-fragrant-rice-290003 |url-status=bot: unknown }}</ref>{{bsn|reason="Personal-made blogs aren't reliable sources"|date=August 2025}} or [[Yemen]].<ref>{{Cite book |last=Edwards |first=Grace |url=https://books.google.com/books?id=wtzoEAAAQBAJ&pg=PT111 |title=Saudi Arabia |date=2023-12-19 |publisher=Bradt Travel Guides |isbn=978-1-80469-237-0 |pages=111 |language=en |quote=Kabsa is the national dish of Saudi Arabia, though it originates from Yemen and is eaten throughout the Arabian Peninsula.}}</ref> It is commonly regarded as a [[national dish]] in all the countries of the [[Gulf Cooperation Council]]. It can also be found in regions such as southern [[Iran]] and [[Gaza strip|Gaza]] in [[Palestine (region)|Palestine]].<ref name="Anissa Helou">{{cite book |title=Feast: Food of the Islamic World|author=Anissa Helou|date=4 October 2018|publisher=Bloomsbury |isbn=9781526605566|url=https://books.google.com/books?id=z6dvDwAAQBAJ&pg=PT389}}</ref><ref>{{cite news |title=‘Gulf Barbie’ makes pink Kabsa in latest doll-themed trend |url=https://www.newarab.com/news/gulf-barbie-makes-pink-kabsa-latest-doll-themed-trend |access-date=28 October 2025 |work=The New Arab |date=26 Jul 2023}}</ref>
+
+== History ==
+The dish's origins are contested, with several theories as to its origin. It is believed that the Kabsa was prepared by [[Bedouin]] tribes who roamed the deserts of the [[Arabian Peninsula]]. They relied on simple and readily available ingredients: rice, meat (usually [[Lamb and mutton|lamb]] or [[Chicken as food|chicken]]), and a blend of spices.<ref name=":1" /> Another theory is that the Kabsa is inspired from another Yemeni dish, the ''[[Mandi (food)|mandi]]'', a rice dish cooked with meat in a [[Earth oven|pit]].<ref name=":2">{{Cite web |title=Kabsa Saudi Arabia's Culinary Crown Jewel |url=https://sauditimes.org/insights/culture/kabsa-the-dish-at-the-heart-of-saudi-cuisine/ |access-date=2025-05-07 |website=sauditimes.org |language=en}}</ref> A third theory says that the dish was inspired from the [[Paella]], a [[Spain|Spanish]] rice dish that used to be prepared by the [[Andalusians]].<ref>{{Cite news |title=لا .. الكبسة ليست سعودية الجذور |url=https://www.alriyadh.com/275075 |archive-url=https://web.archive.org/web/20250508123342/https://www.alriyadh.com/275075 |archive-date=2025-05-08 |access-date=2025-05-13 |work=جريدة الرياض |language=ar |url-status=live }}</ref>
+
+Over time, as trade routes expanded and new ingredients became accessible, variations of kabsa began to emerge. Each region in Saudi Arabia has its own version of kabsa. Despite these differences, the essence remains—the combination of rice, meat, and aromatic spices.<ref>{{Cite web |last=Keliher |first=Irene |date=2023-09-27 |title=Kabsa: The Iconic Dish as Prepared in Saudi Arabia |url=https://blog.remitly.com/lifestyle-culture/nationaldishes-kabsa-fascinating-facts-saudi-arabia/ |access-date=2024-07-28 |website=Beyond Borders |language=en-US}}</ref>{{bsn|date=May 2025}}
+
+In 2021, the [[Ministry of Culture (Saudi Arabia)|Ministry of Culture of Saudi Arabia]], announced an initiative to promote Kabsa as part of its national heritage.<ref name=":2" />
+
+== Etymology ==
+
+{{Wiktionary|كبسة}}
+
+The name comes from the arabic root ''k-b-s'' ({{langx|ar|ك ب س}}), literally meaning to press or squeeze, alluding to the technique used in the cooking where the ingredients are all cooked in (or "squeezed into") one pot.{{Citation needed|date=May 2023}}
+
+==Ingredients==
+[[File:الكبسة الفلسطينية.jpg|left|thumb|The [[Palestinian]] kabsa, consisting of rice, vegetables, and some spices added to it. It is served with grilled chicken.]]
+These dishes, of which there are many variations, are usually made with [[rice]] (usually [[basmati]]), [[meat]], [[vegetable]]s, and a mixture of [[spice]]s. 
+
+Pre-mixed kabsa spices are now available under several brand names. These reduce preparation time, but may have a flavor distinct from traditional kabsa. The spices used in kabsa are largely responsible for its taste; these are generally [[black pepper]], [[clove]]s, [[cardamom]], [[saffron]], [[cinnamon]], [[black lime]], [[Bay leaf|bay leaves]] and [[nutmeg]].<ref>{{cite web|title=Al Kabsa - Traditional Rice dish|url=http://www.food.com/recipe/al-kabsa-traditional-saudi-rice-chicken-dish-289878|work=Food.com|access-date=23 June 2012}}</ref>
+
+The main ingredient that accompanies the spices is the meat. The meats used are usually [[Chicken (food)|chicken]], [[Goat meat|goat]], [[Lamb and mutton|lamb]], [[Camel#Meat|camel]], [[beef]], [[Fish as food|fish]] or [[Shrimp and prawn as food|shrimp]]. In chicken ''machbūs'', a whole chicken is used.{{Citation needed|date=May 2023}}
+
+The spices, rice, and meat may be augmented with [[almond]]s, [[pine nut]]s, [[peanut]]s, [[onion]]s, and [[Raisin|sultanas]].<ref>{{cite web|title=How to Make Kabsa|url=http://www.wikihow.com/Make-Kabsa|access-date=23 June 2012|archive-date=17 December 2011|archive-url=https://web.archive.org/web/20111217101843/http://www.wikihow.com/Make-Kabsa|url-status=dead}}</ref> The dish can be garnished with ''ḥashū'' ({{langx|ar|حشو}}) and served hot with ''[[Chili_sauce_and_paste#Levant_and_Arabia|daqqūs]]'' ({{langx|ar|دقّوس}}), which is a home-made Arabic [[tomato sauce]].{{Citation needed|date=May 2023}}
+
+==Methods of cooking==
+[[File:Chicken Mandi Rice مندي دجاج.JPG|thumb|185x185px|[[Mandi (food)|Mandi]] is one of the most popular ways of eating this dish. It originates from [[Yemen]].<ref>{{Cite book |last=Salloum |first=Habeeb |title=The Arabian nights cookbook : from lamb kebabs to baba ghanouj, delicious homestyle Arabian cooking |date=2010 |publisher=Tuttle Pub |others=Suan I. Lim |isbn=978-1-4629-0524-9 |location=Tokyo |oclc=782879761}}</ref>]]
+Meat for kabsa can be cooked in various ways. A popular way of preparing meat is called ''[[Mandi (food)|mandi]]''. This ancient technique originates from [[Yemen]], and involves a type of [[earth oven]] called the {{Transliteration|ar|tannor|}}, whereby a whole lamb meat is barbecued in a deep hole in the ground that is then covered while the meat cooks.<ref name=":0">{{cite book |author=Anissa Helou |url=https://books.google.com/books?id=z6dvDwAAQBAJ&q=mandi&pg=PT389 |title=Feast: Food of the Islamic World |date=4 October 2018 |publisher=Bloomsbury Publishing |isbn=9781526605566}}</ref> Another way of preparing and serving meat for kabsa is ''mathbi'', where seasoned meat is grilled on flat stones that are placed on top of burning embers. A third technique, ''madghūt'', involves cooking the meat in a [[pressure cooker]].{{Citation needed|date=May 2025}}
+
+==See also==
+{{Portal|Food|Yemen|Saudi Arabia|Kuwait
+}}
+*[[Haneeth]], mixed rice dish from Yemen
+*[[Maqluba]], mixed rice dish from the [[Levant]]
+*[[Arab cuisine]]
+*[[National symbols of Saudi Arabia]]
+*[[National symbols of Kuwait]]
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+[[Category:Middle Eastern cuisine]]
+[[Category:Yemeni cuisine]]
+[[Category:Saudi Arabian cuisine]]
+[[Category:Kuwaiti cuisine]]
+[[Category:Palestinian cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Emirati cuisine]]
+[[Category:Bahraini cuisine]]
+[[Category:Qatari cuisine]]
+[[Category:Omani cuisine]]
+[[Category:Iranian cuisine]]
+[[Category:Indian cuisine]]
+[[Category:National dishes]]
+[[Category:Rice dishes]]
+[[Category:Communal eating]]
+[[Category:National symbols of Saudi Arabia]]
+[[Category:National symbols of Kuwait]]

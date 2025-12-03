@@ -1,0 +1,58 @@
+{{Short description|Turkish bean stew}}
+{{Infobox food
+| name = 
+| image = Kuru Fasulye...JPG
+| image_size =
+| image_alt =
+| caption = Kuru fasulye
+| alternate_name = 
+| type = 
+| course = 
+| country = 
+| region = 
+| national_cuisine = [[Turkish cuisine]]
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 
+| maxtime = 
+| served = 
+| main_ingredient =  [[common bean|white beans]] and [[olive oil]], and [[onion]] and [[tomato paste]] or [[tomato sauce]]
+| minor_ingredient = 
+| variations = 
+| serving_size = 100 g
+| calories = 
+| calories_ref =
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| similar_dish = 
+| cookbook =
+| commons =
+| other = 
+| no_recipes= false
+}}
+[[File:Eskişehir Sivrihisar Kaymaz Geleneksel Kuru Fasulye Festivali.JPG|thumb|An annual kuru fasulye festival is held in [[Kaymaz]], [[Sivrihisar]].]]
+
+'''Kuru fasulye''' is a [[stewed]] [[bean]] dish in [[Turkish cuisine]].<ref>From the editor Afar May 2014 page 18</ref><ref>[http://www.deliciousistanbul.com/blog/2014/02/02/white-bean-stew-kuru-fasulye/ White bean stew] Delicious Istanbul</ref> It is made primarily with [[common bean|white beans]] and [[olive oil]], and [[onion]] and [[tomato paste]] or [[tomato sauce]] are almost invariably used. Sometimes other vegetables or meat may also be added, especially [[pastirma]]. Kuru fasulye is often served along with [[cacık]] and [[rice]] or [[bulgur]]. It is often considered the [[national dish]] of Turkey.<ref>[http://turkishfood.about.com/od/BeansRiceGrains/r/Navy-Bean-Stew-Considered-Turkey-S-National-Dish.htm Navy Bean Stew And Rice Is Turkey's National Dish] {{Webarchive|url=https://web.archive.org/web/20181226023134/https://www.thespruceeats.com/turkish-style-pinto-beans-3274130 |date=2018-12-26 }} turkishfood.about.com</ref><ref>[http://www.sabah.com.tr/yazarlar/pazar/ors/2012/12/16/kuru-fasulyemi-geri-istiyorum Kuru fasulyemi geri istiyorum!] Sabah</ref>{{not in source|date=November 2025}}
+
+Also known as Mash Shorbasi in Azerbaijan.
+
+==See also==
+{{Portal|Food}}
+* [[List of legume dishes]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://books.google.com/books?id=ugi4BwAAQBAJ&dq=white+beans+kaan+bora+mersinli&pg=PP2 Recipe in English]
+
+{{Legume dishes}}
+{{Cuisine of Turkey}}
+
+[[Category:Turkish stews]]
+[[Category:Legume dishes]]
+
+
+{{Turkey-cuisine-stub}}

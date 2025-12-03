@@ -1,0 +1,98 @@
+{{short description|Traditional Caribbean dish}}
+{{Infobox food
+| name = Mofongo
+| image = Mofongo.jpg
+| caption = 
+| country = [[Puerto Rico]]
+| creator = 
+| course = Main course
+| served = Hot
+| alternate_name = Mofongo pelao, mofongo criollo, mofonguito
+| main_ingredient = [[cooking plantain|Plantains]], [[chicharrón]], [[cooking oil]] ([[olive oil]], [[lard]], or [[butter]]), and garlic
+| variations = [[Fufu]], [[tacacho]], [[cayeye]], [[mangú]]
+| other = Popular throughout:<br />[[Puerto Rico]]<br />[[Dominican Republic]]<br/>[[New Jersey]]<br />[[Florida]]<br />[[New York City]]<br/>[[Boston]]<br/>[[Colombia]]
+}}
+
+'''Mofongo''' ({{IPA|es|moˈfoŋɡo}}) is a dish from Puerto Rico 
+with [[Plantain (cooking)|plantains]] as its main [[ingredient]].<ref name="Torres 2006 p. ">{{cite book | last=Torres | first=A. | title=Latinos in New England | publisher=Temple University Press | year=2006 | isbn=978-1-59213-418-2 | url=https://archive.org/details/latinosinnewengl00andr | url-access=registration | language=es | access-date=12 November 2019 | page=[https://archive.org/details/latinosinnewengl00andr/page/106 106]}}</ref> Plantains are picked green, cut into pieces and typically fried in more modern versions but can be boiled in broth or roasted, then mashed with salt, garlic, pork, broth, and [[cooking oil]] (olive oil, [[butter]], and [[lard]] is typically used) in a wooden pilón ([[mortar and pestle]]). Cassava and sweet potato are boiled, then roasted or flash-fried; plantains can also be made in this method or roasted before flash-frying.<ref>{{Cite news | url = https://www.orlandosentinel.com/2005/01/19/gusto/| title = Gusto!; Plantains Carry Deep Roots of Tradition in Mofongo| last = Carballo| first = Viviana| date = January 19, 2005| access-date = December 16, 2015| work = Orlando Sentinel}}</ref><ref>{{Cite book | title = Plantain Hybrids: Fresh Market and Processing Characteristics| last = Cordero Malavé|first = Deborah|publisher = University of Puerto Rico, Mayagüez Campus|year = 2010|location = Mayagüez, PR|pages = 9, 41|url = https://drive.google.com/open?id=0B_q6VhhkczIYS2x2U2lUV0tMWUU}}</ref> The goal is to produce a tight ball of mashed plantains that will absorb the attending condiments and have either [[Pork rind|pork cracklings]] (''[[chicharrón]]'') or bits of [[bacon]] inside. It is traditionally served with fried [[meat]] and [[chicken broth]] [[soup]].<ref name="duke">{{cite book | url=https://books.google.com/books?id=yTYWZnlz0akC&dq=Mofongo+origin&pg=PA97| title=The Repeating: The Caribbean and the Postmodern Perspective | publisher=Duke University Press |author=Antonio Benítez-Rojo |others=James E. Maraniss (translation) |year=1996|isbn=0-8223-1865-2 |page=97}}</ref> Particular flavors result from variations that include [[vegetable]]s, [[Chicken as food|chicken]], [[Shrimp and prawn as food|shrimp]], [[beef]], or [[Octopus as food|octopus]] packed inside or around the plantain orb.
+
+==Origin and history==
+Mofongo is a traditional Puerto Rico dish combining influences from the cultures of the [[Greater Antilles]] Island descending from Spain, West Africa, and [[Taíno]], where Puerto Rico gets most of its culture and roots. These cultural influences also resulted in the creation of mofongo's distantly-related but notably different West African dish [[fufu]], but Mofongo's unique flavor comes from a combination of West African flavors and the Taíno Indian culinary tradition of mashing root vegetables, mixed with major Spanish culinary influences. Fufu, a sticky dough pulled and eaten by hand, is made from various [[starch]]y [[vegetable]]s. Fufu was bought to the Caribbean by [[Slavery in the Spanish New World colonies|Africans in the Spanish New World colonies]]. Each country developed their own unique dish borne from their cultural origins and influences that were very different from original native dish such as [[Trinidad and Tobago]] (pong plantain also known as tum-tum), [[Cuba]] ''(fufu de plátano'' and ''machuquillo)'', Dominican Republic ''(mangú)'', Haiti ''(tomtom)'' and Puerto Rico ''(mofongo'' and ''funche criollo)''; this also most likely includes [[Colombia]] ''(cayeye)'', [[Ecuador]] ''(bolón)'', [[Costa Rica]] ''(angú)'', [[Amazon region]], and [[Peru]] ''(tacacho)''.{{citation needed|date=August 2024}}
+
+The earliest known written recipes for mofongo appeared in Puerto Rico's first cookbook, ''El Cocinero Puerto-Riqueño o Formulario'', in 1859.<ref>{{cite book |author1=Barradas, Efraín |editor1-last=De Maeseneer |editor1-first=Rita |editor2-last=Collard |editor2-first=Patrick |title=Saberes y sabores en México y el Caribe |date=2010 |publisher=Brill |location=Boston |isbn=978-90-420-3045-9 |page=269 |language=es|doi=10.1163/9789042030459 |hdl=1854/LU-1013097 |url=https://biblio.ugent.be/publication/1013097 }}</ref> The title of the recipe is ''mofongo criollo''. Green plantains are cleaned with lemon, boiled with veal and hen, then mashed with garlic, oregano, ''[[ají dulce]]'', bacon or lard, and ham. It is then formed into a ball and eaten with the broth in which it was cooked.{{citation needed|date=August 2024}}
+
+The ''El Cocinero Puerto-Riqueño o Formulario'' has similar recipes. ''Funche criollo'' is made from green or yellow plantains boiled with [[taro]] or [[yam (vegetable)|yams]], mashed and eaten with sesame broth soup or a sauce made from garlic, lard, tomato sauce, onions, and ''ají dulce'' ([[sofrito]]). The similar ''funche criollo'' does not include pork, however, one of the a key ingredients in traditional ''mofongo''.{{citation needed|date=August 2024}}
+
+Another well-known recipe was written by Elizabeth B.K. Dooley in her ''Puerto Rican cookbook'' (1948). The recipe calls for yellow plantains fried in lard, mashed with garlic, olive oil, and chicharrón, and then formed into a ball.{{citation needed|date=August 2024}}
+
+A 1980 booklet from the U.S. government promoting tourism in Puerto Rico wrote of mofongo as being "jocularly described as a Puerto Rican [[Matzah ball|matzoh ball]]" and described mofongo as being a "mashed, roasted plantain, combine with bacon, spices and goes well with chicken soup".<ref>{{cite book |title=Puerto Rico, U.S.A. |date=1980 |publisher=US Government |url=https://commons.wikimedia.org/wiki/File:Puerto_Rico,_U.S.A._plantains.jpg}}</ref> ''El Cocinero Puerto-Riqueño o Formulario'' also has an example of green plantains roasted over coal and eaten with fat and garlic called ''plátanos asado''.{{citation needed|date=August 2024}}
+
+The recipe has many variants throughout Puerto Rico, but most have maintained the key ingredients of traditional ''mofongo'', such as pork, cooking oil, spices, broth, and starch, as well as the use of a pilón for mashing. The contemporary interpretation of classic ''mofongo'' involves frying the starch in lard or oil, and that method makes the dish distinctively Puerto Rican, giving it a crusty, dense, and [[umami]] flavor.{{citation needed|date=August 2024}}
+
+==Etymology==
+Central African ethnic groups that populated Puerto Rico used the technique of a mallet to mash large amounts of starchy foods. The mash was then softened with liquids. The word "mofongo" stems from the [[Kikongo]] term ''mfwenge-mfwenge'', which means "a great amount of anything at all".<ref>{{Cite web |last=Yenny |date=2021-10-06 |title=African roots in Latin American and Caribbean food in 11 dishes – LAWA |url=https://lawadv.org.uk/african-roots-in-latin-american-and-caribbean-food-in-11-dishes/ |access-date=2024-10-30 |language=en-GB}}</ref><ref>{{Cite web |last=Ruiz |first=Antonio |date=2019-05-30 |title=My Favorite: Cooking Mofongo Like Mom Used to Make |url=https://palaciomagazine.com/cooking-mofongo/ |access-date=2024-10-30 |website=Palacio Magazine |language=en}}</ref><ref>{{Cite web |title=Mofongo|author=Oswald Rivera |url=https://oswaldrivera.com/2010/05/mofongo/ |access-date=2024-10-30 |language=en}}</ref>
+
+==Culture==
+Mofongo evolved from three cultural influences: Spanish, Taíno, and African within the Puerto Rican populace. Mofongo is different from [[fufu]] but uses the same African method with vegetables available in the Caribbean. Plantains are most often used, but other starchy roots native to the island used by Taínos can also be used. Puerto Ricans have an obsession with fried food known collectively as [[cuchifrito]] in New York City.{{citation needed|date=August 2023}} Spanish ingredients such as pork, garlic, broth, and olive oil are commonly used together in [[Puerto Rican cuisine]] and are found in staple dishes such as [[arroz con gandules]], [[alcapurria]], [[pasteles]], habichuelas, [[recaíto]], and [[arroz junto]], among others. Broth is often made with chicken and [[sofrito]]. Sofrito is made with Spanish and Taíno fruits, vegetables, and herbs.
+
+Pork is a major component for most traditional offerings and the preparations of Puerto Rican cuisine. The only other Caribbean island where pork is a major component is Cuba.{{citation needed|date=August 2023}} The use of lard, pork scraps and inner parts has its influence from the harsh diet and treatment of African people in Puerto Rico. This led to dishes on the island such as mofongo, gandinga, and [[mondongo]]. Mofongo combines the African tradition of fufu with limited ingredients given to slaves: plantains, lard, and pork scraps.{{citation needed|date=August 2025}}
+
+==Method==
+[[Image:Pilon para mofongo 2011.jpg|right|thumb|200px|A pilón to make mofongo]]
+The name ''mofongo'' refers to cooked plantains mashed with fat (olive oil, lard, or butter), spices, and pork in a wooden [[mortar and pestle]] called a ''pilón'' (made with [[mahogany]] or [[guaiacum]], both native hardwoods) and shaped more or less into a ball and in or alongside broth. The mofongo is then able to absorb any juice or broth from the seared meat that is placed on top or inside of the dish. The consistency of mofongo is much more dense and stiff than fufu.
+
+==Variations==
+[[File:Shrimp mofongo from Rompeolas restaurant in Aguadilla, Puerto Rico.jpg|thumb|left|Shrimp mofongo from Rompeolas restaurant in Aguadilla, Puerto Rico]]
+It is also common in Puerto Rico to make mofongo with [[cassava]] (''mofongo de yuca''), [[breadfruit]] (''mofongo de pana''), and ripe plantain mofongo (''mofongo de amarillo'').
+
+The ''bifongo'' is any combination of two starches fried and mashed together. 
+Ripe and green plantains together is the most popular choice.
+
+The ''trifongo'' is any combination of three starches fried and mashed together. Most popular is cassava with green and ripe plantains, but [[Sweet potato|batata]] and breadfruit may be used.
+
+Mofongo stuffed with shrimp (camarón in Spanish) is called ''camarofongo''.
+
+[[Thanksgiving (United States)|Thanksgiving]] is an American holiday that has been adopted by Puerto Rico and Puerto Ricans outside the [[commonwealth (U.S. insular area)|commonwealth]]. [[Turkey meat|Turkey]] is the main focus on every Thanksgiving table and is traditionally stuffed with bread. The bread [[stuffing]] can be mixed with mofongo or replaced entirely with mofongo. The dish is called ''pavochon''.
+
+[[Frito-Lay]] produces ''MoFongo Snax'', combining plantain chips, cassava chips and pork rinds into one bag.
+[[File:Mofongo with crab meat in Culebra, Puerto Rico.jpg|thumb|{{lang|es|Mofongo relleno}} with crab meat in Culebra, Puerto Rico]]
+''Mofongo relleno'' is a stuffed variation of mofongo, which, according to Yvonne Ortiz, was first made in "Tino's Restaurant on the west coast of Puerto Rico" when seafood, abundant in the region, was placed inside the plantain ball with [[braised]] meat or more seafood poured over it.<ref>{{Cite book|url=https://books.google.com/books?id=ZopjAAAAMAAJ&pg=PT115|title=A Taste of Puerto Rico: Traditional and New Dishes from the Puerto Rican Community|last=Ortiz|first=Yvonne|publisher=Plume|year=1997|isbn=0452275482}}</ref> Today, ''mofongo relleno'' is commonly stuffed with either seafood, poultry, or another meat.<ref>{{Cite book | title = Moon San Juan, Vieques & Culebra| last = Van Atten| first = Suzanne| publisher = Avalon Travel| year = 2015| isbn = 978-1631212284| url = https://books.google.com/books?id=-gsrCgAAQBAJ&pg=PT340}}</ref>
+
+''Mofonguito'' are bite-size mofongo usually served as an appetizer. Not to be confused with Dominican ''mofonguito'', which are ''[[tostones]] relleno''.
+
+[[Moca, Dominican Republic]], is known for making a mofongo with cheddar cheese shredded on top. It has been called ''mofongo Dominicano'' and ''mofongo el Mocano''.
+
+==Outside Puerto Rico==
+Dominicans who feared the dictatorship of [[Rafael Trujillo]] fled to Puerto Rico and New York City. Fried mofongo caught on quickly with [[Dominican Republic immigration to Puerto Rico|Dominicans living in Puerto Rico]] and [[Dominican Americans|New York City]]. After Trujillo's death many Dominicans returned to the Dominican Republic, bringing the recipe for mofongo, which has remained popular ever since.{{citation needed|date=July 2022}} The first Dominican cookbook with a recipe for mofongo is ''Cocina Criolla'', second edition by Amanda Ornes, in 1962. The recipe is called ''mafongo'' using roasted green plantains mashed with just chicarrón and oil. [[Ramona Hernández]], director of the [[Dominican Studies Institute]] of the [[City University of New York]], has said, "mofongo is a dish borrowed from Puerto Rico that has much success with Dominicans"{{citation needed|date=August 2023}}. Dominican chef Clara Gonzalez, also known as Aunt Clara, says in her cookbook, "mofongo has a special place in the Dominicans' hearts and stomachs but can be traced back to Puerto Rico"{{citation needed|date=August 2023}}. Some food scholars claim roasted mofongo was brought over to the Dominican Republic during Dominican Republics sugar industry from 1916 to 1924 were Puerto Ricans migrated to work.
+
+Mofongo has become popular among Colombians, Cubans and Dominicans living in the United States and anywhere large numbers of Puerto Ricans or Dominicans reside.{{citation needed|date=December 2013}}
+
+==In popular culture==
+[[Food Network]] chef and host [[Guy Fieri]] featured mofongo from Benny's Seafood (in [[Miami, Florida]]) and from El Bohio (in [[San Antonio, Texas]]) on two separate episodes of his show ''[[Diners, Drive-Ins and Dives]]''. He liked the dish so much that he called it the "best fried thing I ever ate" on an episode of the show ''[[The Best Thing I Ever Ate]]''.<ref>[http://www.foodnetwork.com/videos/guy-fieri-on-mofongo-video/40527.html Video: Guy Fieri on Mofongo] {{Webarchive|url=https://web.archive.org/web/20111125232914/http://www.foodnetwork.com/videos/guy-fieri-on-mofongo-video/40527.html |date=2011-11-25 }} on [[Food Network]]</ref>
+
+An episode of the [[Travel Channel]]'s ''[[Man v. Food Nation]]'', set in [[Harlem]], showed the host [[Adam Richman (actor)|Adam Richman]] visiting a [[Spanish Harlem]] restaurant called La Fonda Boricua, where they make a giant 12-plantain mofongo called the ''Mofongaso''.
+
+Mofongo is so important in the Puerto Rican culture that it is sung and mentioned in numerous songs, including "Mofongo pelao" by [[Ismael Rivera]], "mofongo" by Simon Montserrat & Djeli, "pun pun catalú" by [[Celia Cruz]], "mofongo" by [[Lamborginny]], "y no hago mas na" and "el menu" by [[El Gran Combo de Puerto Rico]], and "mangú y mofongo" by [[Unción Tropical]] and [[Isabel Valdez]], a song about a Dominican bringing mangú and a Puerto Rican bringing mofongo. Perhaps the oldest song mentioning mofongo is called "Puertorriqueño" by [[Joe Valle]] and [[César Concepción]].
+
+On ''[[Saturday Night Live]]'', [[David Ortiz]] (a recurring character played by [[Kenan Thompson]]) frequently refers to the dish when describing his "big lunch".
+
+Mofongo was mentioned numerous times on the 1970s U.S. NBC situation comedy ''[[Sanford & Son]]'' when characters Fred and Lamont ([[Redd Foxx]] and [[Demond Wilson]]) interact with their Puerto Rican neighbor Julio ([[Gregory Sierra]]).
+
+The 2021 animated PBS show ''[[Alma's Way]]'', about a Puerto Rican girl growing up in the Bronx with her family, frequently mentions mofongo as a favorite family dish.
+
+==References==
+{{reflist}}
+{{Portal|Puerto Rico|Food}}
+
+==External links==
+* [http://www.recetaspuertorico.com/?p=3012 Mofongo with Pork Rind & Bacon] {{In lang|es}}
+* [https://www.dominicancooking.com/mofongo-recipe Mofongo recipe 2]
+* [https://www.foodnetwork.com/recipes/puerto-rican-prawns-with-lobster-yucca-mofongo-and-sofrito-broth-recipe-1940115 Mofongo de Yuca]
+
+{{Bananas and plantains}}
+
+[[Category:Caribbean cuisine]]
+[[Category:Latin American cuisine]]
+[[Category:Plantain dishes]]
+[[Category:Puerto Rican cuisine]]
+[[Category:Puerto Rican fusion cuisine]]

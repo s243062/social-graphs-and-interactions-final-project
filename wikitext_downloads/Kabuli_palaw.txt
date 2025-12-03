@@ -1,0 +1,48 @@
+{{Short description|Central Asian dish}}
+{{Infobox food
+| name               = Kabuli pulao
+| image              = Afghan Palo.jpg
+| image_size         = 
+| caption            = Kabuli pulao
+| alternate_name     = Kabuli pulaw, Qabili palaw, Qabeli palao, Qabili Uzbaki, roz Bukhari, Bukhari rice
+| country            = [[Afghanistan]], [[Uzbekistan]]
+| region             = [[Central Asia]]
+| national_cuisine   = [[Afghan cuisine]], [[Uzbek cuisine]]
+| type               = [[Rice]]
+| course             = [[Lunch]], [[dinner]]
+| served             = Hot
+| main_ingredient    = [[Steamed rice]], [[raisins]], [[carrots]], [[Nut_(fruit)|nuts]] and [[mutton]], [[Lamb and mutton|lamb]] or [[veal]]
+| variations         = 
+| other              = 
+}}
+'''Kabuli pulao''' (or '''pulaw''') is a variety of [[pilaf]] made in [[Afghanistan]] and [[Uzbekistan]]. It is known in Afghanistan as '''Qābilī palaw''' ({{langx|prs|قابلی پلو}}, {{IPA|prs|qɑːbɪˈliː paˈlaw|pron}}), and in Uzbekistan as the '''Osh palov''' ({{IPA|uz|ɒʃ pɐˈlɒɸ|pron}}), with neither country referring to it by the name of [[Kabul|the city]]. In English the dish tends to be known by the name ''Kabuli''. In [[Saudi Arabia]] it is known by the name '''Bukhari rice''' ({{langx|ar|رز بخاري|ruzz Bukhārī}}), after the city of [[Bukhara]], Uzbekistan.
+
+The core ingredients are [[steamed rice]] mixed with caramelized carrots and  raisins as well as marinated meat. Kabuli pulao is commonly garnished with almonds and pistachios. Saffron may be added to either the rice, the sauce or the garnishes.<ref>{{cite web |last1=Coussidis |first1=Harris |title=Kabuli Pulao: The national dish of Afghanistan |url=https://www.freemalaysiatoday.com/category/leisure/2019/04/29/kabuli-pulao-the-national-dish-of-afghanistan/ |website=FMT |date=29 April 2019 |publisher=FMT Media |access-date=28 May 2023}}</ref><ref>{{cite web |last1=Roustaei |first1=Omid |title=Afghan rice and carrot pilaf with lamb |url=https://thecaspianchef.com/2021/09/07/kabuli-pulao-afghan-rice-and-carrot-pilaf-with-lamb/ |website=The Caspian Chef |date=8 September 2021 |access-date=28 May 2023}}</ref> Varieties of Kabuli pulao have spread from Afghanistan to different parts of Western and Central Asia and Pakistan.<ref>{{cite journal |last1=Marsden |first1=Magnus |title=Commerce, Cuisine and Cultural Exchange in Afghanistan, West Asia and Beyond |journal=Afghanistan |date=April 2021 |volume=4 |issue=1 |page=66 |publisher=Edinburgh University Press|doi=10.3366/afg.2021.0067 |s2cid=234975829 |url=http://sro.sussex.ac.uk/id/eprint/97323/3/Magnus%20Marsden%20Afghanistan%20Journal.pdf}}</ref>
+
+==Origin==
+Although referred to in English as "Kabuli" (see [[Kabuli pulao#Etymology|§ Etymology]]), the dish did not originate in Kabul. More likely, the dish originated at the border of Northern Afghanistan with Uzbekistan.<ref>{{cite journal |last1=Marsden |first1=Magnus |date=April 2021 |title=Commerce, Cuisine and Cultural Exchange in Afghanistan, West Asia and Beyond |url=http://sro.sussex.ac.uk/id/eprint/97323/3/Magnus%20Marsden%20Afghanistan%20Journal.pdf |journal=Afghanistan |publisher=Edinburgh University Press |volume=4 |issue=1 |page=6 5 |doi=10.3366/afg.2021.0067 |s2cid=234975829 }}</ref> Additionally, longstanding communities of northern Afghans and Central Asian émigrés in Saudi Arabia have collectively referred to themselves as "Bukhari's"<ref name="Magnus">{{cite journal |last1=Marsden |first1=Magnus |date=April 2021 |title=Commerce, Cuisine and Cultural Exchange in Afghanistan, West Asia and Beyond |url=https://www.euppublishing.com/doi/epub/10.3366/afg.2021.0067 |journal=Afghanistan |publisher=Edinburgh University Press |volume=4 |issue=1 |page=66 |doi=10.3366/afg.2021.0067 |s2cid=234975829 |access-date=28 May 2023 |quote=If Saudi publics as well as those visiting the country for trade, pilgrimage and labour, consumed heaps of Bukhari rice in Afghan-run eateries, diners from Afghanistan would take up their positions in more modest cafes serving authentic northern Afghan dishes accordingly: Qabili palaw Uzbeki (Uzbek-style rice with meat), chaynaki (meet cooked with chickpeas in a teapot), seekh kebab (meat grilled on skewers), and kaala pacha (stewed cows feet with black pepper). Such eateries are mostly located in parts of Saudi cities that are and have been for decades home to sizeable and long-standing communities of Central Asian émigrés and northern Afghans, collectively referred to as the ‘Bukharis.’|url-access=subscription }}</ref> (despite not all being from Bukhara), and have marketed this dish in the region as "Bukhari rice".<ref name= Magnus /><ref>{{cite web |last1=Salah |first1=Maha |date=27 March 2020 |title=Bukhari Rice and Chicken |url=https://www.middleeastmonitor.com/20200327-bukhari-rice-and-chicken/ |access-date=28 May 2023 |website=Middle East Monitor |publisher=Ardi Associates Ltd}}</ref>
+
+A variation of Qabili made by Uzbeks within Afghanistan is also referred to as "Uzbeki palaw". The Uzbeki version differs from traditional Afghan palaw preparation in that it doesn't steam the rice (''sof'' method), but instead boils the rice until all liquid has been absorbed (''dampokht'' method).<ref>{{cite book |last1=Saberi |first1=Helen |title=Afghan Food & Cookery |date=2000 |publisher=Hippocrene Books, Inc. |edition=7 |location=New York |page=134 |quote=This is ''Qabili pilau'' as prepared by the Uzbeks using the ''dampokht'' method of cooking rice. It is, I think, a quicker and simpler way than the ''sof'' method}}</ref> Palaw dishes form a specific and longstanding tradition of rice preparation in the region, likely dating back as far as [[Bactria]]n times.<ref name=nabhan>{{cite book|last=Nabhan|first=Gary Paul|title=Cumin, Camels, and Caravans: A Spice Odyssey|url=https://books.google.com/books?id=e-glDQAAQBAJ&pg=PA135|publisher=University of California Press|date=2014|isbn=9780520267206}}</ref>
+
+==Etymology==
+"Kabuli" may be a misspelling of "Qabili", which comes from Persian [[wikt:قابل#Persian|قابل]]. The name "Qabili" appears to have been applied early on to a complex pilaf dish in Persian-language contexts, with the first written Qabili pilaf recipes appearing during the [[Safavid dynasty|Safavid]] period in Ali Bavarchi's 1521 manuscript ''Kār-nāma'' ("''The Manual''"). This work currently constitutes the oldest cookbook in Persian.<ref>{{cite web |title=COOKBOOKS |website=[[Encyclopædia Iranica ]] |url=https://iranicaonline.org/articles/cookbooks-classical-in-persian#:~:text=The%20older%20one%20is%20the,30%2F1501%2D24). |access-date=25 March 2025 |quote=The older one is the ''Kār-nāma dar bāb-e ṭabbāḵī wa ṣaṇʿat-e ān'' “Manual on cooking and its craft,” written in 927/1521 by Ḥājī Moḥammad-ʿAlī Bāvaṛčī Baḡdādī for an aristocratic patron at the end of the reign of Shah Esmāʿīl I Ṣafawī (907-30/1501-24).}}</ref>
+
+"Pulao" arises from a common transcription of "pilaaf" across various languages.<ref>{{cite web |last1=Vishal |first1=Anoothi |title=What is The Difference Between Pulao (Pilaf) and Biryani? |url=https://food.ndtv.com/opinions/what-is-the-difference-between-pulao-pilaf-and-biryani-1252774 |website=NDTV Food |publisher=NDTV Convergence |access-date=30 May 2023}}</ref> In Persian, [[wikt:پلو|پلو]] is often transcribed as "palao", "palaw", "palau", etc to reflect the Classical diphthong {{IPA|/aw/}}, which is preserved in Dari,<ref>{{cite journal |last1=Miller |first1=Corey |title=VARIATION IN PERSIAN VOWEL SYSTEMS |journal=Orientalia Suecana |date=2012 |volume=59 |issue=1 |page=165 |url=http://uu.diva-portal.org/smash/get/diva2:641228/FULLTEXT01.pdf |quote=The diphthongs aj and aw are preserved in Dari, e.g. ‘find’ /pajdā/, ‘rice’ /palaw/}}</ref> and is otherwise often transcribed "polow" or "polo" to reflect Iranian dialects, which have largely lost the diphthong.
+
+==Serving==
+Qabeli palaw is considered a festive and important dish due to the emphasis on quality of the ingredients, as well as being a widely known dish of Afghan cuisine. The dish may be served as a main course, accompanied by traditional side dishes or prepared as part of a banquet.<ref>{{cite web |last1=Ayubi |first1=Durkhanai |title=Parwana Afghan Kitchen's Kabuli palaw |url=https://www.gourmettraveller.com.au/recipes/chefs-recipes/kabuli-palaw-8270 |website=Gourmet Traveller |date=25 June 2015 |publisher=ARE MEDIA PTY LIMITED |access-date=28 May 2023}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://www.marga.org/food/int/afghanistan/pilau.html Qabili Palao] – Margarita's International Recipes
+*[https://www.hamisharafi.com/free-recipes/kabuli-pulao Qabeli Polow] – I got it from my Maman
+
+
+{{Rice dishes|state=collapsed}}
+{{Portal bar|Afghanistan|Food}}
+
+[[Category:Meat and rice dishes]]
+[[Category:Afghan cuisine]]
+[[Category:National dishes]]

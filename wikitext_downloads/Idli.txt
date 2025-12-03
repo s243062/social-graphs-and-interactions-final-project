@@ -1,0 +1,133 @@
+{{Short description|South Indian savoury rice cake}}
+{{redirect|Idly|the topic of the adjective|idleness}}
+{{Distinguish|Itly|Lidl}}
+{{Use dmy dates|date=September 2019}}
+{{Use Indian English|date=September 2019}}
+{{Infobox food
+| name      = Idli
+| image      = Idli Sambar.JPG
+| caption     = 
+| region     = [[South India]]
+| associated_cuisine = [[Indian cuisine|India]], [[Sri Lankan cuisine|Sri Lanka]]
+| course     = Breakfast, dinner
+| served     = Hot with a condiment such as [[Sambar (dish)|sambar]] or [[chutney]] in South India, [[ghugni]] and [[aloo dum]] in East India
+| main_ingredient = [[urad (bean)|Black lentils]] (de-husked), [[rice]]
+| variations   = Button idli, tatte idli, sanna, sambar idli, rava idli, masala idli, shell idli
+| calories    =
+| other      =
+}}
+'''Idli''' ({{IPAc-en|'|ɪ|d|l|iː}}; plural: '''idlis''') is a [[South India|South Indian]] and [[Sri Lanka|Sri Lankan]] rice cake popular as a breakfast food. The cakes are made by steaming a batter consisting of [[Fermentation (food)|fermented]] hulled [[Vigna mungo|black lentils]] and rice. The fermentation process breaks down the starches so that they are more readily metabolised by the body.
+
+Idli has several variations, including [[rava idli]], which is made from [[semolina]]. Regional variants include ''[[Sanna (dish)|sanna]]'' of [[Konkan]].
+
+==History==
+A precursor of the modern idli is mentioned in several ancient Indian works. ''[[Vaddaradhane]]'', a 920&nbsp;CE [[Kannada language]] work by [[Shivakotiacharya]], mentions "iddalige", prepared only from a [[Vigna mungo|black gram]] batter. Chavundaraya II, the author of the earliest available Kannada encyclopedia, ''Lokopakara'' ({{circa}}1025&nbsp;CE), describes the preparation of this food by soaking black gram in [[buttermilk]], ground to a fine paste, and mixed with the clear water of [[curd]] and spices.{{sfn|Edward R. Farnworth|2003|p=11}} The [[Western Chalukya]] king and scholar [[Someshwara III]], reigning in the area now called [[Karnataka]], included an idli recipe in his encyclopedia, ''[[Manasollasa]]'' (1130&nbsp;CE). This [[Sanskrit]]-language work describes the food as ''iḍḍarikā''. In Karnataka, the Idli in 1235&nbsp;CE is described as being "light, like coins of high value", which is not suggestive of a rice base.{{sfn|K. T. Achaya|1994|p=90}} The food prepared using this recipe is now called ''uddina idli'' in Karnataka.
+
+The recipe mentioned in these ancient Indian works leaves out three key aspects of the modern idli recipe: the use of rice (not just black gram), the long fermentation of the mix, and the [[steaming]] for fluffiness. The references to the modern recipe appear in the Indian works only after 1250&nbsp;CE. Food historian [[K. T. Achaya]] speculates that the modern idli recipe might have originated in present-day [[Indonesia]], which has a long tradition of fermented food. According to him, the cooks employed by the [[Hindu]] kings of the [[Indianised kingdom]]s might have invented the steamed idli there, and brought the recipe back to India during 800–1200&nbsp;CE.<ref name="KTAchaya2003">{{cite book |author=K.T. Achaya |title=The Story of Our Food |url=https://books.google.com/books?id=bk9RHRCqZOkC&pg=PA80 |date=1 November 2003 |publisher=Universities Press |isbn=978-81-7371-293-7 |pages=80–}}</ref><ref name="Bala2004">{{cite news |url=http://www.thehindu.com/seta/2004/10/21/stories/2004102100111600.htm |archive-url=https://web.archive.org/web/20141206094937/http://www.thehindu.com/seta/2004/10/21/stories/2004102100111600.htm |url-status=dead |archive-date=2014-12-06 |title=Changes in the Indian menu over the ages |date=2004-10-21 |newspaper=[[The Hindu]] |author=D. Balasubramanian }}</ref> Achaya mentioned an Indonesian dish called "kedli", which according to him, was like an idli.<ref>{{cite web|url=http://articles.economictimes.indiatimes.com/2007-04-28/news/27671928_1_idlis-railways-solar-power-system|title=Idli saga: A study into the origin of the South Indian dish|access-date=25 August 2014|archive-date=24 April 2016|archive-url=https://web.archive.org/web/20160424060852/http://articles.economictimes.indiatimes.com/2007-04-28/news/27671928_1_idlis-railways-solar-power-system|url-status=dead}}</ref><ref name="KTAchaya2003"/> However, Janaki Lenin was unable to find any recipe for an Indonesian dish by this name.<ref>{{cite news|url=https://www.thehindu.com/news/cities/chennai/chen-columns/a-tale-of-two-sambhars/article3262394.ece|title=A tale of two sambhars|first=Janaki|last=Lenin|newspaper=The Hindu |date=30 March 2012|via=www.thehindu.com}}</ref> According to food historian [[Colleen Taylor Sen]] the fermentation process of idli batter is a natural process that was discovered independently in India, since nearly all cultures use fermentation in some form.<ref>Feasts and Fasts: A History of Food in India, page 146, Colleen Taylor Sen (2015)</ref> According to [[Dorian Fuller]], the steaming technique was already in use in Neolithic South India around 2000 BCE.<ref>{{cite book |last1=Renfrew |first1=Colin |last2=Bahn |first2=Paul |title=The Cambridge World Prehistory |date=9 June 2014 |publisher=Cambridge University Press |isbn=978-1-107-64775-6 |pages=2049 |url=https://www.google.co.in/books/edition/The_Cambridge_World_Prehistory/vWbwAwAAQBAJ?hl=en&gbpv=1&dq=In+the+South+Indian+Neolithic,+boiling+and+grinding+were+both+essential+techniques+in+food+preparation.+Steaming+was+added+to+this+repertoire+around+2000+BCE.&pg=PT1035&printsec=frontcover |language=en|quote=In the South Indian Neolithic, boiling and grinding were both essential techniques in food preparation. Steaming was added to this repertoire around 2000 BCE.}}</ref>
+
+The [[Gujarati language|Gujarati]] work ''Varṇaka Samuccaya'' (1520 CE) mentions idli as ''idari'', and also mentions its local adaptation, ''idada'' (a non-fermented version of [[dhokla]]).<ref name="AchyutSuchitra2005">{{cite book |author1=Achyut Yagnik |author2=Suchitra Seth |title=Shaping Of Modern Gujarat |url=https://books.google.com/books?id=FYDviPFeoSAC&pg=PT24 |date=24 August 2005 |publisher=Penguin Books Limited |isbn=978-81-8475-185-7 |pages=24 }}</ref>
+
+The earliest extant [[Tamil language|Tamil]] work to mention idli (as ''itali'') is ''Maccapuranam'', dated to the 17th century.<ref>{{cite news |url=http://articles.economictimes.indiatimes.com/2007-04-28/news/27671928_1_idlis-railways-solar-power-system |title=Idli saga: A study into the origin of the South Indian dish |newspaper=Economic Times |author=Vikram Doctor |date=2007-04-28 |access-date=2014-08-25 |archive-date=24 April 2016 |archive-url=https://web.archive.org/web/20160424060852/http://articles.economictimes.indiatimes.com/2007-04-28/news/27671928_1_idlis-railways-solar-power-system |url-status=dead }}</ref><ref name="KTAchaya2009">{{cite book |author=K.T. Achaya |title=The Illustrated Foods of India |url=https://books.google.com/books?id=Frs1OQAACAAJ |date=5 March 2009 |publisher=OUP India |isbn=978-0-19-569844-2}}</ref> In 2015, [[Chennai]]-based idli caterer Eniyavan started celebrating March 30 as "World Idli Day".<ref>{{cite news |url=https://www.ndtv.com/offbeat/world-idli-day-2018-heres-the-intriguing-story-behind-this-delicious-day-1830701 |title=World Idli Day 2018: Here's The Intriguing Story Behind This Delicious Day |date=30 March 2018 |publisher=NDTV }}</ref>
+
+==Preparation==
+{{nutritionalvalue
+| name = Idli
+| serving_size = 1 piece (30 gm)
+| kJ = 167
+| fat = 0.19 g
+| satfat = 0.037 g
+| polyfat = 0.043 g
+| monofat = 0.035 g
+| protein = 1.91 g
+| carbs = 7.89 g
+| sugar = 0.22
+| fiber = 1.5 g
+| sodium_mg = 207
+| potassium_mg = 63
+| source = <ref>{{cite web|url=http://www.fatsecret.co.in/calories-nutrition/generic/idli|title=Calories in Idli and Nutrition Facts|website=www.fatsecret.co.in}}</ref>
+}}
+
+To make idli, four parts uncooked rice (idli rice or [[parboiled rice]]) to one part whole white lentil (black gram, ''[[Vigna mungo]]'') are soaked separately for at least four to six hours or overnight. Optionally, spices such as fenugreek seeds can be added at the time of soaking for additional flavour. Once soaked, the lentils are ground to a fine paste, the rice is separately coarsely ground, and they are combined. Next, the mixture is left to ferment overnight during which its volume will more than double. After fermentation, some of the batter may be kept as a starter culture for the next batch. The finished idli batter is put into a perforated greased idli tray for steaming. The perforated molds allow the idlis to be cooked evenly. The tree holds the trays above the level of boiling water in a pot, and the pot is covered until the idlis are done (about 10–25 minutes, depending on size). A more traditional method is to use leaves instead of moulds.<ref>{{cite web|title=Idlis in jackfruit leaves|url=http://www.aayisrecipes.com/breakfast-or-snacks/idlis-in-jackfruit-leaveshittukhottekhotte-kadubu/|website=Aayi's Recipes|access-date=14 October 2014|year=2006}}</ref>
+
+<gallery class="center" mode="packed" heights="120" caption="Making idlis">
+File:Idly Ingredients.jpg|Key ingredients used are rice and black gram.
+File:Idli Batter.JPG|Idli batter
+File:Idli Making Plate.JPG|Idli mold
+File:Idli Batter to Making Plate.JPG|Batter poured into the mold
+File:Idli Making Plates.JPG|Several molds stacked over another
+File:Idli Make in Steam.JPG|Idli steaming in cooker
+File:Idli in Idli Cooking Vessel.JPG|Cooked idli
+File:Idlis Ready.JPG|Molds removed from cooker
+File:Idlis Detatched From Cooker.JPG|Idlis ready to eat
+</gallery>
+
+===Serving===
+Since plain idlis are mild in taste, a condiment is considered essential. Idlis are often served with [[chutney]]s (coconut-based), [[Sambar (dish)|sambar]] and [[medu vada]]. However, this varies greatly by region and personal taste. It is also often served with kaara chutney (onion-based) or [[Spicy Sri Lankan Fish Curry (Malu Mirisata)|spicy fish curries]]. The dry spice mixture [[Idli podi|podi]] is convenient while travelling. 
+[[File:Idly Wada.jpg|right|thumb|Idli served with coconut chutney, sambar and [[medu vada]] on banana leaf.]]
+
+===Variations===
+There are several regional variations of idlis made in South India and Sri Lanka. With the emigration of south Indians and Sri Lankans throughout the region and world, many variations on idli have been created in addition to the almost countless local variations. Hard-to-get ingredients and differing cooking customs have required changes in both ingredients and methods. [[Parboiled rice]] can reduce the soaking time considerably. Store-bought ground rice or cream of rice may also be used.<ref>{{cite web|title=Idli using Cream of Rice|url=http://ediblyasian.info/recipes/idli-using-cream-of-rice|website=Edibly Asian|access-date=14 October 2014}}</ref> Similarly, [[semolina]] or [[cream of wheat]] may be used for preparing [[rava idli]] (wheat idli).<ref>{{cite web|last1=Geeta|first1=Seth|title=Rava Idli : (Cream of wheat or sooji idli)|url=http://www.northindiancooking.com/rava-idli-sooji-or-cream-of-wheat-idli.html|website=North India Cooking|access-date=14 October 2014}}</ref> [[Dahi (curd)|Dahi]] (yogurt) may be added to provide the sour flavour for unfermented batters. Pre-packaged mixes allow for almost instant idlis.<ref>{{cite web|title=instant idli mix|url=http://www.tarladalal.com/glossary-instant-idli-mix-1287i|website=Tarla Dalal|publisher=Sanjay & Co|access-date=14 October 2014}}</ref>
+
+In addition to or instead of fenugreek, other spices may be used such as mustard seeds, chili peppers, cumin, coriander, ginger, etc.<ref>{{cite web|last1=Rachana|first1=Gorikapudi|title=Fenugreek Leaves Idli|url=http://spicycurriez.blogspot.com/2012/02/fenugreek-leaves-idli.html|website=SPICY CURRIES|access-date=14 October 2014|date=2012}}</ref> Sugar may be added to make them sweet instead of savoury. Idli may also be stuffed with a filling of potato, beans, carrot and masala.<ref>{{cite web|title=Stuffed Idli|url=http://www.spicytasty.com/breakfast-menu/stuffed-idli/|website=Spicy Tasty|access-date=14 October 2014|year=2013|archive-date=1 August 2020|archive-url=https://web.archive.org/web/20200801180108/http://www.spicytasty.com/breakfast-menu/stuffed-idli/|url-status=dead}}</ref> Leftover idlis can be cut-up or crushed and [[sautéed]] for a dish called idli [[upma]].<ref>{{cite web|title=Idli Upma Recipe-Recipe with Leftover idlis|url=http://www.padhuskitchen.com/2012/07/idli-upma-recipe-recipe-with-leftover.html|website=Padhu's Kitchen|access-date=14 October 2014|year=2012}}</ref> A microwave or an automatic electric steamer that is non-stick is considered to be a convenient alternative to conventional stovetop steamers. Batter preparation using a manual rocking rock grinder can be replaced by electric grinders or blenders. Many restaurants have also come up with fusion recipes of idlis such as idly manchurian, idly fry, chilly idly, stuffed idly, to name a few.
+
+<gallery mode="packed">
+File:Traditional coconut shell idlis, Karnataka.jpg|Idlis cooked traditionally in coconut shells, Karnataka
+File:Rasam and Idli.jpg|Idli served with [[rasam (dish)|rasam]]
+File:ಮೂಡೆ ಇಡ್ಲಿ, ಕರ್ನಾಟಕ.jpg|Moode idli steamed in [[Pandanus odorifer|fragrant screwpine]] leaves, Mangalore, Karnataka.
+File:Idli sambar.JPG| Sambar idli as served in [[Tamil Nadu]]
+File:ಕೊಟ್ಟೆ ಕಡುಬು ಇಡಲಿಗಳು.jpg| ''Kotte kadubu'' or ''Pottikkalu'' idlis steamed in jackfruit leaves, in Karnataka and Andhra Pradesh
+File:Rava Idli (6005561226).jpg | [[Rave idli]] (sooji idli) is a specialty of [[Karnataka]]
+File:Sanna (Commons).jpg|[[Sanna (dish)|Sanna(s)]], a [[Goan cuisine|Goan]] variant of idli, also known as ''hittli'' in Konkani is made with Toddy for fermentation.
+</gallery>
+
+==Batter fermentation==
+Fermentation of idli batter results in both leavening caused by the generation of carbon dioxide as well as an increase in acidity. This fermentation is performed by lactic acid bacteria, especially the heterofermentative strain ''[[Leuconostoc mesenteroides]]'' and the homofermentative strain ''[[Enterococcus faecalis]]'' (formerly classified as ''Streptococcus faecalis''). Heterofermentative lactic acid bacteria such as ''L. mesenteroides'' generate both lactic acid as well as carbon dioxide whereas homofermentative lactic acid bacteria only generate lactic acid.
+
+Both ''L. mesenteroides'' and ''E. faecalis'' are predominantly delivered to the batter by the black gram. Both strains start multiplying while the grains are soaking and continue to do so after grinding.
+
+''L. mesenteroides'' tolerates high concentrations of salt unlike most other bacteria. Hence the salt in the batter and the ongoing generation of lactic acid both suppress the growth of other undesirable micro-organisms.<ref>{{Cite journal|last1=VEEN|first1=A. G.|last2=HACKLER|first2=L. ROSS|last3=STEINKRAUS|first3=K. H.|last4=MUKHERJEE|first4=S. K.|date=2008-06-28|title=Nutritive Quality of Idli, a Fermented Food of India|journal=Journal of Food Science|volume=32|issue=3|pages=339–341|doi=10.1111/j.1365-2621.1967.tb01326_32_3.x|issn=0022-1147}}</ref><ref>{{Cite book|last=Council|first=National Research|date=1992-01-01|title=Applications of Biotechnology in Traditional Fermented Foods|url=https://www.nap.edu/catalog/1939/applications-of-biotechnology-in-traditional-fermented-foods|language=en|doi=10.17226/1939|pmid=25121339|isbn=978-0-309-04685-5}}</ref>
+
+==Idli Day==
+March 30 is celebrated as World Idli Day.<ref>{{cite news |last1=Agrawal |first1=Saumya |title=World Idli Day |url=https://www.timesnownews.com/the-buzz/article/world-idli-day-when-a-british-professor-called-idlis-boring-and-insufferable/738737 |access-date=30 March 2022 |publisher=Times Now News}}</ref> It was first celebrated in 2015 at Chennai.<ref>{{cite news |last1=Saha |first1=Somdatta |title=World Idli Day 2021 |url=https://food.ndtv.com/how-to/world-idli-day-2021-how-to-make-ramasseri-idli-the-king-of-idlis-from-kerala-recipe-inside-2402241 |access-date=30 March 2022 |publisher=NDTV Food}}</ref>
+
+==See also==
+{{portal|Food}}
+{{div col|colwidth=30em}}
+* [[Bhapa pitha]]
+* [[Cuisine of Karnataka]]
+* [[Dhokla]]
+* [[List of Indian breads]]
+* [[List of steamed foods]]
+* [[Puttu]]
+* [[Rava idli]]
+* [[Sanna (dish)|Sanna]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book | title=Indian Food: A Historical Companion| author=K. T. Achaya |author-link=K. T. Achaya | date=12 May 1994| publisher=Oxford University Press, USA| isbn=978-0-19-563448-8 }}
+* Devi, Yamuna (1987). ''Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking'', Dutton. {{ISBN|0-525-24564-2}}.
+* {{cite book |author=Edward R. Farnworth |title=Handbook of Fermented Functional Foods |year=2003 |publisher= CRC Press |isbn= 978-0-8493-1372-1}}
+* Jaffrey, Madhur (1988). ''A Taste of India'', Atheneum. {{ISBN|0-689-70726-6}}
+* Rau, Santha Rama (1969). ''The Cooking of India'', Time-Life Books.
+
+{{Sri Lankan cuisine}}
+{{Indian Dishes}}
+{{Indian bread}}
+{{Malaysian cuisine}}
+
+[[Category:Indian breads]]
+[[Category:Indian rice dishes]]
+[[Category:Fermented foods]]
+[[Category:Andhra cuisine]]
+[[Category:Karnataka cuisine]]
+[[Category:Kerala cuisine]]
+[[Category:South Indian cuisine]]
+[[Category:Steamed foods]]
+[[Category:Tamil cuisine]]
+[[Category:Telangana cuisine]]
+[[Category:Malaysian breads]]
+[[Category:Sri Lankan rice dishes]]
+[[Category:Indo-Caribbean cuisine]]

@@ -1,0 +1,35 @@
+{{Short description|Slovenian dumplings originating from Idrijski}}
+{{Infobox prepared food
+| name             = Idrijski žlikrofi 
+| image            = Zlikrofi with gulasch.jpg
+| image_size       = 200px
+| caption          = 
+| alternate_name   = 
+| country          = [[Slovenia]]
+| region           = [[Idrija]]
+| creator          = 
+| type             = [[Dumplings]]
+| served           = 
+| main_ingredient  = [[Flour]], [[Egg (food)|egg]]s, [[potato]]es, [[lard]]
+| variations       = 
+| calories         = 
+| other            = [[Geographical indications and traditional specialities in the European Union|TSG]]
+}}
+
+'''Idrijski žlikrofi''' are traditional [[Slovenian cuisine|Slovenian]] dumplings that originate from [[Idrija]].<ref>{{cite book|title=Strategija razvoja gastronomije Slovenije|year=2006|publisher=Univerza v Mariboru|location=Maribor}}</ref> They are made from dough with potato filling and are often served either as a side dish to meat or on their own, in which case they are topped with breadcrumbs.<ref name="Adamlje1995">{{cite book|last=Adamlje|first=Slavko|title=Slovenska kuhinja|year=1995|publisher=Mladinska knjiga|location=Ljubljana|page=123}}</ref> The recipe dates back to the mid 19th century and remains one of the most popular Slovenian dishes.<ref>{{cite web|last=Prešeren|first=Polona|title=Idrijski žlikrofi - a true speciality of Idrija|url=http://www.slovenia.si/visit/cuisine/modern-culinary-trends/idrijski-zlikrofi-a-true-speciality-of-idrija/|access-date=2013-06-23|archive-url=https://web.archive.org/web/20180506084149/http://www.slovenia.si/visit/cuisine/modern-culinary-trends/idrijski-zlikrofi-a-true-speciality-of-idrija|archive-date=2018-05-06|url-status=dead}}</ref> Žlikrofi were awarded an EU [[protected geographical status]] in 2010 as [[Traditional Speciality Guaranteed]], the first Slovenian dish to do so.<ref>{{cite news|title=Idrijski žlikrofi tudi evropsko zaščiteni|url=http://www.rtvslo.si/gospodarstvo/idrijski-zlikrofi-tudi-evropsko-zasciteni/221382|accessdate=23 June 2013|date=15 January 2010}}</ref>
+
+==Protection regime==
+
+* [[Geographical indications and traditional specialities in the European Union|Traditional specialities guaranteed (TSG) in the European Union]]
+
+
+== References ==
+{{reflist}}
+
+{{Dumplings}}
+{{DEFAULTSORT:Idrijski zlikrofi}}
+[[Category:Dumplings]]
+[[Category:Slovenian cuisine]]
+[[Category:Traditional Speciality Guaranteed products from Slovenia]]
+
+{{Slovenia-cuisine-stub}}

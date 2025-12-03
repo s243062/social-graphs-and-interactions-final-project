@@ -1,0 +1,117 @@
+{{Short description|Korean cold noodle dish}}
+{{italic title}}
+{{Infobox food
+| name               = ''Naengmyeon''
+| image              = Naengmyeon (cold noodles).jpg
+| caption            = A bowl of ''naengmyeon''
+| alternate_name     = ''Raengmyŏn'', cold noodles
+| place_of_origin    = North Korea
+| region             = [[Pyongyang]] and [[Hamhung]]
+| associated_cuisine = [[Korean cuisine]]
+| creator            = <!-- or | creators = -->
+| mintime            = 
+| maxtime            = 
+| type               = ''[[Guksu (dish)|Guksu]]''
+| course             = [[Main course]]
+| served             = Cold
+| main_ingredient    = [[Noodle]]s (flour and starch of [[buckwheat]], [[potato]]es, [[sweet potato]]es)
+| minor_ingredient   = 
+| variations         = ''Mul-naengmyeon'', ''bibim-naengmyeon'', ''hoe-naengmyeon''
+| serving_size       = 100
+| calories           = 110
+| calories_ref       = <ref name="KFF">{{Cite web|url=http://www.hansik.org/kr/board.do?cmd=view&bbs_id=021&menu=pkr2020100&lang=kr&art_id=294|title=mul-naengmyeon|website=[[Korean Food Foundation]]|language=ko|script-title=ko:물냉면|access-date=16 May 2017}}{{Dead link|date=July 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| protein            = 27
+| fat                = 1
+| carbohydrate       = 55-62
+| glycemic_index     = 62
+| similar_dish       = 
+| other              = 
+| module = {{Infobox Korean name/auto
+| child = yes
+| title = South Korean name
+| hangul     = 냉면
+| hanja      = 冷麵
+| ipa  = {{IPA|ko|nɛŋ.mjʌn|}}
+| othername1 = North Korean name
+| hangul1     = 랭면
+| hanja1      = 冷麵
+| ipa1  = {{IPA|ko|ɾɛŋ.mjʌn|}}
+}}
+}}
+
+'''''Naengmyeon'''''<ref name="standardized">{{in lang|ko}} {{Cite web|url=http://www.korean.go.kr/common/download.do?file_path=notice&c_file_name=140730_%ED%95%9C%EC%8B%9D%EB%AA%85_%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0_%EB%B0%8F_%ED%91%9C%EC%A4%80_%EB%B2%88%EC%97%AD_%ED%99%95%EC%A0%95%EC%95%88_.pdf&o_file_name=140730_%ED%95%9C%EC%8B%9D%EB%AA%85_%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0_%EB%B0%8F_%ED%91%9C%EC%A4%80_%EB%B2%88%EC%97%AD_%ED%99%95%EC%A0%95%EC%95%88_.pdf|script-title=ko:주요 한식명(200개) 로마자 표기 및 번역(영, 중, 일) 표준안|date=2014-07-30|publisher=[[National Institute of Korean Language]]|trans-title=Standardized Romanizations and Translations (English, Chinese, and Japanese) of (200) Major Korean Dishes|access-date=2017-02-15}}
+*{{cite press release |date=2014-05-02 |script-title=ko:주요 한식명 로마자 표기 및 표준 번역 확정안 공지 |url=http://www.korean.go.kr/front/board/boardStandardView.do?board_id=4&mn_id=17&b_seq=1465 |website=[[National Institute of Korean Language]] |language=ko}}</ref> ({{Korean|hangul=냉면|labels=no}}, in South Korea) or '''''raengmyŏn''''' ({{lang|ko|랭면}}, in North Korea) is a noodle dish of [[North Korean cuisine|North Korean]] origin which consists of long and thin handmade noodles made from the flour and starch of various ingredients, including most commonly [[buckwheat]] (메밀, ''memil'') but also [[potato]]es, [[sweet potato]]es, arrowroot starch (darker color and chewier than buckwheat noodles), and [[Kudzu#Food|kudzu]] ({{lang|ko|칡}}, {{Transliteration|ko|chik}}). Other varieties of naengmyeon are made from ingredients such as seaweed and [[green tea]].
+
+In modern times, the ''mul naengmyeon'' ({{Korean|hangul=물 냉면|labels=no}}) variant is commonly associated with and popularly consumed during the summer; however, it was historically a dish enjoyed during winter.<ref>{{cite web |last1=HAE-JIN LEE |first1=CECILIA |title=Here's why you want to go to K-Town for cold noodles, even in the middle of winter |url=https://www.latimes.com/food/dailydish/la-dd-hansol-noodle-20151229-story.html |website=[[Los Angeles Times]] |date=29 December 2015 |access-date=12 February 2021}}</ref><ref>{{cite web |title=Behind Story |url=https://www.cj.co.kr/en/k-food-life/behind-story/31 |website=CJ CHEILJEDANG |access-date=12 February 2021 |archive-date=9 August 2021 |archive-url=https://web.archive.org/web/20210809033900/https://www.cj.co.kr/en/k-food-life/behind-story/31 |url-status=dead }}</ref><ref>{{cite web |last1=Yoon |first1=Sojung |title=Korean recipes: Naengmyeon (냉면) |url=https://www.korea.net/NewsFocus/Culture/view?articleId=143235#:~:text=Naengmyeon%20literally%20means%20%22noodles%20in,made%20using%20a%20dongchimi%20broth. |website=KOREA |access-date=12 February 2021}}</ref>
+
+== History ==
+According to the 19th-century historical text ''[[Dongguksesigi]]'' ({{Korean|hangul=동국세시기|hanja=東國歲時記|labels=no}}), ''naengmyeon'' has been made since the [[Joseon]] period.<ref name="Naengmyeon">{{cite encyclopedia |access-date=7 September 2015 |language=Korean |script-title=ko:냉면 |trans-title=Naengmyeon |encyclopedia=[[Doosan Encyclopedia]] |via=[[Naver Encyclopedia of Knowledge]] |url=https://terms.naver.com/entry.naver?docId=1076021&cid=40942&categoryId=32136 |archive-url=https://web.archive.org/web/20211011221827/https://terms.naver.com/entry.naver?docId=1076021&cid=40942&categoryId=32136 |archive-date=11 October 2021  }}</ref> Originally a delicacy in northern [[Korea]], especially in the cities of [[Pyongyang]] ({{lang|ko|평양}}) and [[Hamhung]] ({{lang|ko|함흥}}),<ref>{{Cite web|last=Sohn |first=Ji-young |date=20 April 2018 |title=[Weekender] Pyongyang vs. Hamhung: Naengmyeons of Korea |work=[[The Korea Herald]] |url=http://www.koreaherald.com/view.php?ud=20180420000505 |archive-url=https://web.archive.org/web/20180420112408/http://www.koreaherald.com/view.php?ud=20180420000505 |archive-date=20 April 2018 |access-date=18 June 2020 |language=en}}</ref> ''naengmyeon'' became widely popular throughout Korea in both North and South Korea after the [[Korean War]].<ref name="Naengmyeon"/>
+
+Naengmyeon is served in a large brass or stainless-steel bowl with a tangy iced broth, [[Julienning|julienned]] cucumbers, slices of [[Pyrus pyrifolia|Korean pear]], thin, wide strips of lightly pickled [[Korean radish|radish]], and either a boiled egg or slices of cold boiled beef or both. Spicy mustard sauce (or mustard oil) and vinegar are often added before consumption. Traditionally, the long noodles would be eaten without cutting, as they symbolized longevity of life and good health, but servers at restaurants usually ask if the noodles should be cut prior to eating, and use or provide [[scissors]] to cut the noodles.{{Citation needed|date=October 2021}}
+
+== Varieties ==
+The two main varieties of ''naengmyeon'' are ''mul naengmyeon'' ({{Korean|hangul=물 냉면|labels=no}}) and ''bibim naengmyeon'' ({{Korean|hangul=비빔 냉면|labels=no}}). The former is served as a cold noodle soup made from beef, [[Chicken as food|chicken]] or [[dongchimi]] broth. The latter is served with a spicy dressing made primarily from ''[[gochujang]]'' (red chili paste) and eaten mixed. In the case of ''bibim naengmyeon'', a bowl of broth used in ''mul naengmyeon'' or plain broth from the boiled noodles itself are often served on the side. This broth can be served hot or cold depending on the restaurant and type of broth. Boiled [[Eggs as food|eggs]] and sliced [[cucumber]]s are often added as a garnish.
+
+''Mul naengmyeon'' originates from [[Pyongyang]].<ref name="pyeongyang naengmyeon">[http://100.naver.com/100.nhn?docid=181671 Pyongyang naengmyeon] {{Webarchive|url=https://archive.today/20130129153920/http://100.naver.com/100.nhn?docid=181671 |date=2013-01-29 }} Doosan Encyclopedia</ref> Pyongyang ''naengmyeon'' is mainly made from buckwheat and either [[beef]] or [[pheasant]] broth. It also uses [[dongchimi]] broth or a mixture of it, while adding sliced pieces of [[Korean radish|radish]] to the dish. Vinegar, mustard oil (provided on request at most restaurants), and sugar is added according to taste before eating. South Koreans do not add sugar and use beef broth exclusively. In [[South Jeolla Province]], ''mul naengmyeon'' is often served with red chili paste that is mixed in with the broth. The effect is similar to adding the broth to a bowl of ''bibim naengmyeon''.
+
+A version of ''bibim naengmyeon'' originates from [[Hamhung]],<ref name="hamhung naengmyeon">[http://100.naver.com/100.nhn?docid=187123 Hamhung naengmyeon] {{Webarchive|url=https://archive.today/20130129143541/http://terms.naver.com/entry.nhn?cid=200000000&docId=1161648&categoryId=200000400 |date=2013-01-29 }}, Doosan Encyclopedia</ref> the ''hoe naengmyeon'' (회 냉면). ''Hoe naengmyeon'' is ''bibim naengmyeon'' with additional marinated raw fish ([[Hoe (food)|hoe]]), usually [[Skate (fish)|skate]]. It is eaten with ''[[gochujang]]'' and other ingredients mixed. Vinegar, sugar, and sometimes [[sesame oil]] are added according to taste. The noodles of Hamhung ''naengmyeon'' are typically made from potato or sweet potato starch, making the noodles chewier in texture compared to those of Pyongyang ''naengmyeon''. In addition to skate, [[pollock]] (명태) can also be used in ''hoe naengmyeon''. In this case it is referred to as ''myeongtae hoe naengmyeon'' (명태회냉면).
+
+Another variety of naengmyeon is ''yeolmu naengmyeon'' (열무 냉면) which is served with ''[[yeolmu kimchi]]'', made from the leaves of the [[yeolmu]] summer radish.
+
+Jinju-''naengmyeon'' (진주냉면) originates from [[Jinju]] on the southern coast of Korea, and unlike other varieties, the broth is made with various types of seafood mixed with meat, often garnished with ingredients such as [[abalone]], [[sea cucumber]]s, [[Shiitake|shiitake mushrooms]] and ''[[kimchi]]''.<ref>{{Cite web |last=Kang |first=Bu-yeon |date=2023-07-25 |title=한여름 최고의 음식, 냉면 이야기 |url=https://woman.chosun.com/news/articleView.html?idxno=110793 |access-date=2025-03-27 |website=여성조선 |language=ko}}</ref><ref>{{Cite web |last=Lee |first=Chun-ho |date=2022-06-17 |title=디포리 등 다섯가지 해물로 만든 육수...원본에 가까운 진주냉면 맛본다|url=https://www.yeongnam.com/web/view.php?key=20220617010002158 |access-date=2025-03-27 |website=영남일보 |language=ko}}</ref> Its reputation for extravagance is acknowledged even in North Korea, when it was mentioned alongside Pyŏngyang ''naengmyŏn'' in a 1994 publication titled 'Folk Traditions of [[Names of Korea#Korea|Chosŏn]]' (조선의 민속전통).<ref>{{Cite web |last=Kim |first=Hyeon-woo |date=2023-12-14 |title=‘우리나라 3대 냉면’ 진주냉면, 첫 백년가게 등록 |url=https://www.busan.com/view/busan/view.php?code=2023121414040383604 |access-date=2025-03-27 |website=부산일보 |language=ko}}</ref><ref>{{Cite web |last=Michuhol Haksan Cultural Center |date=2024-09-27 |title=어떤 스타일의 냉면을 드시겠어요? 골라 먹는 인천냉면! |url=http://se-cu.com/ndsoft/error.html |access-date=2025-03-27 |website=인천IN |language=Korean}}</ref>
+
+''[[Jungguk-naengmyeon]]'' ({{lang|ko|중국냉면}}) is a Chinese-influenced cold noodle soup in [[Korean Chinese cuisine]] served with mustard and [[peanut butter]] on the side.<ref name="Park 2017-07">{{cite news |last=Park |first=Jeong Bae |title=[Park Jeong Bae-ui hansik-ui tansaeng] Jungguk-en eomneun 'Hanguk-hyeong jungsik'... Ttangkong-soseu, gyeoja neoeun naengmyeon |script-title=ko:[박정배의 한식의 탄생] 중국엔 없는 '한국형 中食'… 땅콩소스·겨자 넣은 냉면 |url=http://news.chosun.com/site/data/html_dir/2017/07/26/2017072600027.html |access-date=15 October 2018 |work=[[The Chosun Ilbo]] |date=26 July 2017 |language=ko}}</ref>
+
+A Chinese version of the dish known as "Korean cold noodles" ({{lang-zh|s=朝鲜冷面|p=Cháoxiǎn lěng miàn|labels=no}}) or "[[Northeastern Chinese cuisine|Dongbei]] cold noodles" ({{lang-zh|s=东北冷面|p=Dōngběi lěng miàn|labels=no}}) is popular in the [[Northeast China]] region bordering Korea.<ref>{{Cite web|url=https://www.chinaexpeditiontours.com/china-guide/eating-in-changchun|title = Eating in Changchun, Local Delicacy and Snacks, Ginseng Soup, Korean Food in Changchun}}</ref><ref>{{Cite web|url=https://home.meishichina.com/recipe-242919.html|title=东北大冷面的做法_东北大冷面怎么做_我爱馋猫的菜谱_美食天下|access-date=2021-06-23|archive-date=2022-12-22|archive-url=https://web.archive.org/web/20221222163549/https://home.meishichina.com/recipe-242919.html|url-status=dead}}</ref> Significant variation in preparation exists inside Northeast China, from the famous sour-and-sweet [[Yanji]] naengmyeon (延吉冷面; 연길랭면) to the sour-and-salty [[Jixi]] cold noodles.<ref>{{cite web | url=https://m.huxiu.com/article/375264.html | title=为了一碗冷面，东三省吵起来了 | date=13 August 2020 }}</ref>
+
+[[Morioka reimen]] (盛岡冷麺) is derived from ''naengmyeon'' which was introduced by Korean immigrants, and is part of [[Japanese regional cuisine]] in [[Tōhoku region|Tohoku region]].
+
+Instant ''naengmyeon'' noodles are available, with the soup broth prepackaged with the noodles. A plastic package of [[mustard oil]] is often supplied.
+
+== Gallery ==
+<gallery>
+File:Cold Noodles at Famous Okryu Restaurant (10108835864).jpg|''[[P'yŏngyang]]-raengmyŏn''<br />({{lang|ko|평양랭면}} or {{lang|ko|평양냉면}})
+File:Korean cold buckwheat noodle soup-Mul naengmyeon-01.jpg|''Mul-naengmyeon''<br />({{lang|ko|물냉면}})
+File:Korean.food-Bibim.naengmyen-01.jpg|''Bibim-naengmyeon''<br />({{lang|ko|비빔냉면}})
+File:Korean hot and spicy cold buckwheat noodles with raw fish-Hoe naengmyeon-01.jpg|''[[Hoe (dish)|Hoe]]-naengmyeon''<br />({{lang|ko|회냉면}})
+File:Jinju naengmyeon (cold noodles).jpg|''[[Jinju]]-naengmyeon''<br />({{lang|ko|진주냉면}})
+File:Dongbei lengmian cold noodles.jpg|''Dongbei lengmian''<br/>({{lang-zh|东北冷面}})
+File:Morioka reimen by shibainu.jpg|''[[Morioka]] reimen''<br/>({{CJKV|j=盛岡冷麵}})
+
+</gallery>
+
+== In popular culture ==
+In the South Korean variety show ''[[Infinite Challenge]]'', [[Park Myeong-su]] and [[Jessica (entertainer)|Jessica]], a former member of [[Girls' Generation]], performed the song "Naengmyeon" which was named after the food. The song became a hit and received wide acclaim.<ref name="mhdj naengmyeon">[http://www.newsen.com/news_view.php?uid=200912161628261002 Naengmyeon wins award], Newsen</ref>
+
+== In politics ==
+During the first summit between North and South Korean leaders [[Kim Jong Un]] and [[Moon Jae-in]], Kim presented Moon with Pyongyang-style ''raengmyŏn'' as a gift.<ref>{{cite web|url=https://www.theguardian.com/world/2018/apr/28/cold-noodles-are-peace-symbol-summit-to-savour-for-euphoric-koreans|access-date=2018-04-28|work=[[The Guardian]]|title='Cold noodles are peace symbol': summit to savour for euphoric Koreans|date=28 April 2018}}</ref>
+
+== See also ==
+{{Portal|Food}}
+* [[Korean cuisine]]
+* ''[[Mak-guksu]]''
+* ''[[Milmyeon]]''
+* ''[[Kong-guksu]]''
+* ''[[Jat-guksu]]''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Naengmyeon}}
+* [https://web.archive.org/web/20141105052845/http://www.visitseoul.net/en/article/article.do?_method=view&art_id=3157&lang=en&m=0004001001002&p=01 Naengmyeon - Official Seoul City Tourism]
+
+{{Noodle}}
+{{Korean food and drink}}
+{{Soups}}
+
+[[Category:Buckwheat dishes]]
+[[Category:Korean noodle dishes]]
+[[Category:Mixed noodles]]
+[[Category:National dishes]]
+[[Category:Noodle soups]]
+[[Category:Winter in culture]]
+[[Category:Cold noodles]]
+[[Category:North Korean cuisine]]
+[[Category:Joseon cuisine]]
+[[Category:Northeastern Chinese cuisine]]
