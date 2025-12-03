@@ -1,0 +1,404 @@
+{{short description|Type of rice}}
+{{redirect|Sticky rice|the Chinese rice dish|Chinese sticky rice}}
+{{cleanup lang|article|date=June 2024}}
+{{Use dmy dates|date=June 2024}}
+[[File:Chapssal (glutinous rice).jpg|thumb|Short-grain glutinous rice from Japan]]
+[[File:2014 uncooked Thai glutinous rice.jpg|thumb|Long-grain glutinous rice from Thailand]]
+[[File:HK Pancake cooking Sept-2010 Ingredient 糯米粉 Glutinous Rice Flour.JPG|thumb|upright|Glutinous rice flour]]
+
+'''Glutinous rice''' (''[[Oryza sativa]] var. glutinosa''; also called '''sticky rice''', '''sweet rice''' or '''waxy rice''') is a type of [[rice]] grown mainly in [[Southeast Asia]] and the northeastern regions of [[South Asia]], which has opaque grains and very low [[amylose]] content and is especially sticky when cooked. It is widely consumed across Asia.
+
+It is called glutinous ({{langx|la|glūtinōsus}})<ref>"glutinous, a." ''[[Oxford English Dictionary]]'', Second Edition. 1989. Online edition. Retrieved 20 February 2008.</ref> in the sense of being glue-like or sticky, and not in the sense of containing [[gluten]] (which, like all rice, it does not). While often called ''sticky rice'', it differs from non-glutinous strains of [[japonica rice]], which also becomes sticky to some degree when cooked. There are numerous cultivars of glutinous rice, which include ''japonica'', ''indica'' and ''tropical japonica'' strains.
+
+==History==
+The origin of glutinous rice is difficult to ascertain because of its long-standing cultural importance across a wide geographical region in Asia.
+
+A 2002 genetic study discovered that the waxy mutation that disrupted [[amylose]] synthesis likely has a single origin. This is supported by the fact that all glutinous rice [[Accession number (bioinformatics)|accessions]] in the study contain the same mutation. From comparisons of subsequent mutations in the different accessions in the study, it was found that the progenitor [[haplotype]] is highest among Southeast Asian glutinous rice cultivars, indicating strongly that the waxy mutation first arose in Southeast Asia, likely in the upland regions of [[Mainland Southeast Asia]], before spreading to the rest of Asia.<ref name="Olsen">{{cite journal |last1=Olsen |first1=Kenneth M |last2=Purugganan |first2=Michael D |title=Molecular Evidence on the Origin and Evolution of Glutinous Rice |journal=Genetics |date=1 October 2002 |volume=162 |issue=2 |pages=941–950 |doi=10.1093/genetics/162.2.941|pmid=12399401 |pmc=1462305 }}</ref>
+
+The waxy mutation is also known to have first arisen in temperate [[japonica rice]], where it is far more common, before spreading to [[Japonica rice|tropical japonica rice]] (javanica) and [[indica rice|indica]] cultivars via [[gene flow]].<ref name="Olsen"/><ref name="Yamanaka">{{cite journal |last1=Yamanaka |first1=Shinsuke |last2=Nakamura |first2=Ikuo |last3=Watanabe |first3=Kazuo N. |last4=Sato |first4=Yo-Ichiro |title=Identification of SNPs in the waxy gene among glutinous rice cultivars and their evolutionary significance during the domestication process of rice |journal=Theoretical and Applied Genetics |date=May 2004 |volume=108 |issue=7 |pages=1200–1204 |doi=10.1007/s00122-003-1564-x|pmid=14740088 |s2cid=5681108 }}</ref>
+
+==Cultivation==
+Glutinous rice is cultivated in countries across Asia, Southeast Asia, South Asia, and East Asia, including Laos, Thailand, Cambodia, Vietnam, Malaysia, Indonesia, Myanmar, Nepal, Bangladesh, Bhutan, Northeast India, China, Japan, Korea, Taiwan, Sri Lanka, and the Philippines. In Laos, it is estimated that 85% of the rice produced is glutinous rice.
+
+As of 2013, the International Rice Genebank (IRGC) has preserved approximately 6,530 varieties of glutinous rice from five continents—Asia, South America, North America, Europe, and Africa. The International Rice Research Institute (IRRI) has referred to Laos as a "collector's paradise" for its remarkable diversity of glutinous rice. IRRI-trained collectors have gathered over 13,500 samples and 3,200 distinct varieties from Laos alone, making it home to the largest known biodiversity of sticky rice in the world.
+
+==Composition==
+Glutinous rice is distinguished from other types of rice by having no (or negligible amounts of) [[amylose]] and high amounts of [[amylopectin]] (the two components of [[starch]]). Amylopectin is responsible for the sticky quality of glutinous rice. The difference has been traced to a single mutation that farmers selected.<ref name="Olsen"/><ref>{{cite journal | author = Kenneth M. Olsen and Michael D. Purugganan | title = Molecular evidence on the origin and evolution of glutinous rice | journal = Genetics | volume = 162 | pages = 941–950 | date = 1 October 2002 | url = http://www.genetics.org/cgi/reprint/162/2/941 | issue = 2 | doi = 10.1093/genetics/162.2.941 | pmid = 12399401 | pmc = 1462305 | access-date = 11 October 2006 | archive-date = 14 May 2010 | archive-url = https://web.archive.org/web/20100514031615/http://www.genetics.org/cgi/reprint/162/2/941 | url-status = live }}</ref>
+
+Like all types of rice, glutinous rice does not contain dietary [[gluten]] (i.e. does not contain [[glutenin]] and [[gliadin]]) and should be safe for [[gluten-free diet]]s.<ref>{{cite book |last=Nguyễn |first=Xuân Hiʾên |date=2001 |title=Glutinous-Rice-Eating Tradition in Vietnam and Elsewhere |location=Bangkok |publisher=White Lotus Press |page=13 |isbn=9789747534238}}</ref>
+
+Glutinous rice can be consumed milled or unmilled (that is, with the [[bran]] removed or not removed). Milled glutinous rice is white and fully opaque (unlike non-glutinous rice varieties, which are somewhat translucent when raw), whereas the bran can give unmilled glutinous rice a purple or black colour.<ref>{{cite book | author = Kenneth F. Kiple, Kriemhild Coneè Ornelas | title = The Cambridge World History of Food | page = 143}}</ref> Black and purple glutinous rice are distinct strains of white glutinous rice.  In developing Asia, there is little regulation, and some governments have issued advisories about toxic [[dye]]s being added to colour-[[adulterated]] rice. Both black and white glutinous rice can be cooked as discrete grains or ground into [[Rice flour|flour]] and cooked as a paste or gel.
+
+==Use in foods==
+{{see also|Rice cake}}
+{{More citations needed section|date=July 2021}}
+Glutinous rice is used in a wide variety of traditional dishes in different countries. They include the following:
+
+===Bangladesh===
+Especially in the eastern regions (Chittagong, Cox's Bazar, Sylhet areas) of [[Bangladesh]], glutinous rice is known as binni chal (Bangla: বিন্নি চাল) or binni sôil (বিন্নি চইল) in [[Chittagong District|Chittagong]], both meaning "husked sticky rice" in Bangla. Both white and pink varieties are cultivated at many homestead farms. Unhusked sticky rice is called ''binni dhan''. Boiled or steamed binni chal is referred to as binni bhat. Served with a curry of fish or meat, binni bhat is a popular breakfast. Sometimes, it is eaten simply with a splash of [[Khejurer Gur|date palm sugar]] or [[jaggery]], salt, and shredded coconut. Binni dhan is also used to make [[puffed rice|khoi]] (popped rice similar to popcorn) and chida (flattened, beaten rice).
+
+Many other sweet items, or types of [[pitha]], made with binni chal are also popular in the region.
+
+One such pitha is ''atikka pitha''. It is made with a mixture of cubed or thinly sliced coconut, white or brown sugar (specifically date [[palm sugar]]), ripe bananas, milk, and binni chal, all wrapped in banana leaves and steamed.<ref>https://coxsbazarlife.com/banana-leaf-wrapped-atikka-pitha-a-traditional-delicacy/ {{Bare URL inline|date=August 2025}}</ref> A similar dessert is enjoyed throughout Southeast Asia, where it is known as [[khao tom mat]] in Thai, [[num ansom]] in Khmer, [[lepet]] in Indonesian, suman in Filipino, [[bánh tét]] and [[bánh chưng]] in Vietnamese, and [[khao tom]] in Lao.
+
+Another sweet dish is ''binni chaler patishapta pitha'', a rolled rice crepe made using coarsely ground, hydrated glutinous rice flour. The rice flour is spread in a thin circular layer over a hot pan and filled with a mixture of grated coconut, [[palm sugar]], and occasionally milk powder, then rolled into shape.<ref>https://www.banglarrannaghor.com/post/binni-chaler-pitha {{Bare URL inline|date=August 2025}}</ref>
+
+A kind of rice porridge made from binni chal is known as ''modhu bhat'', which literally means "honey rice". It is prepared by cooking binni chal in water for a prolonged period until soft, slightly blending it for a creamy consistency, and then topping it with shredded coconut. Sweeteners such as [[Khejurer Gur|date palm sugar]] and [[honey]] are also added. Modhu bhat is a well-known traditional delicacy of the [[Chittagong District|Chittagong]] area, often consumed during cooler months or as part of rural celebrations.<ref>{{cite web | title=Binni | url=https://www.amar-khamar.com/products/binni?srsltid=AfmBOopo-z5khru3DgnIpoHYFOgzY3TsjdCqViYI7-46t8aoZBAxPa2e }}</ref>
+
+===Cambodia===
+[[File:Num Plae Ai.jpg|thumb|200px|''Num ple aiy'', dumplings made from glutinous rice, palm sugar and coconut]]
+
+Glutinous rice is known as ''bay damnaeb'' ({{langx|km|បាយដំណើប}}) in [[Khmer language|Khmer]].
+
+In [[Cambodian cuisine]], glutinous rice is primarily used for desserts<ref>{{cite book |last=Edelstein |first=Sari |date=2010 |title=Food, Cuisine, And Cultural Competency For Culinary, Hospitality, And Nutrition Professionals |publisher=[[Jones & Bartlett Learning]] |page=247 |isbn=978-0-763-75965-0}}</ref> and is an essential ingredient for most sweet dishes, such as ''ansom chek'', ''[[kralan]]'', and ''num ple aiy''.<ref>{{cite magazine |title=The Sweet Tastes of Cambodia |date=3 May 2013 |url=https://www.asialifemagazine.com/cambodia/the-sweet-tastes-of-cambodia/ |magazine=Asia Life Magazine |accessdate=26 May 2013 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420134337/https://www.asialifemagazine.com/cambodia/the-sweet-tastes-of-cambodia/ |url-status=dead }}</ref>
+
+===China===
+[[File:Pearl Meatballs with Sticky Rice.jpg|thumb|[[Pearl meatballs]], a Chinese meatball coated in glutinous rice]]
+In [[Chinese language|Chinese]], glutinous rice is known as ''nuòmǐ'' (糯米) or ''chu̍t-bí'' (秫米) in [[Hokkien]].
+
+Glutinous rice is also often ground to make [[glutinous rice flour]]. This flour is made into ''[[niangao]]'' and sweet-filled dumplings ''[[tangyuan (food)|tangyuan]]'', both of which are commonly eaten at [[Chinese New Year]]. It is also used as a thickener and for baking.
+
+Glutinous rice or glutinous rice flour are both used in many [[Chinese bakery products]] and in many varieties of [[dim sum]]. They produce a flexible, resilient dough, which can take on the flavours of other ingredients added to it. Cooking usually consists of steaming or boiling, sometimes followed by pan-frying or deep-frying. Sweet glutinous rice is sometimes eaten with red bean paste.
+
+''Nuòmǐfàn'' ({{Lang-zh|s=糯米饭|t=糯米飯}}) is steamed glutinous rice usually cooked with [[Chinese sausage]], chopped mushrooms, chopped barbecued pork, and optionally dried shrimp or scallop, depending on the preference.
+
+''[[Zongzi|Zòngzi]]'' ({{Lang-zh|s=粽子|t=糭子/糉子}}) is a dumpling consisting of glutinous rice and sweet or savoury fillings wrapped in large flat leaves (usually bamboo), which is then boiled or steamed. It is most eaten during the [[Dragon Boat Festival]] but may be eaten at any time of the year. It is popular as an easily transported snack, or a meal to consume while travelling. It is a common food among Chinese in Hong Kong, Singapore and Malaysia.
+
+''Zīfàn'gāo'' ({{Lang-zh|s=粢饭糕|t=簢飯糕}}) is a popular breakfast food originating in Eastern China consisting of cooked glutinous rice compressed into squares or rectangles, and then deep-fried.<ref>[[:zh-tw:粢饭糕|粢饭糕]]</ref> Additional seasoning and ingredients such as beans, [[zha cai]], and sesame seeds may be added to the rice for added flavour. It has a similar appearance and external texture to [[hash browns]].
+
+''[[Cifantuan|Cífàntuán]]'' ({{Lang-zh|s=糍饭团|t=糍飯糰}}) is another breakfast food consisting of a piece of [[youtiao]] tightly wrapped in cooked glutinous rice, sometimes with additional seasoning ingredients. Japanese [[onigiri]] resembles this Chinese food.
+
+''[[Lo mai gai]]'' ({{Lang-zh|s=糯米鸡|t=糯米雞}}) is a dim sum dish, most served in Hong Kong, Singapore, and Malaysia, consisting of steamed glutinous rice with chicken in a lotus-leaf wrap.
+
+''Bābǎofàn'' ({{Lang-zh|s=八宝饭|t=八寶飯|l=eight treasure rice}}), is a dessert made from glutinous rice, steamed and mixed with [[lard]], sugar, and eight kinds of fruits or nuts.
+
+A distinctive feature of the cuisine of the [[Hakka people|Hakka]] people of Southern China is its variety of steamed snack-type buns, dumplings, and [[Patty|patties]] made with a dough of coarsely ground rice, or ''ban'' , collectively known as "rice snacks". Some are filled with various salty or sweet ingredients.
+
+Common examples of rice snacks made with ''ban'' from glutinous or sticky rice and non-glutinous rice{{explain|date=May 2013}} include ''aiban'' (mugwort patty), ''caibao'' ([[Pachyrhizus erosus|yam bean]] bun), ''ziba'' (sticky rice balls) and ''bantiao'' (''mianpaban'' or flat rice noodles).
+
+''Aiban'' encompasses several varieties of steamed patties and dumplings of various shapes and sizes, consisting of an outer layer made of glutinous ''ban'' dough filled with salty or sweet ingredients. It gets its name from the aromatic ''ai'' grass ([[mugwort]]), which, after being dried, powdered, and mixed with the ''ban'', gives the dough a green colour and tea-like taste. Typical salty fillings include ground pork, mushrooms, and shredded white turnips. The most common sweet filling is made with red beans.
+
+''Caibao'' is a generic term for all types of steamed buns with various sorts of filling. Hakka-style ''caibao'' are distinctive in that the enclosing skin is made with glutinous rice dough in place of wheat flour dough. Besides ground pork, mushrooms, and shredded turnips, fillings may include ingredients such as dried shrimp and dry fried-shallot flakes.
+
+''Ziba'' is glutinous rice dough that, after steaming in a large container, is mashed into a sticky, putty-like mass from which small patties are formed. After that, it is left in a dry place to dry. When ready to eat, it is commonly fried, boiled or grilled. Then, it is usually coated with a layer of Chinese brown sugar syrup with sugary peanut or soybean powder. It has no filling.
+
+<gallery widths="180" style="line-height:1.5" class="center" caption="Chinese glutinous rice dishes">
+Zongzi.jpg|''[[Zongzi]]'' rice dumplings, without and with bamboo leaf wrapping
+HK food company Lee Chun 利川 芝麻湯圓 Sesame Tong Yuen tablepoon April-2011.JPG|Glutinous rice ball dessert, filled with sesame paste
+HK TST restaurant 內蒙古 小肥羊 Little Sheep Group food 咸水角 deep-fried Glutinous Rice Dumplings May-2012.JPG|Deep-fried glutinous rice ball dumplings
+Shanghai Nian cake.jpg|Fried slices of Shanghai nian cake
+HK Sheung Wan 喜悅海鮮酒家 Hei Yuet Seafood Restaurant 煎薄鐺 Chinese Pizza Cake May-2010.jpg|Chinese glutinous rice pancake or "Chinese pizza"
+Ba Bao Fan by kawanet at Din Tai Fung, Taipei.jpg|''Ba bao fan''
+</gallery>
+
+===Indonesia===
+Glutinous rice is known as '''''beras ketan''''' or simply '''''ketan''''' in [[Java]] and most of Indonesia, and '''''pulut''''' in [[Sumatra]]. It is widely used as an ingredient for a wide variety of sweet, savoury, or fermented snacks. Glutinous rice is used as either hulled grains or milled into flour. It is usually mixed with [[coconut milk|santan]], meaning coconut milk in Indonesian, along with a bit of salt to add some taste. Glutinous rice is rarely eaten as a staple. One example is ''[[lemang]]'', which is glutinous rice and coconut milk cooked in bamboo stems lined by banana leaves. Glutinous rice is also sometimes used in a mix with normal rice in rice dishes such as ''[[Tumpeng|nasi tumpeng]]'' or [[nasi tim]]. It is widely used during the [[Lebaran]] seasons as traditional food. It is also used in the production of alcoholic beverages such as ''[[tuak]]'' and ''brem bali''.
+
+====Savoury snacks====
+* Ketan – traditionally refers to the glutinous rice itself as well as sticky rice delicacy in its simplest form. The handful mounds of glutinous rice are rounded and sprinkled with grated coconut, either fresh or sauteed as [[serundeng]].
+* [[Ketupat]] – square-shaped crafts made from the same local leaves as ''palas'', but it is usually filled with regular rice grains instead of ''pulut'', though it depends on the maker.
+* Gandos – a snack made from ground glutinous rice mixed with grated coconut, and fried.
+* [[Lemang]] – wrapped in [[banana]] leaves and inside a [[bamboo]], and left to be barbecued/grilled on an open fire, to make the taste and texture tender and unique
+* [[Lemper]] – cooked glutinous rice with shredded meat inside and wrapped in banana leaves, popular in Java
+* [[Nasi kuning]] – either common rice or glutinous rice can be made into ketan kuning, yellow rice coloured with [[turmeric]]
+* Songkolo or Sokko – steamed black glutinous rice serves with [[serundeng]], [[anchovies]], and [[sambal]]. It was very popular in [[Makassar]]
+* [[Tumpeng]] – glutinous rice can be made into tumpeng nasi kuning, yellow rice coloured by [[turmeric]], and shaped into a cone.
+
+====Sweet snacks====
+* Variety of [[kue]] – glutinous rice flour is also used in certain traditional local desserts, known as ''[[kue]]'', such as ''kue lapis''.
+* [[Bubur ketan hitam]] – black glutinous rice porridge with coconut milk and palm sugar syrup
+* [[Cenil|Cendil]] – glutinous rice flour cake with sugar and grated coconut
+* [[Dodol]] – traditional sweets made of glutinous rice flour and coconut sugar. Similar variants include ''wajik'' (or ''wajit'').
+* Gemblong – white glutinous rice flour balls smeared with palm sugar caramel. In East Java, it was known as ''getas'', except it uses black glutinous rice flour as the main ingredient.
+* [[Jipang (food)|Jipang]] – popped glutinous rice held together by caramelized sugar
+* [[Klepon]] – glutinous rice flour balls filled with palm sugar and coated with grated coconut
+* [[Lupis (food)|Lupis]] – glutinous rice wrapped in individual triangles using banana leaves and left to boil for a few hours. The rice pieces are then tossed with grated coconut all over and served with palm sugar syrup.
+* [[Jin deui|Onde-onde]] – glutinous rice flour balls filled with sweetened mung bean paste and coated with sesame similar to [[Jin deui]]
+* [[Wingko|Wingko babat]] – baked glutinous rice flour with coconut
+
+====Fermented snacks====
+* [[Brem]] – solid cake from the dehydrated juice of pressed fermented glutinous rice
+* [[Tapai]] ketan – cooked glutinous rice fermented with ''[[yeast]]'', wrapped in banana or [[Syzygium|roseapple]] leaves. Usually eaten as it is or in a mixed cold dessert
+
+====Crackers====
+* [[Rengginang]] – traditional rice crackers related to [[kerupuk]]
+
+In addition, glutinous rice dishes adapted from other cultures are just as easily available. Examples include ''kue moci'' ([[mochi]], Japanese) and ''bacang'' ([[zongzi]], Chinese).
+
+<gallery widths=180 style="line-height:1.5" class="center" caption="Indonesian glutinous rice dishes">
+Lemper.jpg|''[[Lemper]]'', glutinous rice filled with chicken wrapped in banana leaves
+Dodol Bangka.JPG|''[[Dodol]]'' made from [[coconut sugar]] and ground glutinous rice
+Black rice pudding.jpg|''[[Bubur ketan hitam]]'', black glutinous rice [[porridge]] with [[coconut milk]] and [[palm sugar]]
+Lamang tapai Bukittinggi.JPG|''[[Lemang]]'' topped with fermented ''[[tapai]]'' made of black glutinous rice
+Ketan saus durian.jpg|''Ketan'' served with [[durian]] sauce
+Uli.jpg|''Uli bakar'' or grilled glutinous rice cube
+Cendil.jpg|''Cendil'' a Javanese cake made of glutinous rice flour, sugar, and grated coconut
+Kue Moci Kacang.jpg|''[[Kue]] [[mochi]]'' derived from Chinese-Japanese mochi, made from glutinous rice flour
+Kue Lupis.JPG|''Kue lapis'' - Indonesian cake made mainly of glutinous rice
+Lupis.jpg|''[[Lupis (food)|Kue lupis]]'' - Glutinous rice cake with grated coconut and liquid palm sugar
+Tape uli 170305-0101 ipb.JPG|''[[Tapai|Tapai ketan]]'' (right) served with ''uli'' (glutinous rice cooked with grated coconut, and mashed;  left)
+</gallery>
+
+===Japan===
+<gallery widths="180" style="line-height:1.5" class="center" caption="Japanese glutinous rice dishes">
+Rice-cake making,Katori-city,Japan.JPG|Preparation of ''mochi'' in Japan
+Okowa Bento by Yonehachi, Takashimaya Singapore.jpg|''Okowa'' (おこわ), sticky glutinous rice mixed with all kinds of vegetables or meat and steamed
+Mitarashi dango by denver935.jpg|''[[Dango]]'', a common [[wagashi]] served with soy sauce
+</gallery>
+In Japan, glutinous rice is known as ''mochigome'' ({{langx|ja|もち米}}). It is used in traditional dishes such as [[Red bean rice|sekihan]] also known as Red bean rice, [[okowa]], and [[ohagi]]. It may also be ground into ''mochiko'' (もち粉), a [[rice flour]], used to make ''[[mochi]]'' (もち), a kind of sweet rice cake. Mochi is traditionally prepared for the [[Japanese New Year]], but can also be eaten year-round. Many different types of mochi exist from different regions, and they are normally flavoured with traditional ingredients such as red beans, water chestnuts, green tea, and pickled cherry flowers. See also [[Japanese rice]].
+
+===Korea===
+In [[Korea]], glutinous rice is called ''chapssal'' ({{Korean|hangul=찹쌀}}), and its characteristic stickiness is called ''chalgi'' ({{Korean|hangul=찰기|labels=no}}). Cooked rice made of glutinous rice is called ''chalbap'' ({{Korean|hangul=찰밥|labels=no}}) and rice cakes ({{Korean|hangul=떡|rr=ddeok|labels=no}}) are called ''chalddeok'' or ''[[Chapssal-tteok|chapssalddeok]]'' ({{Korean|hangul=찰떡; 찹쌀떡|labels=no}}). ''Chalbap'' is used as stuffing in ''[[samgyetang]]'' ({{Korean|hangul=삼계탕|labels=no}}).
+
+===Laos===
+[[Image:Steaming rice.jpg|thumb|200px|Steaming sticky rice in traditional baskets or ''houat'']]
+[[Image:Lao cuisine ricebasket.jpg|thumb|200px|A Lao rice basket or ''thip khao'']]
+Along the Greater Mekong Sub-region, the Lao have been cultivating glutinous rice for approximately 4000 – 6000 years.<ref name=":0">{{Cite journal |last=Sattaka |first=Patcha |date=27 December 2016 |title=Geographical Distribution of Glutinous Rice in the Greater Mekong Sub-region |url=https://so03.tci-thaijo.org/index.php/mekongjournal/article/view/73311 |url-status=live |journal=Journal of Mekong Societies |language=en |volume=12 |issue=3 |pages=27–48 |issn=2697-6056 |archive-url=https://web.archive.org/web/20211108105756/https://so03.tci-thaijo.org/index.php/mekongjournal/article/view/73311 |archive-date=8 November 2021 |access-date=10 June 2021}}</ref> Glutinous rice is the national dish of [[Laos]].<ref>{{Cite web|title=A Taste of Sticky Rice, Laos' National Dish|url=https://www.smithsonianmag.com/travel/a-taste-of-sticky-rice-laos-national-dish-136291/|access-date=10 June 2021|website=Smithsonian Magazine|language=en|archive-date=5 October 2021|archive-url=https://web.archive.org/web/20211005194946/https://www.smithsonianmag.com/travel/a-taste-of-sticky-rice-laos-national-dish-136291/|url-status=live}}</ref> In Laos, a tiny landlocked nation with a population of approximately 7 million, per-capita sticky rice consumption is the highest on earth at 171&nbsp;kg or 377 pounds per year.<ref>{{Cite web|title=Rice Landscape Analysis – Feasibility of and opportunities for rice fortification in the Lao People's Democratic Republic {{!}} World Food Programme|url=https://www.wfp.org/publications/rice-landscape-analysis-feasibility-and-opportunities-rice-fortification-lao-peoples-democra|access-date=10 June 2021|website=www.wfp.org|date=January 2017|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107125904/https://www.wfp.org/publications/rice-landscape-analysis-feasibility-and-opportunities-rice-fortification-lao-peoples-democra|url-status=live}}</ref><ref>{{Cite book|last=Bestari|first=Njoman George|url=https://www.adb.org/documents/lao-pdr-evaluation-synthesis-rice|title=Lao PDR: An Evaluation Synthesis On Rice|date=1 September 2006|publisher=ADB Independent Evaluation Department|language=en|access-date=10 June 2021|archive-date=10 June 2021|archive-url=https://web.archive.org/web/20210610192623/https://www.adb.org/documents/lao-pdr-evaluation-synthesis-rice|url-status=live}}</ref>
+Sticky rice is deeply ingrained in the culture, religious tradition, and national identity of Laos (see [[Lao cuisine]]). Sticky rice is considered the essence of what it means to be Lao. It has been said that no matter where they are in the world, sticky rice will always be the glue that holds the Lao communities together, connecting them to their culture and to [[Laos]].<ref name=":1">{{Cite web|title=Laos at the crossroads|url=https://grain.org/article/entries/315-laos-at-the-crossroads|access-date=10 June 2021|website=grain.org|language=en|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107125905/https://grain.org/article/entries/315-laos-at-the-crossroads|url-status=live}}</ref> Lao people often identify themselves as the "children of sticky rice"<ref>{{Cite web|last1=Gibbs|first1=JC|date=18 May 2018|title=FORKLIFE: Children of Sticky Rice|url=https://folklife.si.edu/magazine/forklife-children-of-sticky-rice|access-date=10 June 2021|website=Smithsonian Center for Folklife and Cultural Heritage|language=en-US|archive-date=8 November 2021|archive-url=https://web.archive.org/web/20211108212747/https://folklife.si.edu/magazine/forklife-children-of-sticky-rice|url-status=live}}</ref> and if they did not eat sticky rice, they would not be Lao.<ref>{{Cite book|last=M|first=J.M Schiller M.B Chanphengxay B Linquist S Appo Rao Stuart-Fox|title=Population diversity and rice in Laos|date=1 January 2006|publisher=International Rice Research Institute|oclc=828756582}}</ref><ref>{{Cite web|title=Asia brief: Filling the rice basket in Lao PDR, partnership results – OD Mekong Datahub|url=https://data.opendevelopmentmekong.net/library_record/asia-brief-filling-the-rice-basket-in-lao-pdr-partnership-results|access-date=10 June 2021|website=data.opendevelopmentmekong.net|language=en|archive-date=10 June 2021|archive-url=https://web.archive.org/web/20210610192707/https://data.opendevelopmentmekong.net/library_record/asia-brief-filling-the-rice-basket-in-lao-pdr-partnership-results|url-status=live}}</ref>
+
+Sticky rice is known as ''khao niao'' ([[Lao language|Lao]]:[[wikt:ເຂົ້າໜຽວ|ເຂົ້າໜຽວ]]): ''khao'' means rice, and ''niao'' means sticky. It is cooked by soaking for several hours and then steaming in a [[bamboo]] basket or ''houat'' ([[Lao language|Lao]]: ຫວດ). After that, it should be turned out on a clean surface and kneaded with a wooden paddle to release the steam; this results in rice balls that will stick to themselves but not to fingers. The large rice ball is kept in a small basket made of [[bamboo]] or ''thip khao'' ([[Lao language|Lao]]:ຕິບເຂົ້າ). The rice is sticky but dry, rather than wet and gummy-like non-glutinous varieties. Laotians consume glutinous rice as part of their main diet; they also use toasted glutinous rice ''khao khoua'' ([[Lao language|Lao]]:ເຂົ້າຄົ່ວ) to add a nut-like flavour to many dishes.  A popular Lao meal is a combination of [[larb]] ([[Lao language|Lao]]:ລາບ), Lao grilled chicken [[kai yang|ping gai]] ([[Lao language|Lao]]:ປີ້ງໄກ່), spicy green [[papaya salad]] dish known as ''[[tam mak hoong]]'' ([[Lao language|Lao]]:ຕຳໝາກຫູ່ງ), and sticky rice (''khao niao'').
+
+*[[Khao lam]] ([[Lao language|Lao]]:ເຂົ້າຫລາມ): sticky rice is mixed with coconut milk, red or black bean, or taro, and is filled in a bamboo tube. The tube is roasted until all the ingredients are cooked and blended together to give a sweet aromatic treat. Khao Lam is such a popular food for Laotians and is sold on the streets.
+*[[Nam Khao]] ([[Lao language|Lao]]:ແໝມເຂົ້າ): sticky rice has also been used for preparing a popular dish from Laos called Nam Khao (or Laotian crispy rice salad). It is made with a deep-fried mixture of sticky rice and jasmine rice balls, chunks of Lao-style fermented pork sausage called som moo, chopped peanuts, grated coconut, sliced scallions or shallots, mint, cilantro, lime juice, fish sauce, and other ingredients.
+*[[Khao Khua]] ([[Lao language|Lao]]:ເຂົ້າຂົ້ວ): sticky rice are toasted and crushed. Khao Khua is a necessary ingredient for preparing a national Laotian dish called [[Larb]] ([[Lao language|Lao]]:ລາບ) and [[Nam tok (food)|Nam Tok]] ([[Lao language|Lao]]:ນ້ຳຕົກ) that are popular for ethnic [[Lao people]] living in both Laos and in the Northeastern region of Thailand called [[Isan]].
+*[[Khao tom]] ([[Lao language|Lao]]:ເຂົ້າຕົ້ມ): a steamed mixture of ''khao niao'' with sliced fruits and coconut milk wrapped in banana leaf.
+*[[Khao jee]]: Lao sticky rice pancakes with egg coating, an ancient Laotian cooking method of grilling glutinous rice or sticky rice over an open fire.
+*[[Lao sausage|Sai Krok]] ([[Lao language|Lao]]:ໄສ້ກອກ): Lao sausage made from coarsely chopped fatty pork seasoned with lemongrass, galangal, kaffir lime leaves, shallots, cilantro, chillies, garlic, salt, and sticky rice.
+*[[Or lam]] ([[Lao language|Lao]]:ເອາະຫຼາມ): a mildly spicy and tongue-numbing stew originating from [[Luang Prabang]], [[Laos]].
+*[[Lao-Lao]] ([[Lao language|Lao]]:ເຫລົ້າລາວ): Laotian rice whisky produced in Laos.
+
+Khao niao is also used as an ingredient in [[dessert]]s. Khao niao mixed with [[coconut]] milk can be served with ripened [[mango]] or [[durian]].
+
+===Malaysia===
+<gallery widths=180 style="line-height:1.5" class="center" caption="Malaysian glutinous rice dishes">
+Kelupis.jpg|[[Kelupis]]
+Kuih Kochi.jpg|[[Kochi (kuih)|Kuih Kochi]]
+Lamban.JPG|[[Lamban]]
+</gallery>
+
+In [[Malaysia]],  glutinous rice is known as '''pulut'''. It is usually mixed with [[coconut milk|santan (coconut milk)]] along with a bit of salt to add some taste. It is widely used during the [[Eid ul-Fitr|Raya festive]] seasons as traditional food which is shared with certain parts of Indonesia, such as:
+* [[Dodol]] – traditional sweets made of glutinous rice flour and coconut sugar. Similar variants are ''wajik'' (or ''wajit'').
+* Inang-inang – glutinous rice cracker. Popular in Melaka.
+* [[Kelupis]] – a type of glutinous rice kuih in East Malaysia.
+* [[Ketupat]] – square-shaped crafts made from the same local leaves as ''palas'', but it is usually filled with regular rice grains instead of ''pulut'', though it depends on the maker.
+* [[Kochi (kuih)|Kochi]] – Malay-Peranakan sweet and sticky kuih.
+* [[Lamban]] – another type of glutinous rice dessert in East Malaysia.
+* [[Lemang]] – wrapped in [[banana]] leaves and inside a [[bamboo]], and left to be barbecued/grilled on an open fire, to make the taste and texture tender and unique.
+* Pulut inti – wrapped in banana leaf in the shape of a pyramid, this kuih consists of glutinous rice with a covering of grated coconut candied with palm sugar.
+* Pulut panggang – glutinous rice parcels stuffed with a spiced filling, then wrapped in banana leaves and char-grilled. Depending on the regional tradition, the spiced filling may include pulverised dried prawns, caramelised coconut paste or beef floss. In the state of Sarawak, the local pulut panggang contains no fillings and is wrapped in pandan leaves instead.
+* [[Tapai]] – cooked glutinous rice fermented with ''[[yeast]]'', wrapped in banana, [[Hevea brasiliensis|rubber tree]] or [[Syzygium|roseapple]] leaves.
+
+===Myanmar===
+Glutinous rice, called ''kao hnyin'' ({{lang|my|ကောက်ညှင်း}}), is very popular in [[Myanmar]] (also known as Burma).
+* ''Kao hnyin baung'' ({{lang|my|ကောက်ညှင်းပေါင်း}}) is a [[breakfast]] dish with boiled peas (pèbyouk) or with a variety of [[fritter]]s, such as [[urad dal]] (''baya gyaw''), served on a banana leaf. It may be cooked wrapped in a banana leaf, often with peas, and served with a sprinkle of salted toasted sesame seeds and often grated coconut.
+* The purple variety, known as ''[[kao hynin ngacheik]]'' ({{lang|my|ကောင်းညှင်းငချိမ့်}}), is equally popular cooked as ''ngacheik paung''.
+* They may both be cooked and pounded into cakes with sesame called ''hkaw bouk'', another favourite version in the north among the [[Shan people|Shan]] and the [[Kachin people|Kachin]], and served grilled or fried.
+* The ''Htamanè pwè'' festival ({{lang|my|ထမနဲပွဲ}}) takes place on the full moon of Dabodwè({{lang|my|တပို့တွဲ}}) (February), when ''[[htamanè]]'' ({{lang|my|ထမနဲ}}) is cooked in a huge wok.  Two men, each with a wooden spoon the size of an oar, and a third man coordinate the action of folding and stirring the contents, which include ''kao hnyin'', ''ngacheik'', coconut shavings, peanuts, sesame and ginger in peanut oil.
+* ''[[Si htamin]]'' ({{lang|my|ဆီထမင်း}}) is glutinous rice cooked with turmeric and onions in peanut oil, and served with toasted sesame and crisp-fried onions; it is a popular breakfast like ''kao hnyin baung'' and ''ngacheik paung''.
+* ''Paung din'' ({{lang|my|ပေါင်းတင်}}) or "Kao hyin kyi tauk" ({{lang|my|ကောင်းညှင်းကျည်တောက်}}) is another ready-to-eat portable form cooked in a segment of bamboo.  When the bamboo is peeled off, a thin skin remains around the rice and also gives off a distinctive aroma.
+[[File:StickyRiceMyanmar.webm|thumb| Glutinous rice (Paung din type) preparation in [[Myanmar]].]]
+* ''Mont let kauk''  ({{lang|my|မုန့်လက်ကောက်}}) is made from glutinous rice flour; it is donut-shaped and fried like ''baya gyaw'', but eaten with a dip of [[jaggery]] or [[palm sugar]] syrup.
+* ''Nga pyaw douk'' ({{lang|my|ငပျောထုပ်}}) or "Kao hynin htope" ({{lang|my|ကောင်းညှင်းထုပ်}}), banana in glutinous rice, wrapped in banana leaf and steamed and served with grated coconut – another favourite snack, like ''kao hnyin baung'' and ''mont let kauk'',  sold by street hawkers.
+* ''[[Mont lone yay baw]]'' ({{lang|my|မုန့်လုံးရေပေါ်}}) are glutinous rice balls with jaggery inside, thrown into boiling water in a huge wok, and ready to serve as soon as they resurface. Their preparation is a tradition during [[Thingyan]], the Burmese New Year festival.
+* ''[[Htoe mont]]'' ({{lang|my|ထိုးမုန့်}}), glutinous rice cake with raisins, cashews and coconut shavings, is a traditional dessert for special occasions. It is appreciated as a gift item from [[Mandalay]].
+
+<gallery widths=180 style="line-height:1.5" class="center" caption="Burmese glutinous rice dishes">
+Ngacheik paung.jpg|''[[kao hynin ngacheik|Ngacheik paung]]'' with ''pèbyouk'' (boiled peas) and salted toasted sesame
+Hkaw bouk with Bombay duck.JPG|''Hkaw bouk'' – dried cakes of ''ngacheik'' glutinous rice with [[Bombay duck]], both fried
+Htamanè.JPG|''[[Htamanè]]'' – glutinous rice with fried coconut, roasted peanuts, sesame and ginger
+Making_htamanè.JPG|The traditional way of making special glutinous rice ''htamanè'' is still practiced
+Si_damin.JPG|''[[Si htamin]]'' – glutinous rice cooked in oil with turmeric and served with boiled peas and crushed salted sesame
+MontLone_yeibaw.JPG|''Mont lone yei baw'' – glutinous rice balls filled with [[jaggery]], covered with shredded coconut – a New Year treat
+Paung_din.JPG|''Paung din'' – glutinous rice, both purple and white varieties, cooked in bamboo tubes
+Paung din meal.jpg|''Paung din'' (ngacheik) with ''to hpu'' ([[Burmese tofu]]), mashed potato and ''[[black gram]]'' fritters
+</gallery>
+
+===Nepal===
+In [[Nepal]], Latte/Chamre is a popular dish made from glutinous rice during [[Teej]] festival, the greatest festival of Nepalese women.
+
+===Northeastern India===
+Sticky rice called ''[[bora saul]]'' is the core component of indigenous Assamese sweets, snacks, and breakfast. This rice is widely used in the traditional sweets of Assam, which are very different from the traditional sweets of India whose basic component is milk.
+
+Such traditional sweets in [[Assam]] are Pitha (Narikolor pitha, Til pitha, Ghila pitha, Tel pitha, Keteli pitha, Sunga pitha, Sunga saul etc.).  Also, its powder form is used as breakfast or other light meals directly with milk. They are called Pitha guri (if the powder was done without frying the rice, by just crushing it after soaking) or Handoh guri (if rice is dry fried first, and then crushed).
+
+The soaked rice is also cooked with no added water inside a special kind of bamboo (called ''sunga saul bnaah''). This meal is called ''sunga saul''.
+
+During religious ceremonies, indigenous Assamese communities make ''Mithoi'' (''Kesa mithoi'' and ''Poka mithoi'') using ''Gnud'' with it. Sometimes ''Bhog'', ''Payokh'' are also made from it using milk and sugar with it.
+
+Different indigenous Assamese communities make rice beer from sticky rice, preferring it over other varieties of rice for the sweeter and more alcoholic result. This rice beer is also offered to their gods and ancestors. Rice cooked with it is also taken directly as lunch or dinner on rare occasions.
+Similarly, other indigenous communities from NE India use sticky rice in various forms similar to the native Assamese style in their cuisine.{{explain|date=May 2013}}
+
+===Philippines===
+In the [[Philippines]], glutinous rice is known as '''''malagkit''''' in [[Tagalog language|Tagalog]] or '''''pilit''''' in [[Visayan languages|Visayan]], among other names such as '''''diket''''' in [[Ilocano language|Ilocano]]. Both mean "sticky". The most common way glutinous rice is prepared in the Philippines is by soaking uncooked glutinous rice in water or [[coconut milk]] (usually overnight) and then grinding it into a thick paste (traditionally with stone mills). This produces a rich and smooth viscous rice dough known as '''''galapóng''''', which is the basis for numerous rice cakes in the Philippines. However, in modern preparation methods, ''galapong'' is sometimes made directly from dry glutinous [[rice flour]] (or from commercial Japanese ''[[mochiko]]''), with poorer-quality results.<ref name="Besa"/>
+
+''Galapong'' was traditionally allowed to [[ferment]], which is still required for certain dishes. A small amount of [[starter culture]] of microorganisms (''[[tapai|tapay]]'' or ''bubod'') or [[palm wine]] (''tubâ'') may be traditionally added to rice being soaked to hasten the fermentation. These can be substituted with [[yeast]] or [[baking soda]] in modern versions.<ref name="nocheseda">{{cite web |last1=Nocheseda |first1=Elmer |title=The Invention of Happiness |url=http://www.manilaspeak.com/cool/the-invention-of-happiness |website=Manila Speak |access-date=8 December 2018 |archive-date=8 August 2020 |archive-url=https://web.archive.org/web/20200808025456/http://www.manilaspeak.com/cool/the-invention-of-happiness |url-status=live }}</ref><ref name="Besa">{{cite book|author=Amy Besa & Romy Dorotan|title =Memories of Philippine Kitchens|publisher =Abrams|year =2014|isbn = 9781613128084|url =https://books.google.com/books?id=He-RBQAAQBAJ&q=Arroz+caldo}}</ref> Other versions of ''galapong'' may also be treated with wood ash [[lye]].
+
+Aside from the numerous white and red glutinous rice cultivars, the most widely used glutinous rice [[heirloom cultivar]]s in the Philippines are ''[[tapol (rice)|tapol]]'' rice, which is milky white in colour, and ''[[pirurutong]]'' rice, which ranges in colour from black to purple to reddish brown.<ref name="pirurutong">{{cite web |title=Pirurutong at Tapol / Purple and White Glutinous Rice |url=https://www.marketmanila.com/archives/pirurutong-at-tapol-purple-and-white-glutinous-rice |website=Market Manila |date=27 November 2007 |access-date=6 July 2021 |archive-date=30 April 2021 |archive-url=https://web.archive.org/web/20210430102005/http://www.marketmanila.com/archives/pirurutong-at-tapol-purple-and-white-glutinous-rice |url-status=live }}</ref> However both varieties are expensive and becoming increasingly rare, thus some Filipino recipes nowadays substitute it with dyed regular glutinous rice or infuse [[purple yam]] (''ube'') to achieve the same colouration.<ref name="pirurutong" /><ref>{{cite web |title=Purple, Red and White Malagkit / Sticky Rice |url=http://www.marketmanila.com/archives/purple-red-and-white-malagkit-sticky-rice |website=Market Manila |date=3 May 2005 |access-date=11 February 2019 |archive-date=29 April 2021 |archive-url=https://web.archive.org/web/20210429063139/http://www.marketmanila.com/archives/purple-red-and-white-malagkit-sticky-rice |url-status=live }}</ref><ref>{{cite web |title=Misa de Gallo and Puto Bumbong Pre-amble... |url=http://www.marketmanila.com/archives/misa-de-gallo-and-puto-bumbong-pre-amble |website=Market Manila |date=15 December 2007 |access-date=11 February 2019 |archive-date=29 April 2021 |archive-url=https://web.archive.org/web/20210429104226/http://www.marketmanila.com/archives/misa-de-gallo-and-puto-bumbong-pre-amble |url-status=live }}</ref>
+
+Dessert delicacies in the Philippines are known as ''[[kakanin]]'' (from ''kanin'', "prepared rice"). These were originally made primarily from rice, but in recent centuries, the term has come to encompass dishes made from other types of flour, including [[Masa|corn flour]] (''masa''), [[tapioca|cassava]], [[wheat flour|wheat]], and so on.  Glutinous rice figures prominently in two main subtypes of ''kakanin'': the ''[[Puto (food)|puto]]'' ([[steaming|steamed]] rice cakes), and the ''[[bibingka]]'' ([[baked]] rice cakes). Both largely utilize glutinous rice ''galapong''. A notable variant of ''puto'' is ''[[puto bumbong]]'', which is made with ''pirurutong''.
+
+Other ''kakanin'' that use glutinous rice include ''[[suman (food)|suman]]'', ''[[biko (food)|biko]]'', and ''[[sapin-sapin]]'' among others. There is also a special class of boiled ''galapong'' dishes like ''[[palitaw]]'', ''[[moche (food)|moche]]'', ''[[mache (food)|mache]]'', and ''[[masi (food)|masi]]''. Fried ''galapong'' is also used to make various types of ''[[jian dui|buchi]]'', which are the local [[Chinese-Filipino]] versions of ''[[jian dui]]''. They are also used to make ''[[puso]]'', which are boiled rice cakes in woven leaf pouches.
+
+Aside from ''kakanin'', glutinous rice is also used in traditional Filipino rice [[gruel]]s or [[porridge]]s known as ''[[lugaw]]''. They include both savory versions like ''[[arroz caldo]]'' or ''[[goto (food)|goto]]'' which are similar to Chinese-style [[congee]]; and dessert versions like ''[[champorado]]'', ''[[binignit]]'', and ''[[ginataang mais]]''.
+
+<gallery widths="180" style="line-height:1.5" class="center" caption="Filipino glutinous rice dishes">
+File:Puto in banana leaf.jpg|''[[Puto (food)|Puto]]'', steamed rice cakes made with fermented ''galapong''
+File:7032Poblacion Baliuag Bulacan 19.jpg|''[[Bibingka]]'', made from baked ''galapong'' with [[coconut milk]]
+File:Puto-bumbong.jpg|''[[Puto bumbong]]'', steamed rice cakes made with purple glutinous rice, steamed in bamboo tubes
+File:Kuchinta at Gerry Shan's Place Baler 5.jpg|''[[Cuchinta]]'', glutinous rice cakes made with [[lye]]
+File:4413Birds Foods Goods displayed for sale and trade 36.jpg|''[[Tupig]]'', made from ground glutinous rice, coconut strips, coconut milk, sugar, and wrapped in banana leaves
+File:Champorado with tuyo and milk (up-close).jpg|''[[Champorado]]'', dessert ''[[lugaw]]'' made from glutinous rice and chocolate
+File:01051jfBalagtas Bulacan Hall Bridge River Foods Roadfvf 06.jpg|''Suman sa ibus'', a type of ''[[Suman (food)|suman]]'', steamed glutinous rice packaged in ''tagbak'' leaves
+File:565Best foods cuisine of Bulacan 03.jpg|''[[Puto pandan]]'', a type of ''[[Puto (food)|puto]]'' infused with [[Pandanus|pandan]] leaves, turning it light green
+File:Bibingkoy in Cavite City Public Market.jpg|''Bibingkoy,'' grilled glutinous rice dumpling filled with sweetened mung bean paste
+File:Ginataang mais (Sweet corn rice porridge, Philippines).jpg|''[[Ginataang mais]]'', a dessert ''[[lugaw]]'' (rice gruel) with coconut milk and [[sweet corn]]
+File:Home - Dinner.jpg|''[[Arroz caldo]]'', savoury ''[[lugaw]]'' with chicken, ginger, toasted garlic, scallions, and [[safflower]]
+File:Patupat.jpg|''Patupat'' or ''Sinambong'', made from glutinous rice, cooked in woven buri leaves and sugarcane juice
+File:0002jfDesserts Pampanga Philippinesfvf 03.JPG|''[[Moche (food)|Moche]]'', boiled glutinous rice filled with bean paste
+File:Cagayan Pampanguena - Pinakufu.jpg|''[[Pinakufu]]'', a variant of ''[[cascaron]]'' doughnuts made with glutinous rice
+File:Sapin-sapin (Philippines) 05.jpg|''[[Sapin-sapin]]'', a colourful dessert made with multiple layers of glutinous rice, each with a different flavour and texture
+File:Puso of cooked rice.JPG|''[[Pusô]]'', made from glutinous rice cooked in pouches of woven coconut leaves
+File:Puto maya (Mindanao, Philippines) 01.jpg|''[[Puto maya]]'' made with ''[[pirurutong]]'' rice
+File:Palitaw native dish.jpg|''[[Palitaw]]'', made from galapong, grated coconut, mix of sugar and toasted sesame seeds
+</gallery>
+
+===<span class="anchor" id="Thai traditions"></span>Thailand===
+In [[Thailand]], glutinous rice is known as ''khao niao'' ({{langx|th|ข้าวเหนียว}}; lit. 'sticky rice') in [[central Thailand]] and [[Isan]], and as ''khao nueng'' ({{langx|th|ข้าวนึ่ง}}; lit. 'steamed rice') in [[northern Thailand]].<ref>{{Cite web |url=http://library.cmu.ac.th/ntic/en_lannafood/detail_lannafood.php?id_food=185 |title=Khao nueng – Lanna Food {{!}} Northern Thai Information Center, Chiang Mai University Library<!-- Bot generated title --> |access-date=3 October 2014 |archive-date=16 June 2020 |archive-url=https://web.archive.org/web/20200616200835/http://library.cmu.ac.th/ntic/en_lannafood/detail_lannafood.php?id_food=185 |url-status=dead }}</ref> Sticky rice at the table is typically served individually in a small woven basket  ({{langx|th|กระติบข้าว}}, {{RTGS|''kratip khao''}}).
+
+*Steamed glutinous rice is one of the main ingredients in making the sour-fermented pork skinless sausage called ''naem'', or its northern Thai equivalent ''chin som'', which can be made from pork, beef, or [[water buffalo]] meat. It is also essential for the fermentation process in the northeastern Thai sausage called ''sai krok Isan''. This latter sausage is made, in contrast to the first two, with a sausage [[Casing (sausage)|casing]].<ref>{{cite web|url=http://www.thaifoodmaster.com/ingredient/meats/pork/155 |archive-url=https://web.archive.org/web/20151231171513/http://www.thaifoodmaster.com/ingredient/meats/pork/155 |archive-date=31 December 2015 |website=Thaifoodmaster |title=Tutorial – How to Make Fermented Thai Pork Sausage (แหนมหมู; naem moo)|date=24 February 2010 }}</ref><ref>{{Cite web |url=http://library.cmu.ac.th/ntic/en_lannafood/detail_lannafood.php?id_food=144 |title=Chin som – Lanna Food {{!}} Northern Thai Information Center, Chiang Mai University Library<!-- Bot generated title --> |access-date=3 October 2014 |archive-url=https://web.archive.org/web/20160326120705/http://library.cmu.ac.th/ntic/en_lannafood/detail_lannafood.php?id_food=144 |archive-date=26 March 2016 |url-status=dead }}</ref><ref>{{Cite web|url=http://shesimmers.com/2011/04/northeastern-thai-sour-sausage-sai-krok.html|archiveurl=https://web.archive.org/web/20140913122605/http://shesimmers.com/2011/04/northeastern-thai-sour-sausage-sai-krok.html|url-status=dead|title=Thai Fermented Sausages from the Northeast (Sai Krok Isan ไส้กรอกอีสาน) – SheSimmers<!-- Bot generated title -->|archivedate=13 September 2014|accessdate=26 June 2024}}</ref>
+*Sweets and desserts: Famous among tourists in Thailand is ''[[Mango sticky rice|khao niao mamuang]]'' ({{langx|th|ข้าวเหนียวมะม่วง}}): sweet coconut sticky rice with mango, while ''khao niao tat'', sweet sticky rice with coconut cream and [[Douchi|black beans]],<ref>{{cite web |url=http://board.palungjit.com/f77/*sweet-sticky-rice-with-coconut-cream-and-black-beans*-khao-niao-tat-17452.html |title=Sweet Sticky Rice with Coconut Cream and Black Beans*(khao niao tat) |publisher=Board.palungjit.com |access-date=31 May 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120329151344/http://board.palungjit.com/f77/%2Asweet-sticky-rice-with-coconut-cream-and-black-beans%2A-khao-niao-tat-17452.html |archive-date=29 March 2012 }}</ref> ''Khao niao na krachik'' ({{langx|th|ข้าวเหนียวหน้ากระฉีก}}), sweet sticky rice topped with caramelized roasted grated coconut,<ref>{{cite web |url=http://www.the-than.com/food/food-b69.html |title=ข้าวเหนียวหน้ากระฉีก |publisher=The-than.com |access-date=31 May 2013 |archive-date=5 February 2019 |archive-url=https://web.archive.org/web/20190205175517/http://www.the-than.com/food/food-b69.html |url-status=live }}</ref> ''khao niao kaeo'', sticky rice cooked in coconut milk and sugar and ''khao tom hua ngok'', sticky rice steamed with banana with grated coconut and sugar, are traditional popular desserts.<ref>{{cite web|url=http://thailand.prd.go.th/ebook/inbrief/page.php?cid=15 |title=Thai food |publisher=Thailand.prd.go.th |access-date=31 May 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130424054220/http://thailand.prd.go.th/ebook/inbrief/page.php?cid=15 |archive-date=24 April 2013 }}</ref>
+*''[[Khao lam]]'' ({{langx|th|ข้าวหลาม}}) is sticky rice with sugar and coconut cream cooked in specially prepared [[bamboo]] sections of different diameters and lengths. It can be prepared with white or dark purple (''khao niao dam'') varieties of glutinous rice. Sometimes a few beans or nuts are added and mixed in. Thick ''khao lam'' containers may have a custard-like filling in the centre made with coconut cream, egg and sugar.
+*''Khao chi'' ({{langx|th|ข้าวจี่}}) are cakes of sticky rice having the size and shape of a [[patty]] and a crunchy crust. In order to prepare them, the glutinous rice is laced with salt, often also lightly coated with beaten egg, and grilled over a charcoal fire. They were traditionally made with leftover rice and given in the early morning to the children, or to passing [[Bhikku|monks]] as an offering.<ref>{{cite web |url=http://webboard.sanook.com/forum/?topic=3349753 |title=Khao chi preparation |publisher=Webboard.sanook.com |access-date=31 May 2013 |archive-date=2 May 2021 |archive-url=https://web.archive.org/web/20210502035241/https://webboard.sanook.com/forum/?topic=3349753 |url-status=live }}</ref>
+*[[Black beans sticky rice|''Khao niew tua dum'']] is a sticky with sugar, thickened coconut milk and black beans.
+*''Khao pong'' ({{langx|th|ข้าวโป่ง}}) is a crunchy preparation made of leftover steamed glutinous rice that is pounded and pressed into thin sheets before being grilled.
+*''[[Khao tom mat]]'' ({{langx|th|ข้าวต้มมัด}}), cooked sticky rice mixed with banana and wrapped in banana leaf,<ref>{{cite web|url=http://www.thai-blogs.com/2005/09/29/sticky-rice-with-bananas/ |title=Sticky Rice with Bananas |publisher=Thai-blogs.com |date=29 September 2005 |access-date=31 May 2013 |url-status=usurped |archive-url=https://web.archive.org/web/20130603103136/http://www.thai-blogs.com/2005/09/29/sticky-rice-with-bananas/ |archive-date=3 June 2013 }}</ref> ''khao ho'', sticky rice moulded and wrapped in a conical shape, ''khao pradap din'', ''kraya sat'' and ''[[History of Indian influence on Southeast Asia#Ceremonies|khao thip]]'' are preparations based on glutinous rice used as offerings in religious festivals and ceremonies for merit-making or warding off [[evil spirits]].
+*''Khao niao ping'' ({{langx|th|ข้าวเหนียวปิ้ง}}), sticky rice mixed with coconut milk and [[taro]] (''khao niao ping pheuak''), banana (''khao niao ping kluai'') or black beans (''khao niao ping tua''), wrapped in banana leaf and grilled slowly over a charcoal fire.<ref>{{Cite web|url=http://blog.tourismthailand.org/EugeneTang/?p=8830|archiveurl=https://web.archive.org/web/20150512123807/http://blog.tourismthailand.org/EugeneTang/?p=8830|url-status=dead|title=Desserts in Thailand – Thai Grilled Sticky Rice – Banana or Taro (Khao Niao Ping)|archivedate=12 May 2015|accessdate=26 June 2024}}</ref> Glutinous rice is traditionally eaten using the right hand<ref>{{cite web|url=http://www.madammam.com/articles/thaitable.html |title=Madam Mam Articles |publisher=Madammam.com |access-date=31 May 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130520211416/http://www.madammam.com/articles/thaitable.html |archive-date=20 May 2013 }}</ref><ref>{{cite web |url=http://library.cmu.ac.th/ntic/en_lannafood/culture_lanna2.php |title=Sticky Rice Ball |publisher=Library.cmu.ac.th |access-date=31 May 2013 |archive-date=16 July 2020 |archive-url=https://web.archive.org/web/20200716144146/http://library.cmu.ac.th/ntic/en_lannafood/culture_lanna2.php |url-status=dead }}</ref>
+*''Khao khua'' ({{langx|th|ข้าวคั่ว}}), roasted ground glutinous rice, is indispensable for making the northeastern Thai dishes ''[[larb]]'', ''[[nam tok (food)|nam tok]]'', and ''[[nam chim]] chaeo''. Some recipes also ask for ''khao khua'' in certain northern [[Thai curry|Thai curries]].<ref>{{cite web |url=http://library.cmu.ac.th/ntic/en_lannafood/detail_lannafood.php?id_food=20 |title=Kaeng Khae Hoi (snail curry) |publisher=Library.cmu.ac.th |access-date=31 May 2013 |archive-date=16 June 2020 |archive-url=https://web.archive.org/web/20200616200950/http://library.cmu.ac.th/ntic/en_lannafood/detail_lannafood.php?id_food=20 |url-status=dead }}</ref> It imparts a [[Nut (fruit)|nutty]] flavour to the dishes in which it is used.<ref>{{Cite web|url=https://shesimmers.com/2009/04/khao-kua-how-to-make-toasted-rice.html|title=Toasted Rice Powder for Thai Cooking – Khao Khua (ข้าวคั่ว)|date=25 April 2009|accessdate=26 June 2024|archive-date=12 May 2023|archive-url=https://web.archive.org/web/20230512013212/https://shesimmers.com/2009/04/khao-kua-how-to-make-toasted-rice.html|url-status=live}}</ref>
+*''Naem khluk'' (''Thai'': ยำแหนม) or ''yam naem khao thot'' is a salad made from crumbled deep-fried, curried-rice [[croquette]]s, and ''naem'' sausage<ref>{{Cite web|url=https://shesimmers.com/2011/09/naem-khao-tod-by-spoon-thai-restaurant.html|title=Naem Khao Tod (แหนมข้าวทอด) by Spoon Thai Restaurant, Chicago|date=26 September 2011|accessdate=26 June 2024|archive-date=9 May 2023|archive-url=https://web.archive.org/web/20230509025239/https://shesimmers.com/2011/09/naem-khao-tod-by-spoon-thai-restaurant.html|url-status=live}}</ref>
+*''Chin som mok'' is a northern Thai speciality made with grilled, banana leaf-wrapped pork skin that has been fermented with glutinous rice
+*''Sai krok Isan'': grilled, fermented pork sausages, a speciality of northeastern Thailand
+*Glutinous rice is also used as the basis for the [[brewing]] of [[sato (rice wine)|''sato'']] ({{langx|th|สาโท}}), an [[alcoholic beverage]] also known as "Thai rice wine".
+
+<gallery widths=180 style="line-height:1.5" class="center" caption="Thai glutinous rice dishes">
+Klebreis.jpg|A packet of glutinous rice in a traditional Isan banana-leaf wrapper
+Kin khao niao.JPG|Kin khao niao
+Naem khluk 1.jpg|''Naem khluk'' or ''yam naem khao thot''
+Khao tom mat sai kluai 01.jpg|''Khao tom mat'', sticky rice and banana steamed inside a banana leaf
+Som tam khao niao kai yang.jpg|''[[Som tam]]'' (papaya salad), ''khao niao'' (sticky rice) and ''[[kai yang]]'' (grilled chicken)
+Khao lam87.jpg|''Khao lam'' in a section of bamboo
+Yam naem.JPG|''Yam naem'', a salad with ''naem'' sausage made from raw pork fermented with glutinous rice
+Different Kratip Khao.jpg|''Kratip'' ({{langx|th|กระติบ}}) are used by northern and northeastern Thais as containers for sticky rice
+Chin som mok.JPG|''Chin som mok'', northern Thai speciality, grilled pork skin fermented with glutinous rice
+Sai krok isan.jpg|''Sai krok Isan'' specialty of northeastern Thailand
+</gallery>
+
+===Vietnam===
+{{main|Xôi}}
+{{unreferenced section|date=June 2024}}
+Glutinous rice is called {{lang|vi|gạo nếp}} in Vietnamese. The term for the cooked rice is called [[xôi]]. Dishes made from glutinous rice in Vietnam are typically served as desserts or side dishes, but some can be served as main dishes. There is a wide array of glutinous rice dishes in Vietnamese cuisine, the majority of them can be categorized as follows:
+*[[Bánh]], the most diverse category, refers to a wide variety of sweet or savoury, distinct cakes, buns, pastries, sandwiches, and food items from Vietnamese cuisine, which may be cooked by steaming, baking, frying, deep-frying, or boiling. Some, but not all bánh are made from glutinous rice. They can also be made from ordinary rice flour, cassava flour, taro flour, or tapioca starch. The word "bánh" is also used to refer to certain varieties of noodles in Vietnam, and absolutely not to be confused with glutinous rice dishes. Some bánh dishes that are made from glutinous rice include:
+**[[Bánh chưng]]: a square-shaped, boiled glutinous rice dumpling filled with pork and mung bean paste, wrapped in a dong leaf, usually eaten in Vietnamese New Year.
+**Bánh giầy: white, flat, round glutinous rice cake with a tough, chewy texture filled with mung bean or served with Vietnamese sausage (chả), usually eaten during Vietnamese New Year with bánh chưng.
+**Bánh dừa: glutinous rice mixed with black bean paste cooked in coconut juice, wrapped in a coconut leaf. The filling can be mung bean stir-fried in coconut juice or banana.
+**[[Bánh rán]]: a northern Vietnamese dish of deep-fried glutinous rice balls covered with sesame, scented with a jasmine flower essence, filled with either sweetened mung bean paste (the sweet version) or chopped meat and mushrooms (the savoury version).
+**[[Bánh cam]]: a southern Vietnamese version of bánh rán. Unlike bánh rán, bánh cam is coated with a layer of sugary liquid and has no jasmine essence.
+**[[Tangyuan (food)|Bánh trôi]]: made from glutinous rice mixed with a small portion of ordinary rice flour (the ratio of glutinous rice flour to ordinary rice flour is typically 9:1 or 8:2) filled with sugarcane rock candy.
+**Bánh gai: made from the leaves of the "gai" tree (''[[Ramie|Boehmeria nivea]]'') dried, boiled, ground into small pieces, then mixed with glutinous rice, wrapped in banana leaf. The filling is made from a mixture of coconut, mung bean, peanuts, winter melon, sesame, and lotus seeds.
+**[[Bánh cốm]]: the cake is made from ''young'' glutinous rice seeds. The seeds are put into a water pot, stirred on fire, and juice extracted from the pomelo flower is added. The filling is made from steamed mung bean, scraped coconut, sweetened pumpkin, and sweetened lotus seeds.
+**Other bánh made from glutinous rice are ''bánh tro, [[bánh tét]], bánh ú, bánh măng, bánh ít, bánh khúc, bánh tổ, bánh in, bánh dẻo, bánh su sê, bánh nổ...''
+*[[Xôi]] are sweet or savoury dishes made from steamed glutinous rice and other ingredients. Sweet xôi are typically eaten as breakfast. Savoury xôi can be eaten as lunch. Xôi dishes made from glutinous rice include:
+**Xôi lá cẩm: made from the magenta plant.
+**Xôi lá dứa: made from pandan leaf extract for the green colour and a distinctive pandan flavour.
+**Xôi gấc: made from [[gấc]] fruit for the red colour.
+**Xôi nếp than: made from black rice.
+**Xôi ngũ sắc: five colours xôi, is the traditional food of the [[Thai people (Vietnam)|Thái]], [[Dao people|Dao]] and [[Tay people|Tày]] people.
+**Xôi chiên phồng: deep-fried glutinous rice patty
+**Xôi gà: made with coconut juice and pandan leaf served with fried or roasted chicken and sausage.
+**''Xôi thập cẩm'': made with dried shrimp, chicken, Chinese sausage, Vietnamese sausage (''chả''), peanuts, coconut, onion, fried garlic, and potentially other ingredients.
+**Other ''xôi'' dishes made from glutinous rice include ''xôi lạc'', ''xôi bắp'', ''xôi đậu xanh'', ''xôi vò'', ''xôi sắn'', ''xôi sầu riêng'', ''xôi khúc'', ''xôi xéo'', and ''xôi vị''.
+*[[Chè]] refers to any traditional Vietnamese sweetened soup or porridge. Though chè can be made using a wide variety of ingredients, some chè dishes made from glutinous rice include:
+**Chè đậu trắng: made from glutinous rice and black-eyed peas.
+**Chè con ong: made from glutinous rice, ginger root, honey, and molasses.
+**Chè cốm: made from young glutinous rice seeds, kudzu flour, and juice from the pomelo flower.
+**[[Chè xôi nước]]: balls made from mung bean paste in a shell made of glutinous rice flour; served in a thick clear or brown liquid made of water, sugar, and grated ginger root.
+*Cơm nếp: glutinous rice that is cooked in the same way as ordinary rice, except that the water used is flavoured by adding salts or by using coconut juice, or soups from chicken broth or pork broth.
+*[[Cơm rượu]]: Glutinous rice balls cooked and mixed with yeast, served in a small amount of [[rice wine]].
+*Cơm lam: Glutinous rice cooked in a tube of bamboo of the genus [[Neohouzeaua]] and often served with grilled pork or chicken.
+
+Glutinous rice can also be fermented to make Vietnamese alcoholic beverages, such as [[rượu nếp]], [[rượu cần]] and [[rượu đế]].
+
+<gallery widths=180 style="line-height:1.5" class="center" caption="Vietnamese glutinous rice dishes">
+Cơm_lam_Tây_Nguyên.jpg|[[Cơm lam]], rice cooked in a bamboo tube
+Xôi gấc.JPG|Xôi gấc, glutinous rice cooked with [[Gac]] fruit
+Xôi gà.jpg|''Xôi gà'' or chicken [[xôi]]
+Xôi lá cẩm.jpg|''Xôi lá cẩm'', sticky rice coloured with magenta leaves and shredded coconut
+Bánh giầy giò.JPG|''[[Bánh giầy]]'', pounded rice cake
+Bánh chưng.jpg|''[[Bánh chưng]]'' a savoury rice cake with mung beans and pork fillings, usually consumed during [[Tết]]
+Xôi xéo.jpg|''Xôi xéo'', glutinous rice with mung beans and fried shallots
+Banhtet.jpg|''[[Bánh tét]]''
+Banh_com.png|''[[Bánh cốm]]'', made from young glutinous rice paste
+Comruou.jpg|''[[Cơm rượu]]'', fermented glutinous rice as dessert
+Vietblackeyedpeas.jpg|''[[Chè]] đậu trắng'', glutinous rice and black-eyed peas
+Banh_gai_Tu_Tru_-_a_Vietnamese_traditional_dumpling_(3).JPG|''Bánh gai'', made with the paste of [[boehmeria nivea]] plant
+Bánh_tro_mật_mía.jpg|''Bánh tro'' made by glutinous rice soaked overnight in lye
+Banhran.jpg|''[[Bánh rán]]'', deep-fried glutinous ball
+</gallery>
+
+==Beverages==
+* [[Choujiu]]
+* [[Sato (rice wine)]]
+* [[Home brew sato kits]]
+* [[Rượu nếp]]
+* [[Rượu cần]]
+
+==Non-food uses==
+In construction, glutinous rice is a component of [[sticky rice mortar]] for use in masonry. Chemical tests have confirmed that this is true for the [[Great Wall of China]] and the [[Fortifications of Xi'an|city walls of Xi'an]].<ref>{{cite web |last1=Boissoneault |first1=Lorraine |title=Sticky Rice Mortar, the View From Space, and More Fun Facts About China's Great Wall |url=https://www.smithsonianmag.com/history/sticky-rice-mortar-view-space-and-more-fun-facts-about-chinas-great-wall-180962197/ |website=Smithsonian |access-date=20 November 2021 |date=16 February 2017 |archive-date=1 December 2021 |archive-url=https://web.archive.org/web/20211201222611/https://www.smithsonianmag.com/history/sticky-rice-mortar-view-space-and-more-fun-facts-about-chinas-great-wall-180962197/ |url-status=live }}</ref><ref>{{cite news | title = Sticky porridge used to cement ancient walls | author = Xinhua News Agency | date = 27 February 2005 | url = http://news.xinhuanet.com/english/2005-02/27/content_2626135.htm | url-status = dead | archive-url = https://web.archive.org/web/20071118123207/http://news.xinhuanet.com/english/2005-02/27/content_2626135.htm | archive-date = 18 November 2007 }}</ref> In [[Assam]] also, this rice was used for building palaces during [[Ahom Dynasty|Ahom]] rule.{{Citation needed|date=July 2021}}
+
+Glutinous rice starch may also be used to create [[wheatpaste]], an adhesive material.<ref>{{cite web |author1=黃瀞儀 |title=年紀大才看過這瓶 網淚：以前還能吃！ |url=https://www.chinatimes.com/hottopic/20190207000916-260804?chdtv |website=China Times |access-date=20 November 2021 |language=zh-tw |date=7 February 2019 |archive-date=20 November 2021 |archive-url=https://web.archive.org/web/20211120110957/https://www.chinatimes.com/hottopic/20190207000916-260804?chdtv |url-status=live }}</ref>
+
+In [[Vietnam]], glutinous rice is made into flour and used to make [[Tò he|To he]], a figurine.
+
+==See also==
+{{div col|colwidth=30em}}
+* [[Cuisine of Assam]]
+* [[Cuisine of Burma]]
+* [[Cuisine of Cambodia]]
+* [[Cuisine of China]]
+** [[Hakka cuisine]]
+* [[Cuisine of Indonesia]]
+* [[Cuisine of Japan]]
+* [[Cuisine of Korea]]
+* [[Cuisine of Laos]]
+* [[Cuisine of Malaysia]]
+* [[Cuisine of the Philippines]]
+* [[Cuisine of Thailand]]
+* [[Cuisine of Vietnam]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{YouTube|-JfJoOy0EPo|A video about how to make sticky rice}}
+
+{{Varieties of rice}}
+{{Japanese food and drink|state=autocollapse}}
+{{Authority control}}
+
+{{DEFAULTSORT:Glutinous Rice}}
+[[Category:Rice varieties]]
+[[Category:Bangladeshi cuisine]]
+[[Category:Bhutanese cuisine]]
+[[Category:Burmese cuisine]]
+[[Category:Cambodian cuisine]]
+[[Category:Chinese cuisine]]
+[[Category:Crops originating from China]]
+[[Category:Food ingredients]]
+[[Category:Indian cuisine]]
+[[Category:Japanese cuisine]]
+[[Category:Korean cuisine]]
+[[Category:Lao cuisine]]
+[[Category:Filipino cuisine]]
+[[Category:Thai cuisine]]
+[[Category:Vietnamese cuisine]]

@@ -1,0 +1,42 @@
+{{italic title}}
+{{Short description|Cambodian soup}}
+{{Infobox food
+| name             = ''Samlor kako''
+| image            = Samlor Korko Khmer at Peace Cafe.jpg
+| caption          = 
+| alternate_name   = Cambodian ratatouille,<ref name="De Monteiro">{{cite book |last1=De Monteiro |first1=Longteine |last2=Neustadt |first2=Katherine |title=The Elephant Walk Cookbook: Cambodian Cuisine from the Nationally Acclaimed Restaurant |url=https://books.google.com/books?id=9hQQfW7jF0QC&pg=PA195 |year=1998 |publisher=[[Houghton Mifflin Harcourt]] |isbn=0395892538 |page=195}}</ref> kako vegetable stew,<ref>{{cite book |editor=Sao Sopheak |title=The Taste of Angkor |publisher=[[Ministry of Foreign Affairs and International Cooperation (Cambodia)|Ministry of Foreign Affairs and International Cooperation of Cambodia]] |year=2020 |page=60 |isbn=978-9924-9486-0-5}}</ref> ''somlaw koko'', ''samlor koko'', ''samlor korko'',<ref name="Terei-Vigh">{{cite web |last=Terei-Vigh |first=Kriszti |date=11 August 2018 |url=https://www.196flavors.com/cambodia-samlor-kako/ |title=Samlor Kako |website=196 flavors |access-date=25 October 2019}}</ref> ''somlaw kako'', Cambodian gumbo<ref>{{cite web |last=Laux |first=Channy |date=15 July 2020 |url=https://angkorchef.com/2020/07/cambodian-gumbo/ |title=Cambodian Gumbo |website=Angkor Chef  |access-date=7 January 2021}}</ref>
+| country          = [[Cambodia]]
+| region           = [[Southeast Asia]]
+| national_cuisine = [[Cambodian cuisine|Cambodia]]
+| creator          =
+| course           = 
+| type             = [[soup]]
+| served           = hot
+| main_ingredient  = green ''[[kroeung]]'', ''[[prahok]]'', roasted ground rice, [[catfish]], pork or chicken, vegetables, fruits and herbs
+| variations       = 
+| calories         = 
+| other            = 
+}}
+{{Contains special characters|Khmer}}
+'''''Samlor kako''''' ({{langx|km|សម្លកកូរ}}, {{literal translation|stirring soup}}, {{IPA|km|sɑmlɑː kɑːkou|pron}}) or '''Cambodian ratatouille'''<ref name="De Monteiro"/> is a traditional [[Cambodian cuisine|Cambodian]] soup considered one of [[Cambodia]]'s national dishes. ''Samlar kako'' consists of [[green kroeung|green ''kroeung'']], ''[[prahok]]'', roasted ground rice, [[catfish]], pork or chicken, vegetables, fruits and herbs.<ref>{{cite web |title=Samlor Korko Recipe - How to Make Cambodian Stirring Pot Soup |last=Dunston |first=Lara |date=26 June 2020 |url=https://grantourismotravels.com/samlor-korko-recipe-cambodian-soup/ |website=Grantourismo Travels |access-date=7 January 2021}}</ref> The dish has been compared to [[French cuisine|French]] [[ratatouille]] or ''[[pot-au-feu]]''.<ref name="Terei-Vigh"/>
+
+Longteine De Monteiro's 1998 [[The Elephant Walk Cookbook]] recommends using [[Cornish hen]] or even free-range [[Chicken as food|chicken]] or [[Quail as food|quail meat]] instead of the traditional catfish for the soup.<ref name="De Monteiro"/>
+
+== In folklore ==
+The soup is featured in a famous Khmer folk legend called "Young black lady's magic formula for a love charm" ({{lang|km|មន្តស្នេហ៍ស្រីខ្មៅ}}). In the legend, a young crown prince Guj Monoraj of a kingdom called ''Aranh Panh-chak Seila'' ("forest country that follows the principle of five virtues") goes hunting in a forest and gets lost while chasing after an [[antelope]]. Eventually, the prince makes his way out of the forest, but exhausted, scratched and bleeding passes out on horseback while heading towards a village. The unconscious prince is carried inside by an elderly couple who live with their daughter, a beautiful young girl called Neang Khmao ({{lang|km|នាងខ្មៅ}}, {{literal translation|young black girl}}).<ref name="Leisure">{{Cite magazine |last=Vongs |first=Moul |date=July–August 2001 |url=https://www.leisurecambodia.com/news/detail.php?id=246 |title=The Legend Of Samlor Kako |magazine=Leisure Cambodia |volume=1 |number=3 |access-date=25 October 2019}}</ref>
+
+Eventually, the prince regains [[consciousness]], but is still very weak, so the family nurses him back to health. One day, the prince sees Neang Khmao and her mother preparing a soup he has never seen before that seemingly contains every single vegetable, Asked what kind of soup is it, Neang Khmao replies that it is a "soup of hundred ingredients" (''samlor muoy roy mouk''). The prince tastes it and it is the most delicious soup he has ever had. Meanwhile, the prince's parents have sent a search party that eventually finds the prince at an [[orchard]] in the company of Neang Khmao and escorts them both back to the [[palace]] where the prince reveals his true identity. Two weeks later, the prince still cannot forget Neang Khmao, so he persuades his parents to go with him to Neang Khmao and taste the soup. In an entourage of [[soldier]]s and [[servant]]s they travel back to Neang Khmao. By the next morning after arriving, they have gathered all the ingredients necessary and start preparing the soup.<ref name="Leisure"/>
+
+Three cooks are assigned to prepare the soup, constantly stirring it as it cooks. When the soup is ready, the king tastes it and exclaims that it is delicious, but still seems to be lacking something. He pours some toasted rice in the soup from a plate on a [[rattan]] strap left out for [[Old World sparrow|sparrows]] and tastes it again, concluding that now it is perfect. The king asks for the soup's name and is told by the villagers that it is called the "soup of hundred ingredients", to which the king replies that the soup should be called the "stirred soup" (''samlor kako'') because everyone was always stirring the soup and since then ''samlor muoy roy mouk'' has been called ''samlor kako''.<ref name="Leisure"/>
+
+==References==
+{{Reflist}}
+
+{{soup-stub}}
+{{cambodia-cuisine-stub}}
+
+{{Cambodian cuisine}}
+
+[[Category:Cambodian soups]]
+[[Category:Vegetable dishes]]
+[[Category:National dishes]]

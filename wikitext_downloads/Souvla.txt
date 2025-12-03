@@ -1,0 +1,63 @@
+{{Short description|Cyprus skewered barbecue meat}}
+{{refimprove|date=October 2009}}
+{{Infobox food
+| name = Souvla
+| image = Souvla.jpg
+| image_size =
+| image_alt =
+| caption = Souvla
+| alternate_name = 
+| type = 
+| course = 
+| country = {{CYP}}
+| region = {{CYP}}
+| national_cuisine = {{CYP}}
+| creator = <!-- or | creators = -->
+| year = 
+| mintime = 90 minutes
+| maxtime = 3 hours
+| served = Hot
+| main_ingredient = Meat
+| minor_ingredient = 
+| variations = 
+| serving_size = 100 g
+| calories = 
+| calories_ref =
+| protein = 
+| fat = 
+| carbohydrate = 
+| glycemic_index = 
+| similar_dish = Souvlaki
+| cookbook =
+| commons =
+| other = 
+| no_recipes= false
+}}
+'''Souvla''' ({{langx|el|σούβλα}}) is a popular dish from [[Cyprus]].<ref name="Souvla">{{cite web|url=https://www.konexcel.com/pages/souvla-recipe|title=Souvla|website=konexcel.com}}</ref> It consists of large pieces of meat cooked on a long skewer over a charcoal barbecue.<ref>{{cite web|url=http://www.ntnews.com.au/article/2009/01/11/26365_ntnews.html |title=Smoky cook-up attracts firies &#124; News &#124; Northern Territory News &#124; Darwin, Northern Territory, Australia |publisher=ntnews.com.au |date=2009-01-11 |accessdate=2012-02-21}}</ref>
+
+It differs from the popular Greek dish [[souvlaki]], in that meat cuts are much larger and slow cooked for a much longer period at a greater distance from the hot [[charcoal]]. Traditional souvla is made from the neck and shoulder of lamb, pork and chicken. The meat is cut on the bone into chunks about the size of a medium onion (optional).
+
+The meat must be put on a charcoal brazier, called "foukou" in Cypriot Greek ({{langx|el|φουκού}}), then its weight is evenly distributed on the rotisserie, so it cooks evenly on the foukou.
+
+The meat is put as far as possible from the charcoal at first.  After it is sizzling, it is lowered down to the charcoal so that the skin on the meat goes brown. The process takes between 90 minutes and 3 hours depending on the type of meat, size and heat of fire. Salt, aromatics (such as oregano), oil, and wine are sprinkled or brushed on the meat once the cooking process is well under way.  That way the meat stays juicy and does not brown too quickly. 
+
+Over time, various localities have developed their own recipes, which tend to vary the spices added to the meat marinade.  A popular variant is ''Lysiotiki souvla'', originating from the village of Lysi.
+
+Typically, souvla in Greece refers to a whole spit-roasted [[Sheep|lamb]] (ovelias, in Greek: {{lang|el|οβελίας}}) for Easter and other major holidays or specialist restaurants; the Greek dish most similar to souvla is [[kontosouvli]], large pieces of pork cut from the bone, and [[kokoretsi]] (lamb innards/offal rolled into a large sausage), or a speciality of the cook in that region of the country.
+
+Cypriots mostly eat souvla to celebrate occasions such as [[Christmas]], [[Easter]] etc.
+
+== See also ==
+* [[Asado]]
+* [[Souvlaki]]
+* [[Cuisine of Cyprus]]
+* [[Greek cuisine]]
+* [[Byzantine cuisine]]
+* [[Macedonian cuisine (Greek)|Greek Macedonian cuisine]]
+* [[Cuisine of the Mediterranean]]
+
+==References==
+{{Reflist}}
+{{Cuisine of Cyprus}}
+[[Category:Cypriot cuisine]]
+[[Category:Greek cuisine]]

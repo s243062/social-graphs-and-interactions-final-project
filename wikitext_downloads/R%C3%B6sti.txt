@@ -1,0 +1,83 @@
+{{short description|Swiss potato dish}}
+{{Italic title}}
+{{other uses}}
+{{Infobox prepared food
+| name = Rösti
+| image = Roesti.jpg
+| image_size = 250px
+| caption = A plate of {{lang|de|rösti}} with a parsley [[Garnish (food)|garnish]]
+| alternate_name = 
+| country = [[Switzerland]]
+| region = [[Canton of Bern]]
+| creator = 
+| course = 
+| type = [[Side dish]]
+| served = 
+| main_ingredient = [[Potato]]es, [[butter]] or other fat
+| variations = 
+| calories = 
+| other = 
+}}
+
+'''{{Lang|de|Rösti}}''' or '''{{Lang|gsw|rööschti}}''' ({{IPA|gsw|ˈrøːʃti|lang}}) is a [[Swiss cuisine|Swiss dish]] consisting mainly of [[potato]]es, sautéed or shallow-fried in a pan. It was originally a [[breakfast]] dish, commonly eaten by farmers in the [[canton of Bern]] and in parts of the [[canton of Fribourg]], but is now eaten all over [[Switzerland]] and around the world. The [[France|French]] name {{Lang|fr|röstis bernois}} directly refers to the dish's origins. 
+
+Many [[Swiss people]] consider {{Lang|de|rösti}} to be a [[national dish]].<ref name="guardian">{{cite news|last1=Cloake|first1=Felicity|author-link=Felicity Cloake|title=How to cook the perfect rösti|url=https://www.theguardian.com/lifeandstyle/wordofmouth/2011/oct/13/how-to-cook-perfect-rosti|access-date=19 July 2016|work=[[The Guardian]]|date=13 October 2011}}</ref> Rather than considering it a complete breakfast, lunch or dinner, it is more commonly served to accompany other dishes such as {{Lang|de|Spinat und Spiegelei}} ([[spinach]] and [[fried egg]]s, sunny side up), [[cervelat|cervelas]] or [[Leberkäse|Fleischkäse]]. It is commonly available in Swiss restaurants, as a replacement for the standard side dish of a given meal. {{Citation needed|date=January 2015}}
+
+==Preparation==
+{{Lang|de|Rösti}} dishes are made with coarsely [[Grater|grated]] potato, either parboiled or raw.<ref name="guardian"/> {{Lang|de|Rösti}} are most often pan-fried and shaped in the frying pan during cooking, but they can also be baked in the oven. Depending on the frying technique, [[oil]], [[butter]], [[cheese]], or another fat may be added (and usually [[salt]] and [[Black pepper|pepper]]). The grated potatoes are shaped into rounds or patties, usually measuring between {{convert|3|and|12|cm|0|abbr=on}} in diameter and {{convert|1|and|2|cm|1|abbr=on}} thick.{{Citation needed|reason=Rösti are never 3cm in diameter, and often much larger than 12cm. They are usually the size of the frying pan they are cooked in, around 20-30cm.|date=August 2020}} 
+
+Although basic {{Lang|de|rösti}} consists of nothing but potato, a number of additional ingredients are sometimes added, such as [[bacon]], [[onion]], cheese, [[apple]] or fresh [[herb]]s. This is usually considered to be a regional touch.
+
+<gallery mode="packed" heights="180" perrow="4" caption="Cooking rösti">
+File:Küchenreibe 02 (fcm).jpg|Grating potatoes
+File:Rösti mit Pfannenwender.jpg|Cooking
+File:Rösti in der Pfanne.jpg|Cooking
+File:Rösti wenden mithilfe eines Tellers.jpg|Serving
+</gallery>
+
+==Cultural significance==
+In Swiss popular cultural ethos, {{Lang|de|rösti}} are predominantly eaten in German-speaking regions, although they can be found easily elsewhere in the country. {{Lang|de|Rösti}} dishes are portrayed as a stereotypical part of the Swiss-Germanic culture, as opposed to Latin culture. The geographic border separating the French and German-speaking parts of the country is therefore commonly referred to as the ''[[Röstigraben]]'': literally the '{{Lang|de|rösti}} ditch'.
+
+==Classic {{Lang|de|rösti}} dishes==
+<gallery mode="packed" heights="180" perrow="3" caption="Dishes">
+File:Röstibraten with eggs and green sauce.jpg|{{Lang|de|Rösti}} topped with eggs
+File:Rösti mit Bratwurst.jpg|{{Lang|de|Rösti}} with [[St. Galler Bratwurst|veal sausage]] and onion sauce<ref>{{cite web | url=https://www.bettybossi.ch/fr/Magazin/Display/1065260/Saucisse-de-Saint-Gall-regal-de-bout-en-bout | title=Saucisse de Saint-Gall: régal de bout en bout | publisher=[[Betty Bossi]] | accessdate=9 January 2023 |quote=Sauces et moutarde auraient simplement pour effet de masquer le goût subtilement épicé de la saucisse. Seule exception autorisée: la sauce aux oignons lorsque la Saint-Galloise est escortée de rösti. |trans-quote=Sauces and mustard would simply mask the subtly spicy taste of the sausage. Only exception allowed: the onion sauce when the St-Galler is accompanied by rösti.}}</ref>
+File:Zürcher Geschnetzeltes at Zur rote Buech.jpg|{{Lang|de|Rösti}} with ''[[Zürcher Geschnetzeltes]]''
+</gallery>
+
+==See also==
+* [[Latke]]
+* [[Hash browns]], a similar American dish
+* [[Maluns]], a fried potato dish eaten in the Grisons canton of Switzerland
+* ''[[Perkedel]]'', a similar Indonesian dish
+* [[Potato pancake]]
+* [[List of potato dishes]]
+* [[Liechtenstein cuisine]]
+
+==References==
+{{Reflist}}
+
+==External links==<!--ONLY links STRICTLY related to Rösti-->
+{{Commons category}}
+* Wikibooks [[Wikibooks:Cookbook:rosti|/ Cookbook recipe]]
+* [https://www.helvetickitchen.com/recipes/rosti Rösti on helvetickitchen.com]
+* [https://www.theguardian.com/lifeandstyle/wordofmouth/2011/oct/13/how-to-cook-perfect-rosti How to cook the perfect rösti on theguardian.com]
+* [https://www.youtube.com/watch?v=1_V3FMvaggs Rösti recipe on youtube]
+* [https://www.guampdn.com/lifestyle/palauan-recipe-taro-r-sti-fried-taro-patties/article_d2c71e51-d09e-564d-bf5a-6bee9b41eeac.html Palauan recipe: Taro rösti (fried taro patties)]
+
+{{Potato dishes|state=collapsed}}
+{{Cuisine of Switzerland}}
+{{Portal bar|Food|Switzerland}}
+
+{{DEFAULTSORT:Rosti}}
+
+[[Category:Breakfast dishes]]
+[[Category:Culinary Heritage of Switzerland]]
+[[Category:Culture of the canton of Bern]]
+[[Category:Fried foods]]
+[[Category:Liechtenstein cuisine]]
+[[Category:National dishes]]
+[[Category:Palauan cuisine]]
+[[Category:Potato pancakes]]
+[[Category:Swiss cuisine]]
+[[Category:Vegetarian cuisine]]

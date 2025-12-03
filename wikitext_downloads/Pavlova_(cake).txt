@@ -1,0 +1,121 @@
+{{short description|Meringue-based dessert}}
+{{About||the ballerina|Pavlova (ballerina){{!}}Anna Pavlova|other uses}}
+{{pp-protected|small=yes}}
+{{Original research|date=October 2023}}
+{{Use dmy dates|date=April 2019}}
+{{Infobox food
+| name = Pavlova
+| image = Pavlova dessert.JPG
+| caption = A pavlova garnished with kiwifruit, strawberries and passionfruit
+| alternate_name = 
+| associated_cuisine = [[Australian cuisine|Australia]], [[New Zealand cuisine|New Zealand]]
+| course = [[Dessert]]
+| served = 
+| main_ingredient = [[Egg (food)|Egg whites]], [[Sucrose#Culinary sugars|caster sugar]]
+| variations = 
+| calories = 
+| other = 
+| cookbook = Pavlova
+}}
+
+'''Pavlova''' is a [[meringue]]-based [[dessert]]. Originating in either [[Australia]] or [[New Zealand]] in the early 20th century, it was named after the Russian [[ballerina]] [[Anna Pavlova]].<ref name="gnt">Boylen, Jeremy (reporter) (20 August 2004). [http://abc.net.au/gnt/history/Transcripts/s1188249.htm Pavlova] ''George Negus Tonight'', Australian Broadcasting Corporation. [https://web.archive.org/web/20161226182725/http://www.abc.net.au/gnt/history/Transcripts/s1188249.htm Archived]</ref><ref name=Saurine>{{cite web |last=Saurine |first=Angela |title=The Surprising Truth About Pavlova's Origins |url=https://www.bbc.com/travel/article/20200804-the-surprising-truth-about-pavlovas-origins |publisher=[[BBC]] |access-date=18 March 2024}}</ref> Taking the form of a cake-like circular block of baked meringue, pavlova has a crisp crust and soft, light inside. The confection is usually topped with fruit and [[whipped cream]].<ref name="leach">{{cite book |last=Leach |first=Helen |title=The Pavlova Story: A Slice of New Zealand's Culinary History |publisher=[[Otago University Press]] |year=2008 |isbn=978-1-877372-57-5 |pages=11–31}}</ref> The name is commonly pronounced {{IPAc-en|p|æ|v|ˈ|l|oʊ|v|ə|audio=en-au-pavlova.ogg}} {{respell|pav|LOH|və}} or (in North America) {{IPAc-en|p|ɑː|v|ˈ|l|oʊ|v|ə|audio=en-us-pavlova2.ogg}} {{respell|pahv|LOH|və}}, and occasionally closer to the name of the dancer, as {{IPAc-en|ˈ|p|ɑː|v|l|ə|v|ə|audio=en-us-pavlova3.ogg}} {{respell|PAHV|lə|və}}.<ref name="AuEpron">''[[Macquarie Dictionary|Macquarie Dictionary, Fourth Edition]]'' (2005). Melbourne, The Macquarie Library Pty Ltd. {{ISBN|1-876429-14-3}}</ref><ref name="NZEpron">Orsman, H.W. (ed.) (1979) ''Heinemann New Zealand dictionary''. Auckland: Heinemann Educational Books (NZ)</ref><ref name=InEpron>Dictionary.com, "pavlova", in Dictionary.com Unabridged (v 1.1). Source location: Random House, Inc. [http://dictionary.reference.com/browse/pavlova http://dictionary.reference.com/browse/pavlova]. Available: [http://dictionary.reference.com http://dictionary.reference.com]. Accessed: 26 April 2009.</ref>
+
+The dessert is believed to have been created in honour of the dancer either during or after one of her tours to Australia and New Zealand in the 1920s.<ref name="leach" /> The nationality of its creator has been a source of argument between the two nations for many years.<ref name="Wilson">{{cite encyclopedia |last=Wilson |first=John |title=Pavlova rivalry |url=https://teara.govt.nz/en/photograph/604/pavlova-rivalry |encyclopedia=[[Te Ara: The Encyclopedia of New Zealand]] |access-date=7 May 2020}}</ref>
+
+The dessert is an important part of the national cuisine of both Australia and New Zealand. It is frequently served during celebratory and holiday meals. It is most identified with and consumed most frequently in summer, including at [[Christmas]] time.<ref name="leach" />
+
+==Origin==
+A recipe for "Strawberries Pavlova" appeared in the ''[[New Zealand Herald]]'' on 11 November 1911, but this was a kind of [[Ice pop|ice block]] or [[sorbet]].<ref name=Saurine/><ref name=":2">{{cite web |url=https://paperspast.natlib.govt.nz/newspapers/NZH19111111.2.96.64.4 |title=The Home. The Strawberry Season |date=11 November 1911 |publisher=The New Zealand Herald via Papers Past}}</ref> Annabelle Utrecht, who wrote a book about the possible origins of pavlova, believes that this is a reprint from England.<ref name=Saurine/>  
+
+A 1922 book, ''Australian Home Cookery'' by Emily Futter, contained a recipe for "Meringue with Fruit Filling".<ref name="Symons">{{cite journal |last=Symons |first=Michael |title=The confection of a nation the social invention and social construction of the Pavlova |journal=Social Semiotics |date=15 April 2010 |volume=20 |issue=2 |page=202 |doi=10.1080/10350330903566004 |s2cid=144496353 |url=https://www.academia.edu/11401553 |access-date=25 November 2019}}</ref> David Burton regards this as the first known recipe for a food resembling the modern pavlova; Australian food writer Michael Symons, however, does not recognise it as such, pointing to its lack of vinegar or cornflour, to the absence of the pavlova name, and to its description as a meringue cake cut in half and filled.<ref name="Symons"/>
+
+Another recipe for a dish bearing the name ''pavlova'' was published in 1926 by the [[Davis Gelatine]] company in [[Sydney, Australia|Sydney]].<ref>{{cite journal |last=Leach |first=Helen |title=The Pavlova Wars: How a Creationist Model of Recipe Origins Led to an International Dispute |journal=Gastronomica |date=Spring 2010 |volume=10 |issue=2 |page=26 |doi=10.1525/gfc.2010.10.2.24}}</ref><ref name="Pavlova Doco">{{cite web |url=http://www.pavlovadoco.com/ |title=Pavlova Doco}}</ref> However, this was a multi-layered jelly, not the meringue, cream and fruit dessert known today.<ref name="Pavlova Doco"/><ref name="leach"/>
+
+[[Helen Leach]], in her role as a culinary anthropologist at the [[University of Otago]], states that the first recipe from New Zealand was a recipe for "pavlova cake" in 1929.<ref name="leach" /><ref>{{cite web |last=Park |first=Nicky |title=Dictionary sides with NZ in pavlova debate |url=https://www.smh.com.au/world/dictionary-sides-with-nz-in-pavlova-debate-20101203-18j1t.html |website=[[The Sydney Morning Herald]] |date=3 December 2010 |access-date=26 November 2019}}</ref> A recipe for pavlova cake was published in ''[[The Star (Dunedin)|The Evening Star]]'' on 10 November 1934.<ref>{{cite web |url=https://paperspast.natlib.govt.nz/newspapers/ESD19341110.2.138.3 |title=The Right Recipe. Some request cake recipes |date=10 November 1934 |page=24 |publisher=The Evening Star via Papers Past}}</ref>
+
+It has also been claimed that Bert Sachse created the dish at the [[Esplanade Hotel, Perth|Esplanade Hotel]] in [[Perth]], Western Australia, in 1935.<ref name="Sachse">See, for example, M. Symons (1982) ''One continuous picnic: a history of eating in Australia''. Adelaide: Duck Press.</ref><ref>{{cite news |url=http://nla.gov.au/nla.news-article202741143 |title=The Man Who Created The Pavlova |newspaper=[[The Beverley Times]] |volume=69 |issue=4 |location=Western Australia |date=14 February 1974 |access-date=18 September 2021 |page=4 |via=National Library of Australia}}</ref> In defence of his claim as inventor of the dish, a relative of Sachse's wrote to Leach suggesting that Sachse may have accidentally dated the recipe incorrectly. Leach replied they would not find evidence for that "because it's just not showing up in the cookbooks until really the 1940s in Australia." However, a recipe for "pavlova cake" was published in ''[[The Advocate (Tasmania)|The Advocate]]'' in 1935,<ref>{{cite web |url=http://trove.nla.gov.au/newspaper/article/86551758 |title=An Elaborate Cake |date=14 September 1935 |publisher=The Advocate, republished by Trove, National Library of Australia}}</ref> and a 1937 issue of ''[[The Australian Women's Weekly]]'' contains a "pavlova sweet cake" recipe.<ref name="AWW19371007">{{cite news |url=http://nla.gov.au/nla.news-article52262837 |title=These are... OUT of the BOX!  |newspaper=[[The Australian Women's Weekly]] |location=Australia |date=10 July 1937 |access-date=6 January 2011 |page=39 Supplement: 16 Pages of Cookery |publisher=National Library of Australia}}</ref> A 1935 advertisement for a chromium ring used to prevent the dessert collapsing also indicates that the term "pavlova cake" had some currency in Auckland at that time.<ref>{{cite news |newspaper=[[Auckland Star]] |date=5 September 1935 |page=21 |url=https://paperspast.natlib.govt.nz/newspapers/AS19350905.2.212.2 |publisher=via Papers Past |title=Milne & Choyce}}</ref>
+
+Other researchers have said that the origins of pavlova lie outside both Australia and New Zealand. Research conducted by New Zealander Andrew Paul Wood and Australian Annabelle Utrecht found that the origins of the modern pavlova can be traced back to the Austro-Hungarian [[Spanische Windtorte]]. It was later brought to the United States where German-speaking immigrants introduced meringue, whipped cream, and fruit desserts called ''Schaumtorte'' ("foam cake") and ''Baisertorte''. American corn starch packages which included recipes for meringue were exported to New Zealand in the 1890s.<ref>{{cite web |url=https://www.goodfood.com.au/eat-out/news/pavlova-research-reveals-desserts-shock-origins-20151010-gk5yv9 |title= Pavlova research reveals dessert's shock origins |publisher=Good Food |date=10 October 2015 |access-date=8 October 2019}}</ref><ref name=Saurine />
+
+Another story is that an unnamed New Zealand chef created Pavlova in 1926 in a Wellington hotel. Food anthropologist [[Helen Leach]] of the [[University of Otago]] was unable to verify that this was true.<ref name=Saurine/> She found at least 21 pavlova recipes in New Zealand cookbooks by 1940, the year the Australian recipes appeared. She wrote the book ''The Pavlova Story''.<ref name=":0" /><ref name=Saurine /> The first she found was a multlayered and layered jelly in 1926. In 1928 from Dunedin, a walnut and coffee-flavoured meringue recipe was created and became popular throughout New Zealand. In 1929 a third recipe was published in the ''[[Dairy Farmer's Annual]]''. Leach said that this third recipe was "stolen/falsely claimed by chefs/cooks across the Tasman".<ref name=Saurine /> A fourth recipe was published in the ''Rangiora Mother's Union Cookery Book of Tried and Tested Recipes'' in 1933, two years before a similar recipe was published in Australia, later republished to raise funds for the Rangiora Church. This recipe was a single-layered small cake, whose preparation consisted in two egg whites, sugar and cornflour, but with no vinegar, baked in a sandwich tin.<ref>{{cite web |date=2010-12-14 |title=First ever pavlova recipe found in Rangiora? |url=https://www.nzherald.co.nz/nz/first-ever-pavlova-recipe-found-in-rangiora/LPASYIRAQXBLXM4Q5MPK2NVADE/ |access-date=2024-09-28 |website=[[The New Zealand Herald]] |language=en-NZ}}</ref> One year later a recipe was published in the ''New Zealand Women's Weekly'', which contained four egg whites, a breakfast cup of sugar and a teaspoon of vinegar, to be cooked in a cake tin.<ref>{{cite web |last=Knights |first=Genevieve |date=2011-10-23 |title=Pavlova: the history of a showstopping dessert |url=https://tasteandtravelmagazine.com/2011/10/pavlova/ |access-date=2024-09-28 |website=Taste&Travel Magazine |language=en-US}}</ref>
+
+An article in Melbourne's ''[[The Argus (Melbourne)|The Argus]]'' from 17 November 1928 claims an "American ice-cream" was named after Anna Pavlova: "Dame [[Nellie Melba]], of course, has found fame apart from her art in the famous [[Peach Melba|sweet composed of peaches and cream]], while Mme. Anna Pavlova lends her name to a popular variety of American ice-cream."<ref name="AWW19281117">{{cite news |url=http://nla.gov.au/nla.news-article3969695 |title=IN THE PAPERS. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=17 November 1928 |access-date=8 October 2019 |page=5 Supplement: The Argus. Saturday Camera Supplement |publisher=National Library of Australia}}</ref> This article may suggest that pavlova has American origins. However, it's unclear how these words should be interpreted and whether that article is relevant. Firstly, the authors of that article offer no evidence for their claims or any depth of discussion of their claims. Secondly, given that pavlova is not an ice-cream, it is highly unclear as to whether the words "American ice-cream" is referring to the modern pavlova dessert or something else entirely.<ref name="AWW19281117"/>
+
+Michael Symons, an Australian then researching in New Zealand, has declared that pavlova has no singular birthplace. Rather, published recipes reveal the complex process of "social invention" with practical experience circulating, under a variety of names, across both countries. For example, Australians beat New Zealanders to create an accepted pavlova recipe as the 'Meringue Cake'. The illusion of some singular invention can be explained by distinguishing a second, associated level of "[[social construction]]", in which cooks, eaters and writers attach a name and myths to produce a widely-held concept that appears so deceptively distinct that it must have had a definite moment of creation.<ref>{{cite web| url = https://www.academia.edu/11401553 | title = The confection of a nation: The social invention and social construction of the Pavlova | publisher = Academia.edu | date = 15 April 2010 | access-date = 8 October 2019 }}</ref>
+
+Matthew Evans, a restaurant critic for ''[[The Sydney Morning Herald]]'', said that it was unlikely that a definitive answer about the dessert's origins would ever be found. "People have been doing meringue with cream for a long time, I don't think Australia or New Zealand were the first to think of doing that."<ref name="BBC20050719">{{cite news | url = https://news.bbc.co.uk/1/hi/world/asia-pacific/4696575.stm | title = Antipodean palaver over pavlova | access-date = 17 July 2009 | date = 19 July 2005 | work =[[BBC News]] }}</ref>
+
+In 2010 the ''[[Oxford English Dictionary]]'' noted that the first recorded recipe of pavlova was from 1927 in ''Davis Dainty Dishes'', published by the Davis Gelatine Company in New Zealand. This was a multi-coloured jelly dish. Confusingly, the dictionary ambiguously listed the origin as "Austral. and N.Z".<ref name=":0">{{Cite news |date=2010-12-02 |title=Pavlova created in New Zealand not Australia, OED rules |language=en-GB |publisher=[[BBC News]] |url=https://www.bbc.com/news/world-asia-pacific-11897482 |access-date=2023-10-30}}</ref>
+
+==Preparation and consumption==
+Pavlova is made in a similar way to meringue. [[Egg as food|Egg whites]] (and sometimes salt) are beaten to a very stiff consistency, gradually adding [[Sucrose#Culinary sugars|caster sugar]] before folding in [[vinegar]] or [[lemon]] juice (or another edible acid), [[cornstarch|cornflour]], and [[vanilla]] essence. The meringue mixture is placed on to [[Parchment paper|baking paper]] and shaped to form a round cake around {{convert|20|cm|4=0|abbr=on}} in diameter with a slightly recessed centre. The meringue is baked in a [[Oven temperatures|slow oven]] ({{convert|120-150|C|4=-1|abbr=on|disp=semicolon}}; gas mark 1/2, 1, or 2) for 45–60 minutes, then left in the oven to cool and dry out, usually overnight.<ref>{{cite web|url=http://www.foodtolove.com.au/recipes/traditional-pavlova-4382|title=Traditional Pavlova Recipe|work=foodtolove.com.au|access-date=18 May 2016|archive-date=24 September 2017|archive-url=https://web.archive.org/web/20170924044851/http://www.foodtolove.com.au/recipes/traditional-pavlova-4382|url-status=dead}}</ref><ref>{{Cite web|title=Pavlova|url=https://edmondscooking.co.nz/recipes/desserts/pavlova|access-date=2021-03-23|website=edmondscooking.co.nz|archive-url=https://web.archive.org/web/20211109181354/https://edmondscooking.co.nz/recipes/desserts/pavlova |archive-date=9 November 2021 |language=en-NZ}}</ref>
+
+Pavlova has a crisp and crunchy outer shell, and a soft, moist [[marshmallow]]-like centre, in contrast to meringue which is usually solid throughout. It has been suggested the addition of cornflour is responsible for the marshmallow centre, although it has been debated that the cornflour is just another egg white stabiliser in addition to the acid.<ref>{{cite web |url= http://www.foodlovers.co.nz/features/how-to-make-perfect-pavlova-and-meringues.html |title= How to Make Perfect Pavlova and Meringues |publisher= Foodlovers.co.nz |access-date= 11 July 2014}}</ref>
+
+Pavlova is traditionally decorated with a topping of whipped cream and fresh soft fruit such as [[kiwifruit]], [[passionfruit]], and [[strawberry|strawberries]].<ref>{{cite web | url = http://www.inmamaskitchen.com/FOOD_IS_ART/pavlova_howto.html | title = Contains Pavlova Toppings | publisher = InMamasKitchen.com | access-date = 16 November 2010 | url-status = dead | archive-url = https://web.archive.org/web/20101205162158/http://inmamaskitchen.com/FOOD_IS_ART/pavlova_howto.html | archive-date = 5 December 2010 }}</ref> Factory-made pavlovas can be purchased at supermarkets and decorated as desired. A commercial product is available that includes pre-mixed ingredients for baking the meringue shell, requiring only the addition of water and sugar.
+
+Leftover decorated pavlova can be refrigerated overnight, but the dessert will absorb moisture and lose its crispness.<ref>{{cite web |last=Lawson |first=Nigella |author-link=Nigella Lawson |title=Refrigerated Chocolate Raspberry Pavlova |url=https://www.nigella.com/ask/refrigerated-chocolate-raspberry-pavlova |website=www.nigella.com |access-date=7 May 2020 |date=3 October 2014}}</ref> Undecorated pavlova can be left overnight in the oven, or for several days in an airtight container, to be decorated when ready.
+
+New Zealand pavlova is more likely to have kiwifruit. In Australia, pavlova often has passionfruit and sometimes pineapples. In Britain it is more likely to have strawberries. Older versions of pavlova would have walnuts.<ref name=Saurine/>
+
+<gallery widths="200px" heights="155px">
+File:Pavlova prior to baking (20240330152736).jpg|A homemade pavlova prior to baking.
+File:Pavlovawinegumsstrawberries.jpg|A store-bought New Zealand pavlova decorated with [[wine gum]]s, strawberries and cream. The soft marshmallow-like centre is visible.
+</gallery>
+
+==In culture==
+[[File:Australian Pavlova Christmas Desserts.jpg|thumb|right|An Australian Christmas dessert pavlova garnished with strawberries]]
+
+Pavlova is popular on Christmas Day as a dessert usually served after being refrigerated due to Christmas being celebrated during the summer in the southern hemisphere.<ref name="leach"/>
+
+===World's largest pavlova===
+[[Museum of New Zealand Te Papa Tongarewa|Te Papa]], New Zealand's national museum in Wellington, celebrated its first birthday in February 1999 with the creation of purportedly the world's largest pavlova, dubbed Pavzilla, which was cut by Prime Minister [[Jenny Shipley]].<ref>{{cite news |last1=Armstrong |first1=Dave |title=Sotheran's lasting national legacy |url=https://www.stuff.co.nz/dominion-post/comment/columnists/100348910/sotherans-lasting-national-legacy |access-date=7 May 2020 |work=[[The Dominion Post (Wellington)|The Dominion Post]] |date=8 January 2018 |language=en}}</ref> This record was broken by students at the Eastern Institute of Technology in [[Hawke's Bay Region|Hawke's Bay]], New Zealand, in March 2005. Their creation, Pavkong, stretched 64 metres long in comparison to Te Papa's 45-metre-long pavlova.<ref>{{cite news | url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10116427 | title=Students make world's biggest Pavlova | work=[[The New Zealand Herald]] | date=21 March 2005 |access-date=7 May 2020}}</ref> In August 2010, chef Aaron Campbell displayed a 50-square-metre [[Rugby football|rugby]]-themed pavlova, with the [[Bledisloe Cup]] in the centre, in the [[ChristChurch Cathedral, Christchurch|ChristChurch Cathedral]] in [[Christchurch]], to raise money for the official charity of the [[All Blacks]].<ref>{{cite web| url = http://www.newzealand.com/travel/media/press-releases/2010/8/food&wine_giant-rugby-pavlova_press-release.cfm | title = Charitable Kiwi chef whips up giant pavlova | website = NewZealand.com | publisher = [[Tourism New Zealand]] | date = 6 August 2010 | access-date = 16 November 2010 }}</ref> In May 2018 a Norwegian chef and 35 assistants produced an 85-square-metre pavlova.<ref>{{cite web| url = https://www.odt.co.nz/news/national/norwegians-smash-kiwi-pavlova-world-record | title= Norwegians smash Kiwi pavlova world record | work =[[The New Zealand Herald]] | date = 16 May 2018 | access-date = 3 July 2021 }}</ref>
+
+==See also==
+{{portal|Food}}
+* [[Brazo de Mercedes]]
+* [[Christmas in Australia]] and [[Christmas in New Zealand]]
+* [[Eton mess]]
+* [[List of strawberry dishes]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book
+  | author-link = Helen Leach
+  | last = Leach
+  | first = Helen M.
+  | year = 1997
+  | editor-last = Walker
+  | editor-first = Harlan
+  | title = Food on the Move: Proceedings of the Oxford Symposium on Food and Cookery, 1996
+  | chapter-url = https://archive.org/details/bub_gb_uYqTiD7SbcQC
+  | chapter = The Pavlova Cake: The Evolution of a National Dish
+  | pages = [https://archive.org/details/bub_gb_uYqTiD7SbcQC/page/219 219–223]
+  | publisher = Prospect Books
+  | location = Devon, England
+  | isbn = 0-907325-79-3
+  | url = https://archive.org/details/bub_gb_uYqTiD7SbcQC/page/219
+  }}
+* {{cite web |last1=Rawling |first1=Caitlin |title=Settling the debate over whether Australia or New Zealand invented the pavlova. Here's what you need to know |url=https://www.abc.net.au/news/2024-06-23/settling-the-debate-over-who-invented-the-pavlova/103541682 |website=[[ABC News (Australia)|ABC News]] |publisher=[[Australian Broadcasting Corporation]] |access-date=6 July 2024 |language=en-AU |date=23 June 2024}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20140118130013/http://www.pavlova.co.nz/recipe.php Cowells Pavlova Recipe]
+* [http://www.joyofbaking.com/Pavlova.html Joy of Baking Pavlova Recipe]
+* [http://simplyrecipes.com/recipes/pavlova/ Simply Recipes Pavlova Recipe]
+* [https://web.archive.org/web/20160304083911/http://blogs.abc.net.au/files/pav-research-glen-ralph.mp3 Pavlova history]
+
+{{Cakes}}
+{{Australian cuisine}}
+
+[[Category:Cakes]]
+[[Category:Christmas food]]
+[[Category:Meringue desserts]]
+[[Category:National dishes]]
+[[Category:New Zealand desserts]]
+[[Category:Kiwiana]]
+[[Category:Australian cakes]]

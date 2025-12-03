@@ -1,0 +1,1384 @@
+{{Short description|Quebecois dish of french fries, cheese curds and gravy}}
+{{About|the dish of [[french fries]], cheese curds and gravy|the Acadian dish of boiled potato dumplings|Poutine râpée|the president of Russia|Vladimir Putin<!--in French, Putin's name is spelled poutine, and some readers have arrived at this article looking for his biography-->}}
+{{Good article}}
+{{Use dmy dates|date=March 2022}}
+{{Use Canadian English|date=January 2019}}
+{{Infobox food
+| name               = Poutine
+| image              = Food at WIkimanian 2017 02.jpg
+| caption            = A serving of poutine from Montreal, Quebec<!--during Wikimania 2017-->
+| place_of_origin    = [[Canada]]<!--Quebec is in Canada-->
+| region             = [[Quebec]]<!--no one is disputing that the dish came from Quebec-->
+| associated_cuisine = <!--DO NOT CHANGE THIS WITHOUT TALK PAGE CONSENSUS, EVEN IF YOU HAVE A SOURCE. This is controversial as discussed in lead, please leave this parameter blank. See the FAQ at the top of the talk page for more details.-->
+| creators           = [[#Origins|Many claims]]
+| year               = Late 1950s
+| course             = [[Main course]] or [[side dish]]
+| main_ingredient    = [[French fries|French fries]], [[gravy]], {{nowrap|[[cheese curd]]s}}
+| cookbook           = Poutine
+}}
+
+'''Poutine'''{{efn|{{IPA|fr-CA|puˈt͡sɪn||Qc-Poutine.ogg|label=[[Quebec French]]:}}}} <!-- do not add Canadian or Québécois here - see past discussions and FAQ at top of talk page --> is a dish of [[french fries|French fries]] and [[cheese curd]]s topped with a hot brown beef and chicken stock [[gravy]]. It emerged in the [[Centre-du-Québec]] region of [[Quebec]] in the late 1950s, though its exact origins are uncertain, and there are several competing claims regarding its origin. For many years, it was used by some to mock [[Culture of Quebec|Quebec society]].<ref name="poutinedynamics"/> Poutine later became celebrated as a symbol of [[Québécois people|Québécois]] culture and the province of Quebec. It has long been associated with [[cuisine of Quebec|Quebec cuisine]], and its rise in prominence has led to its growing popularity throughout the rest of [[Canada]].
+
+Annual poutine celebrations occur in [[Montreal]], [[Quebec City]], and [[Drummondville]], as well as [[Toronto]], [[Ottawa]], [[New Hampshire]], and [[Chicago]]. It has been called [[Canadian cuisine#National food of Canada|Canada's national dish]], though some critics believe this labeling represents [[cultural appropriation]] of the Québécois or Quebec's provincial identity.<ref name="poutinedynamics"/><ref name="DeSoucey2020"/>  Many variations on the original recipe are popular, leading some to suggest that poutine has emerged as a new dish classification in its own right, as with [[sandwich]]es or [[dumpling]]s.<ref name="poutinedynamics"/>
+
+==History==
+===Origins===
+The dish was created in the [[Centre-du-Québec]] area in the late 1950s.<ref name="poutinedynamics" /><ref name="mauditepoutine"/>{{rp|12–31}} Several restaurants in the area claim to be the originators of the dish, but no consensus exists.<ref name="mauditepoutine"/>{{rp|12–31}}<ref name="PostMany"/><ref name="KaneWar"/>
+
+*Le Lutin qui rit, [[Warwick, Quebec|Warwick]] {{anchor|Le Lutin qui rit, Warwick|Le Lutin qui rit}} – {{Not a typo|Restaurateur}} Fernand Lachance of Le Café Idéal (later Le Lutin qui rit<ref name="OxfordCompanion"/>), is said to have exclaimed in 1957, "{{lang|fr|italic=no|ça va faire une maudite poutine!}}" ({{langx|en|"It will make a damn mess!"}}) when asked by a regular <!--Eddy Lainesse--> to put a handful of cheese curds in a take-out bag of french fries.<ref name="HutchinsonHistory"/><ref name="foodrepublic.com"/><ref name="CBCDrummondville"/><ref name="WoodsTreasure"/> The dish "poutine" appears on the establishment's 1957 menu.<ref name="VermaSticky"/> Lachance served this on a plate, and beginning in 1962 added hot gravy to keep it warm.<ref name="WoodsTreasure"/><ref name="PostMany"/>
+*[[File:Poutine-Restaurant.jpg|alt=Restaurant with signs on front wall saying "le roy jucep" and "poutine"|thumb|Le Roy Jucep in 2018]] Le Roy Jucep, [[Drummondville]] {{anchor|Le Roy Jucep, Drummondville|Le Roy Jucep}} – This drive-in restaurant served french fries with gravy, to which some customers would add a side order of cheese curds.<ref name="PostMany" /> Owner Jean-Paul Roy began serving the combination in 1958 and added it to the menu in 1964 as "{{lang|fr|italic=no|fromage-patate-sauce}}".<ref name="PostMany" /><ref name="OxfordCompanion" /> Felt to be too long a name, this was later changed to ''poutine'' for a cook nicknamed "Ti-Pout" and a slang word for "pudding".{{efn
+|name=a
+|The dish was originally called ''fromage-patate-sauce'' (cheese-fries-gravy) but this proved too long to put on the menu.<ref name="PostMany"/><ref name="VermaSticky"/> According to Renée Brousseau, the general manager of Le Roy Jucep, the drive-in's servers demanded a name for the popular dish to facilitate taking orders from curbside to kitchen. They said "Ti-Pout makes the pudding", using the nickname of a cook and ''pouding'', the slang word they used for strange combinations of food. Brousseau stated that this was how they came up with 'poutine'.<ref name="WoodsTreasure"/><ref name="PostMany"/>
+}}<ref name="PostMany" /><ref name="KaneWar" /><ref name="VermaSticky" /> The restaurant displays a copyright registration certificate, issued by the [[Canadian Intellectual Property Office]], which alludes to Roy having invented poutine.<ref name="VermaSticky" />
+* La Petite Vache, [[Princeville, Quebec|Princeville]] {{anchor|La Petite Vache, Princeville|La Petite Vache}} – Customers would mix cheese curds with their fries, a combination which was added to the menu. One option included gravy and was called the "Mixte".<ref name="PostMany" /><!--not in source: a reference to the mixture of 50% fries and 50% cheese.-->
+
+According to Canadian food researcher [[Sylvain Charlebois]], while [[Warwick, Quebec|Warwick]] is the birthplace of poutine, [[Drummondville]]'s Jean-Paul Roy is the true inventor since Le Roy Jucep was the first to sell poutine with three combined ingredients, in 1964.<ref>{{cite book |title=Poutine nation: la glorieuse ascension d'un plat sans prétention |trans-title=Poutine Nation: the glorious rise of an unpretentious dish |first=Sylvain |last=Charlebois |authorlink=Sylvain Charlebois |year=2021 |publisher=Fides |location=Montreal, Quebec |isbn=978-2-76-214412-3 |language=fr |url=https://books.google.com/books?id=X7J8zgEACAAJ |access-date=12 October 2022 |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017191841/https://books.google.com/books?id=X7J8zgEACAAJ |url-status=live }}</ref> ''The Oxford Companion to Cheese'' takes a different perspective, stating that the inventors were not chefs but the customers who chose to add cheese curds to their fries.<ref name="OxfordCompanion" />
+
+===Development===
+Poutine was consumed in small "[[greasy spoon]]" [[diner]]s (commonly known in Quebec as {{lang|fr|cantines}} or {{lang|fr|casse-croûtes}}), [[pub]]s, at roadside chip wagons (commonly known as {{lang|fr|cabanes à patates}}, literally "potato shacks"), and in ice hockey arenas.<ref name="poutinedynamics" /> For decades, it remained a country snack food in Quebec's dairy region, due to the narrow freshness window of [[cheddar cheese]] curds.<ref name="WoodsTreasure" /><ref name="GollnerBest"/> In 1969, poutine was brought to Quebec City in Ashton Leblond's [[food truck]] (a business which grew into the [[Chez Ashton]] fast-food chain).<ref name="CDNE">{{Cite web |url=https://www.thecanadianencyclopedia.ca/en/article/history-of-poutine |title=Poutine |last=Arfonovitch |first=Davida |website=thecanadianencyclo[edia.ca |access-date=28 April 2019 |archive-url=https://web.archive.org/web/20190423095738/https://www.thecanadianencyclopedia.ca/en/article/history-of-poutine |archive-date=23 April 2019 |url-status=live }}</ref> In the early 1970s, [[La Banquise]] began serving poutine in Montreal,<ref name="SemenakBanquise" /> followed by the [[Burger King]] chain in 1983. Others that followed used inferior cheese and the dish's reputation declined. Poutine was largely perceived as an unsophisticated backwoods creation or unhealthy [[junk food]]<ref name="ForsterStealing"/><ref name="WoodsTreasure" /> to be consumed after a night of drinking.<ref>{{cite web|url=https://ny.eater.com/2017/9/6/16259134/best-poutine-nyc|title=Where to Find NYC's Newest Poutine|publisher=Eater|access-date=6 September 2017|archive-url=https://web.archive.org/web/20170906200636/https://ny.eater.com/2017/9/6/16259134/best-poutine-nyc|archive-date=6 September 2017|url-status=live|date=6 September 2017}}</ref>
+
+Montreal chefs would make poutine to feed their staff but had not dared to put it on their menus. In the 1990s, attempts were made to elevate the dish by using [[baked potato]]es and duck [[Stock (food)|stock]]. In November&nbsp;2001, [[Martin Picard]] of bistro [[Au Pied de Cochon]] began serving a [[foie gras]] poutine which was praised by customers and food critics.<ref name="KraussPride" /> This influenced chefs in Toronto and Vancouver to feature poutine on upscale menus.<ref name="ChestermanMontreal"/> Chef [[Mark McEwan]] served lobster poutine at his Bymark eatery, and chef [[Jamie Kennedy (chef)|Jamie Kennedy]] served [[braising|braised]] beef poutine at his eponymous restaurant.<ref name="KatesReview" /> Over the next decade, poutine gained acceptance and popularity in all types of restaurants, from [[haute cuisine]] to fast food, and spread across Canada and internationally.<ref name="poutinedynamics" /> Poutine became extremely trendy in the early 2010s, with an explosion of poutineries in cities like Toronto, leading to stories about poutine's association with romance<ref>{{Cite web |last=Reporter |first=Stephanie Findlay Staff |date=2012-09-02 |title=Poutine shops serve up side of passion |url=https://www.thestar.com/news/gta/poutine-shops-serve-up-side-of-passion/article_b2c49b5c-d7ba-58aa-a1a5-a5d5ea44857c.html |access-date=2024-11-17 |website=Toronto Star |language=en}}</ref> and events like the [[IBM Watson]] Cognitive Cooking Poutine Event, where the computer generated unique poutine recipes based on the demographics of Toronto and Montreal.<ref name="Pelley2015"/>
+
+===Etymology===
+The ''[[Dictionnaire historique du français québécois]]'' lists 15 meanings of {{lang|fr|poutine}} in [[Quebec French|Québécois]] and [[Acadian French]], most of which are for kinds of food; the word ''poutine'' in the meaning "fries with cheese and gravy" is dated to 1982 in English.<ref name="merrweb"/> Other senses of the word have been in use since at least 1810.<ref name=dicthistq>{{cite book |last1=Poirier |first1=Claude |last2= Canac-Marquis |first2=Steve |title=Dictionnaire historique du français québécois |publisher=[[Université Laval]] |year=1998 |isbn=978-2-7637-7557-9}}</ref>
+
+According to [[Merriam-Webster]], a popular etymology is that ''poutine'' is from a Québécois slang word meaning "mess", and that others attribute it to the English word ''[[pudding]]''. The exact provenance of the word ''poutine'' is uncertain.<ref name="merrweb"/>
+
+The ''Dictionnaire historique'' mentions the possibility that the form ''poutine'' is simply a [[Francization|gallicization]] of the word ''pudding''. However, it considers it more likely that the term was inherited from regional languages in France, with some meanings shaped later by the influence of the similarly sounding English word ''pudding''. It cites the [[Provençal dialect|Provençal]] forms {{lang|fr|poutingo}} "bad stew" and {{lang|fr|poutité}} "hodgepodge" or "crushed fruit or foods"; {{lang|fr|poutringo}} "mixture of various things" in [[Languedocien dialect|Languedocien]]; and {{lang|fr|poutringue}} or {{lang|fr|potringa}} "bad stew" in [[Franche-Comté]] as possibly related to ''poutine''. The meaning "fries with cheese and gravy" of ''poutine'' is among those held as probably unrelated to ''pudding'', provided the latter view is correct.<ref name=dicthistq/>
+
+==Recipe==
+[[File:LaBanquise.jpg|thumb|[[La Banquise]], a poutinerie in Montreal, serves more than thirty varieties of poutine.<ref name="SemenakBanquise"/>]]
+The traditional recipe for poutine consists of:
+* [[French fries]]: These are usually of medium thickness and fried (sometimes twice) such that the inside stays soft, while the outside is crispy.<ref name="OliverTips" />
+* [[Cheese curds]]: Fresh cheese curds are used to give the desired texture. The curd size varies, as does the amount used.<ref name="EdmistonSqueak" />
+*Brown [[gravy]]: Traditionally, it is a light and thin beef or chicken <!--unsourced: veal or turkey-->gravy,<ref name="OliverTips" /><ref name="OxfordCompanion"/> somewhat salty and mildly spiced with a hint of pepper;<ref name="SemenakBanquise"/> or a ''sauce brune'',<ref name="GollnerBest"/> which is a combination of chicken and beef stock<!--not sourced: a variant originating in Quebec-->.<ref name="OliverTips" /><ref name="foodrepublic.com"/><!--unsourced: These sauces typically also contain [[vinegar]] or a [[Flavour enhancer|sour flavouring]] to balance the richness of the cheese and fries.{{citation needed|date=June 2014}}--> Poutine sauces ({{langx|fr|mélange à sauce poutine}}) are sold in Quebec, Ontario, and [[The Maritimes|Maritime]] grocery stores in jars or cans and in powdered mix packets; some grocery chains <!--like [[Sobeys]]--> offer their own house-brand versions. Many stores and restaurants also offer vegetarian gravy.<ref>{{cite web |url=http://604now.com/2014/05/8-places-to-find-vegetarian-poutine-in-vancouver/ |title=things to do, people to see, places to go |publisher=604 Now |date=15 May 2014 |access-date=15 June 2014 |archive-url=https://web.archive.org/web/20140517120518/http://604now.com/2014/05/8-places-to-find-vegetarian-poutine-in-vancouver/ |archive-date=17 May 2014 |url-status=dead }}</ref>{{efn|Brown gravy, as Americans use the term – consisting of flour, butter, ketchup, mustard, Worcestershire sauce, and beef broth<ref>{{cite web |url=http://grouprecipes.com/83623/basic-all-american-brown-gravy.html/ |title=Basic All-american Brown Gravy Recipe |date=1 Jan 2011 |access-date=12 May 2022 |archive-date=5 November 2022 |archive-url=https://web.archive.org/web/20221105195551/http://www.grouprecipes.com/83623/basic-all-american-brown-gravy.html/ |url-status=live }}</ref>{{failed verification|date\May 2022|date=May 2022}} – is not an appropriate substitute for proper ''sauce brune''.}}
+
+To maintain the texture of the fries, the cheese curds and gravy are added immediately before serving the dish. The hot gravy is usually poured over room-temperature cheese curds, so they are warmed without melting completely.<ref name="SemenakBanquise"/> The thin gravy allows all the fries to be coated.<ref name="OliverTips" /> The serving dish typically has some depth to act as a basket for the fries so that they retain their heat.<ref name="ArmstrongQuebec"/>{{rp|195}} It is important to control the temperature, timing, and the order in which the ingredients are added to obtain the right [[mouthfeel|food textures]]—an essential part of the experience of eating poutine.<ref name="poutinedynamics"/>
+
+Freshness and juiciness of the curds is essential. Air and moisture seep out of the curds over time, altering their acidity level. This causes proteins to lose their elasticity, and the curds to lose their complex texture and characteristic squeaky{{efn
+|name=b
+|Cheese curds are also known as [[squeaky cheese]].<ref name="PostMany"/> The fresher the curds, the louder they squeak when chewed.<ref name=poutinedynamics/><ref name="EdmistonSqueak"/> In ''The Wall Street Journal'', Adam Leith Gollner described chewing fresh curds as "like a rusty doorhinge swinging open between your teeth".<ref name="GollnerBest"/> Those from the Centre-du-Québec region do not consider a poutine authentic if it does not squeak.<ref name="OliverTips" />
+}} sound when chewed.<ref name="EdmistonSqueak" /> The curds should be less than a day old, which requires proximity to a dairy.<ref name="GollnerBest"/> While Montreal is {{convert|60|km}} from a cheese plant in [[Mirabel, Quebec|Mirabel]], restaurants and specialty cheese shops outside of dairy regions may be unable to sell enough curds to justify the expense of daily deliveries. Furthermore, Canadian food safety practices require curds to be refrigerated within 24&nbsp;hours, which suppresses the properties of their texture.<ref name="EdmistonSqueak"/> This has resulted in ''poutineries'' which specialize in the dish; busy poutineries may use {{convert|100|kg}} of curds per day.<ref name="SemenakBanquise"/> Poutineries which are too distant from dairies<!--e.g.: Caribou Poutine in UK--> may make their own cheese curds on site, in batches every few hours, to ensure a fresh and steady supply.<ref name="WoodsTreasure"/>
+
+===<span id="Regional variations"></span>Variations===
+[[File:Poutine.JPG|thumb|Poutine made with thick beef gravy on french-fried potatoes with fresh cheese curds is a style commonly found outside Quebec.|alt=Poutine with a thicker beef gravy]]
+[[File:Pierogi Poutine.jpg|thumb|Polish-inspired poutine with [[pierogi]] instead of French fries]]
+[[File:Lobster poutine.jpg|thumb|Lobster poutine in [[Dartmouth, Nova Scotia]]]]
+
+The texture, temperature and viscosity of poutine's ingredients differ and continuously change as the food is consumed, making it a dish of highly dynamic contrasts<!--, which creates a rich and memorable sensory experience-->. Strengthening these contrasts, superior poutines are identified by the crispiness of the fries, freshness of the curds, and a unifying gravy.<ref name="poutinedynamics" /> Even small variations in ingredients or preparation—the oil used for frying, the origin of the curds, or spices in the gravy—can result in a distinctly different experience of eating the poutine.<ref name="poutinedynamics" />
+
+Some recipes eliminate the cheese, but most [[Québécois people|Québécois]] would call such a dish a {{lang|fr|frite sauce}} ({{langx|en|french fries with gravy}}), not poutine. When curds are unavailable, [[mozzarella]] cheese may be an acceptable alternative.<ref name="OliverTips" /> Shredded mozzarella is commonly used in Saskatchewan.<ref name="SharpGooey" /><!--unsourced Shawinigan and some other regions have ''patate-sauce-choux'' where shredded raw cabbage replaces cheese.{{cn}}--> Sweet potato may be used as a healthier alternative to french fries, adding more dietary fibre and vitamins.<ref name="MichaelPlayful"/>
+
+Poutineries, like Montreal's La Banquise, which is credited for much of the innovation and popularization of poutine, have dozens of varieties of poutine on their menus.<ref name="SemenakBanquise" /> Many of these are based on the traditional recipe with an added meat topping such as sausage, chicken, [[bacon]], [[brisket]], or [[Montreal-style smoked meat]], with the gravy adjusted for balance.<ref name="leaderpost.com">{{cite news |title=Taste Regina: Prairie Poutine – Local chefs create Saskatchewan variations of Quebec-born dish |newspaper=[[The Leader-Post]] |first=CJ |last=Katz |date=18 June 2014 |url=http://www.leaderpost.com/life/Prairie+Poutine/9949266/story.html |access-date=7 December 2017 |url-status=dead |archive-url=https://web.archive.org/web/20140704032422/http://www.leaderpost.com/life/Prairie+Poutine/9949266/story.html |archive-date=4 July 2014 }}</ref> The [[Quebec City]]-based chain [[Chez Ashton]] is known for its poutine Galvaude (topped with chicken and green peas) and Dulton (with ground beef).<ref name="ChavichHaute"/> New variations are frequently introduced. Pulled pork was popular around 2013, followed a couple years later by Asian-fusion poutines.<ref name="HaldaneWeek"/>
+
+Montreal's high immigrant population<ref name="SongParis"/> has led to many takes on the dish inspired by other cuisines, such as Haitian, Mexican, Portuguese,<ref name="HaldaneWeek"/> Indian, Japanese,<ref name="GollnerBest"/> Greek, Italian<ref name="LauAppropriating"/> and Lebanese.<ref>{{Cite web |title=The 11 Best Under-the-Radar Poutine Spots in Montreal |url=https://www.thrillist.com/eat/montreal/best-under-the-radar-poutine-in-montreal |access-date=2022-12-16 |website=Thrillist |date=July 2015|archive-date=16 December 2022 |archive-url=https://web.archive.org/web/20221216125316/https://www.thrillist.com/eat/montreal/best-under-the-radar-poutine-in-montreal |url-status=live }}</ref> These poutines may bear little resemblance to the traditional recipe. They replace some or all of the ingredients but maintain the dynamic contrasts of textures and temperatures with a crispy element, a dairy or dairy-like element, and a unifying sauce.<ref name="poutinedynamics" /> Many variations on the original recipe are popular, leading some to suggest that poutine has emerged as a new dish classification in its own right, as with [[sandwich]]es, [[dumpling]]s, [[soup]]s, and [[flatbread]]s.<ref name="poutinedynamics"/>
+
+Poutineries will frequently offer limited-time promotional specials, such as a Thanksgiving poutine with turkey, stuffing and cranberry sauce.<ref name="WatsonRest"/> In anticipation of the legalization of cannabis in Canada, Montreal's Le Gras Dur served a "pot poutine" with a gravy that included hemp protein, hemp seeds and hemp oil, offered with a joint-like roll of turkey, wild mushrooms and arugula.<ref name="RudinPot" />
+
+Gourmet poutine with three-pepper sauce, [[merguez sausage]], [[foie gras]]<ref>{{cite news |first=Christopher |last=Koentges |title=How To Make Poutine 2.0: Gravy Hacks, Cheese Curd Modification |date=4 October 2012 |url=http://veryethnic.wordpress.com/2012/10/04/how-to-make-poutine-2-0-gravy-hacks-cheese-curd-modification/ |work=Very Ethnic |access-date=5 August 2013 |archive-url=https://web.archive.org/web/20130901193836/http://veryethnic.wordpress.com/2012/10/04/how-to-make-poutine-2-0-gravy-hacks-cheese-curd-modification/ |archive-date=1 September 2013 |url-status=dead  }}</ref> or [[caviar]] and [[truffle]] can be found. This is a trend that began in the 1990s and is credited to David McMillan of Montreal's [[Joe Beef (restaurant)|Joe Beef]] and Globe restaurants.<ref name="HarrisonRise"/><ref name="KraussPride"/> Savoury sauces like Moroccan harissa, lobster sauce, and red-wine veal ''[[au jus|jus]]'' have been used to complement artisanal cheeses and rich ingredients.<ref name="ChavichHaute"/>
+
+Chains such as [[Smoke's Poutinerie]],<ref name="CNWSmoke"/><!--press release, primary source--> [[New York Fries]],<ref>{{cite news|url=https://online.wsj.com/article/PR-CO-20130704-905739.html|title=New York Fries Announces Expansion into Turkey|last=Ouellette|first=Jennifer|date=4 July 2013|work=The Wall Street Journal|access-date=5 August 2013|archive-url=https://web.archive.org/web/20131029185715/http://online.wsj.com/article/PR-CO-20130704-905739.html|archive-date=29 October 2013|url-status=live}}</ref> McDonald's,<ref name="DayStand"/><ref name="HenryMcDonald"/> [[Wendy's]],<ref>{{cite web|url=https://menu.wendys.com/en_CA/product/poutine/|title=Poutine Fries To Go Near You|access-date=5 December 2017|archive-url=https://web.archive.org/web/20171206074619/https://menu.wendys.com/en_CA/product/poutine/|archive-date=6 December 2017|url-status=live}}</ref> [[A&W (Canada)|A&W]],<ref>{{cite web|url=https://web.aw.ca/en/our-menu/sides/poutine|title=Poutine|publisher=[[A&W (Canada)|A&W Trade Marks]]|access-date=5 December 2017|archive-url=https://web.archive.org/web/20171206135817/https://web.aw.ca/en/our-menu/sides/poutine|archive-date=6 December 2017|url-status=live}}</ref> [[KFC]],<ref name="TaylorKFC" /><ref>{{cite web|url=http://kfc.ca/menu/Menu.aspx?menu=Sides|title=Signature Sides|publisher=KFC|access-date=5 August 2013|archive-url=https://web.archive.org/web/20130805020141/http://www.kfc.ca/menu/Menu.aspx?menu=Sides|archive-date=5 August 2013|url-status=live}}</ref> Burger King,<ref>{{cite web|url=http://www.burgerking.ca/en/1158/index.php?buildid=42|title=Our menu—Poutine|publisher=[[Burger King]]|archive-url=https://web.archive.org/web/20070406065842/http://www.burgerking.ca/en/1158/index.php?buildid=42|archive-date=6 April 2007|url-status=dead|access-date=19 May 2008}}</ref><ref name="LauxUltimate"/> Harvey's,<ref>{{cite web|url=http://harveys.ca/eng/sides.php|title=Menu|publisher=[[Harvey's]]|access-date=15 June 2014|archive-url=https://web.archive.org/web/20140301205235/http://harveys.ca/eng/sides.php|archive-date=1 March 2014|url-status=dead}}</ref><ref name="HenryMcDonald"/> [[Mary Brown's]],<ref name="TaylorMary"/><ref>{{cite web|url=https://marybrowns.com/ontario-menu|title=Ontario Menu|website=Mary Brown's Famous Chicken & Taters|access-date=9 July 2017|archive-url=https://web.archive.org/web/20170719042804/https://marybrowns.com/ontario-menu|archive-date=19 July 2017|url-status=dead}}</ref> [[Arby's]],<ref name="RoseArby" /> and [[Wahlburgers]] restaurants also sell versions of poutine in Quebec and the rest of Canada (although not always country-wide).<ref>{{cite web|url=https://nationalpost.com/appetizer/mcdonalds-poutine-is-back-on-menus-across-canada-garnering-cheers-disbelief-from-lovers-of-the-quebec-dish|title=Vive le McPoutine libre: McDonald's re-introduces fries, gravy and cheese curds dish on menus across Canada &#124; National Post|date=3 December 2013|publisher=NationalPost.com|archive-url=https://archive.today/20131203221450/http://life.nationalpost.com/2013/12/03/mcdonalds-poutine-is-back-on-menus-across-canada-garnering-cheers-disbelief-from-lovers-of-the-quebec-dish/|archive-date=3 December 2013|url-status=live|access-date=15 June 2014}}</ref> [[Tim Hortons]] began selling poutine in 2018.<ref name="KeithHortons" /> Fast-food combination meals in Canada often have the options to have french fries "poutinized" by adding cheese curds and gravy, or substituting a poutine for a fries side.<ref>{{Cite web|url=https://www.canadianbusiness.com/blogs-and-comment/is-mcdonalds-new-poutine-any-good-peter-nowak-investigates/|title=Is McDonald's new poutine any good? Peter Nowak investigates|website=canadianbusiness.com|date=5 December 2013 |access-date=1 July 2019|archive-url=https://web.archive.org/web/20190701072512/https://www.canadianbusiness.com/blogs-and-comment/is-mcdonalds-new-poutine-any-good-peter-nowak-investigates/|archive-date=1 July 2019|url-status=live}}</ref>
+
+===Internationally===
+Poutine is found in the northern border regions of the United States, including [[New England]] and the larger [[Northeastern United States|Northeast]], the [[Pacific Northwest]], and the [[Upper Midwest]].<ref name="KleinRaising"/> These regions offer further variations of the basic dish, usually by utilizing cheeses other than fresh curds, which are not widely available in the US. In the country culture, a mixed fry can also come with cooked [[ground beef]] on top and is referred to as a hamburger mix, though this is less popular than a regular mix.<ref name="SternGood"/><ref name="OliverTips" /> In the Pacific Northwest, one variation replaces the gravy with [[chowder]] featuring local seafood.<ref>{{cite news |last1=Jackson-Glidden |first1=Brooke |title=There's a New Spot for Pacific Northwestern Fish and Chips on East Burnside |url=https://pdx.eater.com/2020/8/17/21372262/rock-paper-fish-portland-opening |access-date=24 September 2020 |work=Eater Portland |date=17 August 2020|archive-date=15 November 2020 |archive-url=https://web.archive.org/web/20201115173137/https://pdx.eater.com/2020/8/17/21372262/rock-paper-fish-portland-opening |url-status=live }}</ref><ref>{{cite news |last1=Tomky |first1=Naomi |title=Why Chowder Fries Could Be the Signature Dish Seattle's Been Waiting For |url=https://www.thrillist.com/eat/seattle/seattle-chowder-fries |access-date=24 September 2020 |work=Thrillist |date=28 March 2018 |archive-date=19 October 2020 |archive-url=https://web.archive.org/web/20201019204045/https://www.thrillist.com/eat/seattle/seattle-chowder-fries |url-status=live }}</ref>
+
+[[Disco fries]], french fries typically covered in [[mozzarella]] cheese and brown gravy, were popularized in New Jersey in the 1990s.<ref name="SantanaDisco"/> They gained their name in the 1970s for being a favourite of late-night diners, who often came from dancing at [[Nightclub|disco clubs]].<ref name="LazorDrunk"/> The dish is also popular in [[New Orleans]]<ref>{{cite news | last =Langenhennig | first =Susan | title =New Orleans chefs play around with poutine | newspaper =[[The Times-Picayune/The New Orleans Advocate]] | location = | pages = | language = | publisher = | date =26 November 2012 | url =https://www.nola.com/entertainment_life/eat-drink/article_03c3c0d9-c7c5-5a5d-ac2c-157d7d5ec4ac.html | access-date =10 April 2021 | archive-date =11 April 2021 | archive-url =https://web.archive.org/web/20210411051322/https://www.nola.com/entertainment_life/eat-drink/article_03c3c0d9-c7c5-5a5d-ac2c-157d7d5ec4ac.html | url-status =live }}</ref> including variations called Cajun poutine.
+
+Poutine spread to the United Kingdom, Korea and Russia, where it has been referred to as "Raspoutine".<ref name="CDNE"/> The first poutinerie in Paris, La Maison de la Poutine, opened in 2017 and quickly gained attention from mainstream media and gastronomers.<ref name="SongParis" />
+
+A similar dish known as chips, cheese and gravy, consisting of thick-cut chips covered in shredded Manx [[Cheddar cheese]] and topped with a thick beef gravy, is popular in the [[Isle of Man]].<ref>{{Cite web|url=http://www.isleofman.com/en-gb/Tourism/FactFile/dailylife.aspx|archiveurl=https://web.archive.org/web/20100129075252/http://www.isleofman.com/en-gb/Tourism/FactFile/dailylife.aspx|url-status=dead|title=isleofman.com &#124; Tourism &#124; Daily Life|archivedate=29 January 2010|website=www.isleofman.com}}</ref><ref>{{cite news |author=<!--no byline--> |date=January 29, 2018 |url=https://www.bbc.com/news/world-europe-isle-of-man-42858274 |title=National Chips, Cheese & Gravy Day Proposed on Isle of Man |work=BBC |access-date=October 21, 2024}}</ref>
+
+==Cultural aspects==
+A cultural marker, poutine had long been Quebec's adored junk food before spreading across the rest of Canada and the United States.<ref name="poutinedynamics" /><ref name="BlitzVive" /><ref>{{cite web |title=Vive la Poutine |work=Gastropost |publisher=[[National Post]] |url=http://gastropost.nationalpost.com/vivelapoutine |access-date=5 February 2015 |archive-url=https://web.archive.org/web/20150205032140/http://gastropost.nationalpost.com/vivelapoutine |archive-date=5 February 2015 |url-status=dead  }}</ref> It had by then made inroads with food critics and established culinary circles, challenging its junk food status.<ref name="poutinedynamics" /> Food critic [[Jacob Richler]] noted in 2012 that Canadian dishes are too similar to their European roots to be considered original, with the exception of poutine, which he credited as the country's most famous culinary creation.<ref name="RichlerIncludes"/> In May 2014, the word "poutine" was added to the ''Merriam-Webster Dictionary'' of the English language.<ref name="foodrepublic.com"/>
+
+In 2007, the [[Canadian Broadcasting Corporation]] declared the results of an online survey on the [[The Greatest Canadian Invention|greatest Canadian inventions]], in which poutine ranked at {{abbr|No.|number}}&nbsp;10.<ref name="SekulesStaple"/> ''[[Maclean's]]'' 2017 survey of "favourite iconic Canadian food" placed poutine first with 21% of respondents, ahead of maple syrup with 14%.<ref name="JehaHistory" /> By 2011, media outlets were reporting 11&nbsp;April as National Poutine Day.<ref name="BallaDay" /><ref name="JehaHistory"/><ref name="CiotoliDay"/>
+
+[[File:Canada Day Trafalgar Square poutine.jpg|thumb|A poutine stand sign styled as the [[Flag of Canada]] during [[Canada Day]] celebrations in [[Trafalgar Square]]]]
+In March 2016, poutine was served at the White House during the first state dinner hosted by President [[Barack Obama]] and Canada's Prime Minister [[Justin Trudeau]].<ref name="SietsemaState"/> Poutine has been a highlight of [[Canada Day]] celebrations in Trafalgar Square in London, England, for several years<!--drawing a crowd of about 100k people-->,<ref name="PerreauxCanada"/> and was a [[comfort food]] for the local community after the 2013 [[Lac-Mégantic rail disaster]].<ref name="LoriggioMegantic"/> It was served at the [[1st Canadian Comedy Awards|inaugural Canadian Comedy Awards]].<ref name="Niester2000">
+{{cite web
+|url=https://www.theglobeandmail.com/news/national/a-night-for-the-groucho-glasses/article1038491/
+|title=A night for the Groucho glasses
+|work=The Globe and Mail
+|publisher=The Globe and Mail Inc.
+|location=Toronto
+|first=Alan
+|last=Niester
+|date=7 April 2000
+|access-date=23 May 2018
+|url-status=live
+|archive-url=https://archive.today/20180802143723/https://www.theglobeandmail.com/news/national/a-night-for-the-groucho-glasses/article1038491/
+|archive-date=2 August 2018
+}}
+</ref>
+
+The first poutine festival was held in Warwick, Quebec, in 1993. This annual event expanded to become the largest cheese festival in Canada.<ref name="VermaSticky"/> In 2014, it was moved to the larger town of [[Victoriaville]].<ref>{{Cite news|url=http://www.laterre.ca/actualites/le-festival-de-fromages-de-warwick-demenagerait-a-victoriaville.php|title=Le Festival de fromages de Warwick déménagerait à Victoriaville… {{!}} La Terre de Chez Nous|date=25 September 2014|newspaper=La Terre de Chez Nous|language=fr-FR|access-date=23 January 2017|archive-url=https://web.archive.org/web/20170202004300/http://www.laterre.ca/actualites/le-festival-de-fromages-de-warwick-demenagerait-a-victoriaville.php|archive-date=2 February 2017|url-status=live}}</ref> Montreal has hosted [[La Poutine Week]], an annual festival, food tour, and competition held 1–7&nbsp;February, since 2013.<ref name="GazetteWeek" /><ref>{{cite news |title=Creative chefs offer take on fries, curds and gravy during La Poutine Week |work=Metro News |date=31 January 2015 |url=http://metronews.ca/food/1272370/creative-chefs-offer-take-on-fries-curds-and-gravy-during-la-poutine-week/ |access-date=1 February 2015 |archive-url=https://web.archive.org/web/20150531225327/http://metronews.ca/food/1272370/creative-chefs-offer-take-on-fries-curds-and-gravy-during-la-poutine-week/ |archive-date=31 May 2015 |url-status=dead }}</ref><ref name="HaldaneWeek" /> It spread across Canada and internationally, and by 2021 had become the largest poutine festival in the world, with over 700 restaurants serving more than 350,000 poutines.<ref name="DemontisLifeline2021"/><ref name="Suburban2021"/><ref name="HumDelivery2021"/> Le Grand Poutinefest is a poutine festival founded in 2015 which tours cities and towns in Quebec, operating most weekends from April to September.{{r|"Chaar2024"|"Renfrew2023"|"Sciola2022"}} Poutine festivals are also held in Drummondville (since 2008),<ref name="JohnstonInventor" /><ref name="GazetteDrummondvilleFestival" /><ref name="LeaderDrummondville" /> Ottawa-Gatineau,<ref name="poutinedynamics" /> Toronto,<ref name="JehaHistory"/> Calgary,<ref>{{cite web|url=http://www.calgarypoutine.com/|title=Victoria Poutine Week Oct 16–22|website=Poutine with purpose|access-date=28 September 2016|archive-url=https://web.archive.org/web/20161002064910/http://www.calgarypoutine.com/|archive-date=2 October 2016|url-status=live}}</ref> Vancouver,<ref>{{Cite web |url=https://www.vancouverisawesome.com/2019/01/11/la-poutine-week-vancouver-bc-2019/ |title=La Poutine Week B.C. Offers a solid 7 days of poutine indulgence |access-date=12 January 2019 |archive-url=https://web.archive.org/web/20190112095102/https://www.vancouverisawesome.com/2019/01/11/la-poutine-week-vancouver-bc-2019/ |archive-date=12 January 2019 |url-status=live  |date=11 January 2019 }}</ref> Moncton,<ref name="SeeleyMoncton2025" /> Quebec City and Sherbrooke.<ref>{{cite web |url=http://lapoutineweek.com/ |title=Official #LaPoutineWeek – Semaine de La Poutine Week 2014 |publisher=LapoutineWeek.com |access-date=15 June 2014 |archive-url=https://web.archive.org/web/20140612172542/http://lapoutineweek.com/ |archive-date=12 June 2014 |url-status=live  }}</ref>  In the US, major festivals have been held in Chicago, Illinois,<ref name="GollnerBest"/><ref name="KnightFest"/> Manchester, New Hampshire,<ref>{{Cite web |url=http://www.nhpoutinefest.com/ |title=NH PoutineFest |access-date=21 September 2017 |archive-url=https://web.archive.org/web/20160326104410/http://www.nhpoutinefest.com/ |archive-date=26 March 2016 |url-status=live  }}</ref> Knoxville, Tennessee, Portland, Maine,<ref>{{cite web |title=Maine PoutineFest |url=https://www.poutinefest.com/maine |website=PoutineFest |access-date=24 September 2025}}</ref> Burlington, Vermont,<ref>{{cite web |title=Vermont |url=https://www.poutinefest.com/vermont |website=PoutineFest |access-date=24 September 2025}}</ref> and in Rhode Island.<ref name="foodrepublic.com"/><ref name="BrobeckKnoxville"/><ref name="RhodeIsland"/>
+
+[[File:JoeyChestnutPoutine.jpg|thumb|[[Joey Chestnut]] holds the trophy at the 2012 World Poutine Eating Championship in Toronto.]]
+Since 2010, the [[International Federation of Competitive Eating]] (IFCE) has held a world poutine-eating championship sponsored by Toronto-based chain [[Smoke's Poutinerie]]. There was criticism that the inaugural contest was held outside of Quebec and excluded Québécois. The IFCE stated that Montreal poutineries had not expressed any interest in holding the competition. Regulations for contests in Quebec make it difficult to include the province, which is often absent from national contests.<ref name="SchwartzContest"/> Smoke's has since sponsored a cross-Canada poutine eating tour.<ref>{{Cite news |url=http://www.cbc.ca/newsblogs/yourcommunity/2014/10/world-poutine-eating-championship-crowns-an-american-winner-canadians-heartbroken.html |title=American wins world poutine eating championship, Canadians heartbroken |last=O'Neil |first=Lauren |date=6 October 2014 |work=[[CBC News]] |access-date=27 July 2015 |archive-url=https://web.archive.org/web/20151111122512/http://www.cbc.ca/newsblogs/yourcommunity/2014/10/world-poutine-eating-championship-crowns-an-american-winner-canadians-heartbroken.html |archive-date=11 November 2015 |url-status=live}}</ref> In 2011, chef [[Chuck Hughes (chef)|Chuck Hughes]] won on ''[[Iron Chef America]]'' (episode 2 of [[List of Iron Chef America episodes#Season 9: 2010-2011|season 9]]) by beating [[Bobby Flay]] with a plate of lobster poutine.<ref name="CBCIron"/>
+
+[[Jones Soda]] Co., an originally Canadian company now based in the US, created a poutine-flavoured limited-edition soft drink in 2013, which received international [[popular culture|pop culture]] attention.<ref name="SibonneySoda"/> Bacon-poutine was one of four flavours selected as a finalist in the 2014 [[Lay's]] Canada Do Us A Flavour potato chip contest.<ref name="LaysFinalists"/><!--primary source, press release--> Though it did not win,<ref>{{cite news |title=Calgary man wins potato chip contest with 'Jalapeno Mac N' Cheese' flavour |url=https://www.ctvnews.ca/lifestyle/article/calgary-man-wins-potato-chip-contest-with-jalapeno-mac-n-cheese-flavour/ |access-date=3 November 2014 |date=21 October 2014 |archive-url=https://web.archive.org/web/20141029022641/http://www.ctvnews.ca/lifestyle/calgary-man-wins-potato-chip-contest-with-jalapeno-mac-n-cheese-flavour-1.2063290 |archive-date=29 October 2014 |url-status=live  }}</ref> Lay's later added a bacon-poutine variety in its Canada entry for the World Flavourites.<ref name="KwanLays"/> Loblaws' [[President's Choice]] and [[Ruffles (potato chips)|Ruffles]] brands also offer poutine-flavoured potato chips in Canada.<ref>{{cite web |title=PC World of Flavours Poutine Flavour Rippled Potato Chips |publisher=Loblaw Companies Limited |url=http://www.presidentschoice.ca/en_CA/products/productlisting/pc-world-of-flavours-poutine-flavour-rippled-potato-chips12.html |access-date=11 July 2015 |archive-url=https://web.archive.org/web/20150712210040/http://www.presidentschoice.ca/en_CA/products/productlisting/pc-world-of-flavours-poutine-flavour-rippled-potato-chips12.html |archive-date=12 July 2015 |url-status=live  }}</ref>
+Giapos Ice Cream of New Zealand has served a "poutine ice cream" of [[oolong]] [[matcha]] tea, ice cream and caramel sauce over hand-cut fries since 2017.<ref name="RudinIcecream" /> 
+In a 2018 promotional campaign for the film ''[[Crazy Rich Asians (film)|Crazy Rich Asians]]'', "the world's richest poutine" was created with [[wagyu]] steak, lobster, truffles, shiitake and chanterelle mushrooms, edible orchids, and gold flakes, priced just under $450.<ref name="RudinRichest" />
+
+[[Joel Edmundson]], of the 2018–19 [[National Hockey League]] [[2018–19 St. Louis Blues season|champion team]] [[St. Louis Blues]], ate poutine from the [[Stanley Cup]] during celebrations attended by over 4,000 fans in his hometown of [[Brandon, Manitoba]].<ref name="KhanBrandon"/><ref name="ThompsonBrandon"/><ref name="CrabbBrandon"/> [[Mathieu Joseph]], a [[Chambly, Quebec]], native who won the Cup with the [[Tampa Bay Lightning]] in [[2019–20 Tampa Bay Lightning season|2020]] and [[2020–21 Tampa Bay Lightning season|2021]], also ate poutine from the Cup during a celebration with the Cup in 2021.<ref>{{Cite web|last=Laframboise|first=Kalina|date=16 August 2021|title=Say cheese! Lightning forward Mathieu Joseph eats poutine out of Stanley Cup {{!}} Globalnews.ca|url=https://globalnews.ca/news/8115286/tampa-joseph-poutine-stanley-cup/|access-date=18 August 2021|website=Global News|archive-date=17 August 2021|archive-url=https://web.archive.org/web/20210817234615/https://globalnews.ca/news/8115286/tampa-joseph-poutine-stanley-cup/|url-status=live}}</ref>
+
+==Nutrition==
+
+Health advocates have been critical of poutine since the 1980s.<ref name="WoodsTreasure"/> In a 2013 study of Canadian restaurants, poutine was found to have the second-highest [[sodium in biology|sodium]] (1547&nbsp;mg average and as high as 2227&nbsp;mg) among single meal items, after stir-fry entrées.<ref name="Scourboutakos2013" />
+
+==Social mobility and appropriation==
+The social status of poutine has evolved dramatically since its origins in rural Quebec in the 1950s. The dish was long mocked as a culinary invention and used as a means of stigmatization by non-Québécois against Quebec society to reduce its legitimacy.<ref name="mauditepoutine"/>{{rp|74–109}}<ref name="poutinedynamics" /> While the first generations that suffered from the poutine stigma opted to disidentify from the dish, younger people in Quebec began to reappropriate poutine as a symbol of Quebecois cultural pride.<ref name="poutinedynamics" /><ref name="mauditepoutine"/>{{rp|74–109}} Today, the dish is celebrated in many annual poutine festivals in Quebec,<ref>{{Cite news|url=http://festivaldelapoutine.com/|title=Accueil – Half Moon Run, Les Trois Accords, Alex Nevsky, Les Soeurs Boulay, Fred Fortin, Kevin Parent|work=Festival de la poutine de Drummondville|access-date=22 September 2017|language=fr-FR|archive-url=https://web.archive.org/web/20170929230232/http://festivaldelapoutine.com/|archive-date=29 September 2017|url-status=live}}</ref><ref>{{cite web|url=http://www.lapoutineweek.com/|title=Découvrez des poutines incroyables! – La Poutine Week|website=lapoutineweek.com|language=fr|access-date=22 September 2017|archive-url=https://web.archive.org/web/20170924175113/http://lapoutineweek.com/|archive-date=24 September 2017|url-status=live}}</ref> the rest of Canada,<ref>{{cite web|url=http://smokespoutinerie.com/wpec/|title=World Poutine Eating Championship – Smoke's Poutinerie|website=smokespoutinerie.com|access-date=22 September 2017|archive-url=https://web.archive.org/web/20170922051937/http://smokespoutinerie.com/wpec/|archive-date=22 September 2017|url-status=live}}</ref><ref>{{cite web|url=http://ottawapoutinefest.ca/|title=Ottawa PoutineFest|website=ottawapoutinefest.ca|access-date=22 September 2017|archive-url=https://web.archive.org/web/20170914002239/http://ottawapoutinefest.ca/|archive-date=14 September 2017|url-status=live}}</ref> and in the United States.<ref>{{cite web|url=http://www.nhpoutinefest.com/|title=NH PoutineFest 2017 – Live Free and Eat Poutine!|website=nhpoutinefest.com|access-date=22 September 2017|archive-url=https://web.archive.org/web/20160326104410/http://www.nhpoutinefest.com/|archive-date=26 March 2016|url-status=live}}</ref><ref name="KnightFest"/>
+
+The evolution of the different symbols associated with poutine was first studied in ''Maudite Poutine!'' by Charles-Alexandre Théorêt.<ref name="mauditepoutine"/> Théorêt revisited many of these stigmas in an interview given at [[Tout le monde en parle (Quebec)|''Tout le monde en parle'']] on 11 November 2007.<ref>{{cite web|url=https://www.youtube.com/watch?v=zhpet1t4y2U|title=Maudite poutine (partie 1 de 2)|last=mapoutineca|date=12 March 2010|via=YouTube|access-date=22 September 2017|archive-url=https://web.archive.org/web/20190104225444/https://www.youtube.com/watch?v=zhpet1t4y2U|archive-date=4 January 2019|url-status=live}}</ref>
+
+As poutine gained popularity beyond the provincial borders of Quebec in the mid-2000s, the dish gradually stopped being mocked and was eventually introduced into the popular discourse as a symbol of Canadian identity.<ref name="poutinedynamics" /> Today, the dish is often presented as being a part of Canadian cuisine, even as Canada's national dish.<ref name="poutinedynamics" /> Nicolas Fabien-Ouellet suggested in the peer-reviewed journal ''CuiZine'' that this "Canadization" of poutine constitutes [[cultural appropriation]].<ref name="poutinedynamics" /><ref name="CharleboisPoutine"/><ref>{{Cite news|url=https://poutinepundit.wordpress.com/faq/|title=*FAQ*|date=3 December 2009|work=The Poutine Pundit|access-date=1 October 2017|archive-url=https://web.archive.org/web/20170923002256/https://poutinepundit.wordpress.com/faq/|archive-date=23 September 2017|url-status=live}}</ref><ref name="ForsterStealing"/>{{efn|Fabien-Ouellet has given many talks about the Canadianization and cultural appropriation of poutine, notably in ''[[The New York Times]]'',<ref>{{cite web|title=Culture War Over Beloved Dish Grips Quebec|author=Dan Bilefsky|pages=A4|date=20 December 2017|work=The New York Times|url=https://www.nytimes.com/2017/12/19/todayspaper/quotation-of-the-day-culture-war-over-poutine-grips-quebec.html|access-date=22 November 2020|archive-date=22 September 2020|archive-url=https://web.archive.org/web/20200922025127/https://www.nytimes.com/2017/12/19/todayspaper/quotation-of-the-day-culture-war-over-poutine-grips-quebec.html|url-status=live}}</ref> ''[[National Post]]'',<ref>{{cite news|title=The dark side of poutine: Canada taking credit for Quebec dish amounts to cultural appropriation, academic says|newspaper=National Post|url=https://nationalpost.com/news/canada/the-dark-side-of-poutine-canada-taking-credit-for-quebec-dish-amounts-to-cultural-appropriation-academic-says|date=28 May 2017|access-date=19 September 2017|last1=Edmiston|first1=Jake|archive-date=17 October 2023|archive-url=https://web.archive.org/web/20231017191842/https://nationalpost.com/news/canada/the-dark-side-of-poutine-canada-taking-credit-for-quebec-dish-amounts-to-cultural-appropriation-academic-says|url-status=live}}</ref> ''[[Vice (magazine)|Vice]]'',<ref>{{cite web|title=Poutine politique : frites, sauce, fromage avec appropriation culturelle en accompagnement|work=Vice |date=31 May 2017|url=https://www.vice.com/fr/article/poutine-politique-frites-sauce-fromage-avec-appropriation-culturelle-en-accompagnement/|agency=[[Vice (magazine)|Vice]]|language=fr-ca|access-date=19 September 2017|archive-date=25 September 2017|archive-url=https://web.archive.org/web/20170925231444/https://www.vice.com/fr_ca/article/wjqeyy/poutine-politique-frites-sauce-fromage-avec-appropriation-culturelle-en-accompagnement|url-status=live}}</ref> [[Société Radio-Canada|Radio-Canada]],<ref>{{cite web|title=La poutine, symbole d'appropriation culturelle canadienne ? {{!}} Gravel le matin|url=http://ici.radio-canada.ca/premiere/emissions/gravel-le-matin/segments/entrevue/25735/poutine-appropriation-canada-quebec?isAutoPlay=1|language=fr-ca|date=30 May 2017|access-date=19 September 2017|archive-date=23 September 2017|archive-url=https://web.archive.org/web/20170923031255/http://ici.radio-canada.ca/premiere/emissions/gravel-le-matin/segments/entrevue/25735/poutine-appropriation-canada-quebec?isAutoPlay=1|url-status=live}}</ref><ref>{{cite web|title=Poutine et appropriation culturelle : débat enflammé… et délicieux|url=http://ici.radio-canada.ca/nouvelle/1037956/appropriation-culturelle-culinaire|last=Lizotte|first=Cédric|website=Radio-Canada.ca|language=fr-ca|date=6 June 2017|access-date=19 September 2017|archive-date=23 September 2017|archive-url=https://web.archive.org/web/20170923003117/http://ici.radio-canada.ca/nouvelle/1037956/appropriation-culturelle-culinaire|url-status=live}}</ref> [[Global News: BC 1]],<ref>{{cite web|title=Canada is culturally appropriating poutine from Quebec: academic|url=http://globalnews.ca/news/3491972/canada-is-culturally-appropriating-poutine-from-quebec-academic/|author=Rachel Lau|date=1 June 2017|access-date=19 September 2017|archive-date=3 June 2017|archive-url=https://archive.today/20170603124457/http://globalnews.ca/news/3491972/canada-is-culturally-appropriating-poutine-from-quebec-academic/|url-status=live}}</ref> {{nobr|CHOI 98.1}} {{nobr|Radio X}},<ref>{{cite web|title=Est-ce que les MÉCHANTS canadiens se sont approprié la poutine ?!!|url=https://radiox.com/contenu/est-ce-que-les-m%C3%A9chants-canadiens-se-sont-appropri%C3%A9-la-poutine|language=fr-CA|date=30 May 2017|access-date=19 September 2017|archive-date=18 July 2017|archive-url=https://web.archive.org/web/20170718192255/https://radiox.com/contenu/est-ce-que-les-m%C3%A9chants-canadiens-se-sont-appropri%C3%A9-la-poutine|url-status=dead}}</ref> {{nobr|ENERGIE 98.9}},<ref>{{cite web|title=Nicolas Fabien Ouellet 'La Poutine'|url=https://soundcloud.com/commission-gendron/nicolas-fabien-ouellet-la-poutine|author=La commission Gendron|agency={{nobr|ENERGIE 98.9}}|language=fr|access-date=19 September 2017|archive-date=14 January 2022|archive-url=https://web.archive.org/web/20220114201745/https://soundcloud.com/commission-gendron/nicolas-fabien-ouellet-la-poutine|url-status=dead}}</ref> [[Vermont Public Radio]],<ref>{{cite web|title=UVM Student Examines Cultural Appropriation Of Poutine|url=http://digital.vpr.net/post/uvm-student-examines-cultural-appropriation-poutine#stream/0|last=Lindholm|first=Jane|author-link=Jane Lindholm|date=6 June 2017|access-date=19 September 2017|archive-date=23 September 2017|archive-url=https://web.archive.org/web/20170923050700/http://digital.vpr.net/post/uvm-student-examines-cultural-appropriation-poutine#stream/0|url-status=live}}</ref> ''[[HuffPost]]'',<ref>{{cite news |url=https://www.huffpost.com/archive/qc/entry/la-poutine-est-victime-dappropriation-culturelle-au-canada-angl_n_16870902 |title=La poutine est victime d'appropriation culturelle au Canada anglais, affirme un chercheur | trans-title=Poutine is a victim of cultural appropriation in English Canada, says researcher | work=[[HuffPost]] | language=fr-CA |date=29 May 2017 |archive-date=25 September 2017|archive-url=https://web.archive.org/web/20170925181337/http://quebec.huffingtonpost.ca/2017/05/29/la-poutine-est-victime-dappropriation-culturelle-affirme-un-chercheur_n_16870902.html|url-status=live}}</ref> ''[[La Presse]]'',<ref>{{cite web|title=Le Canada s'est-il approprié la poutine du Québec ? {{!}} Ian Bussières {{!}} Société|url=http://www.lapresse.ca/le-soleil/actualites/societe/201705/29/01-5102451-le-canada-sest-il-approprie-la-poutine-du-quebec.php|language=fr-CA|date=29 May 2017|access-date=19 September 2017|archive-date=25 September 2017|archive-url=https://web.archive.org/web/20170925225753/http://www.lapresse.ca/le-soleil/actualites/societe/201705/29/01-5102451-le-canada-sest-il-approprie-la-poutine-du-quebec.php|url-status=dead}}</ref> and ''[[Le Journal de Montréal]]''.<ref>{{cite web|title=Le Canada accusé de s'approprier la poutine|url=http://www.journaldemontreal.com/2017/05/29/le-canada-accuse-de-sapproprier-la-poutine|last=Lacroix|first=Antoine|language=fr-CA|date=29 May 2017|access-date=19 September 2017|archive-date=25 September 2017|archive-url=https://web.archive.org/web/20170925185903/http://www.journaldemontreal.com/2017/05/29/le-canada-accuse-de-sapproprier-la-poutine|url-status=live}}</ref>}} This appropriation is not linked to its preparation or consumption outside Quebec, but strictly to its presentation as a Canadian dish instead of a Québécois dish.<ref name="poutinedynamics" /><ref name="ButterfieldAppropriation" /><ref name="LauAppropriating" /><ref name="DeSoucey2020" /> Fabien-Ouellet explains:
+
+{{blockquote|as soon as a Quebec cultural trait begins to be appreciated internationally, it begins to be identified as typically Canadian, this prevents Quebec culture from shining, and becomes part of absorption and assimilation processes. All this is reminiscent of the reasons why [[Cajun cuisine]] is differentiated in the US context.<ref>{{cite news |url=https://www.huffpost.com/archive/qc/entry/appropriation-culturelle-de-la-poutine-reponse-de-lauteur_b_16969436 |title=Appropriation culturelle de la poutine : réponse de l'auteur | trans-title=Cultural Appropriation of Poutine: Author's Response | author=Nicolas Fabien-Ouellet | work=[[HuffPost]] | language=fr |date=6 June 2017 |archive-date=25 September 2017 |archive-url=https://web.archive.org/web/20170925181101/http://quebec.huffingtonpost.ca/nicolas-fabien-ouellet/appropriation-culturelle-poutine_b_16969436.html|url-status=live}}</ref>}}
+
+==In politics==
+In a ''[[Talking to Americans]]'' segment on the Canadian mock television news show ''[[This Hour Has 22 Minutes]]'', during the [[2000 United States presidential election|2000 US election]], comedian [[Rick Mercer]] posed as a reporter and asked US politicians what they thought of "Prime Minister Jean Poutine" and his endorsement of [[George W. Bush]] for president. (The Prime Minister of Canada at the time was [[Jean Chrétien]].) None of the interviewees noticed the insertion of "Poutine" and Bush pledged to "work closely" with Mr. Poutine.<ref name="SekulesStaple"/><ref name="TrillinFunny"/><ref name="CBCPrank"/> A few years later, when Bush made his first official visit to Canada as president, he joked in a speech, "There's a prominent citizen who endorsed me in the 2000 election, and I wanted a chance to finally thank him <!--for that endorsement.-->[...] I was hoping to meet Jean Poutine." The remark was met with laughter and applause.<ref name="WhiteHouse2004"/>
+
+[[File:Wikimania 2017 Vladimir Poutine restaurant.jpg|thumb|right|Signage outside Montreal's Vladimir Poutine restaurant<!--photo from Wikimania 2017-->]]
+In French, Russian president [[Vladimir Putin]]'s surname is spelled "Poutine", with the two having identical pronunciation.<ref name="MarquisRussia" /><ref name="BilefskyVlad" /> The similarity has been a source of confusion; in commenting on the ''Talking to Americans'' prank on Bush, ''[[Washington Post]]'' columnist Al Kamen mistakenly believed that Mercer's fictional Jean Poutine was a reference to Putin.<ref name="CBCPrank" /> In 2017, Russian-themed poutinerie Vladimir Poutine opened in Montreal, with dishes named for <!--despotic-->political figures from Rasputin to Donald Trump.<ref name="BrownsteinVlad" /> In the week following the [[2022 Russian invasion of Ukraine]], frequent insults and threats<!--every 10 minutes according to co-founder--> were received by the three Maison de la Poutine restaurants in Paris, some stating a belief that they worked for the Russian state. Another poutinerie in Lyon changed the name of its 20-year signature dish, Vladimir poutine, stating that it "was no longer funny". In Quebec, Le Roy Jucep announced that it was retiring the word ''poutine'' in support of Ukraine and reverted to "{{lang|fr|italic=no|fromage-patate-sauce}}" on its menus and branding.<ref name="CeccoThreat" /><ref name="ButterfieldThreat" /><ref name="BilefskyVlad" />
+
+During the [[2011 Canadian federal election]], some voters reported receiving [[robocall]]s claiming to be from [[Elections Canada]], from a phone number registered to "Pierre Poutine".<ref>{{cite news |title='Pierre Poutine' robocalls plot detailed in new documents |first=Laura |last=Payton |date=27 August 2013 |newspaper=CBC News |url=https://www.cbc.ca/news/politics/pierre-poutine-robocalls-plot-detailed-in-new-documents-1.1338630 |access-date=2 March 2022 |archive-date=2 March 2022 |archive-url=https://web.archive.org/web/20220302142331/https://www.cbc.ca/news/politics/pierre-poutine-robocalls-plot-detailed-in-new-documents-1.1338630 |url-status=live }}</ref> The calls targeted voters who had previously indicated they would not vote for the [[Conservative Party of Canada|Conservative Party]].<ref>{{cite news |url=https://nationalpost.com/news/canada/liberals-say-abortion-robocall-not-voter-suppression |title=Abortion robocall attacking Tories in Guelph was not voter suppression: Liberals |access-date=2 March 2022 |author=Postmedia News |author-link=Postmedia News |date=12 March 2012 |newspaper=[[National Post]] |archive-date=2 March 2022 |archive-url=https://archive.today/20220302141602/https://nationalpost.com/news/canada/liberals-say-abortion-robocall-not-voter-suppression/ |url-status=live }}</ref> The calls, made on election day or the day before, falsely advised voters that their [[polling station]] had been changed, in an attempt to [[voter suppression|prevent them from voting]].<ref>{{cite news |url=https://globalnews.ca/news/215004/elections-canada-investigating-robocalls-that-misled-voters/ |title=Elections Canada investigating 'robocalls' that misled voters |access-date=18 March 2012 |last1=Maher |first1=Stephen |last2=McGregor |first2=Glen |date=27 February 2012 |work=[[Postmedia News]] |archive-date=22 December 2015 |archive-url=https://web.archive.org/web/20151222191206/http://globalnews.ca/news/215004/elections-canada-investigating-robocalls-that-misled-voters/ |url-status=live }}</ref> The allegations became known as the [[2011 Canadian federal election voter suppression scandal|Robocall scandal]], and subsequent investigation by the [[Royal Canadian Mounted Police]] resulted in [[Michael Sona]], a junior Conservative Party staffer, being convicted of violating the ''Elections Act''.<ref>{{cite news |title=Michael Sona gets nine months in jail for his role in 2011 robocalls scandal |first=Glen |last=McGregor |url=https://nationalpost.com/news/canada/michael-sona-gets-nine-months-in-jail-for-his-role-in-2011-robocalls-scandal |newspaper=[[National Post]] |date=19 November 2014 |access-date=2 March 2022 |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017191844/https://nationalpost.com/news/canada/michael-sona-gets-nine-months-in-jail-for-his-role-in-2011-robocalls-scandal |url-status=live }}</ref>
+
+Belgian Prime Minister [[Charles Michel]] had a Canadian lunch with counterpart Justin Trudeau on 16&nbsp;June 2017, during which they ate hotdogs and poutine. Michel tweeted later that this was "A great way to meet a dear friend though our fries are better", referring to the popular claim that fries were originally invented in Belgium.<ref name="HLNhotdogs"/> In 2019, Canada attempted to garner support for its campaign for a non-permanent United Nations Security Council seat in [[2020 United Nations Security Council election|the following year's election]] by serving poutine to UN diplomats.<ref name="Passblue">{{Cite news |last=Fillion |first=Stephanie |date=27 March 2019 |title=Canada, Ireland and Norway, Now Vying for the 2020 UN Security Council Vote |work=[[Passblue|PassBlue]] |url=https://www.passblue.com/2019/03/27/canada-ireland-and-norway-already-vying-for-2020-security-council-vote/ |access-date=19 June 2020 |archive-date=21 June 2020 |archive-url=https://web.archive.org/web/20200621004901/https://www.passblue.com/2019/03/27/canada-ireland-and-norway-already-vying-for-2020-security-council-vote/ |url-status=live }}</ref>
+
+==See also==
+{{Portal|Food|Canadian}}
+{{div col|colwidth=20em}}
+* [[Cuisine of Quebec]]
+* [[Cheese fries]]
+* [[Canadian cuisine]]
+* [[Demi-glace]]
+* [[Halal snack pack]]
+* [[List of accompaniments to french fries]]
+* [[List of Canadian inventions and discoveries]]
+* [[List of potato dishes]]
+* [[List of cheese dishes]]
+* [[Poutine râpée]]
+* [[Velouté sauce]]
+{{div col end}}
+
+==Footnotes==
+===Notes===
+{{Notelist}}
+
+===References===
+<references>
+<ref name="poutinedynamics">{{Cite journal|last=Fabien-Ouellet|first=Nicolas|date=2016|title=Poutine Dynamics|journal=Cuizine: The Journal of Canadian Food Cultures|volume=7|issue=2|doi=10.7202/1038479ar|issn=1918-5480|doi-access=free}}</ref>
+
+<ref name="mauditepoutine">{{Cite book|title=Maudite poutine!|last=Théorêt|first=Charles-Alexandre|date=2007|publisher=Héliotrope|isbn=9782923511078|location=[Montréal]|oclc=166321360}}</ref>
+
+<ref name="merrweb">{{cite encyclopedia | title= poutine - \poo-TEEN\ | url= http://www.merriam-webster.com/word-of-the-day/2014/06/15/ | date= 15 June 2014 | dictionary= [[Merriam-Webster]] | quote= Although the earliest evidence of the word "poutine" in an English publication is from 1982, historical accounts of the dish itself date to several decades earlier ... Some assert that "poutine" is related to the English word "pudding," but a more popular etymology is that it's from a Québécois slang word meaning "mess." | access-date= 15 June 2014 | archive-url= https://web.archive.org/web/20140714182434/http://www.merriam-webster.com/word-of-the-day/2014/06/15/ | archive-date= 14 July 2014 | url-status= live }}</ref>
+
+<!--Origins-->
+
+<ref name="PostMany"><!--was autogenerated1 without quotes-->
+{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 5 October 2016
+|title= Many lay claim to inventing poutine, but who was the first to combine fries, curds and gravy on a menu?
+|url= https://nationalpost.com/life/food/many-lay-claim-to-inventing-poutine-but-who-was-the-first-to-combine-fries-curds-and-gravy-on-a-menu
+|work= [[National Post]]
+|publisher= Postmedia Network Inc.
+|location= Toronto
+|access-date= 2 January 2019
+|archive-date= 17 October 2023
+|archive-url= https://web.archive.org/web/20231017191842/https://nationalpost.com/life/food/many-lay-claim-to-inventing-poutine-but-who-was-the-first-to-combine-fries-curds-and-gravy-on-a-menu
+|url-status= live
+}}</ref>
+
+<ref name="RhodeIsland">{{cite news
+|last= Coelho
+|first= Jamie
+|date= 4 March 2021
+|title= Go On a Poutine Bender with the Museum of Work and Culture's Competition
+|url= https://www.rimonthly.com/go-on-a-poutine-bender-with-the-museum-of-work-and-cultures-competition/
+|work= [[Rhode Island Monthly]]
+|publisher= Rhode Island Monthly Communications
+|location= Providence
+|access-date= 12 February 2022
+|archive-date= 14 November 2021
+|archive-url= https://web.archive.org/web/20211114183639/https://www.rimonthly.com/go-on-a-poutine-bender-with-the-museum-of-work-and-cultures-competition/
+|url-status= live
+}}</ref>
+
+<ref name="KaneWar">
+{{cite news
+|last= Kane
+|first= Marion
+|date= 8 November 2008
+|title= The war of the curds
+|url= https://www.thestar.com/life/food_wine/2008/11/08/the_war_of_the_curds.html
+|work= [[Toronto Star]]
+|publisher= Toronto Star Newspapers Limited
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181116093148/https://www.thestar.com/life/food_wine/2008/11/08/the_war_of_the_curds.html
+|archive-date= 16 November 2018
+}}
+</ref>
+
+<ref name="OxfordCompanion"><!--originally tagged leroy without quotes-->
+{{cite book 
+|last1= Donnelly
+|first1= Catherine
+|last2= Kehler
+|first2= Mateo
+|year=2016 
+|title= The Oxford Companion to Cheese
+|url= https://books.google.com/books?id=fRnGDQAAQBAJ&pg=PA585
+|publisher= [[Oxford University Press]]
+|isbn=978-0-19-933089-8
+|pages=585–586
+|access-date= 2 January 2019
+}}
+</ref>
+
+<ref name="VermaSticky">
+{{cite news
+|last= Verma
+|first= Sonia
+|date= 7 December 2009
+|title= The sticky mess of the origins of poutine
+|url= https://www.theglobeandmail.com/news/national/the-sticky-mess-of-the-origins-of-poutine/article1205547/
+|work= [[The Globe and Mail]]
+|publisher= The Globe and Mail Inc.
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20160403094324/http://www.theglobeandmail.com/news/national/the-sticky-mess-of-the-origins-of-poutine/article1205547/
+|archive-date= 3 April 2016
+}}
+</ref>
+
+<ref name="HutchinsonHistory">
+{{cite web
+|last= Hutchinson
+|first= Sean
+|date= 1 July 2017
+|title= A Brief History of Poutine
+|url= http://mentalfloss.com/article/57508/brief-history-poutine
+|work= [[Mental Floss]]
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180725222235/http://mentalfloss.com/article/57508/brief-history-poutine
+|archive-date= 25 July 2018
+}}
+</ref>
+
+<ref name="foodrepublic.com">
+{{cite web
+|last= Covington
+|first= Linnea
+|date= 11 June 2014
+|title= 9 Things You Probably Didn't Know About Poutine
+|url= http://www.foodrepublic.com/2014/06/11/9-things-you-probably-didnt-know-about-poutine/
+|website= foodrepublic.com
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180726175741/http://www.foodrepublic.com/2014/06/11/9-things-you-probably-didnt-know-about-poutine/
+|archive-date= 26 July 2018
+}}
+</ref>
+
+<ref name="CBCDrummondville">
+{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 6 October 2015
+|title= Drummondville claims ownership of poutine in new tourism campaign
+|url= https://www.cbc.ca/news/canada/montreal/drummondville-tourist-campaign-poutine-1.3258227
+|work= CBC News
+|publisher= [[Canadian Broadcasting Corporation]]
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180723015723/http://www.cbc.ca/news/canada/montreal/drummondville-tourist-campaign-poutine-1.3258227
+|archive-date= 23 July 2018
+}}
+</ref>
+
+<ref name="WoodsTreasure">
+<!--was "auto1"-->
+{{cite news
+|last= Woods
+|first= Allan
+|date= 23 June 2017
+|title= Is poutine Canada's national treasure or culinary appropriation?: Canadian Myths
+|url= https://www.thestar.com/news/canada-150/2017/06/23/is-poutine-canadas-national-treasure-or-culinary-appropriation-canadian-myths.html
+|work= The Toronto Star
+|publisher= Toronto Star Newspapers Limited
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170805025254/https://www.thestar.com/news/canada-150/2017/06/23/is-poutine-canadas-national-treasure-or-culinary-appropriation-canadian-myths.html
+|archive-date= 5 August 2017
+}}
+</ref>
+
+<!--Development-->
+
+<ref name="GollnerBest">
+{{cite news
+|last= Gollner
+|first= Adam Leith
+|date= 2 May 2014
+|title= On the Hunt for Quebec's Best Poutine
+|url= https://www.wsj.com/articles/on-the-hunt-for-quebecs-best-poutine-1399046999
+|work= [[The Wall Street Journal]]
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180330032456/https://www.wsj.com/articles/on-the-hunt-for-quebecs-best-poutine-1399046999
+|archive-date= 30 March 2018
+}}
+</ref>
+
+<ref name="SemenakBanquise">
+<!--was "montrealgazette.com"-->
+{{cite news
+|last= Semenak
+|first= Susan
+|date= 8 February 2015
+|title= Backstage at La Banquise – because it's always poutine week there
+|url= https://montrealgazette.com/life/food/backstage-at-la-banquise
+|work= [[Montreal Gazette]]
+|publisher= Postmedia Network Inc.
+|location= Montreal, Quebec
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181007073829/https://montrealgazette.com/life/food/backstage-at-la-banquise
+|archive-date= 7 October 2018
+}}
+</ref>
+
+<ref name="ForsterStealing">
+{{cite news
+|last= Forster
+|first= Tim
+|date= 30 May 2017
+|title= Is Canada Stealing Poutine From Quebec?
+|url= https://montreal.eater.com/2017/5/30/15713902/poutine-quebec-canada-cultural-appropriation-nicolas-fabien-ouellet
+|work= Eater
+|location= Montreal
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170923002323/https://montreal.eater.com/2017/5/30/15713902/poutine-quebec-canada-cultural-appropriation-nicolas-fabien-ouellet
+|archive-date= 23 September 2017
+}}
+</ref>
+
+<ref name="KraussPride">
+{{cite news 
+|last= Krauss
+|first= Clifford
+|date= 26 April 2004
+|title= Quebec Finds Pride in a Greasy Favorite
+|url= https://www.nytimes.com/2004/04/26/world/montreal-journal-quebec-finds-pride-in-a-greasy-favorite.html
+|work= The New York Times
+|location= Toronto
+|access-date= 2 January 2019
+|url-status=live
+|archive-url=https://web.archive.org/web/20090601170426/http://www.nytimes.com/2004/04/26/international/americas/26mont.html
+|archive-date=1 June 2009
+}}
+</ref>
+
+<ref name="ChestermanMontreal">{{cite news
+|last= Chesterman
+|first= Lesley
+|date= 5 November 2011
+|title= From the Archive: 12 dishes that say 'Montreal'
+|url= http://www.calgaryherald.com/life/from+archive+dishes+that+montreal/5657312/story.html
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 6 August 2020
+|archive-url= https://web.archive.org/web/20200806121318/http://www.calgaryherald.com/life/from+archive+dishes+that+montreal/5657312/story.html
+|url-status= live
+}}</ref>
+
+<ref name="KatesReview">
+{{cite news 
+|last=Kates
+|first=Joanne
+|date= 28 February 2009
+|title= Restaurant Review: If poutine's your thing, get thee to Smoke's
+|id={{ProQuest|1412736257}} 
+|work= [[The Globe and Mail]]
+|location=Toronto, Ontario
+}}
+</ref>
+
+<!--Recipe-->
+
+<ref name="EdmistonSqueak">
+{{cite news
+|last= Edmiston
+|first= Jake
+|date= 28 October 2017
+|title= Rest of Canada problems: Why don't cheese curds squeak in Toronto?
+|url= https://montrealgazette.com/news/toronto/why-the-cheese-curds-in-toronto-dont-squeak-a-national-post-investigation/wcm/7a497873-1be0-440f-b53c-6e829dad913b
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180610122415/http://montrealgazette.com/news/toronto/why-the-cheese-curds-in-toronto-dont-squeak-a-national-post-investigation/wcm/7a497873-1be0-440f-b53c-6e829dad913b
+|archive-date= 10 June 2018
+}}
+</ref>
+
+<ref name="OliverTips">
+<!--was "jamieoliver.com" -->
+{{cite web
+|last=Garrett
+|first=Jonny
+|date=14 October 2014
+|title=Tips for the perfect poutine
+|url=http://www.jamieoliver.com/news-and-features/features/tips-perfect-poutine/
+|website=JamieOliver.com
+|access-date=2 January 2019
+|url-status=live
+|archive-url=https://web.archive.org/web/20181223180142/https://www.jamieoliver.com/news-and-features/features/tips-perfect-poutine/
+|archive-date=23 December 2018
+}}</ref>
+
+<ref name="ArmstrongQuebec">{{cite book
+|last= Julian
+|first= Armstrong
+|year = 2014 
+|title= Made in Quebec: A Culinary Journey
+|publisher=HarperCollins
+|location=Toronto
+|isbn=978-1-44342-531-5
+}}</ref>
+
+<!--Variations-->
+
+<ref name="SharpGooey">
+{{cite news
+|last= Sharp
+|first= Jenn
+|date= 20 February 2013
+|title= Poutine's gooey goodness not for the faint of heart
+|url= http://www.leaderpost.com/life/poutine+gooey+goodness+faint+heart/7990677/story.html
+|work= [[Regina Leader-Post]]
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20150503172151/http://www.leaderpost.com/life/Poutine+gooey+goodness+faint+heart/7990677/story.html
+|archive-date= 3 May 2015
+}}
+</ref>
+
+<ref name="ChavichHaute">{{cite news
+|last= Chavich
+|first= Cinda
+|date= 18 April 2018
+|title= Haute poutine
+|url= https://www.theglobeandmail.com/life/haute-poutine/article25283040/
+|work= The Globe and Mail
+|publisher= The Globe and Mail Inc.
+|location= Toronto
+|access-date= 2 January 2019
+|archive-date= 6 August 2020
+|archive-url= https://web.archive.org/web/20200806104138/https://www.theglobeandmail.com/life/haute-poutine/article25283040/
+|url-status= live
+}}</ref>
+
+<ref name="HaldaneWeek">
+{{cite news
+|last= Haldane
+|first= Maeve
+|date= January 2017
+|title= La Poutine Week 2017: dozens of restaurants play around with a classic
+|url= https://montrealgazette.com/life/food/la-poutine-week-2017-dozens-of-restaurants-play-around-with-a-classic
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20190126091612/https://montrealgazette.com/life/food/la-poutine-week-2017-dozens-of-restaurants-play-around-with-a-classic
+|archive-date= 26 January 2019
+}}
+</ref>
+
+<ref name="SongParis">
+{{cite news
+|last= Song
+|first= Vivian
+|title= At long last, Paris gets its first Maison de la Poutine
+|url= https://montrealgazette.com/news/local-news/at-long-last-paris-gets-its-first-maison-de-la-poutine
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180403205205/http://montrealgazette.com/news/local-news/at-long-last-paris-gets-its-first-maison-de-la-poutine
+|archive-date= 3 April 2018
+}}
+</ref>
+
+<ref name="LauAppropriating">
+{{cite news
+|last= Lau
+|first= Rachel
+|date= 1 June 2017
+|title= Canada is culturally appropriating poutine from Quebec: academic
+|url= http://globalnews.ca/news/3491972/canada-is-culturally-appropriating-poutine-from-quebec-academic/
+|work= [[Global News]]
+|publisher= Corus Entertainment Inc.
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://archive.today/20170603124457/http://globalnews.ca/news/3491972/canada-is-culturally-appropriating-poutine-from-quebec-academic/
+|archive-date= 3 June 2017
+}}
+</ref>
+
+<ref name="WatsonRest">{{cite news
+|last= Watson
+|first= Amie
+|date= 10 April 2012
+|title= Poutine for the rest of Canada
+|url= http://www.leaderpost.com/life/food/poutine+rest+canada/6435694/story.html
+|work= Regina Leader-Post
+|agency= Postmedia News
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 30 January 2020
+|archive-url= https://web.archive.org/web/20200130052806/http://www.leaderpost.com/life/food/poutine+rest+canada/6435694/story.html
+|url-status= live
+}}</ref>
+
+<ref name="RudinPot">{{cite news
+|last= Rudin
+|first= David
+|date= 13 October 2017
+|title= Montreal restaurant serves pot poutine 'in honour of Justin Trudeau'
+|url= https://montrealgazette.com/news/local-news/montreal-restaurant-serves-pot-poutine-in-honour-of-justin-trudeau
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 12 December 2019
+|archive-url= https://web.archive.org/web/20191212121204/https://montrealgazette.com/news/local-news/montreal-restaurant-serves-pot-poutine-in-honour-of-justin-trudeau
+|url-status= live
+}}</ref>
+
+<ref name="HarrisonRise">
+{{cite news
+|last= Harrison
+|first= Ian
+|date= 21 September 2015
+|title= New Article on the Rise of Poutine Gets It All Wrong
+|url= https://montreal.eater.com/2015/9/21/9365681/new-article-on-the-rise-of-poutine-gets-it-all-wrong
+|work= Eater
+|location= Montreal
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181020221135/https://montreal.eater.com/2015/9/21/9365681/new-article-on-the-rise-of-poutine-gets-it-all-wrong
+|archive-date= 20 October 2018
+}}
+</ref>
+
+<ref name="MichaelPlayful">
+{{cite web
+|last= Michael
+|first= Souzan
+|date= 21 June 2012
+|title= Playful Poutine Recipes
+|url= https://www.foodnetwork.ca/canada-day/blog/playful-poutine-recipes-8238/
+|website= foodnetwork.ca
+|publisher= [[Food Network (Canada)|Food Network]]
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20160304113018/http://www.foodnetwork.ca/canada-day/blog/playful-poutine-recipes-8238/
+|archive-date= 4 March 2016
+}}
+</ref>
+
+<ref name="CNWSmoke">
+{{cite press release
+|author= <!--Staff writer(s); no by-line.-->
+|date= 29 July 2014
+|title= Smoke's Poutinerie World Famous Great Canadian Cross Country Plaid Gravy Train Fries Curd & Gravy Weird Wild and Wacky Poutine Eating Tour 2014 is Rolling Across Canada
+|url= http://www.newswire.ca/news-releases/smokes-poutinerie-world-famous-great-canadian-cross-country-plaid-gravy-train-fries-curd--gravy-weird-wild-and-wacky-poutine-eating-tour-2014-is-rolling-across-canada-515178691.html
+|publisher= Canadian News Wire
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180630081022/https://www.newswire.ca/news-releases/smokes-poutinerie-world-famous-great-canadian-cross-country-plaid-gravy-train-fries-curd--gravy-weird-wild-and-wacky-poutine-eating-tour-2014-is-rolling-across-canada-515178691.html
+|archive-date= 30 June 2018
+}}
+</ref>
+
+<ref name="DayStand">
+{{cite news 
+|last= Day
+|first= Adam
+|title=Oh Canada, we stand on guard for ... poutine?
+|url= http://www.cariboo.bc.ca/news/stories02Nov25/poutineK.html
+|work=The Digital Times
+|publisher=Journalism Students at [[Thompson Rivers University]]
+|location=Kamloops, [[British Columbia|BC]]|access-date= 2 January 2019
+|url-status=dead
+|archive-url=https://web.archive.org/web/20060927070421/http://www.cariboo.bc.ca/news/stories02Nov25/poutineK.html
+|archive-date=27 September 2006
+}}
+</ref>
+
+<ref name="HenryMcDonald">
+{{cite news
+|last= Henry
+|first= Michele
+|date= 11 December 2013
+|title= McDonald's poutine taste test: How does it compare?
+|url= https://www.thestar.com/life/food_wine/2013/12/11/mcdonalds_poutine_taste_test_how_does_it_compare.html
+|work= The Toronto Star
+|publisher= Toronto Star Newspapers Limited
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181003140216/https://www.thestar.com/life/food_wine/2013/12/11/mcdonalds_poutine_taste_test_how_does_it_compare.html
+|archive-date= 3 October 2018
+}}
+</ref>
+
+<ref name="TaylorKFC">
+{{cite news
+|last= Taylor
+|first= Bill
+|date= 2 December 2016
+|title= KFC Debuts New Spicy Popcorn Chicken Poutine In Canada
+|url= https://www.chewboom.com/2016/12/02/kfc-debuts-new-spicy-popcorn-chicken-poutine-canada/
+|work= Chew Boom
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170502135715/http://www.chewboom.com/2016/12/02/kfc-debuts-new-spicy-popcorn-chicken-poutine-canada/
+|archive-date= 2 May 2017
+}}
+</ref>
+
+<ref name="LauxUltimate">{{cite news
+|last= Sara
+|first= Laux
+|date= 12 June 2017
+|title= The ultimate ranking of Canada's fast-food poutine
+|url= https://cottagelife.com/outdoors/the-ultimate-ranking-of-canadas-fast-food-poutine/
+|work= [[Cottage Life]]
+|publisher= Blue Ant Media
+|access-date= 2 January 2019
+|archive-date= 2 July 2019
+|archive-url= https://web.archive.org/web/20190702072348/https://cottagelife.com/outdoors/the-ultimate-ranking-of-canadas-fast-food-poutine/
+|url-status= live
+}}</ref>
+
+<ref name="TaylorMary">{{cite news
+|last= Taylor
+|first= Bill
+|date= 15 August 2018
+|title= Mary Brown's Adds New International Poutines
+|url= https://canadify.com/2018/08/15/mary-browns-adds-new-international-poutines/
+|work= Canadify
+|access-date= 2 January 2019
+|archive-date= 18 June 2019
+|archive-url= https://web.archive.org/web/20190618183426/https://canadify.com/2018/08/15/mary-browns-adds-new-international-poutines/
+|url-status= live
+}}</ref>
+
+<ref name="RoseArby">
+{{cite news
+|last= Rose
+|first= Lily
+|date= 16 January 2018
+|title= Arby's Canada Launches Curly Fry Poutine
+|url= https://www.thedailymeal.com/eat/arbys-canada-launches-curly-fry-poutine
+|work= [[The Daily Meal]]
+|publisher= Tribune Publishing
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180630052844/https://www.thedailymeal.com/eat/arbys-canada-launches-curly-fry-poutine
+|archive-date= 30 June 2018
+}}
+</ref>
+
+<ref name="KeithHortons">{{cite news
+|last= Keith
+|first= Elizabeth
+|date= June 2018
+|title= Tim Hortons Just Released A Poutine But It Doesn't Look Quite Right
+|url= https://www.narcity.com/news/tim-hortons-just-released-a-poutine-but-it-doesnt-look-quite-right
+|work= [[Narcity]]
+|publisher= Narcity Media Inc.
+|access-date= 2 January 2019
+|archive-date= 5 February 2020
+|archive-url= https://web.archive.org/web/20200205171852/https://www.narcity.com/news/tim-hortons-just-released-a-poutine-but-it-doesnt-look-quite-right
+|url-status= live
+}}</ref>
+
+<ref name="KleinRaising">
+{{cite news
+|last= Klein
+|first= Michael
+|date= 21 June 2017
+|title= Let's Eat: Raising the roof in Center City; poutine on South Street
+|url= http://www.philly.com/philly/columnists/michael_klein/lets-eat-raising-the-roof-in-center-city-poutine-on-south-street-20170621.html
+|work= [[The Philadelphia Inquirer]]
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170922051336/http://www.philly.com/philly/columnists/michael_klein/lets-eat-raising-the-roof-in-center-city-poutine-on-south-street-20170621.html
+|archive-date= 22 September 2017
+}}
+</ref>
+
+<ref name="SternGood">
+{{cite web
+|last1= Stern
+|first1= Jane
+|last2= Stern
+|first2= Michael
+|date= 3 October 2014
+|title= Is there such a thing as good poutine?
+|url= https://www.splendidtable.org/story/is-there-such-a-thing-as-good-poutine
+|work= [[The Splendid Table]]
+|publisher= Minnesota Public Radio
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180923162637/https://www.splendidtable.org/story/is-there-such-a-thing-as-good-poutine
+|archive-date= 23 September 2018
+}}
+</ref>
+
+<ref name="SantanaDisco">
+{{cite web
+|last= Santana
+|first= Fabiana
+|date= 31 January 2017
+|title= NJ Vocabulary: What Are Disco Fries?
+|url= https://bestofnj.com/nj-vocabulary-disco-fries
+|website= bestofnj.com
+|location= Florham Park, NJ
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181118134605/https://bestofnj.com/nj-vocabulary-disco-fries
+|archive-date= 18 November 2018
+}}
+</ref>
+
+<ref name="LazorDrunk">
+{{cite web
+|last= Lazor
+|first= Drew
+|date= 27 April 2016
+|title= There's No Drunk Food Like Disco Fries
+|url= https://www.saveur.com/new-jersey-disco-fries
+|work= [[Saveur]]
+|publisher= Bonnier Corporation
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181215133532/https://www.saveur.com/new-jersey-disco-fries
+|archive-date= 15 December 2018
+}}
+</ref>
+
+<!--Cultural aspect-->
+
+<ref name="BlitzVive">
+{{cite news
+|last= Blitz
+|first= Matt
+|date= 22 June 2017
+|title= Vive La Poutine: The Origins of Quebec's Favorite Snack
+|url= https://www.foodandwine.com/fwx/food/vive-la-poutine-origins-quebec-s-favorite-snack
+|work= [[Food & Wine]]
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20160531095742/http://www.foodandwine.com/fwx/food/vive-la-poutine-origins-quebec-s-favorite-snack
+|archive-date= 31 May 2016
+}}
+</ref>
+
+<ref name="CBCIron">
+{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 21 March 2011
+|title= Quebec chef wins Iron Chef with lobster poutine
+|url= https://www.cbc.ca/news/canada/montreal/quebec-chef-wins-iron-chef-with-lobster-poutine-1.1113397
+|work= CBC News
+|publisher= [[Canadian Broadcasting Corporation]]
+|location= Montreal
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20190224082152/https://www.cbc.ca/news/canada/montreal/quebec-chef-wins-iron-chef-with-lobster-poutine-1.1113397
+|archive-date= 24 February 2019
+}}
+</ref>
+
+<ref name="RichlerIncludes">{{cite book
+|last=Richler
+|first=Jacob
+|author-link=Jacob Richler
+|title=My Canada Includes Foie Gras
+|year=2012
+|publisher=Viking Canada
+|location=Toronto
+|isbn=978-0-670-06582-0
+|pages=[https://archive.org/details/mycanadaincludes0000rich/page/58 58, 139]
+|url=https://archive.org/details/mycanadaincludes0000rich/page/58
+}}</ref>
+
+<ref name="PerreauxCanada">
+{{cite news
+|last= Perreaux
+|first= Les
+|date= 5 May 2013
+|title= Canada Day heads to the Big Apple
+|url= https://www.theglobeandmail.com/news/national/canada-day-heads-to-the-big-apple/article11728979/
+|work= The Globe and Mail
+|publisher= The Globe and Mail Inc.
+|location= Toronto
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20161118162848/http://www.theglobeandmail.com/news/national/canada-day-heads-to-the-big-apple/article11728979/
+|archive-date= 18 November 2016
+}}
+</ref>
+
+<ref name="LoriggioMegantic">{{cite news
+|last= Loriggio
+|first= Paola
+|date= 11 July 2013
+|title= Lac-Mégantic: Poutine shack serves comfort food near derailment site
+|url= http://www.montrealgazette.com/m%C3%A9gantic+poutine+shack+serves+comfort+food+near+derailment+site/8642955/story.html
+|work= [[Montreal Gazette]]
+|agency= [[The Canadian Press]]
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 30 January 2020
+|archive-url= https://web.archive.org/web/20200130052807/http://www.montrealgazette.com/m%C3%A9gantic+poutine+shack+serves+comfort+food+near+derailment+site/8642955/story.html
+|url-status= live
+}}</ref>
+
+<ref name="SekulesStaple">{{cite news
+|last= Sekules
+|first= Kate
+|date= 23 May 2007
+|title= A Staple From Quebec, Embarrassing but Adored
+|url= https://www.nytimes.com/2007/05/23/dining/23pout.html
+|work= The New York Times
+|access-date= 2 January 2019
+|quote= Granted, poutine came in only at No. 10. But it beat, among other things, the electron microscope, the BlackBerry, the paint roller and the caulking gun, lacrosse, plexiglass, radio voice transmission and basketball.
+|archive-date= 29 February 2020
+|archive-url= https://web.archive.org/web/20200229162217/https://www.nytimes.com/2007/05/23/dining/23pout.html
+|url-status= live
+}}</ref>
+
+<ref name="JehaHistory">
+{{cite news
+|last= Jeha
+|first= Laura
+|date= 18 June 2017
+|title= The history of poutine: How it became our most iconic dish
+|url= https://www.macleans.ca/society/the-history-of-poutine-how-it-became-our-most-iconic-dish/
+|work= [[Maclean's]]
+|publisher= Rogers Media
+|location= Toronto
+|access-date= 10 April 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180418215505/http://www.macleans.ca/society/the-history-of-poutine-how-it-became-our-most-iconic-dish/
+|archive-date= 18 April 2018
+}}
+</ref>
+
+<ref name="BallaDay">
+{{cite news
+|last= Balla
+|first= Lesley
+|date= 11 April 2011
+|title= How L.A. Does Poutine for National Poutine Day: 5 Great Places to Eat Like a Canadian
+|url= http://www.laweekly.com/restaurants/how-la-does-poutine-for-national-poutine-day-5-great-places-to-eat-like-a-canadian-2379906
+|work= [[LA Weekly]]
+|location= Los Angeles
+|access-date= 10 April 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20171206225710/http://www.laweekly.com/restaurants/how-la-does-poutine-for-national-poutine-day-5-great-places-to-eat-like-a-canadian-2379906
+|archive-date= 6 December 2017
+}}
+</ref>
+
+<ref name="CiotoliDay">{{cite news
+|last= Ciotoli
+|first= Adriano
+|date= 10 April 2018
+|title= 4 Poutines to indulge in on National Poutine Day
+|url= https://www.windsoreats.com/2018/04/4-poutines-to-indulge-in-on-national-poutine-day/
+|work= Windsor Eats
+|location= Windsor, Ontario
+|access-date= 10 April 2019
+|archive-date= 14 February 2020
+|archive-url= https://web.archive.org/web/20200214032401/https://www.windsoreats.com/2018/04/4-poutines-to-indulge-in-on-national-poutine-day/
+|url-status= live
+}}</ref>
+
+<ref name="SibonneySoda">{{cite news |last=Sibonney|first= Claire|date= 2 May 2013|title= Jones Soda's Poutine Flavour: Awful Or Amazing? |url=https://www.huffpost.com/archive/ca/entry/jones-sodas-poutine-flavour-awful-or-amazing_n_3202749 | work=[[HuffPost]] |url-status=live |archive-url=https://web.archive.org/web/20181013221552/https://www.huffingtonpost.ca/2013/05/02/poutine-soda-jones-flavour_n_3202749.html |archive-date= 13 October 2018}}</ref>
+
+<ref name="LaysFinalists">
+{{cite press release
+|author= <!--Staff writer(s); no by-line.-->
+|date= 7 August 2014
+|title= Lay's Canada announces 2014 Do Us a Flavour finalists
+|url= http://pepsico.ca/en/PressRelease/Lays-Canada-announces-2014-Do-Us-a-Flavour-finalists08072014.html
+|publisher= PepsiCo Canada
+|location= Mississauga, Ontario
+|access-date= 2 January 2019
+|url-status= dead
+|archive-url= https://web.archive.org/web/20180829000320/http://www.pepsico.ca/en/PressRelease/Lays-Canada-announces-2014-Do-Us-a-Flavour-finalists08072014.html
+|archive-date= 29 August 2018
+}}
+</ref>
+
+<ref name="KwanLays">
+{{cite news
+|last= Kwan
+|first= Tammy
+|date= 9 August 2016
+|title= Lay's potato chips announces winning international flavours that Canadians voted for
+|url= https://www.straight.com/food/751056/lays-potato-chips-announces-winning-international-flavours-canadians-voted
+|work= [[Georgia Straight]]
+|publisher= Vancouver Free Press
+|location= Vancouver, British Columbia
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20181116102239/https://www.straight.com/food/751056/lays-potato-chips-announces-winning-international-flavours-canadians-voted
+|archive-date= 16 November 2018
+}}
+</ref>
+
+<ref name="RudinIcecream">
+{{cite news
+|last= Rudin
+|first= David
+|date= 12 July 2017
+|title= Québécois poutine became ice cream in New Zealand, and now we're scared
+|url= https://montrealgazette.com/news/quebecois-poutine-became-ice-cream-in-new-zealand-and-now-were-scared
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180614173748/http://montrealgazette.com/news/quebecois-poutine-became-ice-cream-in-new-zealand-and-now-were-scared
+|archive-date= 14 June 2018
+}}
+</ref>
+
+<ref name="RudinRichest">
+{{cite news
+|last= Rudin
+|first= David
+|date= 1 August 2018
+|title= Because nothing's sacred, here's the $448 'World's Richest Poutine'
+|url= https://montrealgazette.com/news/local-news/because-nothings-sacred-heres-the-448-worlds-richest-poutine
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20190126190702/https://montrealgazette.com/news/local-news/because-nothings-sacred-heres-the-448-worlds-richest-poutine
+|archive-date= 26 January 2019
+}}
+</ref>
+
+<ref name="KhanBrandon">{{cite news
+|last=Khan
+|first=Ahmar
+|title='Dream come true': Brandon-born St. Louis Blues defenceman Joel Edmundson back home with Stanley Cup
+|date=8 July 2019
+|work=CBC News
+|publisher=Canadian Broadcasting Corporation
+|url=https://www.cbc.ca/news/canada/manitoba/joel-edmundson-stanley-cup-brandon-1.5204103
+|access-date=11 July 2019
+|archive-url=https://web.archive.org/web/20190710064038/https://www.cbc.ca/news/canada/manitoba/joel-edmundson-stanley-cup-brandon-1.5204103
+|archive-date=10 July 2019
+|url-status=live
+}}</ref>
+
+<ref name="ThompsonBrandon">{{cite news
+|last=Thompson
+|first=Sam
+|title=Manitoba NHLer eats poutine out of Stanley Cup in Brandon
+|date=9 July 2019
+|work=Global News
+|publisher=Corus Entertainment Inc.
+|url=https://globalnews.ca/news/5474955/manitoba-nhler-eats-poutine-out-of-stanley-cup-in-brandon/
+|access-date=11 July 2019
+|archive-url=https://web.archive.org/web/20190710124205/https://globalnews.ca/news/5474955/manitoba-nhler-eats-poutine-out-of-stanley-cup-in-brandon/
+|archive-date=10 July 2019
+|url-status=live
+}}</ref>
+
+<ref name="CrabbBrandon">{{cite news
+|last=Crabb
+|first=Josh
+|title='It's a dream come true': Brandon's Joel Edmundson brings Stanley Cup to his hometown
+|date=8 July 2019
+|work=CTV News
+|publisher=Bell Media
+|url=https://www.ctvnews.ca/winnipeg/article/its-a-dream-come-true-brandons-joel-edmundson-brings-stanley-cup-to-his-hometown/
+|access-date=11 July 2019
+|archive-url=https://web.archive.org/web/20190711184343/https://winnipeg.ctvnews.ca/it-s-a-dream-come-true-brandon-s-joel-edmundson-brings-stanley-cup-to-his-hometown-1.4498704
+|archive-date=11 July 2019
+|url-status=live
+}}</ref>
+
+<ref name="SchwartzContest">{{cite news
+|last= Schwartz
+|first= Susan
+|date= 16 April 2010
+|title= Sacre bleu! A poutine-eating contest . . . in Toronto?
+|url= http://www.montrealgazette.com/news/good-news/sacre+bleu+poutine+eating+contest+toronto/2916830/story.html
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 10 February 2020
+|archive-url= https://web.archive.org/web/20200210080850/http://www.montrealgazette.com/news/good-news/sacre+bleu+poutine+eating+contest+toronto/2916830/story.html
+|url-status= live
+}}</ref>
+
+<ref name="GazetteWeek">{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 21 January 2013
+|title= Poutine Week Montreal
+|url= https://montrealgazette.com/life/urban-expressions/poutine-week-montreal
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 21 February 2020
+|archive-url= https://web.archive.org/web/20200221013742/https://montrealgazette.com/life/urban-expressions/poutine-week-montreal
+|url-status= live
+}}</ref>
+
+<ref name="DemontisLifeline2021">{{cite news
+|last=Demontis
+|first=Rita
+|date=27 January 2021
+|page=A31
+|title=National Poutine Week celebrates favourite food
+|url=https://torontosun.com/life/food/national-poutine-week-celebrates-favourite-food
+|id={{ProQuest|2482359444}}
+|newspaper=Toronto Sun
+|publisher=Postmedia Network Inc.
+|location=Toronto, Ontario
+|access-date=20 December 2021
+|url-status=live
+|archive-url=https://web.archive.org/web/20210411004536/https://torontosun.com/life/food/national-poutine-week-celebrates-favourite-food
+|archive-date=11 April 2021
+}}</ref>
+
+<ref name="Suburban2021">{{cite news
+|last= 
+|first= 
+|date= 24 January 2021
+|title= La Poutine Week is back Feb. 1 ... with a twist
+|url= https://www.thesuburban.com/life/food/la-poutine-week-is-back-feb-1-with-a-twist/article_a5c5a25c-5e6d-11eb-93b2-f3750c829220.html
+|work= The Suburban
+|publisher= 
+|location= Saint Laurent, Quebec
+|access-date= 20 December 2021
+|archive-url= https://web.archive.org/web/20211103065319/https://www.thesuburban.com/life/food/la-poutine-week-is-back-feb-1-with-a-twist/article_a5c5a25c-5e6d-11eb-93b2-f3750c829220.html
+|archive-date= 3 November 2021
+|url-status= live
+}}</ref>
+
+<ref name="HumDelivery2021">{{cite news
+|last=Hum
+|first=Peter
+|date=26 January 2021
+|page=A8
+|title=During a raging pandemic, La Poutine Week will make deliveries
+|url=https://ottawacitizen.com/life/food/during-a-raging-pandemic-la-poutine-week-will-make-deliveries
+|id={{ProQuest|2481410715}}
+|work=[[Ottawa Citizen]]
+|publisher=Postmedia Network Inc.
+|location=Ottawa, Ontario
+|access-date=20 December 2021
+|url-status=live
+|archive-url=https://web.archive.org/web/20210220171537/https://ottawacitizen.com/life/food/during-a-raging-pandemic-la-poutine-week-will-make-deliveries
+|archive-date=20 February 2021
+}}</ref>
+
+<ref name="Pelley2015">
+{{cite news 
+|last=Pelley 
+|first=Lauren 
+|date=2 February 2015 
+|title=Poutine inventions offer new wheys to eat your curds 
+|pages=E1, E8 
+|work=[[Toronto Star]] 
+|location=Toronto, Ontario 
+|id={{ProQuest|1650084755}}
+}}</ref>
+
+<ref name="JohnstonInventor">{{cite news
+|last= Johnston
+|first= David
+|date= 19 November 2008
+|title= Quebec restaurant claims to be 'inventor' of poutine
+|url= http://www.leaderpost.com/travel/Quebec+restaurant+claims+inventor+poutine/803124/story.html
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 13 February 2020
+|archive-url= https://web.archive.org/web/20200213102124/http://www.leaderpost.com/travel/Quebec+restaurant+claims+inventor+poutine/803124/story.html
+|url-status= live
+}}</ref>
+
+<ref name="GazetteDrummondvilleFestival">
+{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 29 May 2018
+|title= The Festival de la Poutine lineup is here, ready to clog your arteries
+|url= https://montrealgazette.com/news/local-news/the-festival-de-la-poutine-lineup-is-here-ready-to-clog-your-arteries
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20190125120333/https://montrealgazette.com/news/local-news/the-festival-de-la-poutine-lineup-is-here-ready-to-clog-your-arteries
+|archive-date= 25 January 2019
+}}
+</ref>
+
+<ref name="LeaderDrummondville">{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 29 May 2018
+|title= The Festival de la Poutine lineup is here, ready to clog your arteries
+|url= https://leaderpost.com/news/local-news/the-festival-de-la-poutine-lineup-is-here-ready-to-clog-your-arteries/wcm/91962d3a-18c6-45d9-924a-083eb7426cbc
+|work= Montreal Gazette
+|publisher= Postmedia Network Inc.
+|access-date= 2 January 2019
+|archive-date= 3 January 2020
+|archive-url= https://web.archive.org/web/20200103140124/https://leaderpost.com/news/local-news/the-festival-de-la-poutine-lineup-is-here-ready-to-clog-your-arteries/wcm/91962d3a-18c6-45d9-924a-083eb7426cbc
+|url-status= live
+}}</ref>
+
+<ref name="SeeleyMoncton2025">{{cite news
+|first=Sarah
+|last=Seeley
+|title=Canadian dish celebrated during Moncton area festival
+|date=29 March 2025
+|work=[[Times & Transcript]]
+|location=Moncton, New Brunswick
+|publisher=[[Postmedia Network]]
+|page=A10
+|id={{ProQuest|3182924133}}
+}}</ref>
+
+<ref name="KnightFest">
+{{cite web
+|last= Knight
+|first= Lauren
+|date= 23 February 2016
+|title= What You Missed at Poutine Fest 2016
+|url= http://www.chicagofoodmagazine.com/what-you-missed-at-poutine-fest-2016
+|work= Chicago Food Magazine
+|publisher= <!--Chicago Food Magazine, LLC-->
+|location= Chicago
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170922051249/http://www.chicagofoodmagazine.com/what-you-missed-at-poutine-fest-2016
+|archive-date= 22 September 2017
+}}
+</ref>
+
+<ref name="BrobeckKnoxville">{{cite news
+|last= Brobeck
+|first= Greg
+|date= 25 June 2015
+|title= First-ever Poutinefest to be held Friday night in Knoxville
+|url= https://www.wate.com/news/first-ever-poutinefest-to-be-held-friday-night-in-knoxville_20170818084038748/793009480
+|work= [[WATE]] 6 News
+|location= Knoxville, Tennessee
+|access-date= 2 January 2019
+}}{{Dead link|date=March 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<!--Nutrition-->
+
+<ref name="Scourboutakos2013">{{cite journal
+|title=Sodium Levels in Canadian Fast-food and Sit-down Restaurants
+|first1=Mary J. 
+|last1=Scourboutakos 
+|first2=Mary R. 
+|last2=L'Abbé
+|journal=Canadian Journal of Public Health
+|date=January–February 2013
+|volume=104
+|number=1
+|pages=e2–e8
+|doi=10.1007/BF03405645 
+|jstor=canajpublheal.104.1.00e2
+|pmid=23618115 
+|pmc=6974083 
+}}</ref>
+
+<!--Social mobility-->
+
+<ref name="SietsemaState">
+{{cite news
+|last= Sietsema
+|first= Tom
+|date= 9 March 2016
+|title= State dinner will start with a gussied-up version of Canada's late-night party food
+|url= https://www.washingtonpost.com/news/reliable-source/wp/2016/03/09/at-the-canada-state-dinner-the-white-house-will-pass-out-poutine/
+|newspaper= [[The Washington Post]]
+|location= Washington, D.C.
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170922201030/https://www.washingtonpost.com/news/reliable-source/wp/2016/03/09/at-the-canada-state-dinner-the-white-house-will-pass-out-poutine/
+|archive-date= 22 September 2017
+}}
+</ref>
+
+<ref name="CharleboisPoutine">
+{{cite news
+|last= Charlebois
+|first= Mattieu
+|date= 3 February 2016
+|title= La poutine, un plat pour les Québécois de sauce
+|url= http://lactualite.com/politique/2016/02/03/la-poutine-un-plat-pour-les-quebecois-de-sauce/
+|work= [[L'actualité]]
+|publisher= Mishmash Media
+|language= fr-CA
+|access-date= 2 January 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170621221828/http://lactualite.com/politique/2016/02/03/la-poutine-un-plat-pour-les-quebecois-de-sauce/
+|archive-date= 21 June 2017
+}}
+</ref>
+
+<ref name="ButterfieldAppropriation">{{cite news |last= Butterfield |first=Michelle |date=29 May 2017 |title=Poutine A Victim Of Cultural Appropriation, Argues Quebec Researcher |url=https://www.huffpost.com/archive/ca/entry/poutine-a-victim-of-cultural-appropriation-argues-quebec-resear_n_16869564 | work=[[HuffPost]] |location=Toronto |url-status=live |archive-url=https://archive.today/20170608151050/http://www.huffingtonpost.ca/2017/05/29/cultural-appropriation-po_n_16869564.html|archive-date= 8 June 2017}}</ref>
+
+<ref name="DeSoucey2020">{{cite journal 
+|title=Reviewed Work(s): The Emergence of National Food: The Dynamics of Food and Nationalism
+|first=Michaela
+|last=DeSoucey
+|journal=Contemporary Sociology
+|date=November 2020
+|volume=49
+|number=6
+|pages=517–518
+|publisher=American Sociological Association
+|doi=10.1177/0094306120963121l
+|jstor=26985023
+|s2cid=226239110
+}}</ref>
+
+<ref name="TrillinFunny">{{cite news
+|last= Trillin
+|first= Calvin
+|date= 15 November 2009
+|title= Funny Food
+|url= https://www.newyorker.com/magazine/2009/11/23/funny-food
+|magazine= The New Yorker
+|publisher= Conde Nast
+|location= Toronto
+|quote= I appreciate his strong statement [...] He understands I believe in free trade. He understands I want to make sure our relations with our most important neighbor to the north of us is strong. And we'll work closely together.
+|access-date= 3 June 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20180728032106/https://www.newyorker.com/magazine/2009/11/23/funny-food
+|archive-date= 28 July 2018
+}}</ref>
+
+<ref name="CBCPrank">{{cite news
+|author= <!--Staff writer(s); no by-line.-->
+|date= 22 March 2000
+|title= 22 Minutes star pulls prank on George W. Bush
+|url= https://www.cbc.ca/news/canada/22-minutes-star-pulls-prank-on-george-w-bush-1.212339
+|work= CBC News
+|publisher= [[Canadian Broadcasting Corporation]]
+|access-date= 7 June 2019
+|url-status= live
+|archive-url= https://web.archive.org/web/20170429202236/http://www.cbc.ca/news/canada/22-minutes-star-pulls-prank-on-george-w-bush-1.212339
+|archive-date= 29 April 2017
+}}</ref>
+
+<ref name="WhiteHouse2004">
+{{cite press release
+|author=<!--Staff writer(s); no by-line.-->
+|date=1 December 2004
+|title=President Discusses Strong Relationship with Canada
+|url=https://georgewbush-whitehouse.archives.gov/news/releases/2004/12/20041201-4.html
+|website=whitehouse.archives.gov
+|publisher=[[Office of the Press Secretary (United States)]], The White House
+|access-date=2 January 2019
+|quote=I told Paul that I really have only one regret about this visit to Canada. There's a prominent citizen who endorsed me in the 2000 election, and I wanted a chance to finally thank him for that endorsement. I was hoping to meet Jean Poutine.
+|url-status=live
+|archive-url=https://web.archive.org/web/20181116042429/https://georgewbush-whitehouse.archives.gov/news/releases/2004/12/20041201-4.html
+|archive-date=16 November 2018
+}}
+</ref>
+
+<ref name="HLNhotdogs">
+{{cite news
+|author=<!--Staff writer(s); no by-line.-->
+|date=16 June 2017
+|title=Michel eet hotdogs en poutine met Trudeau, maar "onze frieten zijn beter"
+|url=https://www.hln.be/nieuws/binnenland/michel-eet-hotdogs-en-poutine-met-trudeau-maar-onze-frieten-zijn-beter~a16bac1e/
+|newspaper=[[Het Laatste Nieuws]]
+|access-date=2 January 2019
+|url-status=live
+|archive-url=https://web.archive.org/web/20180926205738/https://www.hln.be/nieuws/binnenland/michel-eet-hotdogs-en-poutine-met-trudeau-maar-onze-frieten-zijn-beter~a16bac1e/
+|archive-date=26 September 2018
+}}
+</ref>
+
+<ref name="ButterfieldThreat">{{cite news |first=Michelle |last=Butterfield |title=Canadian delicacy or Russian president? People confuse poutine with Putin |date=9 March 2022 |work=[[Global News]] |url=https://globalnews.ca/news/8670901/putin-poutine-french-restaurants-menus/ |agency=[[The Canadian Press]] |access-date=11 March 2022 |archive-date=10 March 2022 |archive-url=https://web.archive.org/web/20220310065631/https://globalnews.ca/news/8670901/putin-poutine-french-restaurants-menus/ |url-status=live }}</ref>
+
+<ref name="CeccoThreat">{{cite news |first=Leyland |last=Cecco |date=6 March 2022 |title=Poutine not Putin: classic Quebec dish off the menu in France and Canada |url=https://theguardian.com/world/2022/mar/06/poutine-not-putin-classic-quebec-dish-under-fire-in-france |work=[[The Guardian]] |access-date=11 March 2022 |archive-date=10 March 2022 |archive-url=https://web.archive.org/web/20220310134052/http://www.theguardian.com/world/2022/mar/06/poutine-not-putin-classic-quebec-dish-under-fire-in-france |url-status=live }}</ref>
+
+<ref name="BrownsteinVlad">{{cite news |first=Bill |last=Brownstein |title=Vladimir Poutine puts a political spin on popular Quebec dishes |date=19 June 2017 |work=[[Montreal Gazette]] |url=https://montrealgazette.com/opinion/columnists/vladimir-poutine-puts-a-political-spin-on-popular-quebec-dishes |access-date=2 January 2019 |archive-date=14 March 2019 |archive-url=https://web.archive.org/web/20190314133451/https://montrealgazette.com/opinion/columnists/vladimir-poutine-puts-a-political-spin-on-popular-quebec-dishes |url-status=live }}</ref>
+
+<ref name="MarquisRussia">{{cite news |first=Melanie |last=Marquis |title=From Russia with gravy: Moscow food truck puts own spin on poutine |date=26 August 2018 |work=[[CTV News]] |agency=[[The Canadian Press]] |url=https://www.ctvnews.ca/lifestyle/article/from-russia-with-gravy-moscow-food-truck-puts-own-spin-on-poutine/ |access-date=11 March 2022 |archive-date=26 August 2018 |archive-url=https://web.archive.org/web/20180826234545/https://www.ctvnews.ca/lifestyle/from-russia-with-gravy-moscow-food-truck-puts-own-spin-on-poutine-1.4068746 |url-status=live }}</ref>
+
+<ref name="BilefskyVlad">{{cite news |first=Dan |last=Bilefsky |title=A Quebec restaurant that claimed to invent poutine rebrands to rebuke Putin (Poutine in French) |date=7 March 2022 |work=[[The New York Times]] |url=https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html |access-date=11 March 2022 |archive-date=10 March 2022 |archive-url=https://web.archive.org/web/20220310083902/https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html |url-status=live }}</ref>
+
+<ref name="Chaar2024">{{cite news
+|first=Mike
+|last=Chaar
+|date=3 July 2024
+|title=A massive poutine festival is coming to Montreal's Old Port this month
+|url=https://www.mtlblog.com/massive-poutine-festival-is-coming-to-montreal-this-month
+|work=[[MTL Blog]]
+}}</ref>
+
+<ref name="Renfrew2023">{{cite web
+|first=Matthew
+|last=Renfrew
+|title=Le Grand PoutineFest is on in the Old Port of Montreal through July 30
+|date=19 July 2023
+|website=[[Cult MTL]]
+|url=https://cultmtl.com/2023/07/poutine-festival-le-grand-poutinefest-comes-to-the-old-port-of-montreal-from-july-19-to-30/
+}}</ref>
+
+<ref name="Sciola2022">{{cite news
+|first=Al
+|last=Sciola
+|title=Quebec's Grand PoutineFest Makes its way to Old Montreal this month
+|date=7 July 2022
+|work=[[Daily Hive]]
+|url=https://dailyhive.com/montreal/grand-poutinefest-quebec-food-trucks
+}}</ref>
+</references>
+
+==External links==
+* {{Commons category-inline|Poutine}} 
+* {{Wiktionary-inline}}
+
+{{Potato dishes}}
+{{Cheese dishes}}
+{{Street food}}
+
+[[Category:Cheese dishes]]
+[[Category:Cuisine of Quebec]]
+[[Category:Canadian cuisine]]
+[[Category:Cultural appropriation]]
+[[Category:Culture of Quebec]]
+[[Category:Fast food]]
+[[Category:French fries]]
+[[Category:National dishes]]
+[[Category:Street food]]

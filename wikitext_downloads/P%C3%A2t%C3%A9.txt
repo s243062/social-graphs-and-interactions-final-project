@@ -1,0 +1,174 @@
+{{Short description|Forcemeat}}
+{{For|the short film|Pâté (film){{!}}''Pâté'' (film)}}
+{{Use dmy dates|date=February 2024}}
+{{Infobox food
+| name            = Pâté
+| image           = Pates p1150435.jpg
+| image_size      = 250px
+| caption         = Various pâtés
+| alternate_name  = 
+| country         = {{Plainlist|
+*[[France]]
+}}
+| region          = 
+| creator         = 
+| course          = 
+| type            = 
+| served          = 
+| main_ingredient = [[Meat]], [[fish]], [[seafood]], or [[vegetable]]s
+| variations      = 
+| calories        = 
+| other           = 
+}}
+'''Pâté''' ({{IPAc-en|UK|ˈ|p|æ|t|eɪ}} {{respell|PAT|ay}}, {{IPAc-en|US|p|æ|ˈ|t|eɪ|,_|p|ɑː|-}} {{respell|pa(h)|TAY}}, {{IPA|fr|pɑte|lang|LL-Q150 (fra)-Penegal-pâté.wav}}) is a [[forcemeat]]. Originally, the dish was cooked in a [[Pastry|pastry case]]; in more recent times it is more usually cooked without pastry in a [[terrine (cookware)|terrine]]. Various ingredients are used, which may include meat from pork, poultry, fish or beef; fat; vegetables; herbs; spices; wine; and brandy.
+
+==History and etymology==
+Both the ''[[Dictionnaire de l'Académie française]]'' and the ''[[Oxford English Dictionary]]'' (OED) date the term back to the 12th century. The former gives the original meaning as a "culinary preparation consisting of minced meat or fish surrounded by dough and baked in the oven";<ref>[https://www.dictionnaire-academie.fr/article/A9P0933 "Pâté, nom masculin"], ''Dictionnaire de l'Académie française''. Retrieved 7 March 2024</ref> the OED's definition is "a pie or pastry usually filled with finely minced meat, fish, vegetables, etc."<ref name=oed>{{cite OED| pâté}}</ref> The French words {{lang|fr|pâte}} (pastry) and {{lang|fr|pâté}} are both derived from the Latin {{lang|it|pasta}} meaning paste or dough (as is the English "pastry").<ref>Davidson, p. 229</ref> By the 19th century the pastry case was often dispensed with.<ref name=oed/> According to ''[[Larousse Gastronomique]]'', when there is a pastry case the dish is {{lang|fr|pâté en croute}} and when there is not, and the mixture is cooked in a dish (called a {{lang|fr|[[terrine (cookware)|terrine]]}}), it is {{lang|fr|pâté en terrine}}, often abbreviated to {{lang|fr| [[terrine (food)|terrine]]}} or {{lang|fr|pâté}}, terms used interchangeably in both French and English usage.<ref name=lg>Beullac, p. 922</ref> A [[patty]] is a similar dish, and its name comes from a 19th-century English corruption of the French word pâté.{{Cn|date=April 2025}}
+
+Pâté was known to the Romans, who generally made it with pork, although other main ingredients might include marinated and spiced birds' tongues.<ref name=lg/> In the Middle Ages, there were numerous recipes for {{lang|fr|pâtisseries}} (meats – pork, poultry, game or fish – cooked in pastry).<ref name=lg/>
+
+Tinned pâté, being [[Shelf-stable food|shelf-stable]], has sometimes been included in [[military rations]],<ref>{{cite web |last1=Graham-Harrison |first1=Emma |title=The eat of battle – how the world's armies get fed |url=https://www.theguardian.com/lifeandstyle/2014/feb/18/eat-of-battle-worlds-armies-fed |website=The Guardian |access-date=6 February 2024 |date=18 February 2014 |archive-date=13 September 2023 |archive-url=https://web.archive.org/web/20230913010510/https://www.theguardian.com/lifeandstyle/2014/feb/18/eat-of-battle-worlds-armies-fed |url-status=live }}</ref> for, among others, the  [[French Armed Forces]], whose rations have included tinned pâté for more than 100 years.<ref>{{cite news |last1=Lilley |first1=Zane |title=French reservist sends 22,000 tins of Breton pâté to Ukrainian sailors |url=https://www.connexionfrance.com/article/French-news/French-reservist-sends-22-000-tins-of-Breton-pate-to-Ukrainian-sailors |access-date=6 February 2024 |publisher=The Connexion |date=17 May 2023 |archive-date=22 September 2023 |archive-url=https://web.archive.org/web/20230922015237/https://www.connexionfrance.com/article/French-news/French-reservist-sends-22-000-tins-of-Breton-pate-to-Ukrainian-sailors |url-status=live }}</ref>
+
+== Varieties ==
+There are numerous varieties of French pâtés or terrines, including:
+{| class="wikitable sortable plainrowheaders" style="text-align: left; margin-right: 0;"
+! scope="col" |Type and main ingredients
+! scope="col" |French name
+! scope="col" class="unsortable" |Reference
+|-
+| calves' sweetbreads terrine
+| {{lang|fr|terrine de ris de veau}}
+| <ref>Beullac, p. 1254</ref>
+|-
+| game pâté
+| {{lang|fr|terrine de gibier}}
+| <ref>David (2010), p. 198</ref>
+|-
+| duck or goose liver pâté ([[foie gras]])
+|{{lang|fr|pâte de foie gras}}
+| <ref>Brazier, p. 63</ref>
+|-
+| ham and cauliflower terrine
+| {{lang|fr|terrine de jambon et chou-fleur}}
+| <ref>Roux, p. 41</ref>
+|-
+| ham, pork and veal terrine
+| {{lang|fr|terrine de jambon, porc et veau}}
+| <ref>David (1999 ), p. 506</ref>
+|-
+| hare terrine
+| {{lang|fr|terrine de lièvre}}
+| <ref>David (1999 ), p. 432</ref>
+|-
+| mushroom pâté
+| {{lang|fr|pâté de cèpes}}
+| <ref>Brazier, p. 85</ref>
+|-
+| partridge terrine
+| {{lang|fr|terrine de perdreau}}
+| <ref name=m1294/>
+|-
+| pheasant terrine
+| {{lang|fr|terrine de faisan}}
+| <ref name=m1294>Beullac, pp. 1294–1295</ref>
+|-
+| pigeon terrine
+| {{lang|fr|terrine de pigeon}}
+| <ref>David (1999 ), p. 430</ref>
+|-
+| pork and game terrine
+| {{lang|fr|terrine de porc et de gibier}}
+| <ref>David (2010), p. 199</ref>
+|-
+| pork and liver pâté
+| {{lang|fr|terrine de campagne}}
+| <ref>David (2010), p. 197</ref>
+|-
+| quail terrine
+| {{lang|fr|terrine de caille}}
+| <ref name=m1294/>
+|-
+| rabbit terrine
+| {{lang|fr|terrine de lapin}}
+| <ref>David (1999 ), p. 429</ref>
+|-
+| truffled pâte of duck
+| {{lang|fr|pâté de canard [[Lucullus#Gastronome|Lucullus]]}}
+| <ref>David (2010), p. 200</ref>
+|-
+| turbot and salmon terrine with lobster
+| {{lang|fr|terrine de l'océan}}
+| <ref name=m1294/>
+|-
+| vegetable terrine
+| {{lang|fr|terrine de légumes}}
+| <ref name=m1294/>
+|-
+| venison liver pâté
+|{{lang|fr|pâté de foie de chevreuil}}
+| <ref>Brazier, p. 88</ref>
+|}
+
+==Parfait==
+Chicken liver {{lang|fr|parfait|italic=no}} is a subtype of pâté. Instead of first cooking the livers in butter, for a {{lang|fr|parfait|italic=no}} they are initially puréed when raw and then passed through a sieve or put in a blender before being mixed with, typically, eggs, fortified wine, shallots, thyme, garlic and cognac and cooked in a {{lang|fr|[[bain-marie]]}} until set. This allows for a smoother texture.<ref>[[Raymond Blanc|Blanc, Raymond]], [https://beebrecipes.co.uk/recipe/chicken_liver_parfait_53623 "Chicken liver parfait"], BBC. Retrieved 14 October 2024</ref>
+
+==Other countries==
+In Central and Eastern Europe, pâté from poultry liver is very popular and it is commonly known as ''pashtet'' ({{langx|ru| паштет}}, "pâté", {{langx|pl| pasztet}}, {{langx|cs| paštika}}, {{langx|hr| pašteta}}). Liver from other animals (such as cow) can also be used. The liver is first cooked (boiled or fried) and mixed with butter or fat and seasonings such as fresh or fried onions, carrots, spices, and herbs.<ref>{{Cite web|date=14 June 2020|title=Pork Liver Pâté – Nomadic Fork pork liver pate low carb|url=https://nomadicfork.com/pork-liver-pate/|access-date=11 January 2022|website=Nomadic Fork|language=en-US|archive-date=11 January 2022|archive-url=https://web.archive.org/web/20220111035437/https://nomadicfork.com/pork-liver-pate/|url-status=live}}</ref> It can be further cooked (usually baked), but most often used without any other preparation. In Russia, the pâté is served on a plate or in a bowl, and is typically moulded into the shapes of animals, such as hedgehogs.<ref>Goldstein, p. 33</ref>
+
+In [[Jewish cuisine|Ashkenazi Jewish cuisine]], a similar recipe is known as [[chopped liver]], with [[schmaltz]] used instead of butter and hard-boiled eggs frequently added. Another common type of pâté in Jewish cuisine, also popular in Russia and Ukraine, is [[vorschmack]], or ''gehakte herring'' (chopped herring).<ref name="Pokhlyobkin">В. В. Похлебкин. ''Национальные кухни наших народов''. Москва, изд. Пищевая пром-сть, 1980. [http://supercook.ru/pohlebkin-nknn/pohlebkin-nknn-41.html Еврейская кухня] {{Webarchive|url=https://web.archive.org/web/20171231191803/http://supercook.ru/pohlebkin-nknn/pohlebkin-nknn-41.html |date=31 December 2017 }}. ([[William Pokhlyobkin]]. ''The Ethnic Cuisines of our Peoples''. Moscow, Food Industry publishing house, 1980; Russian)</ref>  In [[Vietnamese cuisine]], pâté is commonly used on {{lang|vi|[[bánh mì]]}} ''[[baguette]]''-type sandwiches.<ref>{{Cite web |url=http://www.chow.com/recipes/11211-pork-and-pate-vietnamese-sandwich-banh-mi |title=Pork and Pâté Vietnamese Sandwich (''Banh Mi'') |access-date=13 February 2015 |archive-date=14 February 2015 |archive-url=https://web.archive.org/web/20150214020350/http://www.chow.com/recipes/11211-pork-and-pate-vietnamese-sandwich-banh-mi |url-status=live }}</ref>
+
+<gallery widths="200" heights="155">
+File:Terrine de sanglier.JPG|Wild boar terrine
+File:Chopped liver.jpg|Chopped liver
+File:Форшмак по-одесски.jpg|''Vorschmack'' (chopped herring)
+File:Easter_food_in_Poland,_Polish_Easter_Breakfast_01.jpg|Polish ''pasztet''
+</gallery>
+
+== See also ==
+{{Portal|Food}}
+{{div col|colwidth=30em}}
+* [[Cretons]]
+* [[Fatback]]
+* [[Galantine]]
+* [[Gefilte fish]]
+* [[Head cheese]]
+* [[Offal]]
+* [[Rillettes]]
+* [[Foie gras]]
+* [[Liver paté]]
+* [[Liver spread]]
+* [[List of spreads]]
+* [[Livermush]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+*{{cite book | editor-last = Beullac |editor-first= Geneviève  | title = Larousse Gastronomique| publisher = Hamlyn| date = 2001| location = London| url=https://archive.org/details/laroussegastrono0000unse_p1z2/mode/2up|isbn = 978-0-60-060235-4 }}
+*{{cite book |last1= Brazier |first1 = Eugénie|authorlink= Eugénie Brazier
+|last2= Moreau |first2 = Roger|last3= Bocuse |first3 = Paul|author-link3 = Paul Bocuse |last4= Pacaud |first4 = Bernard|title= La Mère Brazier: The Mother of Modern French Cooking|location =London |publisher=Modern Books |year =2015|orig-date=2004 |isbn =978-1-906761-84-4}} 
+* {{cite book | last=David|first=Elizabeth|authorlink=Elizabeth David|title=Elizabeth David Classics| year=1999 |orig-year=1980| location=London | publisher= Grub Street | isbn=978-1-902304-27-4}} 
+*{{cite book | last =David | first = Elizabeth | title = French Provincial Cooking| date = 2010|orig-date=1960 | location =London | publisher =Folio Society | oclc=809349711}} 
+* {{cite book | title = A Taste of Russia: A Cookbook of Russian Hospitality | first = Darra|last= Goldstein | publisher = Russian Information Service | url = https://books.google.com/books?id=aKEICug2T-EC&q=russian+pate&pg=PA33 | date = 1999 | isbn = 978-1-88-010042-4 }}
+*{{cite book | last =Roux | first =Michel Jr |authorlink=Michel Albert Roux
+| title = A Life in the Kitchen| date = 2009| location = London | publisher = Weidenfeld & Nicolson | isbn =978-0-297-84482-2 }}
+
+== External links ==
+* {{wiktionary-inline}}
+
+{{Sausage}}
+{{French cuisine}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pate}}
+[[Category:Appetizers]]
+[[Category:Belgian cuisine]]
+[[Category:Charcuterie]]
+[[Category:Food paste]]
+[[Category:French cuisine]]
+[[Category:Garde manger]]
+[[Category:Liver (food)]]
+[[Category:Spreads (food)]]
+[[Category:Vietnamese cuisine]]
+[[Category:Ground meat]]

@@ -1,0 +1,59 @@
+{{short description|Dutch potato dish}}
+{{Infobox food
+| name = Stamppot
+| image = Boerenkool stamppot.jpg
+| caption = A ''[[Grünkohlessen|boerenkool]]'' ([[kale|curly kale]]) {{lang|nl|stamppot}} served with traditional {{lang|nl|[[rookworst]]}} ([[Sausage#Classifications|smoked sausage]])
+| alternate_name = 
+| region = 
+| creator = 
+| course = 
+| type = Side dish or main course
+| served = 
+| main_ingredient = [[Potato]]es, various [[vegetables]] and/or [[fruit]]
+| variations = {{lang|nl|[[Hutspot]]}}, {{lang|nl|wortelstoemp}}
+| calories = 
+| other = 
+| place_of_origin = Netherlands
+}}
+'''{{Lang|nl|Stamppot|i=no}}''' ({{IPA|nl|ˈstɑmpɔt|lang|Nl-stamppot.ogg}}; {{lit|mash pot}}) is a traditional Dutch dish made from a combination of [[potato]]es mashed with one or several vegetables and typically garnished with [[sausages]].
+
+==History and description==
+These vegetable pairings traditionally include [[sauerkraut]], [[endive]], [[spinach]], [[kale]], [[turnip]] greens, or [[carrot]] and [[onion]] (the combination of the latter two is known as ''[[hutspot]]'' in the Netherlands and as ''[[stoemp|wortelstoemp]]'' in Belgium). Leafy greens, such as endive, may be left raw and added to the potatoes only at the mashing stage.<ref name=andijvie/> Some less common regional varieties of {{Lang|nl|stamppot}} are made with fruit and potatoes, such as {{Lang|nl|blauwe bliksem}} 'blue lightning', made with pears, and {{Lang|nl|hete bliksem}} 'hot lightning', made with sweet apples.<ref name=albala/> Pineapple may also be included in sauerkraut<ref>{{cite web|title=Zuurkoolstamppot met ananas| trans-title=Sauerkraut stamppot with pineapple| language= nl| url= https://www.unox.nl/nl/recepten/zuurkoolstamppot-met-ananas?reset=1|website=Unox.nl|access-date=12 October 2015}}</ref> or endive {{Lang|nl|stamppot}}.<ref name=andijvie>{{cite web|title=Andijviestamppot met ananas|trans-title=Endive stamppot with pineapple|language=nl|url=http://www.recepten.net/recept.html?recept=andijviestamppot-met-ananas|archive-url=https://web.archive.org/web/20111123205218/http://www.recepten.net/recept.html?recept=andijviestamppot-met-ananas|url-status=dead|archive-date=November 23, 2011|website=Recepten.net|access-date=12 October 2015}}</ref> In recent years, variations on the traditional {{Lang|nl|stamppot}} have become more popular with ingredients such as [[arugula|rocket]], [[leek]]s, [[beet]]s, [[sweet potato]], or [[mushroom]]s. Sometimes, fish is used as an ingredient in {{Lang|nl|stamppot}} as well. {{Lang|nl|Stamppot}} is primarily a cold-weather dish.<ref name=albala>{{cite book| editor1-last= Albala |editor1-first= Ken|title=Food Cultures of the World Encyclopedia| date= 2011| publisher= Greenwood| isbn= 978-0313376269 |page= 251 |url= https://books.google.com/books?id=zG1H75z0EYYC&q=Stamppot&pg=RA3-PA251| access-date= 12 October 2015}}</ref>
+
+''{{Lang|nl|Stamppot}}'' is usually served with [[sausage]] (in the Netherlands often smoked, in Belgium more often fried), julienned bacon, or stewed meat. Other accompaniments include cheese, gherkins, mustard, and pickled onions.<ref name= andijvie/><ref name=albala/>
+
+Prepared ''{{Lang|nl|stamppot}}'' can be purchased from shops and supermarkets. It can also be ordered in cafe-style restaurants, but recent, stricter regulations on allowed foods in [[tavern]]s versus restaurants have limited the custom of offering simple dishes in many Belgian pubs.{{Citation needed|date=February 2023}}
+
+The origin of ''{{Lang|nl|stamppot}}'' is unknown, although legend attributes the invention of {{Lang|nl|hutspot}} to the 1574 [[Siege of Leiden]].<ref>{{cite news |title= 10 traditional Dutch recipes — not all of which involve potato| url= http://www.dutchnews.nl/features/2015/02/10-traditional-dutch-recipes-not-all-of-which-involve-potato/| access-date= 12 October 2015| work= DutchNews.nl |date= 20 February 2015}}</ref> Using raw leafy vegetables instead of cooking them with the potatoes has not been dated to earlier than 1940.<ref name=historiek>{{cite web| title= Gezocht: vooroorlogse stamppot rauwe andijvie|trans-title=Seeking: pre-war recipes for stamppot with raw endive |url= http://historiek.net/gezocht-vooroorlogse-stamppot-rauwe-andijvie/51663/| website= Historiek.net |language= nl |access-date= 12 October 2015}}</ref>
+
+== Preparation ==
+[[File:2015 0330 Hutspot karbonade.jpg|thumb|''{{Lang|nl|Hutspot}}'' served with a pork chop]]
+[[File:2015 1021 Andijviestamppot met speklap.jpg|thumb|An {{Lang|nl|andijviestamppot}} ([[endive]] mashed with potatoes) served with a slice of butter-fried pork belly and butter gravy]]
+There are two methods of preparing ''{{Lang|nl|stamppot}}'', the first being the more modern form:
+# ''{{Lang|nl|Stamppot}}'' is prepared by boiling the vegetables and potatoes separately. Once done, the potatoes are added to the same pot as the vegetables and all are thoroughly mashed together. {{Lang|nl|[[Rookworst]]}}, a type of smoked sausage, is the preferred piece of meat to be added to the dish in the Netherlands.
+# ''{{Lang|nl|Stamppot}}'' can also be made in a single pot. Potatoes and the vegetables or fruit of choice are placed in the pot. Water is added, and the mixture is left to boil. After the vegetables are cooked and drained, some milk, butter and salt are added, and the vegetables are mashed together. Sometimes the same pot is used to warm sausage as well, but those are not mashed in. An example often cooked by this method is ''{{Lang|nl|hutspot}}'' with carrots and onions as vegetables.<ref name="DT">{{cite web|last1=Holten|first1=Nicole|title=Boerenkool met worst|url=http://www.thedutchtable.com/2010/10/boerenkool-met-worst-kale-potatoes-with.html|website=TheDutchTable.com|language=en|access-date=11 October 2015|date=9 October 2010}}</ref>
+
+[[Lardon]]s ({{Lang|nl|spekjes}}) are often added for flavoring. It is also common to make a small hole in the top of the mix on the plate and fill it with gravy, known in Dutch as a {{Lang|nl|kuiltje jus}} 'little gravy pit'.<ref name="DT"/>
+
+== Similar dishes ==
+* [[Bubble and squeak]], from [[English cuisine|England]]
+* [[Champ (food)|Champ]] and [[colcannon]], from [[Irish cuisine|Ireland]]
+* [[Rumbledethumps]], from [[Scottish cuisine|Scotland]]
+* ''[[Stoemp]]'', from [[Belgian cuisine|Belgium]]
+* ''[[Trinxat]]'', from the [[Empordà]] region of [[Catalonia]], northeast [[Spain]], and [[Andorra]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+{{commons category}}
+* {{Cite book |last=Bates |first=Johanna Van der Zeijst |title=Let's Go Dutch |publisher=van der Zeijst Publishing |year=1988 |isbn=9780919845541 |location=Calgary |pages=83–84}}
+
+{{Potato dishes}}
+{{Dutch cuisine}} 
+
+[[Category:Belgian cuisine]]
+[[Category:Dutch cuisine]]
+[[Category:Dutch words and phrases]]
+[[Category:Potato dishes]]
+[[Category:National dishes]]

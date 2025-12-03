@@ -1,0 +1,73 @@
+{{short description|American beef dish}}
+{{Infobox food
+| name = Salisbury steak
+| image = [[File:Salisbury_steak_with_brown_sauce.jpg|255px]]
+| caption = Salisbury steak with brown [[gravy]]
+| alternate_name = 
+| country = United States
+| national_cuisine = 
+| creator = [[James H. Salisbury]]
+| year = 
+| mintime = 
+| maxtime = 
+| type = 
+| course =
+| served = Hot
+| main_ingredient = Ground beef
+| other = 
+}}
+
+'''Salisbury steak''' is a processed meat dish originating in the United States and made from a blend of ground beef and other ingredients, such as chicken and pork, being considered a version of [[Hamburg steak]]. Today, Salisbury steak is usually served with a gravy similar in texture to [[brown sauce (meat stock based)|brown sauce]], along with various side dishes, such as mashed potatoes and cooked vegetables (typically green beans and occasionally peas or corn). It is a common menu item served by diners and is frequently available as a [[Frozen meal|TV dinner]] in supermarket frozen food sections.
+
+== Background ==
+{{main|History of the hamburger}}
+[[File:Hamburg steak.jpg|thumb|[[Hamburg steak]] is known by the name "[[Frikadeller|Frikadelle]]" in [[Germany]] since (at least) the 17th century.]]
+[[Hamburg]] was a common embarkation point for transatlantic voyages during the first half of the 19th century and [[New York City]] was the most common destination. Various New York restaurants offered ''Hamburg-style American fillet'',<ref>{{Cite book|author= Ranhofer, Charles |title= The Epicurean: A Complete Treatise of Analytical & Practical Studies |edition= 1st |year= 1894 |id= B00085H6PE}}</ref><ref name="Ozersky">{{Cite book|title=The Hamburger: A History (Icons of America)|first=Josh|publisher=Yale University Press|year=2008|isbn=978-0-300-11758-5|edition=1st|location=London|author=Ozersky|url-access=registration|url=https://archive.org/details/hamburgerhistory0000ozer}}</ref> or even ''beefsteak à l'hambourgeoise''. Early American preparations of ground beef were therefore made to fit the tastes of European immigrants.<ref name="Moch">{{Cite book|author= Moch, Leslie Page |title= Moving Europeans: Migration in Western Europe Since 1650 |edition= 2nd |year= 2003 |publisher= Indiana University Press |isbn= 0-253-21595-1}}</ref>
+
+===Origin of the name===
+[[James H. Salisbury]] (1823–1905) was an American physician and chemist known for his advocacy of a meat-centered, low-vegetable diet to promote health, possibly the earliest known fad diet.<ref name=":0">{{Cite web |last=Magazine |first=Smithsonian |last2=Bramen |first2=Lisa |title=Salisbury Steak: Civil War Health Food |url=https://www.smithsonianmag.com/arts-culture/salisbury-steak-civil-war-health-food-18584973/ |access-date=2025-03-15 |website=Smithsonian Magazine |language=en}}</ref>  He called it ''muscle pulp of beef''.<ref name=":0" /> The name ''Salisbury steak'' for a ground beef patty served as the main course has been used in the United States since 1897.<ref>{{Cite web|url=http://www.merriam-webster.com/dictionary/salisbury%20steak |title=Salisbury steak |access-date=2009-01-28 |work=Merriam-Webster Online}}</ref>
+
+Salisbury recommended this recipe (somewhat different from modern Salisbury steak recipes) for the treatment of alimentation (digestive disorders):
+{{cquote|Heat the muscle pulp of lean beef made into cakes and broiled. This pulp should be as free as possible from connective or glue tissue, fat and cartilage. [...] 
+
+Previous to chopping, the fat, bones, tendons and fasciae should all be cut away, and the lean muscle cut up in pieces an inch or two square. Steaks cut through the centre of the round are the richest and best for this purpose. Beef should be procured from well fatted animals that are from four to six years old.
+
+The pulp should not be pressed too firmly together before broiling, or it will taste livery. Simply press it sufficiently to hold it together. Make the cakes from half an inch to an inch thick. Broil slowly and moderately well over a fire free from blaze and smoke. When cooked, put it on a hot plate and season to taste with butter, pepper, salt; also use either [[Worcestershire sauce|Worcestershire]] or [[Halford sauce]], mustard, horseradish or lemon juice on the meat if desired. Celery may be moderately used as a relish.<ref>[https://books.google.com/books?id=_V_9XiEifFAC&pg=PA97 The Relation of Alimentation and Disease By James Henry Salisbury]</ref>}}
+
+== U.S. standards of identity (for packaged product) ==
+[[United States Department of Agriculture]] standards for processed, packaged "Salisbury steak" require a minimum content of 65% meat, of which up to 25% can be pork. The exception is if de-fatted beef or pork is used, where the limit is 12% combined. No more than 30% may be fat. Meat byproducts are not permitted; however, beef heart meat is allowed. Extender (bread crumbs, flour, oat flakes, etc.) content is limited to 12%, except isolated soy protein at 6.8% is considered equivalent to 12% of the others. The remainder consists of seasonings, fungi or vegetables (onion, bell pepper, mushroom or the like), binders (can include egg) and liquids (such as water, milk, cream, skim milk, [[buttermilk]], brine, vinegar, etc.). The product must be fully cooked, or else labeled "Patties for Salisbury Steak".<ref>[http://www.fsis.usda.gov/OPPDE/larc/Policies/Labeling_Policy_Book_082005.pdf Food Standards and Labeling Policy, USDA] {{Webarchive|url=https://web.archive.org/web/20110205112343/http://www.fsis.usda.gov/OPPDE/larc/Policies/Labeling_Policy_Book_082005.pdf |date=2011-02-05 }}, FSIS, September 2005, p. 165</ref>{{dead link|date=May 2024}}
+
+== See also ==
+{{portal|Food}}
+* [[List of steak dishes]]
+* [[Chapli kabab|Chapli]] and [[Shami Kebab]]
+* [[Frikadelle]]
+* [[Meatloaf]]
+* [[Pljeskavica]], a [[Serbian cuisine|Serbian]] grilled dish consisting of a mixture of spiced minced pork, beef and lamb.
+* [[Rissole]]
+* [[Swiss steak]]
+* [[Tteok-galbi]],  a [[Korean cuisine|Korean]] beef dish made with minced [[beef]] [[short ribs]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Cite web
+| title = Salisbury Steak: The First Fad Diet
+| author = Lance Geiger
+| work = The History Guy
+| date = May 16, 2022
+| access-date = 14 June 2022
+| url = https://www.youtube.com/watch?v=ZQCntDXqNMg
+| quote = 
+}}
+
+{{Commons category inline|Salisbury steaks}}
+
+{{Beef}}
+{{Burgers}}
+
+{{DEFAULTSORT:Salisbury steak}}
+[[Category:Hamburgers (food)]]
+[[Category:American beef dishes]]
+[[Category:Meat dishes]]

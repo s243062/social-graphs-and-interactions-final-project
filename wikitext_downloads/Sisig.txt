@@ -1,0 +1,69 @@
+{{short description|Filipino dish that consists of pork scraps}}
+{{Use Philippine English|date=November 2022}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox food
+| name             = Sisig
+| image            = Authentic Kapampangan Sisig.jpg
+| image_size       = 240px
+| caption          = [[Kapampangan cuisine|Kapampangan]] ''sisig'' served on a hot plate.
+| alternate_name   = Sisig
+| country          = [[Philippines]]
+| region           = [[Pampanga|Pampanga region]]
+| creator          = Modern ''sisig'' – [[Lucia Cunanan]]; original ''sisig'' – no attributed creator
+| course           = [[Main course]], [[snack]], [[salad]]
+| served           = Hot
+| main_ingredient  = [[Pork]] jowls, ears, sometimes brain and liver, onions and chili
+| variations       = Chicken ''sisig'', beef ''sisig'', squid ''sisig'', tuna or ''[[bangus]] sisig'' or other fish, [[tofu]] ''sisig''
+| calories         = 293<ref>{{cite web|title=Sisig Recipe - Calorie Count|url=http://caloriecount.about.com/sisig-recipe-r130756|url-status=dead|access-date=October 6, 2009}}{{dead link|date=March 2025}}</ref>
+| other            = Sisig Day, January 3
+|similar_dish = [[Dinakdakan]], [[Kilawin]], [[Tokwa't baboy]]
+}}
+'''''Sisig''''' ({{IPAc-en|ˈ|s|iː|s|ɪ|ɡ}}<ref>{{Cite web|title=Definition of Sisig by Oxford Dictionary|access-date=December 15, 2020|website=Lexico.com|url=https://www.lexico.com/definition/sisig}}{{dead link|date=September 2022|bot=medic}}{{cbignore|bot=medic}}</ref> {{IPA|tl|'sisig}}) is a [[Filipino cuisine|Filipino]] dish made from [[pork jowl]] and ears (''maskara''), [[pork belly]], and chicken liver, which is usually seasoned with [[calamansi]], onions, and [[chili peppers]]. It originates from the [[Pampanga]] region in [[Luzon]].
+
+''Sisig'' is a staple of [[Kapampangan cuisine]]. The city government of [[Angeles, Pampanga]], through City Ordinance No. 405, series of 2017, declared sizzling ''sisig babi'' ("pork ''sisig''") as a tangible heritage of Angeles City.<ref name=":0">Angeles Ordinance No. 405, Series of 2017 “An ordinance declaring Sizzling Sisig Babi as an [[intangible cultural heritage]] of Angeles, and establishing systems and policies in safeguarding the original recipe of Sizzling Sisig, providing mechanisms of implementation, and for other related purposes”)</ref>
+
+== Origin ==
+The earliest known record of the word ''sisig'' can be traced back to 1732, and was recorded by [[Augustinians|Augustinian]] friar Diego Bergaño in his ''Vocabulary of the Kapampangan Language in Spanish and Dictionary of the Spanish Language in Kapampangan''.<ref>{{Cite book|title=Vocabulary of the Kapampangan Language in Spanish and Dictionary of the Spanish Language in Kapampangan|last=Bergaño|first=Diego|publisher=Holy Angel University Press|year=2007|isbn=978-9719367215|location=Angeles, Pampanga, Philippines}}</ref><ref>{{Cite book|title=Bocabulario de pampango en romance, y diccionario de romance en pampango|last=Bergaño|first=Diego|publisher=Impresso en El Convento de Nuestra Señora de los Angeles|year=1732|location=Manila, Captaincy General of the Philippines}}</ref> Bergaño defines ''sisig'' as a "salad, including green [[papaya]], or green [[guava]] eaten with a dressing of salt, pepper, garlic, and vinegar." The term ''manisig'' as in ''manisig manga'', a phrase still used today, refers to eating green mangoes dipped in vinegar.
+
+The term also came to be used to a method of preparing fish and meat, especially [[pork]], which is [[marination|marinated]] in a sour liquid such as [[lemon]] juice or vinegar, then seasoned with salt, pepper, and other spices.<ref>{{cite web|title=The Pilgrim's Pots and Pans|url=http://karen.mychronicles.net/?p=135|archive-url=https://web.archive.org/web/20060221012343/http://karen.mychronicles.net/?p=135|url-status=dead|archive-date=February 21, 2006|access-date=July 10, 2007}}</ref>
+
+=== Sisig queen ===
+{{main|Lucia Cunanan}}
+[[Lucia Cunanan]] of Angeles, also known as "[[wikt:ale#Tagalog|Aling]] Lucing", has been credited with reinventing the modern version of ''sisig''.<ref name=gma>{{cite news|title=RP's sisig queen found dead in Pampanga home|url=http://www.gmanews.tv/story/89628/RPs-sisig-queen-found-dead-in-Pampanga-home|publisher=GMANews.TV|date=April 16, 2008|access-date=April 16, 2008}}</ref> Cunanan's trademark ''sisig'' was developed in mid-1974 when she served a concoction of grilled and chopped pig ears and cheeks seasoned with vinegar, calamansi juice, chopped onions and chicken liver and served in hot plates. Today, varieties include ''sisig ala pizzailo'', pork combination, green mussels or ''tahong'', mixed seafood, ostrich ''sisig'', crocodile ''sisig'', spicy python, frog ''sisig'', and ''[[Tokwa at baboy|tokwa't baboy]]'', among others.<ref name=gma/> 
+[[File:Aling_Lucing_Fred%27s_Cafe_1.jpg|150px|thumbnail|right|An Aling Lucing Sisig restaurant branch in [[Magalang, Pampanga]]]]
+
+The [[Department of Tourism (Philippines)|Philippine Department of Tourism]] has acknowledged that her "Aling Lucing's" restaurant had established Angeles as the "Sisig Capital of the Philippines" in 1974.<ref>{{cite web|title=Festivals and Events: Pampanga|url=http://www.visitmyphilippines.com/index.php?title=Pampanga&func=all&pid=4530&tbl=0|publisher=Department of Tourism|work=The Ultimate Philippines Ultimate Travel Guide For Tourists|access-date=April 16, 2008}}</ref> 
+[[File:Sísig Bábî.jpg|thumb|Sizzling ''sisig'' served on grill platters]]
+The use of the pig's head in the modern versions of the dish is commonly attributed to the readily-accessible supply of cheap excess meat from the commissaries of [[Clark Air Base]] in [[Angeles City]], when the [[United States bases in the Philippines|military bases agreement]] between the Philippines and the United States were still in effect (1947 to 1991).<ref>{{Cite web|url=http://www.pepper.ph/the-history-of-sisig/|title=Sisig: The Tragic History Behind Our Favorite Pulutan|last=Estrella|first=Serna|date=August 6, 2013|website=Pepper.ph|access-date=September 21, 2016}}</ref> Pig heads were purchased cheap (or free), since they were not used in preparing meals for the [[United States Air Force|U.S. Air Force]] personnel stationed there.<ref>{{cite web |url=http://services.inquirer.net/print/print.php?article_id=20090326-196363|archive-url=https://archive.today/20120714130824/http://services.inquirer.net/print/print.php?article_id=20090326-196363|url-status=dead|archive-date=July 14, 2012|title=Filipino cuisine on US television|author=Carlo Osi|date=March 26, 2009|work=Mind Feeds|publisher=Inquirer Company|access-date=June 18, 2011}}</ref>
+
+== Preparation ==
+[[File:Mushroom sisig.jpg|thumb|A ''sisig'' variation in [[Malolos]] uses mushroom as the main ingredient, served with fried rice and egg.]]
+According to Cunanan's recipe, preparing ''sisig'' comes in three phases: boiling, broiling, and finally grilling.<ref>{{cite book|last=Nora|first=Villanueva Daza|author2=Michaela Fenix |title=A Culinary Life: Personal Recipe Collection|publisher=Anvil Publishing|date=1992|isbn=971-27-0212-X|url=https://books.google.com/books?id=RzovAAAAMAAJ&q=sisig|page=14}}</ref> A pig's head is first boiled to remove hairs and to tenderize it. Portions of it are then chopped and grilled or broiled. Finally, coarsely chopped onions are added and served on a sizzling plate.
+
+Variations of ''sisig'' may include pork or chicken liver and/or any of: eggs, ox brains, ''chicharon'' ([[pork rind#Philippines|pork cracklings]]), and [[mayonnaise]]; although these additions are common nowadays, they are frowned upon by the traditionalist chefs of Pampanga as it deviates far from the identity of the original ''sisig''.<ref name="no mayo"/> Recently, local chefs have experimented with ingredients other than pork such as [[Chicken as food|chicken]], [[Squid as food|squid]], [[Tuna as food|tuna]], and [[tofu]].<ref name='no mayo'>{{cite web|url=https://www.gmanetwork.com/news/lifestyle/food/651699/sisig-with-egg-and-mayo-thanks-but-kapampangans-aren-t-having-any-of-that/story/|title=Sisig with egg and mayo? Thanks, but Kapampangans aren't having any of that|last=Banal|first=Ruston|date=April 30, 2018|website=GMA News Online|publisher=GMA Network|location=Philippines|language=en|archive-url=https://web.archive.org/web/20190730022748/https://www.gmanetwork.com/news/lifestyle/food/651699/sisig-with-egg-and-mayo-thanks-but-kapampangans-aren-t-having-any-of-that/story/|archive-date=July 30, 2019|access-date=July 30, 2019}}
+</ref>
+
+Sisig has also been improved into different dishes making it into salad, taco fillings, chicken stuffing, carbonara meat, and others.<ref>{{cite web | url=https://www.yummy.ph/lessons/cooking/sisig-recipes-filipino-sisig-a00261-20181026-lfrm | title=All the Sisig Recipes You Will Ever Need }}</ref>
+
+==Festival ==
+The annual "Sisig Festival" (''Sadsaran Qng Angeles'') is held every year during December in [[Angeles, Pampanga]], celebrating the ''Kapampangan'' dish. It started in 2003 and was made an annual festival by Mayor Carmelo Lazatin in December 2004 to promote the city's culinary prowess.<ref>{{cite news|url=http://www.sunstar.com.ph/static/pam/2004/12/13/news/sisig.fest.eyed.as.annual.tourism.event.html|title=Sisig Fest eyed as annual tourism event|last=Fabian|first=Dante M.|publisher=Sun.Star Pampanga|date=December 13, 2004|access-date=April 12, 2008|url-status=dead|archive-url=https://web.archive.org/web/20090622082401/http://www.sunstar.com.ph/static/pam/2004/12/13/news/sisig.fest.eyed.as.annual.tourism.event.html|archive-date=June 22, 2009}}</ref> The festival also features a contest where chefs compete in making dishes, primarily ''sisig''. [[Congo Grille]], a restaurant chain in the country, was the winner in 2006.<ref>{{cite web|url= http://www.sunstar.com.ph/static/pam/2006/12/09/feat/kapampangans.show.cooking.skills.at.sisig.festival..html|title=Kapampangans show cooking skills at Sisig festival|date=December 9, 2006|access-date=February 22, 2009|author=Reynaldo G. Navales|publisher=Sun.Star Pampanga}}</ref><ref>{{cite news|url=https://recipenijuan.com/sisig-recipe/|title=Sizzling Pork Sisig Recipe by Recipe ni Juan}}</ref><ref>{{cite news|url=http://philippineslifestyle.com/blog/2016/12/01/the-food-of-the-philippines-sizzling-pork-sisig/|title=Food of the Philippines: Sizzling Pork Sisig|url-status=dead|archive-url=https://web.archive.org/web/20161218143451/http://philippineslifestyle.com/blog/2016/12/01/the-food-of-the-philippines-sizzling-pork-sisig/|archive-date=December 18, 2016}}</ref>
+
+In 2008, the festival was put on hiatus following Aling Lucing's death. In 2014, [[Ayala Malls]]'s [[Marquee Mall]] incorporated the festival by including it within their annual Big Bite! Northern Food Festival, held every October or November.{{Citation needed|date=June 2022}}
+
+The Angeles City Tourism Office organized a festival on April 29, 2017. The revival of the festival was in line with the [[Department of Tourism (Philippines)|Philippine Department of Tourism's]] Flavors of the Philippines campaign. Now called "Sisig Fiesta", the festivities were held at Valdes Street, Angeles (also known as "Crossing" since it was a former railroad track), where Aling Lucing reinvented the dish. The newly revived Sisig Fiesta was a one-day event that featured a line up of ''sisig'' sampler banquet, ''sisig'' and BBQ stalls, cooking demonstrations with celebrity chefs, and a showcase of Angeleño culinary talent through competitions.{{Citation needed|date=June 2022}}
+
+==See also==
+* [[Dinakdakan]] – a similar dish from the Ilocos Region of the Philippines
+* [[Livermush]] – a Southern United States pork food product prepared using pig liver, parts of pig heads, cornmeal and spices
+
+==External links==
+* {{commonscat-inline}}
+
+==References==
+{{reflist|2}}
+
+{{Philippine cuisine}}
+
+[[Category:Philippine pork dishes]]
+[[Category:Offal]]
+[[Category:Culture of Pampanga]]

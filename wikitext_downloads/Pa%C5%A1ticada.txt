@@ -1,0 +1,36 @@
+{{Short description|Croatian braised beef dish}}
+{{Infobox food
+| name             = Pašticada
+| image            = File:Pašticada_-_Dalmatinska_pašticada.jpg
+| image_size       = 300
+| alternate_name   = Dalmatinska pašticada
+| country          = [[Croatia]]
+| region           = [[Dalmatia]]
+| creator          = 
+| course           = 
+| type             = [[Beef]]
+| served           = 
+| main_ingredient  = [[beef]], [[wine]], [[broth]] or [[Stock (food)|stock]], [[vinegar]], [[cloves]], [[prune]]s, [[carrot]]s, [[celery]], [[onion]]s
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Pašticada''' is a [[Braising|braised]] beef dish cooked in a fragrant [[sweet and sour]] sauce, popular in [[Croatia]]. It is often called ''Dalmatinska pašticada'' because it originates in [[Dalmatia]], where it is served at festivities and gatherings. The meal requires long and meticulous preparation.<ref>{{Cite web|title=Dalmatinska pašticada babe Nane na kaštelanski način|url=https://www.coolinarika.com/recept/dalmatinska-pasticada-babe-nane-na-kastelanski-nacin/|access-date=2020-12-25|website=Coolinarika|language=hr}}</ref><ref>{{Cite web|last=|first=|date=2017-05-10|title=Pašticada|url=http://gastrodiva.bloger.index.hr/post/pasticada/1026539.aspx|url-status=live|archive-url=https://web.archive.org/web/20170510115256/http://gastrodiva.bloger.index.hr/post/pasticada/1026539.aspx|archive-date=2017-05-10|access-date=2020-12-25|website=gastrodiva.bloger.index.hr|language=hr}}</ref> The meat, usually a whole [[eye of round]], is pierced and stuffed with garlic, cloves, carrot, celery, and bacon, and marinated in wine vinegar overnight. It is then [[Searing|seared]] and [[Simmering|simmered]] with onions, parsley root, prunes, wine, broth or stock, and sweet [[prošek]] wine for several hours. The meat is cut into thick slices and additionally cooked in the resulting sauce.  
+
+Pašticada is usually served with [[gnocchi]] or homemade pasta.
+
+==History==
+The exact origins of pašticada remain somewhat elusive. According to one theory, its roots trace back to French cuisine, introduced during the Napoleonic conquest, during which Dalmatia was under French rule. A variation of pašticada called '''[[pastitsada]]<nowiki>''</nowiki>'' is also found on the Greek island of Corfu, which was also conquered by the French in the 19th century. Interestingly, both Dalmatia and Corfu were once ruled by Venice, which adds another layer to the culinary exchange since alternartive hypothesis suggests connections to Italian culinary traditions, particularly the Veronese dish known as 'pastissáda de cavál', with its origins stemming from a blend of Venetian, Dalmatian, and ancient influences.<ref>{{Cite book |last=Barbieri |first=Veljko |title=Kuharski kanconijer - Gurmanska sjećanja mediterana - Vol 1. |publisher=Profil |year=2004 |isbn=953-200-609-5 |edition=4th |pages=194–199 |language=hr |trans-title=The Cooking Canzoniere}}</ref> The oldest known recipe for Dalmatian pašticada dates back to the fifteenth century and is documented in Dubrovnik.<ref>{{Cite web|last=|first=|date=2015-08-05|title=The Hirshon Croatian Beef Stew - Pašticada|url=https://www.thefooddictator.com/the-hirshon-croatian-beef-stew-pasticada/|archive-url=|archive-date=|access-date=2020-12-25|website=The Food Dictator|language=en-US}}</ref>
+
+==See also==
+* [[Croatian cuisine]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Pasticada}}
+[[Category:Croatian cuisine]]
+[[Category:Beef dishes]]
+
+{{Croatia-stub}}
+{{Meat-stub}}

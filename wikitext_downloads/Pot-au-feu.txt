@@ -1,0 +1,163 @@
+{{Short description|French beef stew}}
+{{About|the dish|the magazine|Le Pot-au-feu{{!}}''Le Pot-au-feu''|the 2023 film|The Taste of Things{{!}}''The Pot-au-Feu''}}
+{{EngvarB|date=February 2023}}
+{{Use dmy dates|date=January 2024}}
+{{Italic title}}
+{{Infobox food
+| name            = ''Pot-au-feu''
+| image           = Pot-au-feu SAM 2724.JPG
+| image_size      = 250px
+| caption         = ''Pot-au-feu'' with typical accompaniments
+| alternate_name  =
+| country         = [[France]]
+| region          =
+| creator         =
+| course          =
+| type            = [[Main dish]]
+| served          =
+| main_ingredient = Meat and vegetables (typically, carrots, celery, leeks, onions and turnips)
+| variations      =
+| calories        =
+| cookbook        = ''Pot-au-feu''
+| other           =
+}}
+
+{{lang|fr|'''Pot-au-feu'''}} ({{IPAc-en|ˌ|p|ɒ|t|oʊ|ˈ|f|ɜːr}}, {{IPAc-en|usalso|-|ˈ|f|ʌ}};<ref>{{cite OED|pot-au-feu}}; and {{Cite Merriam-Webster|pot-au-feu|accessdate=5 July 2019}}</ref> {{IPA|fr|pɔt‿o fø|lang|LL-Q150 (fra)-WikiLucas00-pot-au-feu.wav}}; {{literally|pot on the fire}}) is a [[French cuisine|French]] dish of slowly [[boiling|boiled]] meat and vegetables, usually served as two courses: first the [[broth]] (''bouillon'') and then the [[meat]] (''bouilli'') and [[vegetables]]. The dish is familiar throughout France and has many regional variations. The best-known have [[beef]] as the main meat, but [[pork]], [[chicken as food|chicken]], and [[sausage]] are also used.
+
+==Background==
+''[[The Oxford Companion to Food]]'' calls ''pot-au-feu'' "a [[dish (food)|dish]] symbolic of French cuisine and a meal in itself";<ref name=ocf>Hyman, p. 626</ref> the [[chef]] [[Raymond Blanc]] has called it "the quintessence of French family cuisine&nbsp;... the most celebrated dish in France, [which] honours the tables of the rich and poor alike";<ref name=rb>{{cite news|date=February 2011 |title=Vive La France! |url=http://www.raymondblanc.com/Portals/14/docs/OFM%20Feb%202011.pdf |url-status=dead |journal=Observer Food Monthly |publisher=The Observer |page=26|issue=112 |accessdate=31 May 2011 |archiveurl=https://web.archive.org/web/20111008053221/http://www.raymondblanc.com/Portals/14/docs/OFM%20Feb%202011.pdf |archivedate=8 October 2011}}</ref> and the American ''[[National Geographic]]'' magazine has termed it the [[national dish]] of France.<ref>{{Cite web|date=13 September 2011|title=Top 10 National Dishes – National Geographic|url=https://www.nationalgeographic.com/travel/top-10/national-food-dishes/|archive-url=https://web.archive.org/web/20161014060413/http://www.nationalgeographic.com/travel/top-10/national-food-dishes/|url-status=dead|archive-date=14 October 2016|access-date=8 August 2020|website=Travel|language=en}}</ref>
+
+The ''[[Dictionnaire de l'Académie française]]'' dates the term ''pot-au-feu'' to the 17th century.<ref>[https://www.dictionnaire-academie.fr/article/A9P3663 "''pot-au-feu''"], ''Dictionnaire de l'Académie française''. Retrieved 30 January 2023</ref> <!-- Somewhere around here the term and its components should be translated into English. -->In 1600, the king of France, [[Henry IV of France|Henry IV]], declared, "there shall be no peasant in my kingdom who lacks the means to have a hen in his pot."{{refn|"N'y aura point de Laboureur en mon Royaume, qui n'ait moyen d'avoir une poule dans son pot."<ref>Péréfixe, p. 549</ref>|group=n}} A one-pot stew was a staple of French cooking, and the traditional recipe for ''poule-au-pot'' – also known as ''pot-au-feu à la béarnaise''<ref name="larousse">Montagné, pp. 904–905</ref> – resembles that for ''pot-au-feu''.<ref>[http://ja6.free.fr/fichiers/f1166.htm La poule au pot farcie de "nouste Henric" du Béarn], Cuisine Collection. Retrieved 30 January 2023</ref>{{refn|Such one-pot, slow-cooked stews were earlier called a ''"[[potpourri|pot-pourri]]"'': the term dates to at least 1564 in Middle French, and indicated a dish of mixed meats.<ref name=pp>{{cite OED|pot-pourri}}</ref> The term, which was taken up in England in the 1600s, is related to the Spanish and Portuguese ''[[olla podrida]]''.<ref name=pp/>|group=n}}
+
+One batch of ''pot-au-feu'' was maintained as a [[perpetual stew]] in [[Perpignan]] from the 15th century until [[World War II]].<ref>{{cite web | url= https://www.nytimes.com/1981/05/06/garden/from-a-''pot-au-feu''-many-happy-returns.html | title=From, A ''pot-au-feu'', Many Happy Returns | work=New York Times | date=1981 | author=Prager, Arthur}}</ref>
+
+==Ingredients ==
+[[File:pot-au-feu ingrédients.jpg|thumb|upright=1.25|Some ''pot-au-feu'' ingredients: potato, [[beef shank|beef shin]], leek, carrot, celery, turnip and onion]]
+
+The central ingredient in ''pot-au-feu'' is meat. Many recipes specify more than one cut of beef to give both the broth and the cooked meat the required flavour and consistency. [[Elizabeth David]] writes that [[beef shank|shin]], because of its gelatinous properties, is good for the ''[[:wiktionary:bouillon|bouillon]]'' but produces a mediocre ''[[:wiktionary:bouilli|bouilli]]'', whereas a cut such as [[Silverside (beef)|silverside]] cooks well for the ''bouilli''.<ref>David, pp. 138–139</ref> For a large ''pot-au-feu,'' it is practicable to use both those cuts or a mixture of others. [[Paul Bocuse]] calls for six different cuts: [[Blade steak|blade]], [[brisket]], [[entrecôte]], [[oxtail]], [[Rib steak|rib]], and shin.<ref name=pb/> Some recipes add a [[Bone marrow (food)|marrow bone]], to give marrow to spread on the bread served with the broth.<ref>David, p. 139; and Escoffier, p. 216</ref> Some recipes add [[liver (food)|ox liver]] to improve the clarity of the broth.<ref>David, p. 139</ref>
+
+The inclusion of cabbage divides opinion; David comments that it is frequently encountered in France, but in her view, it "utterly wrecks" a ''pot-au-feu''; [[La bonne cuisine de Madame E. Saint-Ange|Madame Saint-Ange]] takes a similar view.{{refn|Saint-Ange and David suggest that if cabbage is to be served with a ''pot-au-feu'' it is cooked separately in a little of the bouillon from the main pot.<ref>David, p. 139; and Saint-Ange, p. 83</ref>|group=n}}  Blanc, [[Édouard de Pomiane]], and [[Auguste Escoffier]] include it;  Bocuse, [[Alain Ducasse]], and [[Joël Robuchon]] omit it,<ref name="rb" /><ref name="pb" /><ref>De Pomiane, p. 113; Ducasse, p. 305; Escoffier, p. 216; Montagné, pp. 904–905</ref><ref name="jr" /> as do [[Simone Beck]], [[Louisette Bertholle]], and [[Julia Child]], authors of ''[[Mastering the Art of French Cooking]]''.<ref name=bbc/> As well as a [[bouquet garni]] – traditionally made of [[parsley]], [[thyme]] and [[bay leaf|bay]]<ref name=sa/> – an onion studded with [[cloves]] may be added to the pot.<ref name=ocf/>
+
+{| class="wikitable  plainrowheaders" style="text-align: left; margin-right: 0;"
+! scope="col" |Cook/writer
+! scope="col" |Meats
+! scope="col" |Vegetables
+! scope="col" |{{Reference column heading}}
+|-
+| [[Mastering the Art of French Cooking|Beck, Bertholle and Child]]
+| beef; pork; chicken; sausage
+| carrots; leeks; onions; turnips 
+| <ref name=bbc>Beck ''et al'', p. 324</ref>
+|-
+| [[Raymond Blanc]]
+| ham hock; beef; bacon; sausage
+| cabbage; carrots; celery; onions; turnips
+| <ref name=rb/>
+|-
+| [[Paul Bocuse]]
+| beef; veal; chicken
+| carrots; celeriac; fennel; leeks; onions; parsnips; tomatoes; turnips
+| <ref name=pb>[https://www.epicurien.be/recette-''pot-au-feu''-paul-bocuse.html "Pot au feu de Paul Bocuse"]{{Dead link|date=May 2025 |bot=InternetArchiveBot |fix-attempted=yes }}, Épicurien. Retrieved 1 February 2023</ref>
+|-
+| [[Elizabeth David]]
+| beef; veal; chicken giblets
+| carrots; celery; leeks; onions; parsnip; pea pods; tomato; turnips
+| <ref>David, p. 137</ref>
+|-
+| [[Édouard de Pomiane]]
+| beef rib; calf's head; [[Morteau sausage|Morteau]] sausage
+| cabbage; carrots; leeks; turnips
+| <ref name=pomiane>De Pomiane, p. 113</ref>
+|-
+| [[Alain Ducasse]]
+| beef 
+| carrots; leeks; onions; turnips; potatoes
+| <ref name=ducasse>Ducasse, p. 305</ref>
+|-
+| [[Auguste Escoffier]]
+| beef; necks, wings and gizzards of fowl (unspecified) 
+| cabbage; carrots; celery; leeks; turnips
+| <ref name=escoffier>Escoffier, p. 216</ref>
+|-
+| [[Larousse Gastronomique|Larousse]]
+| beef; chicken or duck or turkey
+| cabbage; carrots; celery; leeks; turnips
+| <ref name="larousse"/>
+|-
+| [[Joël Robuchon]]
+| beef; veal; chicken; duck
+| carrot tops; celery; leeks; onions; turnips or parsnips
+| <ref name=jr>[https://www.pinterest.co.uk/pin/522487994271192974/ "''pot-au-feu'' aux 5 viandes par Joël Robuchon"]. Pinterest. Retrieved 1 February 2023</ref>
+|-
+| [[La bonne cuisine de Madame E. Saint-Ange|Madame Saint-Ange]]
+| beef; necks, wings and gizzards of chicken
+| carrots; celery; leeks; onions; parsnips; turnips
+| <ref name=sa>Saint-Ange, pp. 81–83</ref>
+|}
+
+Regional variations include:
+*''pot-au-feu'' à l'[[albi]]geoise – with veal knuckle, salted pork knuckle, [[confit]] goose and sausage, in addition to beef and chicken.<ref name=larousse/>
+*''pot-au-feu'' à la [[Bearn|béarnaise]], also called Poule-au-pot– the basic ''pot-au-feu'' with a chicken stuffed with a forcemeat made of fresh pork and chopped ham, onion, garlic, parsley and chicken liver.<ref name=larousse/>
+*''pot-au-feu'' à la [[languedoc]]ienne – the basic ''pot-au-feu'' with the addition of a piece of fat bacon.<ref name=larousse/>
+*''pot-au-feu'' [[Provence|provençal]] – lamb or mutton replaces some of the beef.<ref>David, p. 142</ref>
+*''pot-au-feu'' aux [[prune]]aux – the meats are beef and lightly-salted pork knuckle, cooked with the usual vegetables but adding [[prunes]] soaked in [[Armagnac]].<ref>[https://www.marmiton.org/recettes/recette_pot-au-feu-aux-pruneaux-recette-bretonne_24351.aspx "''pot-au-feu'' aux pruneaux (recette bretonne)"], Marmiton. Retrieved 1 February 2023</ref>
+*''pot-au-feu'' [[Madrid|madrilène]] – the meats are chicken, beef, veal, ham, bacon, [[chorizo]] sausage and [[blood sausage|boudin noir]].<ref>[https://www.marmiton.org/recettes/recette_pot-au-feu-madrilene_26098.aspx "''pot-au-feu'' madrilène"], Marmiton. Retrieved 1 February 2023</ref>
+
+==Serving==
+Generally, the broth (''bouillon'') is served first. It is often enriched with rice or pasta, and [[crouton]]s and grated cheese may be added, before it is served with [[French bread]].<ref name=ocf/> The meat (''bouilli'') and the vegetables are served next. Condiments may include, among other options, coarse salt, [[Mustard (condiment)|mustard]], [[capers]], pickled [[gherkin]]s, pickled [[samphire]] and [[horseradish]] – grated or in a sauce.<ref>Montagné, p. 904; and [https://www.epicurious.com/recipes/food/views/''pot-au-feu''-367768 ''pot-au-feu''] {{Webarchive|url=https://web.archive.org/web/20230202111402/https://www.epicurious.com/recipes/food/views/ |date=2 February 2023 }}, ''Bon Appetit Test Kitchen'', epicutious.com. Retrieved 28 September 2021</ref>
+
+Sauces served with the ''bouilli'' may include [[tomato sauce]], [[Sauce gribiche]], an [[Alsace|Alsacienne]] sauce (hard-boiled egg mayonnaise with herbs, capers and some of the bouillon), sauce Nénette<ref>see: [[Mastering the Art of French Cooking]]</ref> (cream reduced by simmering and flavoured with mustard and tomato), or sauce Suprême<ref>{{cite web |title=Chef Thomas Keller's Sauce Suprême Recipe |url=https://www.masterclass.com/articles/chef-thomas-kellers-sauce-supreme-recipe |website=MasterClass |access-date=13 September 2024 |date=2024}}</ref> (a [[velouté]] made with some of the bouillon and enriched with cream).<ref name=bbc/>
+
+''Pot-au-feu'' broth may also be used for cooking vegetables or pasta. Ready-to-use concentrated cubes are also available.<ref>{{cite web|url=https://www.intermarche.com/recherche/knorr%20''pot-au-feu'' |title=InterMarche Express – Paris |access-date=28 September 2021}}</ref><ref>{{cite web|url=https://www.carrefour.fr/p/bouillon-kub-''pot-au-feu''-maggi-7613033687914 |title=Carrefour online |access-date=28 September 2021}}</ref>
+
+==Similar dishes==
+Other countries have similar dishes with local ingredients. The Vietnamese dish [[pho]] has been said to be inspired by French cuisine in former [[French Indochina]], with a possible etymology for the name being a phonetic respelling of the French ''feu''.<ref>{{cite OED|pho}}</ref>
+
+==See also==
+{{Portal|France|Food}}
+{{div col|colwidth=15em}}
+* ''[[Bigos]]''
+* ''[[Bollito misto]]''
+* ''[[Cazuela]]''
+* ''[[Cholent]]''
+* ''[[Cocido]]''
+* ''[[Cozido à portuguesa]]''
+* [[:es:Sancochado|Sancochado (Peruvian)]]
+* ''[[Eintopf]]''
+* ''[[Feu (food)|Feu]]''
+* [[Hot pot]] (Steamboat)
+* ''[[Jjigae]]''
+* ''[[Kig ha farz]]''
+* [[Lancashire hotpot]]
+* [[List of stews]]
+* [[New England boiled dinner]]
+* ''[[Oden]]''
+* ''[[Olla podrida]]''
+* [[Perpetual stew]]
+* ''[[Pho]]''
+* [[Pot roast]]
+* [[Stew]]
+* ''[[Potjiekos]]''
+* ''[[Tafelspitz]]''
+{{div col end}}
+
+==Notes==
+{{Reflist|group=n}}
+
+==References==
+{{Reflist}}
+
+===Sources===
+* {{cite book | last = Beck | first = Simone |authorlink=Simone Beck| author2 = [[Louisette Bertholle]] | author3 = [[Julia Child]] | title = Mastering the Art of French Cooking, Volume One | date = 2012 | orig-date = 1961 | location = London | publisher = Particular | isbn = 978-0-241-95339-6 }}
+* {{cite book | last = David | first = Elizabeth | authorlink=Elizabeth David| title = French Provincial Cooking | date = 2008 | orig-date = 1960 | location = London | publisher = Folio Society | oclc = 809349711}}
+* {{cite book | last = De Pomiane | first= Édouard  |authorlink=Édouard de Pomiane| title =365 menus, 365 recettes | publisher = A. Michel| date =1938 | location =Paris|url=  https://archive.org/details/McGillLibrary-rbsc_365-menus-365-recettes_TX728P651938-17651/page/n111/mode/2up?q=%22'pot-au-feu%22| oclc = 9560311851 }} 
+* {{cite book | last = Ducasse | first = Alain|authorlink=Alain Ducasse | title = Ducasse Nature | publisher = Hardie Grant | date = 2011| location = London | url= https://archive.org/details/ducassenature0000duca/page/304/mode/2up |isbn =978-1-74270-050-2 }}
+* {{cite book | last = Escoffier | first = Auguste| authorlink=Auguste Escoffier| title = The Escoffier Cook Book: A Guide to the Fine Art of Cookery| publisher = | date =1941 | location = |url=https://archive.org/details/escoffiercookboo0000aesc/page/n9/mode/2up?q=%22pot-au-feu%22|  oclc = 53543887 }}
+* {{cite book | last=Hyman | first= Philip| author2 = Mary Hyman| chapter =Pot-au-feu | editor=[[Alan Davidson (food writer)|Alan Davidson]]| title=The Oxford Companion to Food | location=Oxford | publisher=Oxford University Press | year=1999 | isbn=978-0-19-211579-9  }}
+* {{cite book | last = Montagné | first = Prosper |authorlink=Prosper Montagné | title = Larousse Gastronomique | date = 1976 | location = London | publisher = Hamlyn | isbn = 978-0-600-02352-4 | url=https://archive.org/details/laroussegastrono0000mont_w7s3/page/904/mode/2up?q=%22provides+two+dishes%22| oclc = 1285641881 }}
+* {{cite book | last = Péréfixe | first = Hardouin de Beaumontide |authorlink=Hardouin de Péréfixe de Beaumont | title = Histoire du Roy Henry le Grand | publisher = E. Martin | date =1661 | location =Paris | url=https://archive.org/details/bub_gb_xw9qpfgFISYC/page/549/mode/2up | oclc = 230717271 }}
+* {{cite book | last = Saint-Ange | first = E.|authorlink=La bonne cuisine de Madame E. Saint-Ange | title = La bonne cuisine de Madame E. Saint-Ange | date = 2005 | location = Berkeley | publisher = Ten Speed Press | isbn = 978-1-58008-605-9| url = https://archive.org/details/labonnecuisinede0000unse_g4t0/page/82/mode/2up | oclc = 1285661274 }}
+
+[[Category:French meat dishes]]
+[[Category:National dishes]]
+[[Category:French beef dishes]]

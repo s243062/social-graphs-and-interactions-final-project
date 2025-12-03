@@ -1,0 +1,58 @@
+{{Short description|Rice dish of the Caribbean}}{{Infobox food
+| name             = Pelau
+| image            = Trinidadian Chicken Pelau (15399269506).jpg
+| image_size       = 
+| caption          = Chicken pelau
+| alternate_name   = 
+| country          = [[West Indies]]
+| region           = 
+| national_cuisine = [[Caribbean]]
+| creator          =           
+| year             = 
+| mintime          = 
+| maxtime          = 
+| type             = Rice dish
+| course           = Main
+| served           = Hot
+| main_ingredient  = Rice
+| minor_ingredient = Meat
+| variations       = Curry pelau
+| serving_size     = 
+| calories         = 
+| protein          = 
+| fat              = 
+| carbohydrate     = 
+| glycemic_index   = 
+| similar_dish     = 
+| other            = 
+}}
+'''Pelau''' is a traditional rice dish from the West Indies ([[Guadeloupe]], [[Dominica]]) and Caribbean countries such as [[Trinidad and Tobago]], [[Grenada]], [[Saint Lucia]] and the [[Virgin Islands]]. Its main ingredients typically include meat (usually chicken or beef),<ref>{{cite book |last=Ganeshram |first=Ramin |date=2012 |title=Sweet Hands. Island Cooking from Trinidad & Tobago |location=New York |publisher=Hippocrene Books |page=134 |isbn=978-0-7818-1125-5}}</ref> rice, [[pigeon pea]]s or [[cowpea]]s, coconut milk<ref>{{Cite web |last=Ottier Hart |first=Rachael |date=2021-07-13 |title=The Ultimate Pelau Recipe |url=https://classicbakes.com/recipes/ultimate-pelau-recipe |access-date=2024-03-11 |website=ClassicBakes.com}}</ref> and sugar. Various vegetables and spices may be added. Common spices used in the dish are cardamom, cloves, cumin, and coriander.<ref name="Dainty Dishes for Indian Tables 1881">{{cite book | title=Dainty Dishes for Indian Tables ... | publisher=W. Newman & Company | year=1881 | url=https://books.google.com/books?id=zsSzhV_Ub90C&pg=PA159 | access-date=2017-08-09 | pages=159–161}}</ref> The meat is [[Caramelization|caramelised]] in brown sugar along with onion and garlic and the other ingredients are then added one by one, resulting in a dark brown stew.
+
+An alternative preparation method is to sauté the meat, precook the rice, prepare the dish and bake it in the oven.<ref>{{cite book |date=2002 |title=The Multi-Cultural Cuisine of Trinidad & Tobago. Naparima Girls' High School Cookbook |location=San Fernando |publisher=Naparima Girls' High School |page=150 |isbn=976-8173-65-3}}</ref> Side dishes are optional; [[coleslaw]] is a typical choice.
+[[File:MISC Pelau.jpg|thumb|left|Pelau]]
+Pelau shares its origins with [[pilaf]] (from Persian ''pilāw'' {{lang|fa|پلاو}}), a rice dish from [[Central Asia]], the [[Middle East]], [[East Africa]], [[South Asia]], and Spain, home of the original version of [[paella]]. Pelau is a Creole dish. When the island was under Spanish colonial rule, Indian indentured servants passed down their version of the dish to African slaves who transformed it.<ref>https://www.guardian.co.tt/life/pelau-the-unofficial-national-dish-of-trinidad--tobago-6.2.653616.86e855f11f</ref> The caramelisation of the meat goes back to African preparation traditions.<ref>{{cite book |last=DeWitt |first=Dave and Wilan, Mary Jane |date=1993 |title=Callaloo, Calypso & Carnival. The Cuisines of Trinidad & Tobago |url=https://archive.org/details/callaloocalypsoc00dewi/page/60 |location=Freedom |publisher=Crossing Press |page=[https://archive.org/details/callaloocalypsoc00dewi/page/60 60] |isbn=0895946394 |url-access=registration }}</ref> Over time, the basic method of preparing pilaf, the caramelisation of meat and influences of the Trinidadian cuisine (especially with regards to available ingredients) mingled into today's pelau.
+
+==See also==
+{{portal|Trinidad and Tobago|Food}}
+* [[List of rice dishes]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+* {{cite web | author=Fraser, Mark | title=Making a Trini pelau | date=January 9, 2015 | url=http://www.trinidadexpress.com/featured-news/Making-a-Trini--pelau-288110741.html | website=Daily Express | access-date=August 9, 2017}}
+* {{cite web | last=Donato | first=Al | title=Pelau Is A Trinidadian One-Pot Wonder Dish, Says Chef Roger Mooking | website=HuffPost Canada | date=October 2, 2016 | url=http://www.huffingtonpost.ca/2016/10/02/pelau-roger-mooking_n_12265644.html | access-date=August 9, 2017}}
+
+== External links ==
+* [https://www.youtube.com/watch?v=W37rHJIOriw Video tutorial, part 1]
+* [https://www.youtube.com/watch?v=GC_rPfus7Q8 Video tutorial, part 2]
+* [http://caribbeanpot.com/pelau-the-first-guest-invited-to-every-beach-lime/ Preparation instructions]
+
+[[Category:Barbadian cuisine]]
+[[Category:Grenadian cuisine]]
+[[Category:Meat and rice dishes]]
+[[Category:Saint Kitts and Nevis cuisine]]
+[[Category:Saint Lucian cuisine]]
+[[Category:Saint Vincent and the Grenadines cuisine]]
+[[Category:Trinidad and Tobago cuisine]]
+[[Category:Indo-Caribbean cuisine]]

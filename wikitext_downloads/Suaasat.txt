@@ -1,0 +1,39 @@
+{{Short description|Greenlandic soup}}
+{{Infobox food
+| name             = Suaasat
+| image            = File:Suaasat.jpg
+| image_size       = 
+| caption          = Suaasat
+| alternate_name   = 
+| country          = [[Greenland]]
+| region           = 
+| creator          = 
+| course           = [[Main course]]
+| type             = [[Soup]]
+| served           = Hot
+| main_ingredient  = [[Meat]] ([[Seal meat|seal]], [[whale meat|whale]], [[Reindeer|caribou]], or [[seabird]]s), [[onion]]s, [[potato]]es, [[barley]], [[salt]], [[black pepper]], [[Bay leaf|bay leaves]], [[water]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Suaasat''' ({{ipa|kl|suaːsat}}) is a traditional [[Greenlandic cuisine|Greenlandic]] soup.  It is traditionally made from [[seal meat]], but can also be made from [[whale meat|whale]], [[Reindeer|caribou]], or [[seabird]]s.
+
+The soup often includes [[onion]]s and [[potato]]es and is simply seasoned with [[salt]], [[black pepper]], and [[Bay leaf|bay leaves]]. The soup is often thickened with rice or by soaking barley in the water overnight so that the starches leach into the water.
+
+==References==
+{{Reflist}}
+
+==Sources==
+*Harlan Walker. ''Disappearing foods: studies in foods and dishes at risk: proceedings of the Oxford Symposium on Food and Cookery 1994''.  Proceedings of the Oxford Symposium on Food Series.  Prospect, 1995. {{ISBN|0-907325-62-9}}, {{ISBN|978-0-907325-62-8}}. Pg 89
+
+{{Soups}}
+
+{{DEFAULTSORT:Suaasat}}
+[[Category:Greenlandic cuisine]]
+[[Category:Soups]]
+[[Category:National dishes]]
+
+
+{{greenland-stub}}
+{{soup-stub}}

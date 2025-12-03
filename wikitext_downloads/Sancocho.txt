@@ -1,0 +1,56 @@
+{{Short description|Traditional soup in several Latin American cuisines}}
+{{Refimprove|date=August 2010}}
+{{Infobox prepared food
+| name             = Sancocho
+| image            = Sancocho de espinazo de cerdo.jpg
+| image_size       = 
+| caption          = ''Sancocho de espinazo de cerdo'' (pork spine sancocho)
+| alternate_name   = 
+| country          = Latin America, Asia (Philippines), Europe (Spain, Canary Islands)
+| region           = [[Latin America]]
+| creator          = 
+| course           = 
+| type             = [[Soup]] or [[stew]]
+| served           = 
+| main_ingredient  = [[Meat]], [[vegetable]]s, [[broth]], [[yuca]], [[Cooking bananas|plantains]]
+| variations       = 
+}}
+
+'''Sancocho''' (from the Spanish verb ''sancochar'', 'to parboil') is a traditional [[stew]] in several [[Caribbean cuisine|Caribbean]] and [[Latin American cuisine]]s. Latin variations represent popular [[national dish]]es in [[Dominican Republic]], [[Colombia]], [[Cuba]], [[Honduras]], [[Mexico]], [[Panama]], [[Puerto Rico]], [[Trinidad and Tobago]] and [[Venezuela]]. It usually consists of large pieces of [[meat]], [[tuber]]s and [[vegetable]]s served in a broth.
+
+===Colombia===
+Sancocho is a traditional food in Colombia made with many kinds of meat (most commonly chicken, hen, pork ribs, beef ribs, fish and ox tail) with large pieces of [[Plantain (cooking)|plantain]], [[potato]], [[cassava]] and/or other vegetables such as tomato, scallion, cilantro and mazorca (corn on the cob), depending on the region. Some top it off with fresh cilantro, onion and squeezed lime. It is also served with a side of sliced avocado and a plate of white rice, which is usually dipped in with each spoonful of soup.<ref>{{cite web|url=https://www.infobae.com/america/colombia/2021/12/12/la-historia-detras-del-sancocho-el-plato-tipico-de-colombia-y-el-mas-aclamado-para-los-paseos-de-olla/|title=La historia detrás del sancocho, el plato típico de Colombia y el más aclamado para los paseos de olla (in Spanish) - The story behind the sancocho, the typical dish of Colombia and the most acclaimed for pot walks|access-date=February 11, 2023|website=[[Infobae]]|date=12 December 2021 }}</ref>
+
+===Panama===
+Also known as ''sancocho de gallina'', it is the national dish of Panama. The basic ingredients are chicken, [[Yam (vegetable)|ñame]] (adding flavor and acting as a thickener, giving it its characteristic texture and brightness) and [[Eryngium foetidum|culantro]] (giving it most of its characteristic flavor and greenish tone); often [[Cassava|yuca]], mazorca ([[corn on the cob]]) and [[Xanthosoma|otoe]] are added. Other optional ingredients include ''ñampí'' (as the [[eddoe]] variety of [[taro]] is known), chopped [[onion]]s, [[garlic]] and [[oregano]]. It is frequently served with [[white rice]] on the side, meant to be either mixed in or eaten with each spoonful. Hot sauce is frequently added, depending on regional and individual preferences. Regional varieties include ''sancocho chorrerano'' (a specialty of the town of La Chorrera, which is only made with free-range chicken, onions, garlic, chili peppers, oregano and ñame<ref>[http://www.pa-digital.com.pa/periodico/buscador/resultado.php?story_id=506555&page=9&texto=sancocho Un abanico de sabores panameños] {{in lang|es}}</ref>) and ''sancocho chiricano'' (a specialty from [[Chiriquí Province]] and the heartiest variety, containing [[Squash (plant)|squash]] in addition to all basic and optional ingredients mentioned before, having a yellowish color as a result). It is often recommended as the best remedy for a hangover. It is used as a metaphor for the country's racial diversity due to the varied ingredients that contribute their particular properties to and have an equally important role in the cooking process and final product.
+
+===Philippines===
+Reflecting its Spanish influence, sancocho is eaten in the Philippines, where the hearty stew is made with fish, beef shanks, three kinds of meat, chicken, pork butt, bacon, chorizo de bilbao and [[morcilla]] (Spanish blood sausage) as well as yucca, potatoes, cilantro, corn, cabbage, [[bok choy]], carrots and string beans. The [[Ilocano people|Ilocano]] dish {{lang|ilo|[[pinapaitan]]}} is also known as {{lang|ilo|sankutsar}} (or {{lang|ilo|singkutsar}}) is made from stewed goat (or beef) and offal flavored with its cud.<ref>{{cite web |title=Singkutsar (Ilocano Recipe, Parang Pinapaitan) | website=[[YouTube]] | date=19 May 2021 |url=https://www.youtube.com/watch?v=14APetrro6g |access-date=7 October 2023 |language=en}}</ref><ref>{{cite web |title=Can you eat beef bile? |url=https://www.easydogfoodrecipes.com/dog-food-tips/can-you-eat-beef-bile-a6565783/ |website=Easy Dog Food Recipes |access-date=7 October 2023 |date=20 July 2023}}</ref>
+
+==Similar dishes==
+A soup similar to sancocho is called "sancoche" in [[Dominica]], [[Grenada]], [[Jamaica]] and [[Trinidad and Tobago]].<ref name=":0">{{Cite book |last=Mühleisen |first=Susanne |url=https://books.google.com/books?id=fad5EAAAQBAJ&pg=PA21 |title=Genre in World Englishes: Case studies from the Caribbean |year=2022 |publisher=John Benjamins Publishing Company |isbn=978-90-272-5762-8 |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Sancocho}}
+* [http://dominicanexplorer.com/sancocho-de-habichuelas-del-campo Dominican Bean Sancocho Sancocho de Habichuela]
+* [http://www.dominicancooking.com/forums/beans-soups-stews/1360-sancocho-7-meat-hearty-stew.html Dominican Sancocho]
+* [https://www.viviendocali.com/receta-sancocho-de-gallina-valluno/ Sancocho Valluno] {{in lang|es}}
+* [http://es.wikibooks.org/wiki/Artes_culinarias/Recetas/Sancocho_antioqueño Sanocho from Antioquia] {{in lang|es}}
+* [http://www.canal-recetas.es/cocina_regional_canarias/receta_sancocho_cocina_canaria.htm Sancocho recipe] Take a taste of Canary Islands
+
+[[Category:Cassava dishes]]
+[[Category:Colombian soups]]
+[[Category:Cuban soups]]
+[[Category:Dominican Republic cuisine]]
+[[Category:Ecuadorian soups]]
+[[Category:Maize dishes]]
+[[Category:Meat dishes]]
+[[Category:National dishes]]
+[[Category:Panamanian cuisine]]
+[[Category:Plantain dishes]]
+[[Category:Puerto Rican soups]]
+[[Category:Venezuelan soups]]
+[[Category:Dominica cuisine]]

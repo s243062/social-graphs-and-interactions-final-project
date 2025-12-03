@@ -1,0 +1,94 @@
+{{short description|Traditional Spanish dish of egg and potato}}
+{{Infobox food
+| name = Spanish omelette
+| image = Tortilla de patata - San Sebastián.jpg
+| image_size = 300px
+| caption = 
+| alternate_name = {{hlist|{{lang|es|Tortilla de patatas}}|{{lang|es|tortilla de papas}}|{{lang|es|tortilla española}}|Spanish tortilla|potato omelette}}
+| country = Spain
+| region = 
+| creator = 
+| course = [[Tapas]], [[appetizer]] or [[main course]]
+| served = Either warm or room temperature
+| main_ingredient = {{hlist|[[Egg (food)|Egg]]|[[potato]]es|[[vegetable oil]]}}
+| variations = Often includes [[onion]]
+| calories = 
+| other = 
+}}
+
+A '''Spanish omelette'''<ref name=beeb>{{cite web |url=http://www.bbcgoodfood.com/recipes/2738/real-spanish-omelette |title=Real Spanish omelette|newspaper=Bbcgoodfood.com |access-date= 10 January 2016}}</ref> or '''Spanish tortilla'''<ref>{{cite web |url=https://www.foodnetwork.com/recipes/spanish-tortilla-recipe0-1940959|title=Spanish Tortilla|newspaper=Food Network|access-date= 3 June 2019}}</ref> ({{langx|es|tortilla de patatas}}, {{lang|es|tortilla de papas}} or {{lang|es|tortilla española}}; see [[#Nomenclature|below]]) is a traditional dish from [[Spain]], celebrated as one of the most popular dishes of the [[Spanish cuisine]].{{sfn|Reyes Baztán|2021|pp=152–153}} It is an [[omelette]] made with [[egg (food)|eggs]] and [[potato]]es, usually including [[onion]]. It is often served at room temperature as a [[Tapas|tapa]].
+
+== History ==
+[[File:MoskukoJaiak 16ago2015 01 (20656939755).jpg|thumb|upright|Tortilla competition in the [[Basque Country (greater region)|Basque Country]] in Northern Spain]]
+
+The first reference to the tortilla in Spanish is found in a [[Kingdom of Navarre|Navarrese]] document, as an anonymous "mousehole memorial" addressed to the court of Navarre in 1817. It explains the sparse conditions of Navarre's farmers in contrast with those in [[Pamplona]] (the capital) and La Ribera (in southern Navarre). After listing the sparse food eaten by highlanders, the next quote follows: "…two to three eggs in tortilla for 5 or 6 [people] as our women know how to make it big and thick with fewer eggs, mixing potatoes, breadcrumbs or whatever."<ref>(Spanish) Los "memoriales de ratonera" eran escritos que cualquier ciudadano navarro podía depositar en un buzón ("ratonera") cuando se reunían las Cortes; véase José María Iribarren: "El comer, el vestir y la vida de los navarros de 1817, a través de un 'memorial de ratonera'", in ''Príncipe de Viana'' vol. 17 no. 65 (1956), pp. 473-486.</ref>
+
+According to legend, during the siege of [[Bilbao]], [[Carlist]] General [[Tomás de Zumalacárregui]] invented the {{lang|es|tortilla de patatas}} as an easy, fast and nutritious dish to satisfy the scarcities of the Carlist army. Although it remains unknown whether this is true, it appears the tortilla started to spread during the early [[Carlist Wars]].<ref>Jack, Albert (2010). What Caesar Did For My Salad: The Secret Meanings of our Favorite Dishes. Penguin. p. 368. {{ISBN|9780141929927}}</ref>
+
+Another tale is that the recipe was learnt by Spanish prisoners captured after the [[Battle of Montes Claros]] during the [[Portuguese Restoration War]] in 1665.<ref>Tuell, Marcus (1952). History of War in the Iberian Peninsula. Baltimore: William & Wilkins Publishing House. pp. 242–244</ref> After the Portuguese victory, more than 6,000 Spanish soldiers were kept in captivity for 3 years until the [[Treaty of Lisbon (1668)|1668 Treaty of Lisbon]] was signed. Upon their release, these prisoners brought part of the culture of [[Alentejo]] to Spain, including many recipes, which featured a potato egg pie that evolved into the modern version of “tortilla”.<ref>White, L. (2007). Strategic Geography and the Spanish Habsburg Monarchy's Failure to Recover Portugal, 1640-1668. The Journal of Military History, 71(2), 373-409.  {{JSTOR|413827}}</ref>
+
+==Nomenclature==
+The word {{lang|es|tortilla}}, which is the [[diminutive]] form of {{lang|es|torta}}, literally means 'small cake' or 'small pie'.<ref name=":0" /><ref name=":1" /> In [[European Spanish]] and in some variants of [[Latin American Spanish]], it means [[omelette]].<ref name=":0">{{Cite dictionary|url=https://www.dictionary.com/browse/tortilla|archive-url=https://web.archive.org/web/20191102220632/https://www.lexico.com/en/definition/tortilla|url-status=live|archive-date=November 2, 2019|title=Tortilla|dictionary=Lexico Dictionaries|language=en|access-date=2019-11-02}}</ref><ref name=":1">{{Cite dictionary|url=https://dle.rae.es/tortilla|title=tortilla|dictionary=«Diccionario de la lengua española» - Edición del Tricentenario|language=es}}</ref> A potato omelette is a {{lang|es|tortilla de patatas}} or {{lang|es|papas}}.<ref>{{Cite web|url=https://dle.rae.es/|title=patata|last=ASALE|first=RAE-|website=«Diccionario de la lengua española» - Edición del Tricentenario|language=es|access-date=2019-11-02}}</ref><ref>{{Cite web|url=https://dle.rae.es/|title=papa¹; papa²; papa³|last=ASALE|first=RAE-|website=«Diccionario de la lengua española» - Edición del Tricentenario|language=es|access-date=2019-11-02}}</ref>
+
+As the dish has gained international popularity, and perhaps to distinguish it from the [[Tortilla|thin flatbread made out of wheat or maize]] popular in Mexico and Central America, the {{lang|es|española}} or 'Spanish' naming gained traction. As such, 'Spanish omelette'<ref name="Cloake">{{Cite news|url=https://www.theguardian.com/lifeandstyle/wordofmouth/2010/jul/29/how-to-cook-spanish-omelette|title=How to make a perfect Spanish omelette|last=Cloake|first=Felicity|author-link=Felicity Cloake|date=2010-07-29|work=The Guardian|access-date=2019-11-02|language=en-GB|issn=0261-3077}}</ref><ref name=":2">{{Cite web|url=https://www.lexico.com/en/definition/tortilla_espanola|archive-url=https://web.archive.org/web/20191102233851/https://www.lexico.com/en/definition/tortilla_espanola|url-status=dead|archive-date=November 2, 2019|title=Tortilla Española {{!}} Definition of Tortilla Española by Lexico|website=Lexico Dictionaries {{!}} English|language=en|access-date=2019-11-02}}</ref> or 'Spanish tortilla'<ref>{{Cite web|url=https://cooking.nytimes.com/recipes/8849-spanish-tortilla|title=Spanish Tortilla Recipe|last=Bittman|first=Mark|website=NYT Cooking|language=en-US|access-date=2019-11-02}}</ref><ref>{{Cite web|url=https://www.jamieoliver.com/recipes/eggs-recipes/spanish-tortilla/|title=Spanish tortilla recipe {{!}} Jamie Oliver egg recipes|last=JamieOliver.com|website=Jamie Oliver|language=en|access-date=2019-11-02}}</ref> are its common names in English, while {{lang|es|tortilla española}}<ref name=":1" /><ref name=":2" /><ref>{{Cite web|url=https://www.enforex.com/espanol/cultura/tortilla-espanola.html|title=Tortilla Española - Cultura española|website=www.enforex.com|access-date=2019-11-02}}</ref><ref>{{Cite web|url=https://ocio.farodevigo.es/gastronomia/noticias/nws-126717-la-autentica-tortilla-espanola.html|title=La auténtica tortilla española|last=Vigo|first=Faro de|website=ocio.farodevigo.es|access-date=2019-11-02}}</ref> is the formally accepted name even within the [[Iberian Peninsula|peninsula]]. In Spain, an omelette (made simply of beaten eggs) is known as {{lang|es|tortilla francesa}} ({{literal translation|French omelette}}) to distinguish it from the local potato version.<ref>{{Cite web|last=Moraleda|first=Alba|date=24 December 2020|title=Por qué la tortilla francesa es mejor que la española para tu salud|trans-title=Why the French omelette is better than the Spanish omelette for your health|url=https://www.elespanol.com/ciencia/nutricion/20201224/tortilla-francesa-mejor-espanola-salud/545696459_0.html|website=[[El Español]]|language=es}}</ref>
+
+The preparation is also known by other names in the [[languages of Spain]]{{snd}}{{langx|an|tortiella de trunfas}}; {{langx|ast|tortiella de pataques}}; {{langx|eu|patata-arrautzopil}}; {{langx|ca|truita de patates}}/{{lang|ca|pataques}}; {{langx|gl|tortilla de patacas}}.
+
+==Consumption and traditional recipe==
+The Spanish omelette is widely available in Spain, and prepared in some [[Spanish-speaking countries]].
+
+The two main options are either with or without [[onion]]. The addition of onion is the cause of an unresolved dispute, pitting {{lang|es|concebollistas}} (the 'with onion' group) against {{lang|es|sincebollistas}} (the 'without onion' group, considering this to be authentic).{{Sfn|Reyes Baztán|2021|p=166}} It may be related to the tenderness of the local varieties of potato. [[Restaurateur]]s are expected to say whether their tortilla has onion, and industrial producers market both options.
+
+[[File:Tortilla de patata típica de Betanzos.jpg|thumb|upright|The runny "[[Betanzos]]" omelette, originally from [[Galicia (Spain)|Galicia]]. They are normally made without [[onion]], and rely heavily on the careful cooking of the potato.<ref>[https://www.20minutos.es/noticia/4405928/0/poco-hecha-y-sin-cebolla-es-la-tortilla-de-betanzos-la-mejor-del-mundo/ 20Minutos, "Poco hecha y sin cebolla, ¿es la tortilla de Betanzos la mejor del mundo?" - 5 octubre 2020]</ref>]]
+
+The most common way to cook a Spanish omelette is as follows:
+
+* The [[potato]]es, ideally a starchy variety, are cut into thin slices or small dice. 
+* Among Spanish potato crops, one of the most highly regarded varieties is the [[Galicia (Spain)|Galicia]] potato. Its texture and flavor make it unique. In Galicia, locally grown potatoes, especially the Kennebec variety with a firm texture and balanced starch, are considered ideal for Spanish omelets. They are sometimes prepared with Galician chorizo as a regional variation.<ref>{{Cite web |title=Spanish Omelette Recipe |url=https://cookpad.com/eng/recipes/13215496 |access-date=10 November 2025 |website=Cookpad}}</ref><ref>{{Cite news |last=Montouto Graña |first=Mónica |date=2021 |title=highlighting the Kennebec potato’s ideal texture and starch balance for Spanish omelets. |newspaper=Campo Galego}}</ref> 
+* They are then [[Seasoning|seasoned]] and gently [[simmered]] (not fried) in [[vegetable oil]], traditionally [[olive oil]], with sliced [[onion]]s added at this stage if used. These ingredients are stirred at a moderate temperature until they are soft but not brown.
+* The potatoes, and onions, if included, are then drained and mixed with whisked [[Egg as food|eggs]].
+* This mixture is then returned to the pan and slowly cooked.<ref name="beeb" /><ref>{{cite web |url=http://www.palacios.es/para-ti/recetas-para-cocinar/trucos-para-preparar-una-deliciosa-tortilla-de-patata |title=Trucos para Preparar una Deliciosa Tortilla de Patatas | trans-title=Tricks for making a delicious potato tortilla|newspaper=Palacios.es |language=es|access-date= 10 January 2016}} A typical recipe</ref>
+* A trick to prevent the [[Eggs as food|egg]] from curdling is to let the [[potato]] cool after frying it. This way it won't mix while hot and the egg won't curdle before it reaches the pan. 
+* Once the eggs are cooked on one side, the omelette is turned over to cook the other side, often using a plate placed over the mixture so the pan can be inverted.<ref name="Cloake"/>
+
+The omelette may be eaten hot, at room temperature, or chilled; it is commonly served, cut into bite-size pieces ({{lang|es|pincho de tortilla}}), as a ''[[Tapas|tapa]]'', or cut into wedges.
+
+
+== Tortilla Day ==
+{{lang|es|[[:es:Día_de_la_Tortilla|Día de la Tortilla]]}} ('Tortilla Day') is a popular festivity celebrated in many towns in southern and western Spain. Its date varies depending on the town; however, it normally coincides with the Thursday before Lent, the first day of [[Carnival]], also known as {{lang|es|[[Jueves lardero]]}} ([[Fat Thursday]]). Many towns in eastern Spain have a similar celebration on that day. Traditionally, the inhabitants of each town go to a nearby rural area where they spend the day among family members and friends, eating Spanish tortillas and other foods, and playing games.<ref>{{cite web |author=Teresa |date=9 March 2022 |title=Origen del Día de la Tortilla |url=https://sobrehistoria.com/origen-del-dia-de-la-tortilla/ |website=Sobrehistoria.com}}</ref>
+
+<gallery class="center" mode="packed" caption=""> 
+Image:Tortilla de patata - San Sebastián.jpg|Spanish omelette in a {{lang|es|[[Pincho|pinchos]]}} bar in [[San Sebastián]]
+Image:Tortilla de Betanzos.jpg|{{lang|es|Tortilla de [[Betanzos]]}}, characterised by being softer or "runny"
+Image:Tortilla-Asturiana.JPG|[[Asturian cuisine|Asturian]] {{lang|ast|tortiella de pataques}}, characterised by its thickness{{citation needed|date=March 2014}}
+Image:Tortilladepatatas.jpg|''Tortilla de patatas'' with a less-fried finish
+</gallery>
+
+==See also==
+{{Cookbook|Tortilla de Patatas}}
+{{Portal|Food}}
+
+* {{annotated link|Frittata}}
+* {{annotated link|Kuku (food)|Kuku}}
+* {{annotated link|Chipsi mayai}}
+
+==References==
+;Bibliography
+{{Reflist}}
+;Bibliography
+* {{cite journal | last=Reyes Baztán | first=Maria | title=Potatoes and nation-building: the case of the Spanish omelette | journal=Journal of Iberian and Latin American Studies| volume=27 | issue=2 | date=4 May 2021 | issn=1470-1847 | doi=10.1080/14701847.2021.1939529|s2cid=235700520  | pages=151–170}}
+
+==External links==
+{{Commons category|Spanish omelette}}
+{{Spoken Wikipedia|En-Spanish_omelette-audio.ogg|date=2016-10-19}}
+
+{{Potato dishes}}
+{{Omelettes}}
+{{Authority control}}
+
+[[Category:Spanish egg dishes]]
+[[Category:Omelettes]]
+[[Category:Potato dishes]]
+[[Category:National dishes]]
+[[Category:Tapas]]
+[[Category:Food combinations]]

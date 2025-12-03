@@ -1,0 +1,67 @@
+{{Short description|Roasted goat or lamb dish popular in the Arab world}}
+{{Infobox food
+| name             = Quzi
+| image            = Iraqi Qoozi .jpg
+| caption          = Iraqi quzi
+| alternate_name   = Quzi, Qoozi, Ghuzi, Ghoozi 
+| country          = {{IRQ}}
+| region         = Middle East, Persian Gulf and North Africa
+| national_cuisine = [[Iraqi cuisine]]
+| creator          = [[Iraqis]]
+| course           = Meal
+| type             = 
+| served           = 
+| main_ingredient  = Lamb, rice, roasted nuts and raisins
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Quzi''' ({{langx|ar|قوزي}}), also spelled as '''qoozi''' or '''ghoozi''', is a popular rice-based dish and is considered one of [[Iraqi cuisine|Iraq's national dishes]]. It is served with very slowly cooked [[Lamb and mutton|lamb]], roasted nuts, and raisins served over rice.<ref>[http://www.maryamsculinarywonders.com/2012/05/24/63-whole-roasted-lamb-qoozi-version-1/ Whole Roasted Lamb (Qoozi)] {{Webarchive|url=https://web.archive.org/web/20180828085139/http://www.maryamsculinarywonders.com/2012/05/24/63-whole-roasted-lamb-qoozi-version-1/ |date=2018-08-28}} in Maryam's Culinary Wonders</ref> The dish can also be found in some [[Arab states of the Persian Gulf|Arab states]] of the [[Persian Gulf]].{{citation needed|date=March 2023}}
+
+== Etymology == 
+The Arabic word ''quzi'' ({{langx|ar|قوزي}}) comes from [[Turkish language|Turkish]] ''kuzu'' ({{langx|ota|قوزی}}) meaning 'lamb'.<ref>{{cite web |title=kuzu |url=https://www.nisanyansozluk.com/kelime/kuzu |website=Nişanyan Sözlük |access-date=16 June 2025 |language=tr}}</ref><ref name="kassis">{{cite news |last1=O'Neill |first1=Holly |last2=Kassis |first2=Reem |author2-link=Reem Kassis |title=Reem Kassis: how I brought my Palestinian heritage to the table |url=https://www.theguardian.com/food/2021/feb/21/reem-kassis-arabesque-table-fatteh-pistachio-cake |access-date=16 June 2025 |work=The Guardian |date=21 February 2021}}</ref> Different pronunciations and spellings are used across the Arab world, common ones include ''quzi'', ''ouzi'' ({{lang|ar|أوزي}}), ''qouzi'', or ''ghoozi''.<ref name="nytimes2021">{{cite news |title=For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home |url=https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html |access-date=29 October 2025 |work=The New York Times Style Magazine |date=11 Nov 2021}}</ref>
+
+Quzi originally referred to a dish made of lamb stuffed with rice and ground meat, but now refers to a variety of dishes with similar ingredients.<ref name=ES-2015>[https://www.standard.co.uk/lifestyle/foodanddrink/quozi-an-iraqi-lamb-recipe-from-chef-philip-juma-for-christmas-a3142931.html Quozi: an Iraqi lamb recipe from chef Philip Juma]. ''Evening Standard'', 24 December 2015.</ref><ref name="kassis" /> For example, some chicken and rice dishes are referred to as quzi.<ref name="Aksalser">{{cite news |title=مصر : " مأكولات سورية تحتل الموائد الرمضانية .. والمصريين : دخلت قلوبنا " |url=https://www.aksalser.com/news/2019/05/16/%D9%85%D8%B5%D8%B1-%D9%85%D8%A3%D9%83%D9%88%D9%84%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B1%D9%85%D8%B6/ |access-date=29 October 2025 |work=Aksalser |date=16 May 2019 |language=ar |trans-title=Syrian cuisine dominates Ramadan tables... and Egyptians say: "It has captured our hearts."}}</ref>
+
+{{Wiktionary|قوزی}}
+
+== Variations == 
+In [[Iraqi cuisine]], it is usually prepared by stuffing a whole lamb with rice, vegetables, spices and nuts and slow-cooking it over a closed or submerged oven.<ref name=ES-2015 /> In some places in the Middle East it is buried in a pit containing burning coal or charcoal to get the smoky flavor.
+
+There are many variations to this technique such as in [[Saudi Arabia]] and [[Yemen]], where it is called ''madfoon'', cooked by being wrapped in aluminium foil and kept on an open heat source. In [[Oman]] and [[UAE]] it is called ''shuwaa'' and is traditionally eaten on festive occasions, prepared by wrapping the marinated meat in date palm leaves and placing the wrapped meat in a submerged oven.
+
+[[File:أوزي.jpg|thumb|Levantine ''ouzi'', made with carrots, peas, and chicken.]]
+
+In [[Jordan]], and [[Syria]] it is known as ''zarb''; the meat is portioned into smaller pieces and kept along with vegetables and bread dough so that the flavors are enhanced.{{citation needed|date=June 2025}} Some versions in the Levant use chicken next to or in place of lamb.<ref name="Aksalser" /><ref>{{cite news |title=أرز الأوزي بالدجاج على طريقة منال العالم |url=https://www.alwatanvoice.com/arabic/news/2023/05/28/1523164.html |access-date=29 October 2025 |work=Alwatan |date=28 May 2023 |language=ar |trans-title=Chicken Ouzi Rice, Manal Al-Alam Style}}</ref>
+
+Another version popular in Jordan and Syria uses ground lamb meat instead of whole lamb, sometimes presented as a pilaf with carrots and peas,<ref name="kassis" /><ref>{{cite web |last1=Gorsky |first1=Faith |title=Lamb Ouzi Rice |url=https://www.anediblemosaic.com/lamb-ouzi-rice/ |website=An Edible Mosaic™ |access-date=16 June 2025 |date=6 November 2024}}</ref> originally, this was used as the filling for ''surar ouzi'' ({{langx|apc|صرر أوزي|translation=ouzi pouches}}<ref name="MEMO"/>), which are parcels of thin dough that are stuffed and baked, but contemporary versions call the stuffing itself "ouzi".<ref>{{cite book |last1=Atassi |first1=Anas |title=Sumac: Recipes and stories from Syria |date=2 March 2021 |publisher=Murdoch Books |isbn=978-1-76106-170-7 |url=https://www.google.com/books/edition/Sumac/v_gLEAAAQBAJ |access-date=29 October 2025}}</ref><ref name="kassis" /> It is especially popular in Syria, and often served for special occasions like weddings or to guests.<ref name="MEMO">{{cite news |title=Ouzi surar |url=https://www.middleeastmonitor.com/20170430-ouzi-surar/ |access-date=29 October 2025 |work=Middle East Monitor |date=30 April 2017}}</ref><ref>{{cite news |title=رغيف خبز يحمل كنوز الشام.. ما هو أصل الأوزي؟ |url=https://arabic.cnn.com/travel/video/2019/07/30/v77747-asl-w-fasl-ouzi |access-date=29 October 2025 |work=CNN Arabic |date=30 July 2019 |language=ar |trans-title=A loaf of bread that carries the treasures of the Levant... What is the origin of Ouzi?}}</ref> Traditionally, ''surar ouzi'' was a popular way to package food for people "on the go" such as the nomadic bedouins.<ref>{{cite news |title=The ancient Arabic recipe still delighting Dubai's foodies |url=https://www.euronews.com/travel/2020/06/23/ouzi-surar-the-ancient-arabic-recipe-still-delighting-dubai-s-foodies |access-date=29 October 2025 |work=Euronews |date=23 June 2020}}</ref>
+
+Another variant is called ''[[haneeth]]'' where it is cooked inside a hot [[Tabun oven|''tabun'']]; this variation can be found in most Middle Eastern countries as well as the Horn of Africa and North Africa.
+
+==See also==
+{{portal|Food}}
+* [[Mesopotamian cuisine]]
+* [[Arab cuisine]]
+* [[Levantine cuisine]]
+* [[List of lamb dishes]]
+* [[List of rice dishes]]
+
+==References==
+{{reflist}}
+
+{{Levantine cuisine}}
+
+[[Category:Iraqi cuisine]]
+[[Category:Emirati cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Kuwaiti cuisine]]
+[[Category:Lamb dishes]]
+[[Category:Levantine cuisine]]
+[[Category:Omani cuisine]]
+[[Category:Meat and rice dishes]]
+[[Category:Saudi Arabian cuisine]]
+[[Category:Syrian cuisine]]
+[[Category:Turkish cuisine]]
+[[Category:Yemeni cuisine]]
+[[Category:National dishes]]

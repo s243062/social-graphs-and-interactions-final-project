@@ -1,0 +1,42 @@
+{{Short description|Traditional Balkan meat dish}}
+{{Use dmy dates|date=July 2025}}
+{{More citations needed|date=July 2025}}
+{{Infobox prepared food
+| name             = Pljeskavica
+| image            = Pleskavitsa.JPG
+| caption          = Pljeskavica with side dishes
+| country          = [[Serbia]]
+| region           = [[Balkans]]
+| course           = [[Main course]] 
+| served           = Hot
+| national_cuisine = [[Serbian cuisine|Serbian]]
+| main_ingredient  = Two or more of [[beef]], [[lamb and mutton|lamb]], [[pork]], [[veal]]; [[Onion|onions]], sometimes [[bread crumbs]] and [[lard]]
+| variations       = 
+| calories         = 
+| other            = 
+}}
+'''Pljeskavica''' ({{Lang-sr-cyr|пљескавица}}, {{IPA|sh|pʎɛ̂skaʋitsa|pron}}, [[Romanian language|Romanian]]: plescaviță) is a Serbian grilled dish consisting of a mixture of spiced minced pork, beef and lamb meat.<ref name="Mitchell2013">{{cite book|first=Laurence|last=Mitchell|title=Serbia|url=https://books.google.com/books?id=0-Dd1-Rg4bUC&pg=PA83|year=2013|publisher=Bradt Travel Guides|isbn=978-1-84162-463-1|pages=83|quote=For the main course, the most popular meat dishes are pljeskavica (meat patties, usually a mixture of pork, beef and lamb, sprinkled with spices, then grilled and served with onion)}}</ref> It is one of the [[national dishes]] of [[Serbia]] as well as being popular in the neighbouring countries, such as [[Bosnia and Herzegovina]], [[Croatia]], and [[Montenegro]]. Pljeskavica is also popular street food in countries of the [[Central and Eastern Europe]], including [[Romania]], [[Hungary]], [[Bulgaria]], [[North Macedonia]], and [[Slovenia]].<ref name="KittlerSucher2011">{{cite book|first1=Pamela|last1=Goyan Kittler|first2=Kathryn P.|last2=Sucher|first3=Marcia|last3=Nahikian-Nelms|title=Food and Culture, 6th ed.|url=https://books.google.com/books?id=R06H7WabJuMC&pg=PA410|date=August 2011|publisher=Cengage Learning|isbn=978-0-538-73497-4|page=410|quote=Large, thin meat patties made from lamb and beef, known as pljeskavica, are considered a national dish of Bosnia-Herzegovina and Serbia but are also a favorite with other Balkan nations}}</ref>
+
+Pljeskavica is a main course<ref>{{cite book|first1=Martin|last1=Dunford|first2=Jack|last2=Holland|title=The Real guide: Yugoslavia|url=https://books.google.com/books?id=nZvRWpEzLWgC|date=1 March 1990|publisher=Prentice Hall|isbn=978-0-13-783838-7|quote=Meat dishes predominate for the main course, with the grilled pork, lamb, and beef dishes traditionally associated with Serbian cuisine widespread throughout the country, the ubiquitous pljeskavica and CevapCici joined by a host of other rich, ...}}</ref> served with onions,<ref name="Mitchell2013" /> [[kajmak]] (milk cream), [[Bean|beans]], sometimes [[ajvar]] (relish), and [[urnebes]] (spicy cheese salad), either on the plate with side dishes, or with ''lepinja'' (flatbread, as a type of [[hamburger]]).<ref>{{cite book|first=Lila|last=Perl|title=The hamburger book: all about hamburgers and hamburger cookery|url=https://books.google.com/books?id=DC0ks23vpqIC|year=1974|publisher=Seabury Press|isbn=978-0-8164-3106-9|quote=Even more hamburger-like is pljeskavica (plyes'-ka- vee-tsa), the same type of ground meat shaped into a very large flat patty and grilled. Pljeskavica may be eaten with thick chunks of firm-crusted Serbian bread, and always with raw onion ...}}</ref>
+
+==History==
+Recently,{{When?|date=July 2025}} pljeskavica has gained popularity elsewhere in [[Europe]] and is served in a few speciality [[fast food]] restaurants in [[Germany]], [[Sweden]], and [[Austria]]. Varieties include the "[[Leskovac]] pljeskavica" (''Leskovačka pljeskavica''), very spicy with onions; "[[Šar]] pljeskavica" (''Šarska pljeskavica''), stuffed with [[Kashkaval#Serbia|kačkavalj]] cheese; "[[Hajduk]] pljeskavica" (''Hajdučka pljeskavica''), of beef mixed with smoked pork meat; and "[[Vranje]] pljeskavica" (''Vranjanska pljeskavica'').<ref>{{cite book|first=Miodrag|last=Raičević|script-title=sr:Слава: живот, тропари, словенска и посна јела|title=Slave: žitija, tropari, slavska i posna jela|url=https://books.google.com/books?id=hzFMAAAAMAAJ|year=1999|publisher=Gramatik|page=108|language=sr|script-quote=sr:Врањанска Пљескавица 600 г свињског меса, 200 г црног лука, 200 г парадајза, 200 г зелене паприке, веза першуна, мало белог лука, бибер, со Месо самељите на машини за млевење меса, посолите и побиберите, измесити ...}}</ref> Since 2008, the name ''Leskovac pljeskavica'' has been a legally protected term for pljeskavica from the [[Jablanica District]] of Serbia.<ref>{{cite web|script-title=sr:Брендирана лесковачка пљескавица|trans-title=Branded Leskovac burger|url=https://www.rts.rs/page/stories/ci/story/5/Економија/15101/Брендирана+лесковачка+пљескавица.html|language=sr|date=4 September 2008|publisher=[[Radio Television of Serbia]]}}</ref>{{Dead link|date=July 2025}}
+
+==See also==
+*[[Ćevapi]]
+*[[Hamburger]]
+*[[Salisbury steak]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Serbian cuisine}}
+{{Portal bar|Food}}
+
+[[Category:Hamburgers (food)]]
+[[Category:Balkan cuisine]]
+[[Category:Barbecue]]
+[[Category:Romani cuisine]]

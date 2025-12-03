@@ -1,0 +1,54 @@
+{{Short description|Dish of steak accompanied by chipped potatoes}}
+{{for|steak-cut fries|steak fries}}
+{{italic title}}
+{{Infobox prepared food
+| name             = Steak frites
+| image            = Reel and Brand - September 2021 - Sarah Stierch 05.jpg
+| image_size       = 200px
+| caption          = Steak frites
+| alternate_name   = 
+| country          = Belgium, France
+| region           = 
+| creator          = 
+| course           = [[Main course]]
+| type             = [[Meat]]
+| served           = Hot
+| main_ingredient  = [[Steak]], [[French fries]], various sauces
+| variations       = 
+| calories         = 
+| other            = 
+}}
+{{steak}}
+'''''Steak frites''''',{{efn|"''Steak-frites''" is also known by a variety of other names in Flemish and French, such as "''Bifteck-frites''"; all with roughly the same meaning in translation.}} meaning "steak [and] chipped potatoes" in French, is a dish consisting of [[beefsteak]] accompanied by fried chipped potatoes. It is commonly served in Belgian and French [[brasserie]]s, and is considered by some to be the [[national dish]] of Belgium, which claims to be the country of origin.<ref name=SW158>{{cite book|last1=Schehr|first1=Lawrence R.|last2=Weiss|first2=Allen S.|title=French Food: On the Table On the Page and in French Culture|publisher=Routledge|location=Abingdon|year=2001|page=158|isbn=0415936284}}</ref>
+
+Historically, [[rump steak]] was commonly used for this dish. Today, more commonly, the steak is an [[entrecôte]] also called rib eye, or scotch fillet (in Australia), [[Doneness|pan-fried rare]] ("''saignant''"—literally "bloody"), in a pan reduction sauce, sometimes with [[Hollandaise sauce|hollandaise]] or [[Bearnaise sauce|béarnaise]] sauce, served with deep-fried potatoes.<ref name=Bourdain>{{cite book|last=Bourdain|first=Anthony|title=Anthony Bourdain's Les Halles cookbook: strategies, recipes, and techniques of Classic Bistro Cooking|year=2004|publisher=Bloomsbury|location=New York, NY|isbn=978-1-58234-180-4|url=https://books.google.com/books?id=SvxBdbOQ9Q8C&q=steak+frites&pg=PA20|author2=Jose de Meirelles |author3= Philippe Lajaunie|accessdate=3 January 2012|pages=120 & 137}}</ref><ref name=Beeton>{{cite book|last=Beeton|first=Isabella Mary|title=The Book of Household Management|year=1888|publisher=Ward, Lock & Company|location=London & New York|url=https://archive.org/details/bookhouseholdma01goog|quote=steak frites.|accessdate=3 January 2012|page=[https://archive.org/details/bookhouseholdma01goog/page/n851 770]}}</ref>
+
+Steak frites is the subject of a [[semiotics|semiotic]] analysis by the French cultural theorist [[Roland Barthes]] in his 1957 work ''[[Mythologies (book)|Mythologies]]''.<ref>{{cite book |last1=Barthes |first1=Roland |translator-last1=Lavers |translator-first1=Annette |title=Mythologies |date=1972 |publisher=Hill and Wang |location=New York |isbn=978-0-374-52150-9 |pages=62–64}}</ref>
+
+<gallery widths="260px" heights="170px">
+File:Flank Steak & Frites - Cliff House - San Francisco, CA.jpg|Steak frites prepared using flank steak, at a San Francisco, California restaurant
+File:Steak frites.jpg|Steak frites in [[Fontainebleau]], France  
+</gallery>
+
+== See also ==
+{{portal|Europe|Food}}
+* [[Café de Paris sauce]]
+* [[Moules-frites]]
+* [[L'Entrecôte]]
+* [[Brasserie]]
+* [[List of meat and potato dishes]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+{{French cuisine}}
+
+[[Category:Beef dishes]]
+[[Category:Belgian cuisine]]
+[[Category:French cuisine]]
+[[Category:Meat and potatoes dishes]]
+[[Category:French fries]]
+[[Category:Beef steak dishes]]

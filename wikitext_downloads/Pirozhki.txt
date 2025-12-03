@@ -1,0 +1,143 @@
+{{Short description|Fried/baked filled bun common in Eastern European cuisine}}
+{{Distinguish|Pierogi}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox food
+| name = Pirozhki
+| image = Piroshki.JPG
+| image_size = 250px
+| caption = Baked piroshki stuffed with meat, rice, onion and mushroom
+| alternate_name = Piroshki, pirazhki, pyrizhky, piroška, perishki
+| country = 
+| region = 
+| creator = 
+| course = [[Appetizer]], main, [[dessert]]
+| served = Warm or hot
+| main_ingredient = Yeast dough, various fillings
+| variations = Multiple
+| calories = 
+| other = 
+| associated_cuisine = [[Armenian cuisine|Armenian]], [[Ashkenazi Jewish cuisine|Ashkenazi Jewish]],<ref>{{cite book | title = Hi-Tech Jewish Cooking: Recipes for the Microwave, Processor, Blender and Crock Pot | first = Bonne Rae |last=London | publisher = S.P.I. Books |edition=1st | year = 1990 | isbn = 9780944007822| page = 107  }}</ref> [[Azerbaijani cuisine|Azerbaijani]], [[Belarusian cuisine|Belarusian]],<ref name="Belarusian" /> [[Estonian cuisine|Estonian]], [[Iranian cuisine|Iranian]], [[Kazakh cuisine|Kazakh]], [[Kyrgyz cuisine|Kyrgyz]], [[Latvian cuisine|Latvian]],<ref name="Latvia" /> [[Macedonian cuisine|Macedonian]], [[Mennonite cuisine|Mennonite]], [[Mongolian cuisine|Mongolian]], [[Pontic Greek cuisine|Pontic Greek]],<ref name="Pontus" /> [[Russian cuisine|Russian]],<ref name="Goldstein">{{cite book | title = A Taste of Russia: A Cookbook of Russian Hospitality | first = Darra |last=Goldstein | author-link = Darra Goldstein | publisher = Russian Information Service | year = 1999 | isbn = 9781880100424 | page = 54 | url = https://books.google.com/books?id=aKEICug2T-EC&q=pirozhok&pg=PA54 }}</ref><ref>{{cite web |url=https://www.expresstorussia.com/experience-russia/traditional-russian-pies.html |title=Traditional Russian Pies: History and Recipe |work=Express to Russia}}</ref> [[Serbian cuisine|Serbian]], [[Tajik cuisine|Tajik]], [[Turkmen cuisine|Turkmen]],<ref name="Turkmenistan" /> [[Ukrainian cuisine|Ukrainian]],<ref name="IEU" /> [[Uzbek cuisine|Uzbek]]
+}}
+'''Pirozhki'''{{Efn|Also transliterated as {{Transliteration|ru|piroshki}}}} ({{langx|ru|пирожки́}}, {{IPA|ru|pʲɪrɐʂˈkʲi|IPA}}; {{singular}} {{langx|ru|пирожок|pirozhok|label=none}}; see also [[Pirozhki#Terminology|other names]]) is the Russian name for baked or fried yeast-leavened boat-shaped buns with a variety of fillings in [[Russian cuisine|Russian]] and [[Eastern European cuisine|Eastern European]] cuisine in general.<ref name="Goldstein"/><ref name="Saberi"/><ref>{{Cite web|url=https://en.oxforddictionaries.com/definition/piroshki|archive-url=https://web.archive.org/web/20180901044516/https://en.oxforddictionaries.com/definition/piroshki|url-status=dead|archive-date=September 1, 2018|title=piroshki |website=Oxford Living Dictionaries |access-date=2018-08-31}}</ref><ref name="OED">{{Cite OED |pirozhok|date=March 2022}}</ref><ref>{{Cite book|url=https://archive.org/details/eatingyourwords00grim|title=Eating Your Words: 2000 Words to Tease Your Taste Buds|date=2004-09-01|publisher=Oxford University Press|isbn=9780195174069|editor-last=Grimes|editor-first=William|edition=1st|location=Oxford; New York|language=English|url-access=registration}}</ref> Pirozhki are a popular [[street food]] and [[comfort food]].<ref name="Goldstein"/> They are especially popular in countries with large ethnic [[Russians|Russian]] communities,<ref name=":0">{{Cite web |last=Morgunskaya |first=Yuliya |date=29 November 2020 |title= |script-title=uk:Пирожок под следствием. Где искать корни выпечки с начинкой и в чем "виноват" Киев |trans-title=Pirozhok under investigation. Where to look for the roots of baked goods with filling and what Kyiv is "guilty" of |url=https://www.dsnews.ua/istoriia-so-vkusom/pirozhok-pod-sledstviem-gde-iskat-korni-vypechki-s-nachinkoy-i-v-chem-vinovat-kiev-29112020-407652 |access-date=1 July 2025 |website=DS News |language=ru}}</ref><ref name="Turkmenistan">{{Cite journal |last1=Albuquerque |first1=Gabriela |last2=Sousa |first2=Sofia |last3=Lança de Morais |first3=Inês |last4=Gelormini |first4=Marcello |display-authors=3 |title=Nutritional Characterization of Street Food in Urban Turkmenistan, Central Asia |journal=[[Frontiers in Public Health]] |date=2022 |volume=10 |issue=10 |article-number=877906 |doi=10.3389/fpubh.2022.877906 |doi-access=free |pmid=35677765 |pmc=9168320 }}</ref> and may also be found in other parts of the world.
+
+The word ''pirozhki'' ({{lit|smallpie}}) is a [[diminutive]] of ''[[pirog]]'', the Russian name for pie.<ref name="Saberi">{{cite book |last1=Saberi |first1=Helen |title=The Oxford Companion to Food |date=20 November 2014 |publisher=Oxford University Press |isbn=978-0-19-967733-7 |url=https://www.oxfordreference.com/display/10.1093/acref/9780199677337.001.0001/acref-9780199677337-e-1869?rskey=VL4hoz&result=10 |language=en |chapter=pirog}}</ref>
+
+==Terminology==
+The word ''pirozhki'' comes from {{langx|ru|пирожки}} ({{lit|smallpies}}), with the stress being on the last syllable: {{IPA|ru|pʲɪrɐʂˈkʲi|}}. {{Transliteration|ru|Pirozhok}}{{Efn|Also transliterated as {{Transliteration|ru|piroshok}}}} ({{lang-rus|пирожок|r=pirožók|p=pʲɪrɐˈʐok|a=Ru-пирожок.ogg}}, singular) is the [[diminutive]] form of Russian ''[[pirog]]'', which means a full-sized [[pie]].{{Efn|The full-sized pie can also be called by the diminutive name for purely stylistic reasons.}}<ref name="Saberi"/> The word is derived from [[:wikt:Reconstruction:Proto-Slavic/pirъ|''pirъ'']], meaning "feast" or "party".<ref name="Saberi"/><ref name=":0" /><ref>{{cite book |last1=Ayto |first1=John |title=The Diner's Dictionary |date=2013 |publisher=Oxford University Press |isbn=978-0-19-964024-9 |url=https://www.oxfordreference.com/display/10.1093/acref/9780199640249.001.0001/acref-9780199640249-e-944 |language=en |chapter=pierogi}}</ref>
+
+Their names in other languages are ''pirazhki'' ({{Langx|be|піражкі}}, {{singular}} ''pirazhok'')<ref name="Belarusian">{{Cite book |title=Тлумачальны слоўнік беларускай мовы |publisher=BelEn |year=1980 |volume=4 |language=be |trans-title=Explanatory dictionary of the Belarusian language}}</ref> and ''pyrizhky'' ({{Langx|uk|пиріжки}}, {{singular}} ''pyrizhok'').<ref name="IEU">{{Cite web |last=Stechishin |first=S. |title=Traditional foods |url=https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CT%5CR%5CTraditionalfoods.htm |access-date=1 July 2025 |website=[[Internet Encyclopedia of Ukraine]]}}</ref>
+
+Pirozhki are not to be confused with the Polish [[pierogi]] (a cognate term), which are called {{Transliteration|uk|varenyky}} in Ukrainian.
+
+==Variations==
+Typically, pirozhki are boat- or rarely crescent-shaped, made of yeast-leavened dough, with filling completely enclosed. Similar Eastern European and Russian pastries ([[pirog]]s) of other shapes include [[coulibiac]], [[Karelian pasty|kalitka]], [[rasstegai]], and [[vatrushka]]. Pirozhki are usually hand-sized. A smaller version may be served with soups.
+
+Pirozhki are either fried or baked. They come in sweet or savory varieties. Common savory fillings include [[ground meat]], [[mashed potato]], [[Edible mushroom|mushrooms]], [[boiled egg]] with [[scallions]], or [[cabbage]]. Typical sweet fillings are fruit ([[apple]], [[cherry]], [[apricot]], [[lemon]]), [[jam]], or [[tvorog]].<ref>{{cite web |title=Pirozhki |url=https://feedme-london.co.uk/Pirozhki-p255698643 |access-date=2022-12-28 |website=Feed Me London |language=en |archive-date=21 July 2024 |archive-url=https://web.archive.org/web/20240721135040/https://feedme-london.co.uk/Pirozhki-p255698643 |url-status=dead }}</ref> Baked pirozhki may be glazed with egg to produce golden color. They may also be decorated with strips of dough.
+
+According to [[Darra Goldstein]], the pirog "is as ubiquitous in Russian life as it is in literature. Street corners are dotted with hawkers selling their pies hot from portable ovens; cafés offer meat pies along with bowls of soup... Their diminutive cousins, the ''pirozhki'', are pocket-sized and oval. All can be made from a variety of doughs—yeast, short or flaky pastry—depending on which suits the filling best." An example she gives of its role in literature is ''[[Evenings on a Farm Near Dikanka]]'' by [[Nikolai Gogol]].<ref name="Goldstein" />
+
+==Regional varieties==
+{{more citations needed section|date=May 2025}}
+[[File:Puff pastry pies Пирожки из слоеного теста (e-citizen Az).jpg|thumb|Puff pastry pirozhki]]
+
+===Americas===
+Varieties of pirozhki were brought to the Americas by [[Volga Germans]]. Known today as [[bierock]], ''pirok'' or [[runza]], they belong to several regional cuisines in the United States, [[Canada]] and [[Argentina]]. The populous Russian diaspora which came to the Americas as a consequence of the [[Russian Revolution]], the [[Russian Civil War]], and (much later) the [[collapse of the Soviet Union]], brought with them the more classic Russian versions of pirozhki.
+
+===Balkans===
+The [[Greek cuisine|Greek]] variety {{Transliteration|el|piroski}} ({{Langx|el|πιροσκί}})<ref name="Pontus">{{cite web|url=https://www.gastronomos.gr/syntagh/piroski-pontiako/52070/|title=Piroski from Pontus|language=el|url-status=live|archive-url=https://web.archive.org/web/20230606031531/https://www.gastronomos.gr/syntagh/piroski-pontiako/52070/|archive-date=6 June 2023 }}</ref><ref>{{cite web|url=https://www.olivemagazine.gr/recipe/ftiachnoume-piroski-me-kima-vima-vima/|title=Piroski with minced meat step by step |language=el|url-status=live|archive-url=https://web.archive.org/web/20230929012113/https://www.olivemagazine.gr/recipe/ftiachnoume-piroski-me-kima-vima-vima/|archive-date=29 September 2023}}</ref> is popular in parts of Greece, in particular in [[Northern Greece]], as brought by [[Pontic Greeks]], and in most big cities, where they are sold, most in the past time but also less still today, as a type of fast food in specialty shops called Piroski shops, selling piroski exclusively.<ref>{{cite web|url=https://www.lifo.gr/tropos-zois/gefsi/poy-tha-fas-kales-tyropites-kai-piroski-ston-peiraia |title=Where to eat good cheese pies and piroskoi in Piraeus, Greece|publisher=[[Lifo (magazine)|LiFO]]|date=6 November 2022|language=el|url-status=live|archive-url=https://web.archive.org/web/20230930141728/https://www.lifo.gr/tropos-zois/gefsi/poy-tha-fas-kales-tyropites-kai-piroski-ston-peiraia|archive-date=30 September 2023}}</ref><ref>{{cite web|url=https://www.makthes.gr/to-piroski-stin-anakainismeni-aghora-modiano-643656 |title="Piroski" in the renovated Modiano Market in Thessaloniki|date=8 May 2023|publisher=[[Makedonia (newspaper)|Makedonia]]|language=el|url-status=live|archive-url=https://web.archive.org/web/20230511053857/https://www.makthes.gr/to-piroski-stin-anakainismeni-aghora-modiano-643656 |archive-date=11 May 2023}}</ref> The Greek {{Transliteration|el|piroskia}} come fried with many different stuffings,<ref>{{cite web|url=https://pontosworld.com/index.php/pontus/cuisine/265-piroshki-sh|title=Piroski|date=7 February 2017 |access-date=7 February 2017|url-status=live|archive-url=https://web.archive.org/web/20230602144124/https://pontosworld.com/index.php/pontus/cuisine/265-piroshki-sh|archive-date=2 June 2023}}</ref> such as Greek [[feta]] cheese or Greek [[kasseri]] cheese or minced meat or [[mashed potato]] or mix of [[feta]] cheese and [[ham]] or other filling.
+
+In [[Serbian cuisine|Serbia]] the local variety are cylindrical pastries called {{lang|sr|пирошка}}/{{Transliteration|sr|piroška}} ({{Transliteration|sr|piroshka}}). They are stuffed with fillings such as ground spiced meat mix of [[pork]] and [[veal]] or cottage cheese, and with [[kulen]], tomato sauce and herbs. Alternatively they are made from breaded [[crepes]] with variety of fillings.
+
+In [[Croatia]], the name {{lang|hr|piroška}} (sing.), {{lang|hr|piroške}} (pl.) was derived from [[pirog]], and refers to a kind of [[uštipci]].<ref>{{cite web | title = pìroška | url = https://hjp.znanje.hr/index.php?show=search_by_id&id=eV5vURc%3D&keyword=piro%C5%A1ka | language = hr | work = Hrvatski jezični portal | publisher = Znanje d.o.o. and [[University Computing Centre|Srce]] | access-date = 8 August 2024}}</ref>
+
+=== Baltics ===
+In [[Cuisine of Latvia|Latvia]], crescent-shaped buns of leavened dough called {{lang|lv|[[speķrauši]]}} (literally, "fatback tarts") or {{lang|lv|speķa pīrāgi}} (often referred to in diminutive {{lang|lv|speķa pīrādziņi}} or colloquially simply {{lang|lv|pīrāgi}} or {{lang|lv|pīrādziņi}}) are traditionally filled with smoked [[fatback]] and onion. Other fillings are also possible.<ref name="Latvia">{{cite web |url=http://latviansonline.com/index.php/reviews/article/3285/ |title=That wonderful scent from the kitchen |first=Daina |last=Gross |work=Latvians Online |archive-url=https://web.archive.org/web/20080628204710/http://latviansonline.com/index.php/reviews/article/3285/ |archive-date=2008-06-28 }}</ref> However the name {{lang|lv|pīrāgi}} is not exclusive to these buns, but can refer to variety of other pastries, such as [[pie]]s and [[Turnover (food)|turnover]]s. {{lang|lv|Pīrāgi}} were often eaten as lunch by farmers and shepherds working the fields.
+
+Estonians (and Finns) too have this tradition. The {{lang|et|pirukad}} or {{lang|et|saiakesed}} are fairly small in size and have regional variations in respect to fillings. They are usually made with puff pastry. Open pies covering the scale of whole baking tray are also popular, more similar to American pies. Many recipes exist, with meat, cabbage, [[carrot]]s, [[rice]], egg and other fillings and filling mixtures also being used. Sweet fillings are as popular as savory {{lang|et|pirukad}} with fillings like apple, various berries, [[marzipan]], various spices and jam.
+
+===South Caucasus===
+The Russian variant of pirozhki is a common fast food in [[Armenia]] and [[Azerbaijan]]. In Armenia it often contains a potato or seasoned meat filling. In Azerbaijan it is usually made with jam, mashed potatoes, or ground beef.
+
+===Central Asia===
+Pirozhki are common as fast food on the streets of the Central Asian countries in [[Kazakhstan]], [[Tajikistan]], [[Uzbekistan]], [[Turkmenistan]], [[Kyrgyzstan]], where they were introduced by the Russians.  They are also made by many Russians and non-Russians at home.
+
+===Finland===
+The [[Finnish cuisine|Finnish]] version is the similar {{lang|fi|[[lihapiirakka]]}}, a popular street food made with donut dough, minced meat and rice.
+
+===Iran===
+[[FILE:Iranian pirashki.jpg|thumb|Iranian homemade pirashki and chips]]
+The [[Iranian cuisine|Iranian]] version, {{Transliteration|fa|pirashki}} ({{langx|fa|پیراشکی}} {{Transliteration|fa|''pirāški''}}), is often consumed as an appetizer or as a street food. It is commonly filled with pastry cream, but potato and meat fillings are also available.
+
+===Japan===
+The dish was introduced to Japan by [[White émigré|White Russian]] refugees who sought shelter there after the [[October Revolution|Bolshevik Revolution]] of 1917. A localized Japanese version, called {{lang|ja|ピロシキ}} ({{Transliteration|ja|piroshiki}}), are predominantly fried, use fillings such as ground meat, boiled egg, [[cellophane noodles|bean noodles]], and spring onion, and are commonly breaded with [[panko]] before frying, in the manner of Japanese {{Transliteration|ja|menchi-katsu}}. Another popular variation is filled with [[Japanese curry]] and is quite similar to ''[[Curry bread|karē-pan]]'', which is itself said to be inspired by pirozhki.
+
+===Mongolia===
+Pirozhki is common as fast food in [[Mongolian cuisine|Mongolia]], and it is made throughout the country by families at home.
+
+==See also==
+{{Div col|colwidth=22em}}
+*[[Banitsa]]
+*[[Börek]]
+*[[Bougatsa]]
+*[[Cantiq]]
+*[[Chiburekki]]
+*[[Coulibiac]]
+*[[Empanadas]]
+*[[Fatayer]]
+*[[Knish]]
+*[[Lihapiirakka]]
+*[[List of Russian dishes]]
+*[[Pasty]]
+*[[Peremech]]
+*[[Pierogi]]
+*[[Pogača]]
+*[[Runza]]
+*[[Samosas]]
+*[[Turnover (food)]]
+*[[Uchpuchmak]]
+*[[Vatrushka]]
+{{Div col end}}
+
+==Notes==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* ''Piroshki or Pirozhki'' in ''Larousse Gastronomique, The New American Edition'' (Jenifer Harvey Lang, ed.), Crown Publishers, New York (1988), p.&nbsp;809.
+* ''Piroghi or Pirozhki'' in ''Larouse Gastronomique'', first English language edition (Nina Froud and Charlotte Turgeon, eds.), Paul Hamlyn, London (1961), p.&nbsp;740-741.
+* ''Pirog'' in ''The Oxford Companion to Food'' (Alan Davidson), Oxford University Press (1999), p.p.&nbsp;609-610.
+* ''Speķa rauši'' in [http://www.latvians.com/en/Reading/LatviskaVirtuve/virtuve-01-speka-rausi-piragi.php ''"Latviska un Moderna Virtuve" (The Latvian and Modern Kitchen)'', Fischbach D.P. Camp, Germany, 1949; pg. 24] {{Webarchive|url=https://web.archive.org/web/20130508205752/http://www.latvians.com/en/Reading/LatviskaVirtuve/virtuve-01-speka-rausi-piragi.php |date=8 May 2013 }}, original in Latvian and translated into English
+{{Refend}}
+
+{{Pastries}}
+{{Jewish baked goods}}
+{{Doughnut}}
+{{Street food}}
+{{Dumplings}}
+{{Authority control}}
+
+[[Category:Ashkenazi Jewish cuisine]]
+[[Category:Russian pastries]]
+[[Category:Soviet cuisine]]
+[[Category:Greek cuisine]]
+[[Category:Serbian cuisine]]
+[[Category:Estonian cuisine]]
+[[Category:Iranian cuisine]]
+[[Category:Azerbaijani cuisine]]
+[[Category:Armenian cuisine]]
+[[Category:Central Asian cuisine]]
+[[Category:Mongolian cuisine]]
+[[Category:Japanese cuisine]]
+[[Category:Savoury pies]]
+[[Category:Snack foods]]
+[[Category:Street food]]
+[[Category:Stuffed dishes]]
+[[Category:National dishes]]
+[[Category:Street food in Russia]]
+[[Category:Foods with jam]]
+[[Category:Ukrainian pastries]]
+[[Category:Belarusian cuisine]]
+[[Category:Street food in Ukraine]]

@@ -1,0 +1,266 @@
+{{Short description|Unleavened stuffed pasta of Polish origin}}
+{{distinguish|Varenyky}}
+{{About|the Polish boiled dumplings|the fried buns|Pirozhki|Eastern European pies|Pirog|the YouTuber|Scammer Payback}}
+{{Use American English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox food
+| name               = Pierogi
+| image              = Pierogi z masłem - 2023.03.31.jpg
+| image_size         = 
+| caption            = Pierogi with butter
+| alternate_name     = Perogie, pyrohy
+| country            = [[Poland]]
+| associated_cuisine = {{plainlist|
+*Poland, [[Central Europe]], [[Canada]], and [[United States]] (as pierogi)
+}}
+| creator            = 
+| course             = Appetizer, main, dessert
+| type               = [[Dumplings]]
+| served             = 
+| main_ingredient    = {{ubl|Dough: flour, eggs|Filling: various}}
+| variations         = {{ubl|'''Savory''': {{lang|sk|bryndzové pirohy}} or {{lang|pl|pierogi z mięsem}}), {{lang|pl|pierogi z kapustą i grzybami}} and {{lang|pl|pierogi ruskie}} from [[Poland]]
+|'''Sweet''': with sweet quark cheese or fruits (usually strawberries or blueberries), often accompanied by cream, pastry sauces or sweet breadcrumbs mixed in butter}}
+| similar_dish = [[Uszka]], [[maultasche]], [[pelmeni]], [[kreplach]], [[Manti (food)|manti]], [[jiaozi]] 
+}}
+
+'''Pierogi''' ({{IPAc-en|p|ɪ|ˈ|r|əʊ|ɡ|i}} {{respell|pirr|OH|ghee}}; {{IPA|pl|pjɛˈrɔɡʲi|lang|LL-Q809 (pol)-Poemat-pierogi.wav}}, {{singular}} {{lang|pl|pieróg}} {{IPA|pl|ˈpjɛruk||pl-pieróg.ogg}}) are filled [[dumplings]] made by wrapping [[Leavening|unleavened]] [[dough]] around a [[Stuffing|filling]] and cooked in boiling water. They are occasionally flavored with a savory or sweet garnish. Typical fillings include [[potato]], [[cheese]], [[Quark (dairy product)|quark]], [[sauerkraut]], [[ground meat]], [[Edible mushroom|mushrooms]], [[fruit]]s, or [[Berry|berries]]. Savory pierogi are often served with a topping of [[sour cream]], fried onions, or both.<ref>{{cite book |last1=Kopka |first1=Deborah |title=Welcome to Poland: Passport to Eastern Europe & Russia |date=2011 |publisher=Milliken Publishing Company |isbn=9780787727734 |page=76 |url=https://books.google.com/books?id=QIjxCgAAQBAJ&pg=PA76 |access-date=29 July 2020}}</ref><ref>{{Cite news|last=Severson|first=Kim|date=2018-06-26|title=A Guide to Soft Fresh Cheeses: Cottage Cheese, Mascarpone and More (Published 2018)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2018/06/26/dining/types-of-soft-cheese.html|access-date=2020-11-06|issn=0362-4331}}</ref>
+
+Dumplings under the name pierogi are a traditional [[Polish cuisine|Polish dish]], holding considerable culinary significance in [[Poland]]. The recipe itself dates back to at least 1682, when Poland's first cookbook, ''[[Compendium ferculorum, albo Zebranie potraw]]'', was published.<ref>{{Cite web |last=Pope |first=Shelby |date=2018-12-19 |title=The dumpling that comforts Poland |url=https://www.bbc.com/travel/article/20181218-the-dumpling-that-comforts-poland |access-date=2024-04-02 |website=bbc.com}}</ref> Equivalent names for pierogi or similar dumplings exist across [[Central European cuisine|Central]] ([[maultasche]], [[kreplach]]), [[Eastern European cuisine|Eastern]] ([[:ru:Вареники|vareniki]], [[pelmeni]])<ref>{{Cite book |url=http://www.inmo.org.ua/sum.html?wrd=Пиріг |title=Словник української мови |publisher=[[Naukova Dumka|Наукова Думка]] |year=1970–1980 |location=Kyiv |language=uk}}</ref>  and [[Southeast Europe|Southeastern Europe]] ([[manti (food)|manti]]). These dumplings, including the precursors to pierogi, most likely originated in [[Asia]] and came to [[Europe]] via trade in the [[Middle Ages]].<ref name=Minrol>{{cite web |url=http://www.minrol.gov.pl/pol/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-pomorskie/Pierogi-z-kasza-gryczana |title=Pierogi z kaszą gryczaną |date=n.d. |website=minrol.gov.pl |publisher=Ministerstwo Rolnictwa i Rozwoju Wsi (Ministry of Agriculture and Rural Development) |access-date=30 December 2021 |language=pl |archive-url=https://web.archive.org/web/20170519021030/http://www.minrol.gov.pl/pol/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-pomorskie/Pierogi-z-kasza-gryczana |archive-date=19 May 2017 |url-status=dead}}</ref><ref name=cuisine /> Pierogi are also popular in modern-day [[Canadian cuisine|Canadian]] and [[American cuisine]]s.
+
+== Terminology ==
+[[File:04565 Christmas dumplings with dried plums.JPG|thumb|Traditional [[Christmas Eve]] pierogi, whose name is derived from a root meaning 'festival']]
+The Polish word {{lang|pl|pierogi}} is the plural form of {{lang|pl|pieróg}}, a generic term for one filled dumpling. It derives from [[Proto-Slavic]] {{lang|sla-x-proto|pirъ|i=yes}}, 'feast'.<ref>''Food Culture in Russia and Central Asia'', 2005, p 75, By Glenn Randall Mack, Asele Surina</ref> While dumplings as such are found throughout [[Eurasia]], the specific name ''pierogi'', with its Proto-Slavic root and its [[cognate]]s in the [[West Slavic languages|West]] and [[East Slavic languages]], including Russian {{lang|ru|пирог}} ({{transliteration|ru|[[pirog]]}}, 'pie') and {{lang|ru|пирожки}} ({{transliteration|ru|[[pirozhki]]}}, 'small pies'), shows the name's common [[Slavic languages|Slavic origins]], antedating the modern [[nation state]]s and their [[standard language|standardized languages]]. In most of these languages the word means 'pie'. However, a recent theory speculates that the words ''[[bierock]]'', ''pierogi'' or ''[[pirog]]'' may be derived from [[Turkic languages|Turkic]] ''[[börek|bureg]]''.<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-1997-06-25-fo-6599-story.html|title=You Say Purek, I Say Beerock|work=Los Angeles Times|date=25 June 1997 |access-date=15 April 2023}}</ref>
+
+In Ukrainian cuisine, the term ''[[varenyky]]'' ({{lang|uk|[[wikt:вареники|вареники]]}}, singular ''varenyk'') refers to a related but distinct type of filled dumpling rather than a Ukrainian name for pierogi.<ref name="COD varenyky">{{cite encyclopedia |year=2005 |title=varenyky |encyclopedia=Canadian Oxford Dictionary |publisher=Oxford University Press |url = https://www.oxfordreference.com/view/10.1093/acref/9780195418163.001.0001/m_en_ca0075754?rskey=lUHqHM&result=1 }}</ref><ref>{{Cite news |last=Ellick |first=Adam B. |date=2007-09-30 |title=Dumplings for the Lord |language=en-US |work=The New York Times |url=https://www.nytimes.com/2007/09/30/nyregion/thecity/30ukra.html }}</ref> Varenyky are traditionally boiled, but in some Ukrainian regions they may also be steamed (''parenі varenyky''), a preparation method not typical for pierogi. The word ''varenyky'' is the plural form of {{lang|uk|вареник}} ({{transliteration|uk|varenyk}}), deriving from Ukrainian {{lang|uk|вар}} ({{transliteration|uk|var}}) meaning "boiling liquid", indicating boiling as the primary cooking method for this category of dumplings.<ref>{{cite magazine |title=The Underrated Pleasures of Eastern European Dumplings |url=https://www.newyorker.com/culture/annals-of-gastronomy/the-underrated-pleasures-of-eastern-european-dumplings }}</ref>
+
+The same term and its variants are also used in the [[Mennonites|Mennonite]] community, where spellings such as ''varenikie'' or ''wareniki'' appear,<ref>{{cite book |last1=Voth |first1=Norma Jost |title=Mennonite Foods and Folkways from South Russia |date=1994 |publisher=Good Books International |page=215 }}</ref><ref>{{cite book |last1=Brednich |first1=Rolf Wilhelm |title=Mennonite Folklife and Folklore: A Preliminary Report |date=1977 |publisher=National Museums of Canada }}</ref> and among Canadian [[Doukhobors]], who traditionally use the spelling ''vareniki''.<ref>{{cite web |last1=Popoff |first1=D. E. (Jim) |title=A Glossary of Traditional Doukhobor Cuisine |url=https://www.usccdoukhobors.org/cuisine/aboutcuisine.htm }}</ref>
+
+{{lang|sk|Bryndzové pirohy}} is the Slovak term for dumplings filled with [[sheep milk cheese]].<ref>{{Cite web|url=http://www.slovakcooking.com/2010/recipes/pierogi/|title=Bryndza Pierogi (Bryndzové Pirohy) recipe – Slovak Cooking|website=www.slovakcooking.com|access-date=2016-07-27}}</ref>
+
+{{lang|ro|Colțunași}} is the [[Romanian language|Romanian]] term for filled dumplings.<ref name=coltunas/> It is derived from Greek {{lang|el|καλτσούνι}}, ''kaltsúni'', itself a borrowing from Italian [[calzone|calzoni]]. A similarly named type of dumpling related to, or considered a variety of, pierogi, is known in Belarus as {{lang|be|[[kalduny|калдуны́]]}}, in Lithuania as {{lang|lt|Virtiniai-koldūnai}}, and in Poland as {{lang|pl|kołduny}}.
+
+== Origins ==
+
+Because the exact origin of the pierogi is unknown and unverifiable, it is the subject of frequent debate. Dumplings most likely originated in [[China]] and became widespread in Europe during the [[Middle Ages]] or later periods.<ref name=Minrol /> Some claim that pierogi were spread by [[Marco Polo]]'s expeditions through the [[Silk Road]], thus suggesting a connection to Chinese [[mantou]].<ref>{{Cite news|last=Shelby Pope|title=The dumpling that comforts Poland|language=en|url=http://www.bbc.com/travel/gallery/20181218-the-dumpling-that-comforts-poland|access-date=2020-12-26}}</ref> Other sources theorize that in the 13th century, pierogi were brought by [[Saint Hyacinth of Poland]] from the [[Asia|Far East (Asia)]] via what was then the [[Kievan Rus']].<ref name=":5">{{Cite web |last=Kasprzyk-Chevriaux |first=Magdalena |date=May 22, 2014 |title=Polish Food 101 ‒ Pierogi {{!}} Artykuł {{!}} Culture.pl |url=http://culture.pl/en/article/polish-food-101-pierogi |access-date=2016-07-27}}</ref> These became characteristic to Central and East European cuisines, where different varieties (preparation methods, ingredients, fillings) were invented. According to another theory, the dish was adopted in the territories of contemporary Ukraine from Turks, [[Turkish cuisine|whose cuisine]] has a similar speciality known as [[joshpara|düs-vara]].<ref>{{Cite web|title=Що таке «українська кухня»? Історія, страви, смаки|url=https://obarykada.com/chasopys/shho-take-ukrayinska-kuhnya-istoriya-stravy-smaky/|access-date=2025-08-13}}</ref>
+
+== Ingredients and preparation ==
+
+===Fillings===
+Pierogi may be stuffed (singly or in combinations) with mashed potatoes, [[fried onion]]s, [[quark (dairy product)|quark]] or [[farmer cheese]], [[cabbage]], [[sauerkraut]], [[ground meat]], [[Edible mushroom|mushrooms]], [[spinach]], or other ingredients depending on the cook's preferences. Dessert versions of the dumpling can be stuffed with sweetened quark or with a fresh fruit filling such as [[cherry]], [[strawberry]], [[raspberry]], [[bilberry]], [[blueberry]], [[apple]], or [[plum]]; stoned [[prune]]s are sometimes used, as well as [[jam]]. For more flavor, sour cream can be added to the dough mixture, and this tends to lighten the dough.
+
+===Preparation===
+The dough, which is made by mixing flour and warm water, sometimes with an egg, is rolled flat and then cut into squares with a knife or circles using a [[cup]] or [[drinking glass]]. The dough can be made with some mashed potato, creating a smoother texture.{{citation needed|date=November 2015}} Another variation, popular in Slovakia, uses dough made of flour and curd with eggs, salt, and water.{{citation needed|date=November 2015}}
+
+The filling is placed in the middle and the dough folded over to form a half circle or rectangle or triangle (if the dough is cut squarely). The seams are pressed together to seal the pierogi so that the filling will remain inside when it is cooked. The pierogi are simmered until they float, drained, and then sometimes fried or baked in [[butter]] before serving or fried as leftovers.  They can be served with melted butter or [[sour cream]], or garnished with small pieces of fried [[bacon]], onions, and mushrooms.<ref>[http://www.urbancookingguide.com/perogies-mushrooms-onions.html Bacon, cheese, onion and mushroom topping for fried pierogi] {{webarchive|url=https://web.archive.org/web/20130831213900/http://www.urbancookingguide.com/perogies-mushrooms-onions.html |date=2013-08-31 }} from urbancookingguide.com</ref> Dessert varieties may be topped with [[apple sauce]], jam, or ''[[varenye]]''.
+<gallery widths="170px" heights="140px">
+File:Pierogi preparation 07.JPG|Cutting the dough into circles
+File:Pierogi preparation 09.JPG|Placing the filling into a dough pocket
+File:Pierogi preparation 10.JPG|Closing the dough pocket
+File:Pierogi preparation 11.JPG|Sealing the pierogi
+</gallery>
+
+==Countries==
+
+===Poland===
+[[File:Pierogi 6.jpg|thumb|upright|''Pierogi'' festival in [[Kraków]], Poland, that occurs on the Day of [[Hyacinth of Poland|St. Hyacinth]]]]
+
+Traditionally considered [[peasant food]], pierogi eventually gained popularity and spread throughout all social classes, including the [[Szlachta|nobility]]. Cookbooks from the 17th century describe how during that era, pierogi were considered a staple of the Polish diet, and each holiday had its own special kind of pierogi created. They have different shapes, fillings and cooking methods. Important events like weddings had their own special type of pierogi [[Kurnik (pirog)|kurniki]] – baked pie filled with [[Chicken as food|chicken]]. Also, pierogi were made especially for mournings or wakes, and some for caroling season in January. In the east baked pierogi are a common and well-liked Christmas dish. They were stuffed with potatoes, cheese, cabbage, mushrooms, buckwheat, or millet. The most famous is the [[Biłgoraj pierogi]] stuffed with buckwheat, potatoes, and cheese and then baked in the oven.<ref>{{cite web|url=http://www.minrol.gov.pl:80/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-lubelskie/Pierogi-nowodworskie|title=Pierogi nowodworskie|archive-url=https://web.archive.org/web/20180628235235/http://www.minrol.gov.pl:80/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-lubelskie/Pierogi-nowodworskie|archive-date=2018-06-28}}</ref><ref>{{cite web|url=https://www.wilanow-palac.pl/stanislaw_czerniecki_s_old_polish_pierogi.html|title=Baked pierogi}}</ref>
+
+Pierogi are an important part of Polish festive seasons, particularly [[Christmas Eve]] ([[Wigilia]]) and [[Christmastide]]. They are also served during public events, markets or festivals in a variety of forms and tastes, ranging from sweet to salty and spicy. At the 2007 Pierogi Festival in Kraków, 30,000 pierogi were consumed daily.<ref>{{cite web|url=https://rove.me/to/krakow/pierogi-festival|title=Pierogi Festival|date=May 22, 2024 |publisher=rove.me}}</ref>
+
+Polish pierogi are often filled with fresh quark, boiled and mashed potatoes, and fried onions. This type is known in Polish as ''pierogi ruskie'' ("[[Ruthenia]]n pierogi", often mistakenly called Russian by foreigners). Other popular pierogi in Poland are filled with ground meat, mushrooms and cabbage, or for dessert an assortment of fruits (berries, with strawberries or blueberries the most common).{{citation needed|date=August 2016}}
+
+Sweet pierogi are usually served with sour cream mixed with sugar, and savory pierogi with bacon fat and bacon bits. Poles traditionally serve two types of pierogi for Christmas Eve supper. One kind is filled with sauerkraut and dried mushrooms, another{{spaced ndash}}small ''[[uszka]]'' filled only with dried wild mushrooms{{spaced ndash}}is served in clear ''[[borscht|barszcz]]''.<ref name="pierogifest" /> ''Leniwe pierogi'' ("lazy pierogi") are a different type of food, similar to lazy vareniki (see below), ''[[kopytka]]'', or ''[[halušky]]''.
+
+===Ukraine===
+Varenyky in Ukraine are a popular national dish, served both as a common everyday meal and as a part of some traditional celebrations, such as [[Twelve-dish Christmas Eve supper|Christmas Eve Supper]] ({{Langx|uk|Свята Вечеря|lit=Holy Supper|translit=Sviata Vecheria}}).{{Citation needed|date=October 2020}} In some regions in or bordering modern-day [[Western Ukraine]], particularly in [[Carpathian Ruthenia]] and [[Galicia (Eastern Europe)|Galicia]], the terms ''varenyky'' and ''pyrohy'' are used to denote the same dish. However, Ukrainian varenyky are often not pan-fried.
+
+[[File:Varenyky Ukrainian.jpg|thumb|Traditional Ukrainian {{lang|uk|varenyky}}, before cooking and with crimped edges]]
+
+Contrary to many other countries that share these dumplings, Ukrainians tended to use fermented milk products ([[soured milk]] or [[ryazhanka]]) to bind the dough together; however, today eggs tend to be used instead. Typical Ukrainian fillings for varenyky include curd cheese, potato, boiled beans, cabbage, mushy peas, plum, currants, sour cherries (and other fruits), meat, fish, and buckwheat. On Christmas Eve, they are traditionally prepared with meatless fillings (cabbage, mushrooms, potatoes, or poppy seeds) in keeping with the fast.
+
+Traditionally, they are topped with sour cream ({{Langx|uk|сметана|translit=smetana}}) and butter, as well as with fried onions, and fried pieces of [[Salo (food)|salo]] ({{Langx|uk|шкварки|translit=shkvarky}}). Whilst traditionally savory, varenyky can also be served as a dessert by simply substituting the filling of the dumpling to a sweet one. Dessert varenyky fillings include sour cherry, bilberries, sweet quark, and various fruits. The central regions of Ukraine are known for their more unusual varenyky, Poltava being known for its flour varenyky filling, in which the dumplings are filled with a mixture of flour, lard and fried pieces of bacon. However, unusual fillings can also be found in other regions, such as the hempseed varenyky from [[Polesia|Polissia]] and [[Galicia (Eastern Europe)|Galicia]].<ref>{{Cite web |title=Фуд-гід Україною |url=https://specials.platfor.ma/food-guide-ua/ |access-date=2023-06-25 |website=platfor.ma |language=uk}}</ref>
+
+These dumplings are notable in Ukrainian traditions and folklore. They appear frequently in folk songs, literature, and humor, where they are associated with abundance, comfort, and everyday joy. During festive occasions such as Christmas Eve, they are regarded as a symbol of prosperity and well-being. A long-standing custom involves placing a coin inside one of the dumplings, with the belief that whoever finds it will have good fortune and wealth in the coming year.<ref>{{Cite web |last=Podolinna |first=Daria |date=19 September 2025 |title=Christmas dinner and meals |url=https://ukraine.ua/visit/christmas-dinner/ |url-status=live |archive-url=https://web.archive.org/web/20241224114612/https://ukraine.ua/visit/christmas-dinner/ |archive-date=24 December 2024}}</ref>
+
+A yearly festival commemorating varenyky is held at the Ukrainian ski resort town of [[Bukovel]] in the Carpathian Mountains. In 2013, a snow monument to varenyky was made in Bukovel, and was submitted to the ''Guinness Book of Records'' as the biggest snow varenyk in the world.
+
+In Ukrainian tradition, varenyky were equated with a young moon due to the similar shape, and were used as part of pagan and sacrificial rituals. For example, cheese varenyky would be sacrificed near water springs, and farmers would also believe that varenyky helped bring a rich harvest, so they took homemade dumplings with them to the fields.<ref name=":0">{{Cite web |date=11 January 2018 |title=Ten Astonishing Facts About Ukrainian Varenyky |url=https://ukrainian-recipes.com/10-astonishing-facts-about-ukrainian-varenyky.html}}</ref>
+
+===German-speaking regions===
+[[File:Schlutzkrapfen South Tyrol (3).JPG|thumb|''Schlutzkrapfen'' with spinach and ricotta, [[South Tyrol]]]]
+
+The common term ''Pirogge'' (pl. ''Piroggen'') describes all kinds of Eastern European filled dumplings and buns,<ref name=":1">{{cite encyclopedia|title=Pirogge|encyclopedia=Duden Wörterbuch|publisher=Dudenverlag|url=http://www.duden.de/rechtschreibung/Pirogge}}</ref> including pierogi, pirozhkis and [[Karelian pasty|pirogs]]. Certain types of piroggen, both boiled and baked, were common fare for Germans living in Eastern Europe and the Baltic are still prepared by their descendants living there and in Germany. In particular, baked pīrādziņi are known as ''Kurländer Speckkuchen'' ("[[Courland]] bacon/speck pies") in the cuisine of [[Baltic Germans]].<ref name=":2">{{cite book|author=Nadia Hassani|url=https://books.google.com/books?id=93hWz3yOoj0C&pg=PA75|title=Spoonfuls of Germany: Culinary Delights of the German Regions in 170 Recipes|date=2004|publisher=Hippocrene Books|isbn=9780781810579}}</ref>
+
+''[[Mezzelune|Schlutzkrapfen]]'' closely resemble pierogi; they are common in [[Tirol, Austria|Tirol]] and northern Italy's German-speaking region of [[South Tyrol]], and are occasionally found in [[Bavaria]].<ref name=":3">{{cite book|author=Alfons Schuhbeck|url=https://books.google.com/books?id=uVCt7USlursC&q=schlutzkrapfen%20bayern&pg=PT490|title=Meine Klassiker|date=2012|publisher=Gräfe Und Unzer|isbn=9783833831768|language=de}}</ref> Fillings may include meat or potatoes, but the most widespread filling is a combination of spinach and quark (''Topfen'') or [[ricotta]].<ref name="Nolen">{{cite book|author=Jeremy Nolen|url=https://books.google.com/books?id=NwppAwAAQBAJ&q=Schlutzkrapfen|title=Schlutzkrapfen, the twin of one of Poland's most recognizable food exports|author2=Jessica Nolen|date=2015|work=New German Cooking: Recipes for Classics Revisited|publisher=Chronicle Books|isbn=978-1452136486|pages=178–179|access-date=3 October 2015|name-list-style=amp}}</ref> Another similar Austrian dish, known as ''Kärntner Nudel'' ([[Carinthia]]n noodles), is made with a wide range of fillings, from meat, mushrooms, potato or quark to apples, pears or [[Mentha|mint]].<ref name=":4">{{cite book|author=Lia Miklau|title=Kärntner Kochbüchl|date=1984|publisher=Verlag Johannes Heyn|isbn=3-85366-202-1|location=Klagenfurt}}</ref> These regional specialties differ significantly from the most common [[Swabia]]n filled dumplings known as ''[[Maultaschen]]''.<ref name="Sheraton">{{cite book|author=Mimi Sheraton|url=https://books.google.com/books?id=afjItI5Q9JMC&q=Maultaschen|title=Maultaschen|date=2010|work=The German Cookbook: A Complete Guide to Mastering Authentic German Cooking|publisher=Random House Publishing Group|isbn=978-0307754578|pages=115–|quote=Dumplings are to the German cuisine what pasta is to the Italian.|access-date=3 October 2015}}</ref>
+
+===Hungary===
+In [[Hungarian cuisine]], the ''derelye'' is similar to the pierogi, consisting of pasta pockets filled with jam, cottage cheese, or sometimes meat.<ref>[https://web.archive.org/web/20120214104349/http://www.chew.hu/derelye_lekvaros_sonkas_vagy_h/ Derelye recipe] from chew.hu</ref> Derelye is consumed primarily as a festive food for special occasions such as weddings; it is also eaten for regular meals, but this tradition has become rare.  {{Citation needed|date=August 2008}}
+
+===Romania and Moldova===
+In [[Romania]] and [[Moldova]], a similar recipe is called ''colțunași'',<ref name="coltunas">{{cite web|url=http://www.dexonline.news20.ro/cuvant/coltunas.html|title=COLŢUNÁŞ|publisher=DEX on line|language=ro|access-date=2012-03-05|archive-date=2021-02-24|archive-url=https://web.archive.org/web/20210224163723/http://www.dexonline.news20.ro/cuvant/coltunas.html|url-status=dead}}</ref> with regional varieties such as ''piroști'' in [[Transylvania]] and [[Bukovina]] regions and ''chiroște'' in [[Moldavia]] region.<ref>{{Cite web |last=Ensinger |first=David |date=June 14, 2013 |title=Recipes from Abroad // A Special Sunday Dinner in Moldova |url=http://www.thescoutproject.org/journal/field-guide/food-and-drink/recipes-from-abroad-sunday-dinner-in-moldova |access-date=2023-04-06 |website=The Scout Project |language=en-US}}</ref> ''Colțunași'' is either a dessert filled with jam (usually plum), fresh sour cherries,<ref>{{cite web|url=http://www.culinar.ro/retete/dulciuri/prajituri/coltunasi-cu-visine-si-sos/42/2/20242/|title=Coltunasi cu visine si sos|last=culinar|access-date=24 August 2016}}</ref> or cottage cheese, or savory, filled with [[dill]]-seasoned cheese ([[telemea]] or [[urdă]]), mashed potatoes, or chopped meat. The dough is made with [[wheat flour]] and the colțunași are boiled in salted water,<ref>{{cite web|url=https://kathrynannew.wordpress.com/2009/10/07/hai-la-masa-coltunasi/|title=Hai la masa!: Coltunasi|date=7 October 2009|access-date=24 August 2016}}</ref> pan-fried in oil, or baked in the oven.
+
+The word is a cognate with Slavic ''[[kalduny]]'', a type of dumplings. In both Bukovina and Transylvania, the name ''piroști'' is used in Romanian families of German or Slavic origin and the filling can also be a whole, fresh, seedless plum. The term ''colțunaș'' is used by native Romanian families and are usually filled with cottage cheese or quark and served topped with [[smetana (dairy product)#Smântână|sour cream smântână]], traditionally called ''colțunași cu smântână''.
+
+===Russia and Belarus ===
+[[File:Singer Café - Pierogi IMG 3425.JPG|thumb|Vareniki served in [[Saint Petersburg]]]]
+''Vareniki'' are most often filled with potatoes (sometimes mixed with mushrooms), [[quark cheese]], cabbage, beef, and berries.<ref>{{Cite news|url=https://www.rbth.com/arts/2014/05/08/vareniki_a_blessing_for_vegetarians_35095|title=Vareniki: A blessing for vegetarians|last=Kharzeeva|first=Anna|year=2014}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=OLAHrc0gfIIC&pg=PA98 |title=Home Cooking from Russia: A Collection of Traditional, Yet Contemporary Recipes|last=Bylinka|first=Ekaterina And Liudmila|date=2011|publisher=AuthorHouse|isbn=9781467041362|language=en |page=98}}</ref> They can be topped with fried onions and bacon, or butter, and served with sour cream. This Ukrainian dish became especially popular in Russia during the Soviet period, when it became part of the menu of public catering and international [[Soviet cuisine]].<ref>{{cite book|author=V.V._Pohlyobkin|title=Вильям Васильевич Похлёбкин Национальные кухни наших народов|year=2004|url=https://www.jagannath.ru/users_files/books/V.V._Pohlyobkin_-_Natcionalnye_kuhni_na6ih_narodov.pdf|language=ru|access-date=2021-08-11|archive-date=2018-06-19|archive-url=https://web.archive.org/web/20180619062757/https://www.jagannath.ru/users_files/books/V.V._Pohlyobkin_-_Natcionalnye_kuhni_na6ih_narodov.pdf|url-status=dead}}</ref> [[Pelmeni]] are significantly different; they are smaller, shaped differently and usually filled with [[ground meat]] (pork, lamb, beef, fish) or mushrooms as well as salt, pepper, and sometimes herbs and onions.
+
+In modern Russian, [[pirozhki]] always mean a baked, in oven, or sometimes in a frying pan, usually under the lid, dough with filling.  For dough with fillings, cooked in boiling water, exact naming is used – vareniki, pelmeni, pozy (steamed), etc.
+
+In Belarus, its close proximity to Poland, Ukraine, and Russia helps create a unique blend which takes up all three. [[Kalduny]] are the result, and are one of the most recognizable foods from Belarus.
+
+====Russian Mennonite cuisine====
+Due to centuries of close-knit community and mass migration from the [[Netherlands]], northern [[Prussia]], [[the Russian Empire]], and the Americas, the [[Russian Mennonites]] developed a unique ethnicity and cuisine. In Russian [[Mennonite cuisine]] the pierogi is more commonly called ''vereniki'' and almost always is stuffed with [[cottage cheese]] and served with a thick white cream gravy called ''schmaunt fat''.<ref>{{cite news|title=Steinbach museum exhibit looks at the Mennonite menu|date=29 July 2015 |newspaper=Manitoba Co-operator|url=https://www.manitobacooperator.ca/country-crossroads/a-global-recipe-swap/|accessdate=May 15, 2021|author1=Fbcadminb3Bnw5 }}</ref> Russian Mennonites will also stuff the ''vereniki'' with fruit such as [[Saskatoon berries]] or [[blueberries]]. It is often accompanied with farmer sausage (''formavorscht'') or ham. Mennonite-style ''vereniki'' is no longer common in Poland, Russia, or Ukraine, but is very common in the [[Canadian prairies]], [[Chihuahua (state)|Chihuahua, Mexico]], [[Paraguay]], [[Bolivia]], and other places where Russian Mennonites settled.
+
+===Slovakia===
+[[File:Bryndzove pirohy.jpg|thumb|{{lang|sk|Bryndzové pirohy}}]]
+
+A traditional dish in [[Slovak cuisine]] is {{lang|sk|bryndzové pirohy}}, dumplings filled with salty {{lang|sk|[[bryndza]]}} cheese mixed with mashed potatoes. {{lang|sk|Bryndzové pirohy}} are served with some more {{lang|sk|bryndza}} (mixed with milk or sour cream, so it has a liquid consistency and serves as a dip) and topped with bacon or fried onion. In Slovakia, {{lang|sk|pirohy}} are semicircular in shape.
+
+Along with {{lang|sk|[[bryndzové halušky]]}}, {{lang|sk|bryndzové pirohy}} is one of [[Slovak cuisine|Slovakia's national dishes]]. Some other varieties include ''pirohy'' filled with mashed potatoes, apples, jam, or [[Quark (dairy product)|quark]].
+
+===Bosnia and Herzegovina===
+Klepe are popular in Sarajevo, filled with minced meat, and topped with sour cream, garlic, and paprika.
+
+===Slovenia===
+
+''Ajdovi krapi'' (literally buckwheat carps) are a dish popular in the northeastern and Alpine regions of Slovenia. Made with buckwheat rather than wheat flour and filled with a mixture of cottage cheese (''skuta''), millet, and fried onions, they are traditionally topped with pork fat crisps, fried bacon, or fried onion, but today often with butter breadcrumbs.<ref>A sample recipe (in Slovenian) at [http://www.delo.si/prosti-cas/kulinarika/sredin-namig-za-kosilo-ajdovi-krapi-s-skuto-in-proseno-kaso.html the Delo newspaper site]</ref> Along with [[Ajdovi žganci|žganci]] and [[štruklji]], they form a trio of buckwheat-based dishes typical of [[Slovenian cuisine]].
+
+===Turkey===
+''Piruhi'' is a traditional dish made in some parts of [[Anatolia]] which was also existed in [[Ottoman court]] cuisine. It is usually made with wheat flour and egg 
+and filled with a mixture of [[Tulum cheese]], parsley, and onion. Served with toasted walnuts in butter.
+
+===United States and Canada===
+[[File:Pierogi StLawrenceMarket Toronto.jpg|thumb|upright|left|Pierogi special at a fast-food stall in [[St. Lawrence Market]], Toronto]]
+[[File:World's Largest Perogy.jpg|thumb|upright|left|Pierogi sculpture in [[Glendon, Alberta]]]]
+
+Pierogi were brought to the United States and Canada by Central and Eastern European immigrants. They are particularly common in areas with large Polish or Ukrainian populations, such as the Province of [[Alberta]], Pittsburgh, Chicago, and New York City (particularly in the East Village of Manhattan and Greenpoint in Brooklyn) along with its New Jersey suburbs.<ref>{{cite web |last1=Snook |first1=Debbi |title=Cleveland seventh in pierogi sales, according to Mrs. T's Pierogi|date=January 12, 2019 |newspaper=[[The Plain Dealer]]|url=https://www.cleveland.com/taste/2009/10/cleveland_seventh_in_pierogi_s.html|access-date=26 May 2021}}</ref> Pierogi were at first a family food among immigrants as well as being served in ethnic restaurants. The pierogi in America initially came from [[Cleveland, Ohio]], when the first documented sale of pierogi was made at the Marton House Tavern in Cleveland in 1928.<ref>{{cite web|title=Pierogi History|work=The Polish Villa Restaurant |date=March 20, 2017 |url=https://www.polishvillaunion.com/polish-villa/pierogi-history/#:~:text=Pierogi%20in%20the%20United%20States&text=The%20first%20documented%20sale%20of,workers%20in%20the%20Cleveland%20Region.|access-date=26 May 2021}}</ref> In the post–[[World War II]] era, freshly cooked pierogi became a staple of fundraisers by ethnic churches. By the 1960s, pierogi were a common supermarket item in the frozen food aisles in many parts of the United States and Canada, and are still found in grocery stores today.
+
+Numerous towns with Central and Eastern European heritage celebrate the pierogi. They have become a symbol of Polish-American cultural identity. Many families make them together for Christmas.<ref>{{cite book |last=McWilliams |first=Mark |title=The Story Behind the Dish: Classic American Foods |date=6 April 2012 |publisher=ABC-CLIO |url=https://books.google.com/books?id=VritIGJ5f48C |page=171|isbn=9780313385100 }}</ref> The city of [[Whiting, Indiana]], celebrates the food at its [[Pierogi Fest]] every July.<ref name="pierogifest">{{cite web| url=http://www.pierogifest.net/ | title=Annual Pierogi Festival in Whiting, Indiana| publisher=[[Pierogi Fest]]}}</ref> Pierogi are also commonly associated with Cleveland, where there are yearly events such as the [[Broadway–Slavic Village|Slavic Village]] Pierogi Dash and the [[Parma, Ohio|Parma]] Run-Walk for Pierogies.<ref>{{cite web|title=The Slavic Village Pierogi Dash 5K and Fun Walk, Cleveland's Most Delicious Run!|url=https://www.thisiscleveland.com/events/the-slavic-village-pierogi-dash-5k-and-fun-walk-c|access-date=26 May 2021}}</ref> [[Pittsburgh#Local dialect|Pittsburgh, Pennsylvania]], also celebrates pierogi. There is a "[[Great Pierogi Race|pierogi race]]" at every home [[Pittsburgh Pirates]] baseball game. In the race, six runners wearing pierogi costumes race toward a finish line. In 1993, the village of [[Glendon, Alberta]] erected a roadside tribute to this culinary creation: a {{convert|27|ft|adj=on|sp=us}} fiberglass perogy (preferred local spelling), complete with fork.<ref name="bigthings">[http://www.bigthings.ca/alberta/glendon.html "World's Largest Pierogi"] {{webarchive|url=https://web.archive.org/web/20120311051820/http://www.bigthings.ca/alberta/glendon.html |date=2012-03-11 }} in [[Glendon, Alberta]], from bigthings.ca</ref>
+
+The United States has a substantial pierogi market because of its large Central and Eastern European immigrant populations. Unlike other countries with newer populations of European settlers, the modern pierogi is found in a wide selection of flavors throughout grocery stores in the United States. Many of these grocery-brand pierogi contain non-traditional ingredients to appeal to American tastes, including [[spinach]], [[jalapeño]], and [[Chicken (food)|chicken]].{{citation needed|date=July 2020}}
+
+Pierogi enjoyed a brief popularity as a sports food when [[Paula Newby-Fraser]] adopted them as her food of choice for the biking portion of the 1989 Hawaii [[Ironman Triathlon]].<ref>{{cite news |title=Pierogies replace pasta in popularity |author=Carter, Tom |newspaper=Washington Times |date=27 September 1990 |page=D2}}</ref> For more than a decade thereafter, [[Mrs. T's Pierogies|Mrs. T's]] (the largest American pierogi manufacturer) sponsored triathlons,<ref>[http://www.active.com/special_events/mrst_2000/index.cfm?CHECKSSO=0 Mrs. T's Triathlon] {{webarchive|url=https://web.archive.org/web/20081206135720/http://www.active.com/special_events/mrst_2000/index.cfm?CHECKSSO=0 |date=2008-12-06 }}, Chicago (2000), from active.com</ref> some professional triathletes and "fun runs" around the country. For many triathletes, pierogi represented an alternative to pasta as a way to boost their carbohydrate intakes.<ref>{{cite news |title=High-Carbo Pierogies Score Points With Triathletes |author=Stein, Ricki |newspaper=The Morning Call |date=10 April 1991 |page=D1}}</ref>
+
+According to pierogi manufacturer Mrs. T's, based in [[Shenandoah, Pennsylvania]], pierogi consumption in the United States is largely concentrated in a geographical region dubbed the "Pierogi Pocket", an area including New York, New Jersey, Pennsylvania, Ohio, Indiana, Chicago, Detroit, parts of the northern Midwest and southern New England which accounts for 68 percent of annual US pierogi consumption.<ref>{{cite web |url=http://www.pierogypocket.com/ |title=Mrs T's Pierogy Pocket Capital of America |access-date=24 August 2016|archive-url=https://web.archive.org/web/20160303234630/http://www.pierogypocket.com/ |archive-date=3 March 2016|url-status=usurped|df=dmy-all}}</ref>
+
+{{Canadian cuisine}}
+[[Canada]] has a large [[Polish Canadian|Polish population]] as well as [[Ukrainian Canadian|Ukrainian]] populations, the latter being particularly concentrated in the [[Prairie provinces]]. Pierogi (known locally as perogies) are common throughout the country.{{citation needed|date=July 2020}} The Canadian market for pierogi is second only to that of the U.S. market, the latter having been the destination of choice for the majority of Central and Eastern European immigrants before and during World War II.<ref name="bigthings" />
+Packed frozen pierogi can be found wherever Central and Eastern European immigrant communities exist and are generally ubiquitous across Canada, even in big chain stores. Typically frozen flavors include analogs of ''ruskie pierogi'' filled with potato and either [[cheddar cheese]], onion, bacon, cottage cheese, or mixed cheeses. Homemade versions are typically filled with either mashed potatoes (seasoned with salt and pepper and often mixed with dry curd cottage cheese or cheddar cheese), sauerkraut, or fruit. These are then boiled, and either served immediately, put in ovens and kept warm, or fried in oil or butter. Popular fruit varieties include strawberry, blackberry, blueberry, and [[saskatoon berry]].
+
+Potato and cheese or sauerkraut versions are usually served with some or all the following: butter or oil, sour cream (typical), fried onions, fried bacon or [[kielbasa]] (sausage), and a creamy mushroom sauce (less common). Some ethnic kitchens will deep-fry perogies; dessert and main course dishes can be served this way.
+
+The frozen varieties are sometimes served casserole-style with a mixture of chopped ham, onions, peppers, and cheddar cheese or with an Italian-style mixture of ground beef, onions, and tomato sauce.<ref>[http://www.cheemo.com/recipes.htm Perfect Perogy Casserole] {{webarchive|url=https://web.archive.org/web/20100919014724/http://cheemo.com/recipes.htm |date=2010-09-19 }} from Cheemo Recipes Page www.cheemo.com</ref>
+
+National chain restaurants in Canada feature the dish or variations. [[Boston Pizza]] has a sandwich and a pizza flavored to taste like pierogies, while [[Smitty's (restaurant)|Smitty's]] serves theirs as an appetizer deep-fried with a side of [[Salsa (sauce)|salsa]].
+
+===United Kingdom===
+[[File:Retro cafe in Crystal Palace Triangle.jpg|thumb|A board advertising {{lang|pl|pierogi}} outside a [[Cafe (British)|cafe]] in the [[Crystal Palace Triangle]], London]]
+Pierogi are regarded as a symbol of the [[Poles in the United Kingdom|Polish community in Britain]] and have become a relatively well-known dish.<ref>{{cite web |title=Book about Polish pierogi out in UK |url=https://www.polskieradio.pl/395/7791/Artykul/3021612,Book-about-Polish-pierogi-out-in-UK |website=[[Polskie Radio]] |date=18 August 2022}}</ref><ref>{{cite web |last1=Meuwissen |first1=Sébastien |title=The success of Polish cuisine in the UK |url=https://www.britishpoles.uk/the-success-of-polish-cuisine-in-the-uk/ |website=British Poles |date=15 December 2021}}</ref><ref>{{cite news |last1=Hammond |first1=Augustine |title=A paean to pierogi |url=https://www.ft.com/content/96cd6186-ed47-4c11-9da2-3b339423a3fb |work=[[Financial Times]] |date=17 August 2022}}</ref>
+
+==Lazy noodles and lazy varenyky==
+[[Image:Pierogi leniwe 3538.jpg|thumb|''Kluski leniwe'' Polish style, garnished with cinnamon]]
+Lazy varenyky ({{langx|uk|книдлі, ліниві вареники}}, {{langx|ru|ленивые вареники}}) in [[Cuisine of Ukraine|Ukrainian]] and [[Cuisine of Russia|Russian]] cuisine and lazy pierogi ({{langx|pl|leniwe pierogi}}, {{langx|rue|leniwe pyrohy}}) in [[Cuisine of Poland|Polish]] and [[Rusyns|Rusyn]] cuisines, are [[gnocchi]]-shaped dumplings made by mixing ''[[domashniy sir]]'' (curd cheese) with egg and flour into quick dough. The cheese-based dough is formed into a long sausage about {{convert|2|cm|in|sp=us|frac=4}} thick, then cut diagonally into gnocchi, called [[halushky]] in [[Ukrainian language|Ukrainian]] and [[Rusyn language|Rusyn]] and  ''galushki'' in [[Russian language|Russian]]. The dumplings are then quickly boiled in salted water and served with sour cream or melted butter.
+
+The name "lazy varenyky" reflects the quick preparation time of the dish, usually taking 10 to 15 minutes from assembling the simple ingredients to serving the cooked dumplings.<ref>[http://www.good-cook.ru/proth/proth_040.shtml Lazy vareniki]: recipe, preparation, and serving suggestion.</ref> Lazy varenyky differ from standard varenyky in the same way that Italian gnocchi differ from [[ravioli]] or [[tortellini]]: these are fluffy solid dumplings, rather than stuffed pockets of dough.
+
+== In culture ==
+Pierogi have their own patron saint: [[Hyacinth of Poland|Saint Hyacinth of Poland]], a monk tied to the history of pierogi.<ref name=":5" /> He is sometimes called "Święty Jacek z pierogami" (St. Hyacinth with his pierogi) and prayed to under this moniker, this custom is especially tied to the traditional "baked pierogi of St. Hyacinth" of [[Nockowa]] in [[Subcarpathian Voivodeship|Subcarpathia]].<ref>{{Cite web |title=Pieczone pierogi św. Jacka – Ministerstwo Rolnictwa i Rozwoju Wsi – Portal Gov.pl |url=https://www.gov.pl/web/rolnictwo/pieczone-pierogi-sw-jacka |access-date=2023-03-29 |website=Ministerstwo Rolnictwa i Rozwoju Wsi |language=pl-PL}}</ref> In addition, "Święty Jacek z pierogami!" is an old Polish expression of surprise, roughly equivalent to the English language "good grief" or American "holy smokes!" The origin of this usage is unknown.<ref>''Polish Heritage Cooker'' by Robert Strybel, Maria Strybel, 2005 p. 456</ref>
+
+In Ukrainian literature, varenyky appeared as a symbol of [[Ukrainian nationalism|national identity]], sometimes stressing its distinction from Russian. In the poem by Stepan Rudansky ''Varenyky-Varenyky'' (1858), a Russian soldier asks a Ukrainian countrywoman to cook varenyky for him. However, he cannot think of the word "varenyky", while the woman pretends not to understand him.<ref>Степан Васильович Руданський, [http://www.rudanskyi.info/spivomovky/stepan-rudanskyi-varenyky-varenyky.html Вареники-вареники] {{webarchive|url=https://web.archive.org/web/20151003221117/http://www.rudanskyi.info/spivomovky/stepan-rudanskyi-varenyky-varenyky.html |date=2015-10-03 }}. 1-я публикация в еженедельнике ''Русский мир'', № 21, с. 504 (Stepan Rudansky. ''Varenyky-Varenyky''. First publication in weekly newspaper ''Russian World'', 21, p. 504,  1859; in Ukrainian)</ref>
+
+The Great Pittsburgh Pierogi Race N'at, commonly called the Great Pierogi Race, is an American mascot race between innings during a Pittsburgh Pirates baseball game that features six contestants racing in giant pierogi costumes: Potato Pete (blue hat), Jalapeño Hannah (green hat), Cheese Chester (yellow hat), Sauerkraut Saul (red hat), Oliver Onion (purple hat), and Bacon Burt (orange hat).
+
+Though 'pierogi' simply refers to filled dumplings in Poland and other Slavic countries, they actually hold deeper significance. Traditionally in the medieval ages, the rich enjoyed pierogi as a high-class meal, considering it a delicacy. Pierogi gradually gained popularity due to their affordability and versatility, and people began serving them at festivals, religious holidays, and as a common food for everyone. On festival days and religious occasions such as wigilia, families served pierogi as a symbol of unity.<ref>{{Cite web |title=Everything you ever wanted to know about pierogi |url=https://www.thepierogiexperiment.com/facts |access-date=2024-04-28 |website=THE PIEROGI EXPERIMENT |language=en-US}}</ref> Pierogi also represented ethnic pride in Polish communities and helped unite Poles during difficult times. Entire communities often gathered to spend a day making pierogi together. Pierogi require labor-intensive preparation, symbolizing the tenacity of the Polish people and their ability to overcome hardships.<ref>{{Cite web |title=Pierogi {{!}} Meaning, Types, Recipe, & Polish Culture {{!}} Britannica |url=https://www.britannica.com/topic/pierogi |access-date=2024-04-28 |website=www.britannica.com |language=en}}</ref>
+
+===Monuments===
+A monument to varenyky was inaugurated in [[Cherkasy]], Ukraine in September 2006.<ref name="Monument">[http://www.travel.ru/news/2006/09/28/94511.html A monument to vareniki in Cherkasy, Ukraine] {{in lang|ru}}; also see a news item on [https://archive.today/20130218042041/http://gpu-ua.info/index.php?&id=132146 gpu.ua], 27 September 2006 {{in lang|uk}}.</ref> The monument erected at the entrance to a hotel depicts [[Cossack Mamay]] (a Ukrainian folklore hero whose fondness for varenyky was narrated by [[Taras Shevchenko]] and [[Nikolay Gogol]]) eating varenyky from an earthenware pot, with a huge crescent-shaped varenyk behind him.
+
+In 1991, a giant {{convert|7.6|m|adj=on|sp=us}}-tall pierogi statue on a fork was erected in the village of [[Glendon, Alberta|Glendon]] in [[Alberta]], Canada.<ref>{{cite web |url=http://www.bigthings.ca/alberta/glendon.html |title=Giant ''perogy'' in Glendon, Alberta |publisher=Bigthings.ca |access-date=2012-05-17 |url-status=dead |archive-url=https://web.archive.org/web/20120311051820/http://www.bigthings.ca/alberta/glendon.html |archive-date=2012-03-11 }}</ref> In January 2010, a pierogi statue was proposed to be erected in [[Minneapolis]], Minnesota.<ref>{{cite web |url=http://www.startribune.com/lifestyle/taste/82460087.html?elr=KArks7PYDiaK7DUqEiaDUiD3aPc:_Yyc:aULPQL7PQLanchO7DiUrP |title=Artist hopes a pierogi will rise in Northeast |publisher=Startribune.com |date=2010-01-23 |access-date=2012-05-17 |url-status=dead |archive-url=https://web.archive.org/web/20121011070108/http://www.startribune.com/lifestyle/taste/82460087.html?elr=KArks7PYDiaK7DUqEiaDUiD3aPc:_Yyc:aULPQL7PQLanchO7DiUrP |archive-date=2012-10-11 }}</ref>
+{{Clear}}
+
+== See also ==
+{{Portal|Europe|Food}}
+{{Div col|colwidth=30em}}
+* [[Momo (food)|Momo]]
+* [[Eastern European cuisine]]
+* [[Kalduny]]
+* [[List of dumplings]]
+* [[List of stuffed dishes]]
+* [[Pampuchy]]
+* [[Speķrauši]]
+* [[Syrniki]]
+* [[Uszka]]
+* [[Jiaozi]]
+* [[Naleśniki]]
+* [[Gujiya]]
+* [[Empanada]]
+* [[Romani cuisine]]
+* [[Mennonite cuisine]]
+* [[Comfort food]]
+*[[European cuisine]]
+{{div col end}}
+
+== References ==
+{{Reflist|refs=
+<ref name=cuisine>
+*{{cite book |last1=Sheraton |first1=Mimi |title=1,000 Foods To Eat Before You Die: A Food Lover's Life List |date=13 January 2015 |publisher=Workman Publishing |isbn=978-0-7611-8306-8 |page=420 |url=https://books.google.com/books?id=1f-lAwAAQBAJ&pg=PA420 |access-date=2 November 2020 |language=en}}
+*{{cite book |last1=Sheen |first1=Barbara |title=Foods of Poland |date=20 September 2011 |publisher=Greenhaven Publishing LLC |isbn=978-0-7377-6125-2 |page=24 |url=https://books.google.com/books?id=BoBmDwAAQBAJ&pg=PA24 |access-date=2 November 2020 |language=en}}
+*{{citation|title=Ukrainian Ethnic Cuisine|date=2002|editor=L. M. Bezussenko|contribution=Varenyky|publisher=Stalker Publishers|language=uk}})
+*{{citation|author=William Pokhlyobkin (Russian: В. В. Похлёбкин)|script-title=ru:Кулинарный словарь от А до Я : Вареники|date=2000|url=http://dic.academic.ru/dic.nsf/dic_culinary/381/вареники|trans-title=Dumplings, Culinary Dictionary from A to Z: Varenyky|publisher=Centrpoligraf (Центрполиграф)|language=ru|access-date=3 October 2015|author-link=William Pokhlyobkin}}
+*{{cite book |last1=Wegener |first1=Maj-Greth |title=International Cooking Made Easy: Over 500 Unusual Recipes |date=1979 |publisher=North Castle Books |isbn=978-0-8038-3422-4 |page=397 |url=https://books.google.com/books?id=ocPPF0aYo0gC&q=pierogi |access-date=28 December 2021 |language=en}}
+*{{cite book |last1=Sukley |first1=Bernadette |title=Pennsylvania Made: Homegrown Products by Local Craftsman, Artisans, and Purveyors |date=29 April 2016 |publisher=Rowman & Littlefield |isbn=978-1493013272 |page=157 |url=https://books.google.com/books?id=b22kCwAAQBAJ&pg=PA157 |access-date=28 December 2021}}
+*{{cite web |title=Learn About the Disputed History of Perogies |url=https://www.hungryforever.com/learn-about-the-disputed-history-of-perogies/ |website=HungryForever Food |access-date=28 December 2021 |date=7 September 2020}}
+</ref>
+}}
+
+==External links==
+* {{Wiktionary-inline|pierogi}}
+* {{Wiktionary-inline|varenyky}}
+* [http://culture.pl/en/article/the-pierogi-renaissance-how-polands-most-famous-dish-is-reinventing-itself The Pierogi Renaissance: How Poland's Most Famous Dish is Reinventing Itself]
+
+{{Jewish baked goods}}
+{{Dumplings}}
+{{Cheese dishes}}
+{{Potato dishes}}
+
+[[Category:Culture of Cleveland]]
+[[Category:Cuisine of the Mid-Atlantic states]]
+[[Category:Cuisine of the Midwestern United States]]
+[[Category:Dumplings]]
+[[Category:Hungarian cuisine]]
+[[Category:Ashkenazi Jewish cuisine]]
+[[Category:Lithuanian cuisine]]
+[[Category:Mennonite cuisine]]
+[[Category:Moldovan cuisine]]
+[[Category:National dishes]]
+[[Category:National symbols of Poland]]
+[[Category:National symbols of Ukraine]]
+[[Category:Polish-American culture]]
+[[Category:Polish-Australian culture]]
+[[Category:Polish-Canadian culture]]
+[[Category:Polish-New Zealand culture]]
+[[Category:Polish cuisine]]
+[[Category:Romanian cuisine]]
+[[Category:Belarusian cuisine]]
+[[Category:Russian cuisine]]
+[[Category:Slovak cuisine]]
+[[Category:Ukrainian cuisine]]
+[[Category:Soviet cuisine]]
+[[Category:Stuffed dishes]]
+[[Category:Ground meat]]
+[[Category:Serbian cuisine]]
+[[Category:Slovenian cuisine]]
+[[Category:Croatian cuisine]]
+[[Category:Bulgarian cuisine]]
+[[Category:German cuisine]]
+[[Category:Austrian cuisine]]
+[[Category:Georgian cuisine]]
+[[Category:Cuisine of the Caucasus]]
+[[Category:Romani culture]]
+[[Category:Bosnia and Herzegovina cuisine]]
+[[Category:Cuisine of Manitoba]]
+[[Category:Peasant food]]
+[[Category:Cuisine of Paraná (state)]]
+[[Category:Christmas food]]

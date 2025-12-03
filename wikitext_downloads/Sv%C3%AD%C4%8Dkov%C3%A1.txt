@@ -1,0 +1,56 @@
+{{Short description|Meat and vegetable stew}}
+{{Italic title}}
+{{Use dmy dates|date=July 2022}}
+{{Infobox food
+| name            = ''Svíčková na smetaně''
+| image           = Svíčková na smetaně.JPG
+| image_size      = 
+| caption         = ''Svíčková na smetaně'' served with [[dumpling]]s, [[whipped cream]], and [[cranberry|cranberries]]
+| alternate_name  = ''Svíčková''
+| country         = [[Czech Republic]]
+| region          = [[Central Europe]]
+| creator         = 
+| course          = Main
+| type            = [[Stew]] 
+| served          = Hot
+| main_ingredient = [[Meat]] (beef), [[vegetable]]s (especially [[root vegetable]]s), [[knedlík|dumplings]]
+| variations      = 
+| calories        = 
+| other           = 
+}}
+
+'''Svíčková''', or '''svíčková na smetaně''' (pronounced  [[Help:IPA|[ˈsviːt͡ʃkɔvaː na smɛ.ta.ɲɛ]]]), is a [[Czech cuisine|Czech meat dish]] and one of the most common [[Czech Republic|Czech]] and Slovak meals. ''Svíčková'' is the Czech word for [[Beef tenderloin|tenderloin]], but this dish is traditionally [[beef topside]] (''falešná svíčková'', 'false tenderloin') prepared with vegetables ([[carrot]]s, [[parsley]] root, [[celeriac]] and [[onion]]), spiced with [[black pepper]], [[allspice]], [[bay leaf]] and [[thyme]], and boiled with [[double cream]], though in practice other cuts of beef may sometimes be used. Topside is a cut from the front shoulder equivalent to ''jumeau à bifteck'' in French cuisine or ''girello di spalla'' in Italian cuisine. It is generally served with ''houskové [[Knödel|knedlíky]]'' (bread [[dumplings]]).
+
+==Preparation==
+Svíčková, or svíčková na smetaně (beef tenderloin), is a typical Czech dish and one of the most popular Czech meals. It is topside boiled or roasted with vegetables (carrots, parsley root, celeriac, and red onion, silver onion or pink onion), spiced with black pepper, juniper, allspice, bay leaf, and baked together, then vegetables and gravy are gathered, mashed/mixed with sour double cream and boiled for sauce. It is generally served with bread dumplings (houskové knedlíky), whipped cream and lingonberry sauce. In most restaurants and canteens the staff actually boil the beef and vegetables together in one pot, instead of roasting it.
+
+==Varieties==
+''Svíčková na smetaně'' is served with a cream (''smetana'') topping and usually with [[cranberry sauce]] and slice of lemon in many restaurants around the [[Czech Republic]].
+
+Bohemian immigrants to the [[United States]] following the [[First World War]] have passed on an older variation of the dish to subsequent generations, while regional tastes and product availability have influenced its preparation. Svíčková made in the [[Chicago]] area, for example, rarely includes vegetables in its final presentation, but instead incorporates them into a vinegar-based [[marinade]] suffused with crushed allspice and bay leaves.
+
+Vegetarian restaurants in the Czech Republic also prepare the dish without the use of meat. Instead, they use a vegetarian sirloin usually made from soy, and the broth does not contain meat.<ref>Duong, Monika. "Vegetariánská svíčková" Main courses - Sauces and spreads, Posted: 20.10.2018, Czech Republic, Chay, 2018, Par 1, chay.cz/vegetarianska-svickova, Accessed: 18.06.2020</ref> 
+
+==Etymology==
+
+In Czech cuisine, ''svíčková'' refers to both a dish and a specific cut of meat (beef tenderloin). It is sometimes incorrectly translated to English as "candle sauce" because the word ''svíčka'' means 'candle' in Czech.<ref>{{cite news |title=Svíčková: more than beef sirloin, it's a creamy national treasure |url=https://english.radio.cz/svickova-more-beef-sirloin-its-a-creamy-national-treasure-8154107#:~:text=But%20standing%20above%20all%20of,thyme%2C%20and%20blended%20with%20cream. |access-date=17 July 2024 |date=8 August 2018}}</ref>
+
+There are at least three possible explanations for the etymology of the term ''svíčková.'' The first explanation is based on the visual resemblance of the slender muscle to a candle. The second theory suggests that the name derives from the fact that this cut of meat is often found in areas rich in tallow, the substance historically used to make candles. The third explanation dates back to the Middle Ages, proposing that the name originated from a traditional guild practice. According to this version, master butchers were obliged to host a feast for their journeymen once a year. This dinner, held in the autumn when days grew shorter and working hours decreased, was served by candlelight.<ref>{{cite news |url=https://www.lidovky.cz/jak-pripravit-rychly-stroganoff-poradi-roman-paulus-pcv-/dobra-chut.aspx?c=A140115_163306_dobra-chut_ape |access-date=17 July 2024 |date=2014-01-19 |title=Jak připravit rychlý stroganoff? Poradí Roman Paulus &#124; Dobrá chuť }}</ref>
+
+==See also==
+*[[Czech cuisine]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Svíčková omáčka}}
+* [https://web.archive.org/web/20130121203142/http://www.czechspecials.com/speciality/sirloin-in-cream-sauce/ Czech Svickova]
+* [http://www.europeancuisines.com/Czech-Svickova-Svikova-Na-Smetane-Smetana-Beef-With-Sour-Cream-Sauce-And-Dumplings-Recipe Czech-American Svickova]
+
+{{DEFAULTSORT:Svickova}}
+[[Category:Czech cuisine]]
+[[Category:Czech-American cuisine]]
+[[Category:Beef dishes]]
+[[Category:National dishes]]
+[[Category:Cranberries]]

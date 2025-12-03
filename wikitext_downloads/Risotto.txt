@@ -1,0 +1,114 @@
+{{Short description|Northern Italian rice dish}}
+{{Redirect|Italian rice|fried rice balls|Arancini}}
+{{For|the Fluke album|Risotto (album)}}
+{{Distinguish|Risoni|Rizzotto}}
+{{Use British English|date=December 2024}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox food
+| name            = Risotto
+| image           = Risotto with speck and goat cheese (6101067436).jpg
+| image_size      = 250px
+| caption         = Risotto with [[speck]] and [[goat cheese]]
+| alternate_name  = 
+| country         = [[Italy]]
+| region          = {{plainlist|
+*[[Lombardy]]
+*[[Piedmont]]
+*[[Veneto]]
+}}
+| creator         = 
+| course          = {{lang|it|[[Italian meal structure#Formal meal structure|Primo]]}} (Italian course)
+| type            = 
+| served          = 
+| main_ingredient = [[Arborio rice]], [[broth]], [[butter]], [[onion]], [[white wine]], [[Parmesan]]
+| variations      = 
+}}
+
+'''Risotto''' ({{IPAc-en|r|ᵻ|ˈ|z|ɒ|t|oʊ}} {{respell|riz|OT|oh}}, {{IPA|it|riˈzɔtto, -ˈsɔt-|lang}}; from {{lang|it|riso}}, 'rice')<ref>[https://www.etymonline.com/word/risotto risotto], ''Online Etymology Dictionary''. Retrieved 2 August 2018.</ref>{{efn|{{langx|lmo|risòtt}}; {{langx|pms|risòt}}; {{langx|vec|rixoto}}.}} is an [[Italian cuisine|Italian]] [[rice]] dish cooked with [[broth]] until it reaches a creamy consistency. The broth can be derived from meat, fish or vegetables. Many types of risotto contain [[butter]], [[onion]], [[white wine]], and [[Parmesan|Parmesan cheese]]. It is one of the most common ways of cooking rice in Italy. [[Saffron]] was originally used for flavour and its signature yellow colour.<ref name=history/><ref name=artusi>{{Cite book|title=La scienza in cucina e l'arte di mangiar bene|language=it|trans-title=The Science of Cooking and the Art of Eating Well|last=Artusi|first=Pellegrino|date=1891}} Recipes 78-80. Still, in print, there are many editions in many languages.</ref>
+
+Risotto in Italy is often a [[Italian meal structure#Formal meal structure|first course]] ({{lang|it|primo}}), served before a [[Italian meal structure#Formal meal structure|second course]] ({{lang|it|secondo}}), but {{lang|it|risotto alla milanese}} is often served with {{lang|it|[[ossobuco]] alla milanese}} as a one-course meal.<ref>{{cite web|url=https://www.lacucinaitaliana.it/ricetta/piatti-unici/ossobuco-e-risotto-piatto-unico-di-milano/#step-1|title=Ricetta Ossobuco e risotto, piatto unico di Milano|website=Le ricette de La Cucina Italiana|date=29 April 2015 |language=it|trans-title=Recipe for ossobuco and risotto, one-course meal dish of Milano|access-date=4 July 2017}}</ref>
+
+==History==
+[[File:Lemon Pea Risotto.jpg|thumb|Lemon and pea risotto]]
+Rice has been grown in [[southern Italy]] for centuries, and gradually made its way to [[northern Italy]], where the marshes of the [[Po Valley]] were suitable for rice cultivation.<ref>{{Cite web |title=All About Risotto: The History & Fundamentals of a Favorite Italian Dish |url=http://www.cuisineathome.com/articles/all-about-risotto/ |access-date=2022-06-19 |website=www.cuisineathome.com |language=en}}</ref> According to a legend, a young glassblower's apprentice of the [[Veneranda Fabbrica del Duomo di Milano]] from [[Flanders]], who used to use [[saffron]] as a pigment, added it to a rice dish at a [[Wedding reception|wedding feast]]. Risotto is believed to have originated in what is now known as [[Lombardy]].<ref>{{cite book | url=https://books.google.com/books?id=eZE7n1khu6AC&dq=risotto+lombardy&pg=PA341 | title=Fodor's Italy 2010 | isbn=9781400008490 | author1=Fodor's | year=2009 | publisher=Fodor's Travel Publications }}</ref> The first recipe identifiable as risotto dates from 1809. It includes rice sautéed in butter, [[sausage]]s, [[Bone marrow (food)|bone marrow]], and onions with broth with saffron gradually added.<ref name=history>{{cite web|url=https://www.corriere.it/cronache/11_gennaio_29/perrone_fabbrica_duomo_c9650902-2b72-11e0-8f5d-00144f02aabc.shtml|title=La fabbrica del Duomo e l'invenzione del risotto|newspaper=[[Corriere della Sera]]|date=29 January 2011|author=Roberto Perron|language=it|access-date=4 July 2017}}</ref> There is a recipe for a dish named as a risotto in the 1854 {{lang|it|Trattato di cucina}} (''Treatise on Cooking'') by Giovanni Vialardi, assistant chief cook to kings.<ref>[https://www.accademiaitalianadellacucina.it/sites/default/files/print_pdf/AIC_Itinerari%20del%20riso_All.compressed.pdf La Cucina del Riso, p76, Accademia Italiana della Cucina, 2014]. {{ISBN|978-88-89116-32-6}}.</ref> However, who invented risotto in Milan cannot be stated with certainty.<ref>[https://www.ibs.it/risotto-storia-di-piatto-italiano-libro-alberto-salarelli/e/9788874953516 Summary of ''Risotto. Storia di un piatto italiano'' by Alberto Salarelli, 2010, published by Sometti]. {{ISBN|8874953518}}.</ref>
+
+The rice varieties associated with risotto were developed in the 20th century, starting with [[Maratelli]] in 1914.<ref name=develop>{{cite web|url=https://www.agrodolce.it/2014/08/01/riso-le-tipologie-utilizzarlo-cucina/|title=Tipi di riso, varietà e usi|newspaper=Agrodolce.it|date=1 August 2014|author=Lorella Fabris|language=it|access-date=4 July 2017}}</ref>
+
+==Rice varieties==
+A high-[[starch]], round, medium- or short- grain [[white rice]] is usually used for making risotto.<ref name=ocf>{{cite book | last=Davidson | first=Alan|authorlink=Alan Davidson (food writer) | title= The Oxford Companion to Food| year=1999 | page=666|location=Oxford | publisher=Oxford University Press | isbn=978-0-19-211579-9}}</ref> Such rices can absorb liquids and release starch, so they are stickier than the [[Oryza sativa|long grain]] varieties. The principal varieties used in Italy are [[Arborio rice|Arborio]], Baldo, [[Carnaroli]], [[Maratelli]], Padano, Roma, and [[Vialone Nano]].<ref>{{cite book|title=Starting with Ingredients|last=Green|first=Aliza|year=2006|isbn=978-0-7624-2747-5|publisher=Running Press|page=810}}</ref> Carnaroli, Maratelli (a historical Italian variety), and Vialone Nano are considered to be the best (and most expensive) varieties, with different users preferring one over another. They have slightly different properties. For example, Carnaroli is less likely than Vialone Nano to get overcooked, but the latter, being smaller, cooks faster and absorbs condiments better. Other varieties such as Baldo, Originario, Ribe, and Roma may be used but will not have the creaminess of the traditional dish; these varieties are considered better for soups and other non-risotto rice dishes and sweet rice desserts. Rice designations of {{lang|it|superfino}}, {{lang|it|semifino}}, and {{lang|it|fino}} refer to the grains' size and shape (specifically the length and the narrowness) and not the quality.<ref name=develop/>
+
+==Basic preparation==
+There are many different risotto recipes with different ingredients, but they are all based on rice of an appropriate variety, cooked in a standard procedure.<ref name=cloakerisotto>{{cite web|url=https://www.theguardian.com/lifeandstyle/wordofmouth/2010/may/06/how-to-make-perfect-risotto|title=How to make the perfect risotto|newspaper=The Guardian|date=6 May 2010|author=Felicity Cloake|author-link=Felicity Cloake|access-date=3 July 2017}}</ref> Risotto, unlike other rice dishes, requires constant care and attention.<ref>{{cite web|url=https://www.bbcgoodfood.com/glossary/risotto-rice|title=Risotto rice|website=BBC goodfood|access-date=4 July 2017}}</ref> The rice is not to be pre-rinsed, boiled, or drained, as washing would remove much of the starch required for a creamy texture.<ref>{{cite web|url=https://www.cooksillustrated.com/articles/666-why-rinse-rice|title=When to Rinse Rice|website=Cook's Illustrated|date=November 2009|access-date=4 July 2017}}</ref><ref name=ns3127/>
+
+The [[rice]] is first cooked briefly in a [[Mirepoix#Italian soffritto|soffritto]] of [[onion]] and [[butter]] or [[olive oil]] to coat each grain in a film of fat, called {{lang|it|tostatura}}; [[white wine]] is added and must be absorbed by the [[grain]]s. When it has been absorbed, the heat is raised to medium–high, and boiling [[Stock (food)|stock]] is gradually added in small amounts while stirring constantly. The constant stirring, with only a small amount of liquid present, forces the grains to rub against each other and release the starch from the outside of the grains into the surrounding liquid, creating a smooth creamy-textured mass.<ref name=ns3127>{{cite web|url=https://www.newscientist.com/article/mg23431270-200-proof-in-the-pudding-15-cooking-tips-tested-and-myths-busted/|title=Proof in the pudding: Myth-busting 15 common cooking tips|website=New Scientist|date=24 May 2017|author=Sam Wong|access-date=4 July 2017}}</ref><ref>{{Cite book|title=McGee on Food and Cooking: An Encyclopedia of Kitchen Science, History and Culture|last=McGee|first=Harold|date=2004|publisher=Hodder & Stoughton|page=475|chapter=Risotto|isbn=9780340831496}}</ref> When the rice is cooked the pot is taken off the heat for {{lang|it|mantecatura}}, vigorously beating in refrigerated balls of grated [[Parmesan|Parmesan cheese]] and butter, to make the texture as creamy and smooth as possible. It may be removed from the heat a few minutes early and left to cook with its residual heat.<ref>{{cite web|url=https://www.taste.com.au/quick-easy/articles/cooking-ripper-risotto-matt-preston/nli74jrh|title=Cooking ripper risotto|website=Taste.com|date=17 June 2014|author=Matt Preston|access-date=4 July 2017}}</ref>
+
+Properly cooked risotto is rich and creamy, even if no cream is added, due to the starch in the grains.<ref name=ns3127/> It has some resistance or bite ([[al dente]]) and separate grains. The traditional texture is fairly fluid, or {{lang|it|all'onda}} ('wavy' or 'flowing in waves'). It is served on flat dishes and should easily spread out but not have excess watery liquid around the perimeter.
+
+==Italian regional variations==
+Many variations have their own names:
+{| class="wikitable"
+|-
+! width=160px | Name
+! Photo
+! Description
+|-
+|{{lang|it|Risotto alla milanese}}
+|[[File:Risotto giallo (6954045202).jpg|125px]]
+|There are various versions of {{lang|it|risotto alla milanese}}. According to [[Elizabeth David]] in her ''[[Elizabeth David bibliography#Italian Food (1954)|Italian Food]]'', "The classic one is made simply with chicken broth and flavoured with saffron; butter and grated Parmesan cheese are stirred in at the end of the cooking, and more cheese and butter served with it. The second version is made with beef marrow and white wine; a third with Marsala. In each case saffron is used as a flavouring."<ref>{{cite book | last=David | first=Elizabeth | year =1989 |authorlink=Elizabeth David|orig-year=1954 |edition=sixth | title=Italian Food | pages= 94–95|location=London | publisher=Penguin | isbn=0-14-046841-2 }}</ref>
+|-
+|{{lang|it|Risotto al [[Barolo]]}}
+|
+|A speciality of [[Piedmont]], made with red wine, which may include sausage meat or [[Cranberry bean|borlotti beans]]
+|-
+|{{lang|it|Risotto al nero di seppia}}
+|[[File:Risotto al nero di seppia.jpg|125px]]
+|A speciality of [[Veneto]], made with [[cuttlefish]] cooked with their ink sacs intact, leaving the risotto black
+|-
+|{{lang|it|Risi e bisi}}
+|[[File:Risi-e-Bisi.jpg|125px]]
+|A Veneto spring dish that is correctly served with a spoon rather than a fork; it is a soup so thick that it resembles a risotto. It is made with green peas using the stock from the fresh young pods, flavoured with [[pancetta]].<ref>{{cite web|url=http://www.aglioolioepeperoncino.com/2011/11/risi-e-bisi-venetian-bliss.html|title=Aglio, Olio e Peperoncino|author=Eleonora Baldwin|work=aglioolioepeperoncino.com|access-date=29 August 2015}}</ref><ref>{{cite web|url=https://www.theguardian.com/lifeandstyle/2017/may/25/how-to-cook-the-perfect-risi-e-bisi-felicity-cloake|title=How to cook the perfect risi e bisi|newspaper=The Guardian|date=25 May 2017|author=Felicity Cloake|author-link=Felicity Cloake|access-date=3 July 2017}}</ref>
+|-
+|{{lang|it|Risotto alla zucca}}
+|[[File:Risotto-alla-zucca.jpg|125px]]
+|Made with pumpkin, [[nutmeg]], and grated cheese
+|-
+|{{lang|it|Risotto alla pilota}}
+|[[File:Risotto (1).jpg|125px]]
+|A speciality of [[Mantua]], Lombardy, made with sausage, pork, and [[Parmesan|Parmesan cheese]]
+|-
+|{{lang|it|Risotto ai funghi}}
+|[[File:Steinpilzrisotto.jpg|125px]]
+|A variant made with [[edible mushroom|mushrooms]] such as [[Boletus edulis|porcini]], ''[[Suillus luteus]]'', ''[[Kuehneromyces mutabilis]]'' or ''[[Agaricus bisporus]]''
+|-
+|{{lang|it|Risotto ai frutti di mare}}
+|
+|A variant made with [[seafood]] of seaside Italian cities 
+|-
+|{{lang|it|Risotto al tartufo nero}}
+|[[File:00_Black_Truffle_Risotto.jpg|125px]]
+|Made with, usually, black truffle
+|}
+
+==See also==
+{{Commons category-inline}}
+{{Cookbook-inline|Risotto}}
+{{Portal|Italy|Food}}
+* [[List of rice dishes]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Barrett, Judith, and Wasserman, Norma (1987). ''Risotto''. New York: Scribner. {{ISBN|0-02-030395-5}}.
+* Hazan, Marcella (1992). ''Essentials of Classic Italian Cooking''. New York: Alfred A. Knopf. {{ISBN|0-394-58404-X}}.
+
+{{Rice dishes}}
+{{Lombard cuisine}}
+{{Authority control}}
+
+[[Category:Cuisine of Lombardy]]
+[[Category:Italian rice dishes]]
+[[Category:National dishes]]

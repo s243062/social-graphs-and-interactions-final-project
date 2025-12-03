@@ -1,0 +1,84 @@
+{{Short description|Levantine dish of parsley and bulgur}}
+{{protection padlock|small=yes}}
+{{use mdy dates|date=August 2024}}
+
+{{Infobox food
+| name            = Tabbouleh
+| image           = File:Tabouleh 1.JPG
+| caption         = Tabbouleh
+| country         = [[Lebanon]] and [[Syria]]
+| region          = [[Eastern Mediterranean]]
+| course          = [[Salad]]
+| served          = Cold
+| main_ingredient = [[Parsley]], [[tomato]], [[bulgur]], [[onion]], [[olive oil]], [[lemon juice]], [[Edible salt|salt]]
+| variations       = [[Pomegranate]] seeds instead of tomato
+}}
+
+'''Tabbouleh''' ({{langx|ar|تبولة|translit=tabbūla}}), also transcribed '''tabouleh''', '''tabbouli''', '''tabouli''', or '''taboulah''', is a [[Levantine cuisine|Levantine]] [[salad]] of finely chopped [[parsley]], soaked [[bulgur]], [[tomato]]es, [[Mentha|mint]], and [[Scallion|onion]], seasoned with [[olive oil]], [[lemon juice]], [[Edible salt|salt]] and sweet pepper. Some variations add lettuce, or use [[semolina]] instead of bulgur.{{sfn|Zubaida|2000|pp=35, 37}}<ref>{{cite book |author-link=Claudia Roden |first=Claudia |last=Roden |title=A Book of Middle Eastern Food |page=86}}{{full citation needed|date=August 2024}}</ref><ref>{{cite encyclopedia |author-link=Anissa Helou |first=Anissa |last=Helou |encyclopedia=[[Oxford Companion to Food]] |title=Lebanon |editor-first=Alan |editor-last=Davidson}}{{full citation needed|date=August 2024}}</ref><ref>{{cite encyclopedia |encyclopedia=[[Oxford Companion to Food]] |title=tabbouleh |editor-first=Alan |editor-last=Davidson}}{{full citation needed|date=August 2024}}</ref><ref>{{cite dictionary |first=Maan Z. |last=Madina |dictionary=Arabic-English Dictionary of the Modern Literary Language |year=1973 |script-title=ar:تبل}}</ref>
+
+Tabbouleh is traditionally served as part of a [[mezze]] in the [[Eastern Mediterranean]] and the [[Arab world]].{{sfn|Basan|2006|p=125, 180}}{{sfn|Wright|2001|p=251}}{{sfn|Peck|2010|p=97}}{{sfn|Davis|2011|p=58}} Like [[hummus]], [[baba ghanoush]], [[pita bread]], and other elements of [[Arab cuisine#Levant|Arab cuisine]], tabbouleh has become a popular food in the [[United States]].{{sfn|Zelinsky|2001|p=118}}{{sfn|Schloss|2007|p=27}}
+
+==Etymology==
+The [[Levantine Arabic]] {{Transliteration|apc|tabbūle}} is derived from the [[Arabic language|Arabic]] word {{Transliteration|ar|tābil}} from the [[Aramaic]] root word {{nowrap|''t-b-l''}} {{gloss|seasoning}}{{Sfn|Morton|2004|p=302}}<ref>{{Cite book |language=de |date=1881 |title=Aramæische Pflanzennamen |first=Immanuel |last=Löw |publisher=K. Akademie der Wissenschaften |location=Vienna |url=http://menadoc.bibliothek.uni-halle.de/ssg/591772 |access-date=2021-06-30 |via=menadoc.bibliothek.uni-halle.de}}</ref> or more literally "dip".{{citation needed|date=August 2024}} Use of the word in English first appeared in the 1950s.{{sfn|Morton|2004|p=302}}
+
+==History==
+Originally from the mountains of [[Lebanon]] and [[Syria]],<ref>{{Cite book |first=Corby |last=Kummer |chapter=Tabbouleh |chapter-url=https://books.google.com/books?id=ptZgNoobsyUC&pg=PA172 |title=1,001 Foods to Die For |publisher=[[Andrews McMeel Publishing]] |year=2007 |isbn=978-0-7407-7043-2 |page=172}}</ref> tabbouleh has become one of the most popular salads in the [[Middle Eastern cuisine|Middle East]].{{sfn|Basan|2006|p=180-181}} The [[wheat]] variety ''salamouni''{{which lang|date=August 2024}} cultivated in the [[Beqaa Valley]] region in Lebanon, was considered (in the mid-19th century) as particularly well-suited for making bulgur, a basic ingredient of tabbouleh.{{sfn|Nabhan|2008|pp=77-78}} In Lebanon, the Lebanese National Tabbouleh Day is a yearly festivity day dedicated to Tabbouleh. {{as of|since=yes|2001}}, it is celebrated the first Saturday of the month of July.{{sfn|Yazbeck|2008|pp=266-267}}
+
+==Regional variations==
+[[File:Tabouleh (3949565145).jpg|thumb|left|200px|Tabbouleh ingredients]]
+In the [[Arab world]], especially [[Syria]], [[Lebanon]] and [[Palestine (region)|Palestine]], it is usually served as part of a [[meze]].<ref>{{harvnb|Wright|2001|pp=250–251}} "In the Arab world, tabbouleh (''tabbūla'') is a salad usually made as part of the ''mazza'' table (p xx) especially in Syria, Lebanon and Palestine."</ref> The [[Syrian people|Syrian]] and the [[Lebanese people|Lebanese]] use more parsley than bulgur wheat in their dish. A [[Turkish cuisine|Turkish]] variation of the dish known as {{lang|tr|[[kısır]]}},{{sfn|Basan|2006|pp=180-181}} and a similar [[Armenian cuisine|Armenian]] dish known as {{Transliteration|hy|[[eetch]]}} use far more bulgur than parsley. Another ancient variant is called {{Transliteration|hy|terchots}}.<ref>{{Cite web|url=http://www.mangaloreanrecipes.com/recipes/index.php?option=com_content&task=view&id=1346&Itemid=130|title=Parsley - Ajmooda (hindi) - Bagdunis (arabic)}}</ref> In the [[Dominican Republic]], a local version introduced by Syrian and Lebanese immigrants is called {{lang|es|Tipile}}.<ref>{{Cite book |last=Brown |first=Isabel Zakrzewski |url=https://archive.org/details/culturecustomsof00brow/page/56 |title=Culture and Customs of the Dominican Republic |publisher=Greenwood Publishing Group |year=1999 |isbn=9780313303142 |page=56 |url-access=registration}}</ref> It is widely popular in [[Israel]].<ref>{{Cite book |last=Degutiene |first=Nida |url=https://books.google.com/books?id=UQpbDwAAQBAJ&pg=PT115 |title=A Taste of Israel – From classic Litvak to modern Israeli |date=2015-08-18 |publisher=Penguin Random House South Africa |isbn=978-1-4323-0654-0 |language=en}}</ref><ref>{{Cite book |last=Hobby |first=Jeneen |title=Worldmark Encyclopedia of Cultures and Daily Life |publisher=University of Pennsylvania Press |year=2009 |isbn=9781414448909 |page=60}}</ref><ref>{{Cite book |last=Edelstein |first=Sari |title=Food, Cuisine, and Cultural Competency for Culinary, Hospitality, and Nutrition Professionals |publisher=Jones & Bartlett Publishers |year=2010 |isbn=9781449618117 |page=585}}</ref>
+
+==Retail sales==
+[[File:Oasis_taboule.jpg|thumb|A package of tabbouleh]]
+Several manufacturers make tabbouleh for sale in supermarkets.<ref>{{Cite news |date=September 23, 2020 |title=Dry4Good Provides Healthy Ingredients For Food Manufacturers |url=https://emag.directindustry.com/2020/09/23/dry4good-provides-healthy-ingredients-for-food-manufacturers/ |work=DirectIndustry e-magazine}}</ref><ref>{{Cite news |date=October 17, 2018 |title=If you haven't been to Trader Joe's yet, let me tell you why you're wrong |url=https://www.thelantern.com/2018/10/if-you-havent-been-to-trader-joes-yet-let-me-tell-you-why-youre-wrong/ |work=The Lantern |first=Rachel |last=Bules}}</ref>
+
+==See also==
+* [[List of salads]]
+* [[List of vegetable dishes]]
+* [[Kısır]]
+* [[Eetch]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+* {{Cite book |last=Basan |first=Ghillie |url=https://books.google.com/books?id=-7wnpIi3VRwC&dq=tabbouleh+arab+world&pg=PA125 |title=Middle Eastern Kitchen |date=2006 |publisher=Hippocrene Books |isbn=978-0-7818-1190-3 |language=en}}
+* {{Cite book |last=Davis |first=Craig S. |url=https://books.google.com/books?id=-rgSoUm0ptYC&dq=tabbouleh+arab+world&pg=PT58 |title=The Middle East For Dummies |date=2011-03-10 |publisher=John Wiley & Sons |isbn=978-1-118-05393-5 |language=en}}
+* {{Cite book |first=Mark |last=Morton |url=https://archive.org/details/cupboardlovedict0000mort/page/302 |title=Cupboard Love: A Dictionary of Culinary Curiosities |publisher=Insomniac Press |year=2004 |isbn=978-1-894663-66-3 |edition=2nd |page=302 |quote=tabbouleh dictionary meaning. |url-access=registration}}
+* {{Cite book |last=Nabhan |first=Gary Paul |title=Where our food comes from: retracing Nikolay Vavilov's quest to end famine |publisher=Island Press |year=2008 |isbn=978-1-59726-399-3 |edition=Illustrated}}
+* {{Cite book |last=Peck |first=Malcolm C. |url=https://books.google.com/books?id=PguBHE07e6IC&dq=tabbouleh+arab+world&pg=PA97 |title=The A to Z of the Gulf Arab States |date=2010-04-12 |publisher=Scarecrow Press |isbn=978-1-4617-3190-0 |language=en}}
+* {{Cite book |last=Schloss |first=Andrew |url=https://books.google.com/books?id=6A9d-EMDayUC&dq=tabbouleh+arab&pg=PA27 |title=Almost from Scratch: 600 Recipes for the New Convenience Cuisine |date=2007-11-01 |publisher=Simon and Schuster |isbn=978-1-4165-9589-2 |language=en}}
+* {{Cite book |last=Wright |first=Clifford A. |url=https://archive.org/details/mediterraneanveg0000wrig |title=Mediterranean vegetables: a cook's ABC of vegetables and their preparation in Spain, France, Italy, Greece, Turkey, the Middle East, and north Africa with more than 200 authentic recipes for the home cook |publisher=Harvard Common Press |year=2001 |isbn=978-1-55832-196-0 |edition=Illustrated}}
+* {{cite book |title=A Complete Insiders Guide to Lebanon |publisher=Souk el Tayeb Press |date=December 2008 |pages=266–267 |first=Cherine |last=Yazbeck |isbn=9789953013022}}
+* {{Cite book |last=Zelinsky |first=Wilbur |url=https://archive.org/details/enigmaofethnicit0000zeli |title=The enigma of ethnicity: another American dilemma |publisher=University of Iowa Press |year=2001 |isbn=978-0-87745-750-3 |edition=Illustrated |url-access=registration}}
+* {{cite book |author-link=Sami Zubaida |first=Sami |last=Zubaida |chapter=National, Communal and Global Dimensions in Middle Eastern Food Cultures |editor-first=Sami |editor-last=Zubaida |editor-link2=Richard Tapper |editor-first2=Richard |editor-last2=Tapper |title=A Taste of Thyme: Culinary Cultures of the Middle East |isbn=1-86064-603-4 |pages=35, 37 |year=2000 |publisher=Tauris Parke Paperbacks |location=London}}
+{{Refend}}
+
+==Further reading==
+* {{Cite book |last=Caplan |first=Patricia |author-link=Pat Caplan |title=Food, health, and identity |publisher=Routledge |year=1997 |isbn=978-0-415-15680-6 |edition=Illustrated}}
+* {{Cite book |title=Positive Lebanon |publisher=Tamyras |year=2014 |isbn=978-2360860661}}
+
+{{cookbook}}
+{{Commons category}}
+
+{{Levantine cuisine}}
+
+[[Category:Appetizers]]
+[[Category:Arab salads]]
+[[Category:Bulgur dishes]]
+[[Category:Cypriot cuisine]]
+[[Category:Dominican Republic cuisine]]
+[[Category:Iraqi cuisine]]
+[[Category:Israeli cuisine]]
+[[Category:Jordanian cuisine]]
+[[Category:Lebanese cuisine]]
+[[Category:Lenten foods]]
+[[Category:Levantine cuisine]]
+[[Category:Mediterranean cuisine]]
+[[Category:Mizrahi Jewish cuisine]]
+[[Category:National dishes]]
+[[Category:Palestinian cuisine]]
+[[Category:Syrian cuisine]]
+[[Category:Vegan cuisine]]
+[[Category:Vegetable dishes]]

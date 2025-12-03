@@ -1,0 +1,45 @@
+{{Short description|Algerian dish}}
+{{use dmy dates|date=December 2023}}
+{{Infobox food
+| name            = Rechta
+| image           = rechtaalgeroise.jpg
+| caption=Traditional Algerian ''rechta'' with chicken and vegetables in [[Algiers]]
+| alternate_name  = ''Tarechta''
+| country         = [[Algeria]]
+| course          = Main course
+| served          = Hot
+| variations      = Algerian rechta
+}}
+[[File:Rechtarouge.jpg|thumb|Algerian chicken and vegetable ''rechta'' with red sauce]]
+[[File:Rechtax.jpg|thumb|Algerian ''rechta'']]
+'''''Rechta''''' ([[Arabic]]: رشتة) is a dish made from [[pasta]] cut into thin fresh artisan strips, typical of [[Algeria]].<ref>{{Cite book |last=Bouayed |first=Fatima-Zohra |title=La cuisine algérienne |publisher=Messidor/Temps actuels |year=1970 |location=Paris |pages=223 |language=fr}}<br>- {{Cite book |last=Taïeb |first=Jacques |url=https://books.google.com/books?id=z59wdi6jezUC&dq=rechta+maghreb&pg=PA106 |title=Etre juif au Maghreb à la veille de la colonisation |date=2013 |publisher=Albin Michel |isbn=978-2-226-20115-7 |language=fr |via=Google Books}}<br>- {{Cite journal |last=Boumedine, Rachid Sidi |date=2001 |title=Alger telle qu'en elle-même |journal=La Pensee de Midi |issn=1621-5338 |language=fr |trans-title=Algiers as in itself}}</ref> It is in particular the symbolic dish of [[:fr:Rechta_algéroise|Algiers cuisine]].<ref>{{Cite book |last=Cherifi |first=Nouara |url=https://books.google.com/books?id=qHHADwAAQBAJ |title=Cuisine de Maman: Mouton d'Aïd |date=2019-11-27 |publisher=Le Lys Bleu Éditions |isbn=979-10-377-0315-6 |language=fr |via=Google Bppks}}<br>- {{Cite book |last=Zouari |first=Ilyes |url=https://books.google.com/books?id=UpyvBwAAQBAJ |title=Petit dictionnaire du Monde francophone |date=2015 |publisher=Editions L'Harmattan |isbn=978-2-336-37395-9 |language=fr |via=Google Books}}<br>- {{Cite book |last1=Auzias |first1=Dominique |last2=Labourdette |first2=Jean-Paul |url=https://books.google.com/books?id=s8eVDwAAQBAJ |title=ALGER 2019/2020 Petit Futé |date=2019-05-09 |publisher=Petit Futé |isbn=978-2-305-00954-4 |language=fr}}</ref>
+
+== Etymology ==
+The word comes from the Persian ''rista'', meaning "thread" and commonly used to refer to pasta.<ref>{{Cite journal |last=Rosenberger |first=Bernard |date=1989 |title=Les pâtes dans le monde musulman |url=https://www.persee.fr/doc/medi_0751-2708_1989_num_8_16_1138 |journal=Médiévales |volume=8 |issue=16 |pages=77–98 |doi=10.3406/medi.1989.1138 |language=fr |trans-title=Pasta in the Muslim world}}</ref>
+
+The word ''rechta'' is [[Berber languages|Berberised]] to ''tarechta'', still commonly used in [[Oran]] and [[Tlemcen]] in Algeria, from the root ''rkt'' or ''rcht''.<ref>{{Cite web |date=29 October 2004 |first=M. A. |last=Haddadou |title=Parlez-vous l'algérien? Dioul, bourek et rechta |work=Info Soir |url=http://www.infosoir.com/editarchive.php?lejour=&lemois=&annee=2010&id=22440 |access-date=2022-06-04 |archive-url=https://web.archive.org/web/20140221225643/http://www.infosoir.com/editarchive.php?lejour=&lemois=&annee=2010&id=22440 |archive-date=2014-02-21 |language=fr |trans-title=Do you speak Algerian? Dioul, bourek and rechta}}</ref>
+
+== Variants ==
+=== Algeria ===
+''Rechta'' is a popular pasta dish in Algeria, and is particularly beloved in the cities of Algiers, [[Blida]], and [[Constantine, Algeria |Constantine]], where it is considered a specialty.<ref>{{Cite book |last1=Auzias |first1=Dominique |last2=Labourdette |first2=Jean-Paul |url=https://books.google.com/books?id=a0NlrExdkgEC&dq=rechta&pg=PA87 |title=Alger 2012-2013 |date=2012 |publisher=Petit Futé |isbn=978-2-7469-5576-9 |language=fr}}<br>- {{Cite journal |title=La spéculation mine l'Aïd El Fitr |journal=Le Maghreb |language=fr |trans-title=Speculation undermines Eid El Fitr}}</ref>
+
+In Algiers and Blida the most famous ''rechta'' is typically served with [[chicken]], [[chickpeas]], and [[turnips]], in a sauce that is seasoned with [[white pepper]] and [[cinnamon]]. Other versions include [[potatoes]] and other vegetables and sometimes include a [[roux]] made from flour and oil, which is used to thicken the sauce and give it a smooth texture. The pasta itself is typically made from a combination of [[semolina flour]] and water, and is rolled out into long, flat noodles that are cut into strips.<ref>{{cite book |author=Bouksani, Louisa |date=1989 |title=Gastronomie Algérienne |location=Algiers |publisher=Ed. Jefal |page=190}}</ref>
+
+In Constantine, rechta is often served with a [[tomato]]-based sauce that includes a variety of vegetables, such as [[onions]], [[carrots]] and [[Bell pepper|green pepper]]s. The sauce may also contain meat or poultry, such as chicken or lamb, and is typically flavored with herbs like [[parsley]] and [[cilantro]]. Some versions of the dish may also include chickpeas or other legumes. The pasta used in Constantine is similar to that used in Algiers, and is also made from semolina flour and water.<ref>{{Cite book |first1=Yasmina |last1=Cherrad-Benchefra |first2=Valéry |last2=Debov |first3=Yacine |last3=Derradji |first4=Dalila |last4=Smaali-Dekdouk |first5=Ambroise |last5=Queffélec |date=2002 |title=Le Français en Algérie. Lexique et dynamique des langues |location=Brussels |publisher=De Boeck Supérieur |pages=484 |isbn=2801112941 |language=fr}}</ref> 
+
+In both cities, ''rechta'' is considered a festive dish that is often served on special occasions like weddings and religious holidays.{{cn|date=November 2021}}
+
+=== Tunisia ===
+In Tunisia, ''rechta'' is also consumed in [[Bizerte]], but it is typically served in a soup or stew. The pasta is often prepared in a similar way to Algerian ''rechta'', but it is cut into shorter lengths and may be a bit wider, particularly with ''rechta jerya'' or ''rechta njara''.<ref>{{Cite book |last1=Schürings |first1=Hildegard |last2=Lamari |first2=Moktar |url=https://books.google.com/books?id=0Wy1VtltH4gC&dq=rechta+tunisie&pg=PA158 |title=Forces Feminines et Dynamiques Rurales en Tunisie: Contributions socio-économiques et espoirs des jeunes filles du monde rural |date=2000 |publisher=Editions L'Harmattan |isbn=978-2-296-40432-8 |language=fr |via=Google Books}}</ref>
+
+==See also==
+*[[Reshteh]] (Iranian variant of the same noodles)
+
+== References ==
+{{reflist}}
+
+{{Algerian cuisine}}
+
+[[Category:Algerian cuisine]]
+[[Category:African cuisine]]
+[[Category:Maghrebi cuisine]]

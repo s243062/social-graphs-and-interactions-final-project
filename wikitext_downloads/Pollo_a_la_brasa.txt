@@ -1,0 +1,60 @@
+{{Redirect-distinguish|Pollo asado|Chicken inasal}}
+{{short description|Chicken dish}}
+{{Infobox food
+| name               = Pollo a la Brasa
+| image              = Un cuarto de Pollo a la Brasa.JPG
+| image_size         = 
+| image_alt          = 
+| caption            = "Un cuarto" (literally "one fourth") serving of pollo a la Brasa, accompanied with [[french fries]] and a fresh salad
+| alternate_name     = Blackened chicken
+| type               = Rotisserie chicken
+| course             = 
+| country            = 
+| region             = 
+| national_cuisine   = [[Peruvian cuisine|Peruvian]]
+| creator            = Roger Schuler and Franz Ulrich
+| year               = 1950s
+| mintime            = 
+| maxtime            = 
+| served             = 
+| main_ingredient    = Chicken
+| minor_ingredient   = Salt
+| variations         = 
+| serving_size       = 100 g
+| calories           = 
+| calories_ref       = 
+| protein            = 
+| fat                = 
+| carbohydrate       = 
+| glycemic_index     = 
+| similar_dish       = Pollo al spiedo
+| cookbook           = 
+| commons            = 
+| other              = 
+| no_recipes         = false
+}}
+
+'''Pollo a la brasa''', '''pollo asado''', '''blackened chicken''', or '''charcoal chicken''' is a variety of [[rotisserie chicken]] associated with the [[Peruvian cuisine|cuisine of Peru]].<ref name="Brenes & Haar"/><ref name="Martinez"/> 
+
+The dish was developed by Roger Schuler, a Swiss resident of [[Chaclacayo]], [[Lima]], in 1950. Schuler was a Swiss national who found it difficult to return to his home country during World War II, and eventually settled in Lima, working in hotels and restaurants. He devised the method of pollo a la Brasa (on a spit over charcoal) with the assistance of his business partners after observing his cook's technique, and created the Granja Azul restaurant in Santa Clara, district of [[Ate District|Ate]], in [[Lima]]. The dish was initially seasoned only with salt, was served with large french fries and eaten by hand.<ref name="Peru.info">{{cite web |date=23 June 2020 |title=The history and preparation of this very Peruvian dish, 'pollo a la brasa' (rotisserie chicken) |url=https://peru.info/en-us/gastronomy/news/2/13/the-history-and-preparation-of-this-very-peruvian-dish---pollo-a-la-brasa---rotisserie-chicken- |access-date=1 March 2022 |website=Peru.info}}</ref><ref name="Brenes & Haar" /><ref name=":0">{{cite web |last1=Farr |first1=Alix |date=13 July 2012 |title=The Birth of Peru's Pollo a la Brasa |url=https://www.livinginperu.com/the-history-of-peruvian-pollo-a-la-brasa/ |access-date=1 March 2022 |website=Living in Peru}}</ref>
+
+After receiving a large catering order, he sought out a fellow Swiss immigrant, Franz Ulrich, a metalworker who developed a type of rotisserie oven to allow high throughput that he named "El rotombo". Over time, additional spices were added, including [[rosemary]], [[huacatay]], [[black pepper]], [[soy sauce]], [[ají panca]], and [[cumin]], and it became acceptable to eat the dish with cutlery. The Schuler family still owns the Granja Azul, and a number of other restaurants around Peru, and Ulrich continued to produce rotisserie ovens.<ref name="Peru.info" /><ref name="Brenes & Haar" /><ref name=":0" /> The modern version is almost always served with mayonnaise-based sauces, or a salsa known as [[Ají (sauce)|ají]].
+
+Pollo a la brasa is found in eateries throughout the world and is considered a staple item in Peruvian fusion restaurants. It is considered a national dish of Peru: the average Peruvians eats it three times a month, and rotisserie chicken restaurants make up 40% of the domestic fast food industry.<ref name="Peru.info" />
+
+==See also==
+* [[Pollo al carbón]], a similar Mexican dish
+* [[List of chicken dishes]]
+* [[List of spit-roasted foods]]
+
+==References==
+{{reflist|refs=
+<ref name="Brenes & Haar">{{cite book | last1=Brenes | first1=E.R. | last2=Haar | first2=J. | title=The Future of Entrepreneurship in Latin America | publisher=Palgrave Macmillan | series=International Political Economy Series | year=2012 | isbn=978-0-230-27918-6 | url=https://books.google.com/books?id=bLsR3Af1iYEC&pg=PA248 | pages=248–252 }}{{Dead link|date=February 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<ref name="Martinez">{{cite book | last=Martinez | first=D. | title=Daisy: Morning, Noon and Night: Bringing Your Family Together with Everyday Latin | publisher=Atria Books | year=2010 | isbn=978-1-4391-9932-9 | url=https://archive.org/details/daisymorningnoon0000mart | url-access=registration | pages=[https://archive.org/details/daisymorningnoon0000mart/page/71 71]–72}}</ref>
+}}
+
+{{Chicken dishes|state=collapsed}}
+
+[[Category:Peruvian chicken dishes]]
+[[Category:Spit-cooked foods]]
+[[Category:Cultural heritage of Peru]]

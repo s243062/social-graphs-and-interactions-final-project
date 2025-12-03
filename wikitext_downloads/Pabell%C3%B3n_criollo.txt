@@ -1,0 +1,49 @@
+{{Short description|Traditional Venezuelan rice and bean dish}}
+{{Infobox prepared food
+|name             = Pabellón criollo
+|image            = Pabellón Criollo Venezolano.jpg
+|caption          = Pabellón criollo, this is the pabellón con tajadas variation (has fried plantain slices).
+|alternate_name   = 
+|country          = [[Venezuela]]
+|region           = [[Latin America]]
+|course           = Meal    
+|mintime          = 40
+|main_ingredient  = [[rice]] and [[beans]], shredded [[beef]] in stew and stewed 
+}}
+[[File:Pabellón Criollo Venezolano 1.jpg|thumb|Black beans with grated cheese, shredded meat, slices of plantain and rice]]
+'''Pabellón criollo''' ({{IPA|es|paβeˈʝoŋ ˈkɾjo.ʝo}}) is a traditional [[Venezuela]]n dish that is considered the national dish. It mixes elements from the three different cultures that intermixed during Spanish colonial times: Native Americans, Spanish and Africans. The name is a synonym to flag, since it was one of the main original associations. It is a plate of rice, shredded [[beef]] in stew and stewed [[Black turtle bean#Black beans|black bean]]s.<ref>{{Cite journal|last=CARTAY|first=Rafael|date=1998|title=Elogio y nostalgia de la cocina venezolana|journal=Caravelle (1988-)|volume=71|issue=71|pages=53–65|doi=10.3406/carav.1998.2807|jstor=40853493|issn=1147-6753}}</ref>
+
+==Variants==
+Common additions include ''[[Plantain (cooking)#Tajadas|tajadas]]'' (fried [[Plantain (cooking)|plantain]] slices) or a [[fried egg]], and both of these variants have acquired slang names. A ''pabellón con barandas'' (''baranda'' is Spanish for [[guard rail]]) is served with tajadas because the long plantain slices placed on the sides are humorously considered to be keeping the food from falling off from the plate.<ref>{{Cite book|url=https://books.google.com/books?id=rTywO3R9yTkC&q=diccionario%20de%20cocina%20venezolana&pg=PA9|title=Diccionario de cocina venezolana|last=Angulo|first=Rafael Cartay|date=2005|publisher=Editorial Alfa|isbn=978-980-354-155-2|language=es}}</ref> A ''pabellón a caballo'' means with a fried egg on top, as though the egg were "riding" the dish (''"a caballo"'' is Spanish for [[horseback riding|"on horseback"]]). Besides these two main variants, people also add other things to the dish such as granulated sugar on the beans, [[Queso Palmita]] over the beans or hot sauce over the meat.
+
+The shredded beef can be replaced by ''[[Capybara|chigüire]]'', shredded [[caiman]] meat or even freshwater fish depending on the region, time of the year (beef consumption is prohibited by the Roman Catholic Church during [[Lent]]; however, capybara and fish are approved) or personal taste.<ref>{{Cite web|url=https://theculturetrip.com/south-america/venezuela/articles/ox-s-eyeballs-and-a-side-of-trout-ice-cream/|title=The Best And Wackiest Foods To Try In Venezuela|last=Baumhardt|first=Alexandra|website=Culture Trip|date=2 March 2015 |access-date=2020-01-21}}</ref>
+
+==See also==
+{{Portal|Food}}
+*[[Arroz con gandules]] - similar dish in [[Puerto Rico]]
+*[[Platillo Moros y Cristianos]] - similar dish in [[Cuba]] 
+
+*[[Moro de guandules]] - similar dish in the [[Dominican Republic]]
+
+*[[Ropa vieja]] - Beef component of the dish is also popular in Cuba
+
+*[[Gallo Pinto]] - similar dish in [[Nicaragua]] and [[Costa Rica]]
+
+*[[Hoppin' John]] - similar dish in the [[Southern United States]]
+
+*[[Rice and peas]] - similar dish in [[Jamaica]]
+*[[List of rice dishes]]
+
+==References==
+{{Reflist}}
+
+{{Legume dishes}}
+
+{{DEFAULTSORT:Pabellon Criollo}}
+[[Category:Venezuelan cuisine]]
+[[Category:Latin American rice dishes]]
+[[Category:Legume dishes]]
+[[Category:National dishes]]
+
+
+{{venezuela-cuisine-stub}}

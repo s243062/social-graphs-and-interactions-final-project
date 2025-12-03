@@ -1,0 +1,122 @@
+{{Short description|Yeast-leavened flatbread baked from wheat flour}}
+{{Other uses}}
+{{Hatnote|In many languages, the word ''pita'' refers not to flatbread, but to flaky pastries: see [[börek]] for them.}}
+{{Distinguish|Pihta|Pitha}}
+{{Use dmy dates|date=August 2025}}
+{{Infobox food
+| name               = Pita bread
+| image              = Pita Bread.jpg
+| image_size         = 
+| caption            = Pita from [[Lebanon]]
+| alternate_name     = Pide, [[khubz]]
+| region             = [[Eastern Mediterranean]], [[Middle East]] and [[North Africa]]<ref name="Marks 2010">{{cite book|first1=Gil|last1=Marks|author-link=Gil Marks|title=Encyclopedia of Jewish Food|publisher=HMH|date=17 November 2010|isbn=978-0-544-18631-6}}</ref>
+| creator            = 
+| type               = [[Flatbread]]
+| course             = 
+| served             = 
+| main_ingredient    = [[Wheat flour]], water, [[Baker's yeast|yeast]], [[salt]]
+| variations         = 
+}}
+
+'''Pita''' ({{IPAc-en|ˈ|p|ɪ|t|ə}} or {{IPAc-en|US|ˈ|p|iː|t|ə}}; {{langx|el|πίτα}})<ref>{{cite encyclopedia|encyclopedia=Cambridge English Pronouncing Dictionary|date=2011|publisher=Cambridge University Press|edition=18th|title=Pita}}</ref> or '''pitta''' ([[British English]]), also known as '''Arabic bread''' ({{langx|ar|خبز عربي|khubz ʿArabī}}, {{langx|hy|արաբական հաց|arabakan hats}}), '''Syrian bread''', '''Lebanese bread''', '''kmaj''' (from the [[Persian language|Persian]] ''kumaj'') and '''Pide'''  (from [[Turkish  language|Turkish]]), is a family of yeast-[[leavened]] round [[flatbread]]s baked from [[wheat flour]], common in the [[Mediterranean]], [[Middle East]], and neighboring areas. It includes the widely known version with an interior pocket. In the [[United Kingdom]], the term is used for pocket versions such as the Greek pita, used for [[barbecue]]s as a [[souvlaki]] wrap.<ref>{{cite web|url=https://www.thes.gr/gefseis/pos-na-ftiaxete-efkola-pites-gia-souvlaki-vinteo-foto/|title=How to make easy pita breads for souvlaki (video and photograph)|first=Tania|last=Vlachopoulou|work=Thes |date=9 October 2024|language=el|url-status=live|archive-url=https://web.archive.org/web/20241115144424/https://www.thes.gr/gefseis/pos-na-ftiaxete-efkola-pites-gia-souvlaki-vinteo-foto/|archive-date=15 November 2024}}</ref><ref name="Uvezian 2001">{{cite book|first1=Sonia|last1=Uvezian|title=Recipes and Remembrances from an Eastern Mediterranean Kitchen: A Culinary Journey Through Syria, Lebanon, and Jordan|url=https://books.google.com/books?id=E2sgAQAAMAAJ&q=%22khubz+arabi%22|publisher=Siamanto Press|date=2001 |isbn=978-0-9709716-8-5|via=Google Books|page=313|quote=The best-known bread of the region is khubz arabi (or, simply, khubz), a round, flat, slightly leavened loaf about one-fourth inch thick and with a pocket inside. It is made in three different sizes: large (eight or more inches in diameter), medium (six to eight inches), and small (about five inches). In America, where it has become very popular, this bread is known as pita. A pocketless version is also available. In some Arab communities ''khubz arabi'' is called ''kmaj'' (from the Persian ''kumaj''), while in others, ''kmaj'' refers only to the pocketless type.}}</ref><ref name="Lluís">{{cite book |last1=Stewart |first1=Jean E. |last2=Tamaki |first2=Junko Alice |url=https://books.google.com/books?id=Q96OaT5HhloC|title=Composition of foods: baked products: raw, processed, prepared|volume= 8 |publisher=United States Department of Agriculture, Nutrition Monitoring Division| page=6|year= 1992|isbn=978-0-16-038044-0 |quote=Pita bread originated in the Middle East and is also known as Arabic, Syrian, and pocket bread.}}</ref><ref name="Marks 2010"/><ref name="Davidson 2014">{{cite book|editor-first=Alan|editor-last=Davidson|first=Charles|last=Perry|title=The Oxford Companion to Food|url=https://books.google.com/books?id=bIIeBQAAQBAJ&pg=PA629|pages=629–630|publisher=[[Oxford University Press]]|date=21 August 2014|isbn=978-0-19-104072-6|via=Google Books}}</ref><ref>{{cite book | url=https://books.google.com/books?id=x3t2IJeFIh8C&pg=PA61|title=Little Foods of the Mediterranean: 500 Fabulous Recipes for Antipasti, Tapas, Hors D'Oeuvre, Meze, and More|author=Wright, Clifford A. | page=61|year= 2003|publisher=Harvard Common Press |isbn=978-1-55832-227-1}}</ref><ref name="Roden 2008">{{cite book|first1=Claudia|last1=Roden|author-link=Claudia Roden|title=The New Book of Middle Eastern Food|url=https://books.google.com/books?id=r723owliVz8C&pg=PA393|pages=393–396|publisher=Knopf Doubleday Publishing Group|date=24 December 2008|isbn=978-0-307-55856-5|via=Google Books}}</ref> The [[Western world|Western]] name ''pita'' may sometimes be used to refer to various other types of flatbreads that have different names in their local languages, such as numerous styles of Arab ''[[khubz]]'' ({{gloss|bread}}).<ref>{{cite book | url=https://books.google.com/books?id=oz4orP4ZOOYC&pg=PA215|title=Cereal Grains: Laboratory Reference and Procedures Manual|author= Serna-Saldivar, Sergio O.| page=215|year= 2012|publisher=CRC Press |isbn=978-1-4398-5565-2}}</ref>
+
+==Etymology==
+The first mention of the word in English cited in the [[Oxford English Dictionary]] was in 1936.<ref name="oed">{{OED|pitta|id=144674}}</ref><ref>{{Cite news|url=https://www.nli.org.il/en/newspapers/pls/1936/03/30/01/page/28/?e=-------en-20--1--img-txIN%7CtxTI--------------1|title=Yussef, Khalil, and Abraham: The Station and its Builders|last=Lurie|first=J. Z.|date=30 March 1936|pages=28|access-date=29 November 2025|url-status=live|work=[[The Palestine Post]]}}</ref> The English word is borrowed from [[Modern Greek]] {{lang|el|πίτα}} ({{Transliteration|el|píta}}, {{gloss|bread, cake, pie}}), in turn from [[Byzantine Greek]] (attested in 1108),<ref name="oed"/> possibly from [[Ancient Greek]] {{lang|grc|πίττα}} ({{Transliteration|grc|pítta}}) or {{lang|grc|πίσσα}} ({{Transliteration|grc|píssa}}), both meaning {{gloss|pitch/resin}},<ref>Aristotle University of Thessaloniki, Λεξικό της κοινής Νεοελληνικής</ref><ref>{{cite book |first1=Henry George|last1=Liddell |first2=Robert|last2=Scott |first3=Henry Stuart|last3=Jones |title=[[A Greek–English Lexicon]]}}</ref> or from {{lang|grc|πικτή}} ({{Transliteration|grc|piktḗ}}, {{gloss|fermented pastry}}), which may have passed to [[Latin]] as {{lang|la|picta}} cf. [[pizza#Etymology|pizza]].<ref>Javna, John. Uncle John's FACTASTIC Bathroom Reader, Printers Row, 2015</ref><ref>{{cite book |last=Babiniotis |first=Georgios |date=2005 |title=Λεξικό της Νέας Ελληνικής Γλώσσας |trans-title=[[Dictionary of Modern Greek]] |language=el |publisher=Lexicology Centre |isbn=960-86190-1-7 |page=1413}}</ref><ref>The connection between {{lang|la|picta}} and {{lang|grc|πηκτή}} is not supported by the ''[[OED]]'' ''s.v.'' 'picture' nor by [[Carl Darling Buck|Buck, Carl Darling]], ''A Dictionary of Selected Synonyms in the Principal Indo-European Languages'' (1949). 9.85 "paint", p. 629</ref> Other hypotheses trace the Greek word back to the [[Classical Hebrew]] word {{lang|hbo|פת}} ({{Transliteration|hbo|patt}}, {{lit|a morsel of bread}}).<ref name="Marks 2010"/> It is spelled like the [[Aramaic language|Aramaic]] {{lang|arc|פיתא}} ({{Transliteration|arc|pittā}}), from which it was received into Byzantine Greek (see above). Hypotheses also exist for [[Germanic languages|Germanic]]<ref>{{cite book|author=Bracvini, G. Princi |title=Archivio Glottologico Italiano|volume=64|pages=42–89 |date=1979}} Cited by the ''OED''.</ref> or [[Illyrian language|Illyrian]] intermediaries.<ref>{{cite book|author= Kramer, J.|title=Balkan-Archiv|volume=14–15|pages=220–231 |date=1990}} Cited by the ''OED''.</ref> 
+
+Some say that English borrowed the word directly from Modern Hebrew, which had revived the Aramaic term in the preceding decades.<ref name="Marks 2010" /> However, native Modern Hebrew nouns are characterized by final stress.<ref>{{Cite web |date=2019-11-13 |title=Pita |url=https://hebrew-academy.org.il/%d7%a4%d7%99%d7%aa%d7%94/ |access-date=2025-07-07 |website=Academy of the Hebrew Language |language=he-IL}}</ref>
+
+The word has been borrowed by the [[Turkish language|Turkish]] language as {{lang|tr|pide}},<ref>{{cite book|url=https://books.google.com/books?id=MBRBjBTEBHYC&q=pita|title=Cuisine and culture: a history of food and people|author= Civitello, Linda|edition=Paperback|publisher=Wiley|year=2007|isbn=978-0-471-74172-5|page=98}}</ref> and appears in the [[Balkan languages]] as [[Serbo-Croatian|Bosnian-Serbian-Croatian]] {{lang|sh|pita}}, [[Romanian language|Romanian]] {{lang|ro|pită}}, [[Albanian language|Albanian]] {{lang|sq|pite}}, and [[Bulgarian language|Bulgarian]] {{lang|bg|pitka}} or {{lang|bg|pita}}; however, in the Serbo-Croatian languages of the countries comprising the [[former Yugoslavia]], the word {{lang|sh|pita}} is used in a general sense meaning [[pie]].{{citation needed|date=March 2025}}
+
+In [[Arabic]], the phrase {{lang|ar|خبز البيتا}} ({{Transliteration|ar|khabaz albayta}}, {{lit|pita bread}}) is sometimes used; other names are simply {{lang|ar|[[Khubz|خبز]]}} ([[khubz|{{Transliteration|ar|khubz}}]], {{gloss|bread}}), {{lang|ar|الخبز العربي}} ({{Transliteration|ar|al-khubz al-ʿarabiyy}}, {{gloss|Arab bread}}) or {{lang|ar|خبز الكماج}} ({{Transliteration|ar|khabaz al-kimaj}}, {{gloss|al-kimaj bread}}).<ref name="Cauvain2015">{{cite book|last=Cauvain|first=Stanley|title=Technology of Breadmaking|url=https://books.google.com/books?id=Y6q3BgAAQBAJ&pg=PA232|year=2015|publisher=Springer|location=New York|isbn=978-3-319-14687-4|page=232}}</ref> In [[Egyptian Arabic|Egypt]], it is called [[eish baladi]] ({{lang|arz|عيش بلدي}} {{Transliteration|arz|ʽēš baladi}}) or simply eish ({{lang|arz|عيش}} {{Transliteration|arz|ʽēš}}, {{gloss|bread}}),<ref name="Bard2005">{{cite book|editor-last=Bard|editor-first=Kathryn A. |editor-link=Kathryn A. Bard |title=Encyclopedia of the Archaeology of Ancient Egypt|url=https://books.google.com/books?id=AWSGAgAAQBAJ&pg=PA178|year=2005|publisher=Routledge|location=London|isbn=978-1-134-66525-9|page=178}}</ref> although other subtypes of "bread" are common in Egypt, such as [[eish fino]] and [[eish merahrah]].
+
+In [[Greek language|Greek]], {{Transliteration|el|pita}} ({{lang|el|πίτα}}) is understood by default to refer to the thicker, pocketless Greek pita, whereas the thinner ''khubz''-style pita is referred to as {{Transliteration|el|aravikí pita}} ({{lang|el|αραβική πίτα}}, {{lit|Arabic pastry}}).
+
+==History==
+Pita has roots in the prehistoric flatbreads of the Near East.<ref name="Marks 2010"/> There is evidence from about 14,500 years ago, during the [[Stone Age]], that the [[Natufian]] people in what is now [[Jordan]] made a kind of flatbread from wild cereal grains.<ref>{{Citation |year=2018 |title=World's oldest bread found at prehistoric site in Jordan |journal=The Jerusalem Post |url=https://www.jpost.com/Middle-East/Worlds-oldest-bread-found-at-prehistoric-site-in-Jordan-562680 |access-date=16 July 2018 }}</ref><ref>{{Cite news|url=https://www.independent.co.uk/news/science/archaeology/bread-history-cooking-stone-age-middle-east-archaeology-discovery-a8450276.html|title=Archaeologists find world's oldest bread and new evidence of sophisticated cooking dating back 14,000 years|work=The Independent|access-date=17 July 2018|language=en-GB}}</ref> Ancient wheat and barley were among the [[Neolithic founder crops|earliest domesticated crops]] in the [[Neolithic]] period of about 10,000 years ago, in the [[Fertile Crescent]]. By 4,000 years ago, bread was of central importance in societies such as the [[Babylon]]ian culture of [[Mesopotamia]], where the earliest-known written records and recipes of bread-making originate,<ref>{{cite news|agency=[[Associated Press]]|access-date=16 March 2019|title=Mastering the Art of Babylonian Cooking|url=https://www.nytimes.com/1988/01/03/nyregion/mastering-the-art-of-babylonian-cooking.html|newspaper=[[The New York Times]]|date=3 January 1988|issn=0362-4331}}</ref> and where pita-like flatbreads cooked in a ''tinûru'' (''tannur'' or ''tandoor'') were a basic element of the diet, and much the same as today's [[tandoor bread]], [[taboon bread]],<ref>{{cite book|first1=Jean|last1=Bottéro|title=The Oldest Cuisine in the World: Cooking in Mesopotamia|url=https://books.google.com/books?id=PxnaaTzC8tMC&pg=PA47|pages=47–49|publisher=University of Chicago Press|date=15 April 2004|isbn=978-0-226-06735-3|via=Google Books}}</ref> and [[laffa]], an Iraqi flatbread with many similarities with pita. However, there is no record of the steam-puffed, two-layer "pocket pita" in the ancient texts, or in any of the medieval Arab cookbooks, and according to food historians such as [[Charles Perry (food writer)|Charles Perry]] and [[Gil Marks]] it was likely a later development.<ref name="Marks 2010"/><ref>{{cite book|first1=Anat|last1=Helman|title=Jews and Their Foodways|url=https://books.google.com/books?id=q7CYCgAAQBAJ&pg=PA196|publisher=Oxford University Press|date=28 October 2015|isbn=978-0-19-026543-4|via=Google Books}}</ref>
+
+==Preparation==
+[[File:PikiWiki_Israel_30304_Events_in_Israel.jpg|thumb|alt=Six pitas baking on a circular pan in a wood-fired oven|Pita baking in [[Nazareth]]]]
+Most pita breads are [[baking|baked]] at high temperatures ({{Convert|450|-|475|F|C|order=flip|disp=or|round=5}}), which turns the water in the [[dough]] into steam, thus causing the pita to puff up and form a pocket.<ref name=McNulty /> When removed from the [[oven]], the layers of baked dough remain separated inside the deflated pita, which allows the bread to be opened to form a pocket. However, pita is sometimes baked without pockets and is called "pocket-less pita". Pita is traditionally served fresh from the oven (typically a wood-fired oven similar to a [[pizza oven]]). It is best either soon after baking or on the same day, and can be served warm.<ref name="zahav">{{cite book |last1=Solomonov |first1=Mike |title=Zahav |publisher=HMH}}</ref>
+
+Modern commercial pita bread is prepared on advanced automatic production lines, processing {{Convert|100000|lb|kg|order=flip|adj=on}} silos of flour at a time and producing thousands of pitas per hour. The ovens used in commercial baking are much hotter than traditional clay ovens—{{Convert|800|-|900|F|C|-1|order=flip}}—so each pita is baked only for one minute. The pita are then air-cooled for about 20 minutes on conveyor belts before being shipped immediately or else stored in commercial [[freezer]]s kept at a temperature of {{convert|10|F|C|0|order=flip}}.<ref name="McNulty">{{cite web|last1=McNulty|first1=Mary|title=Pita Bread|url=http://www.madehow.com/Volume-5/Pita-Bread.html|website=How products are made|access-date=8 May 2018|date=2007}}</ref>
+
+==Culinary use==
+[[File:Nablus souq pita 118 - Aug 2011.jpg|right|thumb|Pita bread at a [[Bazaar|souq]] in [[Nablus]].]]
+Pita can be used to scoop sauces or dips, such as [[hummus]], or to wrap [[kebab]]s, [[gyro (food)|gyros]], [[Sabich]] or [[falafel]] in the manner of [[sandwich]]es. It can also be cut and baked into crispy pita chips.
+
+In [[Turkish cuisine]], the word ''pide'' may refer to three different styles of bread: a flatbread similar to that eaten in [[Greece]] and [[Arab countries]], a [[pizza]]-like dish, [[İçli Pide|içli pide]], where the filling is placed on the (often boat-shaped) dough before baking,<ref>{{cite web |url= https://www.recipetineats.com/pide-turkish-flat-bread/ |title= Pide – Turkish Flat Bread |author= Nagi Maehashi |date=  June 28, 2025 |publisher= 
+Recipetineats |access-date=November 16, 2025 |url-status=live
+|archive-url=https://web.archive.org/web/20251116162941/https://www.recipetineats.com/pide-turkish-flat-bread/ |archive-date=November 16, 2025  }}</ref><ref>{{cite web |title=Dayi'nin Yeri Turkish Restaurant, Cliffside Park, NJ |url=https://www.chowgofer.com/order/restaurant/turkish-cuisine-dayinin-yeri-lahmacun-menu/151 |website=www.chowgofer.com |access-date=10 December 2018 |language=en}}</ref><ref>{{cite web |last1=Elise |first1=Lola |title=Pide Recipe |url=https://arbuz.com/recipes/pide-recipe/ |website=Tasty & Healthy Arbuz |access-date=10 December 2018 |date=16 December 2009}}</ref><ref>{{cite web |last1=Babs |first1=Serena |title=Turkish Pizza aka Kiymali Pide |url=https://tastykitchen.com/recipes/main-courses/turkish-pizza-aka-kiymali-pide/ |website=Tasty Kitchen |access-date=10 December 2018 |date=17 January 2011}}</ref> and [[Ramazan pidesi]].  The first type of ''pide'' is used to wrap various styles of [[kebab]], while the second is topped with cheese, [[ground meat]], or other fresh or [[Curing (food preservation)|cured]] meats, and/or vegetables. Regional variations in the shape, baking technique, and toppings create distinctive styles for each region.
+
+In [[Cyprus]], pita is typically rounder, fluffier and baked on a cast-iron skillet. It is used for [[souvlaki]]a, [[sheftalia]], [[halloumi]] with [[lountza]], and gyros. In [[Greek cuisine|Greece]] the word ''pita'' means "pastry" and is usually used for various cakes and pastries like [[spanakopita]] (spinach pie) and [[karydopita]] (walnut cake) unrelated to the English language "pita" flatbread.<ref>Ιφιγενεια Βιρβιδακη, Νενα Δημητριου, Νικολετα Μακρυωνιτου, Καλλιοπη Πατερα, "[http://www.kathimerini.gr/875774/article/gastronomos/agora/ta-kalytera-ywmia-twn-a8hnwn Tα καλύτερα ψωμιά των Αθηνών]", Γαστρονόμος, ''Η Καθημερινή'', 21 September 2016</ref> Traditional breads in Greek cuisine are leavened loaves,<ref>Ιφιγενεια Βιρβιδακη, Νενα Δημητριου, Νικολετα Μακρυωνιτου, Καλλιοπη Πατερα, "Tα καλύτερα ψωμιά των Αθηνών", Γαστρονόμος, ''Η Καθημερινή'', 21 September 2016 [http://www.kathimerini.gr/875774/article/gastronomos/agora/ta-kalytera-ywmia-twn-a8hnwn]</ref> such as the round καρβέλι karvéli or the oblong φραντζόλα frantzóla. This style of pita flatbread, in the English language meaning of the word, is almost exclusively used as a wrap for ''souvlaki'' or [[gyro (food)|gyros]] usually garnished with some combination of [[tzatziki]] sauce, tomatoes, onions, and [[french fries]].
+
+[[Druze]] pita is filled with [[labneh]] (thick yoghurt) and topped with [[olive oil]] and [[za'atar]].<ref>{{cite book|title=Lonely Planet Israel & the Palestinian Territories|first=Anita |last=Isalska|year= 2018| isbn= 978-1-78701-924-9| page =5|publisher=Lonely Planet|quote=}}</ref>
+
+In [[Bosnia]], [[Croatia]], [[Bulgaria]] and [[Serbia]], the local style of pitta is known as ''lepinja'', ''somun'', ''purlenka'' or ''pitica'', and is the most common bread served with barbecued food like [[ćevapi]], [[pljeskavica]], [[kebapche]] or grilled [[sausages]]. The word ''pita'' itself, on the other hand, is used for ''pie'' in the general sense in all local languages, and is mostly used for [[börek]] or various sweet [[phyllo]] pastry dishes (with the exception of [[baklava]] which is always called that).
+
+Pita is also present in the cuisine of the [[Aromanians]].<ref>{{cite journal|url=https://litere.hyperion.ro/hypercultura/wp-content/uploads/2017/10/Bara-Mariana.pdf|title=Constructing Armân/Vlach Ethnic Identity|first=Mariana|last=Bara|journal=HyperCultura|volume=3|issue=1|pages=1–11|year=2014}}</ref>
+
+<gallery mode="packed">
+File:Raffi_kojian-pita-103035037.jpg|Arabic bread package in US with English, Armenian and Arabic text
+File:Lunch at the beach North of Jaffa (4158698648).jpg|Hummus platter served with Pita near [[Jaffa]] in [[Tel Aviv]]
+File:Pide and ayran.jpg|''Karadeniz pidesi'' from Turkey topped with ''[[kaşar]]'' cheese
+File:Palestinianbreakfastfalafel.jpg|[[Arab cuisine|Arab]] breakfast with [[falafel]], [[hummus]], [[torshi]] and khubz bread
+File:Tırnaklı pide 1.jpg|Ramadan pide
+File:Jerusalem shawarma.jpg|[[Shawarma]] in [[Jerusalem]]
+File:Gyro sandwich (3).jpg|Gyro pide wrap
+File:Baked pita on conveyor belt in Tell Rifaat.jpg|Baked khubz on conveyor in [[Tell Rifaat]], Syria
+File:Manisa kebabı.jpg|[[Kebab]] served over pide with ''[[pilav]]''
+File:Bosnian-cevapi-with-kajmak-and-onion.jpg|Bosnian [[ćevapi]] served with local pitta variety called "''somun''"
+</gallery>
+
+==See also==
+
+{{Portal|Food}}
+{{div col|colwidth=30em}}
+* [[Chapati]] – an unleavened flatbread from the [[Indian subcontinent]]
+* [[Wheat tortilla|Flour tortilla]] – a thin unleavened flatbread from [[Mexico]]
+* [[Focaccia]] – a flat oven-baked bread from [[Italy]]
+* [[İçli pide]] – Turkish flatbread
+* [[Injera]] – a sourdough-risen flatbread from [[East Africa]]
+* [[Laffa]] – Iraqi flatbread
+* [[Markook (bread)|Markook]] – an unleavened flatbread from the [[Middle East]]
+* [[Matnakash]] – a leavened bread from [[Armenia]] (related to the [[Ramadan pita]])
+* [[Naan]] – a leavened, oven-baked flatbread from [[Central Asian cuisine|Central]] and [[South Asian cuisine|South Asia]]
+* [[Pită de Pecica]] – a round bread from [[Romania]]
+* [[Rghaif]] – a pancake-like bread from [[Maghreb|Northwest Africa]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+
+*{{Commons category-inline}}
+*{{Wiktionary-inline|pita}}
+
+{{Navboxes|list1=
+{{Flatbreads}}
+{{Bread}}
+{{Chips and crisps}}
+{{Levantine cuisine}}
+{{Cuisine of Lebanon}}
+{{Cuisine of Egypt}}
+{{Serbian cuisine}}
+{{Turkish bread}}
+{{Greek breads}}
+{{Israeli cuisine}}
+}}
+{{Authority control}}
+
+[[Category:Arab cuisine]]
+[[Category:Aromanian cuisine]]
+[[Category:Ancient Greek cuisine]]
+[[Category:Byzantine cuisine]]
+[[Category:Greek breads]]
+[[Category:Greek cuisine]]
+[[Category:Flatbreads]]
+[[Category:Balkan cuisine]]
+[[Category:Levantine cuisine]]
+[[Category:Middle Eastern cuisine]]
+[[Category:Turkish cuisine]]
+[[Category:Yeast breads]]

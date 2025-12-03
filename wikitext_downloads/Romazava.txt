@@ -1,0 +1,23 @@
+{{short description|Malagasy stew}}
+{{Infobox food
+|name          = Romazava
+|image         = File:Madagaskar stew 2019-10-01.jpg
+|caption       = Romazava
+|country       = [[Madagascar]]
+|served        = Hot
+| main_ingredient = 
+}}
+'''Romazava''' ({{IPA|mg|rumaˈzavə̥|}}) is the [[national dish]] of [[Madagascar]],<ref>{{Cite web|url=https://www.preparedfoods.com/articles/103371-taste-of-madagascar |title=Taste of Madagascar |last=Jones |first=Wilbert |date=1 September 2006 |website=processedfoods.com |access-date=2019-12-14}}</ref> consisting of greens, [[Zebu|zebu meat]], tomatoes, and onions, typically accompanied by a portion of rice.<ref name="TasteAtlas">{{Cite web|url=https://www.tasteatlas.com/romazava |title=Romazava |website=tasteatlas.com |access-date=2019-12-14}}</ref> An integral component of the stew is [[Acmella oleracea|brèdes mafana]], called ''anamalaho'' in Malagasy; the plant holds an [[acid amide]] called [[spilanthol]] in its buds that elicits a tingly, pungent, citrusy and mouth-numbing effect, inducing excessive saliva production.<ref>{{cite book |last1=Bradt |first1=Hilary |last2=Austin |first2=Daniel |title=Madagascar |publisher=[[Bradt Travel Guides]] |date=2017 |page=106 |isbn=9781784770488 |url=https://books.google.com/books?id=cpkqDwAAQBAJ}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Malagasy cuisine]]
+[[Category:Beef dishes]]
+[[Category:National dishes]]
+[[Category:Meat and rice dishes]]
+[[Category:Flower dishes]]
+
+
+{{Madagascar-stub}}
+{{Africa-cuisine-stub}}

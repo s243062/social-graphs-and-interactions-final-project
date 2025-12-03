@@ -1,0 +1,73 @@
+{{Short description|Russian-style cabbage soup}}
+{{Infobox food
+| name             = Shchi
+| image            = Schi.jpg
+| image_size       = 250px
+| caption          =  A serving of shchi. This variant contains [[saffron milk-cap]]s, a type of mushroom.
+| country          = [[Russia]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = [[Soup]]
+| served           = 
+| main_ingredient  = [[Cabbage]] or [[sauerkraut]]
+| minor_ingredient = Potatoes, onions, garlic, carrot, parsley
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Shchi''' ({{lang-rus|щи|p=ɕːi|a=Ru-щи.ogg}}, sometimes transliterated as šči) is a [[Russian cuisine|Russian]]-style [[cabbage soup]]. When [[sauerkraut]] is used instead, the soup is called '''sour shchi''', while soups based on [[sorrel]], [[spinach]], [[Urtica dioica|nettle]], and similar plants are called [[green shchi]] ({{lang-rus|зелёные щи|p=zʲɪˈlʲɵnɨje ɕːi}}). In the past, the term ''sour shchi'' was also used to refer to a drink, a variation of [[kvass]], which was unrelated to the soup.<ref>{{cite book|language=ru|chapter=Щи|chapter-url=http://dic.academic.ru/dic.nsf/ogegova/272666|year=1949–1992|title=[[Dictionary of the Russian Language (Ozhegov)]]|author=S.I. Ozhegov|access-date=2016-04-06}}
+</ref><ref>{{cite book|language=ru|chapter=Щи|chapter-url=http://dic.academic.ru/dic.nsf/enc2p/379130|title=[[Explanatory Dictionary of the Live Great Russian language]]|author=Vladimir Dal|author-link=Vladimir Dal|year=1863–1866|access-date=2016-04-06}}</ref>
+
+==History==
+Shchi (from {{langx|orv|съти}}, the plural of "''съто''" (s(i)to) – "something satisfying, feed")<ref>G. P. Tsyganenko (1989) "Shchi" in  ''Etymological Dictionary of the Russian Language: More than 5000 words''. 2nd ed. Radyan's school. p. 499. {{ISBN|5-330-00735-6}}.</ref> is a traditional soup of Russia. Cabbage soups have been known in Kievan Rus as far back as the 9th century, soon after cabbage was introduced from [[Byzantine Empire|Byzantium]]. Its popularity in Russia originates from several factors:
+* Shchi is relatively easy to prepare; 
+* it can be cooked with or without various types of meat; 
+* and it can be frozen in the winter and carried as a solid on a trip to be cut up when needed. 
+As a result, by the 10th century shchi became a [[staple food]] of Russia, and a popular saying sprang from this fact: "Щи да каша — пища наша." (''Shchi da kasha — pishcha nasha'' "Shchi and [[kasha]] are our food"). 
+
+=== Historical ingredients ===
+The major components of shchi were originally cabbage, meat (beef, pork, lamb, or poultry), mushrooms, flour, and spices (based on onion and garlic). Cabbage and meat were cooked separately and [[smetana cream|smetana]] was added as a garnish before serving. Shchi is traditionally eaten with rye bread.<ref name=poh1>{{cite book|chapter=Щи|url=http://dic.academic.ru/dic.nsf/dic_culinary/2519/%D1%89%D0%B8|author=[[William Pokhlyobkin]]|year=2002|script-title=ru:Кулинарный словарь|isbn=5-227-00460-9|publisher=Центрполиграф|language=Russian}}
+</ref><ref name=poh2>{{cite book|chapter=Щи|url=http://dic.academic.ru/dic.nsf/enc_pohlebkin/194/%D0%A9%D0%B8|author=[[William Pokhlyobkin]]|year=2007|script-title=ru:Большая энциклопедия кулинарного искусства : все рецепты|isbn=978-5-9524-0274-4|publisher=Центрполиграф|language=Russian}}</ref>
+
+[[File:Щи_из_осетра.jpg|thumb|left|Shchi with fish]]
+The ingredients of shchi gradually changed. Flour, which formerly was used to increase the soup's caloric value, now was excluded for the sake of finer taste. The spice mixture was enriched with black pepper and [[bay leaf]], which were imported to Russia around the 15th century, also from [[Byzantium]]. Meat was sometimes substituted with fish, due to reasons related to the [[Eastern Orthodox Church]] calendar-related fasting. As for the vegetables, carrot and [[parsley]] could be added to the shchi. Beef was the most popular meat for shchi in Russia, while pork was more common in Ukraine. The water-to-cabbage ratio varies and whereas early shchi was often so viscous that a spoon could stand in it, more diluted preparation was adopted later.<ref name=poh1/><ref name=poh2/>
+
+== Contemporary ingredients ==
+
+Sometimes, tomato sauces (such as [[ketchup]]) are added to shchi (forming a [[tomato soup]]).
+
+To mitigate accidental overspiceness, oversaltiness or general sourness of ''kvashenaya kapusta'' (e.g. sauerkraut), a portion of cooked [[pasta]] (rigatoni, penne or macaroni) can be added to the batch of shchi.
+
+[[Tushonka]] can also be found in shchi in place of meat or fish.
+
+On some occasions, ''caviar d'aubergine'' (a puree made of cooked eggplants) or ''courgette caviar'' (made of [[zucchini]]s), is added to shchi to improve the thickness of the resulting soup. [[Caviar]] (or [[roe]] in general, such as [[pollock roe]]), can be found in shchi as an artisan additive rather than a "serious" component of shchi.
+
+==Linguistics==
+The two-letter word щи contains the letter [[Shcha|щ]], which lacks a counterpart in most non-[[Cyrillic script|Cyrillic alphabet]]s and is [[Transcription (linguistics)|transcribed]] into them with several letters. In [[German (language)|German]], щи becomes eight letters, ''Schtschi''.<ref>{{cite book|publisher=Cremat|title=Wortschatz und phraseologie der russischen sprache: mit grammatischen erläuterungen. Praktisches hilfsbuch zur erlernung des russischen|url=https://books.google.com/books?id=-7E9AAAAYAAJ|access-date=22 February 2011|year=1894|author=R. Gerhard}}</ref><ref>{{cite book|author=Karl Baedeker (Firm)|title=Russland: Handbuch für Reisende|url=https://books.google.com/books?id=Ab1DAAAAYAAJ&q=Schtschi+intitle:Russland+intitle:Handbuch+intitle:f%C3%BCr+intitle:Reisende|year=1892|publisher=K. Bædeker|page=xxvi
+}}</ref> [[Devanagari]] script can render щи with only ''one'' glyph श्ची, albeit one that takes four keystrokes to type श ् च ी which combine to give श्ची.
+
+==See also==
+{{Div col|colwidth=30em}}
+* [[Borscht]]
+* [[Rassolnik]]
+* [[Solyanka]]
+* [[Cabbage soup]]
+* [[Comfort food]]
+* [[List of cabbage dishes]]
+* [[List of Russian dishes]]
+* [[List of soups]]
+* [[List of vegetable soups]]
+{{div col end}}
+
+==References==
+{{commons category|Shchi}}
+{{Reflist}}
+
+{{Russian soups}}
+{{Soups}}
+
+[[Category:Russian soups]]
+[[Category:Cabbage soups]]
+[[Category:National dishes]]

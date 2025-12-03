@@ -1,0 +1,64 @@
+{{Short description|Savory cake of Swedish origin}}
+{{Infobox prepared food
+| name             = Smörgåstårta
+| image            = File:Plate of smörgåstårta (cropped).jpg
+| image_size       = 250px
+| caption          = A plate of ''smörgåstårta''
+| alternate_name   = 
+| country          = [[Sweden]]
+| region           = [[Northern Europe]]
+| creator          = 
+| course           = Main
+| type             = Festive
+| served           = Cold
+| main_ingredient  = White or light [[rye bread]], [[Egg (food)|egg]] or [[mayonnaise]] base, fillings
+| variations       = 
+| calories         = 
+| other            = 
+}}
+{{lang|sv|'''Smörgåstårta'''}} ([[Swedish language|Swedish]] for {{lit|sandwich-[[torte]]}}), or '''sandwich cake''' ({{langx|fi|voileipäkakku}}; {{langx|et|võileivatort}}; {{langx|is|brauðterta}}), is a savoury [[main dish]], not a [[dessert]], of [[Swedish cuisine|Swedish origin]], popular in [[Sweden]], [[Finland]], [[Estonia]], and [[Iceland]], etc. The name is quite literal, with the dish consisting of a [[cake]]-like dish, mainly festive, but composed of layers of bread bound with large amounts of [[sandwich]] filling and garnish, structurally similar to a layered cream cake, but culinarily more in line with [[Toast Skagen]].<ref name="NE">{{Cite web |title=smörgåstårta - Uppslagsverk - NE.se |url=https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/sm%C3%B6rg%C3%A5st%C3%A5rta |access-date=2024-10-03 |website=www.ne.se}}</ref> When eaten, it is sliced and served like any other cake.
+
+== Preparation and serving ==
+A smörgåstårta is typically made up of several layers of white or light [[rye bread]] (albeit dark bread also appear) with creamy fillings in between. The fillings and toppings vary, and may be [[lunch meat]], smoked, graved, or pickled fish (especially [[smoked salmon]]), [[shellfish]] (especially [[shrimp]] and {{ILL|shrimp salad|sv|Räksallad}}), [[caviar]] (or 'caviar cream'), cheeses, [[liver pâté]], cream salads (like [[mimosa salad]]), and sliced vegetables, but [[Egg (food)|egg]], [[mayonnaise]], and [[sourcream]]/[[crème fraîche]] are often the base. Even vegan variants occur. The top garnish often reflects the main ingredients used as a filling.<ref name="NE"/><ref>{{Cite web |last=Maku-toimitus |date=2023-05-22 |title=Voileipäkakku tekee juhlan! Löydä omat suosikkireseptisi herkullisten vaihtoehtojen joukosta |url=https://www.meillakotona.fi/artikkelit/voileipakakku-tekee-juhlan-loyda-omat-suosikkireseptisi |access-date=2024-12-19 |website=Kotona |language=fi}}</ref>
+
+Smörgåstårta is served cold and cut like a dessert cake.<ref>{{Cite web |last=Swedes |first=Neil Shipley's watching the |date=2024-07-29 |title=The Swedish sandwich cake |url=https://watchingtheswedes.com/2024/07/29/the-swedish-sandwich-cake/ |access-date=2024-10-03 |website=Watching the Swedes |language=en}}</ref> It is commonly served at family gatherings such as birthday parties, weddings, or funerals, etc.<ref>{{Cite web |last=halo_altti |date=2023-08-16 |title=Voileipäkakku firar Finlands självständighet |url=https://gruyerestories.com/se/voileipakakku-celebrates-finlands-independence-4/ |access-date=2024-12-19 |website=The Stories of Le Gruyère AOP |language=sv-SE}}</ref>
+
+== Gallery ==
+<gallery widths="150" heights="100">
+File:00 Smörgåstårta.jpg|A square ''smörgåstårta''
+File:02 Smörgåstårta.jpg|A round ''smörgåstårta''
+File:SmörgåstårtaMain.jpg|Heavily sallad garnished ''smörgåstårta''
+File:Hässleholm - Smörgåstårte (3695442996).jpg|Heavily seafood garnished ''smörgåstårta''
+File:Sandwich cake Voileipäkakku IM7638 C.JPG|Elongated ''smörgåstårta'' with dark bread
+File:Sandwich cake Voileipäkakkuviipale IM7639 C.JPG|Slice of the aforementioned dark bread ''smörgåstårta''
+File:Voileipäkakku.jpg|''Smörgåstårta'' with cream-cheese icing{{efn|Plus chives, boiled egg yolk, [[wood-sorrel]] leaves, tomatoes and flowers for decoration.}}
+File:Cakes in an office in Vantaa (cropped).jpg|A ''smörgåstårta'' between two sweet cakes
+</gallery>
+
+== See also ==
+* [[Sandwich loaf|Sandwich-loaf]]
+
+== Footnotes ==
+{{efnlist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons}}
+* [https://www.flickr.com/photos/pomax/5414724912 Photo recipe for Smörgåstårta]
+* [https://www.youtube.com/watch?v=I98AAMQm9f0 Great Big Story: Sweden’s Sandwich Cake - Smörgåstårta]
+* [https://www.youtube.com/watch?v=kfxBy9tKMHU MatildasMat: Decorating a sandwich cake (smörgåstårta)]
+* [https://www.youtube.com/watch?v=uU4gesNsDDI Robbaz: CWTK - Smörgåstårta - Viking Cake]
+
+{{DEFAULTSORT:Smorgastarta}}
+[[Category:Cakes]]
+[[Category:Estonian cuisine]]
+[[Category:Finnish cuisine]]
+[[Category:Icelandic cuisine]]
+[[Category:Scandinavian cuisine]]
+[[Category:Swedish cuisine]]
+[[Category:Bread dishes]]
+[[Category:Egg sandwiches]]
+
+{{sweden-cuisine-stub}}

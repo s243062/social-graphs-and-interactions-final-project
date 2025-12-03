@@ -1,0 +1,59 @@
+{{Short description|Traditional South American corn dish}}
+{{Infobox prepared food
+| name         	  = Pastel de choclo
+| image        	  = Pastel de choclo.jpg
+| image_size      = 250px
+| caption      	  = Pastel de choclo for individual portions
+| alternate_name  =
+| region          = South America
+| creator         =
+| course       	  = Main
+| type         	  = [[Pie]]
+| main_ingredient = Crust: Mashed [[sweet corn]], <br />Filling: [[ground beef]], [[Chicken (food)|chicken]], [[raisin]]s, [[black olive]]s, [[onion]]s, or slices of [[hard boiled egg]]
+| variations      =
+| calories     	  =
+| other        	  =
+}}
+
+'''Pastel de choclo''' ("corn [[pie]]" or "corn [[cake]]") is a [[South American cuisine|South American]] dish made from [[sweetcorn]] or [[choclo]]. It is similar to the pastel de elote found in [[Mexican cuisine]] and to the English [[corn pudding]]. The filling usually contains [[ground beef]], [[Chicken (food)|chicken]], [[raisin]]s, [[black olive]]s, [[onion]]s, or slices of [[hard boiled egg]].<ref>Albala Ken. 'Food Cultures of the World.' ABC-CLIO Vol. I, pp. 69-70.</ref> It is traditional in the cuisines of Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru, and Uruguay.<ref>{{Cite book |last=Weston |first=Rosario Olivas |url=https://books.google.com/books?id=mgwKHAAACAAJ |title=Cultura identidad y cocina en el Perú |date=1993 |publisher=Escuela Profesional de turismo y Hotelería, Facultad de Ciencias de la Comunicación, Turismo y Sicología, Universidad San Martin de Porres |language=es}}</ref><ref>{{Cite web |last=PERU21 |first=NOTICIAS |date=2017-05-06 |title=Tacna: Del picante a la tacneña al pastel de choclo {{!}} CULTURA |url=https://peru21.pe/cultura/tacna-picante-tacnena-pastel-choclo-75287-noticia/ |access-date=2023-08-08 |website=Peru21 |language=es}}</ref><ref>{{Cite web |last=admin |title=¡Una receta super fácil! / El pastel de choclo, una comida típica salteña que disfruta toda la familia |url=https://www.saltasoy.com.ar/una-receta-super-facil-el-pastel-de-choclo-una-comida-tipica-saltena-que-disfruta-toda-la-familia/ |access-date=2023-08-08 |website=www.saltasoy.com.ar}}</ref>
+
+==Preparation==
+Pastel de choclo is prepared with sweetcorn ground into a paste. It is then seasoned with ground [[Ocimum basilicum|basil]] that is blended into the corn. The mixture is pre-cooked with milk and a little [[lard]] and used as a topping for the filling. The filling, known as "''pino''", contains minced beef cooked with onions, [[paprika]], other spices, and sometimes chicken, is also used as a filling for traditional Chilean [[empanada]]s.<ref>[http://southamericanfood.about.com/od/snacksstreetfood/r/empanadaschile.htm Chilean Empanadas - Empanadas de Pino] {{Webarchive|url=https://web.archive.org/web/20130326110901/http://southamericanfood.about.com/od/snacksstreetfood/r/empanadaschile.htm |date=2013-03-26 }} aboutchile.com Marian Blazes Retrieved March 17, 2013</ref> The ''pino'' is laid in the bottom of the ''paila'' with slices of hard boiled egg, olives and raisins.
+
+==In popular culture==
+The Argentinian poet Florencio Escardó wrote the following ode to pastel de choclo, published in 1876:<ref>Escardó, Florencio "Reseña histórica, estadística y descriptiva con tradiciones orales de las Republicas Argentina y Oriental del Uruguay." La Tribuna, Montevideo, 1876. p. 129.</ref>
+{{quote|
+<poem>{{lang|es|Y ya lo creo!
+¿Habrá cosa mas rica que una [[humita]] en chala?
+¿Qué les parece á ustedes una mazamorra con leche que haya sido traída desde cinco leguas en el tarro, del lechero?
+Y díganme con franqueza, ¿hay cosa mas deliciosa que un pastel de choclo?
+¡Si es cuento largo el enumerar las cosas ricas que se hacen con el maiz!}}</poem>
+
+<poem>And I believe it!
+Is there anything tastier than a humita in a corn husk?
+And what do you all think about a milky pudding which has been brought from five leagues away in the milkman's jug?
+And tell me frankly: is there anything more delicious than a pastel de choclo?
+Enumerating those tasty things made with corn is indeed a long story!</poem>
+}}
+
+==See also==
+{{portal|Food}}
+* [[List of maize dishes]]
+* [[List of porridges]]
+
+==References==
+{{Reflist}}
+
+{{Corn}}
+
+{{DEFAULTSORT:Pastel De Choclo}}
+[[Category:Argentine cuisine]]
+[[Category:Chilean cuisine]]
+[[Category:Latin American cuisine]]
+[[Category:Porridges]]
+[[Category:Maize dishes]]
+[[Category:Pies]]
+[[Category:Peruvian cuisine]]
+[[Category:Paraguayan cuisine]]
+[[Category:Uruguayan cuisine]]
+[[Category:Venezuelan_cuisine]]

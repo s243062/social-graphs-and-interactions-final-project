@@ -1,0 +1,81 @@
+{{Short description|Toasted pasta in tiny balls}}
+{{Infobox food
+| name               = Ptitim
+| image              = Israeli couscous.jpg
+| image_size         = 250px
+| caption            = 
+| alternate_name     = Ben-Gurion rice <br/> Israeli couscous
+| country            = Israel
+| creator            = [[Osem (company)|Osem]]
+| course             = Side dish
+| type               = [[Pasta]]
+| served             = 
+| main_ingredient    = Wheat
+| variations         = 
+| serving_size       = 55 g (1/3 cup)
+| calories           = 200
+| calories_ref       = <ref name="usda-fooddata">USDA FoodData Central:  [https://fdc.nal.usda.gov/food-details/1068523/nutrients ORIGINAL Israeli(PEARL) COUSCOUS, ORIGINAL (Branded, 1068523)]. Access date 2021-01-10. Publish date 2020-08-27</ref>
+| protein            = 6
+| fat                = 0
+| carbohydrate       = 43
+| other              = 
+| no_recipes         = false
+}}
+'''Ptitim''' ({{langx|he|פְּתִיתִים‎}}, {{Transliteration|he|pṯīṯīm}}, {{lit|flakes}}, singular: {{Lang|he|פְּתִית}}, {{Transliteration|he|pṯīṯ}}, {{lit|flake}})<ref>{{cite web |title=Wondering about Israeli Couscous or How to Cook It? |url=https://www.thespruceeats.com/how-to-cook-israeli-couscous-3376841 |website=The Spruce Eats |language=en}}</ref> is a type of toasted grain-shaped pasta. Other names for it include '''Ben-Gurion rice''' (used especially for the original rice-shaped varieties) and '''Israeli couscous''' (used especially for the ball-shaped varieties), both terms hinting at its origins in the rice shortages experienced in 1950s [[Israel]].<ref name="JannaGur">{{cite book |last=Gur |first=Janna |title=The Book of New Israeli Food: A Culinary Journey |publisher=Schocken Books |year=2008 |chapter=Simple Pleasures |page=127 |chapter-url=https://books.google.com/books?id=zkbGpxM6QYgC&pg=PA127 |isbn=978-0805212242}}</ref>
+
+== History ==
+[[File:Ptitim - Ben-Gurion rice (cropped).jpg|thumb|right|Original rice-shaped "Ben-Gurion rice". The front label introduces the history of the product (see [[#History|above]]).]]
+Ptitim was created in 1953,<ref name="msu">{{cite magazine |last=Crum |first=Peggy |date=10 February 2010 |title=Featured Food: Israeli Couscous |url=http://www.health4u.msu.edu/files/recipes/60/newsletter/original/rfhFebruary10.pdf |magazine=Recipe for Health |publisher=Residential and Hospitality Services, [[Michigan State University]] |access-date= 7 April 2017}}</ref> during the [[Austerity in Israel|austerity period in Israel]].<ref name="Encyclopedia">{{cite book |last=Marks |first=Gil |title=Encyclopedia of Jewish Food |publisher=Houghton Mifflin Harcourt |year=2010 |chapter=Couscous |chapter-url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT315 |pages=315–317 |isbn=978-0544186316}}</ref>
+
+Israel's first [[prime minister of Israel|prime minister]], [[David Ben-Gurion]], asked Eugen Proper{{sic|hide=y}}, one of the founders of the [[Osem (company)|Osem]] food company, to devise a wheat-based substitute for rice.<ref name="Haaretz">{{cite news |url=https://www.haaretz.com/ben-gurion-s-rice-1.245490 |author=Doram Gaunt |publisher=[[Haaretz]] |title=Ben-Gurion's Rice |date=9 May 2008}}</ref> The company took up the challenge and developed ptitim, which is made of hard [[wheat flour]] and toasted in an oven. Ptitim was initially produced with a rice-shape, but after its success Osem also began to produce a ball-shaped variety inspired by [[couscous]].<ref name="Forward">{{cite news |last=Martinelli |first=Katherine |date=3 November 2010 |title=Ben Gurion's Rice and a Tale of Israeli Invention |url=http://forward.com/food/132794/ben-gurion-s-rice-and-a-tale-of-israeli-inventio/ |newspaper=[[The Forward]] |department=Food}}</ref>
+
+Consequently, ptitim is sometimes called "Ben-Gurion rice".<ref name="JannaGur" />
+
+==Preparation==
+Ptitim is made by extruding [[dough]] through a round mold, before it is cut and toasted, giving it the uniform natural-grain-like shape<ref name="Forward" /> and its unique nutty flavor.<ref>{{cite book |author=<!--Staff writer(s); no by-line.--> |title=What Good Cooks Know: 20 Years of Test Kitchen Expertise in One Essential Handbook |publisher=America's Test Kitchen |year=2016 |chapter=Stocking Your Fridge and Pantry |chapter-url=https://books.google.com/books?id=fYkmDQAAQBAJ&pg=PA134 |page=134 |isbn=978-1940352664 }}</ref> Unlike common types of [[pasta]] and couscous, ptitim was factory-made from the outset, and therefore is rarely seen home-made from scratch. The store-bought product is easy and quick to prepare.<ref name="Smithsonian">{{cite magazine |last=Callard |first=Abby |date=22 March 2010 |title=Newly Obsessed With Israeli Couscous |url= http://www.smithsonianmag.com/arts-culture/newly-obsessed-with-israeli-couscous-83326812/ |department=Arts & Culture |magazine=[[Smithsonian (magazine)|Smithsonian]] |location=Washington, D.C.}}</ref>
+
+In Israel, ptitim is popular among children, who eat it plain, or mixed with [[fried onion]] and [[tomato paste]].<ref name="Haaretz" /> Ptitim is now produced in ring, star, and heart shapes for added appeal.<ref name="JannaGur" /> Varieties made with [[whole wheat]] and [[spelt]] flour are also available for health-conscious consumers.<ref>{{cite news |url=https://www.jpost.com/Business/BusinessNews/Article.aspx?id=27130 |author=Sharon Wrobel |publisher=[[The Jerusalem Post]] |title=Half of Israeli households buy low-fat products |date=6 July 2006}}</ref><ref name="Haaretz" /> Ptitim has also been popularised in other countries,<ref name="JannaGur" /> and in the [[United States]], it can be found on the menus of contemporary American chefs and in gourmet markets.<ref name="JPOST">{{cite news |url=https://www.jpost.com/LandedPages/PrintArticle.aspx?id=60905 |author=Faye Levy |publisher=The Jerusalem Post |title=Petit ptitim |date=5 October 2007}}</ref>
+
+[[File:Israeli Couscous (140491483).jpeg|thumb|right|Couscous-style ptitim prepared as a dish of the [[Israeli cuisine]]]]
+[[File:Ptitim.jpg|thumb|left|''Ptitim'' in two types: "couscous" (left) and "rice" (right)]]
+Ptitim can be used in many different types of dishes, both hot and cold.<ref name="Smithsonian" /> The grains retain their shape and texture even when reheated, and they do not clump together.<ref name="JPOST" /> Commonly, ptitim is prepared with [[sautéed]] [[onions]] or [[garlic]] (vegetables, meat, chicken or [[sausage]] can also be added). The ptitim grains may be fried for a short time before adding water.<ref name="JannaGur" /> They can also be baked, go in [[soup]], served in a [[pie]], used for [[stuffing]], or made as a [[risotto]].<ref name="Haaretz" /> Ptitim may also be used in other dishes as a substitute for pasta or rice.<ref name="TheHerald">{{cite news|last=Meador|first=David|date=14 October 2015|title=Squash provides fantastic fall flavors|newspaper=[[The Bradenton Herald]]|department=Living, Food & Drink: Cooking with Local Chefs|url=http://www.bradenton.com/living/food-drink/cooking-with-local-chefs/article38928819.html}}</ref> American chef [[Charlie Trotter]] has produced a number of recipes for ptitim-based gourmet dishes,<ref name="Haaretz" /> even as a [[dessert]].<ref name="Forward" />
+
+==Similar products==
+=== European Foods ===
+
+Ptitim is very similar to the German [[farfel]], which was brought by German Jews from Europe beginning in the 1800s, and the two are often substituted for each other.<ref name="The Truth About Israeli Couscous">{{cite web |last1=Koenig |first1=Leah |title=The Truth About Israeli Couscous |url=https://tastecooking.com/truth-israeli-couscous/ |website=Taste Cooking |access-date=4 September 2023}}</ref>
+
+The [[Sardinian people|Sardinian]] [[fregula]] is a hand-rolled, toasted semolina product dating back to the 14th century. Ptitim has a similar nutty flavour to fregula, but is extruded rather than rolled.
+
+Ptitim also resembles some products of the [[pastina]] family, in particular [[acini di pepe]], [[Orzo (pasta)|orzo]] ("risoni") and ''stellini''. However, unlike pastina, the ptitim grains are pre-baked/toasted.<ref name=GourmetSleuth>{{cite web |url=http://www.gourmetsleuth.com/Dictionary/I/Israeli-Couscous-5716.aspx |title=Israeli Couscous |publisher=GourmetSleuth.com |access-date=5 June 2012 |archive-date=26 June 2012 |archive-url=https://web.archive.org/web/20120626120146/http://www.gourmetsleuth.com/Dictionary/I/Israeli-Couscous-5716.aspx |url-status=usurped }}</ref>
+
+=== Southwest Asian and North African Foods ===
+
+''[[Moghrabieh]]'' in [[Jordan]], [[Lebanon]] and [[Syria]] is made from durum wheat semolina, ''[[maftoul]]'' in [[Palestinian cuisine]] is made from bulgur and wheat, and [[Berber cuisine|Amazigh]] [[berkoukes]] (aka ''abazine'', ''aïch'') is semolina-based.<ref name=GourmetSleuth/><ref name="Encyclopedia" />
+
+Berkoukes is documented in North African literature as early as the 12th century, and maftoul and moghrabieh likely date back to the early modern period, when couscous was brought to the Levant from North Africa.
+
+While ptitim is produced by extrusion through a [[Die (manufacturing)|die]] like many pastas,<ref name="The Truth About Israeli Couscous"/> moghrabieh, maftoul and berkoukes are produced by rolling dough between the palms or fingers, or between the hands and a flat surface.<ref name="msu"/> Ptitim is toasted before it is packaged and sold, while moghrabieh, maftoul and berkoukes are sold untoasted, but often toasted during their preparation by the consumer.
+
+==See also==
+{{Portal|Israel|Food}}
+* [[Levantine cuisine]]
+* [[Egg barley|Tarhonya]]
+* [[Orzo]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Israeli couscous}}
+*[https://www.thespruce.com/how-to-cook-israeli-couscous-3376841 How to Cook Israeli Couscous]
+*[http://vegetarian.about.com/od/wholegrainscouscous/tp/Israeli-Couscous-Recipes.htm Israeli Couscous Recipes] {{Webarchive|url=https://web.archive.org/web/20140713150725/http://vegetarian.about.com/od/wholegrainscouscous/tp/Israeli-Couscous-Recipes.htm |date=2014-07-13 }}
+
+{{Israeli cuisine}}
+{{Jewish baked goods}}{{Pasta}}
+
+[[Category:Food and drink introduced in 1953]]
+[[Category:Israeli cuisine]]
+[[Category:Types of pasta]]
+[[Category:Middle Eastern cuisine]]
+[[Category:Israeli inventions]]

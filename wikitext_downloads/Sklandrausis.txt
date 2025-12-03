@@ -1,0 +1,57 @@
+{{Short description|Traditional Latvian dish}}
+{{Infobox food
+| name               = Sklandrausis
+| image              = Suitu sklandrauši.jpg
+| image_size         = 250px
+| caption            = 
+| alternate_name     = žograusis, dižrausis
+| country            = [[Latvia]]
+| region             = [[Courland]]
+| associated_cuisine = [[Latvian cuisine|Latvian]] and [[Livonian cuisine]]
+| creator            = 
+| year               = 16–17th century<ref name="receptes"/>
+| course             = 
+| type               = [[Pie]]
+| served             = 
+| main_ingredient    = [[Rye]] dough, [[potato]] and [[carrot]] paste, [[caraway]]
+| variations         = 
+| calories           = 339
+| calories_ref       =
+| protein            = 9
+| fat                = 11
+| carbohydrate       = 55
+| similar_dish       = [[Karjalanpiirakka]], {{Interlanguage link|Perepechi|udm|Перепеч}}
+| other              = 
+}}
+
+'''Sklandrausis''' ({{plural form}}: '''sklandrauši'''; [[Livonian dialect]]: ''sklandrouš'', from [[Curonian language|Curonian]]: ''sklanda'' – 'fence-post, wattle fence, slope, declivity';<ref name="Strautmanis">{{cite web |first=Andris |last=Strautmanis |title=European Commission designates sklandrausis as traditional speciality |url=https://latviansonline.com/european-commission-designates-sklandrausis-as-traditional-speciality/ |accessdate=13 October 2013 |website=Latvians Online |date=12 March 2018}}</ref> {{langx|liv|sūrkak}}, {{plural form}}: ''sūr kakūd''), '''žograusis''' ({{plural form}}: '''žograuši''') or '''dižrausis''' ({{plural form}}: '''dižrauši''') is a traditional [[Latvian cuisine|Latvian]] dish of [[Livonians|Livonian]] origin. It is a sweet [[pie]], made of [[rye]] dough and filled with [[potato]] and [[carrot]] paste and [[caraway]].<ref name="receptes">{{Cite web |url=https://www.food.com/recipe/sklandrausis-latvian-vegetable-tart-498740 |title=Sklandrausis: Latvian Vegetable Tart |date=4 October 2013 |website=[[Food.com]] |accessdate=12 March 2018}}</ref> 
+
+In 2013, [[European Commission]] designated sklandrausis with a [[Traditional speciality guaranteed]] status.<ref name="Strautmanis"/><ref>{{cite news |title=Economic Diary. Latvian sklandrausis and grey peas under EU protection |url=https://bnn-news.com/economic-diary-latvian-sklandrausis-grey-peas-eu-protection-106337 |accessdate=12 March 2018 |publisher=[[Baltic News Network]] |date=24 November 2013}}</ref> A festival dedicated to sklandrauši has been organized in [[Dundaga]], [[Talsi Municipality]] since 2013.<ref>{{cite news |title=Try Latvian unique 'sklandrausis' in Dundaga on Saturday |url=https://eng.lsm.lv/article/culture/food-drink/22.07.2023-try-latvian-unique-sklandrausis-in-dundaga-on-saturday.a517380/ |accessdate=21 January 2023 |publisher=[[Public Broadcasting of Latvia]] |date=14 January 2023}}</ref>
+
+== Ingredients ==
+The dough of sklandrausis is made from [[rye flour]], butter, and water. The potato filling consists of potatoes, [[sour cream]], egg, butter, and salt. The carrot filling consists of carrots, butter, sour cream, egg, and sugar.
+
+== Preparation ==
+[[File:Preparation of sklandrausis (10890770964).jpg|thumb|left|250px|Preparation of sklandrauši]]
+Traditionally, the dough is cut in {{convert|10-20|cm}} rounds, then the edges of the dough are turned up. The dough is filled with a thin layer of potato filling, topped with a thicker layer of carrot filling, then baked. Sklandrausis is served with [[milk]] and [[honey]] or with ''{{Interlanguage link|skābputra|lv|skābputra}}'' (a fermented milk-and-barley gruel).
+
+== Reception ==
+In 2023, sklandrausis was ranked the 5th worst rated dish on the website [[TasteAtlas]] after dishes such as [[hákarl]], [[Yerushalmi Kugel]], and [[kalvsylta]], making waves in the Latvian media.<ref>{{cite news |author1=Dace Kaukule |author2=Zane Brikmane |title=Is Latvian cuisine really that bad? |url=https://eng.lsm.lv/article/culture/food-drink/14.01.2024-is-latvian-cuisine-really-that-bad.a538808/ |accessdate=21 January 2023 |publisher=[[Public Broadcasting of Latvia]] |date=14 January 2023}}</ref>
+
+== See also ==
+*[[Karjalanpiirakka]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category|Sklandrausis}}
+* [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2012:349:0023:0027:EN:PDF Sklandrausis Traditional Speciality Guaranteed specification] {{in lang|en}}. [[Official Journal of the European Union]]
+
+{{Authority control}}
+
+[[Category:Latvian cuisine]]
+[[Category:Livonians]]
+[[Category:Savoury pies]]
+[[Category:Rye-based dishes]]
+[[Category:Traditional Speciality Guaranteed products from Latvia]]

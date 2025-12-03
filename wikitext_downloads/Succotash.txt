@@ -1,0 +1,84 @@
+{{Short description|Traditional American food}}
+{{Infobox food
+| name = Succotash
+| image = Corn & Beans (15392776377).jpg
+| cookbook      = Succotash
+| caption =
+| image_size = 250px
+| alternate_name = Sohquttahhash
+| country = United States and Canada
+| region = [[New England]]
+| creator = [[Narragansett people|Narragansett]]
+| course = [[Main course]]
+| type = Vegetable dish
+| served = Hot
+| main_ingredient = [[Sweet corn]], [[lima bean]]s, [[butter]], [[Edible salt|salt]], [[tomatoes]], [[bell peppers]], [[black pepper]]
+| variations = Can also be served with [[kidney beans]]
+| calories = 100
+| calories_ref = &nbsp;(approximately)
+| other = 
+| alt = A serving of succotash, prepared with corn, lima beans, and bell peppers.
+}}
+'''Succotash''' is a North American vegetable dish consisting primarily of [[sweet corn]] with [[lima bean]]s or other [[shell bean]]s. The name ''succotash'' is derived from the [[Narragansett language|Narragansett]] word {{Lang|xnt|sahquttahhash}}, which means "broken corn kernels".<ref name="NatickDict">{{cite book | title = Natick Dictionary | last = Trumbull | first = James Hammond | url = https://www.nipmuclanguage.org/uploads/5/0/7/7/50775337/natick_dictionary%5B1%5D.pdf | archive-url = https://web.archive.org/web/20221101171533/https://www.nipmuclanguage.org/uploads/5/0/7/7/50775337/natick_dictionary%5b1%5d.pdf | url-status = usurped | archive-date = November 1, 2022 | publisher = [[Smithsonian Institution]], Bureau of American Ethnology | location = Washington | series = Bulletin 25 | year = 1903 | at = Entry for ''sohquttahham'' (page=152) |quote=v.t. he breaks (it) in small pieces, pounds (it) or beats (it) small. The formative ''tahum'' according to Howse (Cree Gr. 86), 'implies he beats or batters the object, after the manner of the root.' Inan. pl. ''sohquttahhamunash'', they (grains of corn, Is. 28,28) are broken; otherwise ''s?hq-'', ''sukq-''. Adj. and adv. ''sohquttahhae'', pounded; pl. ''sohquttahhash'', whence the adopted name, ''succotash''. Cf. ''pohqunnum''. [Cree ''séekwa-tahúm'', he beats it into smaller pieces.]}}</ref><ref>Trumbull (1903). Entry for ''*msickquatash'' (p. 67; archive p. n194): (Narr.) n.pl. 'boiled corn whole' (i.e. ''mo-soquttahhash'', not broken small or pounded?). See ''soh-quttahham''. When broken, ''soquttahhash'' without the prefix. Hence the common name ''succotash'', improperly applied, however, to the unbroken corn.</ref> Other ingredients may be added, such as onions, potatoes, turnips, tomatoes, bell peppers, [[corned beef]], [[salt pork]], or okra.<ref name="AH">{{cite book | chapter = succotash | title = The American Heritage Dictionary of the English Language | edition = 4 | publisher = Houghton Mifflin Company | year = 2004 | access-date = April 28, 2022 | url = http://dictionary.reference.com/browse/succotash }}</ref><ref name="barrows">{{cite book |last1=Bowles |first1=Ella Shannon |title=Secrets of New England Cooking |date=1947 |publisher=Barrows}}</ref> Combining a [[grain]] with a [[legume]] provides a dish that is high in all [[Essential amino acid|essential]] [[amino acids]].<ref>{{cite web|url=http://www.livestrong.com/article/538851-nutritional-sources-of-essential-amino-acids/|title=Nutritional Sources of Essential Amino Acids|first=Jan|last=Annigan|access-date=April 28, 2022}}</ref><ref>{{cite web|url=http://hyperphysics.phy-astr.gsu.edu/hbase/organic/essam.html|title=Essential Amino Acids|website=hyperphysics.phy-astr.gsu.edu|access-date=April 28, 2022}}</ref>
+
+== History ==
+[[File:Succotash.jpg|thumb|Succotash made with [[kidney beans]], instead of lima beans|left]]
+Succotash has a long history. It is believed to have been an invention of indigenous peoples in what is now known as [[New England]], as corn and beans are two of the "Three Sisters" natives grew together - corn, beans, and squash - which thrived from their symbiotic cultivation.<ref>[https://www.nal.usda.gov/collections/stories/three-sisters#:~:text=By%20the%20time%20Europeans%20reached,squash%20throughout%20of%20the%20field. The Three Sisters of Indigenous American Agriculture], USDA National Agricultural Library</ref>  The practice was taught in the 1600s to early white settlers in the [[Plymouth Colony|Plymouth]] and [[Massachusetts Bay Colony|Massachusetts Bay]] Colonies.
+
+By the 1760s English soldier and explorer [[Jonathan Carver]] indicated succotash was prepared by numerous tribes of midwestern North America:<blockquote>One dish however, which answers nearly the same purpose as bread, is in use among the [[Meskwaki|Ottagaumies]], the [[Sauk people|Saukies]], and the more eastern nations, where Indian corn grows, which is not only much esteemed by them, but it is reckoned extremely palatable by all the Europeans who enter their dominions. This is composed of their unripe corn as before described, and beans in the same state, boiled together with bears flesh, the fat of which moistens the pulse, and renders it beyond comparison delicious. They call this food Succatosh.<ref>[[Jonathan Carver]], ''Travels Through the Interior Parts of North America, in the Years 1766, 1767 and 1768'' ([[John Coakley Lettsom]], ed.), [https://www.gutenberg.org/cache/epub/49753/pg49753-images.html#Page_263 p.263], (3d ed., London, 1781) (retrieved May 5, 2024).</ref></blockquote>British colonists adapted the dish as a [[stew]] in the 17th century. Composed of ingredients unknown in Europe at the time, it gradually became a standard meal in the [[cuisine of New England]]<ref>(Paywall) {{cite news|url=https://www.nytimes.com/2015/08/19/dining/yes-succotash-has-a-luxurious-side.html|title=Yes, Succotash Has a Luxurious Side|work=The New York Times |date=14 August 2015 |access-date=28 April 2022 |last1=Tanis |first1=David }}</ref><ref>{{Cite web|url=https://newengland.com/yankee-magazine/food/succotash-recipe-with-a-history/|title = Succotash: Recipe with a History|date = 28 July 2015|access-date=28 April 2022}}</ref> and is a traditional dish of many [[Thanksgiving (United States)|Thanksgiving]] celebrations in the region,<ref>Morgan, Diane and John Rizzo. ''The Thanksgiving Table: Recipes and Ideas to Create Your Own Holiday Tradition''. Pg. 122.</ref> as well as in [[Pennsylvania]] and other states.
+
+Because of the relatively inexpensive and more readily available ingredients, the dish was popular during the [[Great Depression]] in the [[United States]].{{citation needed|date=May 2022}} It was sometimes cooked in a [[casserole]] form, often with a light pie crust on top as in a traditional [[pot pie]].{{citation needed|date=May 2022}}
+
+After the [[abolition of slavery in the United States]], freed slaves in the [[Southern United States|American South]] returned to [[Africa]] and introduced the dish to the region.{{citation needed|date=May 2025}}
+
+== Preparation ==
+[[File:Succotash SJTaylor 28Aug2020.jpg|A [[wikt:everything but the kitchen sink|"kitchen sink"]] succotash made with [[sweet corn|corn]], [[lima beans]], [[okra]], [[andouille]], [[Shrimp and prawn as food|shrimp]], [[tomato]], [[onion]], [[garlic]], and [[basil]]|thumb|left]]
+
+[[Sweet corn]] (a form of maize), and [[shell bean]], such as [[lima beans|lima]], are the base ingredients. Tomatoes, and peppers (all four mentioned ingredients being [[New World foods]]), are common additions.{{citation needed|date=June 2025}}
+
+[[Catherine Beecher]]'s 19th-century recipe includes beans boiled with corn cobs from which the kernels have been removed. The kernels are added later, after the beans have boiled for several hours. The corn cobs are removed and the finished stew, in proportions of two parts corn to one part beans, is thickened with flour.{{citation needed|date=May 2025}}
+
+[[Henry Ward Beecher]]'s recipe, published in an 1846 issue of ''Western Farmer and Gardner'', adds [[salt pork]], which he said is "an essential part of the affair."<ref>{{cite book |last=Scharnhorst |first=Gary |title=Literary Eats |publisher=McFarland |page=19}}</ref>
+
+In some parts of the [[American South]], any mixture of [[vegetable]]s prepared with lima beans and topped with [[lard]] or [[butter]] is considered succotash.{{citation needed|date=May 2025}}
+
+==In popular culture==
+* [[Sylvester the Cat]]'s trademark exclamation is "Thufferin' thuccotash!" [[Daffy Duck]] has also been known to use the line on occasion.
+* Professional wrestler [[Roman Reigns]] infamously used the phrase "suffering succotash" during a promo on a 2015 episode of [[WWE SmackDown|SmackDown]].<ref>{{Cite AV media |url=https://www.youtube.com/watch?app=desktop&v=yPYLhVvKg6Y&pp=ygUfcm9tYW4gcmVpZ25zIHN1ZmZlcmluIHN1Y2NvdGFzaA%3D%3D |title=Suffering Succotash? #RomanReigns #WTF #SmackDown #2015 |date=2017-08-06 |last=SportsFlicks |access-date=2025-03-26 |via=YouTube}}</ref>
+* The [[Deee-Lite|Deee-Lite]] song "[[Groove Is in the Heart|Groove is in the Heart]]" contains the line "My supper dish, my succotash wish"
+
+==See also==
+{{portal|Food}}
+* ''[[A Key into the Language of America]]''
+* [[List of legume dishes]]
+* [[List of maize dishes]]
+* [[List of regional dishes of the United States]]
+* [[Umngqusho]], a similar dish from Southern Africa
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+* {{cite book | title = The Story of Corn | last = Harper Fussell | first = Betty | publisher = UNM Press | year = 2004 | isbn = 0-8263-3592-6 | pages = 184–185 | url = https://books.google.com/books?id=iAsQ0Pn1_0MC&pg=PA184 }}
+
+== External links ==
+{{commons category|Succotash}}
+{{Wiktionary inline|succotash}}
+
+{{Legume dishes}}
+{{Corn}}
+{{Thanksgiving}}
+
+{{authority control}}
+
+[[Category:Narragansett tribe]]
+[[Category:Native American cuisine]]
+[[Category:Legume dishes]]
+[[Category:Dishes featuring sweet corn]]
+[[Category:National dishes]]
+[[Category:Okra dishes]]
+[[Category:Cuisine of the Thirteen Colonies]]
+[[Category:Vegetarian cuisine]]
+[[Category:Culture of Equatorial Guinea]]
+[[Category:Thanksgiving food]]
+[[Category:American vegetable dishes]]

@@ -1,0 +1,80 @@
+{{Short description|Traditional food of Catalonia}}
+{{Infobox food
+| name               = Pa amb tomaca
+| image              = Pa amb tomaquet.jpg
+| caption            = ''Pa amb tomaca''
+| country            = 
+| region             = [[Valencia]], [[Catalonia]], [[Balearic Islands]], [[Aragon]], [[Roussillon]]
+| creator            = 
+| course             = 
+| type               = Tapas, snack
+| served             = 
+| year               = 1800s
+| main_ingredient    = Bread, tomato, olive oil
+| variations         = 
+| calories           = 
+| other              = 
+}}
+
+'''{{lang|ca|Pa amb tomàquet}}''' ({{IPA|ca|ˈpa m tuˈmakət}}), also known as '''''pa amb tomata'''''<ref name=":0">{{Cite web |date=2023-10-02 |title=Pa amb tomàquet |url=https://www.eltemps.cat/article/21507/pa-amb-tomaquet |access-date=2025-04-17 |website=El Temps |language=Catalan}}</ref> or '''''pa amb tomaca'''''<ref name=":0" /><ref>{{Cite web |title=Diccionari de la llengua catalana |url=https://dlc.iec.cat/Results?DecEntradaText=tomaca&AllInfoMorf=False&OperEntrada=0&OperDef=0&OperEx=0&OperSubEntrada=0&OperAreaTematica=0&InfoMorfType=0&OperCatGram=False&AccentSen=False&CurrentPage=0&refineSearch=0&Actualitzacions=False |access-date=2025-04-17 |website=dlc.iec.cat}}</ref> (all meaning "bread with tomato" in Catalan), is a traditional food of [[Valencian cuisine|Valencian]], [[Catalan cuisine|Catalan]], [[Aragonese cuisine|Aragonese]] and [[Balearic cuisine]]. {{lang|ca|Pa amb tomàquet}} is considered a staple of Catalan cuisine and [[Catalans|identity]].
+
+It consists of [[bread]], which may or may not be toasted, with optional [[garlic]] rubbed over the surface,  seasoned with [[olive oil]] and salt and topped with fresh rubbed-in tomato. It is sometimes used as a vessel for cured ham and other types of cured meats.
+
+It is considered one of the typical examples that define the [[Mediterranean diet]], extended as a traditional recipe throughout the [[Catalan Countries]], and its preparation has become an iconic ritual of Western Mediterranean culture.
+ 
+It is popularly consumed on its own as a snack, as sandwich or a [[tapas|tapa]] with any meal, from breakfast to dinner.<ref>{{cite news|last1=Virbila|first1=S. Irene|title=For tomato season: Catalonia's pa amb tomàquet|url=http://www.latimes.com/food/dailydish/la-dd-for-tomato-season-catalonias-pa-amb-tomaquet-20140707-story.html|access-date=19 April 2017|work=Los Angeles Times|date=17 July 2014}}</ref><ref>{{cite news|title=The sacred principles of "pa amb tomàquet"|url=http://www.barcelonaturisme.com/wv3/en/enjoy/8/the-sacred-principles-of-pa-amb-tomaquet.html|access-date=19 April 2017|publisher=Barcelonaturisme.com|language=en}}</ref>
+
+==Preparation==
+
+[[File:Anxoves i pa amb tomata.jpg|thumb|''Pa amb tomàquet'' with anchovies]]
+
+[[File:Jamon Iberico on Passeig de Gracia Barcelona.jpg|thumb|With [[jamón ibérico]] ]]
+
+In some restaurants, the tomato is spread on the bread, while others provide the guests with the ingredients to do the work themselves.<ref>{{cite news |title=Pa Amb Tomàquet (Catalan Tomato Bread) |url=http://www.foodandwine.com/recipes/catalan-tomato-bread |access-date=9 October 2024 |work=[[Food & Wine]]}}</ref> The dish is served accompanied with any sorts of [[sausage]]s (such as cured [[botifarra|botifarres]], [[chorizo|xoriço]], [[fuet]], [[Jamón ibérico|Iberian ham]], or others), [[ham (meat)|ham]], [[cheese]]s, [[omelette]]s, [[anchovy|anchovies]] or other marinated fish, or grilled vegetables like [[escalivada]].
+
+In [[Majorca]], {{lang|ca|pa amb oli}} ("bread with oil") is prepared with tomato called {{lang|ca|Tomàtiga de Ramellet}}, a specific variety of vine tomatoes, smaller and with a taste that is slightly more intense and sour than normal tomatoes due to the loss of acidity in the tomato.<ref>{{cite news|title=Tomàtiga de Ramellet: The most Mallorcan of tomatoes - INPALMA.COM|url=http://www.inpalma.com/en/blogs/palma-daily/tomatiga-de-ramellet-the-most-mallorcan-of-tomatoes|access-date=19 April 2017|work=Palma Daily|date=10 March 2016|language=en|archive-url=https://web.archive.org/web/20181107010209/http://www.inpalma.com/en/blogs/palma-daily/tomatiga-de-ramellet-the-most-mallorcan-of-tomatoes|archive-date=7 November 2018|url-status=dead}}</ref>
+
+The original base used to be made with toasted slices of {{lang|ca|[[pa de pagès]]}} ("farmer's bread"), a typical round loaf of wheat bread of a fair size (from {{convert|500|to|5000|g|lb|frac=2|abbr=on|disp=or}}, from some {{convert|20|to|50|cm|in|0|disp=or|abbr=on}} in diameter).<ref>{{Cite book |last=Contreras i Hernández |first=Jesús |url=https://agricultura.gencat.cat/web/.content/de_departament/de10_publicacions_dar/de10_a10_llibres_singulars/documents/fitxers_estatics/llibreproductesterra_digitalitzat2021_definitiu.pdf |title=Els productes de la terra |last2=Càceres |first2=Juanjo |last3=Espeitx |first3=Elena |publisher=Generalitat de Catalunya, Departament d'Agricultura, Ramaderia i Pesca |year=2003 |isbn=8439362137 |location=Barcelona |pages=263 |language=ca}}</ref>
+
+If the mixture is not pre-made, there is said to be an ideal order in which the ingredients are integrated to yield the best flavour. First, if used, the garlic is rubbed on the bread.  Then the same is done with the tomato.  Next comes the salt, and lastly the olive oil.{{Cn|date=April 2025}}
+
+==History==
+The origin of this dish is disputed, as tomato is relatively new to Catalan cuisine (it came from America only after the 15th century). Widely regarded as the [[epitome]] of Catalan cuisine and identity, some sources claim it is actually a relatively recent (mid to late 19th century) in all the Mediterranean coast of Spain.{{Cn|date=April 2025}}
+
+Catalan chef [[Josep Lladonosa i Giró]] says it was first documented in the 18th century.<ref name=jlg>''La cuina tradicional catalana a l'abast'', pg. 96, Josep Lladonosa i Giró, 2005, Columna Cuina, {{ISBN|84-664-0666-2}}</ref> The cook, born in 1938, remembers his grandmother explaining that her parents used to eat a dish called {{lang|ca|pa amb tomàquet}}.<ref name=jlg/> With better precision, Catalan cooking historian [[Nèstor Luján]] says that the first written reference is from 1884 and, according to his thesis, the recipe would have been created in the rural world during an abundant tomato harvest. People would have used the tomatoes to soften hard and dry bread.<ref name=jlg/>
+
+The dish shares some similarities with the tomato and olive oil-rubbed ''[[Maltese bread|ħobż biz-Zejt]]'' of [[Malta]], with the ''[[pan-bagnat]]'' of Nice, in the Provence region of France, the tomato-topped version of [[Italian cuisine|Italian]] ''[[bruschetta]]''.{{Cn|date=April 2025}}
+
+==Gallery==
+<gallery mode="packed">
+File:Pa amb tomàquet - 001.jpg|''Pa amb tomàquet''
+File:Pan tumaca cortado.jpg|Tray of ''pa amb tomàquet''
+File:Pa amb tomàquet y paletilla de jamón.jpg|With ham (''pernil'')
+File:Pà amb tomàquet con aceitunas (5945922148).jpg|With olives
+File:Pa amb tomàquet - Anchoas.jpg|With anchovies
+File:Sonsos54.JPG|Fried ''[[sonsos]]'' with ''pa amb tomàquet''
+File:Toastcat viqui.jpg|''Pa amb tomàquet'' packaged kit
+File:Pa amb Tomaquet.jpg|Adding olive oil
+File:Tomato bread catalan - stonesoup.jpg|Squeezed tomato after use
+</gallery>
+
+==See also==
+{{portal|Food}}
+* [[List of bread dishes]]
+* [[List of toast dishes]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{commons category}}
+* [https://flickr.com/groups/pancontomate/ Pa amb tomaquet Group on Flickr]
+* {{cite book|last=Pomés|first=Leopoldo|author-link=Leopoldo Pomés|title=Teoría y práctica del Pa amb tomàquet|publisher=Tusquets Editores|location=Barcelona|year=1994|isbn=978-84-7223-772-8|language=es}}
+
+{{Catalonia topics}}
+{{Tomatoes}}
+
+{{italic title}}
+{{DEFAULTSORT:Pa amb tomaquet}}
+[[Category:Catalan cuisine]]
+[[Category:Toast dishes]]

@@ -1,0 +1,29 @@
+{{Short description|Dish of Tajik cuisine}}
+{{Expand Tajik|date=July 2021}}
+{{Infobox food
+| image              = Kurutob Tajikistan.JPG
+| alt                = Tajik kurutob in a large shallow wooden bowl, surrounded by other, more dumpling-like Tajik dishes.
+| caption            = Kurutob (Qurutob) one of the national meals in Tajikistan
+| name               = Қурутоб
+| name_lang          = tg
+| place_of_origin    = {{flag|Tajikistan}}
+| national_cuisine   = [[Tajik cuisine]]
+| creator            = [[Tajiks]]
+| course             = Main course
+| main_ingredient    = Yogurt, fatir (flatbread), tomato, cucumber, greens, onion
+| minor_ingredient   = [[Linseed oil]], salt
+}}
+[[File:Kurutob eating with hands.jpg|thumb|''Qurutob'' being eaten as part of a meal]]
+'''''Qurutob''''' or '''''kurutob''''' ({{langx|tg|'''Қурутоб'''}}) is a dish of [[Tajik cuisine]]. Sometimes described as a "bread salad",<ref>{{Cite web|url=https://www.internationalcuisine.com/qurutob/|title=Qurutob (Bread Salad)|date=May 27, 2021|website=International Cuisine|accessdate=Jul 10, 2021}}</ref> it is created using ''[[qurut]]'', dried balls of cheese, which are soaked in water; the resulting liquid, salty in flavor, is used as the base of the dish. Strips of ''fatir'', a type of [[flatbread]], are then placed on top. The mixture is served on large plates, and is usually topped with a variety of vegetables, such as onions, cucumbers, tomatoes, or herbs; meat or chili peppers are also sometimes seen as garnishes. ''Qurutob'' is a shared dish, meant to be eaten with the hands.<ref>{{Cite web|url=https://www.vice.com/en/article/i-ate-dinner-in-a-tajik-hellhole/|title=I Ate Dinner in a Tajik Hellhole|website=Vice.com|date=9 September 2014 |access-date=Jul 10, 2021}}</ref><ref>{{Cite web|url=https://www.tasteatlas.com/qurutob|title=Qurutob &#124; Traditional Vegetable Dish From Tajikistan &#124; TasteAtlas|website=www.tasteatlas.com|accessdate=Jul 10, 2021}}</ref>
+
+''Qurutob'' is the [[national dish]] of [[Tajikistan]].<ref>{{Cite web|url=https://foodperestroika.com/2013/10/15/qurutob-tajikistans-national-dish/|title=Qurutob, Tajikistan's National Dish &#124; Food Perestroika|date=Oct 15, 2013|accessdate=Jul 10, 2021}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Tajik cuisine]]
+[[Category:National dishes]]
+[[Category:Bread dishes]]
+
+
+{{Tajikistan-cuisine-stub}}

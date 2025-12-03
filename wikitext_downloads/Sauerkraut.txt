@@ -1,0 +1,338 @@
+{{short description|Finely sliced and fermented cabbage}}
+{{Use American English|date = September 2019}}
+{{Use dmy dates|date=April 2020}}
+
+'''Sauerkraut''' ({{IPAc-en|ˈ|s|aʊ|.|ər|ˌ|k|r|aʊ|t}}; {{IPA|de|ˈzaʊ.ɐˌkʁaʊt|lang|De-sauerkraut.ogg}}, {{lit|sour cabbage}})<ref name="etym">{{OEtymD|sauerkraut |access-date=2018-01-27}}</ref> is finely cut raw [[cabbage]] that has been [[lactic acid fermentation|fermented]] by various [[lactic acid bacteria]].<ref name="farnworth1">{{cite book |title=Handbook of Fermented Functional Foods |last=Farnworth|first=Edward R. |publisher=CRC |year=2003 |isbn=978-0-8493-1372-1 |url=https://books.google.com/books?id=gpcXqE-j6gEC&pg=395| page=395}}</ref><ref name="fao1">{{cite web |title=Fermented Fruits and Vegetables - A Global SO Perspective |publisher=United Nations FAO |year=1998 |url=http://www.fao.org/docrep/x0560e/x0560e10.htm |access-date=2007-06-10}}</ref> It has a long [[shelf life]] and a distinctive [[Sourness|sour]] flavor, both of which result from the [[lactic acid]] formed when the bacteria ferment the sugars in the cabbage leaves.<ref name="GilMarks">{{Cite book|last=Marks|first=Gil|url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT1052|title=Encyclopedia of Jewish Food|date=2010|publisher=Houghton Mifflin Harcourt|isbn=978-0-544-18631-6|page=1052}}</ref>
+
+==Overview and history==
+[[File:Kiszona kapusta.JPG|thumb|left|Polish ''kapusta kiszona'']]
+[[Fermentation|Fermented]] foods have a long history in many cultures. The [[Ancient Rome|Roman]] writers [[Cato the Elder|Cato]] (in his ''[[De agri cultura]]'') and [[Columella]] (in his ''[[Columella#De re Rustica|De re Rustica]]'') mentioned preserving cabbages and [[turnips]] with salt. According to Wilhelm Holzapfel et al., Plinius the Elder, writing in the first century AD, is reputed to have been the first writer to describe the making of sauerkraut by preserving what the Romans called ''salt cabbage'' in earthen vessels.<ref name="Holzapfel2003">{{cite book |last1=Holzapfel |first1=Wilhelm |last2=Schillinger |first2=Ulrich |last3=Buckenhüskes |first3=Herbert |editor1-last=Farnworth |editor1-first=Edward R. |title=Handbook of Fermented Functional Foods |year=2003 |publisher=CRC Press |isbn=978-0-203-00972-7 |page=343 |chapter-url=https://books.google.com/books?id=7LYHFGLJQNQC&pg=PA343 |chapter=Sauerkraut}}</ref> Popular folklore has imagined that sauerkraut was introduced to Europe by the [[Pax Mongolica#Trade network|trade networks formed across Eurasia]] by the [[Golden Horde]]. However, according to Mack and Surina (2005), there is no evidence to support this theory, nor any evidence that fermented cabbage arrived from an East Asian source, and there is evidence of sauerkraut production in Europe dating back to the early period of the [[Western Roman Empire]].<ref name="Return of the Mack">{{cite book |last1=Mack |first1=Glenn Randall |last2=Surina |first2=Asele |title=Food Culture in Russia and Central Asia |date=30 June 2005 |publisher=Bloomsbury Academic |isbn=978-0-313-32773-5 |pages=78–79 |url=https://books.google.com/books?id=j7MTx_zcIR0C&pg=PA78 |language=en}}</ref>
+
+Although ''sauerkraut'' is from a German word (''Sauerkraut''), the dish did not originate in Germany. Some claim cabbage fermentation «''[[Suan cai]]»'' was already practiced in the days of the building of the [[Great Wall of China]].<ref>{{cite web|url=https://www.nytimes.com/1979/11/14/archives/sauerkraut-it-all-began-in-china.html|title=Sauerkraut: It All Began in China|work=[[The New York Times]]|date=November 14, 1979|access-date=December 5, 2020|first= Harry|last=Pincus}}</ref> However, the Romans, as previously noted, pickled forms of cabbage, and were the more likely source of modern-day European sauerkraut.<ref>{{Cite web|url=https://www.gesundheitfermentations.com/fermented-foods-a-short-history|archive-url=https://web.archive.org/web/20220703025204/https://www.gesundheitfermentations.com/fermented-foods-a-short-history|url-status=usurped|archive-date=3 July 2022|title=A "Short" History of Fermentation|website=Gesundheit Fermentations}}</ref> It then took root in [[Central European cuisine|Central]] and [[Eastern European cuisine|Eastern European]] cuisines, but also in other countries including the Netherlands, where it is known as ''zuurkool'', and France, where the name became ''choucroute''.<ref>{{cite web |last=Gazette |first=The |url=http://www.canada.com/montrealgazette/news/travel/story.html?id=944c7e71-11ec-419d-9fb1-50d0c9065e0d |title=Sauerkraut rises above its humble origins |publisher=Canada.com |date=2007-09-22 |access-date=2012-02-09 |url-status=dead |archive-url=https://web.archive.org/web/20120826125523/http://www.canada.com/montrealgazette/news/travel/story.html?id=944c7e71-11ec-419d-9fb1-50d0c9065e0d |archive-date=26 August 2012}}</ref> According to Mack and Surina (2005), the Slavic peoples of Europe likely discovered fermented cabbage on their own.{{sfn|Mack|Surina|2005|p=78}} The English name is borrowed from German where it means "sour cabbage".<ref name="etym" />
+
+The names in Slavic and other [[Central and Eastern Europe]]an languages have similar meanings with the German word: "fermented cabbage" ({{Langx|hy|թթու կաղամբ}}, {{langx|sq|lakër turshi}}, {{langx|az|kələm turşusu}},<ref>{{Cite web|url=http://1001dad.com/k%C9%99l%C9%99m-tursusu/|title=Kələm turşusu|date=11 November 2014|website=1001dad|language=az|archive-url=https://web.archive.org/web/20160414221446/http://1001dad.com/k%C9%99l%C9%99m-tursusu/|archive-date=14 April 2016|url-status=live|access-date=20 April 2019}}</ref> {{langx|be|квашаная капуста}}, {{langx|cs|kysané zelí}}, {{langx|lt|rauginti kopūstai}}, {{langx|pl|kapusta kiszona/ kapusta kwaszona }}, {{langx|ru|квашеная капуста/кислая капуста|kvašenaja kapusta}}, {{langx|tr|lahana turşusu}}, {{langx|ro|varză murată}}, {{langx|fa|kalam torş}}, {{langx|bg|кисело зеле}}, {{langx|et|hapukapsas}}, {{langx|hu|savanyúkáposzta}}, {{langx|lv|skābēti kāposti}}, {{langx|mk|расол / кисела зелка}}, {{lang-sh-Cyrl-Latn|кисели купус / кисело зеље|kiseli kupus / kiselo zelje}}, {{langx|sk|kyslá kapusta}}, {{langx|sl|kislo zelje}}, {{langx|uk|квашена капуста}}, ''kvashena kapusta'').<ref name="EEF">{{cite web |last=Rolek |first=Barbara |date=2010-06-12 |title=Sauerkraut - Sauerkraut Is the Quintessential Eastern European Vegetable - all About Sauerkraut |url=http://easteuropeanfood.about.com/od/vegetables/a/sauerkraut.htm |url-status=dead |archive-url=https://web.archive.org/web/20170116055455/http://easteuropeanfood.about.com/od/vegetables/a/sauerkraut.htm |archive-date=16 January 2017 |access-date=2012-02-09 |website=About Food |publisher=Easteuropeanfood.about.com}}</ref>
+
+Before [[frozen food]]s, refrigeration, and cheap transport from warmer areas became readily available in [[Northern Europe|Northern]], [[Central Europe|Central]], and [[Eastern Europe]], sauerkraut – like other preserved foods – provided a source of certain nutrients (eg, [[vitamin C]]) during the winter. Captain [[James Cook]] always took a store of sauerkraut on his sea voyages, since experience had taught him it prevented [[scurvy]].<ref name="O'Sullivan2008">{{cite book |last1=O'Sullivan |first1=Dan |title=In Search of Captain Cook: Exploring the Man Through His Own Words |year=2008 |publisher=Bloomsbury Publishing |isbn=978-0-85771-350-6 |page=115 |url=https://books.google.com/books?id=y7WKDwAAQBAJ&pg=PA115}}</ref><ref name="Makepeace2018">{{cite web |last1=Makepeace |first1=Margaret |work=British Library Western Heritage Collection |title=Sauerkraut, sugar, and salt pork – the diet on board Cook's 'Resolution' |url=https://blogs.bl.uk/untoldlives/2018/06/sauerkraut-sugar-and-salt-pork-the-diet-on-board-cooks-resolution.html |access-date=20 May 2024 |archive-url=https://web.archive.org/web/20240520214000/https://blogs.bl.uk/untoldlives/2018/06/sauerkraut-sugar-and-salt-pork-the-diet-on-board-cooks-resolution.html |archive-date=20 May 2024 |date=12 June 2018 |url-status=bot: unknown }}</ref>
+
+The word "''[[Kraut]]''", derived from this food, is a derogatory term for the German people.<ref>''[[Oxford English Dictionary]]''. Second edition, 1989. "'''1.''' = SAUERKRAUT, SOURCROUT. Also attrib. and Comb. '''2.''' (Often with capital initial.) A German, esp. a German soldier. Also attrib. and Comb. Derogatory."</ref> During [[World War I]], due to concerns the American public would reject a product with a German name, American sauerkraut makers [[List of politically motivated renamings|relabeled their product]] as "liberty cabbage" for the duration of the war.<ref name="[[New York Times]] Article">{{cite news | url=https://timesmachine.nytimes.com/timesmachine/1918/04/25/96864971.pdf | title=Sauerkraut may be 'Liberty Cabbage' | access-date=2011-01-16 | date=1918-04-25 | work=The New York Times}}</ref>
+
+==Production==
+[[File:Saurkraut (cropped).JPG|thumb|Homemade sauerkraut]]
+Sauerkraut is made by a process of [[pickling]] called [[lactic acid fermentation]], analogous to how traditional (not heat-treated) [[pickled cucumber]]s and [[kimchi]] are made. The cabbage is finely shredded, layered with salt, and left to ferment. Fully cured sauerkraut keeps for several months in an airtight container stored at 15&nbsp;°C (60&nbsp;°F) or below. In temperate climates, this allows storage over the full winter and early-spring. Neither refrigeration nor [[pasteurization]] is required, although these treatments prolong storage life.{{cn|date=October 2024}}
+
+Fermentation by [[Lactobacillus|lactobacilli]] is introduced naturally, as these air-borne bacteria culture on raw cabbage leaves where they grow. Yeasts also are present, and may yield soft sauerkraut of poor flavor when the fermentation temperature is too high. The fermentation process has three phases, collectively sometimes referred to as population dynamics. In the first phase, [[anaerobic organism|anaerobic]] bacteria such as ''[[Klebsiella]]'' and ''[[Enterobacter]]'' lead the fermentation, and begin producing an acidic environment that favors later bacteria. The second phase starts as the acid levels become too high for many bacteria, and ''[[Leuconostoc mesenteroides]]'' and other ''Leuconostoc'' species take dominance. In the third phase, various ''Lactobacillus'' species, including ''[[Lactobacillus brevis|L. brevis]]'' and ''[[Lactobacillus plantarum|L. plantarum]]'', ferment any remaining sugars, further lowering the [[pH]].<ref>The pH of completely cured sauerkraut is about 3.6; see {{cite book |title=Food Chemistry |first1=H.-D. |last1=Belitz |first2=Werner |last2=Grosch |first3=Peter |last3=Schieberle |publisher=Springer |year=2009 |isbn=9783540699330 |page=803 |url=https://books.google.com/books?id=xteiARU46SQC&pg=PA803|edition=4th }}</ref> Properly cured sauerkraut is sufficiently [[acidic]] to prevent a favorable environment for the growth of ''[[Clostridium botulinum]]'', the toxins of which cause [[botulism]].<ref name="farnworth1"/><ref name="fao1"/>
+
+A 2004 [[Genomics|genomic]] study found an unexpectedly large diversity of lactic acid bacteria in sauerkraut, and that previous studies had oversimplified this diversity. ''[[Weissella]]'' was found to be a major organism in the initial, heterofermentative stage, up to day 7. It was also found that ''[[Lactobacillus brevis]]'' and ''[[Pediococcus]] pentosaceus'' had smaller population numbers in the first 14 days than previous studies had reported.<ref>{{cite journal |author=F. BREIDT, JR. |title=A Genomic Study of ''Leuconostoc mesenteroides'' and the Molecular Ecology of Sauerkraut Fermentations |journal=Journal of Food Science |volume=69 |issue=1 |pages=30–33 |year=2004 |url=http://ddr.nal.usda.gov/bitstream/10113/15889/1/IND43655692.pdf |archive-url=https://wayback.archive-it.org/all/20120916131706/http://ddr.nal.usda.gov/bitstream/10113/15889/1/IND43655692.pdf |url-status=dead |archive-date=16 September 2012 |doi=10.1111/j.1365-2621.2004.tb17874.x |access-date=2011-01-19}}</ref>
+
+The Dutch sauerkraut industry found that combining a new batch of sauerkraut with an old batch resulted in an exceedingly sour product. This [[sourdough]] process is known as "backslopping" or "inoculum enrichment"; when used in making sauerkraut, first- and second-stage population dynamics, important to developing flavor, are bypassed. This is due primarily to the greater initial activity of species ''L. plantarum''.<ref>{{cite book
+|title=Applications of biotechnology to traditional fermented foods: report of an ad hoc panel of the Board on Science and Technology for International Development
+|publisher=National Academy Press
+|location=Washington, D.C.
+|year=1992
+|pages=15–45
+|isbn=978-0-309-04685-5
+|url=http://www.nap.edu/openbook.php?record_id=1939&page=15 |access-date=2011-01-19
+|doi=10.17226/1939
+|pmid=25121339
+|author1=National Research Council (US) Panel on the Applications of Biotechnology to Traditional Fermented Foods
+}}</ref>
+
+==Regional varieties==
+[[File:Cavolo salato.jpg|thumb|Eastern European-style sauerkraut pickled with carrots and served as a salad]]
+In [[Armenian cuisine|Armenian]], [[Belarusian cuisine|Belarusian]], [[Estonian cuisine|Estonian]], [[Latvian cuisine|Latvian]], [[Lithuanian cuisine|Lithuanian]], [[Czech cuisine|Czech]], [[Slovak cuisine|Slovak]], [[Polish cuisine|Polish]], [[Russian cuisine|Russian]], and [[Ukrainian cuisine]], chopped cabbage is often pickled together with shredded [[carrot]]s. Other ingredients may include [[caraway]] seeds, whole or quartered [[apple]]s for additional flavor or [[cranberry]] for flavor and better keeping (the [[benzoic acid]] in cranberries is a common preservative). [[Bell pepper]]s and [[beets]] are added in some recipes for color. The resulting sauerkraut salad is typically served cold, as ''[[zakuski]]'' or a side dish.<ref>{{Cite book |last=Villa|first=Susie Hoogasian|title=[[Armenian Village Life Before 1914]]|date=1982|publisher=Wayne State University Press|page=54|quote=Cabbage and mixed vegetable pickles, made in large quantities, and stored in earthenware jars, were very popular. Such pickled foods served alone added variety to the winter diet, and they were also used in preparing other foods.}}</ref>{{cn|date=October 2024}}
+
+A homemade type of very mild sauerkraut is available, where white cabbage is pickled with salt in a refrigerator for only three to seven days. This process results in very little lactic acid production. Sometimes in Russia double fermentation is used, with the initial step producing an exceptionally sour product, which is then "corrected" by adding 30–50% more fresh cabbage and fermenting the mix again. The flavor additives like apples, beets, cranberries, and sometimes even [[watermelon]]s are usually introduced at this step.{{cn|date=October 2024}}
+
+Sauerkraut may be used as a filling for [[Polish cuisine|Polish]] ''[[pierogi]]'', Ukrainian ''[[varenyky]]'', Russian ''[[pirog]]i'' and ''[[pirozhki]]''.<ref>{{Cite web|url=https://www.tastingpoland.com/food/pierogi.html|title=Pierogi - the best guide to the most popular Polish food|website=www.tastingpoland.com}}</ref> Sauerkraut is also the central ingredient in traditional soups, such as ''[[shchi]]'' (a [[national dish]] of Russia), ''[[cabbage soup|kwaśnica]]'' (Poland), ''[[Cabbage soup|kapustnica]]'' ([[Slovak cuisine|Slovakia]]), and ''[[Cabbage soup|zelňačka]]'' ([[Czech cuisine|Czech Republic]] resp. Moravian). It is an ingredient of Polish ''[[bigos]]'' (a hunter's stew).<ref>{{Cite web|title=Bigos (Hunter's Stew)|url=https://www.allrecipes.com/recipe/138131/bigos-hunters-stew/|access-date=2023-01-02|website=Allrecipes|language=en}}</ref>
+
+In [[German cuisine|Germany]] and [[Austrian cuisine|Austria]], cooked sauerkraut is often flavored with [[Juniper berry|juniper berries]]<ref>{{Cite book|last=Sheraton|first=Mimi|url=https://books.google.com/books?id=afjItI5Q9JMC&pg=PT435|title=The German Cookbook: A Complete Guide to Mastering Authentic German Cooking|date=2010|publisher=Random House 
+|isbn=978-0-307-75457-8|page=435}}</ref> or [[caraway]] seeds; apples and white wine are added in popular variations. In [[South Tyrol]], it is made with juniper berries, [[extra-virgin olive oil]] and smoked [[pancetta]]. Traditionally it is served warm, with pork (e.g. ''[[eisbein]]'', ''[[schweinshaxe]]'', ''[[Kassler]]'') or [[sausage]]s (smoked or fried sausages, ''[[Frankfurter Würstchen]]'', [[Vienna sausage]]s, [[black pudding]]), accompanied typically by roasted or steamed potatoes or dumplings (''[[knödel]]'' or ''[[schupfnudel]]'').<ref>{{cite web|url=http://www.goethe.de/ins/gb/lp/prj/mtg/typ/sau/en5653632.htm |title=Meet the Germans – Typically German - The Germans and ... - Sauerkraut - Goethe-Institut |publisher=Goethe.de |access-date=2013-04-13}}</ref> Similar recipes are common in other Central European cuisines. The [[Czech cuisine|Czech]] [[national dish]] ''vepřo knedlo zelo'' consists of roast pork with ''[[Knödel|knedliky]]'' and sauerkraut.
+
+In Bulgaria, Montenegro, Serbia, Bosnia, Croatia, North Macedonia and Slovenia, usually the [[Whole sour cabbage|whole cabbage heads are pickled]]. Such produce is used for many dishes, from a simple salad made of chopped cabbage and sprinkled with paprika, to cabbage rolls. In Bulgarian cuisine sauerkraut is known as кисело зеле, and many traditional Bulgarian dishes are made with sauerkraut, like свинско със зеле (pork with sauerkraut), сарми (cabbage rolls), зелник (Bulgarian banitsa with sauerkraut), капама (sausage and meat with cabbage rolls and sauerkraut in clay pot), боб със зеле (beans with sauerkraut) and салата от кисело зеле с червен пипер (sauerkraut salad with paprika).  In northern parts of Serbia and Croatia, it is often added to bean soup. In central Serbia, a local specialty called "[[wedding cabbage]]" is made by slowly stewing roughly cut cabbage with at least three kinds of meats, lean, fatty, and smoked.
+
+In [[Székely Land|Szeklerland]] it is an essential part of ''székelygulyás'' and the ''erdélyi rakott káposzta'' (a type of casserole).
+
+In [[Romania]], the local type of sauerkraut ("[https://ziarulunirea.ro/varza-murata-sursa-de-probiotice-si-singurul-aliment-vegetal-care-contine-vitamina-b12-611179/ varza murata]", whole pickled cabbage heads) are used as wrap for the national dish called "[[sarmale]]", a Turkish-inspired roll, made of pickled cabbage leaves with minced pork and rice, having its own personality and very distinct in taste from its Ottoman predecessor.{{cn|date=October 2024}}
+
+In [[France]], sauerkraut is the main ingredient of the [[Alsatian cuisine|Alsatian]] meal ''[[choucroute garnie]]'' ([[French language|French]] for 'dressed sauerkraut'), sauerkraut with sausages (Strasbourg sausages, smoked [[Morteau Sausage|Morteau]] or [[Montbéliard]] sausages), [[charcuterie]] (bacon, ham, etc.), and often [[potato]]es.{{cn|date=October 2024}}
+
+In [[Chile]] it is called ''chucrut'' and is a common topping for sandwiches and hotdogs, especially for [[completo]]s.{{cn|date=October 2024}}
+
+Sauerkraut, along with [[pork]], is eaten traditionally in [[Pennsylvania]] on New Year's Day. The tradition, started by the [[Pennsylvania Dutch]], is thought to bring good luck for the upcoming year.<ref>{{cite news |last=Gish |first=Jennifer |date=2009-12-31 |title=Sauerkraut on New Year's a Pennsylvania tradition |url=http://www.timesunion.com/living/article/Sauerkraut-on-New-Year-s-a-Pennsylvania-tradition-561496.php |access-date=2013-01-01 |newspaper=Times Union |publisher=TimesUnion.com}}</ref> Sauerkraut is also used in [[Cuisine of the United States|American cuisine]] as a [[condiment]] upon various foods, such as sandwiches and hot dogs.<ref name="GilMarks" /><ref>{{Cite book|url=https://books.google.com/books?id=18mZEM-MVDUC&pg=PA94|title=Allergy Cuisine: Step by Step|first=Sylvia|last=Ross|date=24 April 2001|publisher=iUniverse|isbn=9780595180806|via=Google Books}}</ref> In [[Maryland]], particularly in [[Baltimore]] and on the Eastern Shore, sauerkraut is a traditional accompaniment for the Thanksgiving turkey.<ref>{{Cite web|url=https://www.baltimoresun.com/food-drink/bs-md-sauerkraut-and-turkey-20131125-story.html|title=Sauerkraut and turkey: an essential Baltimore Thanksgiving|first=Jonathan|last=Pitts|website=The Baltimore Sun|date=25 November 2013 }}</ref>
+
+As Europeans, especially Germans, emigrated to other countries, many of them continued making and eating sauerkraut around the world.<ref>Heuzenroeder, Angela May. ''A food culture transplanted: origins and development of the food of early German immigrants to the Barossa Region, South Australia (1839-1939)''.  PhD dissertation., 2006.</ref>
+
+It is also popular among [[Ashkenazi Jews]].<ref>{{cite book|last1=Marks |first1=Gil |url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT1651|title=Encyclopedia of Jewish Food |date=17 November 2010 |isbn=978-0-544-18631-6 }}</ref>
+<gallery>
+File:Sauerkraut 2.jpg|Cooked sauerkraut
+File:Zuurkool in pan.jpg|Dutch ''zuurkool[[stamppot]]'' includes sauerkraut mashed with potatoes and is traditionally served with [[rookworst]].
+File:08023 dumplings stuffed with sauerkraut.JPG|''[[Pierogi]]'' with sauerkraut
+File:Cabbage Soup Kapuśniak 01.JPG|''[[Cabbage soup|Kapuśniak]]'' made with sauerkraut
+File:Czech sausages and sauerkraut at restaurant Poseidon, Helsinki (bright).jpg|Central European-style sauerkraut and sausages is a popular snack dish in pubs.
+File:VeproKnedloZelo-00.jpg|Czech ''Vepřo-knedlo-zelo''
+File:Eisbein-2.jpg|Pickled ''[[Eisbein]]'' served with sauerkraut
+File:Choucroute-p1030190.jpg|Alsatian ''[[Choucroute garnie]]'' 
+</gallery>
+
+==Health effects==
+
+===Benefits===
+{{nutritionalvalue |name= Sauerkraut, canned, solids and liquids |water=92 g |kJ=78 |protein=0.9 g |fat=0.14 g |carbs=4.3 g |fiber=2.9 g |sugars= 1.8 g |iron_mg=1.5 |sodium_mg=661 |vitC_mg=15|vitB6_mg=0.13 |vitK_ug=13  |source_usda=1}}
+
+Many health benefits have been claimed for sauerkraut:
+
+* It is a high source of vitamins [[Vitamin K|K]] and (if uncooked) [[Vitamin C|C]];<ref name="nutritiondb">{{cite web|url=http://nutritiondata.self.com/facts/vegetables-and-vegetable-products/2614/2|title=Nutrition Facts|access-date=11 June 2015}}</ref> the fermentation process increases the [[bioavailability]] of nutrients rendering sauerkraut even more nutritious than the original cabbage.<ref name=lipski1/> It is also low in [[food energy]] and high in [[calcium]] and [[magnesium]], and it is a very good source of [[dietary fiber]], [[folate]], [[iron]], [[potassium]], [[copper]] and [[manganese]].<ref name="nutritiondb"/>
+* If [[unpasteurized]] and uncooked, sauerkraut also contains live [[Lactobacillus|lactobacilli]] and beneficial microbes and is rich in [[enzyme]]s. Fiber and [[probiotics]] improve digestion and promote the growth of healthy bowel flora, protecting against many diseases of the digestive tract.<ref name=lipski1>{{cite book|last1=Lipski
+|first1=Elizabeth
+|author-link1=Elizabeth Lipski
+|title=Digestion Connection: The Simple, Natural Plan to Combat Diabetes, Heart Disease, Osteoporosis, Arthritis, Acid Reflux--And More!
+|year=2013
+|publisher=Rodale
+|isbn= 978-1609619459
+|page=63
+|chapter=6
+}}</ref><ref name=healthbank1>{{cite web|url=http://thehealthbank.co.uk/fancy-some-sauerkraut/|title=Fancy Some Sauerkraut?|author=Martina Watts|work=TheHealthBank|date=28 December 2011 |access-date=11 June 2015}}</ref>
+
+* During the [[American Civil War]], the physician [[John Jay Terrell]] (1829–1922)<ref>{{cite journal | last1 = Haggard | first1 = Robert F | year = 1998 | title = Samuel Miller and the Founding of the Miller School of Albemarle | journal = The Magazine of Albemarle County History | volume = 56 | issue = 53–76| page = 62 }}</ref> was able to successfully reduce the death rate from disease among prisoners of war; he attributed this to feeding his patients raw sauerkraut.<ref>Ward, Jessica B. 2004. ''Food to Die for: A Book of Funeral Food, Tips and Tales from the Old City Cemetery, Lynchburg, Virginia.'' Lynchburg, VA: Southern Memorial Association, pp. 149–150.</ref>
+* Sauerkraut and its juice is a time-honored [[folk remedy]] for [[Aphthous stomatitis|canker sores]]. The treatment is to rinse the mouth with sauerkraut juice for about 30 seconds several times a day, or place a wad of sauerkraut against the affected area for a minute or so before chewing and swallowing the sauerkraut.<ref name=latimes1>{{cite web|url=https://www.latimes.com/archives/la-xpm-2010-feb-15-la-he-pharmacy15-2010feb15-story.html |title=Sauerkraut as a remedy for canker sores|website=Los Angeles Times|date=2010-02-15 |access-date=2013-04-15}}</ref>
+* In 2002, the ''Journal of Agriculture and Food Chemistry'' <!--23 October 2002 issue--> reported that Finnish researchers found the [[isothiocyanates]] produced in sauerkraut fermentation inhibit the growth of [[cancer cell]]s in test tube and animal studies.<ref>{{cite web|title=Sauerkraut contains anticancer compound|url=http://www.eurekalert.org/pub_releases/2002-10/acs-sca101702.php|author=EurekAlert|year=2002}}</ref> A Polish study in 2010 concluded that "[[Enzyme induction and inhibition|induction]] of the key detoxifying enzymes by cabbage juices, particularly sauerkraut, may be responsible for their chemopreventive activity demonstrated by epidemiological studies and in animal models".<ref>{{cite journal|title= Modulation of rat hepatic and kidney phase II enzymes by cabbage juices: comparison with the effects of indole-3-carbinol and phenethyl isothiocyanate|date=2013-03-25 |pmid=21092375 | doi=10.1017/S0007114510004526 |volume=105 |issue=6 |journal=Br J Nutr |pages=816–26 | last1 = Krajka-Kuźniak | first1 = V | last2 = Szaefer | first2 = H | last3 = Bartoszek | first3 = A | last4 = Baer-Dubowska | first4 = W| doi-access= free }}</ref><ref>{{cite journal
+  | last1 = Moret
+  | first1 = Sabrina
+  | title = A survey on free biogenic amine content of fresh and preserved vegetables
+  | journal =  Food Chemistry
+  | volume = 89
+  | issue = 3
+  | pages = 355–361
+  | year = 2005
+  | doi = 10.1016/j.foodchem.2004.02.050
+  | last2 = Smela
+  | first2 = Dana
+  | last3 = Populin
+  | first3 = Tiziana
+  | last4 = Conte
+  | first4 = Lanfranco S. |display-authors=etal}}</ref><ref name=rdve>{{cite journal
+  | last1 = Pu
+  | first1 = C.
+  | title = Research on the dynamic variation and elimination of nitrite content in sauerkraut during pickling
+  | journal =  Wei Sheng Yan Jiu
+  | volume = 30
+  | issue = 6
+  | pages = 352–4
+  |date=November 2001 |pmid=12561618
+  | last2 = Xia
+  | first2 = C
+  | last3 = Xie
+  | first3 = C
+  | last4 = Li
+  | first4 = K
+|display-authors=etal}}</ref><ref name=hfdt>{{cite journal
+  | last1 = Wantke
+  | first1 = F.
+  | title = Histamine-free diet: treatment of choice for histamine-induced food intolerance and supporting treatment for chronic headaches
+  | journal =  Clinical & Experimental Allergy
+  | volume = 23
+  | issue = 12
+  | pages = 982–5
+  |date=December 1993 |pmid=10779289
+  | doi = 10.1111/j.1365-2222.1993.tb00287.x
+  | last2 = Götz
+  | first2 = M
+  | last3 = Jarisch
+  | first3 = R
+| s2cid = 7782951
+ |display-authors=etal}}</ref><ref name=denn>{{cite journal
+  | title = Dietary exposure to nitrite and nitrosamines and risk of nasopharyngeal carcinoma in Taiwan
+  | journal =  International Journal of Cancer
+  | volume = 86
+  | issue = 5
+  | pages = 603–9
+  |date=June 2000 |pmid=10797279
+  | url = http://www3.interscience.wiley.com/cgi-bin/abstract/72001571/ABSTRACT
+  | archive-url = https://archive.today/20121216141918/http://www3.interscience.wiley.com/cgi-bin/abstract/72001571/ABSTRACT
+  | url-status = dead
+  | archive-date = 2012-12-16
+  | doi = 10.1002/(SICI)1097-0215(20000601)86:5<603::AID-IJC1>3.0.CO;2-H
+  | last1 = Ward
+  | first1 = Mary H. 
+  | last2 = Pan
+  | first2 = W–H 
+  | last3 = Cheng
+  | first3 = Y-J
+  | last4 = Li
+  | first4 = F–H 
+  | last5 = Brinton
+  | first5 = LA
+  | last6 = Chen
+  | first6 = C-J
+  | last7 = Hsu
+  | first7 = M-M
+  | last8 = Chen
+  | first8 = I–H 
+  | last9 = Levine
+  | first9 = PH
+  | last10 = Yang
+  | first10 = C-S
+  | last11 = Hildesheim
+  | first11 = A
+  | s2cid = 30048800
+ | display-authors=1
+| url-access = subscription
+  }}</ref><ref name=eenc>{{cite journal
+  | last = Chang
+  | first = Ellen T.
+  |author2=Hans-Olov Adami
+   | title = The Enigmatic Epidemiology of Nasopharyngeal Carcinoma
+  | journal =  Cancer Epidemiology, Biomarkers & Prevention
+  | volume = 15
+  | issue =10
+  | pages = 1765–77
+  |date=October 2006 |pmid=17035381 |doi=10.1158/1055-9965.EPI-06-0353
+| doi-access =free
+}}</ref><ref name=abdec>{{cite journal
+  | last1 = Hung
+  | first1 = Hsin-chia
+  | title = Association between diet and esophageal cancer in Taiwan
+  | journal =  Journal of Gastroenterology and Hepatology
+  | volume = 19
+  | issue = 6
+  | pages = 632–7
+  |date=June 2004 |pmid=15151616
+  | doi = 10.1111/j.1440-1746.2004.03346.x
+  | last2 = Huang
+  | first2 = MC
+  | last3 = Lee
+  | first3 = JM
+  | last4 = Wu
+  | first4 = DC
+  | last5 = Hsu
+  | first5 = HK
+  | last6 = Wu
+  | first6 = MT
+| s2cid = 25013053
+ |display-authors=etal}}</ref><ref name=ecka>{{cite journal
+  | last = Siddiqi
+  | first = Maqsood
+  |author2=R. Preussmann
+   | title = Esophageal cancer in Kashmir – an assessment
+  | journal =  Journal of Cancer Research and Clinical Oncology
+  | volume = 115
+  | issue = 2
+  | pages = 111–7
+  | year = 1989 |pmid=2715165
+  | doi = 10.1007/BF00397910
+  | pmc = 12211663
+ | s2cid = 19673521
+ }}</ref>
+* Sauerkraut was one of the foods taken by English explorer James Cook on his first and second pacific voyages as a way to prevent scurvy.<ref>{{Cite web |title=A "Short" History of Fermentation |url=https://www.gesundheitfermentations.com/fermented-foods-a-short-history#:~:text=The%20fermentation%20of%20milk%20started,in%20Sweden,%20around%207,000%20B.C.&text=All%20of%20us%20drink%20or%20consume%20fermented%20products. |archive-url=https://web.archive.org/web/20220703025204/https://www.gesundheitfermentations.com/fermented-foods-a-short-history#:~:text=The%20fermentation%20of%20milk%20started,in%20Sweden,%20around%207,000%20B.C.&text=All%20of%20us%20drink%20or%20consume%20fermented%20products. |url-status=usurped |archive-date=3 July 2022 |access-date=2024-12-04 |website=Sauerpower |language=en}}</ref>
+* [[Romani people]] consider it a lucky food.<ref>{{cite web|url=https://www.pastemagazine.com/food/i-am-the-first-generation|title=Romani Cuisine and Cultural Persistence}}</ref>
+
+===Disadvantages===
+
+Excessive consumption of sauerkraut may lead to [[bloating]] and [[flatulence]] due to the [[trisaccharide]] [[raffinose]], which the human [[small intestine]] cannot break down. This does not negatively affect long-term health, although it might be uncomfortable.<ref name="St. John2011">{{cite web|last=St. John |first=Tina|url=http://www.livestrong.com/article/463167-can-you-eat-too-much-sauerkraut/|title=Can You Eat Too Much Sauerkraut?|publisher=Livestrong.com |date=5 June 2011 |access-date=24 June 2013}}</ref> Additionally, sauerkraut has a very high [[Salt|sodium]] content.<ref>{{Cite web |last=Busch |first=Sandi |title=Sauerkraut & Sodium |url=https://www.livestrong.com/article/519491-sauerkraut-sodium/ |access-date=2021-03-15 |website=LIVESTRONG.COM |language=en}}</ref>
+
+==Similar foods==
+Many other vegetables are preserved by a similar fermentation pickling process:
+{{div col|colwidth=22em}}
+* ''[[Achaar]]'' in India, Bangladesh, Nepal, and Pakistan
+* ''[[Atsara]]'' in the Philippines
+* ''[[Brovada]]'' in Friuli, northern Italy
+* ''[[Curtido]]'' in El Salvador
+* [[Dill pickles]] in eastern and central Europe
+* ''[[Encurtido]]'' in Central America
+* ''[[Kimchi]]'' in Korea
+* [[Silage]], a feed for cattle
+* ''[[Suan cai]]'' in northeastern China
+* ''[[Tsukemono]]'' in Japan
+* ''[[Kabichima]]'' in The Caribbean 
+* [[Whole sour cabbage|Kiseli kupus]] in Bosnia, Serbia, Croatia, and Bulgaria
+{{div col end}}
+
+==See also==
+{{Portal|Food}}
+* [[Baiuvarii]]
+* [[Coleslaw]]
+* {{annotated link|Tyramine#Occurrence|Foods containing tyramine}}
+* {{annotated link|List of ancient dishes|List of ancient dishes and foods}}
+* {{annotated link|List of cabbage dishes}}
+* {{annotated link|List of fermented foods}}
+* [[Sauerkraut missions]]
+* {{annotated link|Suan cai}}
+* {{annotated link|Whole sour cabbage}}
+* [[Politically motivated food name changes]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* ''USDA Canning guides'', Volume 7
+* {{cite web
+ | title = rec.foods.preserving FAQ
+ | url = http://rfpfaq.jaclu.com/rfpFAQ.htm
+ | access-date = 2006-04-23
+}}
+* {{Cite book
+ | title = Keeping Food Fresh: Old World Techniques & Recipes
+ | last = Aubert
+ | first = Claude
+ | publisher = Chelsea Green Publishing Company
+ | year = 1999
+ | isbn=978-1-890132-10-1
+}}
+* {{Cite book
+ | title = Nourishing Traditions...[westonaprice.org; newtrendspublishing.com]
+ | last = Fallon
+ | first = Sally
+ | author2 = Enig, Mary G.
+ | publisher = New Trends Publishing
+ | year = 2001
+ | isbn=978-0-9670897-3-7
+ }}
+* {{Cite book
+ | title = Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods
+ | last = Katz
+ | first = Sandor Ellix
+ | publisher = Chelsea Green Publishing Company
+ | year = 2003
+ | isbn=978-1-931498-23-4
+ | url = http://www.wildfermentation.com/
+ | access-date = 2006-04-23
+}}
+* {{Cite book
+ |title       = Making Sauerkraut and Pickled Vegetables at Home
+ |last        = Kaufmann
+ |first       = Klaus
+ |publisher   = Book Publishing Company
+ |year        = 2001
+ |isbn        = 978-1-55312-037-7
+ |url         = http://www.cc6582.hostcentric.com/public_html/bpc/products/making-sauerkraut
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20090628082757/http://www.cc6582.hostcentric.com/public_html/bpc/products/making-sauerkraut
+ |archive-date = 28 June 2009}}
+
+==External links==
+{{Cookbook|Sauerkraut}}
+{{Wiktionary}}
+{{Commons category|Sauerkraut}}
+* [https://www.jlindquist.com/generalmicro/324sauerkraut.html Laboratory Exercise in Sauerkraut Fermentation]
+* [http://www.ajcn.org/cgi/content/full/73/2/380S/F2 Fermenting food since before H. sapiens appeared.] ''[[The American Journal of Clinical Nutrition]]''
+* [http://rbth.com/multimedia/video/2014/11/12/delicious_tv_crunchy_pickled_cabbage_41345.html Crunchy pickled cabbage: video-tutorial]
+* [https://scottyskraut.com/2021/01/gardening-and-fermentation/ Fermentation Tips for Beginners]
+* {{usurped|1=[https://web.archive.org/web/20240110042313/https://healthyguruz.com/best-time-to-eat-sauerkraut-for-gut-health/ Sauerkraut for Gut Health]}}
+{{condiments}}
+{{Authority control}}
+
+[[Category:Ancient dishes]]
+[[Category:Cabbage dishes]]
+[[Category:Condiments]]
+[[Category:German cuisine]]
+[[Category:Austrian cuisine]]
+[[Category:National dishes]]
+[[Category:Cuisine of Baltimore]]
+[[Category:Pickles]]
+[[Category:Plant-based fermented foods]]
+[[Category:Sour foods]]
+[[Category:Vegan cuisine]]
+[[Category:German-American cuisine]]
+[[Category:Romani cuisine]]
+[[Category:Polish cuisine]]
+[[Category:Ashkenazi Jewish cuisine]]

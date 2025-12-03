@@ -1,0 +1,54 @@
+{{short description|Galician octopus dish}}
+{{refimprove |date=July 2015}}
+{{Use dmy dates|date=July 2024}}
+{{Infobox food
+| name            = Polbo á feira
+| image           = File:Polbo a feira.jpg
+| caption         =
+| alternate_name  = Pulpo a la gallega
+| country         = [[Spain]]
+| region          = [[Galicia (Spain)|Galicia]]
+| course          = [[Main course|Main dish]]
+| served          = Hot
+| main_ingredient = [[Common octopus]], [[olive oil]], salt, mild and hot [[paprika]]
+}}
+
+[[File:Pota de Polbo a feira.jpg|thumb|right|Polbo á feira]]
+[[File:Polboafeira.jpg|thumb|right|''Polbo á feira'' with bread and wine]]
+'''''Polbo á feira''''' (literally meaning "[[fair]]-style [[octopus]]", ''pulpo a la gallega'' in Spanish, meaning Galician-style octopus)', is a traditional [[Galician people|Galician]] [[Galician cuisine|dish]].
+
+The provinces of [[Ourense]] and [[Lugo]] have a reputation for good octopus cooking.{{Citation needed|date=July 2022}} Fair-style octopus is the totemic food of the patron saint festivities of Lugo (San Froilán). Some Galician cooks specialize in this dish. They are usually women, known as ''polbeiras''.<ref name="DRAG">{{Cite web|url=https://academia.gal/dicionario/-/termo/polbeira|title=Dicionario}}</ref> After the modern decline of traditional rural fairs, many ''polbeiras'' (octopus restaurants)<ref name="DRAG" /> have sprouted across Galicia. They tend to be rustic eateries rather than fancy restaurants.
+
+== Origins ==
+Its name is due to being traditionally prepared and eaten at rural fairs and ''[[Romería|romerías]].'' It was a very common dish at a time when slow means of transportation made fresh seafood only available near the coast, which meant inland towns had to make do with [[stockfish]] (mainly [[Atlantic cod|cod]], [[European conger|conger]] and octopus).
+
+== Preparation ==
+This dish is prepared by first boiling the octopus inside a copper [[cauldron]]. Before boiling it, the octopus' tentacles are dipped in and out of the boiling water three times, while being held by its head—this is meant to curl the tips of the tentacles. The tentacles are preferred over the head, which sometimes is discarded. After the octopus has been boiled, it is trimmed with scissors, sprinkled with coarse salt and both sweet and spicy paprika (known in Galicia as ''pemento'' and ''pemento picante'') and drizzled with olive oil. The optimal cooking point is reached when the octopus is not rubbery but not overcooked, similarly to the ''[[al dente]]'' concept when cooking [[pasta]]. This is after a 20–45 minutes boil (approximately 15 min/kg octopus), provided the octopus is left to rest for a further 20 minutes inside the boiled water away from the fire.
+
+In the last decades, frozen octopus has replaced dried octopus. Fresh octopus is not so frequently used nowadays either, as it is necessary to pound it heavily before cooking to avoid the meat becoming rubbery.{{Citation needed|date=June 2023}} This procedure can be skipped because freezing, unlike other seafood, does not alter the [[organoleptic]] properties of octopus.{{Citation needed|date=June 2023}}
+
+The dish is traditionally served on wooden plates with bread. Tradition dictates that water should not be drunk when eating octopus, so the dish is usually accompanied with young Galician [[red wine]].
+
+== See also ==
+{{portal|Food}}
+* [[List of seafood dishes]]
+
+== References ==
+<references />
+
+== External links ==
+* [http://claydouglass.wordpress.com/2010/01/19/clay-douglass-and-his-6th-cooking-secret-galician-octopus/ Galician Octopus Recipe by Clay Douglass]
+
+{{Galician cuisine}}
+{{Edible molluscs}}
+
+{{DEFAULTSORT:Polbo A Feira}}
+[[Category:Galician cuisine]]
+[[Category:Octopus dishes]]
+[[Category:National dishes]]
+[[Category:Tapas]]
+
+
+
+{{galicia-stub}}
+{{spain-cuisine-stub}}

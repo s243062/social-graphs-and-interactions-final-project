@@ -1,0 +1,56 @@
+{{Short description|West African dish}}
+{{Infobox food
+| name             = Riz gras
+| image            = Plat de riz au gras plus viande.jpg
+| caption          = A serving of riz gras in [[Côte d'Ivoire]]
+| alternate_name   = ''Riz au gras''
+| country          = [[Burkina Faso]], [[West Africa]]
+| type             = 
+| course           = 
+| served           = Hot
+| main_ingredient  = [[Rice]], [[meat]], [[vegetables]]
+| variations       = 
+| calories         =
+| similar_dish     = [[Ceebu jën]], [[Jollof rice]]
+| other           = 
+}}
+
+'''Riz gras''' or '''riz au gras''' is a rice-based dish in [[Beninese cuisine|Beninese]], [[Burkinabé cuisine|Burkinabé]], [[Guinean cuisine|Guinean]], [[Ivorian cuisine|Ivorian]], and [[Togolese cuisine]]s, in [[West African cuisine|West Africa]].<ref name="Albala 2011"/><ref name="Auzias Labourdette 2013"/> It is also prepared in other African countries, such as Senegal, where it is called ''[[tiebou djen]]'' and is prepared with significant amounts of fish and meat.<ref name="Trillo 2008"/><ref name="Albala 2011"/> This dish can be considered a variation of what is known as [[jollof rice]] in [[English-speaking world|English-speaking]] West Africa.
+
+Riz gras is often served at parties in urban areas of Burkina Faso.<ref name="Albala 2011"/> Riz gras is prepared with significant amounts of meat and vegetables, and is usually served with the meat and chunks of vegetables presented atop the rice.<ref name="Albala 2011"/> Additional ingredients used include tomatoes, eggplant, bell peppers, carrots, cabbage, onion, garlic, meat or vegetable [[stock (food)|stock]], oil and salt.<ref name="Albala 2011"/>
+
+==Gallery==
+<gallery class="center" caption="" widths="200px" heights="150px">
+File:Riz gras au legumes.JPG|Riz gras
+File:Riz gras rouge à la viande de boeuf.JPG|Riz gras with beef
+File:Tchep au curi.JPG|Riz gras with chicken and vegetables
+File:Du riz gras à la guineenne.JPG|Riz gras in [[Guinea]]
+</gallery>
+
+==See also==
+* [[List of rice dishes]]
+* [[Sindhi biryani]]
+* [[Burkinabe cuisine]]
+* [[Ceebu jën]]
+
+==References==
+{{reflist|refs=
+<ref name="Albala 2011">{{cite book | last=Albala | first=K. | title=Food Cultures of the World Encyclopedia &#91;4 volumes&#93;: &#91;Four Volumes&#93; | publisher=ABC-CLIO | year=2011 | isbn=978-0-313-37627-6 | url=https://books.google.com/books?id=zG1H75z0EYYC&pg=PA28 | page=28}}</ref>
+<ref name="Auzias Labourdette 2013">{{cite book | last=Auzias | first=D. | last2=Labourdette | first2=J.P. | title=Burkina-Faso 2014-2015 Petit Futé (avec cartes, photos + avis des lecteurs) | publisher=Petit Futé | series=Country Guides | year=2013 | isbn=978-2-7469-6947-6 | url=https://books.google.com/books?id=dW7RAAAAQBAJ&pg=PA95 | language=fr | page=95}}</ref>
+<ref name="Trillo 2008">{{cite book | last=Trillo | first=R. | title=The Rough Guide to West Africa | publisher=Rough Guides | year=2008 | isbn=978-1-4053-8070-6 | url=https://books.google.com/books?id=8-GCQyrotgMC&pg=PT817 | page=pt817}}</ref>
+}}
+
+==External links==
+* {{commons-inline}}
+
+[[Category:Beninese cuisine]]
+[[Category:Burkinabe cuisine]]
+[[Category:Guinean cuisine]]
+[[Category:Ivorian cuisine]]
+[[Category:Meat and rice dishes]]
+[[Category:National dishes]]
+[[Category:Senegalese cuisine]]
+[[Category:Togolese cuisine]]
+
+
+{{africa-cuisine-stub}}
