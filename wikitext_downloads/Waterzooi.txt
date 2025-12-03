@@ -1,0 +1,37 @@
+{{short description|Traditional Belgian stew}}
+{{Infobox prepared food
+| name = Waterzooi
+| image = (waterzooi) (79743868).jpg
+| image_size = 250px
+| caption = Lobster ''Waterzooi'' garnished with vegetables
+| country = {{flag|Belgium}}
+| region = [[Flanders]]
+| type = [[Stew]]
+| main_ingredient = [[Fish as food|Fish]] or [[Chicken (food)|chicken]], vegetable [[broth]], [[egg yolk]]s, [[cream]]
+}}
+
+'''Waterzooi''' ({{IPA|nl|ˈʋaːtərˌzoːi|lang|Nl-waterzooi.ogg}}) is a [[soup]] from [[Belgian cuisine|Belgium]] and originating in [[Flanders]]. The second part of the name derives from the [[Middle Dutch]] terms ''sode'', ''zo(o)de ''and ''soot'', words referring to the act of boiling or the ingredients being boiled.<ref name="vdew">''van Dale Etymologisch Woordenboek'', p.965, dr. P.A.F. van Veen & drs. Nicoline van der Sijs, 1989, {{ISBN|90-6648-312-1}}</ref> It is sometimes called ''Gentse Waterzooi'' which refers to the Belgian town of [[Ghent]] where it originated. The original dish is often made of [[Fish as food|fish]], either freshwater or sea, (known as ''Viszooitje''), though today [[Chicken (food)|chicken]] ''waterzooi'' (''Kippenwaterzooi'') is more common. The most accepted theory is that rivers around Ghent became too polluted and the fish there disappeared.<ref>{{cite web|url=http://www.gentblogt.be/2006/11/17/gentse-waterzooi|title=Gentse Waterzooi » Gentblogt|work=gentblogt.be}}</ref> [[Charles V, Holy Roman Emperor]] ate the rich dish, even after suffering from [[gout]].<ref>Patricia Carson, ''Fair Face of Flanders'' (Belgian Art Research Institute, 2001), p. 124.</ref>
+
+==Varieties==
+All versions are based on a soup-base of [[egg yolk]], [[cream]], and thickened vegetable [[broth]]. The stew itself contains fish or chicken, vegetables including [[carrot]]s, [[onion]]s, [[celery]], [[Leek (vegetable)|leeks]], [[potato]]es and herbs such as parsley, thyme, bay-leaves and sage.<ref>{{cite web|title=Le Waterzooi Gantois (cuisine de Gand)|url=http://users.skynet.be/la_cuisine_belge/waterzooi_gantois_cuisine_belge.html|publisher=La Bonne Cuisine|access-date=11 March 2013}}</ref>
+
+===Fish===
+Originally, [[burbot]] was used but this fish had all but disappeared from the rivers until its recent return due to conservation efforts.<ref>{{cite news|title=Na meer dan 40 jaar opnieuw kwabaal in Grote Nete|url=http://www.hln.be/hln/nl/2661/Dieren/article/detail/1126480/2010/06/29/Na-meer-dan-40-jaar-opnieuw-kwabaal-in-Grote-Nete.dhtml|access-date=11 March 2013|newspaper=[[Het Laatste Nieuws]]|date=29 June 2010}}</ref> Nowadays, fish such as [[Eel as food|eel]], [[Esox|pike]], [[carp]] and [[bass (fish)|bass]] are used, though other fish such as [[Cod as food|cod]], [[Lophius|monkfish]], or [[halibut]] can be used. ''Gentse Waterzooi van Tarbot'' includes [[turbot]].
+
+===Meat===
+Chicken is a popular alternative to fish in the recipe, though the rest of the ingredients remain the same.
+
+==See also==
+{{Portal|Belgium|Food}}
+*[[Belgian cuisine]]
+*[[List of stews]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{commonscatinline|Waterzooi}}
+
+[[Category:Belgian stews]]
+[[Category:Fish stews]]
+[[Category:Chicken soups]]

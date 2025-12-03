@@ -1,0 +1,111 @@
+{{Short description|Maghrebi dish prepared in the earthenware pot of the same name}}
+{{Distinguish|Tajín (seasoning)}}
+{{Infobox food
+| name = Tajine<br/>{{nobold|طاجين}}
+| image = ZnuTjn2a.jpg
+| image_size = 250px
+| caption = A vegetable tagine dish as served in a London restaurant
+| alternate_name = Tagine
+| country = 
+| region = [[Maghreb]]
+| national_cuisine = {{unbulleted list|[[Algerian cuisine|Algerian]]|[[Libyan cuisine|Libyan]]|[[Moroccan cuisine|Moroccan]]|[[Tunisian cuisine|Tunisian]]|[[Egyptian cuisine|Egyptian]]}}
+| creator = 
+| course = 
+| type = [[Stew]] or [[casserole]]
+| served = 
+| main_ingredient = 
+| variations = 
+| calories = 
+| other = 
+| name_lang = ar
+}}
+[[File:Portuguese made tagine.jpg|thumb|A Portuguese-made tagine pot]]
+A '''tagine''' or '''tajine''', also '''''tajin''''' or '''''tagin''''' ({{langx|ar|طاجين|translit=ṭajīn}}) is a [[Maghreb]]i dish, and also the [[earthenware]] pot in which it is cooked.<ref>{{Cite book |chapter-url=https://books.google.com/books?id=LXg4AQAAMAAJ&dq=tajine&pg=RA1-PA182 |title=Magasin pittoresque |date=1859 |publisher=Jouvet & cie. |location=Paris |pages=182 |language=fr |chapter=Nedroma (Oran)}}</ref><ref name="UebersaxSiddiq2012">{{cite book |editor1-last=Uebersax |editor1-first=Mark A. |editor2-last=Siddiq |editor2-first=Muhammad |title=Dry Beans and Pulses: Production, Processing and Nutrition |date=2012 |publisher=John Wiley & Sons |isbn=978-1-118-44828-1 |page=516 |url=https://books.google.com/books?id=0A_osJM7r9cC&pg=PT516}}</ref> It is also called {{Transliteration|ar|maraq}} or {{Transliteration|ar|marqa}}.<ref>{{Cite book |last=Zaouali |first=Lilia |url=https://www.google.co.il/books/edition/Medieval_Cuisine_of_the_Islamic_World/H7MwDwAAQBAJ?hl=en&gbpv=1&pg=PA69&printsec=frontcover |title=Medieval Cuisine of the Islamic World: A Concise History with 174 Recipes |date=2009-09-14 |publisher=Univ of California Press |isbn=978-0-520-26174-7 |language=en}}</ref>
+
+== Etymology ==
+The [[Arabic]] {{lang|ar|طاجين}} ({{Transliteration|ar|ṭajīn}}) is derived from [[Ancient Greek]] {{lang|grc|{{linktext|τάγηνον}}}} ({{Transliteration|grc|tágēnon}}) 'frying-pan, saucepan'.<ref>{{cite book|last1=Albala|first1=Ken|title=Food Cultures of the World Encyclopedia, Volume 1|date=2011|publisher=Greenwood|isbn=978-0313376269|page=234|  quote=The Arabic word ṭažin is derived from the Greek teganon, meaning “frying pan".}}</ref><ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dta%2Fghnon τάγηνον], Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus</ref> According to some sources, the word originates from the [[Persian language|Persian]] rice dish [[Tahchin|''tahchin'']].<ref name="WR">{{cite web |date=31 May 2008 |title=الطاجين المغربي يقاوم التشويه |url=http://news.bbc.co.uk/hi/arabic/middle_east_news/newsid_7429000/7429173.stm |access-date=12 December 2012 |publisher=[[BBC Arabic]]}}</ref>
+
+== Origin ==
+According to some sources, the history of tagine dates back to the time of [[Harun al-Rashid]], the fifth Abbasid Caliph.<ref>{{Cite book|url=https://books.google.com/books?id=r723owliVz8C&pg=PA254|title=The New Book of Middle Eastern Food|last=Roden|first=Claudia|date=2008-12-24|publisher=Knopf Doubleday Publishing Group|isbn=9780307558565|language=en}}</ref><ref>{{Cite web|url=http://english.alarabiya.net/articles/2011/04/22/146374.html|title=Tagine in heartwarming spoonfuls|website=english.alarabiya.net|date=22 April 2011|publisher=Al Arabiya Newsdate=22 April 2011|access-date=2017-10-14}}</ref><ref name=":0">{{Cite book|url=https://books.google.com/books?id=IYeOAgAAQBAJ&pg=PT1608|title=Encyclopedia of Kitchen History|last=Snodgrass|first=Mary Ellen|date=2004-12-29|publisher=Routledge|isbn=1135455716|language=en}}</ref> The concept of cooking in a tagine appears in the famous ''[[One Thousand and One Nights]]'', an Arabic-language story collection from the 9th century.<ref name=":0" />
+
+Today, the cooking pot and its traditional broth are primarily prepared in the Middle East and [[North Africa]], although both are popular in many other countries. There are different ways to prepare the tagine. In the original ''qidra'' style, {{Transliteration|ary|saman}} ([[clarified butter]]) is used to lubricate the surface and a puree of chopped onion is added for flavour and aroma. For {{Transliteration|ary|muqawlli}}-style cooking, the ingredients are placed in [[olive oil]] to enrich the flavours.
+
+According to historian of [[Jews|Jewish]] food Gil Marks, the unique two-piece cooking vessel made from red clay called a tagine originates from the [[Anti-Atlas]] Mountains in Morocco.<ref>{{Cite book |last=Marks |first=Gil |url=https://books.google.com/books?id=gFK_yx7Ps7cC&pg=PT1752 |title=Encyclopedia of Jewish Food |date=2010-11-17 |publisher=HMH |isbn=978-0-544-18631-6 |language=en}}</ref>
+
+Étienne Villot recounts in his book ''Customs and Institutions of the Indigenous People of Algeria'' (1888):<blockquote>All indigenous women know how to make pottery, from humble cups to the immense kolla of the [[Kabyle people|Kabyle Algerians]]. Clay pottery is very common in Algeria. Various colors, usually red, yellow, and black, are applied to the pottery pieces shaped by the women. These colors are fixed onto the clay using a varnish composed of pine resin and a bit of olive oil. Kabyle women have great skill in these types of work.<ref>{{Cite book |last=Villot |first=E. |url=https://books.google.com/books?id=UZtB7q4HwpgC&dq=algerie+poterie&pg=PA369 |title=Moeurs, coutumes et institutions des indigènes de l'Algérie |date=1888 |publisher=Jourdan |language=fr}}</ref></blockquote>There are many descriptions of how to prepare a tagine from Arab scholars. A famous description is the one from [[ibn al-Adim]] (1192–1262):
+{{blockquote |text=Boil the meat and fry with fresh coriander, onions and hot spices and a little garlic. Then pick out the fennel hearts and cut in half. Put over the meat. Put back some broth on it along with sheep's tail. Boil until cooked and the broth has been absorbed. Remove [from the heat].|author=[[Ibn al-Adim]] |title={{Transliteration|ar|Kitab Al Wuslah il Al-Habib fi wasf al tayyibat wa Al-Tib}}}}Tagines have been in use for an extended period, persisting to the present day. In 1859, French explorer, geographer, archaeologist, librarian, and Maghreb expert [[Oscar Mac Carthy]] recounted encountering cooking tagines and pottery in the streets of [[Algeria]]. He described them as large hollow pots of various shapes.<ref>{{Cite book |last=MACCARTHY |first=Oscar |url=https://books.google.com/books?id=vLpXAAAAcAAJ&dq=tajine&pg=PA37 |title=Notes et notices algériennes |date=1859 |publisher=Bastide |pages=37 |language=fr |trans-title=Algerian notes and notices}}</ref> Additionally, a Tunisian review from 1896 also references the presence of pottery and tagines in Tunisia.<ref>{{Cite book |url=https://books.google.com/books?id=wXAmAQAAIAAJ&dq=tajine&pg=PA195 |title=Revue tunisienne |date=1896 |language=fr}}</ref>[[File:Tagine aux olives algérien.jpg|thumb|[[Algerian cuisine|Algerian]] chicken and olive tajine]]
+
+==Pottery==
+{{Unreferenced section|date=August 2021}}
+The traditional tagine [[pottery]], sometimes painted or [[ceramic glaze|glazed]], consists of two parts: a circular base unit that is flat with low sides and a large cone- or dome-shaped cover that sits on the base during cooking. The cover is designed to return all [[condensation]] to the bottom. That process can be improved by adding cold water into the specially designed well at the top of the lid.
+
+Tagine is traditionally cooked over hot charcoal, leaving an adequate space between the coals and the tagine pot to avoid having the temperature rise too quickly. Large bricks of charcoal are used, specifically for their ability to stay hot for hours.  Other methods are to use a tagine in a slow oven or on a gas or electric stove top, on the lowest heat necessary to keep the stew simmering gently. A [[Diffuser (heat)|diffuser]], a circular utensil placed between the tagine and the flame, is used to evenly distribute the stove's heat. European manufacturers have created tagines with heavy [[cast-iron]] bottoms that can be heated on a cooking stove to a high temperature, which permits the browning of meat and vegetables before cooking.
+
+Tagine cooking may be replicated by using a [[slow cooker]] or similar item, but the result will be slightly different.{{Citation needed|date=March 2018}} Many ceramic tagines are decorative items as well as functional cooking vessels. Some tagines, however, are intended only to be used as decorative serving dishes.
+
+== Algerian and Moroccan tagine ==
+[[File:طاجن بيض ومطيش وكرات د اللحم.jpg|thumb|Tagine with tomato, meatballs, and egg served boiling hot in Casablanca.]]
+Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit.<ref name="Long2015">{{cite book|author=Lucy M. Long|title=Ethnic American Food Today: A Cultural Encyclopedia|url=https://books.google.com/books?id=DBzYCQAAQBAJ&pg=PA24|date=17 July 2015|publisher=Rowman & Littlefield Publishers|isbn=978-1-4422-2731-6|pages=24–27}}</ref><ref name="Edelstein2011">{{cite book|author=Sari Edelstein|title=Food, Cuisine, and Cultural Competency for Culinary, Hospitality, and Nutrition Professionals|url=https://books.google.com/books?id=lj0CeaIIETkC&pg=PA344|year=2011|publisher=Jones & Bartlett Learning|isbn=978-0-7637-5965-0|page=344}}</ref><ref>{{cite web|url=http://fescooking.com/come-cook-with-us/the-art-of-moroccan-cuisine|title=The Art of Moroccan Cuisine|work=fescooking.com|date=10 October 2007}}</ref> Spices, nuts, and dried fruits are also used. Common spices include [[ginger]], [[cumin]], [[turmeric]], [[cinnamon]], and [[saffron]]. [[Paprika]] and [[Chili powder|chili]] are used in vegetable tagines. The sweet and sour combination is common in tagine dishes like lamb with prunes and spices. Tagines are generally served with bread. Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables. This method of cooking is important in areas where water supplies are limited or where public water is not yet available.<ref>{{cite web |title=How to Use a Moroccan Tagine: Origins, Culinary Uses, and 7 Tagine Recipe Ideas |url=https://www.masterclass.com/articles/how-to-use-a-moroccan-tagine#what-is-a-tagine |access-date=2 July 2022}}</ref>
+
+==Tunisian and Libyan tagine==
+[[Image:Tajine tunisien.JPG|thumb|Tunisian tajine]]
+What Tunisians refer to as a "tagine" is very different from other forms of the dish.<ref name="Wolfert-Tunisian">{{cite web|url=http://www.paula-wolfert.com/recipes/tun_tagine.html|author=Paula Wolfert|title=Recipe for Tunisian Tajine|access-date=2014-07-21}}</ref> [[Tunisian cuisine|Tunisian]] tajine is more like a French [[quiche]] while the [[Libyan cuisine|Libyan]] is more similar to an Italian [[frittata]] or an [[eggah]].{{Citation needed|date=August 2024}} First, a simple [[ragout]] is prepared, of meat cut into very small pieces, cooked with onions and spices, such as a blend of dried [[rose]] flower [[bud]]s and ground cinnamon known as ''[[baharat]]'' or a robust combination of ground [[coriander]] and [[caraway]] seeds; this is called [[tabil]].<ref>{{cite web|url=http://www.foodandwine.com/articles/divine-secrets-of-the-mahjoub-sisterhood|author=Nancy Harmon Jenkins|title=Divine Secrets of the Mahjoub Sisterhood|access-date=2008-04-27|archive-date=2008-05-09|archive-url=https://web.archive.org/web/20080509162927/http://www.foodandwine.com/articles/divine-secrets-of-the-mahjoub-sisterhood|url-status=dead}}</ref> Then something starchy is added to thicken the juices. Common thickeners include [[cannellini bean]]s, [[chickpea]]s, [[breadcrumb]]s or cubed potatoes. When the meat is tender, it is combined with the ingredients which have been chosen to be the dominant flavouring. Examples include fresh [[parsley]], dried [[Mentha|mint]], [[saffron]], [[sun-dried tomato]]es, cooked vegetables and stewed calves' brains. Next, the stew is enriched with cheese and eggs. Finally, this egg and stew are baked in a deep pie dish, either on the stove or in the oven until top and bottom are crisply cooked and the eggs are just set. When the tagine is ready, it is turned out onto a plate and sliced into squares, accompanied by wedges of [[lemon]]. Tunisian tagines can also be made with seafood or as a completely vegetarian dish.{{Citation needed|date=August 2021}}
+
+In rural parts of Tunisia, home cooks place a shallow earthenware dish over olive-wood coals, fill it, cover it with a flat earthenware pan, and then pile hot coals on top. The resulting tajine is crusty on top and bottom, moist within and is infused with a subtle smoky fragrance.{{Citation needed|date=August 2021}}
+
+==Maghrebi Jewish tagine==
+[[Maghrebi Jews]] also eat and prepare tagine, owing to their historic presence in North Africa. Tagine is a very important dish in [[Sephardi cuisine]], and is commonly eaten and prepared by [[Moroccan Jews]], [[Algerian Jews]], [[Tunisian Jews]], [[Libyan Jews]], [[Djerban Jews]], and also by [[French Jews]], [[Jewish American]]s, and [[Israelis]], due to the large population of Sephardim in those countries.{{Citation needed|date=August 2021}}
+
+Tagine is a mainstay of [[Sephardic cuisine]]<ref>{{cite news |title=Seven Sephardic Foods that won't make buzzfeed gag |url=https://forward.com/opinion/206532/9-sephardi-dishes-that-won-t-make-buzzfeed-gag/ |access-date=18 October 2019 |agency=The Forward}}</ref> commonly prepared for [[Shabbat]] dinners in the Sephardi community, and served with couscous. Sephardim from different regions prepare different styles of tagine; for instance, Moroccan Jews often prepare tagine with dried fruits, while Tunisian Jews often prepare a vegetable tagine containing potatoes, carrots, and zucchini cut into large dice. Tagine is also commonly prepared for [[Jewish holidays]] such as [[Rosh Hashanah]] and the [[Yom Kippur]] [[break fast|break-fast]].<ref>{{cite news |title=You're Doing it Wrong: Tagine |url=https://slate.com/culture/2014/09/tagine-recipe-for-rosh-hashanah-yom-kippur-or-just-because-youre-hungry.amp |access-date=18 October 2019 |agency=Slate |archive-date=18 October 2019 |archive-url=https://web.archive.org/web/20191018061034/https://slate.com/culture/2014/09/tagine-recipe-for-rosh-hashanah-yom-kippur-or-just-because-youre-hungry.amp |url-status=dead }}</ref>
+
+==Gallery==
+<gallery mode="packed">
+File:Tajine potter.jpg|Tajine potter
+File:Kelaa-des-Mgouna (rosino-02).jpg|Tajine cooking
+File:ElectricalTajine3.jpg|Electrical tajine
+File:Place Jemaa el-Fna - Aicha n°1 - Marrakech - Morocco - Maroc - Maroko - Μαρόκο - Fas - Marruecos - Marokko - Марокк picture image photo (9123932853).jpg|[[Stovetop]] cooking of tajine
+File:Tajin aux pruneaux.JPG|Tajine with lamb, prunes and almonds
+File:Meatballtajine.jpg|Algerian tajine with chicken, meatballs and olives
+</gallery>
+
+==See also==
+{{portal|Food}}
+* [[List of Middle Eastern dishes]]
+* [[List of African dishes]]
+* [[List of egg dishes]]
+* [[Berber cuisine]]
+* [[List of stews]]
+* [[Rfissa]]
+* [[List of cooking vessels]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite web | last=Connelly | first=Michael Alan | title=20 Must-Try Street Foods Around the World | website=[[Fodor's]] | date=December 18, 2014 | url=http://www.fodors.com/news/photos/20-must-try-street-foods-around-the-world#!8-tagine | access-date=July 24, 2016}}
+
+==External links==
+{{Wiktionary}}
+
+{{Cuisine of Algeria}}
+{{Cuisine of Morocco}}
+{{Cuisine of Tunisia}}
+
+[[Category:Algerian cuisine]]
+[[Category:Arab cuisine]]
+[[Category:Berber cuisine]]
+[[Category:Cookware and bakeware]]
+[[Category:Cypriot cuisine]]
+[[Category:Egyptian cuisine]]
+[[Category:Israeli cuisine]]
+[[Category:Libyan cuisine]]
+[[Category:Mizrahi Jewish cuisine]]
+[[Category:Maghrebi cuisine]]
+[[Category:Mediterranean cuisine]]
+[[Category:Middle Eastern cuisine]]
+[[Category:Moroccan cuisine]]
+[[Category:North African cuisine]]
+[[Category:Sephardi Jewish cuisine]]
+[[Category:Staple foods]]
+[[Category:Stews]]
+[[Category:Tunisian cuisine]]

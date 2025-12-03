@@ -1,0 +1,54 @@
+{{Short description|Ethiopian and Eritrean stew}}
+{{Infobox food
+| name             = Wat
+| image            = Ethiopian wat.jpg
+| image_size       = 250px
+| caption          = 
+| alternate_name   = Tsebhi
+| country          = [[Ethiopia]] and [[Eritrea]]
+| region           = [[East Africa]]
+| creator          = 
+| course           = 
+| type             = [[Stew]]
+| served           = 
+| main_ingredient  = [[Meat]] ([[Chicken (food)|chicken]], [[beef]], or [[Lamb and mutton|lamb]]), [[vegetable]]s, [[niter kibbeh]], [[spice]]s
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Wat''' or '''wet''' ({{langx|am|ወጥ}}, {{IPA|am|wətʼ|IPA}}) or '''ito''' ([[Oromo language|Oromo]]: Ittoo) or '''tsebhi''' ({{langx|ti|ጸብሒ}}, {{IPA|ti|sʼɐbħi|IPA}})  is an [[Cuisine of Ethiopia|Ethiopian]] and [[Cuisine of Eritrea|Eritrean]] [[stew]] that may be prepared with [[Chicken (food)|chicken]], [[beef]], [[Lamb and mutton|lamb]], a variety of [[vegetable]]s, spice mixtures such as ''[[berbere]] (hot variety)'', and ''[[niter kibbeh]]'', a seasoned [[clarified butter]].
+
+==Overview==
+Several properties distinguish wats from stews of other cultures. Perhaps the most obvious is an unusual cooking technique: the preparation of a wat begins with chopped onions slow-cooked, without any fat or oil, in a dry skillet or pot until much of their moisture has been driven away. Fat (usually [[niter kibbeh]]) is then added, and the onions and other aromatics are [[Sautéing|sautéed]] before the addition of other ingredients. This method causes the onions to break down and thicken the stew.
+
+Wat is traditionally eaten with [[injera]], a spongy [[flat bread]] made from the [[millet]]-like grain known as [[teff]].   There are many types of wats. The popular ones are doro wat and siga wat (Amharic: ሥጋ ''śigā''), made with beef.
+
+=== Doro wat ===
+Doro wat ({{langx|am|ዶሮ ወጥ}} ''dōrō we̠t’'', {{langx|ti|ጸብሒ ደርሆ }} ''tsebhi derhō''), is a spicy stew made of chicken. The cooking often (but not always) includes the addition of peeled but undivided [[Hard-boiled eggs|hard-boiled egg]]. It is the most popular traditional food in Eritrea and Ethiopia. Considered the national dish, it is the food of choice during formal and informal gatherings, eaten together as part of a group who share a [[communal bowl]] and basket of injera. It is eaten only on special occasions since it takes approximately 10 hours to prepare adequately. <ref>Levine, Donald N. ''Wax and Gold: Tradition and Innovation in Ethiopian Culture'' (Chicago: University Press, 1972), p. 132.</ref>
+
+====Sanbat wat====
+A [[Ethiopian Jewish cuisine|Jewish]] version of doro wat, called "sanbat wat" (Sabbath wat), is eaten by the [[Beta Israel]] ([[History of the Jews in Ethiopia|Ethiopian Jews]]). Sanbat wat is a traditional [[Shabbat]] dish. In order to avoid [[Milk and meat in Jewish law|mixing of meat and dairy]], vegetable oil can be used as a [[pareve]] substitute in lieu of niter kibbeh. Yeqimem zeyet, a form of niter kibbeh made from vegetable oil, can also be used.<ref>{{cite web |url=https://reformjudaism.org/jewish-life/food-recipes/sanbat-wat-ethiopian-shabbat-stew |title=Sanbat Wat (Ethiopian Shabbat Stew) |publisher=[[Union for Reform Judaism|ReformJudaism.org]] |access-date=2019-10-13 |archive-date=2019-10-13 |archive-url=https://web.archive.org/web/20191013074601/https://reformjudaism.org/jewish-life/food-recipes/sanbat-wat-ethiopian-shabbat-stew |url-status=dead }}</ref>[[File:A formal serving of wat atop injera in Brussels, Belgium.jpg|thumb|A formal serving of wat atop an injera]]
+
+=== Misir wat ===
+Misir wat is a lentil stew; its key ingredients include split red lentils, garlic, onions, and spices. It is a popular [[vegan]] dish, and in high demand during fasting periods for Orthodox Christians.<ref>{{cite book|url=https://books.google.com/books?id=NTo6c_PJWRgC&q=amharic+cuisine&pg=PA62|title=Food Cultures of the World Encyclopedia|first=Ken|last=Albala|date=Aug 30, 2011|publisher=ABC-CLIO|isbn=9780313376269|accessdate=Aug 30, 2021|via=Google Books}}</ref><ref>{{cite news|url=https://www.washingtonpost.com/food/2021/04/21/misir-wot-recipe-ethiopian-lentils/ |title=An Ethiopian misir wot recipe with red lentils and vibrant, spicy flavor |newspaper=The Washington Post |date=2021-04-21 |accessdate=2021-08-30}}</ref>
+
+==See also==
+* [[Beyaynetu]]
+* [[Kai wat]]
+* [[List of African dishes]]
+* [[List of Ethiopian dishes and foods]]
+* [[List of stews]]
+
+==References==
+{{reflist}}
+
+{{African cuisine}}
+
+[[Category:Eritrean cuisine|Tsebhi]]
+[[Category:Ethiopian cuisine]]
+[[Category:National dishes]]
+[[Category:Stews]]
+
+
+{{Ethiopia-cuisine-stub}}

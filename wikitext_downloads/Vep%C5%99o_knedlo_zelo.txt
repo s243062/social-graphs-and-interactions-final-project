@@ -1,0 +1,32 @@
+{{Short description|Czech national dish}}
+{{Use dmy dates|date=September 2023}}
+{{Infobox food
+| name            = Vepřo knedlo zelo
+| image           = Knedlo vepro zelo czech food.jpg
+| caption         =
+| country         = [[Czech Republic]]
+| region          = 
+| course          = Main
+| type            = 
+| served          =
+| main_ingredient = {{hlist|Pork|dumpling|sauerkraut}}
+| variations      =
+| other           =
+}}
+
+'''Vepřo knedlo zelo''' ({{IPA|cs|vɛpr̝̊o knɛdlo zɛlo|lang}}; {{abbrlink|lit.|literal translation}} "pork, dumpling, sauerkraut") is the name of one of the national dishes of the [[Czech Republic]].<ref>{{cite web|first=Iva|last=Vokurková|url=http://www.radio.cz/en/section/letter/czech-eating-habits-take-a-turn-for-the-better|title=Czech eating habits take a turn for the better|work=Radio Prague|date=15 March 2009|access-date=10 December 2023}}</ref> It consists of three primary ingredients:
+* [[List of pork dishes#R|roast pork]], usually lean, sliced
+* [[dumpling]], either [[Kartoffelklösse|potato]] or [[Knödel#Varieties|bread]], also sliced
+* steamed white (or less often red) [[sauerkraut]]
+
+The three items are placed separately on a plate, and the pork is covered with its own juice. The dish is believed to have German origins and is also commonly eaten in Slovakia and Austria.<ref>{{cite news|title=Vepřo knedlo zelo |url=https://www.tasteatlas.com/vepro-knedlo-zelo |website=tasteatlas.com |access-date=10 December 2023}}</ref><ref>{{cite news|title=Vepřo knedlo zelo |url=https://www.196flavors.com/czech-republic-vepro-knedlo-zelo/ |website=196flavors.com |access-date=10 December 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Czech cuisine]]
+[[Category:National dishes]]
+[[Category:Pork dishes]]
+
+
+{{CzechRepublic-cuisine-stub}}

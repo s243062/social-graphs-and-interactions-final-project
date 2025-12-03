@@ -1,0 +1,65 @@
+{{Short description|Central Asian rice dish}}
+{{Infobox food
+| name               = Uzbek plov
+| image              = Urazmat-Plov.jpg
+| image_size         = 250px
+| caption            = A preparation of plov, the national dish of Uzbekistan
+| alternate_name     = Plov, osh, palov
+| country            =[[Uzbekistan]]<ref>{{Cite web |date=2024-02-22 |title=Plov: Uzbekistan's rice dish with 'sexual power' |url=https://www.bbc.com/travel/article/20240222-plov-uzbekistans-rice-dish-with-sexual-power |access-date=2025-11-15 |website=www.bbc.com |language=en-GB}}</ref>
+| region             = Central Asia
+| associated_cuisine = [[Uzbek cuisine]]
+| creator            = 
+| course             = 
+| type               = Rice dish
+| mintime            = 
+| maxtime            = 
+| served             = Hot
+| main_ingredient    = Rice, lamb or beef, carrots, onions
+| minor_ingredient   = Spices (cumin, coriander), garlic, oil
+| variations         = Over 50 variations exist, some over 10 centuries old<ref>{{Cite web |title=Plov {{!}} Traditional Rice Dish From Uzbekistan {{!}} TasteAtlas |url=https://www.tasteatlas.com/plov |access-date=2025-11-15 |website=www.tasteatlas.com}}</ref>
+| similar_dish       = [[Pilaf]], [[biryani]], [[Kabuli palaw]]
+| no_recipes         = true
+}}
+{{Infobox intangible heritage
+| Image = Plov Tashkent.jpg
+| Caption = Public plov cooking in [[Tashkent]], Uzbekistan
+| ICH = Palov culture and tradition
+| State Party = Uzbekistan
+| ID = 01166
+| Region = APA
+| Year = 2016
+| Session = 11th
+| List = Representative List of the Intangible Cultural Heritage of Humanity
+}}
+'''Uzbek plov''', also known as '''palov''' or '''osh''', is a traditional [[Uzbek cuisine|Uzbek]] rice dish made with meat (typically fatty lamb cuts), [[julienned]] carrots, onions, garlic, rice, cumin powder and cooked together in oil or fat. It is regarded as the [[national dish]] of Uzbekistan and is of significant importance to the country's history, tradition, and culture.<ref name=":0">{{Cite web |title=Plov {{!}} Traditional Rice Dish From Uzbekistan {{!}} TasteAtlas |url=https://www.tasteatlas.com/plov |access-date=2025-11-15 |website=www.tasteatlas.com}}</ref><ref name=":1">{{Cite web |title=Uzbek plov {{!}} Good Food |url=https://www.bbcgoodfood.com/user/186153/recipe/uzbek-plov |access-date=2025-11-15 |website=www.bbcgoodfood.com |language=en}}</ref><ref>{{Cite web |date=2025-03-28 |title=Uzbek plov |url=https://www.sbs.com.au/food/recipe/uzbek-plov/6wbgjgopn |access-date=2025-11-15 |website=SBS Food |language=en}}</ref>
+
+==History==
+Pilaf is believed to have originated in Persia and throughout history, was spread throughout Central Asia along migration and trade routes in the ancient [[Silk Road|Silk road]]. Over time, local variations of pilaf were developed in various regions and Uzbek plov specifically evolved distinctive characteristics in Uzbekistan, such as a "zirvak" base and layering method in a kazan.<ref name=":4">{{Cite book |last1=Eden |first1=Caroline |url=https://books.google.com/books?id=Z_UijgEACAAJ |title=Samarkand: Recipes & Stories from Central Asia & The Caucasus |last2=Ford |first2=Eleanor |date=2016-06-07 |publisher=Octopus Books |isbn=978-1-909487-42-0 |pages=45–48 |language=en}}</ref> Over many centuries, it became well established into Uzbek culture and can be found prepared traditionally for weddings, holidays and communal gatherings, often in large quantities as a symbol for hospitality.<ref name=":3">{{Cite web |title=Palov culture and tradition - UNESCO Intangible Cultural Heritage |url=https://ich.unesco.org/en/RL/palov-culture-and-tradition-01166 |access-date=2025-11-15 |website=ich.unesco.org |language=en}}</ref>
+
+==Ingredients and preparation==
+The core ingredients are carrots, onions, fatty lamb cuts and long-grain rice. Other ingredients may include chickpeas, raisins, garlic, and spices such as cumin, black pepper, and coriander.<ref name=":0" /><ref name=":1" /><ref name=":2">{{Cite web |title=Plov (Uzbek Rice Pilaf) Recipe |url=https://www.seriouseats.com/plov-uzbek-rice-pilaf-saffron-recipe |access-date=2025-11-15 |website=Serious Eats |language=en}}</ref>
+
+The first steps are to peel and julienne the carrots into strips. Then fry the meat and carrots in oil or lamb fat. This creates a rich aromatic base called a "zirvak".<ref name=":0" />
+
+The next step is layering uncooked rice on top of the zirvak, then add water and simmer until the rice is fully cooked. This layering technique allows flavours to meld together, while keeping the rice fluffy and separate.<ref name=":0" />
+
+This dish is frequently cooked in cast-iron cauldrons or ''kazān'', but can also be made with other cookware, such as a Dutch oven, pressure cooker, large sauté pan, or heavy wok.<ref name=":2" /><ref>{{Cite web |last=Elise |first=Lola |date=2009-07-22 |title=Uzbek Plov Recipe |url=https://arbuz.com/recipes/uzbek-plov/ |access-date=2025-11-15 |website=Tasty Arbuz |language=en-US}}</ref><ref name=":1" /><ref name=":5" />
+
+==Cultural significance==
+In Uzbekistan, large-scale plov cooking, typically in open-air settings with a very large ''kazan'', is a traditional way to celebrate and show hospitality in connection with, for example, weddings, national holidays and large communal gatherings.<ref name=":4" /><ref name=":5">{{Cite web |last=Adventures |first=Peter's Food |date=2024-05-03 |title=Uzbek Plov |url=https://petersfoodadventures.com/plov/ |access-date=2025-11-15 |website=Peter's Food Adventures |language=en-US}}</ref><ref name=":3" />
+
+In 2016, [[UNESCO]] recognized not only the culinary aspects of the dish, but also its cultural importance, and transmission of cultural knowledge over many generations. The dish and its culture was inscribed into the [[UNESCO Intangible Cultural Heritage Lists|UNESCO Representative List of the Intangible Cultural Heritage of Humanity]], following a decision adopted by Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage. This recognition aims to help promote and conserve the traditions of plov to be passed down within families and communities.<ref name=":3" /><ref>{{Cite web |title=Decision of the Intergovernmental Committee: 11.COM 10.B.35 - UNESCO Intangible Cultural Heritage |url=https://ich.unesco.org/en/decisions/11.COM/10.B.35#:~:text=There%20is%20a%20saying%20in,organizations%20and%20vocational%20education%20institutions. |access-date=2025-11-15 |website=ich.unesco.org |language=en}}</ref>
+
+==See also==
+* [[Pilaf]]
+* [[Biryani]]
+* [[Kabuli palaw]]
+* [[Central Asian cuisine]]
+
+== References ==
+{{reflist}}
+
+[[Category:Uzbek dishes]]
+[[Category:Meat and rice dishes]]
+[[Category:National dishes]]
+[[Category:Intangible Cultural Heritage of Humanity]]

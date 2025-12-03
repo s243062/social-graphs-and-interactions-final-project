@@ -1,0 +1,59 @@
+{{Short description|Traditional Macedonian dish}}
+{{no footnotes|date=February 2013}}
+{{Infobox prepared food
+| name             = Tavče gravče
+| image            = File:Грав во тава(тафче гравче) (3).jpg
+| caption          = Typical Macedonian tavče gravče
+| alternate_name   = 
+| country          = [[North Macedonia]]
+| region           =
+| creator          = 
+| course           = Main course
+| served           = 
+| main_ingredient  = Beans
+| variations       = 
+| calories         = 
+| other            = 
+}}
+
+'''Tavče gravče''' ({{langx|mk|Тавче-гравче}})  is a traditional [[Macedonians (ethnic group)|Macedonian]] dish.<ref>{{cite web|url=https://www.lonelyplanet.com/north-macedonia/ohrid/restaurants/a/poi-eat/360135|title=Restaurants in Ohrid, North Macedonia|publisher=[[Lonely Planet]]|accessdate=14 November 2019}}</ref> It is prepared with fresh beans and can be found in many restaurants in [[North Macedonia]]. It is also commonly eaten by the [[Macedonian diaspora]]. This meal is baked and served in a traditional [[Clay pot cooking|unglazed earthenware pot]]. The name of the dish may be translated as "beans on a ''[[tava]]''". Tavče gravče is considered the national dish of [[North Macedonia]].<ref>{{cite web|url=https://www.intrepidtravel.com/adventures/macedonia-food/|title=Mouth-watering Macedonia: 5 traditional dishes you've got to try|date=20 November 2015 |publisher=Intrepid Travel|accessdate=15 November 2019}}</ref>  "Tavče gravče [[Tetovo]] style" is a popular regional variation.{{Citation needed|date=November 2019}}
+
+== Ingredients ==
+
+
+The basic ingredients in tavče gravče are:
+
+* [[Phaseolus lunatus|butter beans]]
+* [[onion]]
+* [[oil]]
+* [[capsicum|dry red pepper]]
+* red and [[black pepper]]
+* [[salt]]
+* [[parsley]]
+
+== Preparation ==
+[[File:Тавче-гравче со ќофте и туршија.jpg|thumb|Tavče gravče served with [[kofta]] and [[torshi]]]]
+The beans are cleaned and then soaked in cold water&nbsp;– preferably overnight, but, if time is an issue, they may be soaked for several hours or until the beans have become soft. The water in which the beans have been soaked must be discarded and fresh water added, before the beans are brought slowly to the boil and then simmered in a covered pot on a very low flame for one hour. After the first boiling, the water is again discarded, the beans washed and yet more fresh water added before they are boiled for a second time. This changing of the water at several points in the cooking process makes the beans more digestible by leaching out of them some of the indigestible sugars that can often cause [[flatulence]]. A whole onion is then added to the boiling water with the beans. When the beans are boiled, the boiled onion is removed from the water, fried separately with a scoop of flour and a teaspoon of ground red paprika, and then returned to the boiled beans. Salt, black pepper, and/or the ubiquitous regional seasoning salt [[Vegeta (condiment)|Vegeta]] may be added to the soup. Some cooks may also add dried meats such as smoked pork, bacon or [[suho meso]] to the mix. When the beans are boiled and when all the ingredients have been added, they are put in an earthenware pot covered with a lid and baked in an oven at 220&nbsp;°C. During the baking, the beans must be checked carefully from time to time to ensure that they do not become dry.
+
+The traditional earthenware pot not only gives the dish a pleasingly rustic appearance when it is served, piping hot, from the oven, but also keeps it hot and, if used regularly and kept in good condition, can even impart a special flavour to the dish&nbsp;– in much the same way that the traditional unglazed earthenware [[cazuela]] can do.
+
+==See also==
+* [[List of legume dishes]]
+* {{portal-inline|North Macedonia}}
+* {{portal-inline|Food}}
+
+==References==
+{{reflist}}
+
+
+{{Cuisine of Macedonia}}
+{{Legume dishes}}
+
+{{DEFAULTSORT:Tavce gravce}}
+[[Category:Balkan cuisine]]
+[[Category:Macedonian cuisine]]
+[[Category:Baked beans]]
+[[Category:National dishes]]
+
+
+{{NorthMacedonia-cuisine-stub}}

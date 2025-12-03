@@ -1,0 +1,94 @@
+
+{{Short description|Traditional Ukrainian stuffed dumplings}}
+{{Infobox prepared food
+| name             = Varenyky
+| image            = Wareniki.JPG
+| caption          = Boiled Ukrainian varenyky with sour cream, a traditional presentation found across Ukraine.
+| alternate_name   = Warenyky, Wareniki, vareniki, krepli (Western Ukraine, dialectal), kolduny (rare regional usage)
+| country          = Ukraine
+| region           = Eastern Europe
+| course           = Main course, dessert
+| type             = Dumpling
+| served           = Hot
+| main_ingredient  = Flour, water or milk, various fillings
+| similar_dish     = [[Pierogi]]
+}}
+
+'''Varenyky''' ({{lang|uk|вареники}}, singular: ''varenyk'') are traditional Ukrainian dumplings made from unleavened dough and filled with sweet or savoury ingredients. They are regarded as one of the most emblematic dishes of Ukrainian cuisine and are closely related to other East European dumplings such as Polish [[pierogi]].<ref name="Goldstein1999">{{cite book |last=Goldstein |first=Darra |title=The Georgian Feast: The Vibrant Culture and Savory Food of the Republic of Georgia |year=1999 |publisher=University of California Press |page=124 |isbn=9780520219298}}</ref>
+
+== Etymology ==
+The term ''varenyky'' derives from the Ukrainian verb ''varýty'' (''to boil''), referring to their primary cooking method.<ref name="Bilaniuk2010">{{cite book |last=Bilaniuk |first=Laada |title=Contested Tongues: Language Politics and Cultural Correction in Ukraine |year=2005 |publisher=Cornell University Press |page=87 |isbn=9780801443497}}</ref>
+
+== History ==
+Varenyky have been documented in Ukrainian culinary traditions for centuries and appear in folklore, ritual practices, and literature. They were commonly prepared for festive occasions, harvest celebrations, and religious holidays.<ref name="Stechishin1957">{{cite book |last=Stechishin |first=Savella |title=Traditional Ukrainian Cookery |year=1957 |publisher=Trident Press Ltd. |pages=252–260}}</ref>
+
+References to varenyky appear in Ukrainian folk songs and humour, where the dish symbolises abundance, warmth, and hospitality.<ref name="Humeniuk1991">{{cite book |last=Humeniuk |first=Oksana |title=Ukrainian Folk Traditions |year=1991 |publisher=Canadian Institute of Ukrainian Studies |page=102 }}</ref>
+
+== Preparation ==
+Varenyky are usually prepared by:
+# Rolling dough into thin sheets  
+# Cutting into circles  
+# Adding filling  
+# Folding and sealing  
+# Boiling until the dumplings rise to the surface  
+
+This method is widely documented in Ukrainian culinary literature.<ref name="Stechishin1957" />
+
+Traditional preparation of varenyky with cabbage in [[Poltava region|Poltava region]]
+
+<gallery>
+File:Varenyky opischnya 01.jpg
+File:Varenyky opischnya 02.jpg
+File:Varenyky opischnya 03.jpg
+File:Varenyky opischnya 04.jpg
+File:Varenyky opischnya 05.jpg
+</gallery>
+
+=== Steamed varenyky ===
+In addition to the commonly boiled form, some regional traditions include steamed varenyky (''parenі varenyky'' or ''pyrohy na parí''). In western Ukrainian regions, including Hutsul areas, dumplings are prepared by placing them on a cloth stretched over a pot of boiling water and steaming them until soft. This traditional method produces a delicate texture and is often associated with potato and cheese fillings.<ref name="Franko1929">{{cite book |last=Franko |first=Olha |title=Praktychna Kuchnia |year=1929 |publisher=Ukrainske Narodnie Vydavnytstvo |location=Lviv |page=214}}</ref>
+
+Steamed dumplings are also mentioned in later Ukrainian cookbooks, which describe steaming as a customary technique in certain high-altitude and festive culinary traditions.<ref name="Klitsenko1975">{{cite book |last=Klitsenko |first=Larissa |title=The Best of Ukrainian Cuisine |year=1975 |publisher=Hippocrene Books |pages=56–60 }}{{full citation needed|date=November 2025}}<!--no such book with this author at Google Books--></ref>
+
+== Serving ==
+Varenyky are served with:
+Sour cream (''smetana'')  
+Melted butter  
+Fried onions  
+Bacon bits (''shkvarky'')  
+Sugar (for sweet versions)
+
+The traditional use of sour cream and onions is noted in ethnographic studies of Ukrainian foodways.<ref name="Humeniuk1991" />
+
+== Regional variations ==
+Different Ukrainian regions favour specific fillings:
+'''Western Ukraine:''' potato–cheese and fruit varenyky  
+'''Central Ukraine:''' cabbage and mushroom fillings  
+'''Southern Ukraine:''' meat-filled versions  
+
+Meatless varieties are customary on Christmas Eve.<ref name="Klitsenko1975" />
+
+== Cultural significance ==
+Varenyky hold symbolic meaning in Ukrainian culture and appear in folk art, songs, and humour. They are often associated with prosperity and family traditions.<ref name="Humeniuk1991" />
+
+A monument dedicated to varenyky was erected in Cherkasy Oblast, highlighting the dish’s cultural popularity.<ref name="BBC2011">{{cite news |title=Ukraine unveils statue to national dish |publisher=BBC News |date=2011-07-23 |url=https://www.bbc.com/news/world-europe-14252841}}</ref>
+
+A yearly festival commemorating varenyky is held at the Ukrainian ski resort town of [[Bukovel]] in the Carpathian Mountains. In 2013, a snow monument to varenyky was made in Bukovel, and was submitted to the ''Guinness Book of Records'' as the biggest snow varenyk in the world.
+
+In Ukrainian tradition, varenyky were equated with a young moon due to the similar shape, and were used as part of pagan and sacrificial rituals. For example, cheese varenyky would be sacrificed near water springs, and farmers would also believe that varenyky helped bring a rich harvest, so they took homemade dumplings with them to the fields.<ref name=":0">{{Cite web |date=11 January 2018 |title=Ten Astonishing Facts About Ukrainian Varenyky |url=https://ukrainian-recipes.com/10-astonishing-facts-about-ukrainian-varenyky.html}}</ref>
+
+== Comparison with related dishes ==
+'''Pierogi (Poland):''' similar form, but often made with firmer dough or pan-fried.  
+'''Manti and other dumpling traditions:''' related through structure and preparation, though differing in fillings, spices, and dough thickness.  
+
+== See also ==
+[[Pierogi]]  
+[[Dumpling]]  
+[[Ukrainian cuisine]]  
+
+== References ==
+{{reflist}}
+
+[[Category:Ukrainian cuisine]]
+[[Category:Dumplings]]
+[[Category:Stuffed dishes]]
+[[Category:National dishes]]

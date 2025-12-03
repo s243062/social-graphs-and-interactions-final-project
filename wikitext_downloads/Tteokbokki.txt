@@ -1,0 +1,142 @@
+{{Short description|Korean spicy rice cake dish}}
+{{Italic title}}
+{{Infobox food
+| name             = {{transliteration|ko|Tteokbokki}}
+| image            = Tteokbokki.JPG
+| caption          = 
+| alternate_name   = Stir-fried rice cake, ''tteobokki'', ''tteok-bokki'', ''topokki'', ''dukbokki''
+| country          = [[Korea]]
+| region           = 
+| national_cuisine = [[Korean cuisine]]
+| creator          = 
+| year             = 
+| mintime          = 
+| maxtime          = 
+| type             = {{transliteration|ko|[[Bokkeum]]}}
+| course           = 
+| served           = 
+| main_ingredient  = {{transliteration|ko|[[Tteok]]}} (rice cakes), [[fishcake]], ''[[gochujang]]''
+| minor_ingredient = 
+| variations       = {{transliteration|ko|Gungjung-tteokbokki}}, {{transliteration|ko|[[rabokki]]}}
+| serving_size     = 100 g
+| calories         = 
+| protein          = 
+| fat              = 
+| carbohydrate     = 
+| glycemic_index   = 
+| similar_dish     = 
+| other            = 
+| cookbook         = Tteokbokki
+| module = {{Infobox Korean name/auto
+| child=yes
+| hangul           = 떡볶이
+| ipa              = {{IPA|ko|t͈ʌk̚p͈ok͈i||link=no}}
+}}
+}}
+
+'''{{Transliteration|ko|Tteokbokki}}''' ({{IPAc-en|lang|ˈ|t|ʌ|k|b|ɒ|k|i|,_|ˈ|t|ʌ|k|b|oʊ|k|i}} {{respell|TUK|bok|ee|,_|TUK|boh|kee}};<ref>{{cite OED|tteokbokki, n.|2625224106}}</ref> {{langx|ko|떡볶이}}, {{IPA|ko|t͈ʌk̚p͈ok͈i|pron}}) or '''simmered rice cake''', is a [[Korean cuisine|Korean food]] made from small-sized {{Transliteration|ko|[[garae-tteok]]}} (long, white, cylinder-shaped [[Rice cake#Korean|rice cakes]]) called {{transliteration|ko|tteokmyeon}} ({{Korean|hangul=떡면|lit=rice cake noodles|labels=no}}) or commonly {{Transliteration|ko|tteokbokki-tteok}} ({{Korean|hangul=떡볶이 떡|lit=''tteokbokki'' rice cakes|labels=no}}).<ref name="NIKL">
+* {{cite web|url=http://www.korean.go.kr/common/download.do?file_path=notice&c_file_name=140730_한식명_로마자_표기_및_표준_번역_확정안_.pdf&o_file_name=140730_한식명_로마자_표기_및_표준_번역_확정안_.pdf|script-title=ko:주요 한식명(200개) 로마자 표기 및 번역(영, 중, 일) 표준안|last=National Institute of Korean Language|date=30 July 2014|language=ko|access-date=22 February 2017|archive-date=23 January 2019|archive-url=https://web.archive.org/web/20190123095130/http://www.korean.go.kr/common/download.do?file_path=notice&c_file_name=140730_%ED%95%9C%EC%8B%9D%EB%AA%85_%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0_%EB%B0%8F_%ED%91%9C%EC%A4%80_%EB%B2%88%EC%97%AD_%ED%99%95%EC%A0%95%EC%95%88_.pdf&o_file_name=140730_%ED%95%9C%EC%8B%9D%EB%AA%85_%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0_%EB%B0%8F_%ED%91%9C%EC%A4%80_%EB%B2%88%EC%97%AD_%ED%99%95%EC%A0%95%EC%95%88_.pdf|url-status=live}}
+* {{cite press release |date=2014-05-02 |script-title=ko:주요 한식명 로마자 표기 및 표준 번역 확정안 공지 |url=http://www.korean.go.kr/front/board/boardStandardView.do?board_id=4&mn_id=17&b_seq=1465 |website=[[National Institute of Korean Language]] |language=ko |title= |access-date=2017-02-22 |archive-date=2017-02-15 |archive-url=https://web.archive.org/web/20170215021506/http://www.korean.go.kr/front/board/boardStandardView.do?board_id=4&mn_id=17&b_seq=1465 |url-status=live }}</ref><ref name="Yi">{{Cite news|url=http://isplus.live.joins.com/news/article/article.asp?total_id=3544053|script-title=ko:[백년맛집] 쌀떡·밀가루떡·칼라떡까지…떡볶이 떡도 다양해|last=이|first=석희|date=24 March 2009|work=The Daily Sports|access-date=7 March 2017|language=ko|url-status=live|archive-url=https://web.archive.org/web/20170308043732/http://isplus.live.joins.com/news/article/article.asp?total_id=3544053|archive-date=8 March 2017}}</ref> [[Fishcake|''Eomuk'']] (fish cakes), boiled eggs, and [[scallion]]s are some common ingredients paired with ''tteokbokki'' in dishes. It can be seasoned with either spicy ''[[gochujang]]'' (chili paste) or non-spicy ''[[ganjang]]''-based (soy sauce) sauce; the former is the more common form,<ref name="Lee">{{cite news|url=http://www.cnngo.com/seoul/eat/search-spiciest-dish-korea-245114|title=Don't say we didn't warn you: Korea's 5 spiciest dishes|last=Lee|first=Jiyeon|date=29 May 2012|access-date=2 June 2012|newspaper=CNN Go |archive-url=https://web.archive.org/web/20120531221427/http://www.cnngo.com/seoul/eat/search-spiciest-dish-korea-245114|archive-date=31 May 2012}}</ref> while the latter is less common and sometimes called ''gungjung-tteokbokki'' ([[Korean royal court cuisine|royal court]] ''tteokbokki'').
+
+Today, variations also include [[curry]]-''tteokbokki'', [[Sauce|cream sauce]]-''tteokbokki'', ''[[Sweet bean sauce|jajang]]-tteokbokki'', [[seafood]]-''tteokbokki'', rose-tteokbokki, ''[[galbi]]-tteokbokki'' and so on. ''Tteokbokki'' is commonly purchased and eaten at ''[[bunsik]]jip'' (snack bars) as well as ''[[pojangmacha]]'' (street stalls). There are also dedicated restaurants for ''tteokbokki'', referred to as ''jeukseok tteokbokki'' (impromptu ''tteokbokki''). It is also a popular home dish, as the ''garae-tteok'' can be purchased in pre-packaged, semi-dehydrated form.
+
+== History ==
+The first record of ''tteokbokki'' appears in ''[[Siŭijŏnsŏ]]'', a 19th-century cookbook, where the dish was listed using the archaic spelling ''steokbokgi'' ({{lang|ko|{{Script/Korean|ᄯᅥᆨ복기}}}}).<ref name="Siuijeonseo">{{Cite book|title=Siuijeonseo|title-link=Siuijeonseo|last=Unknown|others=Manuscript by Sim Hwanjin|year=1919|location=Sangju, Korea|language=ko|orig-date=late 19th century}}
+*{{cite web |script-title=ko:시의전서 是議全書 |url=http://archive.hansik.org/contents_list/oldbook/item/contents_oldbook/42/23206 |archive-url=https://web.archive.org/web/20170312200136/http://archive.hansik.org/contents_list/oldbook/item/contents_oldbook/42/23206/ |archive-date=2017-03-12 |website=Hansik Archive}}</ref> According to the book, ''tteokbokki'' was known by various names, including ''[[tteok]][[jjim]]'' (steamed rice cakes), ''tteok-[[japchae]]'' (stir-fried rice cakes), and ''tteok-[[jeongol]]'' (rice cakes hot pot). The [[Korean royal court cuisine|royal court version]] was made from white ''tteok'' (rice cakes), [[sirloin steak|sirloin]], sesame oil, [[soup soy sauce|soy sauce]], [[scallion]]s, [[Umbilicaria esculenta|rock tripe]], [[pine nut]]s, and toasted and ground sesame seeds. In contrast, the savory, soy sauce–based ''tteokbokki'' was made in the head house of the [[Yoon (Korean surname)|Papyeong Yun]] clan, where high-quality soy sauce was brewed.<ref name="Bang">{{Cite book|url=http://archive.hansik.org/bibliography/wonjon_viewer/7259/?sideTab=toc&contentTab=INFO&articleId=558922|title=Joseon Yori Jebeop|last=Bang|first=Sinyeong|publisher=Hanseong doseo jusikhoesa|year=1942|edition=revised and enlarged|location=Seoul|language=ko|script-title=ko:조선요리제법|orig-date=1917|via=[[Korean Food Foundation]]|url-status=live|archive-url=https://web.archive.org/web/20170312045312/http://archive.hansik.org/bibliography/wonjon_viewer/7259/?sideTab=toc&contentTab=INFO&articleId=558922|archive-date=2017-03-12}}</ref> In this version, ingredients such as [[short ribs]] were common. The name ''tteokbokki'' also appears in the revised and enlarged edition of ''{{Ill|Chosŏn mussang sinsik yorijepŏp|ko|조선무쌍신식요리제법}}'', where it is described as a savory soy sauce–based dish.<ref name="Bang" />
+
+The spicy variant of ''tteokbokki'' made with ''[[gochujang]]''-based sauce is believed first appeared in 1953, when Ma Bok-rim participated in the opening of a Korean-Chinese restaurant. She accidentally dropped ''tteok'', or rice cake, that was handed out during the opening into ''[[jajangmyeon]]''. Realizing that it tasted good, she developed the idea of seasoning ''tteok'' in the Korean chili sauce, ''gochujang''. After that, she began selling it in [[Sindang-dong|Sindang]], which now has since become the most common variant of ''tteokbokki''.<ref>{{Cite web|url=http://hansik.or.kr/kr/story/storyView.do?menuId=49&searchId=15&curPage=3&isPaging=true&searchCode=&searchOrder=text&searchWord=|script-title=ko:맛있고 재미있는 한식이야기 < 한식 스토리 < 한식(Hansik) < 한식 포털|website=hansik.or.kr|language=ko|access-date=2018-06-24}}{{Dead link|date=April 2022}}</ref> Consequently, the district of Sindang is now famously known for ''tteokbokki''.
+
+Today, the typical ''tteokbokki'' purchased and eaten at ''[[bunsik]]jip'' (snack bars) and ''[[pojangmacha]]'' (street stalls) are red and spicy, while the soy sauce–based, non-spicy version is referred to as ''gungjung-tteokbokki'' ({{Korean|hangul=궁중떡볶이|lit=royal court ''tteokbokki''|labels=no}}). Rice ''tteok'' rose in popularity as the South Korean economy developed, and various versions of the dish have proliferated since then.  As it was once a working-class dish, wheat ''tteok'' was often substituted for rice ''tteok''.<ref name="Bang" />{{clarify|date=April 2020}}
+
+It is well known as Korea's representative street food, but these days, in the process of globalizing Korean food, luxury and diversification are taking place, and branding based on know-how in cooking is also taking place. More and more stores around the world are selling ''tteokbokki'' directly, such as selling Korean red pepper paste ''tteokbokki'' for the first time in an American football stadium at the home of the NFL's Houston Texans.<ref>{{cite news |url=http://news.mk.co.kr/newsRead.php?year=2013&no=883679 |date=September 23, 2013 |title=NFL경기장에 등장한 떡볶이 |publisher=[[Maeil Business Newspaper]]}}</ref>
+
+''Tteokbokki'' was brought by restaurateurs to [[North Korea]] in 2017 and became a popular dish there. In 2024, North Korea banned the sale of ''tteokbokki'', along with ''[[budae-jjigae]]'', from sale in restaurants because the dishes are of South Korean origin.<ref>{{Cite web |last=Whui |first=Moon Sung |date=29 November 2024 |title=North Korea bans 2 South Korean dishes |url=https://www.rfa.org/english/korea/2024/11/30/north-south-korea-food-ban |website=[[Radio Free Asia]] |access-date=3 December 2024 |archive-date=3 December 2024 |archive-url=https://web.archive.org/web/20241203013925/https://www.rfa.org/english/korea/2024/11/30/north-south-korea-food-ban/ |url-status=live }}</ref>
+
+The 2022 English translation of South Korean author [[Baek Se-hee]]’s million plus-selling memoir, ''[[I Want to Die but I Want to Eat Tteokbokki]]'' ({{Korean|hangul=죽고 싶지만 떡볶이는 먹고 싶어|rr=Jukgo sipjiman tteokbokkineun meokgo sipeo|lit=}}), brought the dish to a global audience.<ref>{{Cite news |last= |first= |date=17 October 2025 |title=Baek Se-hee, author of ''I Want to Die but I Want to Eat Tteokbokki'', dies aged 35 |url=https://www.theguardian.com/books/2025/oct/17/baek-se-hee-author-of-i-want-to-die-but-i-want-to-eat-tteokbokki-dies-aged-35 |work=The Guardian |access-date=17 October 2025}}</ref>
+
+== Varieties ==
+Like other popular Korean dishes, ''tteokbokki'' has seen numerous variations and fusions. Boiled eggs and pan-fried [[mandu (dumpling)|''mandu'']] ([[dumpling]]s) were traditionally added to ''tteokbokki.'' Ingredients such as [[seafood]], [[Galbi|short ribs]], [[Ramyeon|instant noodles]], and [[Jjolmyeon|chewy noodles]] are also common additions to the dish.
+
+=== Variations based on added ingredients ===
+''Haemul-tteokbokki'' ({{Korean|hangul=해물떡볶이|lit=seafood ''tteokbokki''|labels=no}}) features seafood as its secondary ingredient.
+
+''[[Galbi]]-tteokbokki'' ({{Korean|hangul=갈비떡볶이|lit=short rib ''tteokbokki''|labels=no}}) features short ribs as its secondary ingredient.
+
+''[[Rabokki]]'' ({{Korean|hangul=라볶이|lit=instant noodle ''tteokbokki''|labels=no}} and ''[[jjolmyeon|jjol]]<nowiki/>bokki'' ({{Korean|hangul=쫄볶이|lit=chewy noodle ''tteokbokki''|labels=no}}) are similar variants which add noodles to ''tteokbokki''. ''Rabokki'' adds ''ramyeon'' (ramen) noodles, and ''jjolbokki'' adds chewy ''[[jjolmyeon]]'' wheat noodles.
+
+==== Jeukseok-tteokbokki ====
+''[[Jeongol]]'' (hot pot)-type ''tteokbokki'' is called '''''jeukseok-tteokbokki''''' ({{Korean|hangul=즉석떡볶이|lit=on-the-spot ''tteokbokki''|labels=no}}), and is boiled on a table-top stove during the meal.<ref name="Doo2">{{cite web |url= http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=161216001543810  |title= Jeukseok-tteok-bokki |website=[[Doopedia]] |publisher= [[Doosan Corporation]] |language=ko |script-title=ko:즉석떡볶이 |access-date= 12 March 2017}}</ref> A variety of additions, such as vegetables, ''[[mandu (dumpling)|mandu]]'' (dumplings), and ''[[ramyeon]]'' or ''[[udon#Korea|udong]]'' noodles are available at ''jeukseok-tteokbokki'' restaurants. As ''jeukseok-tteokbokki'' is usually a meal rather than a snack, it is often paired with ''[[bokkeum-bap]]'' (fried rice).<ref name="Doo2" />
+
+=== Variation based on sauce ===
+
+==== Gochujang ''tteokbokki'' ====
+{{multiple image
+ | direction = vertical
+ | width     = 220
+ | image1    = Gungmul-tteok-bokki.jpg
+ | caption1  = Soupy ''gungmul-tteokbokki''
+ | image2    =
+ | caption2  = ''Gireum-tteokbokki'' stir-fried in oil
+}}
+Piquant, red gochujang-based ''tteokbokki'' is one of Korea's most popular snacks. While both soup-style '''''gungmul-tteokbokki''''' ({{Korean|hangul=국물떡볶이|lit=[[guk|soup]] ''tteokbokki''|labels=no}}) and dry '''''gireum-tteokbokki''''' ({{Korean|hangul=기름떡볶이|lit=oil ''tteokbokki''|labels=no}}) are commonly enjoyed, the former is considered the ''de facto'' standard style. In ''gungmul-tteokbokki'', [[Saccharina japonica|kelp]]-[[Engraulis japonicus|anchovy]] stock is often used to bring out the savory flavor. ''[[Gochugaru]]'' (chili powder) is often added for additional heat and color, while ''[[mullyeot]]'' (rice syrup) helps with sweetness and consistency. ''[[Eomuk]]'' (fish cakes), boiled eggs, and diagonally sliced [[scallion]]s are common additions to the dish. In ''gireum-tteokbokki'', the mixture of ''gochugaru'', soy sauce, [[sugar]] or syrup, and [[sesame oil]] often replaces ''gochujang'' (chili paste). Soft ''tteok'' sticks are seasoned with the sauce mixture, then stir-fried in cooking oil with a handful of chopped [[scallion]]s and served. [[Tongin Market]] in [[Jongno]], [[Seoul]] is famous for its ''gireum-tteokbokki''.
+
+There are also many variations in ''gochujang tteokbokki'', such as a version that is seasoned with [[perilla]] leaf.
+
+==== ''Gungjung tteokbokki'' ====
+Sweet and savory, brown soy sauce–based ''tteokbokki'' is often referred to as '''''gungjung-tteokbokki''''' ({{Korean|hangul=궁중떡볶이|lit=royal court ''tteokbokki''|labels=no}}).<ref name="Doo3">{{cite web|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000934094|title=Gungjung-tteokbokki|website=[[Doopedia]]|publisher=[[Doosan Corporation]]|language=ko|script-title=ko:궁중떡볶이|access-date=12 March 2017}}</ref> Its history dates back to a royal court dish before the introduction of [[chili pepper]] to the Korean peninsula in the mid-[[Joseon era]] (17th and 18th centuries).<ref name=":0">{{Cite web|url=http://archive.hansik.org/hansik/story/item/story_storytelling/331/1202/|title=Gungjung-tteokbokki|last=|first=|date=|website=archive.hansik.org|language=ko|archive-url=https://web.archive.org/web/20180418225414/http://archive.hansik.org/hansik/story/item/story_storytelling/331/1202/|archive-date=18 April 2018 |access-date=18 April 2018}}</ref> The earliest record of ''gungjung tteokbokki'' is found in an 1800s cookbook called ''[[Siuijeonseo]]''.<ref name=":0" /> Having a taste similar to ''[[japchae]]'' (stir-fried glass noodles and vegetables), it was enjoyed by the royals as a ''[[banchan]]'' and as a snack.<ref name="Doo3" /> Although traditional ''tteokbokki'' was made with [[soup soy sauce]], which is the traditional (and at the time, the only) type of soy sauce in pre-modern Korea, sweeter regular soy sauce has taken its place in modern times. Other traditional ingredients such as [[sirloin steak|sirloin]] or short ribs, sesame oil, scallions, [[Umbilicaria esculenta|rock tripe]], [[pine nut]]s, and toasted and ground sesame seeds are still commonly used in modern ''gungjung-tteokbokki''.<ref name="Bang" /> Other ingredients such as [[mung bean sprout]]s, carrots, onions, dried [[Korean zucchini]], garlic, and [[shiitake]] mushrooms are also common. The dish is typically served with [[egg garnish]].<ref name="Doo3" />
+
+==== Other variations ====
+''Gungmul'' (soup) ''tteokbokki'' are not based on either soy sauce or gochujang and have also gained in popularity. There are some well-known variations.
+
+Curry ''tteokbokki'' uses a yellow Korean-style curry base.
+
+Cream sauce ''tteokbokki'' uses a base inspired by [[carbonara]]. Cream sauce and bacon are used instead of ''gochujang'' and fish cakes.<ref>{{Cite journal|date=28 August 2017|script-title=ko:떡볶이|url=https://ko.wikipedia.org/w/index.php?script-title=ko:떡볶이&oldid=19437660|journal=위키백과, 우리 모두의 백과사전|language=ko|access-date=28 November 2017|archive-date=2 April 2022|archive-url=https://web.archive.org/web/20220402145339/https://ko.wikipedia.org/w/index.php?title=%EB%96%A1%EB%B3%B6%EC%9D%B4&oldid=19437660|url-status=live}}{{better source needed|date=October 2021}}</ref>
+
+Rose ''tteokbokki'', named after rose pasta, is a variation. For this ''tteokbokki'', cream sauce is added to the basic ''tteokbokki''.{{cn|date=June 2025}}
+
+''Mala tteokbokki'' is a fusion ''tteokbokki'' dish that uses a base inspired by Chinese [[malatang]]. This variation may include mala sauce, wide glass noodles, and bok choy in addition to traditional ''tteokbokki'' ingredients.
+
+[[Tianmian sauce|''Jajang'']]''-tteokbokki'' features a sauce based on ''jajang'' (sweet bean paste).
+
+Cheese ''tteokbokki'' is a variant in which the ''tteokbokki'' is either topped or stuffed with cheese. It is sold in snack bars and can also easily be made at home. Depending on personal preference, it can be eaten with seasonings such as green tea powder, herb powder, sesame, or parsley.
+
+Outside of Korea, [[Shanghai cuisine|Shanghainese]] ''chǎo [[niángāo]]'' ({{lang|zh|炒年糕}}) is a stir-fried dish made with ''tteok''-like rice cakes sliced into flat oval shapes, scallions, beef, pork and cabbage.<ref>{{Cite web| url=https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/| title=Stir-fried Rice Cakes (Nian Gao)| website=www.woksoflife.com| date=15 November 2020| access-date=4 October 2021| archive-date=12 September 2021| archive-url=https://web.archive.org/web/20210912053432/https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/| url-status=live}}</ref>
+
+==== ''Gireum'' and ''gyeran tteokbokki'' ====
+''Gireum tteokbokki'' ({{Korean|hangul=기름떡볶이|lit=oil ''tteokbokki''|labels=no}}) is a variety of ''tteokbokki'' that is stir-fried in oil and served with little or no sauce.
+
+''Gyeran tteokbokki'' ({{korean|hangul=계란떡볶이|lit=egg ''tteokbokki''|labels=no}}) is another variation that features no sauce. Only ''tteok'' (rice cakes), eggs, vegetables, and seasonings (primarily salt) are used. It differs from ''gireum tteokbokki'' in that it is not spicy.
+
+== Gallery ==
+<gallery widths=200 heights=160>
+File:Korean.snacks-Tteokbokki-03.jpg|''Tteokbokki'' at a ''[[bunsik]]jip'' (snack bar)
+File:Ra-bokki.jpg|''[[Rabokki]]'' (''tteokbokki'' with ''[[ramyeon]]'' noodles)
+File:Noodle spicy ricecake.jpg|''Jjolbokki'' (''tteokbokki'' with ''[[jjolmyeon]]'' noodles)
+</gallery>
+
+== See also ==
+* ''[[Bunsik]]''
+* ''[[Gimbap]]'' 
+* [[Korean cuisine]]
+* [[Korean royal court cuisine]]
+* ''[[Nian gao]]''
+* [[Rice cake]]
+* ''[[Sundae (Korean food)|Sundae]]''
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [https://www.yupdduk.com/ Official website of ''Dongdaemoon Yeopgi Tteokbokki'']
+* [http://www.sinjeon.co.kr/ Official website of ''Sinjeon Tteokbokki'']
+* [http://www.baedduck.co.kr Official website of ''BaeDDuck'']
+
+{{Korean food and drink}}
+{{Authority control}}
+
+[[Category:Bunsik]]
+[[Category:Fried foods]]
+[[Category:Korean royal court cuisine]]
+[[Category:Street food in South Korea]]
+[[Category:Korean cuisine]]
+[[Category:Tteok]]

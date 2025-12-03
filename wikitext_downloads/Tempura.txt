@@ -1,0 +1,225 @@
+{{short description|Japanese dish of battered, deep-fried fish or vegetables}}
+{{Distinguish|Tempera|Tempora}}
+{{About|the Japanese dish|the elongated fishball street-food dish known in some parts of the Philippines as "tempura"|Ngo hiang}}
+{{Italic title|reason=[[:Category:Japanese words and phrases]]}}
+{{Infobox food
+| name               = Tempura
+| image              = Tempura 01.jpg
+| image_size         = 
+| image_alt          = 
+| caption            = 
+| alternate_name     = Tenpura
+| type               = 
+| course             = 
+| place_of_origin    = [[Nagasaki]], by [[Portugueses|Portuguese]] [[missionaries]]
+| region             = [[Western Europe]]<br>[[East Asia]]
+| associated_cuisine = [[Japanese cuisine]]
+| creator            = 
+| year               = 
+| mintime            = 
+| maxtime            = 
+| served             = 
+| main_ingredient    = 
+| minor_ingredient   = 
+| variations         = 
+| serving_size       = 100 g
+| calories           = 
+| calories_ref       = 
+| protein            = 
+| fat                = 
+| carbohydrate       = 
+| glycemic_index     = 
+| similar_dish       = 
+| cookbook           = 
+| commons            = 
+| other              = 
+| no_recipes         = true
+}}
+{{multiple image
+ | direction =  vertical
+ | width = 160
+ | image1 = つな八_盛り付け_(25086067202).jpg
+ | caption1 = ''Tempura'' shrimp and vegetables
+ | image2 = Tendon.jpg
+ | caption2 = ''[[Donburi#Tendon|Tendon]]''
+ | image3 = Shinshu soba, ten zaru by hirotomo in Suwa, Nagano.jpg
+ | caption3 = ''Tenzaru'' (''tempura'' and ''[[soba]]'')
+ | image4 = Udon-M1336.jpg
+ | caption4 = ''Tempura'' ''[[udon]]''
+}}
+{{nihongo|'''''Tempura'''''|天ぷら {{lang|en|or}} 天麩羅|tenpura|extra= {{IPA|ja|tempɯɾa|}}}} is a typical [[Japanese cuisine|Japanese dish]] that usually consists of [[seafood]] and [[vegetables]] that have been coated in a thin [[Batter (cooking)|batter]] and [[deep frying|deep-fried]]. Tempura originated in the 16th century, when [[Portuguese people|Portuguese]] [[Jesuits]] brought the Western-style cooking method of coating foods with flour and frying, via [[Nanban trade]].<ref>{{cite web | url=https://guide.michelin.com/hk/en/article/features/tempura_en | title=The History of Tempura }}</ref>
+
+==Preparation==
+
+===Batter===
+A light [[Batter (cooking)|batter]] is made of iced water, [[egg (food)|eggs]],<ref name="Kobayashi2000" /> and soft [[wheat flour]] (cake,<ref name="OIST_flours">{{Cite web|url=https://groups.oist.jp/resource-center/how-distinguish-types-flour|title=How to distinguish different types of flour|access-date=2021-08-21|website=Okinawa Institute of Science and Technology Graduate University – Resource Center (student & faculty support staff)|date=12 April 2021|archive-url=https://web.archive.org/web/20210821152403/https://groups.oist.jp/resource-center/how-distinguish-types-flour|archive-date=2021-08-21|url-status=live|language=en}}</ref> pastry<ref name="Okamoto1994">{{cite book|url=https://books.google.com/books?id=6AwrhAuGRAUC&q=pastry+cake&pg=PA31|page=31|title=Sam Okamoto's incredible vegetables|first= Osamu |last=Okamoto |publisher= Pelican Publishing Company|year= 1994 | isbn=1-56554-025-5}}</ref> or all-purpose flour<!--Do not remove this citation out of the parenthesis because the source only mentions "all-purpose flour", not other flours. Moving this out of the parentheis will result in a false citation.--><ref name="Kobayashi2000">{{cite book|url=https://books.google.com/books?id=7TIWK5VCuV4C&q=%22all-purpose+flour%22&pg=PA23|page=23|title=The quick and easy Japanese cookbook: great recipes from Japan's favorite TV cooking show host |first= Katsuyo |last=Kobayashi |publisher= Kodansha International|year= 2000 |isbn= 4-7700-2504-1}}</ref>). Sometimes [[baking soda]]<ref name="Kawaraya1985" /> or [[baking powder]] is added to make the batter light.<ref name="Kawaraya1985">{{Cite journal|title=ja:小麦粉の調理|trans-title=Science of wheat flour|journal=Seikatsu Eisei (Journal of Urban Living and Health Association)|url=https://www.jstage.jst.go.jp/article/seikatsueisei1957/29/2/29_2_111/_article/-char/ja|last=Kawaraya<!--瓦家-->|first=Chiyoko<!--千代子-->|volume=29|via=[[J-STAGE]]|publisher=大阪生活衛生協会|issue=2|doi=10.11468/seikatsueisei1957.29.111|year=1985|page=115|language=ja}}</ref> Using [[sparkling water]] in place of plain water<ref name="NHK_Yukimasa2013">{{Cite web|url=https://www.nhk.or.jp/dwc/recipes/detail/21.html|title=Shrimp & Mushroom Tempura|date=2013-10-28|access-date=2021-08-21|website=NHK World-Japan|last=Yukimasa|first=Rika|archive-url=https://web.archive.org/web/20190910151358/http://www.nhk.or.jp/dwc/recipes/detail/21.html|archive-date=2019-09-10|url-status=live|publisher=[[NHK]]}}</ref> has a similar effect. Tempura batter is traditionally mixed in small batches using [[chopsticks]] for only a few seconds, leaving lumps in the mixture that, along with the cold batter temperature, result in a unique fluffy and crisp tempura structure when cooked. The batter is often kept cold by adding ice or placing the bowl inside a larger bowl with ice. Overmixing the batter will activate wheat [[gluten]], which causes the flour mixture to become soft and dough-like when fried.
+
+Specially formulated tempura flour is available in supermarkets. This is generally light (low-gluten) flour and occasionally contains leaveners such as baking powder.<ref name="STFCJ2015_flourTempura">{{Cite web |date=2017-12-20 |title=Standard tables of food composition in Japan 2015 (Seventh Revised Edition) |url=https://www.mext.go.jp/component/english/__icsFiles/afieldfile/2017/12/20/1385123_Notes-on-food_r11.pdf |url-status=live |archive-url=https://web.archive.org/web/20200219083450/https://www.mext.go.jp/component/english/__icsFiles/afieldfile/2017/12/20/1385123_Notes-on-food_r11.pdf |archive-date=2020-02-19 |access-date=2021-08-21 |website=[[Ministry of Education, Culture, Sports, Science and Technology]] of Japan |at=Chapter 3.1 Notes on Foods: PDF p 4/276 |language=en |quote="Premixed flour for Tempura" is a product made from soft flour, starch, baking powder, ... |orig-year=2015}}
+
+* web page of the whole literature: [https://www.mext.go.jp/en/policy/science_technology/policy/title01/detail01/sdetail01/sdetail01/1385122.htm Standard tables of food composition in Japan 2015 (Seventh Revised Edition)] (archive [https://web.archive.org/web/20201201001140/https://www.mext.go.jp/en/policy/science_technology/policy/title01/detail01/sdetail01/sdetail01/1385122.htm])</ref>
+
+{{anchor|furai}}
+Tempura does not use breadcrumbs ([[panko]]) in the coating.<ref name="Daijisen_Tempura">No ''panko'' appears in the definition of tempura: {{Cite encyclopedia|title=Tempura|script-title=ja:天麩羅 テンプラ|encyclopedia=Digital [[Daijisen]] (デジタル大辞泉)|publisher=Shogakukan|url=https://kotobank.jp/word/%E5%A4%A9%E9%BA%A9%E7%BE%85-578873|edition=constantly updated|access-date=2021-08-16|language=ja|quote=(rough translation): 1.{{interp|...ingredients}} dipped in a batter made of wheat flour, egg, and water, then fried in vegetable oil. Vegetable tempuras are sometimes distinguished and called "shōjin-age." {{interp|...}}|via=kotobank.jp}}</ref> Deep-fried foods that are coated with breadcrumbs are called ''[[furai]]'',<ref name="Nipponica_Furai">{{Cite encyclopedia|title=Furai (ryouri)|encyclopedia=[[Encyclopedia Nipponica]] web version|publisher=Shogakukan|url=https://kotobank.jp/word/%E3%83%95%E3%83%A9%E3%82%A4%28%E6%96%99%E7%90%86%29-1586721|access-date=2021-08-16|edition=constantly updated|language=ja|script-title=ja:フライ (料理)|trans-title=Fry (cooking)|quote=(rough translation): In Western cuisine, "frying" means to deep-fry or sautee in oils or fats. {{interp|...}} In Japan, "furai" refers to foods that are dipped in wheat flour, beaten egg, and bread crumbs and then deep-fried, {{interp|...}}. If the ingredient is meat, it is called "chikin katsuretsu," "pōku katsuretsu (tonkatsu)," etc., respectively.{{interp|...}}|via=kotobank.jp|archive-date=2021-04-21|archive-url=https://web.archive.org/web/20210421180525/https://kotobank.jp/word/%E3%83%95%E3%83%A9%E3%82%A4%28%E6%96%99%E7%90%86%29-1586721|url-status=dead}}</ref> Japanese-invented Western-style deep-fried foods, such as ''[[tonkatsu]]'' or ''[[Fried prawn|ebi furai]]'' (fried prawn).<ref name="Nipponica_Furai" />
+
+<!--Despite ''tempura''s etymology, -->No [[seasoning]]s or salt are added to the batter, or the ingredients,<ref name="Kobayashi2000" /> except for some recipes recommending rinsing seafood in salt water before preparation.<ref name="NHK_SummerTempura2012">{{Cite web|url=https://www.nhk.or.jp/dwc/recipes/detail/12.html|title=Summer Tempura|date=2012-07-30|access-date=2021-08-21|website=NHK World-Japan|language=en|archive-date=2021-08-21|archive-url=https://web.archive.org/web/20210821162511/https://www.nhk.or.jp/dwc/recipes/detail/12.html|url-status=dead}}</ref>
+
+===Frying===
+[[File:Frying tempura 2014.jpg|thumb|Frying tempura]]
+
+Thin slices or strips of vegetables or seafood are dipped in the batter, then briefly [[Deep frying|deep-fried]] in hot [[cooking oil|oil]].<ref name="Kobayashi2000" /> [[Vegetable oil]]<ref name="NHK_Tempura2010">{{Cite web|url=https://www3.nhk.or.jp/nhkworld/en/radio/cooking/20100802.html|title=Tempura|date=2010-08-02|access-date=2021-08-21|website=NHK World-Japan|publisher=[[NHK]]}}</ref> or [[canola oil]] are most common; however, tempura was traditionally cooked using [[sesame oil]].<ref>{{Cite web|url=http://dietitians-online.blogspot.com.au/2016/01/january-7-national-tempura-day-tempura.html|title=Dietitians Online Blog: January 7, National Tempura Day – Tempura Tofu and Spring Vegetables|last=Frank|first=Dr Sandra|date=2017-01-07|website=Dietitians Online Blog|access-date=2017-01-25}}</ref> Many specialty shops still use sesame oil or [[tea seed oil]], and it is thought certain compounds in these oils help to produce light, crispier batter.{{Citation needed|date=January 2010}}
+
+The finished fry is pale whiteish, thin and fluffy,<ref name="gurunavi_friedfoods">{{Cite web|url=https://gurunavi.com/en/japanfoodie/2017/03/best-japanese-fried-food.html|title=Battle of the Best Japanese Fried Foods|at=Ebi Furai vs Tempura Ebi|date=2017-03-01|access-date=2021-08-18|website=Gurunavi.com|archive-url=https://web.archive.org/web/20210817174058/https://gurunavi.com/en/japanfoodie/2017/03/best-japanese-fried-food.html|archive-date=2021-08-17|url-status=live|language=en}}<!--[https://corporate.gnavi.co.jp/en/profile/ about Gurunavi]--></ref> yet crunchy.<ref name="Amoroso2016">{{Cite web|url=https://www.nhk.or.jp/dwc/food/articles/42.html|title=Tempura temptations: How deep-fried seafood seduced Japan|date=2016-11-14|access-date=2021-08-21|website=NHK World-Japan|last=Amoroso|first=Phoebe|language=en|archive-date=2021-05-21|archive-url=https://web.archive.org/web/20210521211058/https://www.nhk.or.jp/dwc/food/articles/42.html|url-status=dead}}</ref>
+
+The bits of batter (known as ''[[tenkasu]]'') are scooped out between batches of tempura so they do not burn and leave a bad flavor in the oil.<ref name="Kobayashi2000" /> A small mesh scoop (''[[ami jakushi]]'') is used for this purpose. ''Tenkasu'' are often reserved as ingredients in other dishes or as a topping.
+
+===Ingredients===
+Various seafood and vegetables are commonly used as the ingredients in traditional tempura.
+
+====Seafood====
+
+[[File:Scallop with Sea Urchin - Tempura Hajime - South Melbourne, Victoria, Australia.jpg|thumb|Scallop tempura with sea urchin roe]]
+
+Types of seafood used in tempura include:
+{{Div col|colwidth=22em}}
+* [[Shrimp and prawn as food|prawn]]<ref name="Kobayashi2000" /> – ''[[ebi tempura]]''
+* [[Shrimp and prawn as food|shrimp]]
+* [[Squid as food|squid]]<ref name="Kobayashi2000" />
+* [[scallop]]
+* [[Crab meat|crab]]
+* ''[[Ayu sweetfish|ayu]]'' ([[sweetfish]])
+* ''[[anago]]'' ([[conger]] eel)
+* [[Fish (food)|fish]]
+* [[Amur catfish|catfish]]
+* [[whitefish (fisheries term)|white fish]]
+* [[cod]]
+* [[haddock]]
+* [[pollock]]
+* [[coley (fish)|coley]]
+* [[European plaice|plaice]]
+* [[Skate (fish)|skate]]
+* [[Batoidea|ray]]
+* Huss (Various fish species including ''[[Galeorhinus]]'', ''[[Mustelus]]'', ''[[Scyliorhinus]]'', ''[[Galeus melastomus]]'', ''[[Squalus acanthias]]'' – also known as [[spiny dogfish]] or "[[rock salmon]]")
+* [[rock salmon]] (a term covering several species of [[spiny dogfish|dogfish]] and similar fish)
+* [[whiting (fish)|whiting]]
+* [[Japanese whiting]]<ref name="Kobayashi2000" /> – ''kisu''
+* [[Suzuki (fish)|sea bass]]
+* [[Sebastes inermis|sea perch]]
+{{colend}}
+
+====Vegetables====
+
+[[File:Mushroom tempura (1841913668).jpg|thumb|Mushroom tempura]]
+[[File:Veg tempura asakusa.jpg|thumb|Assorted vegetable tempura served at San-Sada restaurant in [[Asakusa]], [[Tokyo]], Japan]]
+
+Vegetable tempura is called ''yasai tempura''. All-vegetable tempura may be served as a [[vegetarian]] dish. Types of vegetables include:
+{{Div col|colwidth=22em}}
+* [[bamboo shoot]]s
+* [[bell pepper]]
+* [[broccoli]]
+* [[butternut squash]]
+* [[carrot]]<ref name="Kobayashi2000" />
+* [[maize]]
+* [[eggplant]]<ref name="NHK_Tempura2010" />
+* ''[[gobo (burdock)|gobo]]'' ([[burdock]], ''[[Arctium lappa]]'')
+* [[ginger]]
+* [[green bean]]s<ref name="Kobayashi2000" />
+* ''[[kabocha]]'' squash
+* [[Japanese mugwort]]<ref>Kaneda Hatsuyo, Kaneda Yoichiro (photographer), "ひと目でわかる! おいしい「山菜・野草」の見分け方・食べ方", PHP Institute , September 24, 2010, 22 pages. ISBN 978-4-569-79145-6 .</ref>
+* [[Edible mushroom|mushrooms]]
+** [[Grifola frondosa|maitake mushroom]]<ref name="NHK_Yukimasa2013" />
+** [[shiitake mushroom]]<ref name="NHK_Nozaki_Tempura">{{Cite web|url=https://www.nhk.or.jp/dwc/food/recipe/beginners_30082.html|title=Shrimp and vegetable tempura|access-date=2021-08-18|website=NHK World|last=Nozaki|first=Hiromitsu|archive-url=https://web.archive.org/web/20210819061732/https://www.nhk.or.jp/dwc/food/recipe/beginners_30082.html|archive-date=2021-08-19|url-status=live|publisher=[[NHK]]|language=en}}</ref>
+* [[okra]]
+* [[onion]]
+* [[pumpkin]]
+* [[potato]]
+* ''[[renkon]]'' ([[nelumbo|lotus]] root)<ref name="Kobayashi2000" />
+* [[seaweed]]
+* ''[[shishito]]'' pepper<ref name="NHK_Nozaki_Tempura" />
+* ''[[shiso]]'' leaf<ref name="NHK_SummerTempura2012" />
+* [[sweet potato]]<ref name="Kobayashi2000" />
+* [[Yam (vegetable)|yam]]
+{{colend}}
+
+====Others====
+* [[egg]]
+
+===Serving and presentation===
+
+[[File:Tempura and tentsuyu by cathykid in Taipei.jpg|thumb|[[Tentsuyu]] is the most common sauce consumed with tempura.]]
+
+Cooked pieces of tempura are either eaten with dipping sauce, salted without sauce, or used to assemble other dishes. Tempura is commonly served with grated [[daikon]] and eaten hot immediately after frying. In Japan, it is often found in bowls of soba or udon soup in the form of shrimp, shiso leaf, or fritter.  The most common sauce is [[tentsuyu]] sauce (roughly three parts ''[[dashi]]'', one part ''[[mirin]]'', and one part [[soy sauce|''shōyu'']]). Alternatively, skim tempura may be sprinkled with [[sea salt]] before eating. Mixtures of [[Matcha|powdered green tea]] and salt or ''[[yuzu]]'' and salt are also used.<ref name="Japanese Soul Cooking">{{cite book |last1=Ono |first1=Tadashi |last2=Salat |first2=Harris |title=Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond |date=2013 |publisher=Potter/Ten Speed/Harmony/Rodale |isbn=9781607743538 |url=https://books.google.com/books?id=mF4me5AKc-wC&q=tonkatsu&pg=PT306 |access-date=21 July 2020}}</ref>
+''{{visible anchor|[[Kakiage]]}}'' is a type of tempura made with mixed vegetable strips, such as onion, carrot, and burdock, and sometimes including [[Shrimp and prawn as food|shrimp]] or [[Squid as food|squid]], which are deep fried as small round [[fritter]]s.
+
+[[File:大洗マリンタワーかき揚げ丼.jpg|thumb|A tower-shaped kakiage bowl (temdon), a specialty of [[Ōarai, Ibaraki]]]]Tempura is also used in combination with other foods. When served over ''[[soba]]'' (buckwheat noodles), it is called ''tempura soba''<ref>{{cite news|title=Tempura Soba|url=https://asianinspirations.com.au/recipe/tempura-soba/|access-date=6 November 2015|agency=Asian Inspiretion|publisher=Authentic Recipe List}}</ref> or ''[[tensoba]]''. Tempura is also served as a ''[[donburi]]'' dish where tempura shrimp and vegetables are served over [[steamed rice]] in a bowl (''tendon'') and on top of ''[[udon]]'' soup (''tempura udon'').
+
+==History==
+[[File:Peixinhos da horta.jpg|thumb|''[[Peixinhos da horta]]'' ("little fishes from the garden"), the Portuguese ancestor of Japanese tempura]]
+[[File:Japanese Edo Period Tempura Shop.JPG|thumb|''Tempura [[Yatai (retail)|yatai]]'' (stall) of [[Edo period]]<ref>{{cite web |url=http://www.kcf.or.jp/fukagawa/ |title=Fukagawa Edo Museum |access-date=2011-02-13 |archive-date=2013-10-29 |archive-url=https://web.archive.org/web/20131029183945/http://www.kcf.or.jp/fukagawa/ |url-status=dead }}</ref>]]
+[[File:Ashino-ko don 説明用.jpg|thumb|220px|[[Black bass]] ten-[[donburi|don]] in [[Lake Ashi]], [[Japan]]]]
+[[File:Tendon Tenya Kitasenju Nishiguchi Shop (2015-07-20).jpg|thumb|220px|Tenya]]
+
+===Origins===
+Earlier Japanese deep-fried food was either simply fried without breading or batter or fried with rice flour.{{Citation needed|date=May 2024}}  However, toward the end of the 16th century, the technique of fritter-cooking with a batter of flour and eggs was acquired in [[Nagasaki]] by Portuguese missionaries.<ref>{{Cite web |title=Nagasaki Tempura ｜ Our Regional Cuisines : MAFF |url=https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/4260/index.html |access-date=2024-05-10 |website=www.maff.go.jp}}</ref> [[Peixinhos da horta]] was a dish often eaten during [[Lent]] or [[Ember days]] to fulfill the [[Fasting and abstinence in the Catholic Church|fasting and abstinence rules for Catholics]]. The word "tempura" originates from the [[Latin]] word ''tempora'', a term referring to these fasting times<ref>{{Cite web |title=The truth about Japanese tempura |url=https://www.bbc.com/travel/article/20170808-the-truth-about-japanese-tempura |access-date=2024-05-10 |website=www.bbc.com |language=en-GB}}</ref> (Spanish: ''[[:es:Témporas|Témporas]]'').<ref>{{cite news |author1=Francisco Luis Pérez |title=En Taiwán al pan se le llama pan y abundan los nombres hispánicos |url=https://www.elconfidencial.com/cultura/2009-01-29/en-taiwan-al-pan-se-le-llama-pan-y-abundan-los-nombres-hispanicos_974865/ |access-date=17 September 2021 |work=[[El Confidencial]] |agency=[[EFE]] |date=29 January 2009 |archive-url=https://web.archive.org/web/20210917113540/https://www.elconfidencial.com/cultura/2009-01-29/en-taiwan-al-pan-se-le-llama-pan-y-abundan-los-nombres-hispanicos_974865/ |archive-date=17 September 2021 |language=es |quote= ´tempura´, fritura japonesa de mariscos y vegetales ligada a la costumbre cristiana de no tomar carne en las témporas, e introducida por misioneros ibéricos en Nagasaki"}}</ref> In those days, the ingredients were covered in thick batter containing flour, sugar and sake, and then fried in lard. As the batter already contained seasoning, it was eaten without dipping sauce.<ref>{{Cite web |title=The History of Tempura |url=https://guide.michelin.com/hk/en/article/features/tempura_en |access-date=2024-05-10 |website=MICHELIN Guide |language=en-HK}}</ref>
+
+In the early 17th century, around the [[Tokyo Bay]] area, tempura ingredients and preparation changed as the ''[[Yatai (food cart)|yatai]]'' (food cart) culture gained popularity. Making the best use of fresh seafood while preserving its delicate taste, tempura used only flour, eggs, and water as ingredients, and the batter was not flavored.  As the batter was mixed minimally in cold water, it avoided the dough-like stickiness caused by the activation of wheat gluten, resulting in the crispy texture now characteristic of tempura. It became customary to dip tempura quickly in a sauce mixed with grated daikon just before eating it.
+
+Today in Japan, mainstream tempura recipes originate from "Tokyo-style" (also known as “Edo-style“) tempura, invented at the food stalls along the riverside fish market in the Edo period.  Tempura became popular largely due to the abundance of seafood. In addition, as oil extraction techniques advanced, cooking oil became cheaper. Serving deep-fried food indoors was prohibited during Edo because tempura oil was a fire hazard in Japanese buildings, which were made of paper and wood. Therefore, tempura gained popularity as fast food eaten at outdoor food stalls. It was skewered and eaten with a dipping sauce.  Tempura is considered one of "the Edo Delicacies" along with [[soba]] (buckwheat noodles) and [[sushi]], which were also food stall take-outs.
+
+The modern tempura recipe was first published in 1671 in the cookbook called "料理献立抄". After the Meiji period, tempura was no longer considered a fast-food item but developed as a high-class cuisine.
+
+===Etymology===
+{{Wiktionary}}
+The word "tempura", or the technique of dipping fish and vegetables into a batter and frying them, comes from the word {{Lang|la|tempora}}, a Latin word meaning "times", "time period" used by Portuguese missionaries to refer to the [[Lent]]en period or [[Ember Days]] (''ad tempora quadragesima''), Fridays, and other Christian holy days. Ember Days, or ''{{Lang|la|quatuor anni tempora}}'' in Latin, refer to holy days when Catholics avoid meat and eat fish or vegetables instead.<ref>{{cite book|last=Narloch|first=Leandro|title=Guia Politicamente Incorreto da História do Mundo|year=2013|publisher=[[Editora Leya]]|location=São Paulo|isbn=9788580448405|page=163|edition=1|language=pt|chapter=Samurais}}</ref><ref>{{cite news |author1=LUIS SÁNCHEZ-MOLINÍ |title="El haiku es muy parecido a la seguidilla, algo breve e impactante" |url=https://www.diariodesevilla.es/sevilla/haiku-parecido-seguidilla-breve-impactante_0_688431587.html |access-date=18 September 2021 |work=[[Diario de Sevilla]] |date=14 April 2013 |language=es |quote=Témporas are the Christian liturgical cycles corresponding to the end and beginning of the four seasons of the year, consecrated especially to prayer and penance. As is easy to guess, témporas comes from tempus (time) and its plural tempora (times). The typical food in those seasons (in which you could not eat meat) was fried fish, which in Japanese ended up being called tempura}}</ref> The idea that the word "tempura" may have been derived from the [[Portuguese language|Portuguese]] noun ''{{Lang|pt|tempero}}'', meaning a condiment or seasoning of any kind, or from the verb ''{{Lang|pt|temperar}}'', meaning "to season" is also possible as the Japanese language could easily have assumed the word ''{{Lang|pt|tempero}}'' as is, without changing any vowels as the Portuguese pronunciation, in this case, is similar to the Japanese.<ref>{{cite web | url = http://www.trannet.co.jp/pre_up/web_news/2007/1010.html | title = Japanese Writers' House Newsletter | date = 2007-10-10 | access-date = 2008-01-11 | archive-date = 2016-03-03 | archive-url = https://web.archive.org/web/20160303221630/http://www.trannet.co.jp/pre_up/web_news/2007/1010.html | url-status = dead }}</ref> There is still today a dish in [[Portugal]] very similar to tempura called ''[[peixinhos da horta]]'', "garden fishes", which consists of green beans dipped in a batter and fried.
+
+The term "tempura" is thought to have gained popularity in southern Japan; it became widely used to refer to any food prepared using hot oil, including some already existing Japanese foods.{{Citation needed|date=March 2020}} Today, particularly in western Japan, the word "tempura" is also commonly used to refer to ''[[satsuma-age]]'', fried surimi fish cake which is made without batter.<ref name="Ishige 2014 p246">{{cite book|url=https://books.google.com/books?id=H0nXAwAAQBAJ&q=Tempura+Satsuma-age&pg=PA246|page=246|title=The History and Culture of Japanese Food|first=Naomichi |last=Ishige |author-link=:ja:石毛直道 |publisher= Routledge|year= 2014 | isbn=978-1136602559}}</ref><ref name = "Satsuma-age 2017 Names">{{cite web|url=https://news.livedoor.com/article/detail/13209051/|title=「さつま揚げ」の各都道府県での呼び名を調査 関西は「天ぷら」 |publisher=J-TOWN.NET |date=June 16, 2017 |access-date=March 23, 2020}}</ref>
+
+==Variations==
+
+===Japan===
+In Japan, [[restaurant]]s specializing in tempura are called ''tenpura-ya''. Many restaurants offer tempura as part of a set meal or a ''[[bento]]'' (lunch box), and it is also a popular ingredient in take-out or convenience store ''bento'' boxes.  The ingredients and styles of cooking and serving tempura vary greatly throughout the country, with importance placed on using fresh, seasonal ingredients.
+
+===Outside Japan===
+
+[[File:Tempura IceCream.JPG|thumb|Tempura [[ice cream]]]]
+[[File:Chocolate Cookie Tempura (2-2).jpg|thumb|[[Chocolate]] cookie tempura]]
+
+Outside Japan (as well as recently in Japan), there are many nontraditional and [[fusion cuisine|fusion]] uses of tempura. Chefs all over the world include tempura dishes on their menus, and a wide variety of different batters and ingredients are used, including nontraditional [[broccoli]], [[zucchini]], [[asparagus]] and [[chayote|chuchu]]. More unusual ingredients may include [[nori]] slices, dry fruit such as [[banana]]s, and [[ice cream]] (''tempura''-based [[fried ice cream]]). [[United States|American]] restaurants are known to serve tempura in the form of various types of meat, particularly chicken and cheeses, usually [[mozzarella]].{{Citation needed|date=May 2020}} A variation is to use [[panko]] (breadcrumbs), which results in a crisper consistency than tempura batter, although in Japan this would be classified as a ''furai'' dish. Tempura (particularly shrimp) is often used as a filling in ''[[sushi|makizushi]]''. A more recent variation of tempura sushi has entire pieces of sushi dipped in batter and tempura-fried.
+
+In [[Bangladesh]], the blossoms of pumpkins or [[Marrow (vegetable)|marrows]] are often deep-fried with a gram of rice flour spice mix, creating a Bengali-style tempura known as kumro ful bhaja.
+
+====Taiwan====
+In [[Taiwan]], tempura, as described in the preceding, is known as ''tiānfùluó'' ({{lang|zh-hant|天婦羅}}) and can commonly be found on the menu in Japanese restaurants all over the island. A similar-sounding dish, ''tianbula'' ({{lang-zh|c=甜不辣|p=tiánbùlà|l=sweet, not spicy}}) is usually sold at [[Night markets in Taiwan|night markets]]. Tianbula is Japanese [[satsuma-age]] and was introduced to [[Taiwan under Japanese rule]] by people from Kyushu, where satsuma-age is commonly known as ''tempura''.<ref>{{cite web|url=https://www.koryu.or.jp/Portals/0/images/publications/magazine/2016/1/201601_04.pdf|title=片倉佳史の台湾歴史紀行 第一回 港湾都市・基隆を訪ねる|first=Yoshifumi |last=Katakura |author-link=:ja:片倉佳史 |publisher=[[Japan–Taiwan Exchange Association]] |date=2016 |access-date=March 23, 2020 |page=9}}</ref><ref name="Ishige 2014 p246" /><ref name = "Satsuma-age 2017 Names" />
+
+==See also==
+* [[Glossary of Japanese words of Portuguese origin]]
+
+{{Portal|Japan|Food}}
+* [[List of Japanese dishes#Deep-fried dishes (agemono, 揚げ物)]]
+** [[Fried shrimp#Ebi furai|Ebi furai]]: a Japanese dish of breaded and deep-fried shrimp.
+** [[Karaage]]: a Japanese cooking technique in which various foods – most often chicken, but other meat and fish – are coated with flour and deep-fried in oil.
+** [[Kushikatsu]]: a Japanese dish of breaded and deep-fried skewered meat and vegetables.
+** [[Tonkatsu]]: Japanese breaded and deep-fried pork cutlet.
+** [[Toriten]]: a Japanese fritter of marinated chicken.
+** [[Karakudamono]]: a Japanese term used to collectively describe assorted pastry confections of Chinese origin (also called togashi).
+* Unbreaded fritters:
+** [[Crispy kangkóng]]: Filipino deep-fried water spinach leaves in batter.
+** [[Pakora]]: a South Asian food resembling tempura.
+** [[Okoy]]: Filipino shrimp fritters.
+** [[Camaron rebosado]]: Filipino deep-fried battered shrimp.
+** [[Gambas con gabardina]]: Spanish deep-fried battered shrimp.
+
+==References==
+{{Cookbook|Tempura}}
+{{Commons category}}
+{{Reflist}}
+{{Japanese food and drink}}
+{{Deep frying foods}}
+{{Authority control}}
+
+[[Category:Deep fried foods of Japan]]
+[[Category:Japanese cuisine terms]]
+[[Category:Japanese fusion cuisine]]
+[[Category:National dishes]]
+[[Category:Portuguese fusion cuisine]]
+[[Category:Seafood and rice dishes]]
+[[Category:Shrimp dishes]]

@@ -1,0 +1,187 @@
+{{Short description|Traditional Japanese confectionery}}
+{{Distinguish|text=[[Wagasi]], the [[Benin]]ese cheese}}
+{{Italic title|reason=[[:Category:Japanese words and phrases]]}}
+{{Infobox food
+| name               = ''Wagashi''
+| image              = Wagashi closeup 14.jpg|
+| caption            = {{nihongo3||練り切り|Nerikiri}} in various shapes and colors: [[Asian skunk cabbage]], ''[[Hibiscus syriacus]]'', [[hortensia]], and [[rose]]
+| alternate_name     = 
+| country            = Japan
+| region             = 
+| creator            = 
+| type               = [[Confectionery]]
+| served             = 
+| main_ingredient    = 
+| variations         = 
+| calories           = 
+| other              = 
+}}
+
+{{Nihongo|'''''Wagashi'''''|[[wikt:和菓子|和菓子]]|wa-gashi}} is traditional Japanese [[confectionery]], typically made using plant-based ingredients and with an emphasis on seasonality. ''Wagashi'' generally makes use of cooking methods that pre-date Western influence in Japan. It is often served with green tea.
+
+Most of today's wagashi was born during the [[Edo period]] (1603–1868). This was a period of peace, economic and cultural prosperity, and increased domestic self-sufficiency in sugar.<ref name="maff">{{cite web|url=https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2302/spe14_01.html|archive-url=https://web.archive.org/web/20240222142937/https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2302/spe14_01.html|script-title=ja:和菓子の歴史|language=ja|publisher=[[Ministry of Agriculture, Forestry and Fisheries (Japan)]]|date=|archive-date=22 February 2024|access-date=22 February 2024}}</ref><ref name="ndl1">{{cite web|url=https://www.ndl.go.jp/kaleido/entry/25/1.html|archive-url=https://web.archive.org/web/20240222142945/https://www.ndl.go.jp/kaleido/entry/25/1.html|script-title=ja:駆け足でたどる和菓子の歴史|language=ja|publisher=[[National Diet Library]]|date=|archive-date=22 February 2024|access-date=22 February 2024}}</ref><ref name="jwa1">{{cite web|url=https://www.wagashi.or.jp/monogatari/shiru/rekishi/|archive-url=https://web.archive.org/web/20240222142803/https://www.wagashi.or.jp/monogatari/shiru/rekishi/|script-title=ja:その1和菓子の歴史|language=ja|publisher= Japan Wagashi Association|date=|archive-date=22 February 2024|access-date=22 February 2024}}</ref>
+During the Edo period, a type of wagashi called {{nihongo3||[[:ja:練り切り|練り切り]]|nerikiri}} were made by kneading white bean paste, [[gyūhi]], sugar, yams, and other ingredients, and formed into various colors and shapes based on seasonal flowers, animals, nature, events, customs, and other themes.<ref name="maff"/><ref name="nerikiri">{{cite web|url=https://kotobank.jp/word/%E7%B7%B4%E3%82%8A%E5%88%87%E3%82%8A-1495833|archive-url=https://web.archive.org/web/20160304214859/https://kotobank.jp/word/%E7%B7%B4%E3%82%8A%E5%88%87%E3%82%8A-1495833|script-title=ja:練り切り|language=ja|publisher=Digitalio, Inc.|date=|archive-date=4 March 2016|access-date=23 February 2024}}</ref>
+
+== Definition ==
+[[Image:Powderedgreentea.jpg|thumb|A bowl of [[matcha]] tea on a [[Lacquer|lacquered]] tray with ''wagashi'']]
+In Japan, the word for sweets or confectionery, {{nihongo||菓子|kashi}}, originally referred to fruits and nuts.<ref name="essence">{{cite book|last=Ashkenazi|first=Michael|title=The Essence of Japanese Cuisine: An Essay on Food and Culture|url=https://books.google.com/books?id=g_eGICVMj3YC&pg=PA107|access-date=Jan 30, 2013|year=2000|publisher=University of Pennsylvania Press|isbn=9780812235661|pages=106–107}}</ref> Fruits and nuts may be eaten as snacks between meals and served as "sweets" during a tea ceremony.<ref name="oxford companion"/> The word ''Wa'' means "Japanese", and ''kashi'' becomes ''gashi'' in compound words, ''wagashi'' therefore means "Japanese confectionery".<ref name="oxford companion">{{cite book |url=https://books.google.com/books?id=jbi6BwAAQBAJ&pg=PA776|title= The Oxford Companion to Sugar and Sweets|date=2015 |editor= Darra Goldstein |pages=776–777 |isbn=9780199313396|publisher=Oxford University Press }}</ref><ref>{{cite book |url=https://books.google.com/books?id=at61EAAAQBAJ&pg=PA37|title= Sweet and Easy Japanese Desserts|first=Laure|last= Kie |date=2023 |page=37 |isbn=9781462924394|publisher=Tuttle Publishing }}</ref>
+
+In 1603, the first year of the Edo period (1603–1868), the term {{nihongo||菓子|kashi}} meant both confectionery and fruit, and was more commonly used to refer to fruit. For example, the Japanese-Portuguese dictionary of the time describes "quaxi" (菓子) as "fruit, especially fruit eaten after a meal." The term {{nihongo3|water confections|水菓子|mizugashi}}, which is used to refer to fruit today, is a remnant of the same term.<ref name="ndl1"/>
+
+The word ''wagashi'' was coined at the end of 1800s to distinguish Japanese confectionery from sweets, cakes and baked goods introduced from the West termed ''yōgashi'' (洋菓子). However, ''wagashi'' was not the common term for Japanese confectionery until after the Second World War.<ref name="oxford companion"/>
+
+The definition of wagashi is ambiguous, and the line between wagashi and other types of Japanese confectionery is vague. For example, although the original {{nihongo3|[[castella]]||kasutera}} was introduced from Portugal, it has been around for more than 400 years and has been modified to suit Japanese tastes, so it is classified as a wagashi.<ref name="jwa2">{{cite web|url=https://www.wagashi.or.jp/monogatari/shiru/syurui/|archive-url=https://web.archive.org/web/20240216105659/https://www.wagashi.or.jp/monogatari/shiru/syurui/|script-title=ja:その2和菓子の種類|language=ja|publisher=Japan Wagashi Association|date=|archive-date=16 February 2024|access-date=22 February 2024}}</ref><ref name="ndl1"/><ref name="jwa1"/> {{nihongo3|[[Raindrop cake]]|水信玄餅|Mizu shingen mochi}}, created in 2014, was developed by a wagashi shop as a derivative of {{nihongo3|||shingen mochi}} and is recognized as a wagashi in Japan.<ref name="mynavi"/><ref name="rocket"/> In recent years, wagashi shops have developed and marketed many confections that are an eclectic mix of wagashi and Western confections, often referred to as "neo-wagashi".<ref name="nikkei270423">{{cite web|url=https://www.nikkei.com/article/DGKKZO70529980W3A420C2QM8000/|archive-url=https://web.archive.org/web/20230426223923/https://www.nikkei.com/article/DGKKZO70529980W3A420C2QM8000/|title=「ネオ和菓子」脚光、小豆高騰|publisher=[[The Nikkei]]|date=27 April 2023|archive-date=26 April 2023|access-date=24 February 2024}}</ref>
+
+==History==
+=== Before the Edo period ===
+==== Jomon - Nara period ====
+It is believed that the first food eaten as a confection in Japan was a processed food from the [[Jomon period]].<ref name="maff"/> It is thought to have been either a food made by kneading [[chestnut]]s into a powder and then baking and hardening it with eggs and salt, or a food made by adding animal flesh to chestnut flour and baking and hardening it.<ref>{{cite web|url=https://news.1242.com/article/141270|archive-url=https://web.archive.org/web/20230708121733/https://news.1242.com/article/141270|script-title=ja:縄文時代にクッキーがつくられていた？ 縄文クッキーの謎|language=ja|publisher=[[Nippon Broadcasting System]]|date=8 April 2018|archive-date=8 July 2023|access-date=22 February 2024}}</ref>
+
+During the [[Yayoi period]], {{nihongo3|dumpling|団子|[[dango]]}} were made from grain or [[rice flour]].<ref name="maff"/>
+
+[[File:Kankidan 01.jpg|thumb|''[[Karakudamono]]'']]
+During the [[Nara period]] (710–794), a food called {{nihongo3|Chinese confections|唐菓子|[[karakudamono]]}} was brought to Japan from the [[Tang dynasty]]. This food consisted mostly of powdered kneaded rice, [[wheat]], [[soybeans]], and [[azuki beans]], seasoned with sweet [[miso]] paste, and fried in oil as the main ingredient. It was prized as a ritual food in various forms, but later fell into disuse in Japan and is now used as an offering to the Buddha in modern Buddhism.<ref name="ndl1"/><ref name="jwa1"/> Sugar was introduced to Japan around 750, but it was not until 850 years later, around the Edo period, that sugar-based wagashi began to be widely produced.<ref name="jwa1"/>
+
+==== Heian - Muromachi period ====
+The first beautifully crafted confections were created in the [[Heian period]] (794–1185) and are mentioned in [[The Tale of Genji]] under the names {{nihongo3||椿餅|tsubakimochi}} and {{nihongo3||青差|aosashi}}.<ref name="maff"/> Tsubakimochi was originally a confection that was not fried in oil, which was unusual among karakudamono, but it was later changed to suit the tastes of the Japanese people.<ref name="ndl1"/> In the beginning, it was a [[mochi]] made by coating rice flour with a sweetener made from the juice of boiled vine grass and wrapping it in [[camellia]] leaves. Later, the sweetener made from the juice of boiled vine grass was replaced by sugar, and the rice cake was filled with [[red bean paste]]. Confectionery of this period was food offered to the nobility.<ref name="maff"/>
+
+[[File:Youkan mizuyoukan.jpg|thumb|In the Kamakura period, {{nihongo3||羊羹|[[yōkan]]}} was a mutton soup, and today's mainstream yōkan was born in the 1800s after the Japanese invented {{nihongo3|[[agar]]|寒天|kanten}} in the 1600s.<ref name="jwa1"/><ref name="kaiun"/>  This thick Japanese jellied dessert is now made of adzuki bean paste, agar, and sugar.]]
+During the [[Kamakura period]] (1185–1333), Japanese Buddhist monks who studied in the [[Song dynasty]] brought the tea culture to Japan, and the custom of eating confections with tea began in Japan.
+The monks also introduced {{nihongo3|[[dim sum]]|点心|tenshin}}, a light meal, and the history book {{nihongo3||[[:ja:庭訓往来|庭訓往来]]|Teikun ōrai}} mentions {{nihongo3||饅頭|[[manjū]]}}, {{nihongo3||羊羹|[[yōkan]]}}, and {{nihongo3||饂飩|[[udon]]}} as {{nihongo3||点心|tenshin}}. However, the manjū and yōkan brought to Japan by the monks were not sweets as we know them today, but were prepared in a completely different way.<ref name="ndl1"/> At that time, manjū was not confection, did not contain red bean paste, and were not sweet. The history book {{nihongo3||[[:ja:宗五大草紙|宗五大草紙]]|Sōgo ōzōshi}} clearly describes manjū as a dish eaten with [[chopsticks]] along with soup and pickles. Later, manjū changed from a light meal to a confection to suit Japanese tastes. In the [[Muromachi period]] (1336–1573), {{nihongo3||[[:ja:職人歌合|職人歌合画本]]|Shokunin utaai ehon}} depicted sweet manjū made with sugar. This manjū is considered the prototype of today's manjū.<ref name="ndl1"/> Yōkan was a soup containing [[Lamb and mutton|mutton]], but since there was no custom of eating animal meat in Japan, the Japanese replaced the meat with a paste made of kneaded barley or azuki bean flour. Later, the soup was removed and replaced with a pasty confection made of barley or azuki bean flour. Finally, around 1800, during the [[Edo period]] (1603–1868), 500 years later, yōkan became what it is today. The invention of {{nihongo3|[[agar]]|寒天|kanten}} in the 1600s was essential to the birth of modern yokan. Later, the kanten invented in Japan was introduced to Manchuria, Korea and Taiwan.<ref name="jwa1"/><ref name="kaiun">{{cite web|url=https://www.kaiundo.co.jp/blog/blog/%E7%BE%8A%E7%BE%B9%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.php|archive-url=https://web.archive.org/web/20240223062136/https://www.kaiundo.co.jp/blog/blog/%E7%BE%8A%E7%BE%B9%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.php|script-title=ja:羊羹の歴史について|language=ja|publisher=Kaiundo|date=28 January 2019|archive-date=23 February 2024|access-date=22 February 2024}}</ref><ref>{{cite web|url=https://kotobank.jp/word/%E5%AF%92%E5%A4%A9-49309|archive-url=https://web.archive.org/web/20240223062210/https://kotobank.jp/word/%E5%AF%92%E5%A4%A9-49309|script-title=ja:寒天|language=ja|publisher=Digitalio, Inc.|date=8 April 2018|archive-date=23 February 2024|access-date=22 February 2024}}</ref> The udon was also very different from today's udon, more like ''[[wonton]]''. (餛飩).<ref>{{cite web|url=https://kotobank.jp/word/%E5%AF%92%E5%A4%A9-49309|archive-url=https://web.archive.org/web/20240223063257/https://kotobank.jp/word/%E5%AF%92%E5%A4%A9-49309|script-title=ja:うどんとうんどん|language=ja|publisher=日本麺類業団体連合会/全国麺類生活衛生同業組合連合会|date=8 April 2018|archive-date=23 February 2024|access-date=24 February 2024|url-status=bot: unknown}}</ref>
+
+==== Sengoku and Azuchi-Momoyama period ====
+[[File:Castella,made in nagasaki-city,japan.JPG|thumb|''[[Castella|Kastera]]'']]
+During the [[Sengoku period]], the Portuguese brought Western confectionery to Japan through the [[Nanban trade]]. {{nihongo3|castella|カステラ|[[castella|Kasutera]]}} is a typical confection based on these Western confections. Kasutera was the only exception because it was made from chicken eggs, while Japanese confectionery was made from vegetable ingredients.<ref name="ndl1"/><ref name="jwa1"/> To suit their own tastes, the Japanese added {{nihongo3||水飴|[[mizuame]]}} to the sponge cake to make it more moist, and {{nihongo3|coarse sugar|ザラメ|zarame}}, was added to the bottom of the sponge cake to give it a coarser texture.<ref name="nagasaki">{{cite web|url=https://www.pref.nagasaki.jp/shared/uploads/2021/04/1618388450.pdf|archive-url=https://web.archive.org/web/20240223113331/https://www.pref.nagasaki.jp/shared/uploads/2021/04/1618388450.pdf|script-title=ja:日本遺産 (Japan heritage)|language=ja|publisher=[[Nagasaki Prefecture]]|date=|archive-date=23 February 2024|access-date=23 February 2024}}</ref> As trade increased, so did sugar imports. The prototype of {{nihongo3||金平糖|[[konpeitō]]}} was also brought to Japan through trade with Portugal and Spain.<ref name="jwa1"/> While Kompeitō, introduced from Portugal, was a sugar-coated confection with a [[poppy]] seed or [[sesame]] seed center, the Japanese eventually transformed it into an all-sugar confection with a {{nihongo3|coarse sugar|ザラメ|zarame}} center.<ref name="alic">{{cite web|url=https://www.alic.go.jp/joho-s/joho07_002730.html|archive-url=https://web.archive.org/web/20240223114700/https://www.alic.go.jp/joho-s/joho07_002730.html|script-title=ja:シュガーロードの砂糖文化とそのお菓子|language=ja|publisher=Independent Administrative Institution Agriculture & Livestock Industries Corporation|date=11 July 2022|archive-date=23 February 2024|access-date=23 February 2024}}</ref>
+
+From the Sengoku period to the [[Azuchi-Momoyama period]], wagashi developed along with the [[Japanese tea ceremony]], and delicate, beautiful, and aesthetically pleasing confections began to emerge. The Japanese tea ceremony was used as a secret meeting place for {{nihongo3|feudal lords|大名|[[daimyō]]}} and as a salon for the upper class.<ref name="maff"/>
+
+=== Emergence of modern wagashi ===
+[[File:和菓子 (5376984019).jpg|thumb|{{nihongo3||練り切り|Nerikiri}} are based on various seasonal scenes. In order of nameplate from top left to bottom right: morning glory, chrysanthemum, splashing waves, scarlet salmon fillet, wisteria, Yamabuki spring water, and cool breeze.]]
+
+During the [[Edo period]], wagashi developed dramatically, establishing what we know today as wagashi.<ref name="maff"/><ref name="jwa1"/> From the [[Keicho]] (1596–1615) to the [[Kan'ei]] era (1624–1644), classical Japanese literature and seasonal elegance began to be incorporated into wagashi brand names. During the [[Genroku]] era (1688–1704), when the [[Genroku culture]] flourished, wagashi with beautiful shapes and colors based on themes from classical literature and seasonal elegance began to be produced under the influence of the [[Rimpa school]] of art.<ref name="ndl1"/>
+
+Self-sufficiency in sugar increased when [[Tokugawa Yoshimune]], the eighth [[Tokugawa shogunate|Tokugawa shogun]], encouraged the production of sugar.<ref name="maff"/> In [[Sanuki Province]], which is now [[Kagawa Prefecture]], sugar called {{nihongo3||和三盆|[[wasanbon]]}} was produced.<ref name="ndl1"/> The common people began to eat wagashi that used a lot of sugar, and various types of wagashi were produced, especially in Kyoto. Local wagashi specialties began to be produced in various regions of Japan, and a wagashi culture blossomed throughout the country. The design of {{nihongo3||練り切り|nerikiri}}, a beautiful fresh confection with various shapes and colors that characterizes wagashi, was created and developed in Kyoto during this period and spread to all parts of Japan. The brand names and designs of these uniquely Japanese wagashi were compiled and recorded in picture books. The most famous of these is {{nihongo3||御蒸菓子図|Onmushigashizu}}, which lists the brand names and designs of wagashi from each period of the Edo period in color illustrations.<ref name="maff"/><ref name="ndl1"/>
+
+The famous Kyoto wagashi {{nihongo3||八ツ橋|[[Yatsuhashi]]}} was created in 1689 during the Genroku era (1688–1704) or in 1805 during the [[Bunka]] era (1804–1818).
+The name Yatsuhashi comes from a scene in the [[Tale of Ise]] or from the musician [[Yatsuhashi Kengyo]], and is made by steaming a mixture of rice flour, sugar, and [[cinnamon]], stretching the dough thin, and baking it.<ref>{{cite web|url=https://www.sankeibiz.jp/business/news/200707/bsm2007070650002-n1.htm|archive-url=https://web.archive.org/web/20201101003558/https://www.sankeibiz.jp/business/news/200707/bsm2007070650002-n1.htm|title=京のこだわり「伝統は法律より厳しい」八ツ橋創業年訴訟は続く|publisher=Sankei Business|date=7 July 2020|archive-date=1 November 2020|access-date=26 February 2024}}</ref> Yatsuhashi is still a popular souvenir today, and according to a survey conducted by the city of Kyoto in 2022, 89.2% of Japanese tourists visiting Kyoto bought souvenirs, of which 10.7% bought Yatsuhashi.<ref name="kyoto24">{{cite web|url=https://www.kyokanko.or.jp/wp/wp-content/uploads/kyoto_tourism_stat_2022.pdf|archive-url=https://web.archive.org/web/20240226143205/https://www.kyokanko.or.jp/wp/wp-content/uploads/kyoto_tourism_stat_2022.pdf|title=観光客の動向等に係る調査|page=45|publisher=[[Kyoto|Kyoto City]]|date=|archive-date=26 February 2024|access-date=26 February 2024}}</ref>
+
+==== Ame and amezaiku ====
+[[File:Amezaiku goldfish ameshin.JPG|thumb|[[Amezaiku]] in the shape of a goldfish]]
+During this time, {{nihongo3|candy|飴|ame}} became popular with the common people. The ingredients of common people's sweets were often inexpensive grain-derived sweeteners rather than expensive sugar.<ref name="ndl1"/> Ame was so popular that many people came up with creative ways to sell it. Peddlers sold ame by performing various tricks while walking the streets of the city, displaying {{nihongo3|||[[karakuri puppet|karakuri]]}} puppet (traditional Japanese mechanized puppets), and dressing up as women. In the [[Kan'ei]] era (1624–1644), peddlers began selling a variety of wagashi to the general public in addition to ame.<ref name="ndl1"/>
+
+The production of {{nihongo3|candy craft artistry|飴細工|[[amezaiku]]}}, elaborate animal-shaped amezaiku, spread throughout the city beyond the previous temples along with the development of {{nihongo3|street performance||[[misemono]]}}.<ref name=about_kyoto>{{cite web |title=Amezaiku |url=http://thekyotoproject.org/english/amezaiku/ |archive-url=https://web.archive.org/web/20230601115626/http://thekyotoproject.org/english/amezaiku/|website=The Kyoto Project |last1=Inaba|first1=Chiho|last2=Maruoka|first2=Yukari|last3=Ishikawa|first3=Airi|publisher=Kyoto University of Foreign Studies |date=13 February 2010 |archive-date=1 June 2023|accessdate=13 February 2024}}</ref> The traditional Japanese scissors were indispensable for the production of amezaiku, and when the production of iron increased dramatically with the invention of the balance bellows in {{nihongo3|||[[Tatara (furnace)|tatara]]}} iron manufacturing (たたら製鉄), the production of scissors also increased, contributing to the production of amezaiku. During the [[Bunka]] (1804–1818) and [[Bunsei]] era (1818–1830), it was possible to obtain amezaiku with the same shape as today's amezaiku.<ref>{{cite web|url=https://www.amezaiku.com/en/history/|archive-url=https://web.archive.org/web/20240223090030/https://www.amezaiku.com/en/history/|title=History of Amezaiku|publisher=amezaiku.com|date=28 January 2019|archive-date=23 February 2024|access-date=23 February 2024}}</ref>
+
+==== Japan's modernization and beyond ====
+[[File:Raindrop Cake (28130238005).jpg|thumb|{{nihongo|[[Raindrop cake]]||mizu shingen mochi}}]]
+During the [[Meiji era]] (1868–1912), when Japan began active trade with the West after the end of its {{nihongo3|isolation policy|鎖国|[[sakoku]]}}, Western cooking utensils were brought to Japan. With the advent of the 
+modern [[oven]], many baked confections such as {{nihongo3|chestnut manjū|栗饅頭|kuri manjū}} and {{nihongo3|castella manjū|カステラ饅頭|kasutera manjū}} were born.<ref name="jwa1"/>
+
+In the 21st century, wagashi continues to be created. {{nihongo3|unbaked or raw Yatsuhashi|生八ツ橋|[[Yatsuhashi|Nama yatsuhashi]]}}, created in 1960,<ref>{{cite web|url=https://news.yahoo.co.jp/expert/articles/3988c30ca0f732b86bd4f85c4b650610d4c8ec13|archive-url=https://web.archive.org/web/20240215091659/https://news.yahoo.co.jp/expert/articles/3988c30ca0f732b86bd4f85c4b650610d4c8ec13|title=なぜ老舗同士がトラブル？～京菓子「八ツ橋」騒動|publisher=Yahoo News Japan|date=6 June 2018|archive-date=15 February 2024|access-date=26 February 2024}}</ref> is a very popular souvenir of Kyoto. According to a survey conducted by the City of Kyoto in 2022, 89.2% of Japanese tourists who visited Kyoto bought souvenirs, of which 31.6% bought Nama yatsuhashi. This means that 42.3% of Japanese tourists who bought souvenirs in Kyoto in 2022 bought either Nama yatsuhashi or Yatsuhashi.<ref name="kyoto24"/>
+
+In 2014, a wagashi shop in [[Yamanashi Prefecture]] created a {{nihongo3|[[Raindrop cake]]|水信玄餅|mizu shingen mochi}} from {{nihongo3|agar||kanten}} and water. The popularity of this wagashi has spread outside of Japan, and derivative products have been created.<ref>{{cite web|url=https://www.britannica.com/topic/raindrop-cake|archive-url=https://web.archive.org/web/20240223194123/https://www.britannica.com/topic/raindrop-cake|title=Raindrop cake|publisher=Britannica|date=|archive-date=23 February 2024|access-date=23 February 2024}}</ref><ref name="mynavi">{{cite web|url=https://news.mynavi.jp/article/20190625-singenmochi/|archive-url=https://web.archive.org/web/20230924175050/https://news.mynavi.jp/article/20190625-singenmochi/|title=インスタで話題の「水信玄餅」って? 「天使の涙」との違いも調べてみた|publisher=Mynavi News|date=15 June 2021|archive-date=24 September 2023|access-date=24 February 2024}}</ref><ref name="rocket">{{cite web|url=https://rocketnews24.com/2021/06/23/1505524/|archive-url=https://web.archive.org/web/20230228080534/https://rocketnews24.com/2021/06/23/1505524/|title=賞味期限がたったの30分！ 山梨でしか味わえない絶品「水信玄餅」は事前準備をしっかりして挑むべし！|publisher=Rocket news 24|date=23 June 2021|archive-date=28 February 2023|access-date=23 February 2024}}</ref>
+
+==Types==
+[[File:Hotaru wagashi (cropped).jpg|thumb|''Hotaru'' (firefly) wagashi]]
+{{See also|List of Japanese desserts and sweets#Wagashi}}
+[[Image:和菓子PA100093.jpg|thumb|A plate of six ''wagashi'']]
+[[Image:Matcha and wagashi by MShades at Daigoji, Kyoto.jpg|thumb|''Wagashi'' served with [[matcha]] tea]]
+{{div col|colwidth=}}
+* ''[[Akumaki]]'': one of the confections of [[Kagoshima Prefecture]]
+* ''[[Anmitsu]]'': chilled agar jelly cubes (''[[kanten]]'') served with sweet red bean paste and fruit
+* ''[[Amanattō]]'': simmered [[azuki bean]]s or other beans with sugar, and dried—amanattō and [[nattō]] are not related, although the names are similar.
+* ''[[Botamochi]]'': a sweet [[rice]] ball wrapped with ''anko'' (or ''an'', thick [[azuki bean paste]])
+* ''[[Daifuku]]'': general term for ''mochi'' (pounded sweet rice) stuffed with ''anko''
+* ''[[Dango]]'': a small, sticky, sweet Japanese dumpling, commonly skewered on a stick
+* ''[[Domyoji]]'': wagashi made with anko (red beans) wrapped in sticky rice
+* ''[[Dorayaki]]'': a round, flat sweet consisting of ''castella'' wrapped around ''anko''
+* ''[[Gokabou]]'':  a sweetened cake made of rice and mixed with sugar 
+* ''[[Hanabiramochi]]'': a flat, red and white, sweet ''mochi'' wrapped around ''anko'' and a strip of candied ''gobo'' ([[burdock]]), shaped like a flower petal
+* ''[[Ikinari dango]]'': a steamed bun with a chunk of [[sweet potato]] and ''anko'' in the center, it is a local confectionery in [[Kumamoto Prefecture|Kumamoto]].
+* ''[[Imagawayaki]]'' (also ''kaitenyaki''): ''anko'' surrounded in a disc of fried dough covering
+* ''[[Kompeito]]'': crystal sugar candy
+* ''[[Kusa mochi]]'': "grass" ''mochi'', a sweet ''mochi'' infused with Japanese [[mugwort]] (''yomogi''), surrounding a center of ''anko''
+* ''[[Kuzumochi]]''
+* ''[[Kuri kinton]]'': a sweetened mixture of boiled and mashed chestnuts
+* ''[[Manjū]]'': steamed cakes of ''an'' surrounded by a flour mixture, available in many shapes such as peaches, rabbits, and [[matsutake]] (松茸) mushrooms
+* ''[[Mochi]]'': a rice cake made of glutinous rice
+* ''[[Monaka]]'': a center of ''anko'' sandwiched between two delicate and crispy sweet rice crackers
+* ''[[Oshiruko]]'' (also ''zenzai''): a hot dessert made from ''anko'' in a liquid, soup form, with small ''mochi'' floating in it
+* ''[[Rakugan]]'': a small, very solid and sweet cake which is made of rice flour and ''[[mizuame]]''
+* ''[[Sakuramochi]]'': a rice cake filled with ''anko'' and wrapped in a pickled cherry leaf
+* ''[[Taiyaki]]'': like a  ''[[imagawayaki]]'', a core of ''anko'' surrounded by a fried dough covering, but shaped like a fish
+* ''[[Uirō]]'': a steamed cake made of rice flour and sugar, similar to ''mochi''
+* ''[[Warabimochi]]'': traditionally made from [[Fiddlehead fern|''warabi'']] and served with ''[[kinako]]'' and ''[[kuromitsu]]''
+* ''[[Yatsuhashi]]'': thin sheets of ''[[gyūhi]]'' (sweetened ''mochi''), available in different flavors, like cinnamon, and occasionally folded in a triangle around a ball of red ''anko''
+* ''[[Yōkan]]'': one of the oldest'' wagashi'', a solid block of ''anko'', hardened with [[agar]] and additional sugar
+* ''[[Yubeshi]]''
+{{div col end}}
+* ''[[Karukan]]''
+* ''[[Kurobo]]''
+
+===Classification===
+There are several ways to classify wagashi, including classification by moisture content, ingredients, and production method.
+The most common classification method is based on moisture content, which is very important because it affects [[shelf life]].
+According to this classification, sweets with a moisture content of 30% or more are classified as {{nihongo3|wet confectionery||''[[namagashi]]''}}, those with a moisture content of 10% to 30% are classified as {{nihongo3|half-wet confectionery||''han namagashi''}}, and those with a moisture content of less than 10% are classified as {{nihongo3|dry confectionery||''[[higashi (food)|higashi]]''}}.<ref name="jwa2"/><ref name="han030422">{{cite web|url=https://web.hh-online.jp/hankyu-food/blog/sweets/detail/000878.html|archive-url=https://web.archive.org/web/20240226130126/https://web.hh-online.jp/hankyu-food/blog/sweets/detail/000878.html|script-title=ja:和菓子の種類はどのくらい？分類方法や製法による特徴|language=ja|publisher=Hankyu Hanshin Department Stores|date=3 April 2022|archive-date=26 February 2024|access-date=26 February 2024}}</ref>
+
+When classified by production method, each type of wagashi is classified as ''neri mono'', which is made by kneading ingredients; ''mushi mono'', which is made by steaming; ''yaki mono'', which is made by baking; ''age mono'', which is made by frying; ''nagashi mono'', which is made by pouring ingredients into a mold; ''uchi mono'', which is made by mixing powdered ingredients and sugar into a mold and then hardening the mixture; ''kake mono'', which is made by pouring syrup over the ingredients; and ''ame mono'', which is made by boiling down the sugar and hardening it, and so on.<ref name="jwa2"/><ref name="han030422"/>
+
+For example, yōkan can be classified as either {{nihongo3|wet confectionery||''namagashi''}} or {{nihongo3|half-wet confectionery||''han namagashi''}}, depending on the product, as the moisture content varies from product to product. It is also classified as ''nagashi mono'' because it is made by pouring {{nihongo3|agar||''kanten''}} into a mold and hardening it.<ref name="jwa2"/><ref name="han030422"/>
+
+{{div col}}
+* {{nihongo|''[[Namagashi]]''|生菓子}} (wet confectionery)—contains 30% or more moisture
+** {{nihongo|''Jō namagashi''|上生菓子}} is a very soft and delicate, seasonally varying ''namagashi'', in various, often elaborate, shapes and colors, often reflecting seasonal plants. Some stores will have many dozens over the course of a year.<ref>[http://www2.aia.pref.aichi.jp/voice/no7/kitchen1.html Japanese Confectionery Gratifies the Eyes and the Palate] {{Webarchive|url=https://web.archive.org/web/20081016012217/http://www2.aia.pref.aichi.jp/voice/no7/kitchen1.html |date=2008-10-16 }} ''Aichi Voice'' Issue 7, 1997</ref>
+** {{nihongo|''Mochi mono''|もち物}}
+** {{nihongo|''Mushi mono''|蒸し物}} (steamed confectionery)
+** {{nihongo|''Yaki mono''|焼き物}} (baked confectionery)
+*** {{nihongo|''Hiranabe mono''|平なべ物}}(Flat pan baked confectionery)
+*** {{nihongo|''Ōbun mono''|オーブン物}}　(oven　baked confectionery)
+** {{nihongo|''Nagashi mono''|流し物}}
+** {{nihongo|''Neri mono''|練り物}}
+** {{nihongo|''Age mono''|揚げ物}} (fried confectionery)
+* {{nihongo|''Han namagashi''|半生菓子}} (half-wet confectionery)—contains 10%–30% moisture
+** {{nihongo|''An mono''|あん物}}
+** {{nihongo|''Oka mono''|おか物}}
+** {{nihongo|''Yaki mono''|焼き物}} (baked confectionery)
+*** {{nihongo|''Hiranabe mono''|平なべ物}}(Flat pan baked confectionery)
+*** {{nihongo|''Ōbun mono''|オーブン物}}　(oven　baked confectionery)
+** {{nihongo|''Nagashi mono''|流し物}}
+** {{nihongo|''Neri mono''|練り物}}
+* {{nihongo|''[[Higashi (food)|Higashi]]''|干菓子}} (dry confectionery)—contains 10% or less moisture
+** {{nihongo|''Uchi mono''|打ち物}}
+** {{nihongo|''Oshi mono''|押し物}}
+** {{nihongo|''Kake mono''|掛け物}}
+** {{nihongo|''Yaki mono''|焼き物}} (baked confectionery)
+** {{nihongo|''Ame mono''|あめ物}} (candy confectionery)
+{{div col end}}
+
+==See also==
+{{Portal|Food|Japan}}
+* [[Chinese desserts]] – Chinese confections
+* ''[[Hangwa]]'' – Korean confections
+* ''[[Bánh]]'' – Vietnamese sweet or savoury snacks and confections 
+* [[Turkish delight]] – Turkish confections
+* [[Sugar in Japan]]
+* [[List of Japanese desserts and sweets]]
+* [[List of Japanese snacks]]
+
+==References==
+{{reflist}}
+
+* {{cite book
+  | last = Aoki
+  | first = Naomi
+  | title = 図説 和菓子の今昔 Zusetsu wagashi no konjyaku
+  | publisher = 株式会社淡交社 Tankosha Publishing Co., Ltd
+  | date = October 2000
+  | isbn = 978-4-473-01762-8}}
+
+==External links==
+* [http://www.wagashi.or.jp/ Japan Wagashi Association] {{in lang|ja}}
+* [https://www.youtube.com/watch?v=I3Y_FQMFMWE Video of how it is made] at YouTube
+
+{{Japanese food and drink}}
+{{Authority control}}
+
+[[Category:Wagashi| ]]
+[[Category:Chadō]]
+[[Category:Tea culture]]

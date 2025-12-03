@@ -1,0 +1,53 @@
+{{Short description|Albanian baked lamb and rice dish}}
+{{Infobox food
+| name = Tavë kosi or Tave Elbasani
+| name_lang = sq
+| image = Elbasan tavë me mish qengji.jpg
+| caption = 
+| alternate_name = Elbasan tava, Tavë Elbasani, Tava e Elbasanit
+| country = [[Albania]]
+| region = 
+| national_cuisine = [[Albanian cuisine|Albanian]]
+| creator =  
+| year =
+| mintime =
+| maxtime =
+| type =
+| course = Main
+| served = Warm
+| main_ingredient = [[Lamb and mutton|Lamb]], [[yogurt]] with [[Egg (food)|egg]]s (replacing [[soured milk]]), [[wheat flour]], [[butter]].
+| minor_ingredient = [[Rice#Cooking|Rice]]
+| variations = Tavë kosi with [[chicken meat|chicken]], ''Elbasan tava'' with [[Béchamel sauce]]
+| serving_size =
+| calories =
+| protein =
+| fat =
+| carbohydrate =
+| glycemic_index =
+| similar_dish =
+| other =
+}}
+
+'''Tavë kosi''' ("[[soured milk]] [[casserole]]") is a [[national dish]] in [[Albanian cuisine|Albania]]. It is a dish of [[Lamb and mutton|lamb]] (occasionally [[chicken meat|chicken]], then called ''tavë kosi me mish pule'') and [[Rice#Cooking|rice]] baked with a mixture of [[yogurt]] and [[Egg (food)|egg]]s (replacing the original soured milk) added to a [[roux]] ([[wheat flour]] and [[butter]]).<ref>{{cite web|url=https://www.bbc.co.uk/food/recipes/albanian_baked_lamb_with_92485|title=Albanian baked lamb with rice (Tavë kosi)|publisher=[[BBC Food]]}}</ref> It is typically seasoned with salt, [[Black pepper|pepper]], [[garlic]] and [[oregano]].<ref>{{Cite web |date=2017-02-12 |title=Albanian Tavë Kosi {{!}} Albanian Tavë Elbasani |url=https://www.myalbanianfood.com/recipe/albanian-tave-kosi/ |access-date=2023-10-11 |website=My Albanian Food |language=en-GB}}</ref> The dish is also popular in [[Greece]], [[North Macedonia]], [[Kosovo]] and [[Turkey]], where it is known as ''Elbasan tava'' ({{langx|sq|Tavë Elbasani}} or ''Tava e Elbasanit''), named after the Albanian city of [[Elbasan]].
+
+==See also==
+{{portal|Food}}
+* [[List of lamb dishes]]
+
+==References==
+{{Reflist}}
+
+{{Cuisine of Albania}}
+{{Albania topics}}
+
+{{DEFAULTSORT:Tave kosi}}
+[[Category:Albanian cuisine]]
+[[Category:Greek cuisine]]
+[[Category:Macedonian cuisine]]
+[[Category:Kosovan cuisine]]
+[[Category:Turkish cuisine]]
+[[Category:Lamb dishes]]
+[[Category:National dishes]]
+
+
+{{Albania-cuisine-stub}}

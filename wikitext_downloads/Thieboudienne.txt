@@ -1,0 +1,85 @@
+{{Short description|Traditional dish from Senegal}}
+{{Infobox food
+| name = Tiep
+| served = 
+| other = 
+| carbohydrate = 
+| fat = 
+| protein = 
+| calories = 
+| variations = Meat
+| minor_ingredient = Vegetables
+| main_ingredient = Fish and rice
+| course = 
+| image =
+| type = Main dish
+| maxtime = 4h
+| mintime = 2h
+| year = 
+| creator = <!-- or | creators = -->
+| national_cuisine = 
+| country = [[Saint-Louis, Senegal]]
+| alternate_name = Benechin, ceebu jën
+| similar_dish = [[Jollof rice]]
+| caption = Ceebu jen
+}}[[Image:Thieboudienne.JPG|Thieboudienne|right|thumb]]
+[[File:White Thieboudienne.JPG|thumb|]]
+[[File:Red Thieboudienne.JPG|thumb|]]
+'''''Tiep''''' (alternatively '''thieb''', '''benechin''', '''benachin''', or '''jollof rice''') is a traditional dish from [[Senegal]] that is also consumed in [[Mauritania]], [[Guinea-Bissau]], [[Guinea]], [[Mali]], [[The Gambia]], and other West and Central African countries. It is the national dish in Senegal.<ref>{{Cite web|url=http://www.saveur.com/article/Recipes/Senegal-Fish-Rice/|title=Senegalese Fish and Rice (Thiéboudienne) Recipe|website=Saveur|language=en|access-date=2019-12-14}}</ref> The version of tiep called '''''thieboudienne,'''''  '''''ceebu jën''''' or '''''chebu jen''''' ({{langx|wo|ceebu jën}}; {{langx|fr|thiéboudiène}}) is prepared with fish, [[broken rice]] and tomato sauce cooked in one pot. There are also '''''tiep yappa''''' (with meat) and '''''tiep ganaar''''' (with chicken) varieties. Additional ingredients often include onions, tomatoes, carrots, cabbage, [[cassava]], hot pepper, lime and [[peanut oil]], and [[stock cube]]s.
+
+== History ==
+Historically, tiep is commonly attributed to the city of [[Saint-Louis, Senegal|Saint-Louis]],<ref>{{Citation |last=N'Diaye Corréard, Geneviève, Daff, Moussa, Mbaye, Alioune, Ndiaye, Modou |first= |title=Les mots du patrimoine : le Sénégal |date=2008-01-01 |work= |pages= |url=http://dx.doi.org/10.3917/dbu.bavou.2008.01.0205 |access-date=2024-03-29 |publisher=De Boeck Supérieur}}</ref> in the nineteenth century. The name of the dish comes from [[Wolof language|Wolof]] words meaning 'rice' ({{Lang|wo|ceeb}}) and 'fish' ({{Lang|wo|jën}}).<ref name="Wells2007">{{cite book|url=https://books.google.com/books?id=Ouz-AwAAQBAJ&pg=PA28|title=The World of Street Food: Easy Quick Meals to Cook at Home|author=Troth Wells|date=15 March 2007|publisher=New Internationalist| isbn=978-1-904456-50-6| pages=28–}}</ref> In Pulaar it is known as {{Lang|fuc|maaro e liddi}} ('rice and fish'). In Hassaniya Arabic the [[calque]] {{lang|mey|مارو والحوت}} ({{Transliteration|mey|māru w-əl-ḥūt}}) is also frequently used together with the Wolof loanword. It is served on large trays with the rice on the bottom and the fish, usually [[white grouper]] (''Epinephelus aeneus''), and the vegetables, many of them whole, placed in the center.
+
+The collapse of white grouper fisheries has reduced access to the dish.<ref>{{cite news |url=https://apnews.com/article/overfishing-senegal-africa-grouper-fish-seafood-climate-56ab28781307be88026c618fffd6f257 |title=Senegal struggles with loss of fish central to diet, culture |author1=Grace Ekpu |author2=Patrick Whittle |work=The Associated Press |date=2023-04-06 |access-date=2024-08-29}}</ref>
+
+== Serving ==
+Traditionally it is eaten in a large communal dish with the hand. It is also the symbol of Senegalese ''terranga'' (hospitality): family, visiting friends and guests gather around a single dish (called a ''bolus'') from which everyone eats using a spoon (''couddou Pulaar'') or their hand.
+
+== Related dishes ==
+The popular West African dish known as [[jollof]] is thought to have originated from the thieboudienne, but is usually made with meat rather than fish, and the rice is mixed into the other ingredients.<ref name="Sloley 2021">{{cite web | last=Sloley | first=Patti | title=Jollof Wars: Who does West Africa's iconic rice dish best? | website=BBC Travel | date=7 June 2021 | url=https://www.bbc.com/travel/article/20210607-jollof-wars-who-does-west-africas-iconic-rice-dish-best | access-date=16 July 2021}}</ref>
+
+The [[Gullah]] dish red rice resembles thieboudienne, suggesting a [[creolization]] of foodways from West Africa in the New World by enslaved Africans and their descendants. Like thieboudienne, there are regional variations of red rice throughout the [[Gullah/Geechee Cultural Heritage Corridor]], including [[Savannah red rice]] and Charleston red rice.<ref name="Harris2011">{{cite book|last=Harris|first=Jessica B.|author-link=Jessica B. Harris|title=[[High on the Hog: A Culinary Journey from Africa to America]]|year=2011|publisher=Bloomsbury USA|isbn=978-1-59691-395-0|pages=[https://archive.org/details/highonhogculinar00harr_0/page/71 71]–}} -  Registration required</ref><ref name="RosengartenRosengarten2008">{{cite book|author1=Dale Rosengarten|author2=Theodore Rosengarten|author3=Enid Schildkrout|author4=Judith Ann Carney|title=Grass roots: African origins of an American art|url=https://books.google.com/books?id=HqfYAAAAMAAJ|date=30 September 2008|publisher=Museum for African Art|isbn=978-0-945802-50-1|pages=123, 125}}</ref>
+
+== Recipe ==
+It is a preparation of fresh or dried fish, and broken rice (rice Wolof), cooked with vegetables (such as cassava, pumpkin, cabbage, carrot, turnip, or eggplant), parsley, tomato paste, peppers, garlic and onions.<ref>{{Cite web |last= |date=2022-06-04 |title=Tiebou dieun |url=https://termcoord.eu/2022/06/i-ate-food-term-of-the-week-tiebou-dieun/ |access-date=2023-09-18 |website=[[European Parliament]] |language=en-GB}}</ref>  Originally made with fish, it is not unusual to see it served with beef or chicken.
+
+== Variations ==
+
+=== By country ===
+Originally from Senegal, the traditional recipe includes fish, rice, tomato and onions. Thieboudienne is sometimes called benechin in Senegal which means 'one pot' in Wolof. However, tiep is commonly consumed in several countries in [[West Africa]]. Depending on the country, the recipe and the ingredients change—even the method of cooking can differ. In Mali, tiep is known as ''tieb'', a dish consisting of chicken, rice and vegetables such as a tomato and onion base. [[Jollof rice|Jollof]] rice which derived from tiep is a popular dish especially in Nigeria and Ghana. In Cameroon, Guinea and Ivory Coast the dish is called ''riz gras''. The components are similar to the original recipe's ingredients with the inclusion of tomatoes, rice and onions. 
+
+=== By ethnicity ===
+Senegal's distinctive ethnic groups have their own variations on cuisine and eating habits, influenced either by proximity to the ocean or the traditions of nomadism and cattle raising. For instance, people from southern Senegal usually also add some bissap while people from [[Dakar]] and [[Saint-Louis, Senegal|Saint-Louis]] will use some ''soul'' (Wolof).  The dish is considered an intangible cultural heritage of humanity.<ref>{{Cite web |title=UNESCO - Ceebu Jën, a culinary art of Senegal |url=https://ich.unesco.org/en/RL/ceebu-jen-a-culinary-art-of-senegal-01748 |access-date=2024-03-29 |website=ich.unesco.org |language=en}}</ref> 
+
+==Other renderings==
+Other renderings of the name include: ''ceebu jen'', ''cee bu jen'', ''ceeb u jen'', ''thebouidienne'', ''theibou dienn'', ''thiebou dienn'', ''thiebou dinne'', ''thiébou dieune'', ''tíe biou dienne'', ''thieb-ou-djien'', ''thiebu djen'' or ''riz au poisson''.<ref name="Wells2007"/>
+
+==See also==
+{{Portal|Senegal|Food}}
+
+* [[Couscous]]
+*[[Cuisine of Senegal]]
+* [[Paprykarz szczeciński]]
+* [[List of stews]]
+* [[List of African dishes]]
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* [http://www.worldtravelguide.net/senegal: Senegal Travel Guide], World Travel Guide
+* [http://apps.fas.usda.gov/gainfiles/200701/146279961.pdf:Senegal agricultural situation country report]{{dead link|date=June 2025|bot=medic}}{{cbignore|bot=medic}}, USDA Foreign Agricultural Service, Mbalo Ndiaye, 2007
+* [http://www.our-africa.org/senegal/food-daily-life: Food and daily life], Our Africa
+* [http://digitalcollections.sit.edu/isp_collection/669/ Duffy, Megan, "Ceeb ak Jën: Deconstructing Senegal’s National Plate in Search of Cultural Values" (2009). ''Independent Study Project (ISP) Collection''. Paper 669.]
+
+{{African cuisine}}
+
+[[Category:Senegalese cuisine]]
+[[Category:Mauritanian cuisine]]
+[[Category:Malian cuisine]]
+[[Category:Nigerian cuisine]]
+[[Category:Guinean cuisine]]
+[[Category:Gambian cuisine]]
+[[Category:Cameroonian cuisine]]
+[[Category:Fish dishes]]
+[[Category:Seafood and rice dishes]]
